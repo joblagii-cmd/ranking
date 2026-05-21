@@ -1,0 +1,93 @@
+{
+  "slug": "narayana-health-radiologist-noida-2026-05-21-4",
+  "title": "Principal Radiologist at Narayana Health",
+  "company": "Narayana Health",
+  "industry": "healthcare",
+  "role": "Radiologist",
+  "location": {
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Patient Care",
+    "Clinical Documentation",
+    "HIPAA Compliance",
+    "Surgical Procedures",
+    "Medical Coding",
+    "Medical Terminology",
+    "CPT Codes",
+    "Medical Ethics"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Principal Radiologist at Narayana Health",
+    "description": "Narayana Health has an exciting opening for a Radiologist at our Noida office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Narayana Health:\nNarayana Health is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Provide high-quality patient care and maintain patient records\n• Monitor patient progress and adjust treatment plans accordingly\n• Maintain accurate clinical documentation in electronic health records\n• Participate in quality improvement initiatives and clinical audits\n• Maintain sterile environments and follow infection control protocols\n• Adhere to NABH/JCI accreditation standards\n• Collaborate with pharmaceutical representatives and medical suppliers\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 10-15 years of relevant experience\n• Proficiency in Patient Care\n• Proficiency in Clinical Documentation\n• Proficiency in HIPAA Compliance\n• Proficiency in Surgical Procedures\n• Proficiency in Medical Coding\n• Proficiency in Medical Terminology\n• Proficiency in CPT Codes\n• Proficiency in Medical Ethics\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Employee stock options (ESOPs) for eligible roles\n• Recognition and rewards programs\n• International travel opportunities for senior roles\n• Modern office with recreational facilities\n• Maternity and paternity leave\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Noida, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Narayana Health!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Narayana Health",
+      "value": "220-4-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Narayana Health",
+      "sameAs": "https://www.google.com/search?q=Narayana%20Health",
+      "logo": "https://logo.clearbit.com/narayanahealth.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Narayana Health Office",
+        "addressLocality": "Noida",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "Patient Care, Clinical Documentation, HIPAA Compliance, Surgical Procedures, Medical Coding, Medical Terminology, CPT Codes, Medical Ethics",
+    "responsibilities": "Provide high-quality patient care and maintain patient records. Monitor patient progress and adjust treatment plans accordingly. Maintain accurate clinical documentation in electronic health records. Participate in quality improvement initiatives and clinical audits. Maintain sterile environments and follow infection control protocols. Adhere to NABH/JCI accreditation standards. Collaborate with pharmaceutical representatives and medical suppliers",
+    "benefits": "Transportation and conveyance allowance. Employee stock options (ESOPs) for eligible roles. Recognition and rewards programs. International travel opportunities for senior roles. Modern office with recreational facilities. Maternity and paternity leave",
+    "industry": "healthcare",
+    "occupationalCategory": "Radiologist",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Employee stock options (ESOPs) for eligible roles, Recognition and rewards programs, International travel opportunities for senior roles, Modern office with recreational facilities, Maternity and paternity leave"
+  },
+  "meta": {
+    "description": "Narayana Health has an exciting opening for a Radiologist at our Noida office. Join a company that values innovation, collaboration, and continuous learning.",
+    "keywords": "Radiologist, Narayana Health, jobs in Noida, Uttar Pradesh jobs, healthcare jobs India, Patient Care, Clinical Documentation, HIPAA Compliance, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:08:48.821Z"
+}

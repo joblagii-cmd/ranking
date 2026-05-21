@@ -1,0 +1,92 @@
+{
+  "slug": "mobikwik-financial-analyst-vijayawada-2026-05-21-0",
+  "title": "Career Opportunity Financial Analyst at MobiKwik",
+  "company": "MobiKwik",
+  "industry": "finance",
+  "role": "Financial Analyst",
+  "location": {
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Python for Finance",
+    "MS Excel",
+    "Tally",
+    "Ind AS",
+    "Risk Management",
+    "Budgeting",
+    "Financial Modeling",
+    "GST"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Career Opportunity Financial Analyst at MobiKwik",
+    "description": "We at MobiKwik are looking for an experienced Financial Analyst based out of Vijayawada. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout MobiKwik:\nMobiKwik is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure compliance with tax regulations and statutory requirements\n• Manage accounts payable and accounts receivable functions\n• Monitor market trends and provide investment recommendations\n• Prepare MIS reports for senior management review\n• Process payroll and manage employee reimbursements\n• Prepare annual reports and investor presentations\n• Manage credit risk assessment and loan appraisal processes\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 0-1 years of relevant experience\n• Proficiency in Python for Finance\n• Proficiency in MS Excel\n• Proficiency in Tally\n• Proficiency in Ind AS\n• Proficiency in Risk Management\n• Proficiency in Budgeting\n• Proficiency in Financial Modeling\n• Proficiency in GST\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Recognition and rewards programs\n• Annual paid leaves and casual leaves\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Meal coupons and food allowance\n• Work-from-home flexibility\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Vijayawada, Andhra Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with MobiKwik!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "MobiKwik",
+      "value": "211-0-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "MobiKwik",
+      "sameAs": "https://www.google.com/search?q=MobiKwik",
+      "logo": "https://logo.clearbit.com/mobikwik.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "MobiKwik Office",
+        "addressLocality": "Vijayawada",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Python for Finance, MS Excel, Tally, Ind AS, Risk Management, Budgeting, Financial Modeling, GST",
+    "responsibilities": "Ensure compliance with tax regulations and statutory requirements. Manage accounts payable and accounts receivable functions. Monitor market trends and provide investment recommendations. Prepare MIS reports for senior management review. Process payroll and manage employee reimbursements. Prepare annual reports and investor presentations. Manage credit risk assessment and loan appraisal processes",
+    "benefits": "Recognition and rewards programs. Annual paid leaves and casual leaves. Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Meal coupons and food allowance. Work-from-home flexibility",
+    "industry": "finance",
+    "occupationalCategory": "Financial Analyst",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Recognition and rewards programs, Annual paid leaves and casual leaves, Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Meal coupons and food allowance, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "We at MobiKwik are looking for an experienced Financial Analyst based out of Vijayawada. If you are a result-oriented professional with a passion for excellence",
+    "keywords": "Financial Analyst, MobiKwik, jobs in Vijayawada, Andhra Pradesh jobs, finance jobs India, Python for Finance, MS Excel, Tally, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:08:48.815Z"
+}

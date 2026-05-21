@@ -1,0 +1,92 @@
+{
+  "slug": "fortis-healthcare-surgeon-chandigarh-2026-05-21-3",
+  "title": "Surgeon Vacancy at Fortis Healthcare - 2026 Batch",
+  "company": "Fortis Healthcare",
+  "industry": "healthcare",
+  "role": "Surgeon",
+  "location": {
+    "city": "Chandigarh",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Medical Ethics",
+    "CPT Codes",
+    "Medical Coding",
+    "Wound Care",
+    "EMR/EHR",
+    "Clinical Documentation",
+    "Medical Terminology",
+    "Infection Control"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Surgeon Vacancy at Fortis Healthcare - 2026 Batch",
+    "description": "We at Fortis Healthcare are looking for an experienced Surgeon based out of Chandigarh. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout Fortis Healthcare:\nFortis Healthcare is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Diagnose and treat medical conditions following established protocols\n• Ensure patient privacy and maintain confidentiality\n• Attend continuing medical education programs and training\n• Maintain sterile environments and follow infection control protocols\n• Monitor patient progress and adjust treatment plans accordingly\n• Educate patients and families on health management and disease prevention\n• Provide high-quality patient care and maintain patient records\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 3-6 years of relevant experience\n• Proficiency in Medical Ethics\n• Proficiency in CPT Codes\n• Proficiency in Medical Coding\n• Proficiency in Wound Care\n• Proficiency in EMR/EHR\n• Proficiency in Clinical Documentation\n• Proficiency in Medical Terminology\n• Proficiency in Infection Control\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Work-from-home flexibility\n• Modern office with recreational facilities\n• Mobile and internet reimbursement\n• Comprehensive health insurance for self and family\n• Transportation and conveyance allowance\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Chandigarh, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Fortis Healthcare!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Fortis Healthcare",
+      "value": "217-3-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Fortis Healthcare",
+      "sameAs": "https://www.google.com/search?q=Fortis%20Healthcare",
+      "logo": "https://logo.clearbit.com/fortishealthcare.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Fortis Healthcare Office",
+        "addressLocality": "Chandigarh",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "Medical Ethics, CPT Codes, Medical Coding, Wound Care, EMR/EHR, Clinical Documentation, Medical Terminology, Infection Control",
+    "responsibilities": "Diagnose and treat medical conditions following established protocols. Ensure patient privacy and maintain confidentiality. Attend continuing medical education programs and training. Maintain sterile environments and follow infection control protocols. Monitor patient progress and adjust treatment plans accordingly. Educate patients and families on health management and disease prevention. Provide high-quality patient care and maintain patient records",
+    "benefits": "Competitive salary with performance-linked incentives. Work-from-home flexibility. Modern office with recreational facilities. Mobile and internet reimbursement. Comprehensive health insurance for self and family. Transportation and conveyance allowance",
+    "industry": "healthcare",
+    "occupationalCategory": "Surgeon",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Work-from-home flexibility, Modern office with recreational facilities, Mobile and internet reimbursement, Comprehensive health insurance for self and family, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "We at Fortis Healthcare are looking for an experienced Surgeon based out of Chandigarh. If you are a result-oriented professional with a passion for excellence,",
+    "keywords": "Surgeon, Fortis Healthcare, jobs in Chandigarh, Punjab jobs, healthcare jobs India, Medical Ethics, CPT Codes, Medical Coding, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:08:48.820Z"
+}

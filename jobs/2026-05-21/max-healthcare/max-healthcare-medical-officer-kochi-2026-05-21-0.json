@@ -1,0 +1,93 @@
+{
+  "slug": "max-healthcare-medical-officer-kochi-2026-05-21-0",
+  "title": "Career Opportunity Medical Officer at Max Healthcare",
+  "company": "Max Healthcare",
+  "industry": "healthcare",
+  "role": "Medical Officer",
+  "location": {
+    "city": "Kochi",
+    "state": "Kerala",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Surgical Procedures",
+    "HIPAA Compliance",
+    "BLS/ACLS",
+    "Medical Coding",
+    "ICD-10",
+    "Infection Control",
+    "Patient Care",
+    "NABH Standards"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Career Opportunity Medical Officer at Max Healthcare",
+    "description": "We at Max Healthcare are looking for an experienced Medical Officer based out of Kochi. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout Max Healthcare:\nMax Healthcare is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Respond to medical emergencies and provide immediate care\n• Maintain sterile environments and follow infection control protocols\n• Monitor patient progress and adjust treatment plans accordingly\n• Maintain accurate clinical documentation in electronic health records\n• Administer medications and treatments as prescribed\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Diagnose and treat medical conditions following established protocols\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 10-15 years of relevant experience\n• Proficiency in Surgical Procedures\n• Proficiency in HIPAA Compliance\n• Proficiency in BLS/ACLS\n• Proficiency in Medical Coding\n• Proficiency in ICD-10\n• Proficiency in Infection Control\n• Proficiency in Patient Care\n• Proficiency in NABH Standards\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Work-from-home flexibility\n• Annual paid leaves and casual leaves\n• Provident Fund and Gratuity as per company policy\n• Mobile and internet reimbursement\n• Modern office with recreational facilities\n• Maternity and paternity leave\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Kochi, Kerala, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Max Healthcare!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Max Healthcare",
+      "value": "218-0-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Max Healthcare",
+      "sameAs": "https://www.google.com/search?q=Max%20Healthcare",
+      "logo": "https://logo.clearbit.com/maxhealthcare.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Max Healthcare Office",
+        "addressLocality": "Kochi",
+        "addressRegion": "Kerala",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "Surgical Procedures, HIPAA Compliance, BLS/ACLS, Medical Coding, ICD-10, Infection Control, Patient Care, NABH Standards",
+    "responsibilities": "Respond to medical emergencies and provide immediate care. Maintain sterile environments and follow infection control protocols. Monitor patient progress and adjust treatment plans accordingly. Maintain accurate clinical documentation in electronic health records. Administer medications and treatments as prescribed. Coordinate with multidisciplinary teams for comprehensive patient management. Diagnose and treat medical conditions following established protocols",
+    "benefits": "Work-from-home flexibility. Annual paid leaves and casual leaves. Provident Fund and Gratuity as per company policy. Mobile and internet reimbursement. Modern office with recreational facilities. Maternity and paternity leave",
+    "industry": "healthcare",
+    "occupationalCategory": "Medical Officer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Annual paid leaves and casual leaves, Provident Fund and Gratuity as per company policy, Mobile and internet reimbursement, Modern office with recreational facilities, Maternity and paternity leave"
+  },
+  "meta": {
+    "description": "We at Max Healthcare are looking for an experienced Medical Officer based out of Kochi. If you are a result-oriented professional with a passion for excellence,",
+    "keywords": "Medical Officer, Max Healthcare, jobs in Kochi, Kerala jobs, healthcare jobs India, Surgical Procedures, HIPAA Compliance, BLS/ACLS, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:08:48.820Z"
+}
