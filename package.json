@@ -1,0 +1,24 @@
+{
+  "name": "job-poster-india",
+  "version": "1.0.0",
+  "description": "Automated job posting engine - 25,000 posts/day for 5,000 Indian companies with JSON-LD JobPosting schema",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod",
+    "test:generate": "node scripts/test-generate.js",
+    "test:batch": "node scripts/test-batch.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "job-posting",
+    "schema.org",
+    "india-jobs",
+    "json-ld",
+    "vercel-cron",
+    "automated"
+  ],
+  "license": "MIT"
+}
