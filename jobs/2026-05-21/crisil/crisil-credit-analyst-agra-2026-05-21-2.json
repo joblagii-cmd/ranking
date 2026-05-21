@@ -1,0 +1,93 @@
+{
+  "slug": "crisil-credit-analyst-agra-2026-05-21-2",
+  "title": "CRISIL is Hiring: Credit Analyst (Lead)",
+  "company": "CRISIL",
+  "industry": "finance",
+  "role": "Credit Analyst",
+  "location": {
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "IFRS",
+    "SAP FICO",
+    "SQL",
+    "Tally",
+    "VBA",
+    "Financial Reporting",
+    "Budgeting",
+    "Credit Analysis"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "CRISIL is Hiring: Credit Analyst (Lead)",
+    "description": "CRISIL is actively seeking a talented and motivated Credit Analyst to join our dynamic team in Agra. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout CRISIL:\nCRISIL is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Implement and maintain internal controls and audit procedures\n• Develop financial models and projections for business planning\n• Prepare MIS reports for senior management review\n• Prepare annual reports and investor presentations\n• Prepare and analyze financial statements, reports, and budgets\n• Manage credit risk assessment and loan appraisal processes\n• Monitor financial performance against targets and provide variance analysis\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 3-6 years of relevant experience\n• Proficiency in IFRS\n• Proficiency in SAP FICO\n• Proficiency in SQL\n• Proficiency in Tally\n• Proficiency in VBA\n• Proficiency in Financial Reporting\n• Proficiency in Budgeting\n• Proficiency in Credit Analysis\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Maternity and paternity leave\n• Competitive salary with performance-linked incentives\n• Flexible working hours\n• Meal coupons and food allowance\n• Annual paid leaves and casual leaves\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Agra, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with CRISIL!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "CRISIL",
+      "value": "181-2-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "CRISIL",
+      "sameAs": "https://www.google.com/search?q=CRISIL",
+      "logo": "https://logo.clearbit.com/crisil.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "CRISIL Office",
+        "addressLocality": "Agra",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "IFRS, SAP FICO, SQL, Tally, VBA, Financial Reporting, Budgeting, Credit Analysis",
+    "responsibilities": "Implement and maintain internal controls and audit procedures. Develop financial models and projections for business planning. Prepare MIS reports for senior management review. Prepare annual reports and investor presentations. Prepare and analyze financial statements, reports, and budgets. Manage credit risk assessment and loan appraisal processes. Monitor financial performance against targets and provide variance analysis",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Maternity and paternity leave. Competitive salary with performance-linked incentives. Flexible working hours. Meal coupons and food allowance. Annual paid leaves and casual leaves",
+    "industry": "finance",
+    "occupationalCategory": "Credit Analyst",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Maternity and paternity leave, Competitive salary with performance-linked incentives, Flexible working hours, Meal coupons and food allowance, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "CRISIL is actively seeking a talented and motivated Credit Analyst to join our dynamic team in Agra. This is an excellent opportunity for professionals who are ",
+    "keywords": "Credit Analyst, CRISIL, jobs in Agra, Uttar Pradesh jobs, finance jobs India, IFRS, SAP FICO, SQL, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:07:58.537Z"
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "ey-india-investment-banker-varanasi-2026-05-21-4",
+  "title": "Lead Investment Banker at EY India",
+  "company": "EY India",
+  "industry": "finance",
+  "role": "Investment Banker",
+  "location": {
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Financial Modeling",
+    "MS Excel",
+    "Python for Finance",
+    "Tally",
+    "Financial Reporting",
+    "GST",
+    "Power BI",
+    "SAP FICO"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Lead Investment Banker at EY India",
+    "description": "EY India is actively seeking a talented and motivated Investment Banker to join our dynamic team in Varanasi. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout EY India:\nEY India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Prepare and analyze financial statements, reports, and budgets\n• Prepare MIS reports for senior management review\n• Process payroll and manage employee reimbursements\n• Monitor financial performance against targets and provide variance analysis\n• Implement and maintain internal controls and audit procedures\n• Monitor market trends and provide investment recommendations\n• Manage credit risk assessment and loan appraisal processes\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 6-10 years of relevant experience\n• Proficiency in Financial Modeling\n• Proficiency in MS Excel\n• Proficiency in Python for Finance\n• Proficiency in Tally\n• Proficiency in Financial Reporting\n• Proficiency in GST\n• Proficiency in Power BI\n• Proficiency in SAP FICO\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Professional development and training programs\n• Employee stock options (ESOPs) for eligible roles\n• Annual paid leaves and casual leaves\n• Flexible working hours\n• Maternity and paternity leave\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Varanasi, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with EY India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "EY India",
+      "value": "189-4-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "EY India",
+      "sameAs": "https://www.google.com/search?q=EY%20India",
+      "logo": "https://logo.clearbit.com/eyindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "EY India Office",
+        "addressLocality": "Varanasi",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "Financial Modeling, MS Excel, Python for Finance, Tally, Financial Reporting, GST, Power BI, SAP FICO",
+    "responsibilities": "Prepare and analyze financial statements, reports, and budgets. Prepare MIS reports for senior management review. Process payroll and manage employee reimbursements. Monitor financial performance against targets and provide variance analysis. Implement and maintain internal controls and audit procedures. Monitor market trends and provide investment recommendations. Manage credit risk assessment and loan appraisal processes",
+    "benefits": "Professional development and training programs. Employee stock options (ESOPs) for eligible roles. Annual paid leaves and casual leaves. Flexible working hours. Maternity and paternity leave. Provident Fund and Gratuity as per company policy",
+    "industry": "finance",
+    "occupationalCategory": "Investment Banker",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Employee stock options (ESOPs) for eligible roles, Annual paid leaves and casual leaves, Flexible working hours, Maternity and paternity leave, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "EY India is actively seeking a talented and motivated Investment Banker to join our dynamic team in Varanasi. This is an excellent opportunity for professionals",
+    "keywords": "Investment Banker, EY India, jobs in Varanasi, Uttar Pradesh jobs, finance jobs India, Financial Modeling, MS Excel, Python for Finance, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:07:58.543Z"
+}

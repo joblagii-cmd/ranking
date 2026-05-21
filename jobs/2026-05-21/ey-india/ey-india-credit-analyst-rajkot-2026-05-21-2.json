@@ -1,0 +1,92 @@
+{
+  "slug": "ey-india-credit-analyst-rajkot-2026-05-21-2",
+  "title": "EY India is Hiring: Credit Analyst (Lead)",
+  "company": "EY India",
+  "industry": "finance",
+  "role": "Credit Analyst",
+  "location": {
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Forecasting",
+    "SQL",
+    "IFRS",
+    "Power BI",
+    "Financial Modeling",
+    "Risk Management",
+    "GST",
+    "Due Diligence"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "EY India is Hiring: Credit Analyst (Lead)",
+    "description": "EY India is actively seeking a talented and motivated Credit Analyst to join our dynamic team in Rajkot. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout EY India:\nEY India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Manage credit risk assessment and loan appraisal processes\n• Implement and maintain internal controls and audit procedures\n• Maintain general ledger and ensure accurate bookkeeping\n• Develop financial models and projections for business planning\n• Prepare and analyze financial statements, reports, and budgets\n• Monitor financial performance against targets and provide variance analysis\n• Liaise with banks, regulators, and financial institutions\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 12-20 years of relevant experience\n• Proficiency in Forecasting\n• Proficiency in SQL\n• Proficiency in IFRS\n• Proficiency in Power BI\n• Proficiency in Financial Modeling\n• Proficiency in Risk Management\n• Proficiency in GST\n• Proficiency in Due Diligence\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Recognition and rewards programs\n• Annual paid leaves and casual leaves\n• Provident Fund and Gratuity as per company policy\n• Modern office with recreational facilities\n• Flexible working hours\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Rajkot, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with EY India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "EY India",
+      "value": "189-2-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "EY India",
+      "sameAs": "https://www.google.com/search?q=EY%20India",
+      "logo": "https://logo.clearbit.com/eyindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "EY India Office",
+        "addressLocality": "Rajkot",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "Forecasting, SQL, IFRS, Power BI, Financial Modeling, Risk Management, GST, Due Diligence",
+    "responsibilities": "Manage credit risk assessment and loan appraisal processes. Implement and maintain internal controls and audit procedures. Maintain general ledger and ensure accurate bookkeeping. Develop financial models and projections for business planning. Prepare and analyze financial statements, reports, and budgets. Monitor financial performance against targets and provide variance analysis. Liaise with banks, regulators, and financial institutions",
+    "benefits": "Work-from-home flexibility. Recognition and rewards programs. Annual paid leaves and casual leaves. Provident Fund and Gratuity as per company policy. Modern office with recreational facilities. Flexible working hours",
+    "industry": "finance",
+    "occupationalCategory": "Credit Analyst",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Recognition and rewards programs, Annual paid leaves and casual leaves, Provident Fund and Gratuity as per company policy, Modern office with recreational facilities, Flexible working hours"
+  },
+  "meta": {
+    "description": "EY India is actively seeking a talented and motivated Credit Analyst to join our dynamic team in Rajkot. This is an excellent opportunity for professionals who ",
+    "keywords": "Credit Analyst, EY India, jobs in Rajkot, Gujarat jobs, finance jobs India, Forecasting, SQL, IFRS, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:07:58.543Z"
+}
