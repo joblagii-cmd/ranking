@@ -1,0 +1,93 @@
+{
+  "slug": "patni-computer-systems-backend-developer-chennai-2026-05-21-3",
+  "title": "Backend Developer Vacancy at Patni Computer Systems - 2026 Batch",
+  "company": "Patni Computer Systems",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "CI/CD",
+    "Java",
+    "Rust",
+    "Node.js",
+    "Microservices",
+    "SQL",
+    "TypeScript",
+    "React"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Patni Computer Systems - 2026 Batch",
+    "description": "An exciting career opportunity awaits you at Patni Computer Systems. We are on the lookout for a dedicated Backend Developer to strengthen our Chennai-based team.\n\nAbout Patni Computer Systems:\nPatni Computer Systems is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Contribute to system architecture and technical design decisions\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Collaborate with cross-functional teams including product, design, and QA\n• Optimize application performance and ensure high availability\n• Implement new features based on product requirements\n• Participate in code reviews and contribute to technical discussions\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 3-6 years of relevant experience\n• Proficiency in CI/CD\n• Proficiency in Java\n• Proficiency in Rust\n• Proficiency in Node.js\n• Proficiency in Microservices\n• Proficiency in SQL\n• Proficiency in TypeScript\n• Proficiency in React\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Recognition and rewards programs\n• International travel opportunities for senior roles\n• Employee stock options (ESOPs) for eligible roles\n• Mobile and internet reimbursement\n• Flexible working hours\n• Company-sponsored certifications\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Chennai, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Patni Computer Systems!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Patni Computer Systems",
+      "value": "68-3-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Patni Computer Systems",
+      "sameAs": "https://www.google.com/search?q=Patni%20Computer%20Systems",
+      "logo": "https://logo.clearbit.com/patnicomputersystems.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Patni Computer Systems Office",
+        "addressLocality": "Chennai",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "CI/CD, Java, Rust, Node.js, Microservices, SQL, TypeScript, React",
+    "responsibilities": "Design, develop and maintain scalable software applications. Contribute to system architecture and technical design decisions. Mentor junior developers and conduct knowledge-sharing sessions. Collaborate with cross-functional teams including product, design, and QA. Optimize application performance and ensure high availability. Implement new features based on product requirements. Participate in code reviews and contribute to technical discussions",
+    "benefits": "Recognition and rewards programs. International travel opportunities for senior roles. Employee stock options (ESOPs) for eligible roles. Mobile and internet reimbursement. Flexible working hours. Company-sponsored certifications",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Recognition and rewards programs, International travel opportunities for senior roles, Employee stock options (ESOPs) for eligible roles, Mobile and internet reimbursement, Flexible working hours, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Patni Computer Systems. We are on the lookout for a dedicated Backend Developer to strengthen our Chennai-based tea",
+    "keywords": "Backend Developer, Patni Computer Systems, jobs in Chennai, Tamil Nadu jobs, technology jobs India, CI/CD, Java, Rust, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:04:27.462Z"
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "niit-frontend-developer-kolkata-2026-05-21-4",
+  "title": "Mid-Level Frontend Developer at NIIT",
+  "company": "NIIT",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "TypeScript",
+    "MongoDB",
+    "Rust",
+    "Java",
+    "Go",
+    "Agile/Scrum",
+    "CI/CD",
+    "SQL"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Frontend Developer at NIIT",
+    "description": "An exciting career opportunity awaits you at NIIT. We are on the lookout for a dedicated Frontend Developer to strengthen our Kolkata-based team.\n\nAbout NIIT:\nNIIT is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Contribute to system architecture and technical design decisions\n• Write and execute unit tests and integration tests\n• Collaborate with cross-functional teams including product, design, and QA\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Participate in code reviews and contribute to technical discussions\n• Integrate third-party APIs and services\n• Implement new features based on product requirements\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 0-1 years of relevant experience\n• Proficiency in TypeScript\n• Proficiency in MongoDB\n• Proficiency in Rust\n• Proficiency in Java\n• Proficiency in Go\n• Proficiency in Agile/Scrum\n• Proficiency in CI/CD\n• Proficiency in SQL\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Life and accident insurance\n• Competitive salary with performance-linked incentives\n• Learning & development budget\n• Meal coupons and food allowance\n• Work-from-home flexibility\n• Company-sponsored certifications\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Kolkata, West Bengal, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with NIIT!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "NIIT",
+      "value": "69-4-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "NIIT",
+      "sameAs": "https://www.google.com/search?q=NIIT",
+      "logo": "https://logo.clearbit.com/niit.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "NIIT Office",
+        "addressLocality": "Kolkata",
+        "addressRegion": "West Bengal",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "TypeScript, MongoDB, Rust, Java, Go, Agile/Scrum, CI/CD, SQL",
+    "responsibilities": "Contribute to system architecture and technical design decisions. Write and execute unit tests and integration tests. Collaborate with cross-functional teams including product, design, and QA. Work with agile methodologies including daily stand-ups and sprint planning. Participate in code reviews and contribute to technical discussions. Integrate third-party APIs and services. Implement new features based on product requirements",
+    "benefits": "Life and accident insurance. Competitive salary with performance-linked incentives. Learning & development budget. Meal coupons and food allowance. Work-from-home flexibility. Company-sponsored certifications",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Competitive salary with performance-linked incentives, Learning & development budget, Meal coupons and food allowance, Work-from-home flexibility, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at NIIT. We are on the lookout for a dedicated Frontend Developer to strengthen our Kolkata-based team.",
+    "keywords": "Frontend Developer, NIIT, jobs in Kolkata, West Bengal jobs, technology jobs India, TypeScript, MongoDB, Rust, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:04:27.462Z"
+}

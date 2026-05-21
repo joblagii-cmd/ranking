@@ -1,0 +1,92 @@
+{
+  "slug": "aptech-software-engineer-chennai-2026-05-21-0",
+  "title": "Immediate Requirement Software Engineer at Aptech",
+  "company": "Aptech",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "AWS",
+    "Node.js",
+    "Agile/Scrum",
+    "Rust",
+    "React",
+    "Go",
+    "Microservices",
+    "TensorFlow"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Immediate Requirement Software Engineer at Aptech",
+    "description": "An exciting career opportunity awaits you at Aptech. We are on the lookout for a dedicated Software Engineer to strengthen our Chennai-based team.\n\nAbout Aptech:\nAptech is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Integrate third-party APIs and services\n• Ensure code security and follow best practices for data protection\n• Implement new features based on product requirements\n• Collaborate with cross-functional teams including product, design, and QA\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Contribute to system architecture and technical design decisions\n• Write and execute unit tests and integration tests\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 6-10 years of relevant experience\n• Proficiency in AWS\n• Proficiency in Node.js\n• Proficiency in Agile/Scrum\n• Proficiency in Rust\n• Proficiency in React\n• Proficiency in Go\n• Proficiency in Microservices\n• Proficiency in TensorFlow\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Life and accident insurance\n• Work-from-home flexibility\n• Professional development and training programs\n• Provident Fund and Gratuity as per company policy\n• Transportation and conveyance allowance\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Chennai, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Aptech!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Aptech",
+      "value": "70-0-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Aptech",
+      "sameAs": "https://www.google.com/search?q=Aptech",
+      "logo": "https://logo.clearbit.com/aptech.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Aptech Office",
+        "addressLocality": "Chennai",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "AWS, Node.js, Agile/Scrum, Rust, React, Go, Microservices, TensorFlow",
+    "responsibilities": "Integrate third-party APIs and services. Ensure code security and follow best practices for data protection. Implement new features based on product requirements. Collaborate with cross-functional teams including product, design, and QA. Mentor junior developers and conduct knowledge-sharing sessions. Contribute to system architecture and technical design decisions. Write and execute unit tests and integration tests",
+    "benefits": "International travel opportunities for senior roles. Life and accident insurance. Work-from-home flexibility. Professional development and training programs. Provident Fund and Gratuity as per company policy. Transportation and conveyance allowance",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Life and accident insurance, Work-from-home flexibility, Professional development and training programs, Provident Fund and Gratuity as per company policy, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Aptech. We are on the lookout for a dedicated Software Engineer to strengthen our Chennai-based team.",
+    "keywords": "Software Engineer, Aptech, jobs in Chennai, Tamil Nadu jobs, technology jobs India, AWS, Node.js, Agile/Scrum, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:04:27.462Z"
+}

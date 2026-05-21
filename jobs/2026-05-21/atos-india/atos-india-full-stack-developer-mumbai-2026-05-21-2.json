@@ -1,0 +1,93 @@
+{
+  "slug": "atos-india-full-stack-developer-mumbai-2026-05-21-2",
+  "title": "Atos India is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "Atos India",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Docker",
+    "JavaScript",
+    "AWS",
+    "SQL",
+    "Python",
+    "React",
+    "TypeScript",
+    "Microservices"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Atos India is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "An exciting career opportunity awaits you at Atos India. We are on the lookout for a dedicated Full Stack Developer to strengthen our Mumbai-based team.\n\nAbout Atos India:\nAtos India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Ensure code security and follow best practices for data protection\n• Participate in on-call rotation for production support\n• Design, develop and maintain scalable software applications\n• Implement new features based on product requirements\n• Write clean, maintainable, and well-documented code\n• Collaborate with cross-functional teams including product, design, and QA\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 10-15 years of relevant experience\n• Proficiency in Docker\n• Proficiency in JavaScript\n• Proficiency in AWS\n• Proficiency in SQL\n• Proficiency in Python\n• Proficiency in React\n• Proficiency in TypeScript\n• Proficiency in Microservices\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Annual performance appraisal\n• Recognition and rewards programs\n• Provident Fund and Gratuity as per company policy\n• Meal coupons and food allowance\n• Work-from-home flexibility\n• Annual paid leaves and casual leaves\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Mumbai, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Atos India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Atos India",
+      "value": "62-2-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Atos India",
+      "sameAs": "https://www.google.com/search?q=Atos%20India",
+      "logo": "https://logo.clearbit.com/atosindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Atos India Office",
+        "addressLocality": "Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "Docker, JavaScript, AWS, SQL, Python, React, TypeScript, Microservices",
+    "responsibilities": "Work with agile methodologies including daily stand-ups and sprint planning. Ensure code security and follow best practices for data protection. Participate in on-call rotation for production support. Design, develop and maintain scalable software applications. Implement new features based on product requirements. Write clean, maintainable, and well-documented code. Collaborate with cross-functional teams including product, design, and QA",
+    "benefits": "Annual performance appraisal. Recognition and rewards programs. Provident Fund and Gratuity as per company policy. Meal coupons and food allowance. Work-from-home flexibility. Annual paid leaves and casual leaves",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual performance appraisal, Recognition and rewards programs, Provident Fund and Gratuity as per company policy, Meal coupons and food allowance, Work-from-home flexibility, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Atos India. We are on the lookout for a dedicated Full Stack Developer to strengthen our Mumbai-based team.",
+    "keywords": "Full Stack Developer, Atos India, jobs in Mumbai, Maharashtra jobs, technology jobs India, Docker, JavaScript, AWS, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:04:27.458Z"
+}

@@ -1,0 +1,92 @@
+{
+  "slug": "patni-computer-systems-senior-software-engineer-hyderabad-2026-05-21-1",
+  "title": "Senior Software Engineer - Patni Computer Systems - Experienced Professionals",
+  "company": "Patni Computer Systems",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "JavaScript",
+    "Git",
+    "AWS",
+    "CI/CD",
+    "Python",
+    "React",
+    "MongoDB",
+    "Node.js"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Patni Computer Systems - Experienced Professionals",
+    "description": "An exciting career opportunity awaits you at Patni Computer Systems. We are on the lookout for a dedicated Senior Software Engineer to strengthen our Hyderabad-based team.\n\nAbout Patni Computer Systems:\nPatni Computer Systems is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Contribute to system architecture and technical design decisions\n• Write clean, maintainable, and well-documented code\n• Design, develop and maintain scalable software applications\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Integrate third-party APIs and services\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Optimize application performance and ensure high availability\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 12-20 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Git\n• Proficiency in AWS\n• Proficiency in CI/CD\n• Proficiency in Python\n• Proficiency in React\n• Proficiency in MongoDB\n• Proficiency in Node.js\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Professional development and training programs\n• Learning & development budget\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Employee stock options (ESOPs) for eligible roles\n• Maternity and paternity leave\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Hyderabad, Telangana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Patni Computer Systems!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Patni Computer Systems",
+      "value": "68-1-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Patni Computer Systems",
+      "sameAs": "https://www.google.com/search?q=Patni%20Computer%20Systems",
+      "logo": "https://logo.clearbit.com/patnicomputersystems.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Patni Computer Systems Office",
+        "addressLocality": "Hyderabad",
+        "addressRegion": "Telangana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "JavaScript, Git, AWS, CI/CD, Python, React, MongoDB, Node.js",
+    "responsibilities": "Contribute to system architecture and technical design decisions. Write clean, maintainable, and well-documented code. Design, develop and maintain scalable software applications. Mentor junior developers and conduct knowledge-sharing sessions. Integrate third-party APIs and services. Troubleshoot, debug, and resolve software defects and performance issues. Optimize application performance and ensure high availability",
+    "benefits": "Professional development and training programs. Learning & development budget. Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Employee stock options (ESOPs) for eligible roles. Maternity and paternity leave",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Learning & development budget, Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Employee stock options (ESOPs) for eligible roles, Maternity and paternity leave"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Patni Computer Systems. We are on the lookout for a dedicated Senior Software Engineer to strengthen our Hyderabad-",
+    "keywords": "Senior Software Engineer, Patni Computer Systems, jobs in Hyderabad, Telangana jobs, technology jobs India, JavaScript, Git, AWS, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:04:27.462Z"
+}
