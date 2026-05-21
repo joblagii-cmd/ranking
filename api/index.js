@@ -130,6 +130,9 @@ function renderHTML(jobs, total, date, page, search, industry) {
 body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #F8FAFC; color: #1E293B; }
 
 /* Header */
+.nav { display:flex; gap:0.75rem; }
+.nav a { color:#94A3B8; text-decoration:none; font-size:0.9rem; padding:0.4rem 1rem; border-radius:8px; }
+.nav a:hover { background:#38BDF8; color:#0F172A; font-weight:600; }
 .header { background: #1E293B; color: white; padding: 1rem 2rem; display: flex; align-items: center; justify-content: space-between; }
 .logo { font-size: 1.5rem; font-weight: 700; color: #38BDF8; text-decoration: none; }
 .header-stats { font-size: 0.85rem; color: #94A3B8; }
