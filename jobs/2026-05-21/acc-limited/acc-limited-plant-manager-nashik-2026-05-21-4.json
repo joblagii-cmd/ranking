@@ -1,0 +1,93 @@
+{
+  "slug": "acc-limited-plant-manager-nashik-2026-05-21-4",
+  "title": "Mid-Level Plant Manager at ACC Limited",
+  "company": "ACC Limited",
+  "industry": "manufacturing",
+  "role": "Plant Manager",
+  "location": {
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Project Management",
+    "SAP MM/PP",
+    "Root Cause Analysis",
+    "SolidWorks",
+    "Quality Control",
+    "PLC/SCADA",
+    "Kaizen",
+    "AutoCAD"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Plant Manager at ACC Limited",
+    "description": "We at ACC Limited are looking for an experienced Plant Manager based out of Nashik. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout ACC Limited:\nACC Limited is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Manage supplier quality audits and vendor development\n• Manage raw material procurement and inventory levels\n• Ensure compliance with safety regulations and factory acts\n• Coordinate with logistics for dispatching finished goods\n• Maintain accurate production records and prepare daily reports\n• Implement 5S, Kaizen, and Six Sigma practices on the shop floor\n• Train and supervise shop floor workers and supervisors\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 10-15 years of relevant experience\n• Proficiency in Project Management\n• Proficiency in SAP MM/PP\n• Proficiency in Root Cause Analysis\n• Proficiency in SolidWorks\n• Proficiency in Quality Control\n• Proficiency in PLC/SCADA\n• Proficiency in Kaizen\n• Proficiency in AutoCAD\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Maternity and paternity leave\n• Referral bonus program\n• Modern office with recreational facilities\n• Annual performance appraisal\n• Recognition and rewards programs\n• Professional development and training programs\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Nashik, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with ACC Limited!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "ACC Limited",
+      "value": "432-4-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "ACC Limited",
+      "sameAs": "https://www.google.com/search?q=ACC%20Limited",
+      "logo": "https://logo.clearbit.com/acclimited.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "ACC Limited Office",
+        "addressLocality": "Nashik",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "Project Management, SAP MM/PP, Root Cause Analysis, SolidWorks, Quality Control, PLC/SCADA, Kaizen, AutoCAD",
+    "responsibilities": "Manage supplier quality audits and vendor development. Manage raw material procurement and inventory levels. Ensure compliance with safety regulations and factory acts. Coordinate with logistics for dispatching finished goods. Maintain accurate production records and prepare daily reports. Implement 5S, Kaizen, and Six Sigma practices on the shop floor. Train and supervise shop floor workers and supervisors",
+    "benefits": "Maternity and paternity leave. Referral bonus program. Modern office with recreational facilities. Annual performance appraisal. Recognition and rewards programs. Professional development and training programs",
+    "industry": "manufacturing",
+    "occupationalCategory": "Plant Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Maternity and paternity leave, Referral bonus program, Modern office with recreational facilities, Annual performance appraisal, Recognition and rewards programs, Professional development and training programs"
+  },
+  "meta": {
+    "description": "We at ACC Limited are looking for an experienced Plant Manager based out of Nashik. If you are a result-oriented professional with a passion for excellence, we ",
+    "keywords": "Plant Manager, ACC Limited, jobs in Nashik, Maharashtra jobs, manufacturing jobs India, Project Management, SAP MM/PP, Root Cause Analysis, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:15:34.035Z"
+}
