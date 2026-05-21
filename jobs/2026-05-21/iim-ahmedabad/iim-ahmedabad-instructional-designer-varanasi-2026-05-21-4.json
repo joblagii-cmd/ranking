@@ -1,0 +1,93 @@
+{
+  "slug": "iim-ahmedabad-instructional-designer-varanasi-2026-05-21-4",
+  "title": "Lead Instructional Designer at IIM Ahmedabad",
+  "company": "IIM Ahmedabad",
+  "industry": "education",
+  "role": "Instructional Designer",
+  "location": {
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "IB Curriculum",
+    "Curriculum Development",
+    "Student Assessment",
+    "E-learning",
+    "Mentoring",
+    "Lesson Planning",
+    "Classroom Management",
+    "Communication Skills"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Lead Instructional Designer at IIM Ahmedabad",
+    "description": "IIM Ahmedabad, one of India's leading organizations, is hiring a Instructional Designer for our Varanasi operations. We offer a competitive salary package along with world-class benefits.\n\nAbout IIM Ahmedabad:\nIIM Ahmedabad is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Support students with special educational needs\n• Utilize technology and digital tools to enhance learning outcomes\n• Maintain classroom discipline and create a positive learning environment\n• Maintain student records and prepare progress reports\n• Conduct parent-teacher meetings and update parents on student performance\n• Monitor student progress and provide timely feedback\n• Coordinate with academic counselors for student career guidance\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 0-1 years of relevant experience\n• Proficiency in IB Curriculum\n• Proficiency in Curriculum Development\n• Proficiency in Student Assessment\n• Proficiency in E-learning\n• Proficiency in Mentoring\n• Proficiency in Lesson Planning\n• Proficiency in Classroom Management\n• Proficiency in Communication Skills\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Comprehensive health insurance for self and family\n• Recognition and rewards programs\n• Employee stock options (ESOPs) for eligible roles\n• Life and accident insurance\n• Company-sponsored certifications\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Varanasi, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with IIM Ahmedabad!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "IIM Ahmedabad",
+      "value": "521-4-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "IIM Ahmedabad",
+      "sameAs": "https://www.google.com/search?q=IIM%20Ahmedabad",
+      "logo": "https://logo.clearbit.com/iimahmedabad.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "IIM Ahmedabad Office",
+        "addressLocality": "Varanasi",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "IB Curriculum, Curriculum Development, Student Assessment, E-learning, Mentoring, Lesson Planning, Classroom Management, Communication Skills",
+    "responsibilities": "Support students with special educational needs. Utilize technology and digital tools to enhance learning outcomes. Maintain classroom discipline and create a positive learning environment. Maintain student records and prepare progress reports. Conduct parent-teacher meetings and update parents on student performance. Monitor student progress and provide timely feedback. Coordinate with academic counselors for student career guidance",
+    "benefits": "Provident Fund and Gratuity as per company policy. Comprehensive health insurance for self and family. Recognition and rewards programs. Employee stock options (ESOPs) for eligible roles. Life and accident insurance. Company-sponsored certifications",
+    "industry": "education",
+    "occupationalCategory": "Instructional Designer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Comprehensive health insurance for self and family, Recognition and rewards programs, Employee stock options (ESOPs) for eligible roles, Life and accident insurance, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "IIM Ahmedabad, one of India's leading organizations, is hiring a Instructional Designer for our Varanasi operations. We offer a competitive salary package along",
+    "keywords": "Instructional Designer, IIM Ahmedabad, jobs in Varanasi, Uttar Pradesh jobs, education jobs India, IB Curriculum, Curriculum Development, Student Assessment, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:18:15.088Z"
+}

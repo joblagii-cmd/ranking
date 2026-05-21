@@ -1,0 +1,92 @@
+{
+  "slug": "bits-pilani-teacher-srinagar-2026-05-21-0",
+  "title": "Vacancy for Teacher at BITS Pilani",
+  "company": "BITS Pilani",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Srinagar",
+    "state": "Jammu & Kashmir",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Educational Technology",
+    "LMS Platforms",
+    "Student Assessment",
+    "Data Analysis",
+    "Classroom Management",
+    "Special Education",
+    "Research Skills",
+    "IB Curriculum"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Vacancy for Teacher at BITS Pilani",
+    "description": "BITS Pilani, one of India's leading organizations, is hiring a Teacher for our Srinagar operations. We offer a competitive salary package along with world-class benefits.\n\nAbout BITS Pilani:\nBITS Pilani is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Contribute to school newsletter, blogs, and other publications\n• Utilize technology and digital tools to enhance learning outcomes\n• Design formative and summative assessments aligned to learning objectives\n• Conduct doubt-clearing sessions and remedial classes for weak students\n• Develop and deliver engaging lesson plans for students\n• Support students with special educational needs\n• Create curriculum-aligned learning materials and assessments\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 10-15 years of relevant experience\n• Proficiency in Educational Technology\n• Proficiency in LMS Platforms\n• Proficiency in Student Assessment\n• Proficiency in Data Analysis\n• Proficiency in Classroom Management\n• Proficiency in Special Education\n• Proficiency in Research Skills\n• Proficiency in IB Curriculum\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Flexible working hours\n• Transportation and conveyance allowance\n• Employee stock options (ESOPs) for eligible roles\n• Company-sponsored certifications\n• International travel opportunities for senior roles\n• Recognition and rewards programs\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Srinagar, Jammu & Kashmir, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with BITS Pilani!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "BITS Pilani",
+      "value": "526-0-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "BITS Pilani",
+      "sameAs": "https://www.google.com/search?q=BITS%20Pilani",
+      "logo": "https://logo.clearbit.com/bitspilani.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "BITS Pilani Office",
+        "addressLocality": "Srinagar",
+        "addressRegion": "Jammu & Kashmir",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "Educational Technology, LMS Platforms, Student Assessment, Data Analysis, Classroom Management, Special Education, Research Skills, IB Curriculum",
+    "responsibilities": "Contribute to school newsletter, blogs, and other publications. Utilize technology and digital tools to enhance learning outcomes. Design formative and summative assessments aligned to learning objectives. Conduct doubt-clearing sessions and remedial classes for weak students. Develop and deliver engaging lesson plans for students. Support students with special educational needs. Create curriculum-aligned learning materials and assessments",
+    "benefits": "Flexible working hours. Transportation and conveyance allowance. Employee stock options (ESOPs) for eligible roles. Company-sponsored certifications. International travel opportunities for senior roles. Recognition and rewards programs",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, Transportation and conveyance allowance, Employee stock options (ESOPs) for eligible roles, Company-sponsored certifications, International travel opportunities for senior roles, Recognition and rewards programs"
+  },
+  "meta": {
+    "description": "BITS Pilani, one of India's leading organizations, is hiring a Teacher for our Srinagar operations. We offer a competitive salary package along with world-class",
+    "keywords": "Teacher, BITS Pilani, jobs in Srinagar, Jammu & Kashmir jobs, education jobs India, Educational Technology, LMS Platforms, Student Assessment, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:18:15.093Z"
+}
