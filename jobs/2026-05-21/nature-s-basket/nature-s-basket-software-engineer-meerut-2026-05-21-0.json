@@ -1,0 +1,92 @@
+{
+  "slug": "nature-s-basket-software-engineer-meerut-2026-05-21-0",
+  "title": "Opening for Software Engineer at Nature's Basket",
+  "company": "Nature's Basket",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "TensorFlow",
+    "SQL",
+    "TypeScript",
+    "Microservices",
+    "CI/CD",
+    "JavaScript",
+    "MongoDB",
+    "Docker"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Opening for Software Engineer at Nature's Basket",
+    "description": "Join the Nature's Basket family as a Software Engineer in Meerut. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Nature's Basket:\nNature's Basket is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Contribute to system architecture and technical design decisions\n• Design, develop and maintain scalable software applications\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Ensure code security and follow best practices for data protection\n• Optimize application performance and ensure high availability\n• Integrate third-party APIs and services\n• Work with agile methodologies including daily stand-ups and sprint planning\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 0-1 years of relevant experience\n• Proficiency in TensorFlow\n• Proficiency in SQL\n• Proficiency in TypeScript\n• Proficiency in Microservices\n• Proficiency in CI/CD\n• Proficiency in JavaScript\n• Proficiency in MongoDB\n• Proficiency in Docker\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Learning & development budget\n• Modern office with recreational facilities\n• Flexible working hours\n• Company-sponsored certifications\n• Employee stock options (ESOPs) for eligible roles\n• Annual paid leaves and casual leaves\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Meerut, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Nature's Basket!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Nature's Basket",
+      "value": "105-0-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Nature's Basket",
+      "sameAs": "https://www.google.com/search?q=Nature's%20Basket",
+      "logo": "https://logo.clearbit.com/naturesbasket.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Nature's Basket Office",
+        "addressLocality": "Meerut",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "TensorFlow, SQL, TypeScript, Microservices, CI/CD, JavaScript, MongoDB, Docker",
+    "responsibilities": "Contribute to system architecture and technical design decisions. Design, develop and maintain scalable software applications. Troubleshoot, debug, and resolve software defects and performance issues. Ensure code security and follow best practices for data protection. Optimize application performance and ensure high availability. Integrate third-party APIs and services. Work with agile methodologies including daily stand-ups and sprint planning",
+    "benefits": "Learning & development budget. Modern office with recreational facilities. Flexible working hours. Company-sponsored certifications. Employee stock options (ESOPs) for eligible roles. Annual paid leaves and casual leaves",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Learning & development budget, Modern office with recreational facilities, Flexible working hours, Company-sponsored certifications, Employee stock options (ESOPs) for eligible roles, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "Join the Nature's Basket family as a Software Engineer in Meerut. We believe in empowering our employees with the tools, training, and environment they need to ",
+    "keywords": "Software Engineer, Nature's Basket, jobs in Meerut, Uttar Pradesh jobs, technology jobs India, TensorFlow, SQL, TypeScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:05:39.129Z"
+}

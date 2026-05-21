@@ -1,0 +1,92 @@
+{
+  "slug": "nature-s-basket-backend-developer-rajkot-2026-05-21-3",
+  "title": "Backend Developer Vacancy at Nature's Basket - 2026 Batch",
+  "company": "Nature's Basket",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Node.js",
+    "JavaScript",
+    "MongoDB",
+    "TypeScript",
+    "Rust",
+    "Python",
+    "Git",
+    "Go"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Nature's Basket - 2026 Batch",
+    "description": "Nature's Basket invites applications from qualified candidates for the position of Backend Developer at our Rajkot location. This role offers excellent career advancement prospects.\n\nAbout Nature's Basket:\nNature's Basket is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Integrate third-party APIs and services\n• Implement new features based on product requirements\n• Contribute to system architecture and technical design decisions\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Collaborate with cross-functional teams including product, design, and QA\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Ensure code security and follow best practices for data protection\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 6-10 years of relevant experience\n• Proficiency in Node.js\n• Proficiency in JavaScript\n• Proficiency in MongoDB\n• Proficiency in TypeScript\n• Proficiency in Rust\n• Proficiency in Python\n• Proficiency in Git\n• Proficiency in Go\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Employee stock options (ESOPs) for eligible roles\n• Recognition and rewards programs\n• Annual performance appraisal\n• Flexible working hours\n• Transportation and conveyance allowance\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Rajkot, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Nature's Basket!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Nature's Basket",
+      "value": "105-3-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Nature's Basket",
+      "sameAs": "https://www.google.com/search?q=Nature's%20Basket",
+      "logo": "https://logo.clearbit.com/naturesbasket.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Nature's Basket Office",
+        "addressLocality": "Rajkot",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "Node.js, JavaScript, MongoDB, TypeScript, Rust, Python, Git, Go",
+    "responsibilities": "Integrate third-party APIs and services. Implement new features based on product requirements. Contribute to system architecture and technical design decisions. Work with agile methodologies including daily stand-ups and sprint planning. Collaborate with cross-functional teams including product, design, and QA. Mentor junior developers and conduct knowledge-sharing sessions. Ensure code security and follow best practices for data protection",
+    "benefits": "Work-from-home flexibility. Employee stock options (ESOPs) for eligible roles. Recognition and rewards programs. Annual performance appraisal. Flexible working hours. Transportation and conveyance allowance",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Employee stock options (ESOPs) for eligible roles, Recognition and rewards programs, Annual performance appraisal, Flexible working hours, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "Nature's Basket invites applications from qualified candidates for the position of Backend Developer at our Rajkot location. This role offers excellent career a",
+    "keywords": "Backend Developer, Nature's Basket, jobs in Rajkot, Gujarat jobs, technology jobs India, Node.js, JavaScript, MongoDB, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:05:39.129Z"
+}

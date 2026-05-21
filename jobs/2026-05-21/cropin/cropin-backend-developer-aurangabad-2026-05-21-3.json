@@ -1,0 +1,92 @@
+{
+  "slug": "cropin-backend-developer-aurangabad-2026-05-21-3",
+  "title": "Backend Developer Vacancy at Cropin - 2026 Batch",
+  "company": "Cropin",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Aurangabad",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Go",
+    "JavaScript",
+    "Node.js",
+    "Java",
+    "Microservices",
+    "MongoDB",
+    "Agile/Scrum",
+    "CI/CD"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Cropin - 2026 Batch",
+    "description": "Cropin invites applications from qualified candidates for the position of Backend Developer at our Aurangabad location. This role offers excellent career advancement prospects.\n\nAbout Cropin:\nCropin is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Optimize application performance and ensure high availability\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in code reviews and contribute to technical discussions\n• Write and execute unit tests and integration tests\n• Contribute to system architecture and technical design decisions\n• Work with agile methodologies including daily stand-ups and sprint planning\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 10-15 years of relevant experience\n• Proficiency in Go\n• Proficiency in JavaScript\n• Proficiency in Node.js\n• Proficiency in Java\n• Proficiency in Microservices\n• Proficiency in MongoDB\n• Proficiency in Agile/Scrum\n• Proficiency in CI/CD\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Modern office with recreational facilities\n• Employee stock options (ESOPs) for eligible roles\n• Professional development and training programs\n• Life and accident insurance\n• Learning & development budget\n• Annual performance appraisal\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Aurangabad, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Cropin!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Cropin",
+      "value": "109-3-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Cropin",
+      "sameAs": "https://www.google.com/search?q=Cropin",
+      "logo": "https://logo.clearbit.com/cropin.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Cropin Office",
+        "addressLocality": "Aurangabad",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "Go, JavaScript, Node.js, Java, Microservices, MongoDB, Agile/Scrum, CI/CD",
+    "responsibilities": "Optimize application performance and ensure high availability. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Collaborate with cross-functional teams including product, design, and QA. Participate in code reviews and contribute to technical discussions. Write and execute unit tests and integration tests. Contribute to system architecture and technical design decisions. Work with agile methodologies including daily stand-ups and sprint planning",
+    "benefits": "Modern office with recreational facilities. Employee stock options (ESOPs) for eligible roles. Professional development and training programs. Life and accident insurance. Learning & development budget. Annual performance appraisal",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Modern office with recreational facilities, Employee stock options (ESOPs) for eligible roles, Professional development and training programs, Life and accident insurance, Learning & development budget, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "Cropin invites applications from qualified candidates for the position of Backend Developer at our Aurangabad location. This role offers excellent career advanc",
+    "keywords": "Backend Developer, Cropin, jobs in Aurangabad, Maharashtra jobs, technology jobs India, Go, JavaScript, Node.js, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:05:39.131Z"
+}

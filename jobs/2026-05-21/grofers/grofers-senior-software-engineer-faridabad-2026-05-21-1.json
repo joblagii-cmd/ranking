@@ -1,0 +1,92 @@
+{
+  "slug": "grofers-senior-software-engineer-faridabad-2026-05-21-1",
+  "title": "Senior Software Engineer - Grofers - Top MNC",
+  "company": "Grofers",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Faridabad",
+    "state": "Haryana",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Java",
+    "CI/CD",
+    "TypeScript",
+    "Machine Learning",
+    "React",
+    "Agile/Scrum",
+    "SQL",
+    "REST APIs"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Grofers - Top MNC",
+    "description": "Join the Grofers family as a Senior Software Engineer in Faridabad. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Grofers:\nGrofers is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Implement new features based on product requirements\n• Write clean, maintainable, and well-documented code\n• Design, develop and maintain scalable software applications\n• Integrate third-party APIs and services\n• Contribute to system architecture and technical design decisions\n• Participate in code reviews and contribute to technical discussions\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 3-6 years of relevant experience\n• Proficiency in Java\n• Proficiency in CI/CD\n• Proficiency in TypeScript\n• Proficiency in Machine Learning\n• Proficiency in React\n• Proficiency in Agile/Scrum\n• Proficiency in SQL\n• Proficiency in REST APIs\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• Transportation and conveyance allowance\n• Life and accident insurance\n• Meal coupons and food allowance\n• Competitive salary with performance-linked incentives\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Faridabad, Haryana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Grofers!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Grofers",
+      "value": "102-1-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Grofers",
+      "sameAs": "https://www.google.com/search?q=Grofers",
+      "logo": "https://logo.clearbit.com/grofers.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Grofers Office",
+        "addressLocality": "Faridabad",
+        "addressRegion": "Haryana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Java, CI/CD, TypeScript, Machine Learning, React, Agile/Scrum, SQL, REST APIs",
+    "responsibilities": "Implement new features based on product requirements. Write clean, maintainable, and well-documented code. Design, develop and maintain scalable software applications. Integrate third-party APIs and services. Contribute to system architecture and technical design decisions. Participate in code reviews and contribute to technical discussions. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP",
+    "benefits": "Comprehensive health insurance for self and family. Transportation and conveyance allowance. Life and accident insurance. Meal coupons and food allowance. Competitive salary with performance-linked incentives. Employee stock options (ESOPs) for eligible roles",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, Transportation and conveyance allowance, Life and accident insurance, Meal coupons and food allowance, Competitive salary with performance-linked incentives, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "Join the Grofers family as a Senior Software Engineer in Faridabad. We believe in empowering our employees with the tools, training, and environment they need t",
+    "keywords": "Senior Software Engineer, Grofers, jobs in Faridabad, Haryana jobs, technology jobs India, Java, CI/CD, TypeScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:05:39.126Z"
+}

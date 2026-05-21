@@ -1,0 +1,93 @@
+{
+  "slug": "bigbasket-senior-software-engineer-nashik-2026-05-21-1",
+  "title": "Senior Software Engineer - BigBasket - Top MNC",
+  "company": "BigBasket",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "TypeScript",
+    "CI/CD",
+    "Microservices",
+    "Java",
+    "TensorFlow",
+    "MongoDB",
+    "React",
+    "AWS"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - BigBasket - Top MNC",
+    "description": "Join the BigBasket family as a Senior Software Engineer in Nashik. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout BigBasket:\nBigBasket is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in on-call rotation for production support\n• Contribute to system architecture and technical design decisions\n• Write and execute unit tests and integration tests\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in code reviews and contribute to technical discussions\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 6-10 years of relevant experience\n• Proficiency in TypeScript\n• Proficiency in CI/CD\n• Proficiency in Microservices\n• Proficiency in Java\n• Proficiency in TensorFlow\n• Proficiency in MongoDB\n• Proficiency in React\n• Proficiency in AWS\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Professional development and training programs\n• Flexible working hours\n• International travel opportunities for senior roles\n• Maternity and paternity leave\n• Transportation and conveyance allowance\n• Company-sponsored certifications\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Nashik, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with BigBasket!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "BigBasket",
+      "value": "101-1-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "BigBasket",
+      "sameAs": "https://www.google.com/search?q=BigBasket",
+      "logo": "https://logo.clearbit.com/bigbasket.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "BigBasket Office",
+        "addressLocality": "Nashik",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "TypeScript, CI/CD, Microservices, Java, TensorFlow, MongoDB, React, AWS",
+    "responsibilities": "Participate in on-call rotation for production support. Contribute to system architecture and technical design decisions. Write and execute unit tests and integration tests. Work with agile methodologies including daily stand-ups and sprint planning. Troubleshoot, debug, and resolve software defects and performance issues. Collaborate with cross-functional teams including product, design, and QA. Participate in code reviews and contribute to technical discussions",
+    "benefits": "Professional development and training programs. Flexible working hours. International travel opportunities for senior roles. Maternity and paternity leave. Transportation and conveyance allowance. Company-sponsored certifications",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Flexible working hours, International travel opportunities for senior roles, Maternity and paternity leave, Transportation and conveyance allowance, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "Join the BigBasket family as a Senior Software Engineer in Nashik. We believe in empowering our employees with the tools, training, and environment they need to",
+    "keywords": "Senior Software Engineer, BigBasket, jobs in Nashik, Maharashtra jobs, technology jobs India, TypeScript, CI/CD, Microservices, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:05:39.125Z"
+}
