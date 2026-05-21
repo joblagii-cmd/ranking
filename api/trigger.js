@@ -1,5 +1,3 @@
-// api/trigger.js - Manually trigger a small batch (50 posts, fits in 10s free plan)
-
 import { generateCompanies } from "../lib/companies.js";
 import { generateJobPosting } from "../lib/templateEngine.js";
 import { commitBatch } from "../lib/github.js";
@@ -9,18 +7,14 @@ export const config = {
 };
 
 const POSTS_PER_COMPANY = 5;
-const COMPANIES_PER_TRIGGER = 10; // 10 companies x 5 posts = 50 posts per run
+const COMPANIES_PER_TRIGGER = 10;
 
 export default async function handler(req, res) {
   if (req.method !== "POST") {
     return res.status(405).json({ error: "Method not allowed. Use POST." });
   }
 
-  const { secret, page } = req.body || {};
-
-  if (secret !== process.env.CRON_SECRET) {
-    return res.status(401).json({ error: "Invalid secret" });
-  }
+  const { page } = req.body || {};
 
   const { GITHUB_TOKEN, GITHUB_OWNER, GITHUB_REPO } = process.env;
 
@@ -34,7 +28,6 @@ export default async function handler(req, res) {
     const ist = new Date(now.getTime() + istOffset);
     const dateStr = ist.toISOString().split("T")[0];
 
-    // page = which group of 10 companies to process (0-499 for 5000 companies)
     const currentPage = page ?? Math.floor(Math.random() * 500);
     const allCompanies = generateCompanies();
     const startIdx = currentPage * COMPANIES_PER_TRIGGER;
