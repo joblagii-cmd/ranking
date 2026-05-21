@@ -3,7 +3,7 @@
     "api/index.js":        { "maxDuration": 30 },
     "api/job.js":          { "maxDuration": 15 },
     "api/status.js":       { "maxDuration": 10 },
-    "api/sitemap.xml.js":  { "maxDuration": 10 },
+    "api/sitemap-index.js":{ "maxDuration": 10 },
     "api/sitemap-child.js":{ "maxDuration": 30 },
     "api/cron/generate.js":{ "maxDuration": 60 },
     "api/trigger.js":      { "maxDuration": 10 }
@@ -12,7 +12,7 @@
     { "source": "/",              "destination": "/api/index" },
     { "source": "/jobs",          "destination": "/api/index" },
     { "source": "/job",           "destination": "/api/job" },
-    { "source": "/sitemap.xml",   "destination": "/api/sitemap.xml" },
+    { "source": "/sitemap.xml",   "destination": "/api/sitemap-index" },
     { "source": "/sitemap1.xml",  "destination": "/api/sitemap-child" },
     { "source": "/sitemap2.xml",  "destination": "/api/sitemap-child" },
     { "source": "/sitemap3.xml",  "destination": "/api/sitemap-child" },
