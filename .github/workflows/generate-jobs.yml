@@ -16,7 +16,7 @@ jobs:
             echo "--- Page $i / 499 ---"
             curl -s -X POST https://ranking-mu-eosin.vercel.app/api/trigger \
               -H "Content-Type: application/json" \
-              -d "{\"secret\": \"abc123\", \"page\": $i}"
+              -d "{\"page\": $i}"
             echo ""
             sleep 2
           done
