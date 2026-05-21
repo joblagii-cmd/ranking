@@ -1,0 +1,93 @@
+{
+  "slug": "jetking-curriculum-developer-agra-2026-05-21-3",
+  "title": "Curriculum Developer Vacancy at Jetking - 2026 Batch",
+  "company": "Jetking",
+  "industry": "education",
+  "role": "Curriculum Developer",
+  "location": {
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "E-learning",
+    "Pedagogy",
+    "Communication Skills",
+    "Educational Technology",
+    "Mentoring",
+    "Special Education",
+    "Student Assessment",
+    "LMS Platforms"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Curriculum Developer Vacancy at Jetking - 2026 Batch",
+    "description": "Jetking, one of India's leading organizations, is hiring a Curriculum Developer for our Agra operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Jetking:\nJetking is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Contribute to school newsletter, blogs, and other publications\n• Support students with special educational needs\n• Conduct parent-teacher meetings and update parents on student performance\n• Participate in teacher training and professional development programs\n• Develop and deliver engaging lesson plans for students\n• Create curriculum-aligned learning materials and assessments\n• Design formative and summative assessments aligned to learning objectives\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 6-10 years of relevant experience\n• Proficiency in E-learning\n• Proficiency in Pedagogy\n• Proficiency in Communication Skills\n• Proficiency in Educational Technology\n• Proficiency in Mentoring\n• Proficiency in Special Education\n• Proficiency in Student Assessment\n• Proficiency in LMS Platforms\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Maternity and paternity leave\n• Annual performance appraisal\n• Provident Fund and Gratuity as per company policy\n• Employee stock options (ESOPs) for eligible roles\n• Modern office with recreational facilities\n• Recognition and rewards programs\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Agra, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Jetking!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Jetking",
+      "value": "514-3-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Jetking",
+      "sameAs": "https://www.google.com/search?q=Jetking",
+      "logo": "https://logo.clearbit.com/jetking.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Jetking Office",
+        "addressLocality": "Agra",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "E-learning, Pedagogy, Communication Skills, Educational Technology, Mentoring, Special Education, Student Assessment, LMS Platforms",
+    "responsibilities": "Contribute to school newsletter, blogs, and other publications. Support students with special educational needs. Conduct parent-teacher meetings and update parents on student performance. Participate in teacher training and professional development programs. Develop and deliver engaging lesson plans for students. Create curriculum-aligned learning materials and assessments. Design formative and summative assessments aligned to learning objectives",
+    "benefits": "Maternity and paternity leave. Annual performance appraisal. Provident Fund and Gratuity as per company policy. Employee stock options (ESOPs) for eligible roles. Modern office with recreational facilities. Recognition and rewards programs",
+    "industry": "education",
+    "occupationalCategory": "Curriculum Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Maternity and paternity leave, Annual performance appraisal, Provident Fund and Gratuity as per company policy, Employee stock options (ESOPs) for eligible roles, Modern office with recreational facilities, Recognition and rewards programs"
+  },
+  "meta": {
+    "description": "Jetking, one of India's leading organizations, is hiring a Curriculum Developer for our Agra operations. We offer a competitive salary package along with world-",
+    "keywords": "Curriculum Developer, Jetking, jobs in Agra, Uttar Pradesh jobs, education jobs India, E-learning, Pedagogy, Communication Skills, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:17:56.545Z"
+}

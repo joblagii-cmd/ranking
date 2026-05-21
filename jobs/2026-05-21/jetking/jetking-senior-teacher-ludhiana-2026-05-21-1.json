@@ -1,0 +1,92 @@
+{
+  "slug": "jetking-senior-teacher-ludhiana-2026-05-21-1",
+  "title": "Senior Teacher - Jetking - Growth Opportunity",
+  "company": "Jetking",
+  "industry": "education",
+  "role": "Senior Teacher",
+  "location": {
+    "city": "Ludhiana",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Lesson Planning",
+    "Content Creation",
+    "Child Psychology",
+    "LMS Platforms",
+    "Curriculum Development",
+    "E-learning",
+    "Zoom/Teams",
+    "Communication Skills"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Teacher - Jetking - Growth Opportunity",
+    "description": "Jetking, one of India's leading organizations, is hiring a Senior Teacher for our Ludhiana operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Jetking:\nJetking is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Conduct parent-teacher meetings and update parents on student performance\n• Conduct doubt-clearing sessions and remedial classes for weak students\n• Monitor student progress and provide timely feedback\n• Maintain classroom discipline and create a positive learning environment\n• Participate in school events, workshops, and training programs\n• Create curriculum-aligned learning materials and assessments\n• Contribute to school newsletter, blogs, and other publications\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 12-20 years of relevant experience\n• Proficiency in Lesson Planning\n• Proficiency in Content Creation\n• Proficiency in Child Psychology\n• Proficiency in LMS Platforms\n• Proficiency in Curriculum Development\n• Proficiency in E-learning\n• Proficiency in Zoom/Teams\n• Proficiency in Communication Skills\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Flexible working hours\n• Maternity and paternity leave\n• Annual performance appraisal\n• Recognition and rewards programs\n• Competitive salary with performance-linked incentives\n• Mobile and internet reimbursement\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Ludhiana, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Jetking!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Jetking",
+      "value": "514-1-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Jetking",
+      "sameAs": "https://www.google.com/search?q=Jetking",
+      "logo": "https://logo.clearbit.com/jetking.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Jetking Office",
+        "addressLocality": "Ludhiana",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "Lesson Planning, Content Creation, Child Psychology, LMS Platforms, Curriculum Development, E-learning, Zoom/Teams, Communication Skills",
+    "responsibilities": "Conduct parent-teacher meetings and update parents on student performance. Conduct doubt-clearing sessions and remedial classes for weak students. Monitor student progress and provide timely feedback. Maintain classroom discipline and create a positive learning environment. Participate in school events, workshops, and training programs. Create curriculum-aligned learning materials and assessments. Contribute to school newsletter, blogs, and other publications",
+    "benefits": "Flexible working hours. Maternity and paternity leave. Annual performance appraisal. Recognition and rewards programs. Competitive salary with performance-linked incentives. Mobile and internet reimbursement",
+    "industry": "education",
+    "occupationalCategory": "Senior Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, Maternity and paternity leave, Annual performance appraisal, Recognition and rewards programs, Competitive salary with performance-linked incentives, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "Jetking, one of India's leading organizations, is hiring a Senior Teacher for our Ludhiana operations. We offer a competitive salary package along with world-cl",
+    "keywords": "Senior Teacher, Jetking, jobs in Ludhiana, Punjab jobs, education jobs India, Lesson Planning, Content Creation, Child Psychology, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:17:56.543Z"
+}

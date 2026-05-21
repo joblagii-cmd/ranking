@@ -1,0 +1,92 @@
+{
+  "slug": "niit-curriculum-developer-ghaziabad-2026-05-21-3",
+  "title": "Curriculum Developer Vacancy at NIIT - 2026 Batch",
+  "company": "NIIT",
+  "industry": "education",
+  "role": "Curriculum Developer",
+  "location": {
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Classroom Management",
+    "Lesson Planning",
+    "Mentoring",
+    "Communication Skills",
+    "Zoom/Teams",
+    "E-learning",
+    "Pedagogy",
+    "Data Analysis"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Curriculum Developer Vacancy at NIIT - 2026 Batch",
+    "description": "NIIT, one of India's leading organizations, is hiring a Curriculum Developer for our Ghaziabad operations. We offer a competitive salary package along with world-class benefits.\n\nAbout NIIT:\nNIIT is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in school events, workshops, and training programs\n• Coordinate with academic counselors for student career guidance\n• Design formative and summative assessments aligned to learning objectives\n• Develop and deliver engaging lesson plans for students\n• Create curriculum-aligned learning materials and assessments\n• Monitor student progress and provide timely feedback\n• Conduct doubt-clearing sessions and remedial classes for weak students\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 0-1 years of relevant experience\n• Proficiency in Classroom Management\n• Proficiency in Lesson Planning\n• Proficiency in Mentoring\n• Proficiency in Communication Skills\n• Proficiency in Zoom/Teams\n• Proficiency in E-learning\n• Proficiency in Pedagogy\n• Proficiency in Data Analysis\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Recognition and rewards programs\n• Work-from-home flexibility\n• Meal coupons and food allowance\n• Learning & development budget\n• Maternity and paternity leave\n• Life and accident insurance\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Ghaziabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with NIIT!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "NIIT",
+      "value": "511-3-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "NIIT",
+      "sameAs": "https://www.google.com/search?q=NIIT",
+      "logo": "https://logo.clearbit.com/niit.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "NIIT Office",
+        "addressLocality": "Ghaziabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "Classroom Management, Lesson Planning, Mentoring, Communication Skills, Zoom/Teams, E-learning, Pedagogy, Data Analysis",
+    "responsibilities": "Participate in school events, workshops, and training programs. Coordinate with academic counselors for student career guidance. Design formative and summative assessments aligned to learning objectives. Develop and deliver engaging lesson plans for students. Create curriculum-aligned learning materials and assessments. Monitor student progress and provide timely feedback. Conduct doubt-clearing sessions and remedial classes for weak students",
+    "benefits": "Recognition and rewards programs. Work-from-home flexibility. Meal coupons and food allowance. Learning & development budget. Maternity and paternity leave. Life and accident insurance",
+    "industry": "education",
+    "occupationalCategory": "Curriculum Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Recognition and rewards programs, Work-from-home flexibility, Meal coupons and food allowance, Learning & development budget, Maternity and paternity leave, Life and accident insurance"
+  },
+  "meta": {
+    "description": "NIIT, one of India's leading organizations, is hiring a Curriculum Developer for our Ghaziabad operations. We offer a competitive salary package along with worl",
+    "keywords": "Curriculum Developer, NIIT, jobs in Ghaziabad, Uttar Pradesh jobs, education jobs India, Classroom Management, Lesson Planning, Mentoring, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:17:56.542Z"
+}
