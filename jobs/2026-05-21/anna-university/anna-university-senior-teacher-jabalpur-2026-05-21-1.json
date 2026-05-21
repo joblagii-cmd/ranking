@@ -1,0 +1,92 @@
+{
+  "slug": "anna-university-senior-teacher-jabalpur-2026-05-21-1",
+  "title": "Senior Teacher - Anna University - Attractive Package",
+  "company": "Anna University",
+  "industry": "education",
+  "role": "Senior Teacher",
+  "location": {
+    "city": "Jabalpur",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Lesson Planning",
+    "Special Education",
+    "Communication Skills",
+    "Research Skills",
+    "E-learning",
+    "Zoom/Teams",
+    "Classroom Management",
+    "Mentoring"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Teacher - Anna University - Attractive Package",
+    "description": "An exciting career opportunity awaits you at Anna University. We are on the lookout for a dedicated Senior Teacher to strengthen our Jabalpur-based team.\n\nAbout Anna University:\nAnna University is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in school events, workshops, and training programs\n• Maintain classroom discipline and create a positive learning environment\n• Maintain student records and prepare progress reports\n• Collaborate with faculty on curriculum development initiatives\n• Conduct parent-teacher meetings and update parents on student performance\n• Contribute to school newsletter, blogs, and other publications\n• Participate in teacher training and professional development programs\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 0-1 years of relevant experience\n• Proficiency in Lesson Planning\n• Proficiency in Special Education\n• Proficiency in Communication Skills\n• Proficiency in Research Skills\n• Proficiency in E-learning\n• Proficiency in Zoom/Teams\n• Proficiency in Classroom Management\n• Proficiency in Mentoring\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Company-sponsored certifications\n• Competitive salary with performance-linked incentives\n• Meal coupons and food allowance\n• Provident Fund and Gratuity as per company policy\n• Annual paid leaves and casual leaves\n• Modern office with recreational facilities\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Jabalpur, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Anna University!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Anna University",
+      "value": "540-1-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Anna University",
+      "sameAs": "https://www.google.com/search?q=Anna%20University",
+      "logo": "https://logo.clearbit.com/annauniversity.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Anna University Office",
+        "addressLocality": "Jabalpur",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "Lesson Planning, Special Education, Communication Skills, Research Skills, E-learning, Zoom/Teams, Classroom Management, Mentoring",
+    "responsibilities": "Participate in school events, workshops, and training programs. Maintain classroom discipline and create a positive learning environment. Maintain student records and prepare progress reports. Collaborate with faculty on curriculum development initiatives. Conduct parent-teacher meetings and update parents on student performance. Contribute to school newsletter, blogs, and other publications. Participate in teacher training and professional development programs",
+    "benefits": "Company-sponsored certifications. Competitive salary with performance-linked incentives. Meal coupons and food allowance. Provident Fund and Gratuity as per company policy. Annual paid leaves and casual leaves. Modern office with recreational facilities",
+    "industry": "education",
+    "occupationalCategory": "Senior Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Company-sponsored certifications, Competitive salary with performance-linked incentives, Meal coupons and food allowance, Provident Fund and Gratuity as per company policy, Annual paid leaves and casual leaves, Modern office with recreational facilities"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Anna University. We are on the lookout for a dedicated Senior Teacher to strengthen our Jabalpur-based team.",
+    "keywords": "Senior Teacher, Anna University, jobs in Jabalpur, Madhya Pradesh jobs, education jobs India, Lesson Planning, Special Education, Communication Skills, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:18:32.159Z"
+}

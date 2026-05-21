@@ -1,0 +1,92 @@
+{
+  "slug": "delhi-university-teacher-ranchi-2026-05-21-0",
+  "title": "Job Opening Teacher at Delhi University",
+  "company": "Delhi University",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Educational Technology",
+    "Student Assessment",
+    "Zoom/Teams",
+    "Content Creation",
+    "Bloom's Taxonomy",
+    "Communication Skills",
+    "Child Psychology",
+    "Classroom Management"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Job Opening Teacher at Delhi University",
+    "description": "An exciting career opportunity awaits you at Delhi University. We are on the lookout for a dedicated Teacher to strengthen our Ranchi-based team.\n\nAbout Delhi University:\nDelhi University is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Develop and deliver engaging lesson plans for students\n• Conduct parent-teacher meetings and update parents on student performance\n• Create curriculum-aligned learning materials and assessments\n• Maintain student records and prepare progress reports\n• Monitor student progress and provide timely feedback\n• Contribute to school newsletter, blogs, and other publications\n• Maintain classroom discipline and create a positive learning environment\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 12-20 years of relevant experience\n• Proficiency in Educational Technology\n• Proficiency in Student Assessment\n• Proficiency in Zoom/Teams\n• Proficiency in Content Creation\n• Proficiency in Bloom's Taxonomy\n• Proficiency in Communication Skills\n• Proficiency in Child Psychology\n• Proficiency in Classroom Management\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Flexible working hours\n• Maternity and paternity leave\n• Annual paid leaves and casual leaves\n• Provident Fund and Gratuity as per company policy\n• Work-from-home flexibility\n• Meal coupons and food allowance\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Ranchi, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Delhi University!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Delhi University",
+      "value": "536-0-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Delhi University",
+      "sameAs": "https://www.google.com/search?q=Delhi%20University",
+      "logo": "https://logo.clearbit.com/delhiuniversity.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Delhi University Office",
+        "addressLocality": "Ranchi",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Educational Technology, Student Assessment, Zoom/Teams, Content Creation, Bloom's Taxonomy, Communication Skills, Child Psychology, Classroom Management",
+    "responsibilities": "Develop and deliver engaging lesson plans for students. Conduct parent-teacher meetings and update parents on student performance. Create curriculum-aligned learning materials and assessments. Maintain student records and prepare progress reports. Monitor student progress and provide timely feedback. Contribute to school newsletter, blogs, and other publications. Maintain classroom discipline and create a positive learning environment",
+    "benefits": "Flexible working hours. Maternity and paternity leave. Annual paid leaves and casual leaves. Provident Fund and Gratuity as per company policy. Work-from-home flexibility. Meal coupons and food allowance",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, Maternity and paternity leave, Annual paid leaves and casual leaves, Provident Fund and Gratuity as per company policy, Work-from-home flexibility, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Delhi University. We are on the lookout for a dedicated Teacher to strengthen our Ranchi-based team.",
+    "keywords": "Teacher, Delhi University, jobs in Ranchi, Jharkhand jobs, education jobs India, Educational Technology, Student Assessment, Zoom/Teams, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:18:32.157Z"
+}

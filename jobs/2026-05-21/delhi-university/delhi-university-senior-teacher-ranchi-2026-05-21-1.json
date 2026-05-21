@@ -1,0 +1,92 @@
+{
+  "slug": "delhi-university-senior-teacher-ranchi-2026-05-21-1",
+  "title": "Senior Teacher - Delhi University - Attractive Package",
+  "company": "Delhi University",
+  "industry": "education",
+  "role": "Senior Teacher",
+  "location": {
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Lesson Planning",
+    "Communication Skills",
+    "Content Creation",
+    "Classroom Management",
+    "Research Skills",
+    "LMS Platforms",
+    "Pedagogy",
+    "MS Office"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Teacher - Delhi University - Attractive Package",
+    "description": "An exciting career opportunity awaits you at Delhi University. We are on the lookout for a dedicated Senior Teacher to strengthen our Ranchi-based team.\n\nAbout Delhi University:\nDelhi University is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Contribute to school newsletter, blogs, and other publications\n• Conduct parent-teacher meetings and update parents on student performance\n• Monitor student progress and provide timely feedback\n• Design formative and summative assessments aligned to learning objectives\n• Maintain classroom discipline and create a positive learning environment\n• Utilize technology and digital tools to enhance learning outcomes\n• Maintain student records and prepare progress reports\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 10-15 years of relevant experience\n• Proficiency in Lesson Planning\n• Proficiency in Communication Skills\n• Proficiency in Content Creation\n• Proficiency in Classroom Management\n• Proficiency in Research Skills\n• Proficiency in LMS Platforms\n• Proficiency in Pedagogy\n• Proficiency in MS Office\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Provident Fund and Gratuity as per company policy\n• Meal coupons and food allowance\n• Competitive salary with performance-linked incentives\n• Annual performance appraisal\n• Referral bonus program\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Ranchi, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Delhi University!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Delhi University",
+      "value": "536-1-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Delhi University",
+      "sameAs": "https://www.google.com/search?q=Delhi%20University",
+      "logo": "https://logo.clearbit.com/delhiuniversity.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Delhi University Office",
+        "addressLocality": "Ranchi",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "Lesson Planning, Communication Skills, Content Creation, Classroom Management, Research Skills, LMS Platforms, Pedagogy, MS Office",
+    "responsibilities": "Contribute to school newsletter, blogs, and other publications. Conduct parent-teacher meetings and update parents on student performance. Monitor student progress and provide timely feedback. Design formative and summative assessments aligned to learning objectives. Maintain classroom discipline and create a positive learning environment. Utilize technology and digital tools to enhance learning outcomes. Maintain student records and prepare progress reports",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Provident Fund and Gratuity as per company policy. Meal coupons and food allowance. Competitive salary with performance-linked incentives. Annual performance appraisal. Referral bonus program",
+    "industry": "education",
+    "occupationalCategory": "Senior Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Provident Fund and Gratuity as per company policy, Meal coupons and food allowance, Competitive salary with performance-linked incentives, Annual performance appraisal, Referral bonus program"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Delhi University. We are on the lookout for a dedicated Senior Teacher to strengthen our Ranchi-based team.",
+    "keywords": "Senior Teacher, Delhi University, jobs in Ranchi, Jharkhand jobs, education jobs India, Lesson Planning, Communication Skills, Content Creation, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:18:32.157Z"
+}
