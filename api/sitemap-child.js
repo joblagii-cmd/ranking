@@ -1,53 +1,19 @@
-// api/sitemap[id].xml.js - Child sitemaps (sitemap1.xml to sitemap5.xml)
-// Each sitemap covers 1000 companies x 5 posts = 5000 URLs per sitemap
+// api/sitemap-child.js - Child sitemaps (sitemap1.xml to sitemap5.xml)
+// Generates URLs directly from companies list - no GitHub API call needed
 
-const GITHUB_API = "https://api.github.com";
+import { generateCompanies } from "../lib/companies.js";
 
-async function getJobPaths(owner, repo, token, date, sitemapIndex) {
-  try {
-    const res = await fetch(`${GITHUB_API}/repos/${owner}/${repo}/git/trees/main?recursive=1`, {
-      headers: {
-        Authorization: `token ${token}`,
-        Accept: "application/vnd.github.v3+json",
-        "User-Agent": "JobPoster-Bot/1.0"
-      }
-    });
-
-    if (!res.ok) return [];
-
-    const data = await res.json();
-
-    // Get all job JSON files for today
-    const allFiles = (data.tree || []).filter(f =>
-      f.path.startsWith(`jobs/${date}/`) &&
-      f.path.endsWith(".json") &&
-      !f.path.includes("index") &&
-      !f.path.includes("summary") &&
-      f.type === "blob"
-    );
-
-    // Split into 5 groups of 1000 companies (5000 posts each)
-    const chunkSize = Math.ceil(allFiles.length / 5);
-    const start = (sitemapIndex - 1) * chunkSize;
-    const end = start + chunkSize;
-
-    return allFiles.slice(start, end).map(f => f.path);
-  } catch (e) {
-    console.error("Error fetching paths:", e.message);
-    return [];
-  }
-}
+export const config = { maxDuration: 10 };
 
 export default async function handler(req, res) {
-  const { GITHUB_TOKEN, GITHUB_OWNER, GITHUB_REPO } = process.env;
   const baseUrl = process.env.SITE_URL || `https://${req.headers.host}`;
 
-  if (!GITHUB_TOKEN || !GITHUB_OWNER || !GITHUB_REPO) {
-    return res.status(500).send("Missing environment variables");
-  }
+  const now = new Date();
+  const istOffset = 5.5 * 60 * 60 * 1000;
+  const ist = new Date(now.getTime() + istOffset);
+  const dateStr = ist.toISOString().split("T")[0];
 
-  // Extract sitemap number from URL
-  // /api/sitemap1.xml → 1, /api/sitemap2.xml → 2, etc.
+  // Get sitemap number from URL
   const urlPath = req.url || "";
   const match = urlPath.match(/sitemap(\d+)\.xml/);
   const sitemapIndex = match ? parseInt(match[1]) : 1;
@@ -56,44 +22,44 @@ export default async function handler(req, res) {
     return res.status(404).send("Sitemap not found");
   }
 
-  const now = new Date();
-  const istOffset = 5.5 * 60 * 60 * 1000;
-  const ist = new Date(now.getTime() + istOffset);
-  const dateStr = ist.toISOString().split("T")[0];
+  // 5000 companies / 5 sitemaps = 1000 companies per sitemap
+  const allCompanies = generateCompanies();
+  const CHUNK = 1000;
+  const start = (sitemapIndex - 1) * CHUNK;
+  const end = start + CHUNK;
+  const companies = allCompanies.slice(start, end);
 
-  const paths = await getJobPaths(GITHUB_OWNER, GITHUB_REPO, GITHUB_TOKEN, dateStr, sitemapIndex);
+  const POSTS_PER_COMPANY = 5;
 
-  const urlEntries = paths.map(path => {
-    const encodedPath = encodeURIComponent(path);
-    return `  <url>
-    <loc>${baseUrl}/api/job?path=${encodedPath}</loc>
+  const urls = [];
+
+  // Add static pages to sitemap1 only
+  if (sitemapIndex === 1) {
+    urls.push(`  <url>
+    <loc>${baseUrl}/</loc>
+    <lastmod>${dateStr}</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>`);
+  }
+
+  // Add job URLs for each company x 5 posts
+  for (const company of companies) {
+    const companySlug = company.name.toLowerCase().replace(/[^a-z0-9]+/g, "-").substring(0, 50);
+    for (let postIdx = 0; postIdx < POSTS_PER_COMPANY; postIdx++) {
+      const filePath = `jobs/${dateStr}/${companySlug}/${companySlug}-${postIdx}-${dateStr}.json`;
+      urls.push(`  <url>
+    <loc>${baseUrl}/api/job?path=${encodeURIComponent(filePath)}</loc>
     <lastmod>${dateStr}</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-  </url>`;
-  }).join("\n");
-
-  // Also add static pages
-  const staticPages = [
-    { loc: `${baseUrl}/`, priority: "1.0", changefreq: "daily" },
-    { loc: `${baseUrl}/jobs`, priority: "0.9", changefreq: "daily" },
-    { loc: `${baseUrl}/api/status`, priority: "0.3", changefreq: "hourly" }
-  ];
-
-  const staticEntries = sitemapIndex === 1 ? staticPages.map(p => `  <url>
-    <loc>${p.loc}</loc>
-    <lastmod>${dateStr}</lastmod>
-    <changefreq>${p.changefreq}</changefreq>
-    <priority>${p.priority}</priority>
-  </url>`).join("\n") : "";
+  </url>`);
+    }
+  }
 
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-${staticEntries}
-${urlEntries}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${urls.join("\n")}
 </urlset>`;
 
   res.setHeader("Content-Type", "application/xml");
