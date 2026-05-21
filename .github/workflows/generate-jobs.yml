@@ -12,6 +12,6 @@ jobs:
     steps:
       - name: Run batch
         run: |
-          curl -s -X POST https://ranking-psi-one.vercel.app/api/trigger \
+          curl -s -X POST https://ranking-mu-eosin.vercel.app/api/trigger \
             -H "Content-Type: application/json" \
             -d "{\"secret\": \"${{ secrets.CRON_SECRET }}\"}" | jq .
