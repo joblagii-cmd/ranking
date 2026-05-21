@@ -1,11 +1,4 @@
 {
-  "version": 2,
-  "crons": [
-    {
-      "path": "/api/cron/generate",
-      "schedule": "0 * * * *"
-    }
-  ],
   "functions": {
     "api/cron/generate.js": {
       "maxDuration": 60
@@ -16,16 +9,5 @@
     "api/trigger.js": {
       "maxDuration": 60
     }
-  },
-  "headers": [
-    {
-      "source": "/api/(.*)",
-      "headers": [
-        {
-          "key": "Access-Control-Allow-Origin",
-          "value": "*"
-        }
-      ]
-    }
-  ]
+  }
 }
