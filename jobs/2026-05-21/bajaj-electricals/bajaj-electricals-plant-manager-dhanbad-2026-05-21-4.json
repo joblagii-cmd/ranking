@@ -1,0 +1,92 @@
+{
+  "slug": "bajaj-electricals-plant-manager-dhanbad-2026-05-21-4",
+  "title": "Mid-Level Plant Manager at Bajaj Electricals",
+  "company": "Bajaj Electricals",
+  "industry": "manufacturing",
+  "role": "Plant Manager",
+  "location": {
+    "city": "Dhanbad",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "SolidWorks",
+    "Lean Manufacturing",
+    "ISO 9001",
+    "Supply Chain Management",
+    "Kaizen",
+    "PLC/SCADA",
+    "TPM",
+    "GD&T"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Plant Manager at Bajaj Electricals",
+    "description": "We at Bajaj Electricals are looking for an experienced Plant Manager based out of Dhanbad. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout Bajaj Electricals:\nBajaj Electricals is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Conduct root cause analysis for quality rejections and defects\n• Implement lean manufacturing and continuous improvement initiatives\n• Ensure product quality meets internal and customer specifications\n• Oversee daily production operations to meet output targets\n• Prepare production cost analysis and efficiency reports\n• Manage raw material procurement and inventory levels\n• Coordinate with design and engineering teams on product improvements\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 10-15 years of relevant experience\n• Proficiency in SolidWorks\n• Proficiency in Lean Manufacturing\n• Proficiency in ISO 9001\n• Proficiency in Supply Chain Management\n• Proficiency in Kaizen\n• Proficiency in PLC/SCADA\n• Proficiency in TPM\n• Proficiency in GD&T\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Maternity and paternity leave\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Life and accident insurance\n• Recognition and rewards programs\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Dhanbad, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Bajaj Electricals!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Bajaj Electricals",
+      "value": "443-4-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Bajaj Electricals",
+      "sameAs": "https://www.google.com/search?q=Bajaj%20Electricals",
+      "logo": "https://logo.clearbit.com/bajajelectricals.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Bajaj Electricals Office",
+        "addressLocality": "Dhanbad",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "SolidWorks, Lean Manufacturing, ISO 9001, Supply Chain Management, Kaizen, PLC/SCADA, TPM, GD&T",
+    "responsibilities": "Conduct root cause analysis for quality rejections and defects. Implement lean manufacturing and continuous improvement initiatives. Ensure product quality meets internal and customer specifications. Oversee daily production operations to meet output targets. Prepare production cost analysis and efficiency reports. Manage raw material procurement and inventory levels. Coordinate with design and engineering teams on product improvements",
+    "benefits": "Transportation and conveyance allowance. Maternity and paternity leave. Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Life and accident insurance. Recognition and rewards programs",
+    "industry": "manufacturing",
+    "occupationalCategory": "Plant Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Maternity and paternity leave, Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Life and accident insurance, Recognition and rewards programs"
+  },
+  "meta": {
+    "description": "We at Bajaj Electricals are looking for an experienced Plant Manager based out of Dhanbad. If you are a result-oriented professional with a passion for excellen",
+    "keywords": "Plant Manager, Bajaj Electricals, jobs in Dhanbad, Jharkhand jobs, manufacturing jobs India, SolidWorks, Lean Manufacturing, ISO 9001, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:15:53.620Z"
+}

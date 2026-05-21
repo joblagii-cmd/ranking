@@ -1,0 +1,92 @@
+{
+  "slug": "voltas-process-engineer-amritsar-2026-05-21-3",
+  "title": "Process Engineer Vacancy at Voltas - 2026 Batch",
+  "company": "Voltas",
+  "industry": "manufacturing",
+  "role": "Process Engineer",
+  "location": {
+    "city": "Amritsar",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "AutoCAD",
+    "Six Sigma",
+    "ISO 9001",
+    "Kaizen",
+    "TPM",
+    "PLC/SCADA",
+    "Supply Chain Management",
+    "GD&T"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Process Engineer Vacancy at Voltas - 2026 Batch",
+    "description": "We at Voltas are looking for an experienced Process Engineer based out of Amritsar. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout Voltas:\nVoltas is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Oversee daily production operations to meet output targets\n• Coordinate with design and engineering teams on product improvements\n• Maintain accurate production records and prepare daily reports\n• Ensure compliance with safety regulations and factory acts\n• Implement 5S, Kaizen, and Six Sigma practices on the shop floor\n• Train and supervise shop floor workers and supervisors\n• Ensure environmental compliance and waste management\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 1-3 years of relevant experience\n• Proficiency in AutoCAD\n• Proficiency in Six Sigma\n• Proficiency in ISO 9001\n• Proficiency in Kaizen\n• Proficiency in TPM\n• Proficiency in PLC/SCADA\n• Proficiency in Supply Chain Management\n• Proficiency in GD&T\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Professional development and training programs\n• Recognition and rewards programs\n• Annual paid leaves and casual leaves\n• International travel opportunities for senior roles\n• Mobile and internet reimbursement\n• Life and accident insurance\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Amritsar, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Voltas!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Voltas",
+      "value": "446-3-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Voltas",
+      "sameAs": "https://www.google.com/search?q=Voltas",
+      "logo": "https://logo.clearbit.com/voltas.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Voltas Office",
+        "addressLocality": "Amritsar",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "AutoCAD, Six Sigma, ISO 9001, Kaizen, TPM, PLC/SCADA, Supply Chain Management, GD&T",
+    "responsibilities": "Oversee daily production operations to meet output targets. Coordinate with design and engineering teams on product improvements. Maintain accurate production records and prepare daily reports. Ensure compliance with safety regulations and factory acts. Implement 5S, Kaizen, and Six Sigma practices on the shop floor. Train and supervise shop floor workers and supervisors. Ensure environmental compliance and waste management",
+    "benefits": "Professional development and training programs. Recognition and rewards programs. Annual paid leaves and casual leaves. International travel opportunities for senior roles. Mobile and internet reimbursement. Life and accident insurance",
+    "industry": "manufacturing",
+    "occupationalCategory": "Process Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Recognition and rewards programs, Annual paid leaves and casual leaves, International travel opportunities for senior roles, Mobile and internet reimbursement, Life and accident insurance"
+  },
+  "meta": {
+    "description": "We at Voltas are looking for an experienced Process Engineer based out of Amritsar. If you are a result-oriented professional with a passion for excellence, we ",
+    "keywords": "Process Engineer, Voltas, jobs in Amritsar, Punjab jobs, manufacturing jobs India, AutoCAD, Six Sigma, ISO 9001, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:15:53.623Z"
+}

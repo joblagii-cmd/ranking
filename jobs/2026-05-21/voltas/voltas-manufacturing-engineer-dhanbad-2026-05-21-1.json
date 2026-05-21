@@ -1,0 +1,93 @@
+{
+  "slug": "voltas-manufacturing-engineer-dhanbad-2026-05-21-1",
+  "title": "Manufacturing Engineer - Voltas - Experienced Professionals",
+  "company": "Voltas",
+  "industry": "manufacturing",
+  "role": "Manufacturing Engineer",
+  "location": {
+    "city": "Dhanbad",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "PPAP",
+    "Six Sigma",
+    "ERP Systems",
+    "SolidWorks",
+    "Lean Manufacturing",
+    "Kaizen",
+    "TPM",
+    "FMEA"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Manufacturing Engineer - Voltas - Experienced Professionals",
+    "description": "We at Voltas are looking for an experienced Manufacturing Engineer based out of Dhanbad. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout Voltas:\nVoltas is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure product quality meets internal and customer specifications\n• Implement 5S, Kaizen, and Six Sigma practices on the shop floor\n• Manage supplier quality audits and vendor development\n• Coordinate with logistics for dispatching finished goods\n• Oversee daily production operations to meet output targets\n• Ensure compliance with safety regulations and factory acts\n• Monitor equipment performance and coordinate preventive maintenance\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 10-15 years of relevant experience\n• Proficiency in PPAP\n• Proficiency in Six Sigma\n• Proficiency in ERP Systems\n• Proficiency in SolidWorks\n• Proficiency in Lean Manufacturing\n• Proficiency in Kaizen\n• Proficiency in TPM\n• Proficiency in FMEA\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Competitive salary with performance-linked incentives\n• Flexible working hours\n• Annual paid leaves and casual leaves\n• Meal coupons and food allowance\n• Life and accident insurance\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Dhanbad, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Voltas!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Voltas",
+      "value": "446-1-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Voltas",
+      "sameAs": "https://www.google.com/search?q=Voltas",
+      "logo": "https://logo.clearbit.com/voltas.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Voltas Office",
+        "addressLocality": "Dhanbad",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "PPAP, Six Sigma, ERP Systems, SolidWorks, Lean Manufacturing, Kaizen, TPM, FMEA",
+    "responsibilities": "Ensure product quality meets internal and customer specifications. Implement 5S, Kaizen, and Six Sigma practices on the shop floor. Manage supplier quality audits and vendor development. Coordinate with logistics for dispatching finished goods. Oversee daily production operations to meet output targets. Ensure compliance with safety regulations and factory acts. Monitor equipment performance and coordinate preventive maintenance",
+    "benefits": "Transportation and conveyance allowance. Competitive salary with performance-linked incentives. Flexible working hours. Annual paid leaves and casual leaves. Meal coupons and food allowance. Life and accident insurance",
+    "industry": "manufacturing",
+    "occupationalCategory": "Manufacturing Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Competitive salary with performance-linked incentives, Flexible working hours, Annual paid leaves and casual leaves, Meal coupons and food allowance, Life and accident insurance"
+  },
+  "meta": {
+    "description": "We at Voltas are looking for an experienced Manufacturing Engineer based out of Dhanbad. If you are a result-oriented professional with a passion for excellence",
+    "keywords": "Manufacturing Engineer, Voltas, jobs in Dhanbad, Jharkhand jobs, manufacturing jobs India, PPAP, Six Sigma, ERP Systems, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:15:53.622Z"
+}
