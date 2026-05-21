@@ -1,0 +1,92 @@
+{
+  "slug": "marico-plant-manager-madurai-2026-05-21-4",
+  "title": "Senior Plant Manager at Marico",
+  "company": "Marico",
+  "industry": "manufacturing",
+  "role": "Plant Manager",
+  "location": {
+    "city": "Madurai",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "PPAP",
+    "GD&T",
+    "SAP MM/PP",
+    "Lean Manufacturing",
+    "Quality Control",
+    "Kaizen",
+    "Root Cause Analysis",
+    "Six Sigma"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Plant Manager at Marico",
+    "description": "Marico has an exciting opening for a Plant Manager at our Madurai office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Marico:\nMarico is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Monitor equipment performance and coordinate preventive maintenance\n• Coordinate with design and engineering teams on product improvements\n• Implement lean manufacturing and continuous improvement initiatives\n• Implement 5S, Kaizen, and Six Sigma practices on the shop floor\n• Train and supervise shop floor workers and supervisors\n• Manage supplier quality audits and vendor development\n• Maintain accurate production records and prepare daily reports\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 0-1 years of relevant experience\n• Proficiency in PPAP\n• Proficiency in GD&T\n• Proficiency in SAP MM/PP\n• Proficiency in Lean Manufacturing\n• Proficiency in Quality Control\n• Proficiency in Kaizen\n• Proficiency in Root Cause Analysis\n• Proficiency in Six Sigma\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Company-sponsored certifications\n• Mobile and internet reimbursement\n• Professional development and training programs\n• Referral bonus program\n• Annual performance appraisal\n• Recognition and rewards programs\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Madurai, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Marico!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Marico",
+      "value": "462-4-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Marico",
+      "sameAs": "https://www.google.com/search?q=Marico",
+      "logo": "https://logo.clearbit.com/marico.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Marico Office",
+        "addressLocality": "Madurai",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "PPAP, GD&T, SAP MM/PP, Lean Manufacturing, Quality Control, Kaizen, Root Cause Analysis, Six Sigma",
+    "responsibilities": "Monitor equipment performance and coordinate preventive maintenance. Coordinate with design and engineering teams on product improvements. Implement lean manufacturing and continuous improvement initiatives. Implement 5S, Kaizen, and Six Sigma practices on the shop floor. Train and supervise shop floor workers and supervisors. Manage supplier quality audits and vendor development. Maintain accurate production records and prepare daily reports",
+    "benefits": "Company-sponsored certifications. Mobile and internet reimbursement. Professional development and training programs. Referral bonus program. Annual performance appraisal. Recognition and rewards programs",
+    "industry": "manufacturing",
+    "occupationalCategory": "Plant Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Company-sponsored certifications, Mobile and internet reimbursement, Professional development and training programs, Referral bonus program, Annual performance appraisal, Recognition and rewards programs"
+  },
+  "meta": {
+    "description": "Marico has an exciting opening for a Plant Manager at our Madurai office. Join a company that values innovation, collaboration, and continuous learning.",
+    "keywords": "Plant Manager, Marico, jobs in Madurai, Tamil Nadu jobs, manufacturing jobs India, PPAP, GD&T, SAP MM/PP, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:16:29.718Z"
+}
