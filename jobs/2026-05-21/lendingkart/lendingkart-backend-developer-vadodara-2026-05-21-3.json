@@ -1,0 +1,92 @@
+{
+  "slug": "lendingkart-backend-developer-vadodara-2026-05-21-3",
+  "title": "Backend Developer Vacancy at Lendingkart - 2026 Batch",
+  "company": "Lendingkart",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "JavaScript",
+    "Kubernetes",
+    "SQL",
+    "Docker",
+    "Machine Learning",
+    "Agile/Scrum",
+    "Python",
+    "TensorFlow"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Lendingkart - 2026 Batch",
+    "description": "Join the Lendingkart family as a Backend Developer in Vadodara. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Lendingkart:\nLendingkart is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Contribute to system architecture and technical design decisions\n• Write clean, maintainable, and well-documented code\n• Optimize application performance and ensure high availability\n• Implement new features based on product requirements\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Work with agile methodologies including daily stand-ups and sprint planning\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 10-15 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Kubernetes\n• Proficiency in SQL\n• Proficiency in Docker\n• Proficiency in Machine Learning\n• Proficiency in Agile/Scrum\n• Proficiency in Python\n• Proficiency in TensorFlow\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Recognition and rewards programs\n• Learning & development budget\n• Mobile and internet reimbursement\n• Company-sponsored certifications\n• Maternity and paternity leave\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Vadodara, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Lendingkart!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Lendingkart",
+      "value": "93-3-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Lendingkart",
+      "sameAs": "https://www.google.com/search?q=Lendingkart",
+      "logo": "https://logo.clearbit.com/lendingkart.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Lendingkart Office",
+        "addressLocality": "Vadodara",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "JavaScript, Kubernetes, SQL, Docker, Machine Learning, Agile/Scrum, Python, TensorFlow",
+    "responsibilities": "Design, develop and maintain scalable software applications. Contribute to system architecture and technical design decisions. Write clean, maintainable, and well-documented code. Optimize application performance and ensure high availability. Implement new features based on product requirements. Troubleshoot, debug, and resolve software defects and performance issues. Work with agile methodologies including daily stand-ups and sprint planning",
+    "benefits": "Transportation and conveyance allowance. Recognition and rewards programs. Learning & development budget. Mobile and internet reimbursement. Company-sponsored certifications. Maternity and paternity leave",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Recognition and rewards programs, Learning & development budget, Mobile and internet reimbursement, Company-sponsored certifications, Maternity and paternity leave"
+  },
+  "meta": {
+    "description": "Join the Lendingkart family as a Backend Developer in Vadodara. We believe in empowering our employees with the tools, training, and environment they need to su",
+    "keywords": "Backend Developer, Lendingkart, jobs in Vadodara, Gujarat jobs, technology jobs India, JavaScript, Kubernetes, SQL, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:05:21.288Z"
+}

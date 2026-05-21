@@ -1,0 +1,93 @@
+{
+  "slug": "bankbazaar-senior-software-engineer-patna-2026-05-21-1",
+  "title": "Senior Software Engineer - BankBazaar - Top MNC",
+  "company": "BankBazaar",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Patna",
+    "state": "Bihar",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Git",
+    "JavaScript",
+    "Go",
+    "MongoDB",
+    "Docker",
+    "REST APIs",
+    "Node.js",
+    "Kubernetes"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - BankBazaar - Top MNC",
+    "description": "Join the BankBazaar family as a Senior Software Engineer in Patna. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout BankBazaar:\nBankBazaar is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Optimize application performance and ensure high availability\n• Write and execute unit tests and integration tests\n• Implement new features based on product requirements\n• Collaborate with cross-functional teams including product, design, and QA\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Participate in code reviews and contribute to technical discussions\n• Participate in on-call rotation for production support\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 1-3 years of relevant experience\n• Proficiency in Git\n• Proficiency in JavaScript\n• Proficiency in Go\n• Proficiency in MongoDB\n• Proficiency in Docker\n• Proficiency in REST APIs\n• Proficiency in Node.js\n• Proficiency in Kubernetes\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Work-from-home flexibility\n• Employee stock options (ESOPs) for eligible roles\n• Annual performance appraisal\n• Mobile and internet reimbursement\n• Professional development and training programs\n• Transportation and conveyance allowance\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Patna, Bihar, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with BankBazaar!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "BankBazaar",
+      "value": "92-1-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "BankBazaar",
+      "sameAs": "https://www.google.com/search?q=BankBazaar",
+      "logo": "https://logo.clearbit.com/bankbazaar.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "BankBazaar Office",
+        "addressLocality": "Patna",
+        "addressRegion": "Bihar",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "Git, JavaScript, Go, MongoDB, Docker, REST APIs, Node.js, Kubernetes",
+    "responsibilities": "Optimize application performance and ensure high availability. Write and execute unit tests and integration tests. Implement new features based on product requirements. Collaborate with cross-functional teams including product, design, and QA. Mentor junior developers and conduct knowledge-sharing sessions. Participate in code reviews and contribute to technical discussions. Participate in on-call rotation for production support",
+    "benefits": "Work-from-home flexibility. Employee stock options (ESOPs) for eligible roles. Annual performance appraisal. Mobile and internet reimbursement. Professional development and training programs. Transportation and conveyance allowance",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Employee stock options (ESOPs) for eligible roles, Annual performance appraisal, Mobile and internet reimbursement, Professional development and training programs, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "Join the BankBazaar family as a Senior Software Engineer in Patna. We believe in empowering our employees with the tools, training, and environment they need to",
+    "keywords": "Senior Software Engineer, BankBazaar, jobs in Patna, Bihar jobs, technology jobs India, Git, JavaScript, Go, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:05:21.287Z"
+}

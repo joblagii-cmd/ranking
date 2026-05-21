@@ -1,0 +1,92 @@
+{
+  "slug": "indifi-technologies-full-stack-developer-ghaziabad-2026-05-21-2",
+  "title": "Indifi Technologies is Hiring: Full Stack Developer (Senior)",
+  "company": "Indifi Technologies",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "JavaScript",
+    "SQL",
+    "CI/CD",
+    "Rust",
+    "Kubernetes",
+    "Java",
+    "Git",
+    "Microservices"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Indifi Technologies is Hiring: Full Stack Developer (Senior)",
+    "description": "Join the Indifi Technologies family as a Full Stack Developer in Ghaziabad. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Indifi Technologies:\nIndifi Technologies is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Implement new features based on product requirements\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Contribute to system architecture and technical design decisions\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Optimize application performance and ensure high availability\n• Design, develop and maintain scalable software applications\n• Write and execute unit tests and integration tests\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 6-10 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in SQL\n• Proficiency in CI/CD\n• Proficiency in Rust\n• Proficiency in Kubernetes\n• Proficiency in Java\n• Proficiency in Git\n• Proficiency in Microservices\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Recognition and rewards programs\n• Modern office with recreational facilities\n• Comprehensive health insurance for self and family\n• Maternity and paternity leave\n• Meal coupons and food allowance\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Ghaziabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Indifi Technologies!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Indifi Technologies",
+      "value": "95-2-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Indifi Technologies",
+      "sameAs": "https://www.google.com/search?q=Indifi%20Technologies",
+      "logo": "https://logo.clearbit.com/indifitechnologies.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Indifi Technologies Office",
+        "addressLocality": "Ghaziabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "JavaScript, SQL, CI/CD, Rust, Kubernetes, Java, Git, Microservices",
+    "responsibilities": "Implement new features based on product requirements. Work with agile methodologies including daily stand-ups and sprint planning. Contribute to system architecture and technical design decisions. Troubleshoot, debug, and resolve software defects and performance issues. Optimize application performance and ensure high availability. Design, develop and maintain scalable software applications. Write and execute unit tests and integration tests",
+    "benefits": "Competitive salary with performance-linked incentives. Recognition and rewards programs. Modern office with recreational facilities. Comprehensive health insurance for self and family. Maternity and paternity leave. Meal coupons and food allowance",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Recognition and rewards programs, Modern office with recreational facilities, Comprehensive health insurance for self and family, Maternity and paternity leave, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "Join the Indifi Technologies family as a Full Stack Developer in Ghaziabad. We believe in empowering our employees with the tools, training, and environment the",
+    "keywords": "Full Stack Developer, Indifi Technologies, jobs in Ghaziabad, Uttar Pradesh jobs, technology jobs India, JavaScript, SQL, CI/CD, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:05:21.290Z"
+}

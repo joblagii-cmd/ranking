@@ -1,0 +1,93 @@
+{
+  "slug": "policybazaar-frontend-developer-patna-2026-05-21-4",
+  "title": "Senior Frontend Developer at PolicyBazaar",
+  "company": "PolicyBazaar",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Patna",
+    "state": "Bihar",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "SQL",
+    "TypeScript",
+    "JavaScript",
+    "Go",
+    "Python",
+    "Machine Learning",
+    "TensorFlow",
+    "Microservices"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Frontend Developer at PolicyBazaar",
+    "description": "Join the PolicyBazaar family as a Frontend Developer in Patna. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout PolicyBazaar:\nPolicyBazaar is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write and execute unit tests and integration tests\n• Participate in code reviews and contribute to technical discussions\n• Write clean, maintainable, and well-documented code\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Ensure code security and follow best practices for data protection\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Mentor junior developers and conduct knowledge-sharing sessions\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 12-20 years of relevant experience\n• Proficiency in SQL\n• Proficiency in TypeScript\n• Proficiency in JavaScript\n• Proficiency in Go\n• Proficiency in Python\n• Proficiency in Machine Learning\n• Proficiency in TensorFlow\n• Proficiency in Microservices\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Learning & development budget\n• Life and accident insurance\n• International travel opportunities for senior roles\n• Recognition and rewards programs\n• Transportation and conveyance allowance\n• Work-from-home flexibility\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Patna, Bihar, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with PolicyBazaar!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "PolicyBazaar",
+      "value": "91-4-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "PolicyBazaar",
+      "sameAs": "https://www.google.com/search?q=PolicyBazaar",
+      "logo": "https://logo.clearbit.com/policybazaar.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "PolicyBazaar Office",
+        "addressLocality": "Patna",
+        "addressRegion": "Bihar",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "SQL, TypeScript, JavaScript, Go, Python, Machine Learning, TensorFlow, Microservices",
+    "responsibilities": "Write and execute unit tests and integration tests. Participate in code reviews and contribute to technical discussions. Write clean, maintainable, and well-documented code. Work with agile methodologies including daily stand-ups and sprint planning. Ensure code security and follow best practices for data protection. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Mentor junior developers and conduct knowledge-sharing sessions",
+    "benefits": "Learning & development budget. Life and accident insurance. International travel opportunities for senior roles. Recognition and rewards programs. Transportation and conveyance allowance. Work-from-home flexibility",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Learning & development budget, Life and accident insurance, International travel opportunities for senior roles, Recognition and rewards programs, Transportation and conveyance allowance, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "Join the PolicyBazaar family as a Frontend Developer in Patna. We believe in empowering our employees with the tools, training, and environment they need to suc",
+    "keywords": "Frontend Developer, PolicyBazaar, jobs in Patna, Bihar jobs, technology jobs India, SQL, TypeScript, JavaScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:05:21.287Z"
+}

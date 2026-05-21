@@ -1,0 +1,92 @@
+{
+  "slug": "capital-float-frontend-developer-ghaziabad-2026-05-21-4",
+  "title": "Senior Frontend Developer at Capital Float",
+  "company": "Capital Float",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Microservices",
+    "Machine Learning",
+    "React",
+    "Go",
+    "TensorFlow",
+    "Java",
+    "MongoDB",
+    "AWS"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Frontend Developer at Capital Float",
+    "description": "Join the Capital Float family as a Frontend Developer in Ghaziabad. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Capital Float:\nCapital Float is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write and execute unit tests and integration tests\n• Implement new features based on product requirements\n• Contribute to system architecture and technical design decisions\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Collaborate with cross-functional teams including product, design, and QA\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Optimize application performance and ensure high availability\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 3-6 years of relevant experience\n• Proficiency in Microservices\n• Proficiency in Machine Learning\n• Proficiency in React\n• Proficiency in Go\n• Proficiency in TensorFlow\n• Proficiency in Java\n• Proficiency in MongoDB\n• Proficiency in AWS\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Modern office with recreational facilities\n• Employee stock options (ESOPs) for eligible roles\n• Comprehensive health insurance for self and family\n• Referral bonus program\n• Recognition and rewards programs\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Ghaziabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Capital Float!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Capital Float",
+      "value": "94-4-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Capital Float",
+      "sameAs": "https://www.google.com/search?q=Capital%20Float",
+      "logo": "https://logo.clearbit.com/capitalfloat.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Capital Float Office",
+        "addressLocality": "Ghaziabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Microservices, Machine Learning, React, Go, TensorFlow, Java, MongoDB, AWS",
+    "responsibilities": "Write and execute unit tests and integration tests. Implement new features based on product requirements. Contribute to system architecture and technical design decisions. Troubleshoot, debug, and resolve software defects and performance issues. Collaborate with cross-functional teams including product, design, and QA. Mentor junior developers and conduct knowledge-sharing sessions. Optimize application performance and ensure high availability",
+    "benefits": "Provident Fund and Gratuity as per company policy. Modern office with recreational facilities. Employee stock options (ESOPs) for eligible roles. Comprehensive health insurance for self and family. Referral bonus program. Recognition and rewards programs",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Modern office with recreational facilities, Employee stock options (ESOPs) for eligible roles, Comprehensive health insurance for self and family, Referral bonus program, Recognition and rewards programs"
+  },
+  "meta": {
+    "description": "Join the Capital Float family as a Frontend Developer in Ghaziabad. We believe in empowering our employees with the tools, training, and environment they need t",
+    "keywords": "Frontend Developer, Capital Float, jobs in Ghaziabad, Uttar Pradesh jobs, technology jobs India, Microservices, Machine Learning, React, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:05:21.290Z"
+}
