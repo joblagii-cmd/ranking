@@ -1,0 +1,92 @@
+{
+  "slug": "l-t-infotech-senior-software-engineer-aurangabad-2026-05-21-1",
+  "title": "Senior Software Engineer - L&T Infotech - Freshers Welcome",
+  "company": "L&T Infotech",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Aurangabad",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Node.js",
+    "Python",
+    "Rust",
+    "Git",
+    "AWS",
+    "TypeScript",
+    "React",
+    "Kubernetes"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - L&T Infotech - Freshers Welcome",
+    "description": "Are you a skilled Senior Software Engineer looking for your next big career move? L&T Infotech in Aurangabad offers you the perfect platform to grow professionally and personally.\n\nAbout L&T Infotech:\nL&T Infotech is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Contribute to system architecture and technical design decisions\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in code reviews and contribute to technical discussions\n• Ensure code security and follow best practices for data protection\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Participate in on-call rotation for production support\n• Write clean, maintainable, and well-documented code\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 3-6 years of relevant experience\n• Proficiency in Node.js\n• Proficiency in Python\n• Proficiency in Rust\n• Proficiency in Git\n• Proficiency in AWS\n• Proficiency in TypeScript\n• Proficiency in React\n• Proficiency in Kubernetes\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Referral bonus program\n• Provident Fund and Gratuity as per company policy\n• Learning & development budget\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Aurangabad, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with L&T Infotech!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "L&T Infotech",
+      "value": "28-1-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "L&T Infotech",
+      "sameAs": "https://www.google.com/search?q=L%26T%20Infotech",
+      "logo": "https://logo.clearbit.com/ltinfotech.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "L&T Infotech Office",
+        "addressLocality": "Aurangabad",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "Node.js, Python, Rust, Git, AWS, TypeScript, React, Kubernetes",
+    "responsibilities": "Contribute to system architecture and technical design decisions. Collaborate with cross-functional teams including product, design, and QA. Participate in code reviews and contribute to technical discussions. Ensure code security and follow best practices for data protection. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Participate in on-call rotation for production support. Write clean, maintainable, and well-documented code",
+    "benefits": "International travel opportunities for senior roles. Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Referral bonus program. Provident Fund and Gratuity as per company policy. Learning & development budget",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Referral bonus program, Provident Fund and Gratuity as per company policy, Learning & development budget"
+  },
+  "meta": {
+    "description": "Are you a skilled Senior Software Engineer looking for your next big career move? L&T Infotech in Aurangabad offers you the perfect platform to grow professiona",
+    "keywords": "Senior Software Engineer, L&T Infotech, jobs in Aurangabad, Maharashtra jobs, technology jobs India, Node.js, Python, Rust, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:03:21.676Z"
+}

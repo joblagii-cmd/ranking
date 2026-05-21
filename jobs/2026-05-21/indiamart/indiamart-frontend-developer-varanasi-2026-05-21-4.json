@@ -1,0 +1,92 @@
+{
+  "slug": "indiamart-frontend-developer-varanasi-2026-05-21-4",
+  "title": "Junior Frontend Developer at IndiaMart",
+  "company": "IndiaMart",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "REST APIs",
+    "React",
+    "JavaScript",
+    "Kubernetes",
+    "CI/CD",
+    "Machine Learning",
+    "Git",
+    "Java"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Junior Frontend Developer at IndiaMart",
+    "description": "Are you a skilled Frontend Developer looking for your next big career move? IndiaMart in Varanasi offers you the perfect platform to grow professionally and personally.\n\nAbout IndiaMart:\nIndiaMart is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Implement new features based on product requirements\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in code reviews and contribute to technical discussions\n• Write and execute unit tests and integration tests\n• Write clean, maintainable, and well-documented code\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 12-20 years of relevant experience\n• Proficiency in REST APIs\n• Proficiency in React\n• Proficiency in JavaScript\n• Proficiency in Kubernetes\n• Proficiency in CI/CD\n• Proficiency in Machine Learning\n• Proficiency in Git\n• Proficiency in Java\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Professional development and training programs\n• Annual paid leaves and casual leaves\n• Referral bonus program\n• Provident Fund and Gratuity as per company policy\n• International travel opportunities for senior roles\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Varanasi, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with IndiaMart!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "IndiaMart",
+      "value": "22-4-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "IndiaMart",
+      "sameAs": "https://www.google.com/search?q=IndiaMart",
+      "logo": "https://logo.clearbit.com/indiamart.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "IndiaMart Office",
+        "addressLocality": "Varanasi",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "REST APIs, React, JavaScript, Kubernetes, CI/CD, Machine Learning, Git, Java",
+    "responsibilities": "Work with agile methodologies including daily stand-ups and sprint planning. Implement new features based on product requirements. Troubleshoot, debug, and resolve software defects and performance issues. Collaborate with cross-functional teams including product, design, and QA. Participate in code reviews and contribute to technical discussions. Write and execute unit tests and integration tests. Write clean, maintainable, and well-documented code",
+    "benefits": "Professional development and training programs. Annual paid leaves and casual leaves. Referral bonus program. Provident Fund and Gratuity as per company policy. International travel opportunities for senior roles. Employee stock options (ESOPs) for eligible roles",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Annual paid leaves and casual leaves, Referral bonus program, Provident Fund and Gratuity as per company policy, International travel opportunities for senior roles, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "Are you a skilled Frontend Developer looking for your next big career move? IndiaMart in Varanasi offers you the perfect platform to grow professionally and per",
+    "keywords": "Frontend Developer, IndiaMart, jobs in Varanasi, Uttar Pradesh jobs, technology jobs India, REST APIs, React, JavaScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:03:21.668Z"
+}

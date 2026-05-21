@@ -1,0 +1,92 @@
+{
+  "slug": "mindtree-full-stack-developer-dhanbad-2026-05-21-2",
+  "title": "Mindtree is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "Mindtree",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Dhanbad",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "CI/CD",
+    "Kubernetes",
+    "Python",
+    "Machine Learning",
+    "React",
+    "Rust",
+    "AWS",
+    "Go"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mindtree is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "Are you a skilled Full Stack Developer looking for your next big career move? Mindtree in Dhanbad offers you the perfect platform to grow professionally and personally.\n\nAbout Mindtree:\nMindtree is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in code reviews and contribute to technical discussions\n• Optimize application performance and ensure high availability\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Implement new features based on product requirements\n• Contribute to system architecture and technical design decisions\n• Participate in on-call rotation for production support\n• Work with agile methodologies including daily stand-ups and sprint planning\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 12-20 years of relevant experience\n• Proficiency in CI/CD\n• Proficiency in Kubernetes\n• Proficiency in Python\n• Proficiency in Machine Learning\n• Proficiency in React\n• Proficiency in Rust\n• Proficiency in AWS\n• Proficiency in Go\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Life and accident insurance\n• Comprehensive health insurance for self and family\n• Maternity and paternity leave\n• Company-sponsored certifications\n• Learning & development budget\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Dhanbad, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Mindtree!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Mindtree",
+      "value": "29-2-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Mindtree",
+      "sameAs": "https://www.google.com/search?q=Mindtree",
+      "logo": "https://logo.clearbit.com/mindtree.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Mindtree Office",
+        "addressLocality": "Dhanbad",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "CI/CD, Kubernetes, Python, Machine Learning, React, Rust, AWS, Go",
+    "responsibilities": "Participate in code reviews and contribute to technical discussions. Optimize application performance and ensure high availability. Troubleshoot, debug, and resolve software defects and performance issues. Implement new features based on product requirements. Contribute to system architecture and technical design decisions. Participate in on-call rotation for production support. Work with agile methodologies including daily stand-ups and sprint planning",
+    "benefits": "Competitive salary with performance-linked incentives. Life and accident insurance. Comprehensive health insurance for self and family. Maternity and paternity leave. Company-sponsored certifications. Learning & development budget",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Life and accident insurance, Comprehensive health insurance for self and family, Maternity and paternity leave, Company-sponsored certifications, Learning & development budget"
+  },
+  "meta": {
+    "description": "Are you a skilled Full Stack Developer looking for your next big career move? Mindtree in Dhanbad offers you the perfect platform to grow professionally and per",
+    "keywords": "Full Stack Developer, Mindtree, jobs in Dhanbad, Jharkhand jobs, technology jobs India, CI/CD, Kubernetes, Python, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:03:21.676Z"
+}

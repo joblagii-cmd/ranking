@@ -1,0 +1,93 @@
+{
+  "slug": "mphasis-full-stack-developer-srinagar-2026-05-21-2",
+  "title": "Mphasis is Hiring: Full Stack Developer (Junior)",
+  "company": "Mphasis",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Srinagar",
+    "state": "Jammu & Kashmir",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Python",
+    "Microservices",
+    "Kubernetes",
+    "TensorFlow",
+    "AWS",
+    "JavaScript",
+    "TypeScript",
+    "Go"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mphasis is Hiring: Full Stack Developer (Junior)",
+    "description": "Are you a skilled Full Stack Developer looking for your next big career move? Mphasis in Srinagar offers you the perfect platform to grow professionally and personally.\n\nAbout Mphasis:\nMphasis is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write clean, maintainable, and well-documented code\n• Integrate third-party APIs and services\n• Contribute to system architecture and technical design decisions\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Participate in on-call rotation for production support\n• Ensure code security and follow best practices for data protection\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 6-10 years of relevant experience\n• Proficiency in Python\n• Proficiency in Microservices\n• Proficiency in Kubernetes\n• Proficiency in TensorFlow\n• Proficiency in AWS\n• Proficiency in JavaScript\n• Proficiency in TypeScript\n• Proficiency in Go\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Mobile and internet reimbursement\n• Provident Fund and Gratuity as per company policy\n• International travel opportunities for senior roles\n• Maternity and paternity leave\n• Modern office with recreational facilities\n• Annual paid leaves and casual leaves\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Srinagar, Jammu & Kashmir, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Mphasis!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Mphasis",
+      "value": "26-2-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Mphasis",
+      "sameAs": "https://www.google.com/search?q=Mphasis",
+      "logo": "https://logo.clearbit.com/mphasis.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Mphasis Office",
+        "addressLocality": "Srinagar",
+        "addressRegion": "Jammu & Kashmir",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "Python, Microservices, Kubernetes, TensorFlow, AWS, JavaScript, TypeScript, Go",
+    "responsibilities": "Write clean, maintainable, and well-documented code. Integrate third-party APIs and services. Contribute to system architecture and technical design decisions. Mentor junior developers and conduct knowledge-sharing sessions. Work with agile methodologies including daily stand-ups and sprint planning. Participate in on-call rotation for production support. Ensure code security and follow best practices for data protection",
+    "benefits": "Mobile and internet reimbursement. Provident Fund and Gratuity as per company policy. International travel opportunities for senior roles. Maternity and paternity leave. Modern office with recreational facilities. Annual paid leaves and casual leaves",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Mobile and internet reimbursement, Provident Fund and Gratuity as per company policy, International travel opportunities for senior roles, Maternity and paternity leave, Modern office with recreational facilities, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "Are you a skilled Full Stack Developer looking for your next big career move? Mphasis in Srinagar offers you the perfect platform to grow professionally and per",
+    "keywords": "Full Stack Developer, Mphasis, jobs in Srinagar, Jammu & Kashmir jobs, technology jobs India, Python, Microservices, Kubernetes, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:03:21.675Z"
+}

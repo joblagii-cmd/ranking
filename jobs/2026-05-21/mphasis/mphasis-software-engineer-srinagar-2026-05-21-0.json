@@ -1,0 +1,92 @@
+{
+  "slug": "mphasis-software-engineer-srinagar-2026-05-21-0",
+  "title": "Walk-in Drive Software Engineer at Mphasis",
+  "company": "Mphasis",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Srinagar",
+    "state": "Jammu & Kashmir",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "AWS",
+    "SQL",
+    "MongoDB",
+    "Microservices",
+    "JavaScript",
+    "Python",
+    "Java",
+    "Node.js"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Walk-in Drive Software Engineer at Mphasis",
+    "description": "Are you a skilled Software Engineer looking for your next big career move? Mphasis in Srinagar offers you the perfect platform to grow professionally and personally.\n\nAbout Mphasis:\nMphasis is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Write clean, maintainable, and well-documented code\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Write and execute unit tests and integration tests\n• Collaborate with cross-functional teams including product, design, and QA\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 12-20 years of relevant experience\n• Proficiency in AWS\n• Proficiency in SQL\n• Proficiency in MongoDB\n• Proficiency in Microservices\n• Proficiency in JavaScript\n• Proficiency in Python\n• Proficiency in Java\n• Proficiency in Node.js\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Annual performance appraisal\n• Life and accident insurance\n• Transportation and conveyance allowance\n• Flexible working hours\n• Maternity and paternity leave\n• Referral bonus program\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Srinagar, Jammu & Kashmir, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Mphasis!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Mphasis",
+      "value": "26-0-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Mphasis",
+      "sameAs": "https://www.google.com/search?q=Mphasis",
+      "logo": "https://logo.clearbit.com/mphasis.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Mphasis Office",
+        "addressLocality": "Srinagar",
+        "addressRegion": "Jammu & Kashmir",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "AWS, SQL, MongoDB, Microservices, JavaScript, Python, Java, Node.js",
+    "responsibilities": "Design, develop and maintain scalable software applications. Write clean, maintainable, and well-documented code. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Troubleshoot, debug, and resolve software defects and performance issues. Work with agile methodologies including daily stand-ups and sprint planning. Write and execute unit tests and integration tests. Collaborate with cross-functional teams including product, design, and QA",
+    "benefits": "Annual performance appraisal. Life and accident insurance. Transportation and conveyance allowance. Flexible working hours. Maternity and paternity leave. Referral bonus program",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual performance appraisal, Life and accident insurance, Transportation and conveyance allowance, Flexible working hours, Maternity and paternity leave, Referral bonus program"
+  },
+  "meta": {
+    "description": "Are you a skilled Software Engineer looking for your next big career move? Mphasis in Srinagar offers you the perfect platform to grow professionally and person",
+    "keywords": "Software Engineer, Mphasis, jobs in Srinagar, Jammu & Kashmir jobs, technology jobs India, AWS, SQL, MongoDB, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:03:21.675Z"
+}

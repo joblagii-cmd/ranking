@@ -1,0 +1,92 @@
+{
+  "slug": "makemytrip-backend-developer-rajkot-2026-05-21-3",
+  "title": "Backend Developer Vacancy at MakeMyTrip - 2026 Batch",
+  "company": "MakeMyTrip",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Microservices",
+    "Rust",
+    "Git",
+    "AWS",
+    "TensorFlow",
+    "Java",
+    "Machine Learning",
+    "TypeScript"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at MakeMyTrip - 2026 Batch",
+    "description": "Are you a skilled Backend Developer looking for your next big career move? MakeMyTrip in Rajkot offers you the perfect platform to grow professionally and personally.\n\nAbout MakeMyTrip:\nMakeMyTrip is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write and execute unit tests and integration tests\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Implement new features based on product requirements\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Optimize application performance and ensure high availability\n• Collaborate with cross-functional teams including product, design, and QA\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 1-3 years of relevant experience\n• Proficiency in Microservices\n• Proficiency in Rust\n• Proficiency in Git\n• Proficiency in AWS\n• Proficiency in TensorFlow\n• Proficiency in Java\n• Proficiency in Machine Learning\n• Proficiency in TypeScript\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Professional development and training programs\n• Company-sponsored certifications\n• Comprehensive health insurance for self and family\n• Flexible working hours\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Rajkot, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with MakeMyTrip!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "MakeMyTrip",
+      "value": "21-3-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "MakeMyTrip",
+      "sameAs": "https://www.google.com/search?q=MakeMyTrip",
+      "logo": "https://logo.clearbit.com/makemytrip.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "MakeMyTrip Office",
+        "addressLocality": "Rajkot",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "Microservices, Rust, Git, AWS, TensorFlow, Java, Machine Learning, TypeScript",
+    "responsibilities": "Write and execute unit tests and integration tests. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Troubleshoot, debug, and resolve software defects and performance issues. Implement new features based on product requirements. Work with agile methodologies including daily stand-ups and sprint planning. Optimize application performance and ensure high availability. Collaborate with cross-functional teams including product, design, and QA",
+    "benefits": "Work-from-home flexibility. Professional development and training programs. Company-sponsored certifications. Comprehensive health insurance for self and family. Flexible working hours. Provident Fund and Gratuity as per company policy",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Professional development and training programs, Company-sponsored certifications, Comprehensive health insurance for self and family, Flexible working hours, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "Are you a skilled Backend Developer looking for your next big career move? MakeMyTrip in Rajkot offers you the perfect platform to grow professionally and perso",
+    "keywords": "Backend Developer, MakeMyTrip, jobs in Rajkot, Gujarat jobs, technology jobs India, Microservices, Rust, Git, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:03:21.668Z"
+}

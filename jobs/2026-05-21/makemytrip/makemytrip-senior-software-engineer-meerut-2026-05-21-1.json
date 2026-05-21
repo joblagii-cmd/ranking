@@ -1,0 +1,93 @@
+{
+  "slug": "makemytrip-senior-software-engineer-meerut-2026-05-21-1",
+  "title": "Senior Software Engineer - MakeMyTrip - Freshers Welcome",
+  "company": "MakeMyTrip",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Node.js",
+    "Java",
+    "Machine Learning",
+    "Agile/Scrum",
+    "CI/CD",
+    "Git",
+    "Go",
+    "AWS"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - MakeMyTrip - Freshers Welcome",
+    "description": "Are you a skilled Senior Software Engineer looking for your next big career move? MakeMyTrip in Meerut offers you the perfect platform to grow professionally and personally.\n\nAbout MakeMyTrip:\nMakeMyTrip is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Write clean, maintainable, and well-documented code\n• Integrate third-party APIs and services\n• Ensure code security and follow best practices for data protection\n• Design, develop and maintain scalable software applications\n• Contribute to system architecture and technical design decisions\n• Participate in on-call rotation for production support\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 10-15 years of relevant experience\n• Proficiency in Node.js\n• Proficiency in Java\n• Proficiency in Machine Learning\n• Proficiency in Agile/Scrum\n• Proficiency in CI/CD\n• Proficiency in Git\n• Proficiency in Go\n• Proficiency in AWS\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Annual performance appraisal\n• Flexible working hours\n• Provident Fund and Gratuity as per company policy\n• Referral bonus program\n• Work-from-home flexibility\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Meerut, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with MakeMyTrip!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "MakeMyTrip",
+      "value": "21-1-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "MakeMyTrip",
+      "sameAs": "https://www.google.com/search?q=MakeMyTrip",
+      "logo": "https://logo.clearbit.com/makemytrip.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "MakeMyTrip Office",
+        "addressLocality": "Meerut",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "Node.js, Java, Machine Learning, Agile/Scrum, CI/CD, Git, Go, AWS",
+    "responsibilities": "Mentor junior developers and conduct knowledge-sharing sessions. Write clean, maintainable, and well-documented code. Integrate third-party APIs and services. Ensure code security and follow best practices for data protection. Design, develop and maintain scalable software applications. Contribute to system architecture and technical design decisions. Participate in on-call rotation for production support",
+    "benefits": "International travel opportunities for senior roles. Annual performance appraisal. Flexible working hours. Provident Fund and Gratuity as per company policy. Referral bonus program. Work-from-home flexibility",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Annual performance appraisal, Flexible working hours, Provident Fund and Gratuity as per company policy, Referral bonus program, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "Are you a skilled Senior Software Engineer looking for your next big career move? MakeMyTrip in Meerut offers you the perfect platform to grow professionally an",
+    "keywords": "Senior Software Engineer, MakeMyTrip, jobs in Meerut, Uttar Pradesh jobs, technology jobs India, Node.js, Java, Machine Learning, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:03:21.667Z"
+}
