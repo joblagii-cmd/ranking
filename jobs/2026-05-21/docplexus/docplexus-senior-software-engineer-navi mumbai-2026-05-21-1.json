@@ -1,0 +1,92 @@
+{
+  "slug": "docplexus-senior-software-engineer-navi mumbai-2026-05-21-1",
+  "title": "Senior Software Engineer - Docplexus - Top MNC",
+  "company": "Docplexus",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Go",
+    "React",
+    "TypeScript",
+    "Agile/Scrum",
+    "Java",
+    "Microservices",
+    "AWS",
+    "REST APIs"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Docplexus - Top MNC",
+    "description": "Docplexus invites applications from qualified candidates for the position of Senior Software Engineer at our Navi Mumbai location. This role offers excellent career advancement prospects.\n\nAbout Docplexus:\nDocplexus is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write and execute unit tests and integration tests\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Collaborate with cross-functional teams including product, design, and QA\n• Contribute to system architecture and technical design decisions\n• Participate in on-call rotation for production support\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 10-15 years of relevant experience\n• Proficiency in Go\n• Proficiency in React\n• Proficiency in TypeScript\n• Proficiency in Agile/Scrum\n• Proficiency in Java\n• Proficiency in Microservices\n• Proficiency in AWS\n• Proficiency in REST APIs\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Employee stock options (ESOPs) for eligible roles\n• Annual performance appraisal\n• Provident Fund and Gratuity as per company policy\n• Flexible working hours\n• Meal coupons and food allowance\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Navi Mumbai, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Docplexus!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Docplexus",
+      "value": "116-1-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Docplexus",
+      "sameAs": "https://www.google.com/search?q=Docplexus",
+      "logo": "https://logo.clearbit.com/docplexus.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Docplexus Office",
+        "addressLocality": "Navi Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "Go, React, TypeScript, Agile/Scrum, Java, Microservices, AWS, REST APIs",
+    "responsibilities": "Write and execute unit tests and integration tests. Troubleshoot, debug, and resolve software defects and performance issues. Mentor junior developers and conduct knowledge-sharing sessions. Work with agile methodologies including daily stand-ups and sprint planning. Collaborate with cross-functional teams including product, design, and QA. Contribute to system architecture and technical design decisions. Participate in on-call rotation for production support",
+    "benefits": "Work-from-home flexibility. Employee stock options (ESOPs) for eligible roles. Annual performance appraisal. Provident Fund and Gratuity as per company policy. Flexible working hours. Meal coupons and food allowance",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Employee stock options (ESOPs) for eligible roles, Annual performance appraisal, Provident Fund and Gratuity as per company policy, Flexible working hours, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "Docplexus invites applications from qualified candidates for the position of Senior Software Engineer at our Navi Mumbai location. This role offers excellent ca",
+    "keywords": "Senior Software Engineer, Docplexus, jobs in Navi Mumbai, Maharashtra jobs, technology jobs India, Go, React, TypeScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:05:57.420Z"
+}

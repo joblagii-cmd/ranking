@@ -1,0 +1,92 @@
+{
+  "slug": "icliniq-backend-developer-howrah-2026-05-21-3",
+  "title": "Backend Developer Vacancy at iCliniq - 2026 Batch",
+  "company": "iCliniq",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Howrah",
+    "state": "West Bengal",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "JavaScript",
+    "Java",
+    "MongoDB",
+    "Rust",
+    "TensorFlow",
+    "Node.js",
+    "Kubernetes",
+    "Go"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at iCliniq - 2026 Batch",
+    "description": "iCliniq invites applications from qualified candidates for the position of Backend Developer at our Howrah location. This role offers excellent career advancement prospects.\n\nAbout iCliniq:\niCliniq is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Participate in code reviews and contribute to technical discussions\n• Integrate third-party APIs and services\n• Write and execute unit tests and integration tests\n• Optimize application performance and ensure high availability\n• Write clean, maintainable, and well-documented code\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 12-20 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Java\n• Proficiency in MongoDB\n• Proficiency in Rust\n• Proficiency in TensorFlow\n• Proficiency in Node.js\n• Proficiency in Kubernetes\n• Proficiency in Go\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• Competitive salary with performance-linked incentives\n• Learning & development budget\n• Referral bonus program\n• Work-from-home flexibility\n• Life and accident insurance\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Howrah, West Bengal, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with iCliniq!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "iCliniq",
+      "value": "119-3-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "iCliniq",
+      "sameAs": "https://www.google.com/search?q=iCliniq",
+      "logo": "https://logo.clearbit.com/icliniq.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "iCliniq Office",
+        "addressLocality": "Howrah",
+        "addressRegion": "West Bengal",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "JavaScript, Java, MongoDB, Rust, TensorFlow, Node.js, Kubernetes, Go",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Mentor junior developers and conduct knowledge-sharing sessions. Participate in code reviews and contribute to technical discussions. Integrate third-party APIs and services. Write and execute unit tests and integration tests. Optimize application performance and ensure high availability. Write clean, maintainable, and well-documented code",
+    "benefits": "Comprehensive health insurance for self and family. Competitive salary with performance-linked incentives. Learning & development budget. Referral bonus program. Work-from-home flexibility. Life and accident insurance",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, Competitive salary with performance-linked incentives, Learning & development budget, Referral bonus program, Work-from-home flexibility, Life and accident insurance"
+  },
+  "meta": {
+    "description": "iCliniq invites applications from qualified candidates for the position of Backend Developer at our Howrah location. This role offers excellent career advanceme",
+    "keywords": "Backend Developer, iCliniq, jobs in Howrah, West Bengal jobs, technology jobs India, JavaScript, Java, MongoDB, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:05:57.421Z"
+}

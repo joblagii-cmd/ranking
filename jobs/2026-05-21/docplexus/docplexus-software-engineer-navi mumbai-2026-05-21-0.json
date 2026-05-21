@@ -1,0 +1,93 @@
+{
+  "slug": "docplexus-software-engineer-navi mumbai-2026-05-21-0",
+  "title": "Opening for Software Engineer at Docplexus",
+  "company": "Docplexus",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "SQL",
+    "Kubernetes",
+    "Go",
+    "Machine Learning",
+    "Rust",
+    "JavaScript",
+    "Microservices",
+    "Git"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Opening for Software Engineer at Docplexus",
+    "description": "Docplexus invites applications from qualified candidates for the position of Software Engineer at our Navi Mumbai location. This role offers excellent career advancement prospects.\n\nAbout Docplexus:\nDocplexus is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Implement new features based on product requirements\n• Write and execute unit tests and integration tests\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Integrate third-party APIs and services\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Mentor junior developers and conduct knowledge-sharing sessions\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 12-20 years of relevant experience\n• Proficiency in SQL\n• Proficiency in Kubernetes\n• Proficiency in Go\n• Proficiency in Machine Learning\n• Proficiency in Rust\n• Proficiency in JavaScript\n• Proficiency in Microservices\n• Proficiency in Git\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Professional development and training programs\n• Annual paid leaves and casual leaves\n• International travel opportunities for senior roles\n• Recognition and rewards programs\n• Learning & development budget\n• Annual performance appraisal\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Navi Mumbai, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Docplexus!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Docplexus",
+      "value": "116-0-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Docplexus",
+      "sameAs": "https://www.google.com/search?q=Docplexus",
+      "logo": "https://logo.clearbit.com/docplexus.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Docplexus Office",
+        "addressLocality": "Navi Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "SQL, Kubernetes, Go, Machine Learning, Rust, JavaScript, Microservices, Git",
+    "responsibilities": "Design, develop and maintain scalable software applications. Implement new features based on product requirements. Write and execute unit tests and integration tests. Work with agile methodologies including daily stand-ups and sprint planning. Integrate third-party APIs and services. Troubleshoot, debug, and resolve software defects and performance issues. Mentor junior developers and conduct knowledge-sharing sessions",
+    "benefits": "Professional development and training programs. Annual paid leaves and casual leaves. International travel opportunities for senior roles. Recognition and rewards programs. Learning & development budget. Annual performance appraisal",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Annual paid leaves and casual leaves, International travel opportunities for senior roles, Recognition and rewards programs, Learning & development budget, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "Docplexus invites applications from qualified candidates for the position of Software Engineer at our Navi Mumbai location. This role offers excellent career ad",
+    "keywords": "Software Engineer, Docplexus, jobs in Navi Mumbai, Maharashtra jobs, technology jobs India, SQL, Kubernetes, Go, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:05:57.420Z"
+}
