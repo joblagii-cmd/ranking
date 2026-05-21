@@ -1,0 +1,93 @@
+{
+  "slug": "byju-s-full-stack-developer-faridabad-2026-05-21-2",
+  "title": "Byju's is Hiring: Full Stack Developer (Junior)",
+  "company": "Byju's",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Faridabad",
+    "state": "Haryana",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "JavaScript",
+    "Python",
+    "React",
+    "Java",
+    "Git",
+    "Go",
+    "Kubernetes",
+    "AWS"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Byju's is Hiring: Full Stack Developer (Junior)",
+    "description": "Are you a skilled Full Stack Developer looking for your next big career move? Byju's in Faridabad offers you the perfect platform to grow professionally and personally.\n\nAbout Byju's:\nByju's is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Implement new features based on product requirements\n• Collaborate with cross-functional teams including product, design, and QA\n• Optimize application performance and ensure high availability\n• Integrate third-party APIs and services\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 0-1 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Python\n• Proficiency in React\n• Proficiency in Java\n• Proficiency in Git\n• Proficiency in Go\n• Proficiency in Kubernetes\n• Proficiency in AWS\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Employee stock options (ESOPs) for eligible roles\n• Professional development and training programs\n• Competitive salary with performance-linked incentives\n• Annual paid leaves and casual leaves\n• Comprehensive health insurance for self and family\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Faridabad, Haryana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Byju's!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Byju's",
+      "value": "18-2-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Byju's",
+      "sameAs": "https://www.google.com/search?q=Byju's",
+      "logo": "https://logo.clearbit.com/byjus.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Byju's Office",
+        "addressLocality": "Faridabad",
+        "addressRegion": "Haryana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "JavaScript, Python, React, Java, Git, Go, Kubernetes, AWS",
+    "responsibilities": "Mentor junior developers and conduct knowledge-sharing sessions. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Troubleshoot, debug, and resolve software defects and performance issues. Implement new features based on product requirements. Collaborate with cross-functional teams including product, design, and QA. Optimize application performance and ensure high availability. Integrate third-party APIs and services",
+    "benefits": "International travel opportunities for senior roles. Employee stock options (ESOPs) for eligible roles. Professional development and training programs. Competitive salary with performance-linked incentives. Annual paid leaves and casual leaves. Comprehensive health insurance for self and family",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Employee stock options (ESOPs) for eligible roles, Professional development and training programs, Competitive salary with performance-linked incentives, Annual paid leaves and casual leaves, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "Are you a skilled Full Stack Developer looking for your next big career move? Byju's in Faridabad offers you the perfect platform to grow professionally and per",
+    "keywords": "Full Stack Developer, Byju's, jobs in Faridabad, Haryana jobs, technology jobs India, JavaScript, Python, React, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:03:04.682Z"
+}

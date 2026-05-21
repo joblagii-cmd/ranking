@@ -1,0 +1,93 @@
+{
+  "slug": "zomato-backend-developer-agra-2026-05-21-3",
+  "title": "Backend Developer Vacancy at Zomato - 2026 Batch",
+  "company": "Zomato",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "JavaScript",
+    "Agile/Scrum",
+    "Kubernetes",
+    "Rust",
+    "AWS",
+    "TypeScript",
+    "Go",
+    "MongoDB"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Zomato - 2026 Batch",
+    "description": "Are you a skilled Backend Developer looking for your next big career move? Zomato in Agra offers you the perfect platform to grow professionally and personally.\n\nAbout Zomato:\nZomato is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure code security and follow best practices for data protection\n• Optimize application performance and ensure high availability\n• Contribute to system architecture and technical design decisions\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Design, develop and maintain scalable software applications\n• Write and execute unit tests and integration tests\n• Integrate third-party APIs and services\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 3-6 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Agile/Scrum\n• Proficiency in Kubernetes\n• Proficiency in Rust\n• Proficiency in AWS\n• Proficiency in TypeScript\n• Proficiency in Go\n• Proficiency in MongoDB\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• International travel opportunities for senior roles\n• Flexible working hours\n• Life and accident insurance\n• Professional development and training programs\n• Meal coupons and food allowance\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Agra, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Zomato!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Zomato",
+      "value": "15-3-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Zomato",
+      "sameAs": "https://www.google.com/search?q=Zomato",
+      "logo": "https://logo.clearbit.com/zomato.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Zomato Office",
+        "addressLocality": "Agra",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "JavaScript, Agile/Scrum, Kubernetes, Rust, AWS, TypeScript, Go, MongoDB",
+    "responsibilities": "Ensure code security and follow best practices for data protection. Optimize application performance and ensure high availability. Contribute to system architecture and technical design decisions. Work with agile methodologies including daily stand-ups and sprint planning. Design, develop and maintain scalable software applications. Write and execute unit tests and integration tests. Integrate third-party APIs and services",
+    "benefits": "Comprehensive health insurance for self and family. International travel opportunities for senior roles. Flexible working hours. Life and accident insurance. Professional development and training programs. Meal coupons and food allowance",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, International travel opportunities for senior roles, Flexible working hours, Life and accident insurance, Professional development and training programs, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "Are you a skilled Backend Developer looking for your next big career move? Zomato in Agra offers you the perfect platform to grow professionally and personally.",
+    "keywords": "Backend Developer, Zomato, jobs in Agra, Uttar Pradesh jobs, technology jobs India, JavaScript, Agile/Scrum, Kubernetes, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:03:04.682Z"
+}

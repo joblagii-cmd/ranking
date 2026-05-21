@@ -1,0 +1,92 @@
+{
+  "slug": "razorpay-full-stack-developer-faridabad-2026-05-21-2",
+  "title": "Razorpay is Hiring: Full Stack Developer (Junior)",
+  "company": "Razorpay",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Faridabad",
+    "state": "Haryana",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Node.js",
+    "REST APIs",
+    "Machine Learning",
+    "MongoDB",
+    "React",
+    "Java",
+    "Docker",
+    "Kubernetes"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Razorpay is Hiring: Full Stack Developer (Junior)",
+    "description": "Are you a skilled Full Stack Developer looking for your next big career move? Razorpay in Faridabad offers you the perfect platform to grow professionally and personally.\n\nAbout Razorpay:\nRazorpay is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Integrate third-party APIs and services\n• Write clean, maintainable, and well-documented code\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Participate in on-call rotation for production support\n• Contribute to system architecture and technical design decisions\n• Collaborate with cross-functional teams including product, design, and QA\n• Design, develop and maintain scalable software applications\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 12-20 years of relevant experience\n• Proficiency in Node.js\n• Proficiency in REST APIs\n• Proficiency in Machine Learning\n• Proficiency in MongoDB\n• Proficiency in React\n• Proficiency in Java\n• Proficiency in Docker\n• Proficiency in Kubernetes\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Meal coupons and food allowance\n• Annual performance appraisal\n• Referral bonus program\n• Annual paid leaves and casual leaves\n• Life and accident insurance\n• Recognition and rewards programs\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Faridabad, Haryana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Razorpay!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Razorpay",
+      "value": "19-2-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Razorpay",
+      "sameAs": "https://www.google.com/search?q=Razorpay",
+      "logo": "https://logo.clearbit.com/razorpay.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Razorpay Office",
+        "addressLocality": "Faridabad",
+        "addressRegion": "Haryana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "Node.js, REST APIs, Machine Learning, MongoDB, React, Java, Docker, Kubernetes",
+    "responsibilities": "Integrate third-party APIs and services. Write clean, maintainable, and well-documented code. Work with agile methodologies including daily stand-ups and sprint planning. Participate in on-call rotation for production support. Contribute to system architecture and technical design decisions. Collaborate with cross-functional teams including product, design, and QA. Design, develop and maintain scalable software applications",
+    "benefits": "Meal coupons and food allowance. Annual performance appraisal. Referral bonus program. Annual paid leaves and casual leaves. Life and accident insurance. Recognition and rewards programs",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Meal coupons and food allowance, Annual performance appraisal, Referral bonus program, Annual paid leaves and casual leaves, Life and accident insurance, Recognition and rewards programs"
+  },
+  "meta": {
+    "description": "Are you a skilled Full Stack Developer looking for your next big career move? Razorpay in Faridabad offers you the perfect platform to grow professionally and p",
+    "keywords": "Full Stack Developer, Razorpay, jobs in Faridabad, Haryana jobs, technology jobs India, Node.js, REST APIs, Machine Learning, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:03:04.683Z"
+}
