@@ -1,0 +1,92 @@
+{
+  "slug": "lg-soft-india-full-stack-developer-noida-2026-05-21-2",
+  "title": "LG Soft India is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "LG Soft India",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "TensorFlow",
+    "Machine Learning",
+    "Kubernetes",
+    "Docker",
+    "REST APIs",
+    "SQL",
+    "AWS",
+    "Node.js"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "LG Soft India is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "LG Soft India, one of India's leading organizations, is hiring a Full Stack Developer for our Noida operations. We offer a competitive salary package along with world-class benefits.\n\nAbout LG Soft India:\nLG Soft India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Participate in code reviews and contribute to technical discussions\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Design, develop and maintain scalable software applications\n• Write and execute unit tests and integration tests\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 0-1 years of relevant experience\n• Proficiency in TensorFlow\n• Proficiency in Machine Learning\n• Proficiency in Kubernetes\n• Proficiency in Docker\n• Proficiency in REST APIs\n• Proficiency in SQL\n• Proficiency in AWS\n• Proficiency in Node.js\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Meal coupons and food allowance\n• Transportation and conveyance allowance\n• Work-from-home flexibility\n• Recognition and rewards programs\n• Referral bonus program\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Noida, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with LG Soft India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "LG Soft India",
+      "value": "55-2-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "LG Soft India",
+      "sameAs": "https://www.google.com/search?q=LG%20Soft%20India",
+      "logo": "https://logo.clearbit.com/lgsoftindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "LG Soft India Office",
+        "addressLocality": "Noida",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "TensorFlow, Machine Learning, Kubernetes, Docker, REST APIs, SQL, AWS, Node.js",
+    "responsibilities": "Mentor junior developers and conduct knowledge-sharing sessions. Work with agile methodologies including daily stand-ups and sprint planning. Participate in code reviews and contribute to technical discussions. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Troubleshoot, debug, and resolve software defects and performance issues. Design, develop and maintain scalable software applications. Write and execute unit tests and integration tests",
+    "benefits": "Competitive salary with performance-linked incentives. Meal coupons and food allowance. Transportation and conveyance allowance. Work-from-home flexibility. Recognition and rewards programs. Referral bonus program",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Meal coupons and food allowance, Transportation and conveyance allowance, Work-from-home flexibility, Recognition and rewards programs, Referral bonus program"
+  },
+  "meta": {
+    "description": "LG Soft India, one of India's leading organizations, is hiring a Full Stack Developer for our Noida operations. We offer a competitive salary package along with",
+    "keywords": "Full Stack Developer, LG Soft India, jobs in Noida, Uttar Pradesh jobs, technology jobs India, TensorFlow, Machine Learning, Kubernetes, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:04:10.906Z"
+}

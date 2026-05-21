@@ -1,0 +1,92 @@
+{
+  "slug": "siemens-india-frontend-developer-tiruchirappalli-2026-05-21-4",
+  "title": "Mid-Level Frontend Developer at Siemens India",
+  "company": "Siemens India",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "AWS",
+    "TypeScript",
+    "Node.js",
+    "Microservices",
+    "Kubernetes",
+    "Go",
+    "React",
+    "Machine Learning"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Frontend Developer at Siemens India",
+    "description": "An exciting career opportunity awaits you at Siemens India. We are on the lookout for a dedicated Frontend Developer to strengthen our Tiruchirappalli-based team.\n\nAbout Siemens India:\nSiemens India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write clean, maintainable, and well-documented code\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Participate in code reviews and contribute to technical discussions\n• Integrate third-party APIs and services\n• Participate in on-call rotation for production support\n• Mentor junior developers and conduct knowledge-sharing sessions\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 3-6 years of relevant experience\n• Proficiency in AWS\n• Proficiency in TypeScript\n• Proficiency in Node.js\n• Proficiency in Microservices\n• Proficiency in Kubernetes\n• Proficiency in Go\n• Proficiency in React\n• Proficiency in Machine Learning\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Work-from-home flexibility\n• Learning & development budget\n• Company-sponsored certifications\n• Meal coupons and food allowance\n• Life and accident insurance\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Tiruchirappalli, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Siemens India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Siemens India",
+      "value": "57-4-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Siemens India",
+      "sameAs": "https://www.google.com/search?q=Siemens%20India",
+      "logo": "https://logo.clearbit.com/siemensindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Siemens India Office",
+        "addressLocality": "Tiruchirappalli",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "AWS, TypeScript, Node.js, Microservices, Kubernetes, Go, React, Machine Learning",
+    "responsibilities": "Write clean, maintainable, and well-documented code. Work with agile methodologies including daily stand-ups and sprint planning. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Participate in code reviews and contribute to technical discussions. Integrate third-party APIs and services. Participate in on-call rotation for production support. Mentor junior developers and conduct knowledge-sharing sessions",
+    "benefits": "Transportation and conveyance allowance. Work-from-home flexibility. Learning & development budget. Company-sponsored certifications. Meal coupons and food allowance. Life and accident insurance",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Work-from-home flexibility, Learning & development budget, Company-sponsored certifications, Meal coupons and food allowance, Life and accident insurance"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Siemens India. We are on the lookout for a dedicated Frontend Developer to strengthen our Tiruchirappalli-based tea",
+    "keywords": "Frontend Developer, Siemens India, jobs in Tiruchirappalli, Tamil Nadu jobs, technology jobs India, AWS, TypeScript, Node.js, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:04:10.907Z"
+}

@@ -1,0 +1,92 @@
+{
+  "slug": "abb-india-frontend-developer-tiruchirappalli-2026-05-21-4",
+  "title": "Mid-Level Frontend Developer at ABB India",
+  "company": "ABB India",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "JavaScript",
+    "React",
+    "Machine Learning",
+    "Git",
+    "Microservices",
+    "Python",
+    "CI/CD",
+    "Node.js"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Frontend Developer at ABB India",
+    "description": "An exciting career opportunity awaits you at ABB India. We are on the lookout for a dedicated Frontend Developer to strengthen our Tiruchirappalli-based team.\n\nAbout ABB India:\nABB India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Collaborate with cross-functional teams including product, design, and QA\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Participate in on-call rotation for production support\n• Integrate third-party APIs and services\n• Participate in code reviews and contribute to technical discussions\n• Optimize application performance and ensure high availability\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 0-1 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in React\n• Proficiency in Machine Learning\n• Proficiency in Git\n• Proficiency in Microservices\n• Proficiency in Python\n• Proficiency in CI/CD\n• Proficiency in Node.js\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• Life and accident insurance\n• Provident Fund and Gratuity as per company policy\n• Transportation and conveyance allowance\n• Professional development and training programs\n• Learning & development budget\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Tiruchirappalli, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with ABB India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "ABB India",
+      "value": "58-4-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "ABB India",
+      "sameAs": "https://www.google.com/search?q=ABB%20India",
+      "logo": "https://logo.clearbit.com/abbindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "ABB India Office",
+        "addressLocality": "Tiruchirappalli",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "JavaScript, React, Machine Learning, Git, Microservices, Python, CI/CD, Node.js",
+    "responsibilities": "Troubleshoot, debug, and resolve software defects and performance issues. Collaborate with cross-functional teams including product, design, and QA. Mentor junior developers and conduct knowledge-sharing sessions. Participate in on-call rotation for production support. Integrate third-party APIs and services. Participate in code reviews and contribute to technical discussions. Optimize application performance and ensure high availability",
+    "benefits": "Comprehensive health insurance for self and family. Life and accident insurance. Provident Fund and Gratuity as per company policy. Transportation and conveyance allowance. Professional development and training programs. Learning & development budget",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, Life and accident insurance, Provident Fund and Gratuity as per company policy, Transportation and conveyance allowance, Professional development and training programs, Learning & development budget"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at ABB India. We are on the lookout for a dedicated Frontend Developer to strengthen our Tiruchirappalli-based team.",
+    "keywords": "Frontend Developer, ABB India, jobs in Tiruchirappalli, Tamil Nadu jobs, technology jobs India, JavaScript, React, Machine Learning, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:04:10.907Z"
+}
