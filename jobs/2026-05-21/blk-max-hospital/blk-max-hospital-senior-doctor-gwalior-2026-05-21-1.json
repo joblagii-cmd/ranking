@@ -1,0 +1,92 @@
+{
+  "slug": "blk-max-hospital-senior-doctor-gwalior-2026-05-21-1",
+  "title": "Senior Doctor - BLK-Max Hospital - Apply Now",
+  "company": "BLK-Max Hospital",
+  "industry": "healthcare",
+  "role": "Senior Doctor",
+  "location": {
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Patient Care",
+    "Clinical Documentation",
+    "Medical Ethics",
+    "Medical Terminology",
+    "CPT Codes",
+    "EMR/EHR",
+    "NABH Standards",
+    "Pharmacovigilance"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Doctor - BLK-Max Hospital - Apply Now",
+    "description": "An exciting career opportunity awaits you at BLK-Max Hospital. We are on the lookout for a dedicated Senior Doctor to strengthen our Gwalior-based team.\n\nAbout BLK-Max Hospital:\nBLK-Max Hospital is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Monitor patient progress and adjust treatment plans accordingly\n• Conduct routine health assessments and screenings\n• Ensure patient privacy and maintain confidentiality\n• Maintain accurate clinical documentation in electronic health records\n• Provide high-quality patient care and maintain patient records\n• Educate patients and families on health management and disease prevention\n• Collaborate with pharmaceutical representatives and medical suppliers\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 10-15 years of relevant experience\n• Proficiency in Patient Care\n• Proficiency in Clinical Documentation\n• Proficiency in Medical Ethics\n• Proficiency in Medical Terminology\n• Proficiency in CPT Codes\n• Proficiency in EMR/EHR\n• Proficiency in NABH Standards\n• Proficiency in Pharmacovigilance\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Modern office with recreational facilities\n• Competitive salary with performance-linked incentives\n• Flexible working hours\n• Company-sponsored certifications\n• Recognition and rewards programs\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Gwalior, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with BLK-Max Hospital!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "BLK-Max Hospital",
+      "value": "292-1-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "BLK-Max Hospital",
+      "sameAs": "https://www.google.com/search?q=BLK-Max%20Hospital",
+      "logo": "https://logo.clearbit.com/blkmaxhospital.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "BLK-Max Hospital Office",
+        "addressLocality": "Gwalior",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "Patient Care, Clinical Documentation, Medical Ethics, Medical Terminology, CPT Codes, EMR/EHR, NABH Standards, Pharmacovigilance",
+    "responsibilities": "Monitor patient progress and adjust treatment plans accordingly. Conduct routine health assessments and screenings. Ensure patient privacy and maintain confidentiality. Maintain accurate clinical documentation in electronic health records. Provide high-quality patient care and maintain patient records. Educate patients and families on health management and disease prevention. Collaborate with pharmaceutical representatives and medical suppliers",
+    "benefits": "Work-from-home flexibility. Modern office with recreational facilities. Competitive salary with performance-linked incentives. Flexible working hours. Company-sponsored certifications. Recognition and rewards programs",
+    "industry": "healthcare",
+    "occupationalCategory": "Senior Doctor",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Modern office with recreational facilities, Competitive salary with performance-linked incentives, Flexible working hours, Company-sponsored certifications, Recognition and rewards programs"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at BLK-Max Hospital. We are on the lookout for a dedicated Senior Doctor to strengthen our Gwalior-based team.",
+    "keywords": "Senior Doctor, BLK-Max Hospital, jobs in Gwalior, Madhya Pradesh jobs, healthcare jobs India, Patient Care, Clinical Documentation, Medical Ethics, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:11:08.804Z"
+}

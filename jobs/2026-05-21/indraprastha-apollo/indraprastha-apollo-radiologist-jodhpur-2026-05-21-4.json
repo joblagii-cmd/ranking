@@ -1,0 +1,92 @@
+{
+  "slug": "indraprastha-apollo-radiologist-jodhpur-2026-05-21-4",
+  "title": "Entry-Level Radiologist at Indraprastha Apollo",
+  "company": "Indraprastha Apollo",
+  "industry": "healthcare",
+  "role": "Radiologist",
+  "location": {
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "HIPAA Compliance",
+    "Health Informatics",
+    "Clinical Documentation",
+    "BLS/ACLS",
+    "Telemedicine",
+    "Infection Control",
+    "ICU Management",
+    "Diagnostic Skills"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Entry-Level Radiologist at Indraprastha Apollo",
+    "description": "An exciting career opportunity awaits you at Indraprastha Apollo. We are on the lookout for a dedicated Radiologist to strengthen our Jodhpur-based team.\n\nAbout Indraprastha Apollo:\nIndraprastha Apollo is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Administer medications and treatments as prescribed\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Participate in quality improvement initiatives and clinical audits\n• Educate patients and families on health management and disease prevention\n• Maintain sterile environments and follow infection control protocols\n• Maintain accurate clinical documentation in electronic health records\n• Attend continuing medical education programs and training\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 12-20 years of relevant experience\n• Proficiency in HIPAA Compliance\n• Proficiency in Health Informatics\n• Proficiency in Clinical Documentation\n• Proficiency in BLS/ACLS\n• Proficiency in Telemedicine\n• Proficiency in Infection Control\n• Proficiency in ICU Management\n• Proficiency in Diagnostic Skills\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Annual paid leaves and casual leaves\n• International travel opportunities for senior roles\n• Provident Fund and Gratuity as per company policy\n• Maternity and paternity leave\n• Referral bonus program\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Jodhpur, Rajasthan, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Indraprastha Apollo!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Indraprastha Apollo",
+      "value": "293-4-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Indraprastha Apollo",
+      "sameAs": "https://www.google.com/search?q=Indraprastha%20Apollo",
+      "logo": "https://logo.clearbit.com/indraprasthaapollo.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Indraprastha Apollo Office",
+        "addressLocality": "Jodhpur",
+        "addressRegion": "Rajasthan",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "HIPAA Compliance, Health Informatics, Clinical Documentation, BLS/ACLS, Telemedicine, Infection Control, ICU Management, Diagnostic Skills",
+    "responsibilities": "Administer medications and treatments as prescribed. Coordinate with multidisciplinary teams for comprehensive patient management. Participate in quality improvement initiatives and clinical audits. Educate patients and families on health management and disease prevention. Maintain sterile environments and follow infection control protocols. Maintain accurate clinical documentation in electronic health records. Attend continuing medical education programs and training",
+    "benefits": "Work-from-home flexibility. Annual paid leaves and casual leaves. International travel opportunities for senior roles. Provident Fund and Gratuity as per company policy. Maternity and paternity leave. Referral bonus program",
+    "industry": "healthcare",
+    "occupationalCategory": "Radiologist",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Annual paid leaves and casual leaves, International travel opportunities for senior roles, Provident Fund and Gratuity as per company policy, Maternity and paternity leave, Referral bonus program"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Indraprastha Apollo. We are on the lookout for a dedicated Radiologist to strengthen our Jodhpur-based team.",
+    "keywords": "Radiologist, Indraprastha Apollo, jobs in Jodhpur, Rajasthan jobs, healthcare jobs India, HIPAA Compliance, Health Informatics, Clinical Documentation, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:11:08.805Z"
+}

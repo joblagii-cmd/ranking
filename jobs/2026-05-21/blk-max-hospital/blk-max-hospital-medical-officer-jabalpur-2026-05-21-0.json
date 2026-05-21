@@ -1,0 +1,92 @@
+{
+  "slug": "blk-max-hospital-medical-officer-jabalpur-2026-05-21-0",
+  "title": "Hiring Medical Officer at BLK-Max Hospital",
+  "company": "BLK-Max Hospital",
+  "industry": "healthcare",
+  "role": "Medical Officer",
+  "location": {
+    "city": "Jabalpur",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Clinical Research",
+    "Surgical Procedures",
+    "Patient Care",
+    "ICU Management",
+    "Infection Control",
+    "HIPAA Compliance",
+    "Clinical Documentation",
+    "EMR/EHR"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Hiring Medical Officer at BLK-Max Hospital",
+    "description": "BLK-Max Hospital, one of India's leading organizations, is hiring a Medical Officer for our Jabalpur operations. We offer a competitive salary package along with world-class benefits.\n\nAbout BLK-Max Hospital:\nBLK-Max Hospital is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with pharmaceutical representatives and medical suppliers\n• Administer medications and treatments as prescribed\n• Adhere to NABH/JCI accreditation standards\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Diagnose and treat medical conditions following established protocols\n• Ensure patient privacy and maintain confidentiality\n• Educate patients and families on health management and disease prevention\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 12-20 years of relevant experience\n• Proficiency in Clinical Research\n• Proficiency in Surgical Procedures\n• Proficiency in Patient Care\n• Proficiency in ICU Management\n• Proficiency in Infection Control\n• Proficiency in HIPAA Compliance\n• Proficiency in Clinical Documentation\n• Proficiency in EMR/EHR\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Annual paid leaves and casual leaves\n• International travel opportunities for senior roles\n• Learning & development budget\n• Referral bonus program\n• Recognition and rewards programs\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Jabalpur, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with BLK-Max Hospital!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "BLK-Max Hospital",
+      "value": "292-0-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "BLK-Max Hospital",
+      "sameAs": "https://www.google.com/search?q=BLK-Max%20Hospital",
+      "logo": "https://logo.clearbit.com/blkmaxhospital.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "BLK-Max Hospital Office",
+        "addressLocality": "Jabalpur",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "Clinical Research, Surgical Procedures, Patient Care, ICU Management, Infection Control, HIPAA Compliance, Clinical Documentation, EMR/EHR",
+    "responsibilities": "Collaborate with pharmaceutical representatives and medical suppliers. Administer medications and treatments as prescribed. Adhere to NABH/JCI accreditation standards. Coordinate with multidisciplinary teams for comprehensive patient management. Diagnose and treat medical conditions following established protocols. Ensure patient privacy and maintain confidentiality. Educate patients and families on health management and disease prevention",
+    "benefits": "Transportation and conveyance allowance. Annual paid leaves and casual leaves. International travel opportunities for senior roles. Learning & development budget. Referral bonus program. Recognition and rewards programs",
+    "industry": "healthcare",
+    "occupationalCategory": "Medical Officer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Annual paid leaves and casual leaves, International travel opportunities for senior roles, Learning & development budget, Referral bonus program, Recognition and rewards programs"
+  },
+  "meta": {
+    "description": "BLK-Max Hospital, one of India's leading organizations, is hiring a Medical Officer for our Jabalpur operations. We offer a competitive salary package along wit",
+    "keywords": "Medical Officer, BLK-Max Hospital, jobs in Jabalpur, Madhya Pradesh jobs, healthcare jobs India, Clinical Research, Surgical Procedures, Patient Care, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:11:08.804Z"
+}
