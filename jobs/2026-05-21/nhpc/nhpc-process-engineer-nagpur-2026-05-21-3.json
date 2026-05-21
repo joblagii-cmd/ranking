@@ -1,0 +1,92 @@
+{
+  "slug": "nhpc-process-engineer-nagpur-2026-05-21-3",
+  "title": "Process Engineer Vacancy at NHPC - 2026 Batch",
+  "company": "NHPC",
+  "industry": "manufacturing",
+  "role": "Process Engineer",
+  "location": {
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Kaizen",
+    "Supply Chain Management",
+    "FMEA",
+    "SolidWorks",
+    "AutoCAD",
+    "ISO 9001",
+    "PLC/SCADA",
+    "Root Cause Analysis"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Process Engineer Vacancy at NHPC - 2026 Batch",
+    "description": "NHPC is actively seeking a talented and motivated Process Engineer to join our dynamic team in Nagpur. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout NHPC:\nNHPC is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with logistics for dispatching finished goods\n• Coordinate with design and engineering teams on product improvements\n• Manage raw material procurement and inventory levels\n• Manage supplier quality audits and vendor development\n• Oversee daily production operations to meet output targets\n• Prepare production cost analysis and efficiency reports\n• Maintain accurate production records and prepare daily reports\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 0-1 years of relevant experience\n• Proficiency in Kaizen\n• Proficiency in Supply Chain Management\n• Proficiency in FMEA\n• Proficiency in SolidWorks\n• Proficiency in AutoCAD\n• Proficiency in ISO 9001\n• Proficiency in PLC/SCADA\n• Proficiency in Root Cause Analysis\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Referral bonus program\n• Life and accident insurance\n• Maternity and paternity leave\n• Transportation and conveyance allowance\n• Learning & development budget\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Nagpur, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with NHPC!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "NHPC",
+      "value": "415-3-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "NHPC",
+      "sameAs": "https://www.google.com/search?q=NHPC",
+      "logo": "https://logo.clearbit.com/nhpc.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "NHPC Office",
+        "addressLocality": "Nagpur",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Kaizen, Supply Chain Management, FMEA, SolidWorks, AutoCAD, ISO 9001, PLC/SCADA, Root Cause Analysis",
+    "responsibilities": "Coordinate with logistics for dispatching finished goods. Coordinate with design and engineering teams on product improvements. Manage raw material procurement and inventory levels. Manage supplier quality audits and vendor development. Oversee daily production operations to meet output targets. Prepare production cost analysis and efficiency reports. Maintain accurate production records and prepare daily reports",
+    "benefits": "International travel opportunities for senior roles. Referral bonus program. Life and accident insurance. Maternity and paternity leave. Transportation and conveyance allowance. Learning & development budget",
+    "industry": "manufacturing",
+    "occupationalCategory": "Process Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Referral bonus program, Life and accident insurance, Maternity and paternity leave, Transportation and conveyance allowance, Learning & development budget"
+  },
+  "meta": {
+    "description": "NHPC is actively seeking a talented and motivated Process Engineer to join our dynamic team in Nagpur. This is an excellent opportunity for professionals who ar",
+    "keywords": "Process Engineer, NHPC, jobs in Nagpur, Maharashtra jobs, manufacturing jobs India, Kaizen, Supply Chain Management, FMEA, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:14:56.507Z"
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "power-grid-corporation-plant-manager-nagpur-2026-05-21-4",
+  "title": "Mid-Level Plant Manager at Power Grid Corporation",
+  "company": "Power Grid Corporation",
+  "industry": "manufacturing",
+  "role": "Plant Manager",
+  "location": {
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Project Management",
+    "Six Sigma",
+    "FMEA",
+    "AutoCAD",
+    "ISO 9001",
+    "5S",
+    "PPAP",
+    "Root Cause Analysis"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Plant Manager at Power Grid Corporation",
+    "description": "Power Grid Corporation is actively seeking a talented and motivated Plant Manager to join our dynamic team in Nagpur. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout Power Grid Corporation:\nPower Grid Corporation is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Maintain accurate production records and prepare daily reports\n• Manage raw material procurement and inventory levels\n• Implement 5S, Kaizen, and Six Sigma practices on the shop floor\n• Ensure environmental compliance and waste management\n• Monitor equipment performance and coordinate preventive maintenance\n• Ensure product quality meets internal and customer specifications\n• Coordinate with logistics for dispatching finished goods\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 0-1 years of relevant experience\n• Proficiency in Project Management\n• Proficiency in Six Sigma\n• Proficiency in FMEA\n• Proficiency in AutoCAD\n• Proficiency in ISO 9001\n• Proficiency in 5S\n• Proficiency in PPAP\n• Proficiency in Root Cause Analysis\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Transportation and conveyance allowance\n• Recognition and rewards programs\n• Company-sponsored certifications\n• Mobile and internet reimbursement\n• Comprehensive health insurance for self and family\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Nagpur, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Power Grid Corporation!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Power Grid Corporation",
+      "value": "414-4-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Power Grid Corporation",
+      "sameAs": "https://www.google.com/search?q=Power%20Grid%20Corporation",
+      "logo": "https://logo.clearbit.com/powergridcorporation.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Power Grid Corporation Office",
+        "addressLocality": "Nagpur",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "Project Management, Six Sigma, FMEA, AutoCAD, ISO 9001, 5S, PPAP, Root Cause Analysis",
+    "responsibilities": "Maintain accurate production records and prepare daily reports. Manage raw material procurement and inventory levels. Implement 5S, Kaizen, and Six Sigma practices on the shop floor. Ensure environmental compliance and waste management. Monitor equipment performance and coordinate preventive maintenance. Ensure product quality meets internal and customer specifications. Coordinate with logistics for dispatching finished goods",
+    "benefits": "Competitive salary with performance-linked incentives. Transportation and conveyance allowance. Recognition and rewards programs. Company-sponsored certifications. Mobile and internet reimbursement. Comprehensive health insurance for self and family",
+    "industry": "manufacturing",
+    "occupationalCategory": "Plant Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Transportation and conveyance allowance, Recognition and rewards programs, Company-sponsored certifications, Mobile and internet reimbursement, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "Power Grid Corporation is actively seeking a talented and motivated Plant Manager to join our dynamic team in Nagpur. This is an excellent opportunity for profe",
+    "keywords": "Plant Manager, Power Grid Corporation, jobs in Nagpur, Maharashtra jobs, manufacturing jobs India, Project Management, Six Sigma, FMEA, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:14:56.506Z"
+}
