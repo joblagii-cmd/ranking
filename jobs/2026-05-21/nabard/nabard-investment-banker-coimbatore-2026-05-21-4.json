@@ -1,0 +1,92 @@
+{
+  "slug": "nabard-investment-banker-coimbatore-2026-05-21-4",
+  "title": "Lead Investment Banker at NABARD",
+  "company": "NABARD",
+  "industry": "finance",
+  "role": "Investment Banker",
+  "location": {
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "GST",
+    "Financial Modeling",
+    "Forecasting",
+    "MS Excel",
+    "Credit Analysis",
+    "Financial Reporting",
+    "Tally",
+    "QuickBooks"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Lead Investment Banker at NABARD",
+    "description": "We at NABARD are looking for an experienced Investment Banker based out of Coimbatore. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout NABARD:\nNABARD is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Prepare and analyze financial statements, reports, and budgets\n• Ensure compliance with tax regulations and statutory requirements\n• Monitor financial performance against targets and provide variance analysis\n• Monitor market trends and provide investment recommendations\n• Process payroll and manage employee reimbursements\n• Manage accounts payable and accounts receivable functions\n• Prepare annual reports and investor presentations\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 12-20 years of relevant experience\n• Proficiency in GST\n• Proficiency in Financial Modeling\n• Proficiency in Forecasting\n• Proficiency in MS Excel\n• Proficiency in Credit Analysis\n• Proficiency in Financial Reporting\n• Proficiency in Tally\n• Proficiency in QuickBooks\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Referral bonus program\n• Modern office with recreational facilities\n• Learning & development budget\n• Meal coupons and food allowance\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Coimbatore, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with NABARD!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "NABARD",
+      "value": "203-4-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "NABARD",
+      "sameAs": "https://www.google.com/search?q=NABARD",
+      "logo": "https://logo.clearbit.com/nabard.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "NABARD Office",
+        "addressLocality": "Coimbatore",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "GST, Financial Modeling, Forecasting, MS Excel, Credit Analysis, Financial Reporting, Tally, QuickBooks",
+    "responsibilities": "Prepare and analyze financial statements, reports, and budgets. Ensure compliance with tax regulations and statutory requirements. Monitor financial performance against targets and provide variance analysis. Monitor market trends and provide investment recommendations. Process payroll and manage employee reimbursements. Manage accounts payable and accounts receivable functions. Prepare annual reports and investor presentations",
+    "benefits": "Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Referral bonus program. Modern office with recreational facilities. Learning & development budget. Meal coupons and food allowance",
+    "industry": "finance",
+    "occupationalCategory": "Investment Banker",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Referral bonus program, Modern office with recreational facilities, Learning & development budget, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "We at NABARD are looking for an experienced Investment Banker based out of Coimbatore. If you are a result-oriented professional with a passion for excellence, ",
+    "keywords": "Investment Banker, NABARD, jobs in Coimbatore, Tamil Nadu jobs, finance jobs India, GST, Financial Modeling, Forecasting, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:08:32.392Z"
+}

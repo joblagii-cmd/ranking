@@ -1,0 +1,93 @@
+{
+  "slug": "rbi-investment-banker-howrah-2026-05-21-4",
+  "title": "Lead Investment Banker at RBI",
+  "company": "RBI",
+  "industry": "finance",
+  "role": "Investment Banker",
+  "location": {
+    "city": "Howrah",
+    "state": "West Bengal",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Financial Modeling",
+    "MS Excel",
+    "GST",
+    "Due Diligence",
+    "Financial Reporting",
+    "Ind AS",
+    "Power BI",
+    "QuickBooks"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Lead Investment Banker at RBI",
+    "description": "We at RBI are looking for an experienced Investment Banker based out of Howrah. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout RBI:\nRBI is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Prepare MIS reports for senior management review\n• Monitor market trends and provide investment recommendations\n• Prepare and analyze financial statements, reports, and budgets\n• Maintain general ledger and ensure accurate bookkeeping\n• Implement and maintain internal controls and audit procedures\n• Monitor financial performance against targets and provide variance analysis\n• Manage credit risk assessment and loan appraisal processes\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 0-1 years of relevant experience\n• Proficiency in Financial Modeling\n• Proficiency in MS Excel\n• Proficiency in GST\n• Proficiency in Due Diligence\n• Proficiency in Financial Reporting\n• Proficiency in Ind AS\n• Proficiency in Power BI\n• Proficiency in QuickBooks\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Professional development and training programs\n• Annual paid leaves and casual leaves\n• Transportation and conveyance allowance\n• Annual performance appraisal\n• Learning & development budget\n• Meal coupons and food allowance\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Howrah, West Bengal, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with RBI!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "RBI",
+      "value": "202-4-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "RBI",
+      "sameAs": "https://www.google.com/search?q=RBI",
+      "logo": "https://logo.clearbit.com/rbi.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "RBI Office",
+        "addressLocality": "Howrah",
+        "addressRegion": "West Bengal",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "Financial Modeling, MS Excel, GST, Due Diligence, Financial Reporting, Ind AS, Power BI, QuickBooks",
+    "responsibilities": "Prepare MIS reports for senior management review. Monitor market trends and provide investment recommendations. Prepare and analyze financial statements, reports, and budgets. Maintain general ledger and ensure accurate bookkeeping. Implement and maintain internal controls and audit procedures. Monitor financial performance against targets and provide variance analysis. Manage credit risk assessment and loan appraisal processes",
+    "benefits": "Professional development and training programs. Annual paid leaves and casual leaves. Transportation and conveyance allowance. Annual performance appraisal. Learning & development budget. Meal coupons and food allowance",
+    "industry": "finance",
+    "occupationalCategory": "Investment Banker",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Annual paid leaves and casual leaves, Transportation and conveyance allowance, Annual performance appraisal, Learning & development budget, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "We at RBI are looking for an experienced Investment Banker based out of Howrah. If you are a result-oriented professional with a passion for excellence, we want",
+    "keywords": "Investment Banker, RBI, jobs in Howrah, West Bengal jobs, finance jobs India, Financial Modeling, MS Excel, GST, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:08:32.392Z"
+}

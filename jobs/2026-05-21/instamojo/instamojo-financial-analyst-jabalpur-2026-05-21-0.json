@@ -1,0 +1,92 @@
+{
+  "slug": "instamojo-financial-analyst-jabalpur-2026-05-21-0",
+  "title": "Career Opportunity Financial Analyst at Instamojo",
+  "company": "Instamojo",
+  "industry": "finance",
+  "role": "Financial Analyst",
+  "location": {
+    "city": "Jabalpur",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Python for Finance",
+    "Credit Analysis",
+    "SAP FICO",
+    "QuickBooks",
+    "Forecasting",
+    "MS Excel",
+    "Ind AS",
+    "Financial Reporting"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Career Opportunity Financial Analyst at Instamojo",
+    "description": "We at Instamojo are looking for an experienced Financial Analyst based out of Jabalpur. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout Instamojo:\nInstamojo is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Implement and maintain internal controls and audit procedures\n• Prepare MIS reports for senior management review\n• Process payroll and manage employee reimbursements\n• Monitor market trends and provide investment recommendations\n• Coordinate with external auditors during annual audits\n• Ensure compliance with tax regulations and statutory requirements\n• Monitor financial performance against targets and provide variance analysis\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 10-15 years of relevant experience\n• Proficiency in Python for Finance\n• Proficiency in Credit Analysis\n• Proficiency in SAP FICO\n• Proficiency in QuickBooks\n• Proficiency in Forecasting\n• Proficiency in MS Excel\n• Proficiency in Ind AS\n• Proficiency in Financial Reporting\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Referral bonus program\n• Work-from-home flexibility\n• Annual paid leaves and casual leaves\n• Professional development and training programs\n• Learning & development budget\n• Meal coupons and food allowance\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Jabalpur, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Instamojo!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Instamojo",
+      "value": "208-0-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Instamojo",
+      "sameAs": "https://www.google.com/search?q=Instamojo",
+      "logo": "https://logo.clearbit.com/instamojo.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Instamojo Office",
+        "addressLocality": "Jabalpur",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "Python for Finance, Credit Analysis, SAP FICO, QuickBooks, Forecasting, MS Excel, Ind AS, Financial Reporting",
+    "responsibilities": "Implement and maintain internal controls and audit procedures. Prepare MIS reports for senior management review. Process payroll and manage employee reimbursements. Monitor market trends and provide investment recommendations. Coordinate with external auditors during annual audits. Ensure compliance with tax regulations and statutory requirements. Monitor financial performance against targets and provide variance analysis",
+    "benefits": "Referral bonus program. Work-from-home flexibility. Annual paid leaves and casual leaves. Professional development and training programs. Learning & development budget. Meal coupons and food allowance",
+    "industry": "finance",
+    "occupationalCategory": "Financial Analyst",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Referral bonus program, Work-from-home flexibility, Annual paid leaves and casual leaves, Professional development and training programs, Learning & development budget, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "We at Instamojo are looking for an experienced Financial Analyst based out of Jabalpur. If you are a result-oriented professional with a passion for excellence,",
+    "keywords": "Financial Analyst, Instamojo, jobs in Jabalpur, Madhya Pradesh jobs, finance jobs India, Python for Finance, Credit Analysis, SAP FICO, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:08:32.395Z"
+}

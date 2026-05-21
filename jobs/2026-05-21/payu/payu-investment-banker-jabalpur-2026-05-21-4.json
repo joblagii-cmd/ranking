@@ -1,0 +1,93 @@
+{
+  "slug": "payu-investment-banker-jabalpur-2026-05-21-4",
+  "title": "Lead Investment Banker at PayU",
+  "company": "PayU",
+  "industry": "finance",
+  "role": "Investment Banker",
+  "location": {
+    "city": "Jabalpur",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Risk Management",
+    "Budgeting",
+    "MS Excel",
+    "Due Diligence",
+    "Tally",
+    "Financial Reporting",
+    "Ind AS",
+    "IFRS"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Lead Investment Banker at PayU",
+    "description": "We at PayU are looking for an experienced Investment Banker based out of Jabalpur. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout PayU:\nPayU is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Develop financial models and projections for business planning\n• Maintain general ledger and ensure accurate bookkeeping\n• Process payroll and manage employee reimbursements\n• Prepare MIS reports for senior management review\n• Implement and maintain internal controls and audit procedures\n• Ensure compliance with tax regulations and statutory requirements\n• Liaise with banks, regulators, and financial institutions\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 1-3 years of relevant experience\n• Proficiency in Risk Management\n• Proficiency in Budgeting\n• Proficiency in MS Excel\n• Proficiency in Due Diligence\n• Proficiency in Tally\n• Proficiency in Financial Reporting\n• Proficiency in Ind AS\n• Proficiency in IFRS\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Flexible working hours\n• Referral bonus program\n• Maternity and paternity leave\n• Modern office with recreational facilities\n• Comprehensive health insurance for self and family\n• Life and accident insurance\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Jabalpur, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with PayU!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "PayU",
+      "value": "206-4-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "PayU",
+      "sameAs": "https://www.google.com/search?q=PayU",
+      "logo": "https://logo.clearbit.com/payu.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "PayU Office",
+        "addressLocality": "Jabalpur",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "Risk Management, Budgeting, MS Excel, Due Diligence, Tally, Financial Reporting, Ind AS, IFRS",
+    "responsibilities": "Develop financial models and projections for business planning. Maintain general ledger and ensure accurate bookkeeping. Process payroll and manage employee reimbursements. Prepare MIS reports for senior management review. Implement and maintain internal controls and audit procedures. Ensure compliance with tax regulations and statutory requirements. Liaise with banks, regulators, and financial institutions",
+    "benefits": "Flexible working hours. Referral bonus program. Maternity and paternity leave. Modern office with recreational facilities. Comprehensive health insurance for self and family. Life and accident insurance",
+    "industry": "finance",
+    "occupationalCategory": "Investment Banker",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, Referral bonus program, Maternity and paternity leave, Modern office with recreational facilities, Comprehensive health insurance for self and family, Life and accident insurance"
+  },
+  "meta": {
+    "description": "We at PayU are looking for an experienced Investment Banker based out of Jabalpur. If you are a result-oriented professional with a passion for excellence, we w",
+    "keywords": "Investment Banker, PayU, jobs in Jabalpur, Madhya Pradesh jobs, finance jobs India, Risk Management, Budgeting, MS Excel, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:08:32.395Z"
+}
