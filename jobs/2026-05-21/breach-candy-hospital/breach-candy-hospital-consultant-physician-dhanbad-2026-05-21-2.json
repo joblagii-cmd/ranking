@@ -1,0 +1,93 @@
+{
+  "slug": "breach-candy-hospital-consultant-physician-dhanbad-2026-05-21-2",
+  "title": "Breach Candy Hospital is Hiring: Consultant Physician (Entry-Level)",
+  "company": "Breach Candy Hospital",
+  "industry": "healthcare",
+  "role": "Consultant Physician",
+  "location": {
+    "city": "Dhanbad",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "CPT Codes",
+    "Surgical Procedures",
+    "Patient Care",
+    "Medical Terminology",
+    "Infection Control",
+    "Health Informatics",
+    "Diagnostic Skills",
+    "Clinical Documentation"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Breach Candy Hospital is Hiring: Consultant Physician (Entry-Level)",
+    "description": "Breach Candy Hospital, one of India's leading organizations, is hiring a Consultant Physician for our Dhanbad operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Breach Candy Hospital:\nBreach Candy Hospital is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Educate patients and families on health management and disease prevention\n• Attend continuing medical education programs and training\n• Adhere to NABH/JCI accreditation standards\n• Monitor patient progress and adjust treatment plans accordingly\n• Administer medications and treatments as prescribed\n• Respond to medical emergencies and provide immediate care\n• Coordinate with multidisciplinary teams for comprehensive patient management\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 12-20 years of relevant experience\n• Proficiency in CPT Codes\n• Proficiency in Surgical Procedures\n• Proficiency in Patient Care\n• Proficiency in Medical Terminology\n• Proficiency in Infection Control\n• Proficiency in Health Informatics\n• Proficiency in Diagnostic Skills\n• Proficiency in Clinical Documentation\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Provident Fund and Gratuity as per company policy\n• Meal coupons and food allowance\n• Professional development and training programs\n• Comprehensive health insurance for self and family\n• Life and accident insurance\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Dhanbad, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Breach Candy Hospital!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Breach Candy Hospital",
+      "value": "279-2-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Breach Candy Hospital",
+      "sameAs": "https://www.google.com/search?q=Breach%20Candy%20Hospital",
+      "logo": "https://logo.clearbit.com/breachcandyhospital.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Breach Candy Hospital Office",
+        "addressLocality": "Dhanbad",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "CPT Codes, Surgical Procedures, Patient Care, Medical Terminology, Infection Control, Health Informatics, Diagnostic Skills, Clinical Documentation",
+    "responsibilities": "Educate patients and families on health management and disease prevention. Attend continuing medical education programs and training. Adhere to NABH/JCI accreditation standards. Monitor patient progress and adjust treatment plans accordingly. Administer medications and treatments as prescribed. Respond to medical emergencies and provide immediate care. Coordinate with multidisciplinary teams for comprehensive patient management",
+    "benefits": "Annual paid leaves and casual leaves. Provident Fund and Gratuity as per company policy. Meal coupons and food allowance. Professional development and training programs. Comprehensive health insurance for self and family. Life and accident insurance",
+    "industry": "healthcare",
+    "occupationalCategory": "Consultant Physician",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Provident Fund and Gratuity as per company policy, Meal coupons and food allowance, Professional development and training programs, Comprehensive health insurance for self and family, Life and accident insurance"
+  },
+  "meta": {
+    "description": "Breach Candy Hospital, one of India's leading organizations, is hiring a Consultant Physician for our Dhanbad operations. We offer a competitive salary package ",
+    "keywords": "Consultant Physician, Breach Candy Hospital, jobs in Dhanbad, Jharkhand jobs, healthcare jobs India, CPT Codes, Surgical Procedures, Patient Care, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:10:31.755Z"
+}

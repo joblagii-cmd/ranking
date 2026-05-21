@@ -1,0 +1,92 @@
+{
+  "slug": "lilavati-hospital-surgeon-dhanbad-2026-05-21-3",
+  "title": "Surgeon Vacancy at Lilavati Hospital - 2026 Batch",
+  "company": "Lilavati Hospital",
+  "industry": "healthcare",
+  "role": "Surgeon",
+  "location": {
+    "city": "Dhanbad",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Pharmacovigilance",
+    "Patient Care",
+    "Telemedicine",
+    "Clinical Documentation",
+    "NABH Standards",
+    "Clinical Research",
+    "Diagnostic Skills",
+    "EMR/EHR"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Surgeon Vacancy at Lilavati Hospital - 2026 Batch",
+    "description": "Lilavati Hospital, one of India's leading organizations, is hiring a Surgeon for our Dhanbad operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Lilavati Hospital:\nLilavati Hospital is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Administer medications and treatments as prescribed\n• Diagnose and treat medical conditions following established protocols\n• Maintain sterile environments and follow infection control protocols\n• Respond to medical emergencies and provide immediate care\n• Provide high-quality patient care and maintain patient records\n• Educate patients and families on health management and disease prevention\n• Collaborate with pharmaceutical representatives and medical suppliers\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 12-20 years of relevant experience\n• Proficiency in Pharmacovigilance\n• Proficiency in Patient Care\n• Proficiency in Telemedicine\n• Proficiency in Clinical Documentation\n• Proficiency in NABH Standards\n• Proficiency in Clinical Research\n• Proficiency in Diagnostic Skills\n• Proficiency in EMR/EHR\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Modern office with recreational facilities\n• Annual paid leaves and casual leaves\n• Referral bonus program\n• Company-sponsored certifications\n• Transportation and conveyance allowance\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Dhanbad, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Lilavati Hospital!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Lilavati Hospital",
+      "value": "278-3-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Lilavati Hospital",
+      "sameAs": "https://www.google.com/search?q=Lilavati%20Hospital",
+      "logo": "https://logo.clearbit.com/lilavatihospital.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Lilavati Hospital Office",
+        "addressLocality": "Dhanbad",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "Pharmacovigilance, Patient Care, Telemedicine, Clinical Documentation, NABH Standards, Clinical Research, Diagnostic Skills, EMR/EHR",
+    "responsibilities": "Administer medications and treatments as prescribed. Diagnose and treat medical conditions following established protocols. Maintain sterile environments and follow infection control protocols. Respond to medical emergencies and provide immediate care. Provide high-quality patient care and maintain patient records. Educate patients and families on health management and disease prevention. Collaborate with pharmaceutical representatives and medical suppliers",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Modern office with recreational facilities. Annual paid leaves and casual leaves. Referral bonus program. Company-sponsored certifications. Transportation and conveyance allowance",
+    "industry": "healthcare",
+    "occupationalCategory": "Surgeon",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Modern office with recreational facilities, Annual paid leaves and casual leaves, Referral bonus program, Company-sponsored certifications, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "Lilavati Hospital, one of India's leading organizations, is hiring a Surgeon for our Dhanbad operations. We offer a competitive salary package along with world-",
+    "keywords": "Surgeon, Lilavati Hospital, jobs in Dhanbad, Jharkhand jobs, healthcare jobs India, Pharmacovigilance, Patient Care, Telemedicine, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:10:31.755Z"
+}

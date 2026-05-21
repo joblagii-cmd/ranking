@@ -1,0 +1,93 @@
+{
+  "slug": "cmc-vellore-senior-doctor-rajkot-2026-05-21-1",
+  "title": "Senior Doctor - CMC Vellore - 2025 Hiring Drive",
+  "company": "CMC Vellore",
+  "industry": "healthcare",
+  "role": "Senior Doctor",
+  "location": {
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Wound Care",
+    "EMR/EHR",
+    "Clinical Documentation",
+    "Clinical Research",
+    "Health Informatics",
+    "Medical Coding",
+    "Pharmacovigilance",
+    "CPT Codes"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Doctor - CMC Vellore - 2025 Hiring Drive",
+    "description": "CMC Vellore, one of India's leading organizations, is hiring a Senior Doctor for our Rajkot operations. We offer a competitive salary package along with world-class benefits.\n\nAbout CMC Vellore:\nCMC Vellore is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Adhere to NABH/JCI accreditation standards\n• Educate patients and families on health management and disease prevention\n• Administer medications and treatments as prescribed\n• Participate in quality improvement initiatives and clinical audits\n• Provide high-quality patient care and maintain patient records\n• Maintain accurate clinical documentation in electronic health records\n• Monitor patient progress and adjust treatment plans accordingly\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 1-3 years of relevant experience\n• Proficiency in Wound Care\n• Proficiency in EMR/EHR\n• Proficiency in Clinical Documentation\n• Proficiency in Clinical Research\n• Proficiency in Health Informatics\n• Proficiency in Medical Coding\n• Proficiency in Pharmacovigilance\n• Proficiency in CPT Codes\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Referral bonus program\n• Comprehensive health insurance for self and family\n• Annual performance appraisal\n• Flexible working hours\n• Life and accident insurance\n• Mobile and internet reimbursement\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Rajkot, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with CMC Vellore!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "CMC Vellore",
+      "value": "273-1-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "CMC Vellore",
+      "sameAs": "https://www.google.com/search?q=CMC%20Vellore",
+      "logo": "https://logo.clearbit.com/cmcvellore.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "CMC Vellore Office",
+        "addressLocality": "Rajkot",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "Wound Care, EMR/EHR, Clinical Documentation, Clinical Research, Health Informatics, Medical Coding, Pharmacovigilance, CPT Codes",
+    "responsibilities": "Adhere to NABH/JCI accreditation standards. Educate patients and families on health management and disease prevention. Administer medications and treatments as prescribed. Participate in quality improvement initiatives and clinical audits. Provide high-quality patient care and maintain patient records. Maintain accurate clinical documentation in electronic health records. Monitor patient progress and adjust treatment plans accordingly",
+    "benefits": "Referral bonus program. Comprehensive health insurance for self and family. Annual performance appraisal. Flexible working hours. Life and accident insurance. Mobile and internet reimbursement",
+    "industry": "healthcare",
+    "occupationalCategory": "Senior Doctor",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Referral bonus program, Comprehensive health insurance for self and family, Annual performance appraisal, Flexible working hours, Life and accident insurance, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "CMC Vellore, one of India's leading organizations, is hiring a Senior Doctor for our Rajkot operations. We offer a competitive salary package along with world-c",
+    "keywords": "Senior Doctor, CMC Vellore, jobs in Rajkot, Gujarat jobs, healthcare jobs India, Wound Care, EMR/EHR, Clinical Documentation, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:10:31.750Z"
+}
