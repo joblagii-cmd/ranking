@@ -1,0 +1,92 @@
+{
+  "slug": "lv-prasad-eye-institute-surgeon-allahabad-2026-05-21-3",
+  "title": "Surgeon Vacancy at LV Prasad Eye Institute - 2026 Batch",
+  "company": "LV Prasad Eye Institute",
+  "industry": "healthcare",
+  "role": "Surgeon",
+  "location": {
+    "city": "Allahabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Wound Care",
+    "Diagnostic Skills",
+    "Medical Terminology",
+    "Medical Ethics",
+    "Medical Coding",
+    "ICU Management",
+    "Surgical Procedures",
+    "Clinical Documentation"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Surgeon Vacancy at LV Prasad Eye Institute - 2026 Batch",
+    "description": "LV Prasad Eye Institute, one of India's leading organizations, is hiring a Surgeon for our Allahabad operations. We offer a competitive salary package along with world-class benefits.\n\nAbout LV Prasad Eye Institute:\nLV Prasad Eye Institute is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Monitor patient progress and adjust treatment plans accordingly\n• Diagnose and treat medical conditions following established protocols\n• Ensure patient privacy and maintain confidentiality\n• Collaborate with pharmaceutical representatives and medical suppliers\n• Provide high-quality patient care and maintain patient records\n• Educate patients and families on health management and disease prevention\n• Administer medications and treatments as prescribed\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 0-1 years of relevant experience\n• Proficiency in Wound Care\n• Proficiency in Diagnostic Skills\n• Proficiency in Medical Terminology\n• Proficiency in Medical Ethics\n• Proficiency in Medical Coding\n• Proficiency in ICU Management\n• Proficiency in Surgical Procedures\n• Proficiency in Clinical Documentation\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Learning & development budget\n• Competitive salary with performance-linked incentives\n• Life and accident insurance\n• Comprehensive health insurance for self and family\n• Professional development and training programs\n• Annual paid leaves and casual leaves\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Allahabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with LV Prasad Eye Institute!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "LV Prasad Eye Institute",
+      "value": "283-3-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "LV Prasad Eye Institute",
+      "sameAs": "https://www.google.com/search?q=LV%20Prasad%20Eye%20Institute",
+      "logo": "https://logo.clearbit.com/lvprasadeyeinstitute.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "LV Prasad Eye Institute Office",
+        "addressLocality": "Allahabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "Wound Care, Diagnostic Skills, Medical Terminology, Medical Ethics, Medical Coding, ICU Management, Surgical Procedures, Clinical Documentation",
+    "responsibilities": "Monitor patient progress and adjust treatment plans accordingly. Diagnose and treat medical conditions following established protocols. Ensure patient privacy and maintain confidentiality. Collaborate with pharmaceutical representatives and medical suppliers. Provide high-quality patient care and maintain patient records. Educate patients and families on health management and disease prevention. Administer medications and treatments as prescribed",
+    "benefits": "Learning & development budget. Competitive salary with performance-linked incentives. Life and accident insurance. Comprehensive health insurance for self and family. Professional development and training programs. Annual paid leaves and casual leaves",
+    "industry": "healthcare",
+    "occupationalCategory": "Surgeon",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Learning & development budget, Competitive salary with performance-linked incentives, Life and accident insurance, Comprehensive health insurance for self and family, Professional development and training programs, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "LV Prasad Eye Institute, one of India's leading organizations, is hiring a Surgeon for our Allahabad operations. We offer a competitive salary package along wit",
+    "keywords": "Surgeon, LV Prasad Eye Institute, jobs in Allahabad, Uttar Pradesh jobs, healthcare jobs India, Wound Care, Diagnostic Skills, Medical Terminology, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:10:50.425Z"
+}

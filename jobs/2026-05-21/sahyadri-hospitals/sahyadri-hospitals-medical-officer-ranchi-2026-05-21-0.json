@@ -1,0 +1,92 @@
+{
+  "slug": "sahyadri-hospitals-medical-officer-ranchi-2026-05-21-0",
+  "title": "Hiring Medical Officer at Sahyadri Hospitals",
+  "company": "Sahyadri Hospitals",
+  "industry": "healthcare",
+  "role": "Medical Officer",
+  "location": {
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Patient Care",
+    "Diagnostic Skills",
+    "Wound Care",
+    "Infection Control",
+    "Clinical Documentation",
+    "NABH Standards",
+    "Telemedicine",
+    "Medical Terminology"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Hiring Medical Officer at Sahyadri Hospitals",
+    "description": "Sahyadri Hospitals, one of India's leading organizations, is hiring a Medical Officer for our Ranchi operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Sahyadri Hospitals:\nSahyadri Hospitals is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Adhere to NABH/JCI accreditation standards\n• Maintain sterile environments and follow infection control protocols\n• Monitor patient progress and adjust treatment plans accordingly\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Educate patients and families on health management and disease prevention\n• Attend continuing medical education programs and training\n• Diagnose and treat medical conditions following established protocols\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 10-15 years of relevant experience\n• Proficiency in Patient Care\n• Proficiency in Diagnostic Skills\n• Proficiency in Wound Care\n• Proficiency in Infection Control\n• Proficiency in Clinical Documentation\n• Proficiency in NABH Standards\n• Proficiency in Telemedicine\n• Proficiency in Medical Terminology\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Recognition and rewards programs\n• Maternity and paternity leave\n• Employee stock options (ESOPs) for eligible roles\n• Annual paid leaves and casual leaves\n• International travel opportunities for senior roles\n• Mobile and internet reimbursement\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Ranchi, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Sahyadri Hospitals!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Sahyadri Hospitals",
+      "value": "287-0-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Sahyadri Hospitals",
+      "sameAs": "https://www.google.com/search?q=Sahyadri%20Hospitals",
+      "logo": "https://logo.clearbit.com/sahyadrihospitals.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Sahyadri Hospitals Office",
+        "addressLocality": "Ranchi",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "Patient Care, Diagnostic Skills, Wound Care, Infection Control, Clinical Documentation, NABH Standards, Telemedicine, Medical Terminology",
+    "responsibilities": "Adhere to NABH/JCI accreditation standards. Maintain sterile environments and follow infection control protocols. Monitor patient progress and adjust treatment plans accordingly. Coordinate with multidisciplinary teams for comprehensive patient management. Educate patients and families on health management and disease prevention. Attend continuing medical education programs and training. Diagnose and treat medical conditions following established protocols",
+    "benefits": "Recognition and rewards programs. Maternity and paternity leave. Employee stock options (ESOPs) for eligible roles. Annual paid leaves and casual leaves. International travel opportunities for senior roles. Mobile and internet reimbursement",
+    "industry": "healthcare",
+    "occupationalCategory": "Medical Officer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Recognition and rewards programs, Maternity and paternity leave, Employee stock options (ESOPs) for eligible roles, Annual paid leaves and casual leaves, International travel opportunities for senior roles, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "Sahyadri Hospitals, one of India's leading organizations, is hiring a Medical Officer for our Ranchi operations. We offer a competitive salary package along wit",
+    "keywords": "Medical Officer, Sahyadri Hospitals, jobs in Ranchi, Jharkhand jobs, healthcare jobs India, Patient Care, Diagnostic Skills, Wound Care, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:10:50.428Z"
+}

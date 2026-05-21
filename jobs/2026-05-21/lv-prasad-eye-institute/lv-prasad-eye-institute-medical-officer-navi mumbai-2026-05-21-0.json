@@ -1,0 +1,92 @@
+{
+  "slug": "lv-prasad-eye-institute-medical-officer-navi mumbai-2026-05-21-0",
+  "title": "Hiring Medical Officer at LV Prasad Eye Institute",
+  "company": "LV Prasad Eye Institute",
+  "industry": "healthcare",
+  "role": "Medical Officer",
+  "location": {
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Pharmacovigilance",
+    "ICU Management",
+    "CPT Codes",
+    "HIPAA Compliance",
+    "Medical Ethics",
+    "Diagnostic Skills",
+    "Medical Coding",
+    "BLS/ACLS"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Hiring Medical Officer at LV Prasad Eye Institute",
+    "description": "LV Prasad Eye Institute, one of India's leading organizations, is hiring a Medical Officer for our Navi Mumbai operations. We offer a competitive salary package along with world-class benefits.\n\nAbout LV Prasad Eye Institute:\nLV Prasad Eye Institute is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Diagnose and treat medical conditions following established protocols\n• Provide high-quality patient care and maintain patient records\n• Conduct routine health assessments and screenings\n• Monitor patient progress and adjust treatment plans accordingly\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Collaborate with pharmaceutical representatives and medical suppliers\n• Adhere to NABH/JCI accreditation standards\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 6-10 years of relevant experience\n• Proficiency in Pharmacovigilance\n• Proficiency in ICU Management\n• Proficiency in CPT Codes\n• Proficiency in HIPAA Compliance\n• Proficiency in Medical Ethics\n• Proficiency in Diagnostic Skills\n• Proficiency in Medical Coding\n• Proficiency in BLS/ACLS\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Competitive salary with performance-linked incentives\n• Mobile and internet reimbursement\n• Meal coupons and food allowance\n• Flexible working hours\n• Transportation and conveyance allowance\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Navi Mumbai, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with LV Prasad Eye Institute!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "LV Prasad Eye Institute",
+      "value": "283-0-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "LV Prasad Eye Institute",
+      "sameAs": "https://www.google.com/search?q=LV%20Prasad%20Eye%20Institute",
+      "logo": "https://logo.clearbit.com/lvprasadeyeinstitute.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "LV Prasad Eye Institute Office",
+        "addressLocality": "Navi Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Pharmacovigilance, ICU Management, CPT Codes, HIPAA Compliance, Medical Ethics, Diagnostic Skills, Medical Coding, BLS/ACLS",
+    "responsibilities": "Diagnose and treat medical conditions following established protocols. Provide high-quality patient care and maintain patient records. Conduct routine health assessments and screenings. Monitor patient progress and adjust treatment plans accordingly. Coordinate with multidisciplinary teams for comprehensive patient management. Collaborate with pharmaceutical representatives and medical suppliers. Adhere to NABH/JCI accreditation standards",
+    "benefits": "Provident Fund and Gratuity as per company policy. Competitive salary with performance-linked incentives. Mobile and internet reimbursement. Meal coupons and food allowance. Flexible working hours. Transportation and conveyance allowance",
+    "industry": "healthcare",
+    "occupationalCategory": "Medical Officer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Competitive salary with performance-linked incentives, Mobile and internet reimbursement, Meal coupons and food allowance, Flexible working hours, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "LV Prasad Eye Institute, one of India's leading organizations, is hiring a Medical Officer for our Navi Mumbai operations. We offer a competitive salary package",
+    "keywords": "Medical Officer, LV Prasad Eye Institute, jobs in Navi Mumbai, Maharashtra jobs, healthcare jobs India, Pharmacovigilance, ICU Management, CPT Codes, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:10:50.425Z"
+}
