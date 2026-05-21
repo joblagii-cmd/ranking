@@ -1,0 +1,92 @@
+{
+  "slug": "bd-india-senior-doctor-agra-2026-05-21-1",
+  "title": "Senior Doctor - BD India - 2025 Hiring Drive",
+  "company": "BD India",
+  "industry": "healthcare",
+  "role": "Senior Doctor",
+  "location": {
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "CPT Codes",
+    "ICD-10",
+    "Medical Ethics",
+    "Medical Coding",
+    "Medical Terminology",
+    "Clinical Research",
+    "Infection Control",
+    "EMR/EHR"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Doctor - BD India - 2025 Hiring Drive",
+    "description": "Are you a skilled Senior Doctor looking for your next big career move? BD India in Agra offers you the perfect platform to grow professionally and personally.\n\nAbout BD India:\nBD India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with pharmaceutical representatives and medical suppliers\n• Adhere to NABH/JCI accreditation standards\n• Ensure patient privacy and maintain confidentiality\n• Conduct routine health assessments and screenings\n• Monitor patient progress and adjust treatment plans accordingly\n• Administer medications and treatments as prescribed\n• Provide high-quality patient care and maintain patient records\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 10-15 years of relevant experience\n• Proficiency in CPT Codes\n• Proficiency in ICD-10\n• Proficiency in Medical Ethics\n• Proficiency in Medical Coding\n• Proficiency in Medical Terminology\n• Proficiency in Clinical Research\n• Proficiency in Infection Control\n• Proficiency in EMR/EHR\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Annual performance appraisal\n• Company-sponsored certifications\n• Modern office with recreational facilities\n• Recognition and rewards programs\n• Professional development and training programs\n• Work-from-home flexibility\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Agra, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with BD India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "BD India",
+      "value": "265-1-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "BD India",
+      "sameAs": "https://www.google.com/search?q=BD%20India",
+      "logo": "https://logo.clearbit.com/bdindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "BD India Office",
+        "addressLocality": "Agra",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "CPT Codes, ICD-10, Medical Ethics, Medical Coding, Medical Terminology, Clinical Research, Infection Control, EMR/EHR",
+    "responsibilities": "Collaborate with pharmaceutical representatives and medical suppliers. Adhere to NABH/JCI accreditation standards. Ensure patient privacy and maintain confidentiality. Conduct routine health assessments and screenings. Monitor patient progress and adjust treatment plans accordingly. Administer medications and treatments as prescribed. Provide high-quality patient care and maintain patient records",
+    "benefits": "Annual performance appraisal. Company-sponsored certifications. Modern office with recreational facilities. Recognition and rewards programs. Professional development and training programs. Work-from-home flexibility",
+    "industry": "healthcare",
+    "occupationalCategory": "Senior Doctor",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual performance appraisal, Company-sponsored certifications, Modern office with recreational facilities, Recognition and rewards programs, Professional development and training programs, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "Are you a skilled Senior Doctor looking for your next big career move? BD India in Agra offers you the perfect platform to grow professionally and personally.",
+    "keywords": "Senior Doctor, BD India, jobs in Agra, Uttar Pradesh jobs, healthcare jobs India, CPT Codes, ICD-10, Medical Ethics, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:10:15.683Z"
+}
