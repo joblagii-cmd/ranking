@@ -1,0 +1,92 @@
+{
+  "slug": "hcl-technologies-senior-software-engineer-bhopal-2026-05-21-1",
+  "title": "Senior Software Engineer - HCL Technologies - Multiple Openings",
+  "company": "HCL Technologies",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Git",
+    "Kubernetes",
+    "AWS",
+    "Docker",
+    "SQL",
+    "TypeScript",
+    "MongoDB",
+    "Go"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - HCL Technologies - Multiple Openings",
+    "description": "HCL Technologies has an exciting opening for a Senior Software Engineer at our Bhopal office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout HCL Technologies:\nHCL Technologies is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write clean, maintainable, and well-documented code\n• Write and execute unit tests and integration tests\n• Integrate third-party APIs and services\n• Collaborate with cross-functional teams including product, design, and QA\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Ensure code security and follow best practices for data protection\n• Mentor junior developers and conduct knowledge-sharing sessions\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 12-20 years of relevant experience\n• Proficiency in Git\n• Proficiency in Kubernetes\n• Proficiency in AWS\n• Proficiency in Docker\n• Proficiency in SQL\n• Proficiency in TypeScript\n• Proficiency in MongoDB\n• Proficiency in Go\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Annual performance appraisal\n• Flexible working hours\n• International travel opportunities for senior roles\n• Referral bonus program\n• Provident Fund and Gratuity as per company policy\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Bhopal, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with HCL Technologies!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "HCL Technologies",
+      "value": "4-1-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "HCL Technologies",
+      "sameAs": "https://www.google.com/search?q=HCL%20Technologies",
+      "logo": "https://logo.clearbit.com/hcltechnologies.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "HCL Technologies Office",
+        "addressLocality": "Bhopal",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "Git, Kubernetes, AWS, Docker, SQL, TypeScript, MongoDB, Go",
+    "responsibilities": "Write clean, maintainable, and well-documented code. Write and execute unit tests and integration tests. Integrate third-party APIs and services. Collaborate with cross-functional teams including product, design, and QA. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Ensure code security and follow best practices for data protection. Mentor junior developers and conduct knowledge-sharing sessions",
+    "benefits": "Annual performance appraisal. Flexible working hours. International travel opportunities for senior roles. Referral bonus program. Provident Fund and Gratuity as per company policy. Employee stock options (ESOPs) for eligible roles",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual performance appraisal, Flexible working hours, International travel opportunities for senior roles, Referral bonus program, Provident Fund and Gratuity as per company policy, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "HCL Technologies has an exciting opening for a Senior Software Engineer at our Bhopal office. Join a company that values innovation, collaboration, and continuo",
+    "keywords": "Senior Software Engineer, HCL Technologies, jobs in Bhopal, Madhya Pradesh jobs, technology jobs India, Git, Kubernetes, AWS, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:02:48.601Z"
+}

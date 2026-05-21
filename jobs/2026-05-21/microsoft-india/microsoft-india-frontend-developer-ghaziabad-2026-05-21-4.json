@@ -1,0 +1,92 @@
+{
+  "slug": "microsoft-india-frontend-developer-ghaziabad-2026-05-21-4",
+  "title": "Junior Frontend Developer at Microsoft India",
+  "company": "Microsoft India",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "JavaScript",
+    "Node.js",
+    "TypeScript",
+    "Git",
+    "Java",
+    "REST APIs",
+    "Go",
+    "Microservices"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Junior Frontend Developer at Microsoft India",
+    "description": "Are you a skilled Frontend Developer looking for your next big career move? Microsoft India in Ghaziabad offers you the perfect platform to grow professionally and personally.\n\nAbout Microsoft India:\nMicrosoft India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Optimize application performance and ensure high availability\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Ensure code security and follow best practices for data protection\n• Participate in code reviews and contribute to technical discussions\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Contribute to system architecture and technical design decisions\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 1-3 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Node.js\n• Proficiency in TypeScript\n• Proficiency in Git\n• Proficiency in Java\n• Proficiency in REST APIs\n• Proficiency in Go\n• Proficiency in Microservices\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Professional development and training programs\n• Mobile and internet reimbursement\n• Provident Fund and Gratuity as per company policy\n• International travel opportunities for senior roles\n• Company-sponsored certifications\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Ghaziabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Microsoft India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Microsoft India",
+      "value": "10-4-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Microsoft India",
+      "sameAs": "https://www.google.com/search?q=Microsoft%20India",
+      "logo": "https://logo.clearbit.com/microsoftindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Microsoft India Office",
+        "addressLocality": "Ghaziabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "JavaScript, Node.js, TypeScript, Git, Java, REST APIs, Go, Microservices",
+    "responsibilities": "Optimize application performance and ensure high availability. Mentor junior developers and conduct knowledge-sharing sessions. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Ensure code security and follow best practices for data protection. Participate in code reviews and contribute to technical discussions. Work with agile methodologies including daily stand-ups and sprint planning. Contribute to system architecture and technical design decisions",
+    "benefits": "Work-from-home flexibility. Professional development and training programs. Mobile and internet reimbursement. Provident Fund and Gratuity as per company policy. International travel opportunities for senior roles. Company-sponsored certifications",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Professional development and training programs, Mobile and internet reimbursement, Provident Fund and Gratuity as per company policy, International travel opportunities for senior roles, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "Are you a skilled Frontend Developer looking for your next big career move? Microsoft India in Ghaziabad offers you the perfect platform to grow professionally ",
+    "keywords": "Frontend Developer, Microsoft India, jobs in Ghaziabad, Uttar Pradesh jobs, technology jobs India, JavaScript, Node.js, TypeScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:02:48.606Z"
+}

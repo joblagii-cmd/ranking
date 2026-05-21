@@ -1,0 +1,92 @@
+{
+  "slug": "hcl-technologies-software-engineer-thane-2026-05-21-0",
+  "title": "Urgent Opening Software Engineer at HCL Technologies",
+  "company": "HCL Technologies",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Thane",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Docker",
+    "REST APIs",
+    "React",
+    "Python",
+    "MongoDB",
+    "Agile/Scrum",
+    "AWS",
+    "Microservices"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Urgent Opening Software Engineer at HCL Technologies",
+    "description": "HCL Technologies has an exciting opening for a Software Engineer at our Thane office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout HCL Technologies:\nHCL Technologies is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Integrate third-party APIs and services\n• Participate in on-call rotation for production support\n• Ensure code security and follow best practices for data protection\n• Collaborate with cross-functional teams including product, design, and QA\n• Optimize application performance and ensure high availability\n• Participate in code reviews and contribute to technical discussions\n• Troubleshoot, debug, and resolve software defects and performance issues\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 0-1 years of relevant experience\n• Proficiency in Docker\n• Proficiency in REST APIs\n• Proficiency in React\n• Proficiency in Python\n• Proficiency in MongoDB\n• Proficiency in Agile/Scrum\n• Proficiency in AWS\n• Proficiency in Microservices\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Flexible working hours\n• Professional development and training programs\n• Work-from-home flexibility\n• Company-sponsored certifications\n• Annual paid leaves and casual leaves\n• Annual performance appraisal\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Thane, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with HCL Technologies!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "HCL Technologies",
+      "value": "4-0-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "HCL Technologies",
+      "sameAs": "https://www.google.com/search?q=HCL%20Technologies",
+      "logo": "https://logo.clearbit.com/hcltechnologies.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "HCL Technologies Office",
+        "addressLocality": "Thane",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "Docker, REST APIs, React, Python, MongoDB, Agile/Scrum, AWS, Microservices",
+    "responsibilities": "Integrate third-party APIs and services. Participate in on-call rotation for production support. Ensure code security and follow best practices for data protection. Collaborate with cross-functional teams including product, design, and QA. Optimize application performance and ensure high availability. Participate in code reviews and contribute to technical discussions. Troubleshoot, debug, and resolve software defects and performance issues",
+    "benefits": "Flexible working hours. Professional development and training programs. Work-from-home flexibility. Company-sponsored certifications. Annual paid leaves and casual leaves. Annual performance appraisal",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, Professional development and training programs, Work-from-home flexibility, Company-sponsored certifications, Annual paid leaves and casual leaves, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "HCL Technologies has an exciting opening for a Software Engineer at our Thane office. Join a company that values innovation, collaboration, and continuous learn",
+    "keywords": "Software Engineer, HCL Technologies, jobs in Thane, Maharashtra jobs, technology jobs India, Docker, REST APIs, React, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:02:48.601Z"
+}

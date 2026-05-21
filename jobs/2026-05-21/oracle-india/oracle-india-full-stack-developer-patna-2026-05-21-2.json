@@ -1,0 +1,93 @@
+{
+  "slug": "oracle-india-full-stack-developer-patna-2026-05-21-2",
+  "title": "Oracle India is Hiring: Full Stack Developer (Junior)",
+  "company": "Oracle India",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Patna",
+    "state": "Bihar",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Agile/Scrum",
+    "REST APIs",
+    "Kubernetes",
+    "CI/CD",
+    "Machine Learning",
+    "Java",
+    "Python",
+    "TypeScript"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Oracle India is Hiring: Full Stack Developer (Junior)",
+    "description": "Are you a skilled Full Stack Developer looking for your next big career move? Oracle India in Patna offers you the perfect platform to grow professionally and personally.\n\nAbout Oracle India:\nOracle India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write clean, maintainable, and well-documented code\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Design, develop and maintain scalable software applications\n• Optimize application performance and ensure high availability\n• Troubleshoot, debug, and resolve software defects and performance issues\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 10-15 years of relevant experience\n• Proficiency in Agile/Scrum\n• Proficiency in REST APIs\n• Proficiency in Kubernetes\n• Proficiency in CI/CD\n• Proficiency in Machine Learning\n• Proficiency in Java\n• Proficiency in Python\n• Proficiency in TypeScript\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Flexible working hours\n• International travel opportunities for senior roles\n• Modern office with recreational facilities\n• Life and accident insurance\n• Work-from-home flexibility\n• Maternity and paternity leave\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Patna, Bihar, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Oracle India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Oracle India",
+      "value": "9-2-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Oracle India",
+      "sameAs": "https://www.google.com/search?q=Oracle%20India",
+      "logo": "https://logo.clearbit.com/oracleindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Oracle India Office",
+        "addressLocality": "Patna",
+        "addressRegion": "Bihar",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Agile/Scrum, REST APIs, Kubernetes, CI/CD, Machine Learning, Java, Python, TypeScript",
+    "responsibilities": "Write clean, maintainable, and well-documented code. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Work with agile methodologies including daily stand-ups and sprint planning. Mentor junior developers and conduct knowledge-sharing sessions. Design, develop and maintain scalable software applications. Optimize application performance and ensure high availability. Troubleshoot, debug, and resolve software defects and performance issues",
+    "benefits": "Flexible working hours. International travel opportunities for senior roles. Modern office with recreational facilities. Life and accident insurance. Work-from-home flexibility. Maternity and paternity leave",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, International travel opportunities for senior roles, Modern office with recreational facilities, Life and accident insurance, Work-from-home flexibility, Maternity and paternity leave"
+  },
+  "meta": {
+    "description": "Are you a skilled Full Stack Developer looking for your next big career move? Oracle India in Patna offers you the perfect platform to grow professionally and p",
+    "keywords": "Full Stack Developer, Oracle India, jobs in Patna, Bihar jobs, technology jobs India, Agile/Scrum, REST APIs, Kubernetes, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:02:48.605Z"
+}

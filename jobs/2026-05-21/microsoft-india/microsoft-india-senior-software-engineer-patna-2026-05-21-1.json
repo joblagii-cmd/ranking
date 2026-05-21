@@ -1,0 +1,92 @@
+{
+  "slug": "microsoft-india-senior-software-engineer-patna-2026-05-21-1",
+  "title": "Senior Software Engineer - Microsoft India - Multiple Openings",
+  "company": "Microsoft India",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Patna",
+    "state": "Bihar",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "CI/CD",
+    "AWS",
+    "JavaScript",
+    "Kubernetes",
+    "MongoDB",
+    "Go",
+    "Python",
+    "Agile/Scrum"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Microsoft India - Multiple Openings",
+    "description": "Microsoft India has an exciting opening for a Senior Software Engineer at our Patna office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Microsoft India:\nMicrosoft India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in on-call rotation for production support\n• Integrate third-party APIs and services\n• Contribute to system architecture and technical design decisions\n• Mentor junior developers and conduct knowledge-sharing sessions\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 10-15 years of relevant experience\n• Proficiency in CI/CD\n• Proficiency in AWS\n• Proficiency in JavaScript\n• Proficiency in Kubernetes\n• Proficiency in MongoDB\n• Proficiency in Go\n• Proficiency in Python\n• Proficiency in Agile/Scrum\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Comprehensive health insurance for self and family\n• Recognition and rewards programs\n• Annual paid leaves and casual leaves\n• Work-from-home flexibility\n• Competitive salary with performance-linked incentives\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Patna, Bihar, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Microsoft India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Microsoft India",
+      "value": "10-1-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Microsoft India",
+      "sameAs": "https://www.google.com/search?q=Microsoft%20India",
+      "logo": "https://logo.clearbit.com/microsoftindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Microsoft India Office",
+        "addressLocality": "Patna",
+        "addressRegion": "Bihar",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "CI/CD, AWS, JavaScript, Kubernetes, MongoDB, Go, Python, Agile/Scrum",
+    "responsibilities": "Work with agile methodologies including daily stand-ups and sprint planning. Troubleshoot, debug, and resolve software defects and performance issues. Collaborate with cross-functional teams including product, design, and QA. Participate in on-call rotation for production support. Integrate third-party APIs and services. Contribute to system architecture and technical design decisions. Mentor junior developers and conduct knowledge-sharing sessions",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Comprehensive health insurance for self and family. Recognition and rewards programs. Annual paid leaves and casual leaves. Work-from-home flexibility. Competitive salary with performance-linked incentives",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Comprehensive health insurance for self and family, Recognition and rewards programs, Annual paid leaves and casual leaves, Work-from-home flexibility, Competitive salary with performance-linked incentives"
+  },
+  "meta": {
+    "description": "Microsoft India has an exciting opening for a Senior Software Engineer at our Patna office. Join a company that values innovation, collaboration, and continuous",
+    "keywords": "Senior Software Engineer, Microsoft India, jobs in Patna, Bihar jobs, technology jobs India, CI/CD, AWS, JavaScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:02:48.605Z"
+}
