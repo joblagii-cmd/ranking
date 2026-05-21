@@ -133,8 +133,11 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; b
 .nav { display:flex; gap:0.75rem; }
 .nav a { color:#94A3B8; text-decoration:none; font-size:0.9rem; padding:0.4rem 1rem; border-radius:8px; }
 .nav a:hover { background:#38BDF8; color:#0F172A; font-weight:600; }
-.header { background: #1E293B; color: white; padding: 1rem 2rem; display: flex; align-items: center; justify-content: space-between; }
+.header { background: #1E293B; color: white; padding: 1rem 2rem; display: flex; align-items: center; justify-content: space-between; flex-wrap:wrap; gap:1rem; }
 .logo { font-size: 1.5rem; font-weight: 700; color: #38BDF8; text-decoration: none; }
+.nav { display:flex; gap:0.5rem; }
+.nav a { color:#94A3B8; text-decoration:none; font-size:0.88rem; padding:0.4rem 0.9rem; border-radius:8px; transition:all 0.2s; }
+.nav a:hover, .nav a.nav-active { background:#38BDF8; color:#0F172A; font-weight:600; }
 .header-stats { font-size: 0.85rem; color: #94A3B8; }
 
 /* Hero */
@@ -198,8 +201,12 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; b
 <body>
 
 <header class="header">
-  <a href="/api/index" class="logo">JobLagii 🇮🇳</a>
-  <span class="header-stats">25,000+ fresh jobs daily</span>
+  <a href="/" class="logo">JobLagii 🇮🇳</a>
+  <nav class="nav">
+    <a href="/" class="nav-active">🏠 Home</a>
+    <a href="/companies">🏢 Companies</a>
+    <a href="/jobs">💼 Jobs</a>
+  </nav>
 </header>
 
 <div class="hero">
