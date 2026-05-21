@@ -1,0 +1,92 @@
+{
+  "slug": "nasscom-foundation-teacher-chennai-2026-05-21-0",
+  "title": "Job Opening Teacher at NASSCOM Foundation",
+  "company": "NASSCOM Foundation",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "E-learning",
+    "Pedagogy",
+    "Research Skills",
+    "Classroom Management",
+    "Student Assessment",
+    "LMS Platforms",
+    "Child Psychology",
+    "Curriculum Development"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Job Opening Teacher at NASSCOM Foundation",
+    "description": "Join the NASSCOM Foundation family as a Teacher in Chennai. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout NASSCOM Foundation:\nNASSCOM Foundation is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Utilize technology and digital tools to enhance learning outcomes\n• Maintain classroom discipline and create a positive learning environment\n• Conduct parent-teacher meetings and update parents on student performance\n• Maintain student records and prepare progress reports\n• Develop and deliver engaging lesson plans for students\n• Participate in teacher training and professional development programs\n• Contribute to school newsletter, blogs, and other publications\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 10-15 years of relevant experience\n• Proficiency in E-learning\n• Proficiency in Pedagogy\n• Proficiency in Research Skills\n• Proficiency in Classroom Management\n• Proficiency in Student Assessment\n• Proficiency in LMS Platforms\n• Proficiency in Child Psychology\n• Proficiency in Curriculum Development\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• Annual paid leaves and casual leaves\n• Modern office with recreational facilities\n• Annual performance appraisal\n• International travel opportunities for senior roles\n• Life and accident insurance\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Chennai, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with NASSCOM Foundation!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "NASSCOM Foundation",
+      "value": "569-0-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "NASSCOM Foundation",
+      "sameAs": "https://www.google.com/search?q=NASSCOM%20Foundation",
+      "logo": "https://logo.clearbit.com/nasscomfoundation.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "NASSCOM Foundation Office",
+        "addressLocality": "Chennai",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "E-learning, Pedagogy, Research Skills, Classroom Management, Student Assessment, LMS Platforms, Child Psychology, Curriculum Development",
+    "responsibilities": "Utilize technology and digital tools to enhance learning outcomes. Maintain classroom discipline and create a positive learning environment. Conduct parent-teacher meetings and update parents on student performance. Maintain student records and prepare progress reports. Develop and deliver engaging lesson plans for students. Participate in teacher training and professional development programs. Contribute to school newsletter, blogs, and other publications",
+    "benefits": "Comprehensive health insurance for self and family. Annual paid leaves and casual leaves. Modern office with recreational facilities. Annual performance appraisal. International travel opportunities for senior roles. Life and accident insurance",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, Annual paid leaves and casual leaves, Modern office with recreational facilities, Annual performance appraisal, International travel opportunities for senior roles, Life and accident insurance"
+  },
+  "meta": {
+    "description": "Join the NASSCOM Foundation family as a Teacher in Chennai. We believe in empowering our employees with the tools, training, and environment they need to succee",
+    "keywords": "Teacher, NASSCOM Foundation, jobs in Chennai, Tamil Nadu jobs, education jobs India, E-learning, Pedagogy, Research Skills, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:19:24.091Z"
+}
