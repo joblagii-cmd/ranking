@@ -2,16 +2,22 @@ name: Generate Job Posts
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 2 * * *'
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 50
+    timeout-minutes: 360
     steps:
-      - name: Run batch
+      - name: Generate all 25000 posts (500 pages x 50 posts)
         run: |
-          curl -s -X POST https://ranking-mu-eosin.vercel.app/api/trigger \
-            -H "Content-Type: application/json" \
-            -d "{\"secret\": \"${{ secrets.CRON_SECRET }}\"}" | jq .
+          for i in $(seq 0 499); do
+            echo "--- Page $i / 499 ---"
+            curl -s -X POST https://ranking-mu-eosin.vercel.app/api/trigger \
+              -H "Content-Type: application/json" \
+              -d "{\"secret\": \"${{ secrets.CRON_SECRET }}\", \"page\": $i}"
+            echo ""
+            sleep 2
+          done
+          echo "Done! 25000 posts generated."
