@@ -1,0 +1,93 @@
+{
+  "slug": "tanishq-department-manager-ranchi-2026-05-21-3",
+  "title": "Department Manager Vacancy at Tanishq - 2026 Batch",
+  "company": "Tanishq",
+  "industry": "retail",
+  "role": "Department Manager",
+  "location": {
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Retail Analytics",
+    "Supply Chain",
+    "CRM",
+    "Category Management",
+    "Loss Prevention",
+    "Sales Techniques",
+    "Customer Service",
+    "Loyalty Programs"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Department Manager Vacancy at Tanishq - 2026 Batch",
+    "description": "If you're a passionate Department Manager with drive and ambition, Tanishq in Ranchi is the place for you. We're growing fast and need talented people to grow with us.\n\nAbout Tanishq:\nTanishq is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Handle customer queries, complaints, and escalations effectively\n• Coordinate with the supply chain team for timely stock delivery\n• Ensure visual merchandising standards are maintained at all times\n• Train and motivate the sales team to deliver excellent service\n• Achieve sales targets and improve store performance metrics\n• Maintain high standards of store hygiene and cleanliness\n• Assist in recruiting, onboarding, and performance management of staff\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 0-1 years of relevant experience\n• Proficiency in Retail Analytics\n• Proficiency in Supply Chain\n• Proficiency in CRM\n• Proficiency in Category Management\n• Proficiency in Loss Prevention\n• Proficiency in Sales Techniques\n• Proficiency in Customer Service\n• Proficiency in Loyalty Programs\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Meal coupons and food allowance\n• Recognition and rewards programs\n• Referral bonus program\n• Provident Fund and Gratuity as per company policy\n• Transportation and conveyance allowance\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Ranchi, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Tanishq!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Tanishq",
+      "value": "617-3-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Tanishq",
+      "sameAs": "https://www.google.com/search?q=Tanishq",
+      "logo": "https://logo.clearbit.com/tanishq.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Tanishq Office",
+        "addressLocality": "Ranchi",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "Retail Analytics, Supply Chain, CRM, Category Management, Loss Prevention, Sales Techniques, Customer Service, Loyalty Programs",
+    "responsibilities": "Handle customer queries, complaints, and escalations effectively. Coordinate with the supply chain team for timely stock delivery. Ensure visual merchandising standards are maintained at all times. Train and motivate the sales team to deliver excellent service. Achieve sales targets and improve store performance metrics. Maintain high standards of store hygiene and cleanliness. Assist in recruiting, onboarding, and performance management of staff",
+    "benefits": "Annual paid leaves and casual leaves. Meal coupons and food allowance. Recognition and rewards programs. Referral bonus program. Provident Fund and Gratuity as per company policy. Transportation and conveyance allowance",
+    "industry": "retail",
+    "occupationalCategory": "Department Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Meal coupons and food allowance, Recognition and rewards programs, Referral bonus program, Provident Fund and Gratuity as per company policy, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "If you're a passionate Department Manager with drive and ambition, Tanishq in Ranchi is the place for you. We're growing fast and need talented people to grow w",
+    "keywords": "Department Manager, Tanishq, jobs in Ranchi, Jharkhand jobs, retail jobs India, Retail Analytics, Supply Chain, CRM, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:20:49.948Z"
+}

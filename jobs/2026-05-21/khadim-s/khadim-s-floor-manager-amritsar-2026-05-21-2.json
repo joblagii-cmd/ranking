@@ -1,0 +1,92 @@
+{
+  "slug": "khadim-s-floor-manager-amritsar-2026-05-21-2",
+  "title": "Khadim's is Hiring: Floor Manager (Principal)",
+  "company": "Khadim's",
+  "industry": "retail",
+  "role": "Floor Manager",
+  "location": {
+    "city": "Amritsar",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "MS Excel",
+    "Omnichannel Retail",
+    "Sales Techniques",
+    "Loyalty Programs",
+    "Planogram",
+    "Loss Prevention",
+    "E-commerce Integration",
+    "Team Leadership"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Khadim's is Hiring: Floor Manager (Principal)",
+    "description": "Grow your career with Khadim's! We are hiring a Floor Manager for our Amritsar team. Be part of a workplace that celebrates innovation, diversity, and performance.\n\nAbout Khadim's:\nKhadim's is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Manage shrinkage and reduce stock discrepancies\n• Conduct regular stock audits and prevent pilferage\n• Implement promotional activities and in-store campaigns\n• Manage store operations to ensure smooth daily functioning\n• Achieve sales targets and improve store performance metrics\n• Monitor inventory levels and coordinate replenishment activities\n• Coordinate with the supply chain team for timely stock delivery\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 0-1 years of relevant experience\n• Proficiency in MS Excel\n• Proficiency in Omnichannel Retail\n• Proficiency in Sales Techniques\n• Proficiency in Loyalty Programs\n• Proficiency in Planogram\n• Proficiency in Loss Prevention\n• Proficiency in E-commerce Integration\n• Proficiency in Team Leadership\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Mobile and internet reimbursement\n• Employee stock options (ESOPs) for eligible roles\n• Comprehensive health insurance for self and family\n• Competitive salary with performance-linked incentives\n• Meal coupons and food allowance\n• Annual performance appraisal\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Amritsar, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Khadim's!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Khadim's",
+      "value": "613-2-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Khadim's",
+      "sameAs": "https://www.google.com/search?q=Khadim's",
+      "logo": "https://logo.clearbit.com/khadims.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Khadim's Office",
+        "addressLocality": "Amritsar",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "MS Excel, Omnichannel Retail, Sales Techniques, Loyalty Programs, Planogram, Loss Prevention, E-commerce Integration, Team Leadership",
+    "responsibilities": "Manage shrinkage and reduce stock discrepancies. Conduct regular stock audits and prevent pilferage. Implement promotional activities and in-store campaigns. Manage store operations to ensure smooth daily functioning. Achieve sales targets and improve store performance metrics. Monitor inventory levels and coordinate replenishment activities. Coordinate with the supply chain team for timely stock delivery",
+    "benefits": "Mobile and internet reimbursement. Employee stock options (ESOPs) for eligible roles. Comprehensive health insurance for self and family. Competitive salary with performance-linked incentives. Meal coupons and food allowance. Annual performance appraisal",
+    "industry": "retail",
+    "occupationalCategory": "Floor Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Mobile and internet reimbursement, Employee stock options (ESOPs) for eligible roles, Comprehensive health insurance for self and family, Competitive salary with performance-linked incentives, Meal coupons and food allowance, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "Grow your career with Khadim's! We are hiring a Floor Manager for our Amritsar team. Be part of a workplace that celebrates innovation, diversity, and performan",
+    "keywords": "Floor Manager, Khadim's, jobs in Amritsar, Punjab jobs, retail jobs India, MS Excel, Omnichannel Retail, Sales Techniques, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:20:49.944Z"
+}
