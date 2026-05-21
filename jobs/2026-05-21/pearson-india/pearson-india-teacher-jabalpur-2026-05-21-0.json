@@ -1,0 +1,93 @@
+{
+  "slug": "pearson-india-teacher-jabalpur-2026-05-21-0",
+  "title": "Job Opening Teacher at Pearson India",
+  "company": "Pearson India",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Jabalpur",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Pedagogy",
+    "Special Education",
+    "Student Assessment",
+    "Communication Skills",
+    "Bloom's Taxonomy",
+    "CBSE/ICSE Standards",
+    "Child Psychology",
+    "E-learning"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Job Opening Teacher at Pearson India",
+    "description": "An exciting career opportunity awaits you at Pearson India. We are on the lookout for a dedicated Teacher to strengthen our Jabalpur-based team.\n\nAbout Pearson India:\nPearson India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Support students with special educational needs\n• Maintain student records and prepare progress reports\n• Develop and deliver engaging lesson plans for students\n• Conduct doubt-clearing sessions and remedial classes for weak students\n• Create curriculum-aligned learning materials and assessments\n• Design formative and summative assessments aligned to learning objectives\n• Monitor student progress and provide timely feedback\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 0-1 years of relevant experience\n• Proficiency in Pedagogy\n• Proficiency in Special Education\n• Proficiency in Student Assessment\n• Proficiency in Communication Skills\n• Proficiency in Bloom's Taxonomy\n• Proficiency in CBSE/ICSE Standards\n• Proficiency in Child Psychology\n• Proficiency in E-learning\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Annual paid leaves and casual leaves\n• Modern office with recreational facilities\n• Meal coupons and food allowance\n• Company-sponsored certifications\n• Learning & development budget\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Jabalpur, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Pearson India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Pearson India",
+      "value": "541-0-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Pearson India",
+      "sameAs": "https://www.google.com/search?q=Pearson%20India",
+      "logo": "https://logo.clearbit.com/pearsonindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Pearson India Office",
+        "addressLocality": "Jabalpur",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "Pedagogy, Special Education, Student Assessment, Communication Skills, Bloom's Taxonomy, CBSE/ICSE Standards, Child Psychology, E-learning",
+    "responsibilities": "Support students with special educational needs. Maintain student records and prepare progress reports. Develop and deliver engaging lesson plans for students. Conduct doubt-clearing sessions and remedial classes for weak students. Create curriculum-aligned learning materials and assessments. Design formative and summative assessments aligned to learning objectives. Monitor student progress and provide timely feedback",
+    "benefits": "Provident Fund and Gratuity as per company policy. Annual paid leaves and casual leaves. Modern office with recreational facilities. Meal coupons and food allowance. Company-sponsored certifications. Learning & development budget",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Annual paid leaves and casual leaves, Modern office with recreational facilities, Meal coupons and food allowance, Company-sponsored certifications, Learning & development budget"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Pearson India. We are on the lookout for a dedicated Teacher to strengthen our Jabalpur-based team.",
+    "keywords": "Teacher, Pearson India, jobs in Jabalpur, Madhya Pradesh jobs, education jobs India, Pedagogy, Special Education, Student Assessment, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:18:48.790Z"
+}

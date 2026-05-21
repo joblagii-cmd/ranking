@@ -1,0 +1,92 @@
+{
+  "slug": "s-chand-group-teacher-gwalior-2026-05-21-0",
+  "title": "Job Opening Teacher at S.Chand Group",
+  "company": "S.Chand Group",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Child Psychology",
+    "E-learning",
+    "Mentoring",
+    "LMS Platforms",
+    "Curriculum Development",
+    "Content Creation",
+    "Research Skills",
+    "MS Office"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Job Opening Teacher at S.Chand Group",
+    "description": "An exciting career opportunity awaits you at S.Chand Group. We are on the lookout for a dedicated Teacher to strengthen our Gwalior-based team.\n\nAbout S.Chand Group:\nS.Chand Group is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with academic counselors for student career guidance\n• Design formative and summative assessments aligned to learning objectives\n• Develop and deliver engaging lesson plans for students\n• Conduct doubt-clearing sessions and remedial classes for weak students\n• Participate in teacher training and professional development programs\n• Create curriculum-aligned learning materials and assessments\n• Utilize technology and digital tools to enhance learning outcomes\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 6-10 years of relevant experience\n• Proficiency in Child Psychology\n• Proficiency in E-learning\n• Proficiency in Mentoring\n• Proficiency in LMS Platforms\n• Proficiency in Curriculum Development\n• Proficiency in Content Creation\n• Proficiency in Research Skills\n• Proficiency in MS Office\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Recognition and rewards programs\n• Mobile and internet reimbursement\n• Work-from-home flexibility\n• Professional development and training programs\n• Annual paid leaves and casual leaves\n• Maternity and paternity leave\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Gwalior, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with S.Chand Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "S.Chand Group",
+      "value": "543-0-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "S.Chand Group",
+      "sameAs": "https://www.google.com/search?q=S.Chand%20Group",
+      "logo": "https://logo.clearbit.com/schandgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "S.Chand Group Office",
+        "addressLocality": "Gwalior",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Child Psychology, E-learning, Mentoring, LMS Platforms, Curriculum Development, Content Creation, Research Skills, MS Office",
+    "responsibilities": "Coordinate with academic counselors for student career guidance. Design formative and summative assessments aligned to learning objectives. Develop and deliver engaging lesson plans for students. Conduct doubt-clearing sessions and remedial classes for weak students. Participate in teacher training and professional development programs. Create curriculum-aligned learning materials and assessments. Utilize technology and digital tools to enhance learning outcomes",
+    "benefits": "Recognition and rewards programs. Mobile and internet reimbursement. Work-from-home flexibility. Professional development and training programs. Annual paid leaves and casual leaves. Maternity and paternity leave",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Recognition and rewards programs, Mobile and internet reimbursement, Work-from-home flexibility, Professional development and training programs, Annual paid leaves and casual leaves, Maternity and paternity leave"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at S.Chand Group. We are on the lookout for a dedicated Teacher to strengthen our Gwalior-based team.",
+    "keywords": "Teacher, S.Chand Group, jobs in Gwalior, Madhya Pradesh jobs, education jobs India, Child Psychology, E-learning, Mentoring, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:18:48.792Z"
+}

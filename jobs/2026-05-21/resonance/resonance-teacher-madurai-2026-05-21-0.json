@@ -1,0 +1,92 @@
+{
+  "slug": "resonance-teacher-madurai-2026-05-21-0",
+  "title": "Job Opening Teacher at Resonance",
+  "company": "Resonance",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Madurai",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Zoom/Teams",
+    "MS Office",
+    "Data Analysis",
+    "Curriculum Development",
+    "Lesson Planning",
+    "CBSE/ICSE Standards",
+    "Pedagogy",
+    "IB Curriculum"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Job Opening Teacher at Resonance",
+    "description": "An exciting career opportunity awaits you at Resonance. We are on the lookout for a dedicated Teacher to strengthen our Madurai-based team.\n\nAbout Resonance:\nResonance is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Develop and deliver engaging lesson plans for students\n• Support students with special educational needs\n• Create curriculum-aligned learning materials and assessments\n• Contribute to school newsletter, blogs, and other publications\n• Utilize technology and digital tools to enhance learning outcomes\n• Conduct doubt-clearing sessions and remedial classes for weak students\n• Monitor student progress and provide timely feedback\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 10-15 years of relevant experience\n• Proficiency in Zoom/Teams\n• Proficiency in MS Office\n• Proficiency in Data Analysis\n• Proficiency in Curriculum Development\n• Proficiency in Lesson Planning\n• Proficiency in CBSE/ICSE Standards\n• Proficiency in Pedagogy\n• Proficiency in IB Curriculum\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Modern office with recreational facilities\n• Annual performance appraisal\n• Recognition and rewards programs\n• Competitive salary with performance-linked incentives\n• Company-sponsored certifications\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Madurai, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Resonance!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Resonance",
+      "value": "548-0-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Resonance",
+      "sameAs": "https://www.google.com/search?q=Resonance",
+      "logo": "https://logo.clearbit.com/resonance.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Resonance Office",
+        "addressLocality": "Madurai",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "Zoom/Teams, MS Office, Data Analysis, Curriculum Development, Lesson Planning, CBSE/ICSE Standards, Pedagogy, IB Curriculum",
+    "responsibilities": "Develop and deliver engaging lesson plans for students. Support students with special educational needs. Create curriculum-aligned learning materials and assessments. Contribute to school newsletter, blogs, and other publications. Utilize technology and digital tools to enhance learning outcomes. Conduct doubt-clearing sessions and remedial classes for weak students. Monitor student progress and provide timely feedback",
+    "benefits": "Transportation and conveyance allowance. Modern office with recreational facilities. Annual performance appraisal. Recognition and rewards programs. Competitive salary with performance-linked incentives. Company-sponsored certifications",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Modern office with recreational facilities, Annual performance appraisal, Recognition and rewards programs, Competitive salary with performance-linked incentives, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Resonance. We are on the lookout for a dedicated Teacher to strengthen our Madurai-based team.",
+    "keywords": "Teacher, Resonance, jobs in Madurai, Tamil Nadu jobs, education jobs India, Zoom/Teams, MS Office, Data Analysis, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:18:48.796Z"
+}
