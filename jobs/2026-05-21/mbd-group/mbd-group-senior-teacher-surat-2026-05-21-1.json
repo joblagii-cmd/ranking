@@ -1,0 +1,92 @@
+{
+  "slug": "mbd-group-senior-teacher-surat-2026-05-21-1",
+  "title": "Senior Teacher - MBD Group - Work From Home Available",
+  "company": "MBD Group",
+  "industry": "education",
+  "role": "Senior Teacher",
+  "location": {
+    "city": "Surat",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Pedagogy",
+    "Lesson Planning",
+    "LMS Platforms",
+    "Educational Technology",
+    "MS Office",
+    "IB Curriculum",
+    "Mentoring",
+    "Curriculum Development"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Teacher - MBD Group - Work From Home Available",
+    "description": "MBD Group invites applications from qualified candidates for the position of Senior Teacher at our Surat location. This role offers excellent career advancement prospects.\n\nAbout MBD Group:\nMBD Group is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in teacher training and professional development programs\n• Contribute to school newsletter, blogs, and other publications\n• Maintain classroom discipline and create a positive learning environment\n• Conduct parent-teacher meetings and update parents on student performance\n• Monitor student progress and provide timely feedback\n• Participate in school events, workshops, and training programs\n• Collaborate with faculty on curriculum development initiatives\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 0-1 years of relevant experience\n• Proficiency in Pedagogy\n• Proficiency in Lesson Planning\n• Proficiency in LMS Platforms\n• Proficiency in Educational Technology\n• Proficiency in MS Office\n• Proficiency in IB Curriculum\n• Proficiency in Mentoring\n• Proficiency in Curriculum Development\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Referral bonus program\n• Flexible working hours\n• Provident Fund and Gratuity as per company policy\n• Meal coupons and food allowance\n• Life and accident insurance\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Surat, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with MBD Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "MBD Group",
+      "value": "577-1-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "MBD Group",
+      "sameAs": "https://www.google.com/search?q=MBD%20Group",
+      "logo": "https://logo.clearbit.com/mbdgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "MBD Group Office",
+        "addressLocality": "Surat",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "Pedagogy, Lesson Planning, LMS Platforms, Educational Technology, MS Office, IB Curriculum, Mentoring, Curriculum Development",
+    "responsibilities": "Participate in teacher training and professional development programs. Contribute to school newsletter, blogs, and other publications. Maintain classroom discipline and create a positive learning environment. Conduct parent-teacher meetings and update parents on student performance. Monitor student progress and provide timely feedback. Participate in school events, workshops, and training programs. Collaborate with faculty on curriculum development initiatives",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Referral bonus program. Flexible working hours. Provident Fund and Gratuity as per company policy. Meal coupons and food allowance. Life and accident insurance",
+    "industry": "education",
+    "occupationalCategory": "Senior Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Referral bonus program, Flexible working hours, Provident Fund and Gratuity as per company policy, Meal coupons and food allowance, Life and accident insurance"
+  },
+  "meta": {
+    "description": "MBD Group invites applications from qualified candidates for the position of Senior Teacher at our Surat location. This role offers excellent career advancement",
+    "keywords": "Senior Teacher, MBD Group, jobs in Surat, Gujarat jobs, education jobs India, Pedagogy, Lesson Planning, LMS Platforms, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:19:41.802Z"
+}
