@@ -1,0 +1,93 @@
+{
+  "slug": "cars24-software-engineer-visakhapatnam-2026-05-21-0",
+  "title": "Immediate Requirement Software Engineer at Cars24",
+  "company": "Cars24",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Git",
+    "JavaScript",
+    "Machine Learning",
+    "CI/CD",
+    "TensorFlow",
+    "Python",
+    "MongoDB",
+    "REST APIs"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Immediate Requirement Software Engineer at Cars24",
+    "description": "Join the Cars24 family as a Software Engineer in Visakhapatnam. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Cars24:\nCars24 is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Contribute to system architecture and technical design decisions\n• Design, develop and maintain scalable software applications\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Optimize application performance and ensure high availability\n• Participate in code reviews and contribute to technical discussions\n• Ensure code security and follow best practices for data protection\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 12-20 years of relevant experience\n• Proficiency in Git\n• Proficiency in JavaScript\n• Proficiency in Machine Learning\n• Proficiency in CI/CD\n• Proficiency in TensorFlow\n• Proficiency in Python\n• Proficiency in MongoDB\n• Proficiency in REST APIs\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Flexible working hours\n• Transportation and conveyance allowance\n• Professional development and training programs\n• Annual paid leaves and casual leaves\n• Referral bonus program\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Visakhapatnam, Andhra Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Cars24!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Cars24",
+      "value": "90-0-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Cars24",
+      "sameAs": "https://www.google.com/search?q=Cars24",
+      "logo": "https://logo.clearbit.com/cars24.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Cars24 Office",
+        "addressLocality": "Visakhapatnam",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "Git, JavaScript, Machine Learning, CI/CD, TensorFlow, Python, MongoDB, REST APIs",
+    "responsibilities": "Contribute to system architecture and technical design decisions. Design, develop and maintain scalable software applications. Mentor junior developers and conduct knowledge-sharing sessions. Work with agile methodologies including daily stand-ups and sprint planning. Optimize application performance and ensure high availability. Participate in code reviews and contribute to technical discussions. Ensure code security and follow best practices for data protection",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Flexible working hours. Transportation and conveyance allowance. Professional development and training programs. Annual paid leaves and casual leaves. Referral bonus program",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Flexible working hours, Transportation and conveyance allowance, Professional development and training programs, Annual paid leaves and casual leaves, Referral bonus program"
+  },
+  "meta": {
+    "description": "Join the Cars24 family as a Software Engineer in Visakhapatnam. We believe in empowering our employees with the tools, training, and environment they need to su",
+    "keywords": "Software Engineer, Cars24, jobs in Visakhapatnam, Andhra Pradesh jobs, technology jobs India, Git, JavaScript, Machine Learning, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:05:04.534Z"
+}

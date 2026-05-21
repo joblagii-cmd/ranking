@@ -1,0 +1,92 @@
+{
+  "slug": "bsnl-full-stack-developer-nagpur-2026-05-21-2",
+  "title": "BSNL is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "BSNL",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "JavaScript",
+    "Rust",
+    "Kubernetes",
+    "Python",
+    "MongoDB",
+    "Microservices",
+    "AWS",
+    "Java"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "BSNL is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "Join the BSNL family as a Full Stack Developer in Nagpur. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout BSNL:\nBSNL is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in code reviews and contribute to technical discussions\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Participate in on-call rotation for production support\n• Integrate third-party APIs and services\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Implement new features based on product requirements\n• Troubleshoot, debug, and resolve software defects and performance issues\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 0-1 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Rust\n• Proficiency in Kubernetes\n• Proficiency in Python\n• Proficiency in MongoDB\n• Proficiency in Microservices\n• Proficiency in AWS\n• Proficiency in Java\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Life and accident insurance\n• Meal coupons and food allowance\n• International travel opportunities for senior roles\n• Learning & development budget\n• Provident Fund and Gratuity as per company policy\n• Annual paid leaves and casual leaves\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Nagpur, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with BSNL!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "BSNL",
+      "value": "82-2-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "BSNL",
+      "sameAs": "https://www.google.com/search?q=BSNL",
+      "logo": "https://logo.clearbit.com/bsnl.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "BSNL Office",
+        "addressLocality": "Nagpur",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "JavaScript, Rust, Kubernetes, Python, MongoDB, Microservices, AWS, Java",
+    "responsibilities": "Participate in code reviews and contribute to technical discussions. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Participate in on-call rotation for production support. Integrate third-party APIs and services. Mentor junior developers and conduct knowledge-sharing sessions. Implement new features based on product requirements. Troubleshoot, debug, and resolve software defects and performance issues",
+    "benefits": "Life and accident insurance. Meal coupons and food allowance. International travel opportunities for senior roles. Learning & development budget. Provident Fund and Gratuity as per company policy. Annual paid leaves and casual leaves",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Meal coupons and food allowance, International travel opportunities for senior roles, Learning & development budget, Provident Fund and Gratuity as per company policy, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "Join the BSNL family as a Full Stack Developer in Nagpur. We believe in empowering our employees with the tools, training, and environment they need to succeed.",
+    "keywords": "Full Stack Developer, BSNL, jobs in Nagpur, Maharashtra jobs, technology jobs India, JavaScript, Rust, Kubernetes, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:05:04.526Z"
+}

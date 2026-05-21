@@ -1,0 +1,92 @@
+{
+  "slug": "shaadi-com-backend-developer-bhopal-2026-05-21-3",
+  "title": "Backend Developer Vacancy at Shaadi.com - 2026 Batch",
+  "company": "Shaadi.com",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "CI/CD",
+    "Kubernetes",
+    "TypeScript",
+    "JavaScript",
+    "Machine Learning",
+    "Docker",
+    "Python",
+    "AWS"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Shaadi.com - 2026 Batch",
+    "description": "Join the Shaadi.com family as a Backend Developer in Bhopal. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Shaadi.com:\nShaadi.com is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Implement new features based on product requirements\n• Optimize application performance and ensure high availability\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Write clean, maintainable, and well-documented code\n• Ensure code security and follow best practices for data protection\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 12-20 years of relevant experience\n• Proficiency in CI/CD\n• Proficiency in Kubernetes\n• Proficiency in TypeScript\n• Proficiency in JavaScript\n• Proficiency in Machine Learning\n• Proficiency in Docker\n• Proficiency in Python\n• Proficiency in AWS\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• Annual performance appraisal\n• Learning & development budget\n• Company-sponsored certifications\n• Flexible working hours\n• Professional development and training programs\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Bhopal, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Shaadi.com!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Shaadi.com",
+      "value": "87-3-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Shaadi.com",
+      "sameAs": "https://www.google.com/search?q=Shaadi.com",
+      "logo": "https://logo.clearbit.com/shaadicom.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Shaadi.com Office",
+        "addressLocality": "Bhopal",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "CI/CD, Kubernetes, TypeScript, JavaScript, Machine Learning, Docker, Python, AWS",
+    "responsibilities": "Design, develop and maintain scalable software applications. Implement new features based on product requirements. Optimize application performance and ensure high availability. Work with agile methodologies including daily stand-ups and sprint planning. Write clean, maintainable, and well-documented code. Ensure code security and follow best practices for data protection. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP",
+    "benefits": "Comprehensive health insurance for self and family. Annual performance appraisal. Learning & development budget. Company-sponsored certifications. Flexible working hours. Professional development and training programs",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, Annual performance appraisal, Learning & development budget, Company-sponsored certifications, Flexible working hours, Professional development and training programs"
+  },
+  "meta": {
+    "description": "Join the Shaadi.com family as a Backend Developer in Bhopal. We believe in empowering our employees with the tools, training, and environment they need to succe",
+    "keywords": "Backend Developer, Shaadi.com, jobs in Bhopal, Madhya Pradesh jobs, technology jobs India, CI/CD, Kubernetes, TypeScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:05:04.533Z"
+}

@@ -1,0 +1,92 @@
+{
+  "slug": "cars24-senior-software-engineer-visakhapatnam-2026-05-21-1",
+  "title": "Senior Software Engineer - Cars24 - Experienced Professionals",
+  "company": "Cars24",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "SQL",
+    "Agile/Scrum",
+    "JavaScript",
+    "Python",
+    "MongoDB",
+    "Rust",
+    "Java",
+    "REST APIs"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Cars24 - Experienced Professionals",
+    "description": "Join the Cars24 family as a Senior Software Engineer in Visakhapatnam. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Cars24:\nCars24 is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Participate in code reviews and contribute to technical discussions\n• Optimize application performance and ensure high availability\n• Ensure code security and follow best practices for data protection\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Contribute to system architecture and technical design decisions\n• Participate in on-call rotation for production support\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 10-15 years of relevant experience\n• Proficiency in SQL\n• Proficiency in Agile/Scrum\n• Proficiency in JavaScript\n• Proficiency in Python\n• Proficiency in MongoDB\n• Proficiency in Rust\n• Proficiency in Java\n• Proficiency in REST APIs\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Comprehensive health insurance for self and family\n• Life and accident insurance\n• Flexible working hours\n• Work-from-home flexibility\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Visakhapatnam, Andhra Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Cars24!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Cars24",
+      "value": "90-1-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Cars24",
+      "sameAs": "https://www.google.com/search?q=Cars24",
+      "logo": "https://logo.clearbit.com/cars24.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Cars24 Office",
+        "addressLocality": "Visakhapatnam",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "SQL, Agile/Scrum, JavaScript, Python, MongoDB, Rust, Java, REST APIs",
+    "responsibilities": "Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Participate in code reviews and contribute to technical discussions. Optimize application performance and ensure high availability. Ensure code security and follow best practices for data protection. Work with agile methodologies including daily stand-ups and sprint planning. Contribute to system architecture and technical design decisions. Participate in on-call rotation for production support",
+    "benefits": "Transportation and conveyance allowance. Comprehensive health insurance for self and family. Life and accident insurance. Flexible working hours. Work-from-home flexibility. Provident Fund and Gratuity as per company policy",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Comprehensive health insurance for self and family, Life and accident insurance, Flexible working hours, Work-from-home flexibility, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "Join the Cars24 family as a Senior Software Engineer in Visakhapatnam. We believe in empowering our employees with the tools, training, and environment they nee",
+    "keywords": "Senior Software Engineer, Cars24, jobs in Visakhapatnam, Andhra Pradesh jobs, technology jobs India, SQL, Agile/Scrum, JavaScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:05:04.534Z"
+}

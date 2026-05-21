@@ -1,0 +1,92 @@
+{
+  "slug": "airtel-india-backend-developer-indore-2026-05-21-3",
+  "title": "Backend Developer Vacancy at Airtel India - 2026 Batch",
+  "company": "Airtel India",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "MongoDB",
+    "TensorFlow",
+    "Python",
+    "Node.js",
+    "Rust",
+    "Java",
+    "REST APIs",
+    "React"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Airtel India - 2026 Batch",
+    "description": "Join the Airtel India family as a Backend Developer in Indore. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Airtel India:\nAirtel India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Write and execute unit tests and integration tests\n• Contribute to system architecture and technical design decisions\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Participate in code reviews and contribute to technical discussions\n• Optimize application performance and ensure high availability\n• Ensure code security and follow best practices for data protection\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 6-10 years of relevant experience\n• Proficiency in MongoDB\n• Proficiency in TensorFlow\n• Proficiency in Python\n• Proficiency in Node.js\n• Proficiency in Rust\n• Proficiency in Java\n• Proficiency in REST APIs\n• Proficiency in React\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Learning & development budget\n• Referral bonus program\n• Transportation and conveyance allowance\n• Recognition and rewards programs\n• Maternity and paternity leave\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Indore, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Airtel India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Airtel India",
+      "value": "83-3-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Airtel India",
+      "sameAs": "https://www.google.com/search?q=Airtel%20India",
+      "logo": "https://logo.clearbit.com/airtelindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Airtel India Office",
+        "addressLocality": "Indore",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "MongoDB, TensorFlow, Python, Node.js, Rust, Java, REST APIs, React",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Write and execute unit tests and integration tests. Contribute to system architecture and technical design decisions. Work with agile methodologies including daily stand-ups and sprint planning. Participate in code reviews and contribute to technical discussions. Optimize application performance and ensure high availability. Ensure code security and follow best practices for data protection",
+    "benefits": "Learning & development budget. Referral bonus program. Transportation and conveyance allowance. Recognition and rewards programs. Maternity and paternity leave. Provident Fund and Gratuity as per company policy",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Learning & development budget, Referral bonus program, Transportation and conveyance allowance, Recognition and rewards programs, Maternity and paternity leave, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "Join the Airtel India family as a Backend Developer in Indore. We believe in empowering our employees with the tools, training, and environment they need to suc",
+    "keywords": "Backend Developer, Airtel India, jobs in Indore, Madhya Pradesh jobs, technology jobs India, MongoDB, TensorFlow, Python, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:05:04.527Z"
+}

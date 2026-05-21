@@ -1,0 +1,93 @@
+{
+  "slug": "quikr-full-stack-developer-visakhapatnam-2026-05-21-2",
+  "title": "Quikr is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "Quikr",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Microservices",
+    "Git",
+    "JavaScript",
+    "Rust",
+    "Python",
+    "CI/CD",
+    "React",
+    "Node.js"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Quikr is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "Join the Quikr family as a Full Stack Developer in Visakhapatnam. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Quikr:\nQuikr is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Write and execute unit tests and integration tests\n• Write clean, maintainable, and well-documented code\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Participate in code reviews and contribute to technical discussions\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 12-20 years of relevant experience\n• Proficiency in Microservices\n• Proficiency in Git\n• Proficiency in JavaScript\n• Proficiency in Rust\n• Proficiency in Python\n• Proficiency in CI/CD\n• Proficiency in React\n• Proficiency in Node.js\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Company-sponsored certifications\n• Provident Fund and Gratuity as per company policy\n• Meal coupons and food allowance\n• Recognition and rewards programs\n• Comprehensive health insurance for self and family\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Visakhapatnam, Andhra Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Quikr!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Quikr",
+      "value": "88-2-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Quikr",
+      "sameAs": "https://www.google.com/search?q=Quikr",
+      "logo": "https://logo.clearbit.com/quikr.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Quikr Office",
+        "addressLocality": "Visakhapatnam",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "Microservices, Git, JavaScript, Rust, Python, CI/CD, React, Node.js",
+    "responsibilities": "Design, develop and maintain scalable software applications. Work with agile methodologies including daily stand-ups and sprint planning. Write and execute unit tests and integration tests. Write clean, maintainable, and well-documented code. Troubleshoot, debug, and resolve software defects and performance issues. Mentor junior developers and conduct knowledge-sharing sessions. Participate in code reviews and contribute to technical discussions",
+    "benefits": "Annual paid leaves and casual leaves. Company-sponsored certifications. Provident Fund and Gratuity as per company policy. Meal coupons and food allowance. Recognition and rewards programs. Comprehensive health insurance for self and family",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Company-sponsored certifications, Provident Fund and Gratuity as per company policy, Meal coupons and food allowance, Recognition and rewards programs, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "Join the Quikr family as a Full Stack Developer in Visakhapatnam. We believe in empowering our employees with the tools, training, and environment they need to ",
+    "keywords": "Full Stack Developer, Quikr, jobs in Visakhapatnam, Andhra Pradesh jobs, technology jobs India, Microservices, Git, JavaScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:05:04.534Z"
+}
