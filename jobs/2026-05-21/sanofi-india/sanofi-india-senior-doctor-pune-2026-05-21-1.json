@@ -1,0 +1,92 @@
+{
+  "slug": "sanofi-india-senior-doctor-pune-2026-05-21-1",
+  "title": "Senior Doctor - Sanofi India - 2025 Hiring Drive",
+  "company": "Sanofi India",
+  "industry": "healthcare",
+  "role": "Senior Doctor",
+  "location": {
+    "city": "Pune",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "ICU Management",
+    "Telemedicine",
+    "Patient Care",
+    "Medical Coding",
+    "Clinical Documentation",
+    "Infection Control",
+    "BLS/ACLS",
+    "Clinical Research"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Doctor - Sanofi India - 2025 Hiring Drive",
+    "description": "Sanofi India has an exciting opening for a Senior Doctor at our Pune office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Sanofi India:\nSanofi India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Provide high-quality patient care and maintain patient records\n• Diagnose and treat medical conditions following established protocols\n• Respond to medical emergencies and provide immediate care\n• Participate in quality improvement initiatives and clinical audits\n• Attend continuing medical education programs and training\n• Maintain sterile environments and follow infection control protocols\n• Conduct routine health assessments and screenings\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 6-10 years of relevant experience\n• Proficiency in ICU Management\n• Proficiency in Telemedicine\n• Proficiency in Patient Care\n• Proficiency in Medical Coding\n• Proficiency in Clinical Documentation\n• Proficiency in Infection Control\n• Proficiency in BLS/ACLS\n• Proficiency in Clinical Research\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Professional development and training programs\n• Work-from-home flexibility\n• Annual performance appraisal\n• Mobile and internet reimbursement\n• Annual paid leaves and casual leaves\n• Maternity and paternity leave\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Pune, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Sanofi India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Sanofi India",
+      "value": "239-1-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Sanofi India",
+      "sameAs": "https://www.google.com/search?q=Sanofi%20India",
+      "logo": "https://logo.clearbit.com/sanofiindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Sanofi India Office",
+        "addressLocality": "Pune",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "ICU Management, Telemedicine, Patient Care, Medical Coding, Clinical Documentation, Infection Control, BLS/ACLS, Clinical Research",
+    "responsibilities": "Provide high-quality patient care and maintain patient records. Diagnose and treat medical conditions following established protocols. Respond to medical emergencies and provide immediate care. Participate in quality improvement initiatives and clinical audits. Attend continuing medical education programs and training. Maintain sterile environments and follow infection control protocols. Conduct routine health assessments and screenings",
+    "benefits": "Professional development and training programs. Work-from-home flexibility. Annual performance appraisal. Mobile and internet reimbursement. Annual paid leaves and casual leaves. Maternity and paternity leave",
+    "industry": "healthcare",
+    "occupationalCategory": "Senior Doctor",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Work-from-home flexibility, Annual performance appraisal, Mobile and internet reimbursement, Annual paid leaves and casual leaves, Maternity and paternity leave"
+  },
+  "meta": {
+    "description": "Sanofi India has an exciting opening for a Senior Doctor at our Pune office. Join a company that values innovation, collaboration, and continuous learning.",
+    "keywords": "Senior Doctor, Sanofi India, jobs in Pune, Maharashtra jobs, healthcare jobs India, ICU Management, Telemedicine, Patient Care, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:09:23.939Z"
+}

@@ -1,0 +1,92 @@
+{
+  "slug": "alkem-laboratories-consultant-physician-hyderabad-2026-05-21-2",
+  "title": "Alkem Laboratories is Hiring: Consultant Physician (Principal)",
+  "company": "Alkem Laboratories",
+  "industry": "healthcare",
+  "role": "Consultant Physician",
+  "location": {
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Infection Control",
+    "CPT Codes",
+    "EMR/EHR",
+    "BLS/ACLS",
+    "NABH Standards",
+    "ICU Management",
+    "Wound Care",
+    "Medical Ethics"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Alkem Laboratories is Hiring: Consultant Physician (Principal)",
+    "description": "Alkem Laboratories has an exciting opening for a Consultant Physician at our Hyderabad office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Alkem Laboratories:\nAlkem Laboratories is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure patient privacy and maintain confidentiality\n• Maintain sterile environments and follow infection control protocols\n• Provide high-quality patient care and maintain patient records\n• Conduct routine health assessments and screenings\n• Diagnose and treat medical conditions following established protocols\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Adhere to NABH/JCI accreditation standards\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 6-10 years of relevant experience\n• Proficiency in Infection Control\n• Proficiency in CPT Codes\n• Proficiency in EMR/EHR\n• Proficiency in BLS/ACLS\n• Proficiency in NABH Standards\n• Proficiency in ICU Management\n• Proficiency in Wound Care\n• Proficiency in Medical Ethics\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Company-sponsored certifications\n• Competitive salary with performance-linked incentives\n• Learning & development budget\n• Comprehensive health insurance for self and family\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Hyderabad, Telangana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Alkem Laboratories!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Alkem Laboratories",
+      "value": "233-2-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Alkem Laboratories",
+      "sameAs": "https://www.google.com/search?q=Alkem%20Laboratories",
+      "logo": "https://logo.clearbit.com/alkemlaboratories.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Alkem Laboratories Office",
+        "addressLocality": "Hyderabad",
+        "addressRegion": "Telangana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "Infection Control, CPT Codes, EMR/EHR, BLS/ACLS, NABH Standards, ICU Management, Wound Care, Medical Ethics",
+    "responsibilities": "Ensure patient privacy and maintain confidentiality. Maintain sterile environments and follow infection control protocols. Provide high-quality patient care and maintain patient records. Conduct routine health assessments and screenings. Diagnose and treat medical conditions following established protocols. Coordinate with multidisciplinary teams for comprehensive patient management. Adhere to NABH/JCI accreditation standards",
+    "benefits": "International travel opportunities for senior roles. Company-sponsored certifications. Competitive salary with performance-linked incentives. Learning & development budget. Comprehensive health insurance for self and family. Provident Fund and Gratuity as per company policy",
+    "industry": "healthcare",
+    "occupationalCategory": "Consultant Physician",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Company-sponsored certifications, Competitive salary with performance-linked incentives, Learning & development budget, Comprehensive health insurance for self and family, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "Alkem Laboratories has an exciting opening for a Consultant Physician at our Hyderabad office. Join a company that values innovation, collaboration, and continu",
+    "keywords": "Consultant Physician, Alkem Laboratories, jobs in Hyderabad, Telangana jobs, healthcare jobs India, Infection Control, CPT Codes, EMR/EHR, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:09:23.935Z"
+}
