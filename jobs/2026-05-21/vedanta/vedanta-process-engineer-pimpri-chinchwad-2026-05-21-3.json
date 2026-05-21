@@ -1,0 +1,92 @@
+{
+  "slug": "vedanta-process-engineer-pimpri-chinchwad-2026-05-21-3",
+  "title": "Process Engineer Vacancy at Vedanta - 2026 Batch",
+  "company": "Vedanta",
+  "industry": "manufacturing",
+  "role": "Process Engineer",
+  "location": {
+    "city": "Pimpri-Chinchwad",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "AutoCAD",
+    "GD&T",
+    "Six Sigma",
+    "SAP MM/PP",
+    "APQP",
+    "5S",
+    "Kaizen",
+    "Supply Chain Management"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Process Engineer Vacancy at Vedanta - 2026 Batch",
+    "description": "Vedanta is actively seeking a talented and motivated Process Engineer to join our dynamic team in Pimpri-Chinchwad. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout Vedanta:\nVedanta is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure environmental compliance and waste management\n• Manage raw material procurement and inventory levels\n• Oversee daily production operations to meet output targets\n• Maintain accurate production records and prepare daily reports\n• Train and supervise shop floor workers and supervisors\n• Coordinate with design and engineering teams on product improvements\n• Manage supplier quality audits and vendor development\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 6-10 years of relevant experience\n• Proficiency in AutoCAD\n• Proficiency in GD&T\n• Proficiency in Six Sigma\n• Proficiency in SAP MM/PP\n• Proficiency in APQP\n• Proficiency in 5S\n• Proficiency in Kaizen\n• Proficiency in Supply Chain Management\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Maternity and paternity leave\n• Mobile and internet reimbursement\n• Modern office with recreational facilities\n• Provident Fund and Gratuity as per company policy\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Pimpri-Chinchwad, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Vedanta!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Vedanta",
+      "value": "423-3-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Vedanta",
+      "sameAs": "https://www.google.com/search?q=Vedanta",
+      "logo": "https://logo.clearbit.com/vedanta.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Vedanta Office",
+        "addressLocality": "Pimpri-Chinchwad",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "AutoCAD, GD&T, Six Sigma, SAP MM/PP, APQP, 5S, Kaizen, Supply Chain Management",
+    "responsibilities": "Ensure environmental compliance and waste management. Manage raw material procurement and inventory levels. Oversee daily production operations to meet output targets. Maintain accurate production records and prepare daily reports. Train and supervise shop floor workers and supervisors. Coordinate with design and engineering teams on product improvements. Manage supplier quality audits and vendor development",
+    "benefits": "International travel opportunities for senior roles. Maternity and paternity leave. Mobile and internet reimbursement. Modern office with recreational facilities. Provident Fund and Gratuity as per company policy. Employee stock options (ESOPs) for eligible roles",
+    "industry": "manufacturing",
+    "occupationalCategory": "Process Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Maternity and paternity leave, Mobile and internet reimbursement, Modern office with recreational facilities, Provident Fund and Gratuity as per company policy, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "Vedanta is actively seeking a talented and motivated Process Engineer to join our dynamic team in Pimpri-Chinchwad. This is an excellent opportunity for profess",
+    "keywords": "Process Engineer, Vedanta, jobs in Pimpri-Chinchwad, Maharashtra jobs, manufacturing jobs India, AutoCAD, GD&T, Six Sigma, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:15:16.760Z"
+}
