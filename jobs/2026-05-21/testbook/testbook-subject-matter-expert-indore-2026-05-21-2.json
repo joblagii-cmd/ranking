@@ -1,0 +1,92 @@
+{
+  "slug": "testbook-subject-matter-expert-indore-2026-05-21-2",
+  "title": "Testbook is Hiring: Subject Matter Expert (Principal)",
+  "company": "Testbook",
+  "industry": "education",
+  "role": "Subject Matter Expert",
+  "location": {
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Lesson Planning",
+    "Content Creation",
+    "Zoom/Teams",
+    "Student Assessment",
+    "Classroom Management",
+    "IB Curriculum",
+    "Educational Technology",
+    "E-learning"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Testbook is Hiring: Subject Matter Expert (Principal)",
+    "description": "Testbook invites applications from qualified candidates for the position of Subject Matter Expert at our Indore location. This role offers excellent career advancement prospects.\n\nAbout Testbook:\nTestbook is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with academic counselors for student career guidance\n• Utilize technology and digital tools to enhance learning outcomes\n• Contribute to school newsletter, blogs, and other publications\n• Conduct parent-teacher meetings and update parents on student performance\n• Develop and deliver engaging lesson plans for students\n• Create curriculum-aligned learning materials and assessments\n• Maintain classroom discipline and create a positive learning environment\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 10-15 years of relevant experience\n• Proficiency in Lesson Planning\n• Proficiency in Content Creation\n• Proficiency in Zoom/Teams\n• Proficiency in Student Assessment\n• Proficiency in Classroom Management\n• Proficiency in IB Curriculum\n• Proficiency in Educational Technology\n• Proficiency in E-learning\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Annual performance appraisal\n• Employee stock options (ESOPs) for eligible roles\n• Life and accident insurance\n• Learning & development budget\n• Professional development and training programs\n• Meal coupons and food allowance\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Indore, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Testbook!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Testbook",
+      "value": "583-2-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Testbook",
+      "sameAs": "https://www.google.com/search?q=Testbook",
+      "logo": "https://logo.clearbit.com/testbook.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Testbook Office",
+        "addressLocality": "Indore",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Lesson Planning, Content Creation, Zoom/Teams, Student Assessment, Classroom Management, IB Curriculum, Educational Technology, E-learning",
+    "responsibilities": "Coordinate with academic counselors for student career guidance. Utilize technology and digital tools to enhance learning outcomes. Contribute to school newsletter, blogs, and other publications. Conduct parent-teacher meetings and update parents on student performance. Develop and deliver engaging lesson plans for students. Create curriculum-aligned learning materials and assessments. Maintain classroom discipline and create a positive learning environment",
+    "benefits": "Annual performance appraisal. Employee stock options (ESOPs) for eligible roles. Life and accident insurance. Learning & development budget. Professional development and training programs. Meal coupons and food allowance",
+    "industry": "education",
+    "occupationalCategory": "Subject Matter Expert",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual performance appraisal, Employee stock options (ESOPs) for eligible roles, Life and accident insurance, Learning & development budget, Professional development and training programs, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "Testbook invites applications from qualified candidates for the position of Subject Matter Expert at our Indore location. This role offers excellent career adva",
+    "keywords": "Subject Matter Expert, Testbook, jobs in Indore, Madhya Pradesh jobs, education jobs India, Lesson Planning, Content Creation, Zoom/Teams, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:19:58.097Z"
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "oliveboard-teacher-indore-2026-05-21-0",
+  "title": "Career Opportunity Teacher at Oliveboard",
+  "company": "Oliveboard",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Content Creation",
+    "CBSE/ICSE Standards",
+    "Pedagogy",
+    "Research Skills",
+    "E-learning",
+    "Curriculum Development",
+    "Bloom's Taxonomy",
+    "Lesson Planning"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Career Opportunity Teacher at Oliveboard",
+    "description": "Oliveboard invites applications from qualified candidates for the position of Teacher at our Indore location. This role offers excellent career advancement prospects.\n\nAbout Oliveboard:\nOliveboard is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Monitor student progress and provide timely feedback\n• Coordinate with academic counselors for student career guidance\n• Create curriculum-aligned learning materials and assessments\n• Conduct doubt-clearing sessions and remedial classes for weak students\n• Develop and deliver engaging lesson plans for students\n• Collaborate with faculty on curriculum development initiatives\n• Participate in teacher training and professional development programs\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 10-15 years of relevant experience\n• Proficiency in Content Creation\n• Proficiency in CBSE/ICSE Standards\n• Proficiency in Pedagogy\n• Proficiency in Research Skills\n• Proficiency in E-learning\n• Proficiency in Curriculum Development\n• Proficiency in Bloom's Taxonomy\n• Proficiency in Lesson Planning\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Transportation and conveyance allowance\n• International travel opportunities for senior roles\n• Mobile and internet reimbursement\n• Comprehensive health insurance for self and family\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Indore, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Oliveboard!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Oliveboard",
+      "value": "585-0-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Oliveboard",
+      "sameAs": "https://www.google.com/search?q=Oliveboard",
+      "logo": "https://logo.clearbit.com/oliveboard.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Oliveboard Office",
+        "addressLocality": "Indore",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "Content Creation, CBSE/ICSE Standards, Pedagogy, Research Skills, E-learning, Curriculum Development, Bloom's Taxonomy, Lesson Planning",
+    "responsibilities": "Monitor student progress and provide timely feedback. Coordinate with academic counselors for student career guidance. Create curriculum-aligned learning materials and assessments. Conduct doubt-clearing sessions and remedial classes for weak students. Develop and deliver engaging lesson plans for students. Collaborate with faculty on curriculum development initiatives. Participate in teacher training and professional development programs",
+    "benefits": "Annual paid leaves and casual leaves. Transportation and conveyance allowance. International travel opportunities for senior roles. Mobile and internet reimbursement. Comprehensive health insurance for self and family. Provident Fund and Gratuity as per company policy",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Transportation and conveyance allowance, International travel opportunities for senior roles, Mobile and internet reimbursement, Comprehensive health insurance for self and family, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "Oliveboard invites applications from qualified candidates for the position of Teacher at our Indore location. This role offers excellent career advancement pros",
+    "keywords": "Teacher, Oliveboard, jobs in Indore, Madhya Pradesh jobs, education jobs India, Content Creation, CBSE/ICSE Standards, Pedagogy, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:19:58.100Z"
+}
