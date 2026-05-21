@@ -1,0 +1,92 @@
+{
+  "slug": "mcx-financial-analyst-amritsar-2026-05-21-0",
+  "title": "Job Opening Financial Analyst at MCX",
+  "company": "MCX",
+  "industry": "finance",
+  "role": "Financial Analyst",
+  "location": {
+    "city": "Amritsar",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Financial Modeling",
+    "MS Excel",
+    "VBA",
+    "Financial Reporting",
+    "Budgeting",
+    "SQL",
+    "Ind AS",
+    "Tally"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Job Opening Financial Analyst at MCX",
+    "description": "MCX is actively seeking a talented and motivated Financial Analyst to join our dynamic team in Amritsar. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout MCX:\nMCX is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Manage credit risk assessment and loan appraisal processes\n• Process payroll and manage employee reimbursements\n• Ensure compliance with tax regulations and statutory requirements\n• Manage accounts payable and accounts receivable functions\n• Prepare MIS reports for senior management review\n• Develop financial models and projections for business planning\n• Conduct due diligence for mergers, acquisitions, and investments\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 6-10 years of relevant experience\n• Proficiency in Financial Modeling\n• Proficiency in MS Excel\n• Proficiency in VBA\n• Proficiency in Financial Reporting\n• Proficiency in Budgeting\n• Proficiency in SQL\n• Proficiency in Ind AS\n• Proficiency in Tally\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Professional development and training programs\n• Meal coupons and food allowance\n• Learning & development budget\n• Annual paid leaves and casual leaves\n• Mobile and internet reimbursement\n• Annual performance appraisal\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Amritsar, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with MCX!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "MCX",
+      "value": "198-0-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "MCX",
+      "sameAs": "https://www.google.com/search?q=MCX",
+      "logo": "https://logo.clearbit.com/mcx.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "MCX Office",
+        "addressLocality": "Amritsar",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Financial Modeling, MS Excel, VBA, Financial Reporting, Budgeting, SQL, Ind AS, Tally",
+    "responsibilities": "Manage credit risk assessment and loan appraisal processes. Process payroll and manage employee reimbursements. Ensure compliance with tax regulations and statutory requirements. Manage accounts payable and accounts receivable functions. Prepare MIS reports for senior management review. Develop financial models and projections for business planning. Conduct due diligence for mergers, acquisitions, and investments",
+    "benefits": "Professional development and training programs. Meal coupons and food allowance. Learning & development budget. Annual paid leaves and casual leaves. Mobile and internet reimbursement. Annual performance appraisal",
+    "industry": "finance",
+    "occupationalCategory": "Financial Analyst",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Meal coupons and food allowance, Learning & development budget, Annual paid leaves and casual leaves, Mobile and internet reimbursement, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "MCX is actively seeking a talented and motivated Financial Analyst to join our dynamic team in Amritsar. This is an excellent opportunity for professionals who ",
+    "keywords": "Financial Analyst, MCX, jobs in Amritsar, Punjab jobs, finance jobs India, Financial Modeling, MS Excel, VBA, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:08:14.692Z"
+}

@@ -1,0 +1,92 @@
+{
+  "slug": "bsr-co-financial-analyst-varanasi-2026-05-21-0",
+  "title": "Job Opening Financial Analyst at BSR & Co",
+  "company": "BSR & Co",
+  "industry": "finance",
+  "role": "Financial Analyst",
+  "location": {
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "IFRS",
+    "Credit Analysis",
+    "Due Diligence",
+    "Budgeting",
+    "Income Tax",
+    "Ind AS",
+    "MS Excel",
+    "Financial Modeling"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Job Opening Financial Analyst at BSR & Co",
+    "description": "BSR & Co is actively seeking a talented and motivated Financial Analyst to join our dynamic team in Varanasi. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout BSR & Co:\nBSR & Co is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Manage accounts payable and accounts receivable functions\n• Prepare MIS reports for senior management review\n• Maintain general ledger and ensure accurate bookkeeping\n• Ensure compliance with tax regulations and statutory requirements\n• Process payroll and manage employee reimbursements\n• Monitor financial performance against targets and provide variance analysis\n• Implement and maintain internal controls and audit procedures\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 12-20 years of relevant experience\n• Proficiency in IFRS\n• Proficiency in Credit Analysis\n• Proficiency in Due Diligence\n• Proficiency in Budgeting\n• Proficiency in Income Tax\n• Proficiency in Ind AS\n• Proficiency in MS Excel\n• Proficiency in Financial Modeling\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Annual performance appraisal\n• Mobile and internet reimbursement\n• Maternity and paternity leave\n• Provident Fund and Gratuity as per company policy\n• Work-from-home flexibility\n• Competitive salary with performance-linked incentives\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Varanasi, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with BSR & Co!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "BSR & Co",
+      "value": "191-0-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "BSR & Co",
+      "sameAs": "https://www.google.com/search?q=BSR%20%26%20Co",
+      "logo": "https://logo.clearbit.com/bsrco.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "BSR & Co Office",
+        "addressLocality": "Varanasi",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "IFRS, Credit Analysis, Due Diligence, Budgeting, Income Tax, Ind AS, MS Excel, Financial Modeling",
+    "responsibilities": "Manage accounts payable and accounts receivable functions. Prepare MIS reports for senior management review. Maintain general ledger and ensure accurate bookkeeping. Ensure compliance with tax regulations and statutory requirements. Process payroll and manage employee reimbursements. Monitor financial performance against targets and provide variance analysis. Implement and maintain internal controls and audit procedures",
+    "benefits": "Annual performance appraisal. Mobile and internet reimbursement. Maternity and paternity leave. Provident Fund and Gratuity as per company policy. Work-from-home flexibility. Competitive salary with performance-linked incentives",
+    "industry": "finance",
+    "occupationalCategory": "Financial Analyst",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual performance appraisal, Mobile and internet reimbursement, Maternity and paternity leave, Provident Fund and Gratuity as per company policy, Work-from-home flexibility, Competitive salary with performance-linked incentives"
+  },
+  "meta": {
+    "description": "BSR & Co is actively seeking a talented and motivated Financial Analyst to join our dynamic team in Varanasi. This is an excellent opportunity for professionals",
+    "keywords": "Financial Analyst, BSR & Co, jobs in Varanasi, Uttar Pradesh jobs, finance jobs India, IFRS, Credit Analysis, Due Diligence, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:08:14.686Z"
+}
