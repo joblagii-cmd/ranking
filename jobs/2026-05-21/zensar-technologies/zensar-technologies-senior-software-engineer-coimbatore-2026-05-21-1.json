@@ -1,0 +1,93 @@
+{
+  "slug": "zensar-technologies-senior-software-engineer-coimbatore-2026-05-21-1",
+  "title": "Senior Software Engineer - Zensar Technologies - Freshers Welcome",
+  "company": "Zensar Technologies",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "Go",
+    "MongoDB",
+    "Git",
+    "Agile/Scrum",
+    "JavaScript"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Zensar Technologies - Freshers Welcome",
+    "description": "Zensar Technologies, one of India's leading organizations, is hiring a Senior Software Engineer for our Coimbatore operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Zensar Technologies:\nZensar Technologies is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write and execute unit tests and integration tests\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in code reviews and contribute to technical discussions\n• Ensure code security and follow best practices for data protection\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Participate in on-call rotation for production support\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 1-3 years of relevant experience\n• Proficiency in AWS\n• Proficiency in Docker\n• Proficiency in Kubernetes\n• Proficiency in Go\n• Proficiency in MongoDB\n• Proficiency in Git\n• Proficiency in Agile/Scrum\n• Proficiency in JavaScript\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Annual performance appraisal\n• Work-from-home flexibility\n• Transportation and conveyance allowance\n• Employee stock options (ESOPs) for eligible roles\n• International travel opportunities for senior roles\n• Competitive salary with performance-linked incentives\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Coimbatore, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Zensar Technologies!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Zensar Technologies",
+      "value": "39-1-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Zensar Technologies",
+      "sameAs": "https://www.google.com/search?q=Zensar%20Technologies",
+      "logo": "https://logo.clearbit.com/zensartechnologies.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Zensar Technologies Office",
+        "addressLocality": "Coimbatore",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "AWS, Docker, Kubernetes, Go, MongoDB, Git, Agile/Scrum, JavaScript",
+    "responsibilities": "Write and execute unit tests and integration tests. Collaborate with cross-functional teams including product, design, and QA. Participate in code reviews and contribute to technical discussions. Ensure code security and follow best practices for data protection. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Work with agile methodologies including daily stand-ups and sprint planning. Participate in on-call rotation for production support",
+    "benefits": "Annual performance appraisal. Work-from-home flexibility. Transportation and conveyance allowance. Employee stock options (ESOPs) for eligible roles. International travel opportunities for senior roles. Competitive salary with performance-linked incentives",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual performance appraisal, Work-from-home flexibility, Transportation and conveyance allowance, Employee stock options (ESOPs) for eligible roles, International travel opportunities for senior roles, Competitive salary with performance-linked incentives"
+  },
+  "meta": {
+    "description": "Zensar Technologies, one of India's leading organizations, is hiring a Senior Software Engineer for our Coimbatore operations. We offer a competitive salary pac",
+    "keywords": "Senior Software Engineer, Zensar Technologies, jobs in Coimbatore, Tamil Nadu jobs, technology jobs India, AWS, Docker, Kubernetes, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:03:37.056Z"
+}

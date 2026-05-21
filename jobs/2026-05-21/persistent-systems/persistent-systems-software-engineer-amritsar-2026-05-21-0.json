@@ -1,0 +1,92 @@
+{
+  "slug": "persistent-systems-software-engineer-amritsar-2026-05-21-0",
+  "title": "Walk-in Drive Software Engineer at Persistent Systems",
+  "company": "Persistent Systems",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Amritsar",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Docker",
+    "Go",
+    "Machine Learning",
+    "TensorFlow",
+    "Python",
+    "Microservices",
+    "REST APIs",
+    "React"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Walk-in Drive Software Engineer at Persistent Systems",
+    "description": "Are you a skilled Software Engineer looking for your next big career move? Persistent Systems in Amritsar offers you the perfect platform to grow professionally and personally.\n\nAbout Persistent Systems:\nPersistent Systems is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Write and execute unit tests and integration tests\n• Participate in on-call rotation for production support\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Design, develop and maintain scalable software applications\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 12-20 years of relevant experience\n• Proficiency in Docker\n• Proficiency in Go\n• Proficiency in Machine Learning\n• Proficiency in TensorFlow\n• Proficiency in Python\n• Proficiency in Microservices\n• Proficiency in REST APIs\n• Proficiency in React\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Comprehensive health insurance for self and family\n• Professional development and training programs\n• Transportation and conveyance allowance\n• Annual performance appraisal\n• Flexible working hours\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Amritsar, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Persistent Systems!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Persistent Systems",
+      "value": "31-0-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Persistent Systems",
+      "sameAs": "https://www.google.com/search?q=Persistent%20Systems",
+      "logo": "https://logo.clearbit.com/persistentsystems.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Persistent Systems Office",
+        "addressLocality": "Amritsar",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Docker, Go, Machine Learning, TensorFlow, Python, Microservices, REST APIs, React",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Troubleshoot, debug, and resolve software defects and performance issues. Write and execute unit tests and integration tests. Participate in on-call rotation for production support. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Work with agile methodologies including daily stand-ups and sprint planning. Design, develop and maintain scalable software applications",
+    "benefits": "International travel opportunities for senior roles. Comprehensive health insurance for self and family. Professional development and training programs. Transportation and conveyance allowance. Annual performance appraisal. Flexible working hours",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Comprehensive health insurance for self and family, Professional development and training programs, Transportation and conveyance allowance, Annual performance appraisal, Flexible working hours"
+  },
+  "meta": {
+    "description": "Are you a skilled Software Engineer looking for your next big career move? Persistent Systems in Amritsar offers you the perfect platform to grow professionally",
+    "keywords": "Software Engineer, Persistent Systems, jobs in Amritsar, Punjab jobs, technology jobs India, Docker, Go, Machine Learning, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:03:37.050Z"
+}
