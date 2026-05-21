@@ -1,0 +1,92 @@
+{
+  "slug": "bel-full-stack-developer-ahmedabad-2026-05-21-2",
+  "title": "BEL is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "BEL",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "TypeScript",
+    "Machine Learning",
+    "Node.js",
+    "TensorFlow",
+    "Microservices",
+    "AWS",
+    "Go",
+    "React"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "BEL is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "An exciting career opportunity awaits you at BEL. We are on the lookout for a dedicated Full Stack Developer to strengthen our Ahmedabad-based team.\n\nAbout BEL:\nBEL is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Optimize application performance and ensure high availability\n• Integrate third-party APIs and services\n• Collaborate with cross-functional teams including product, design, and QA\n• Write clean, maintainable, and well-documented code\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 6-10 years of relevant experience\n• Proficiency in TypeScript\n• Proficiency in Machine Learning\n• Proficiency in Node.js\n• Proficiency in TensorFlow\n• Proficiency in Microservices\n• Proficiency in AWS\n• Proficiency in Go\n• Proficiency in React\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• Life and accident insurance\n• Transportation and conveyance allowance\n• Modern office with recreational facilities\n• Referral bonus program\n• Annual performance appraisal\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Ahmedabad, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with BEL!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "BEL",
+      "value": "74-2-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "BEL",
+      "sameAs": "https://www.google.com/search?q=BEL",
+      "logo": "https://logo.clearbit.com/bel.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "BEL Office",
+        "addressLocality": "Ahmedabad",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "TypeScript, Machine Learning, Node.js, TensorFlow, Microservices, AWS, Go, React",
+    "responsibilities": "Design, develop and maintain scalable software applications. Optimize application performance and ensure high availability. Integrate third-party APIs and services. Collaborate with cross-functional teams including product, design, and QA. Write clean, maintainable, and well-documented code. Mentor junior developers and conduct knowledge-sharing sessions. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP",
+    "benefits": "Comprehensive health insurance for self and family. Life and accident insurance. Transportation and conveyance allowance. Modern office with recreational facilities. Referral bonus program. Annual performance appraisal",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, Life and accident insurance, Transportation and conveyance allowance, Modern office with recreational facilities, Referral bonus program, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at BEL. We are on the lookout for a dedicated Full Stack Developer to strengthen our Ahmedabad-based team.",
+    "keywords": "Full Stack Developer, BEL, jobs in Ahmedabad, Gujarat jobs, technology jobs India, TypeScript, Machine Learning, Node.js, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:04:45.404Z"
+}

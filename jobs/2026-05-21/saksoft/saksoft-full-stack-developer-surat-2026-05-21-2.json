@@ -1,0 +1,92 @@
+{
+  "slug": "saksoft-full-stack-developer-surat-2026-05-21-2",
+  "title": "Saksoft is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "Saksoft",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Surat",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Node.js",
+    "Kubernetes",
+    "Docker",
+    "React",
+    "Python",
+    "Git",
+    "MongoDB",
+    "JavaScript"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Saksoft is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "An exciting career opportunity awaits you at Saksoft. We are on the lookout for a dedicated Full Stack Developer to strengthen our Surat-based team.\n\nAbout Saksoft:\nSaksoft is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Design, develop and maintain scalable software applications\n• Ensure code security and follow best practices for data protection\n• Contribute to system architecture and technical design decisions\n• Collaborate with cross-functional teams including product, design, and QA\n• Implement new features based on product requirements\n• Integrate third-party APIs and services\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 12-20 years of relevant experience\n• Proficiency in Node.js\n• Proficiency in Kubernetes\n• Proficiency in Docker\n• Proficiency in React\n• Proficiency in Python\n• Proficiency in Git\n• Proficiency in MongoDB\n• Proficiency in JavaScript\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Competitive salary with performance-linked incentives\n• Recognition and rewards programs\n• Flexible working hours\n• Maternity and paternity leave\n• Work-from-home flexibility\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Surat, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Saksoft!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Saksoft",
+      "value": "77-2-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Saksoft",
+      "sameAs": "https://www.google.com/search?q=Saksoft",
+      "logo": "https://logo.clearbit.com/saksoft.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Saksoft Office",
+        "addressLocality": "Surat",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "Node.js, Kubernetes, Docker, React, Python, Git, MongoDB, JavaScript",
+    "responsibilities": "Work with agile methodologies including daily stand-ups and sprint planning. Design, develop and maintain scalable software applications. Ensure code security and follow best practices for data protection. Contribute to system architecture and technical design decisions. Collaborate with cross-functional teams including product, design, and QA. Implement new features based on product requirements. Integrate third-party APIs and services",
+    "benefits": "Transportation and conveyance allowance. Competitive salary with performance-linked incentives. Recognition and rewards programs. Flexible working hours. Maternity and paternity leave. Work-from-home flexibility",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Competitive salary with performance-linked incentives, Recognition and rewards programs, Flexible working hours, Maternity and paternity leave, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Saksoft. We are on the lookout for a dedicated Full Stack Developer to strengthen our Surat-based team.",
+    "keywords": "Full Stack Developer, Saksoft, jobs in Surat, Gujarat jobs, technology jobs India, Node.js, Kubernetes, Docker, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:04:45.406Z"
+}
