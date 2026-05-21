@@ -11,15 +11,12 @@ jobs:
     timeout-minutes: 360
     steps:
       - name: Generate all 25000 posts
-        env:
-          CRON_SECRET: ${{ secrets.CRON_SECRET }}
         run: |
           for i in $(seq 0 499); do
             echo "--- Page $i / 499 ---"
-            RESPONSE=$(curl -s -X POST https://ranking-mu-eosin.vercel.app/api/trigger \
+            curl -s -X POST https://ranking-mu-eosin.vercel.app/api/trigger \
               -H "Content-Type: application/json" \
-              -d "{\"secret\": \"${CRON_SECRET}\", \"page\": $i}")
-            echo $RESPONSE
+              -d "{\"secret\": \"abc123\", \"page\": $i}"
             echo ""
             sleep 2
           done
