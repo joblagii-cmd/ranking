@@ -122,6 +122,8 @@ function renderHTML(jobs, total, date, page, search, industry) {
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>JobLagii - Find Jobs in India | 25,000+ Daily Job Postings</title>
+<meta name="google-site-verification" content="6TO8Wo25PZGTYgT5AiRwIYIZBR-SNls-PvS03rjww8w" />
+<meta name="google-site-verification" content="mhwuIuZvhxIUI-g2YK2o1tfhIy8tt1J2VaZ3Yr9PwOo" />
 <meta name="description" content="Find the latest job openings in India. 25,000+ fresh job postings daily from 5,000 top companies across technology, finance, healthcare and more.">
 <style>
 * { margin: 0; padding: 0; box-sizing: border-box; }
