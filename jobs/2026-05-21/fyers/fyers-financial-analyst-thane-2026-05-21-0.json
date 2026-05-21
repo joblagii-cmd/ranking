@@ -1,0 +1,93 @@
+{
+  "slug": "fyers-financial-analyst-thane-2026-05-21-0",
+  "title": "Job Opening Financial Analyst at Fyers",
+  "company": "Fyers",
+  "industry": "finance",
+  "role": "Financial Analyst",
+  "location": {
+    "city": "Thane",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Bloomberg Terminal",
+    "SAP FICO",
+    "Income Tax",
+    "Risk Management",
+    "Credit Analysis",
+    "Due Diligence",
+    "Financial Modeling",
+    "SQL"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Job Opening Financial Analyst at Fyers",
+    "description": "If you're a passionate Financial Analyst with drive and ambition, Fyers in Thane is the place for you. We're growing fast and need talented people to grow with us.\n\nAbout Fyers:\nFyers is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Implement and maintain internal controls and audit procedures\n• Coordinate with external auditors during annual audits\n• Manage credit risk assessment and loan appraisal processes\n• Monitor market trends and provide investment recommendations\n• Maintain general ledger and ensure accurate bookkeeping\n• Monitor financial performance against targets and provide variance analysis\n• Ensure compliance with tax regulations and statutory requirements\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 10-15 years of relevant experience\n• Proficiency in Bloomberg Terminal\n• Proficiency in SAP FICO\n• Proficiency in Income Tax\n• Proficiency in Risk Management\n• Proficiency in Credit Analysis\n• Proficiency in Due Diligence\n• Proficiency in Financial Modeling\n• Proficiency in SQL\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Professional development and training programs\n• Annual performance appraisal\n• International travel opportunities for senior roles\n• Provident Fund and Gratuity as per company policy\n• Life and accident insurance\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Thane, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Fyers!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Fyers",
+      "value": "170-0-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Fyers",
+      "sameAs": "https://www.google.com/search?q=Fyers",
+      "logo": "https://logo.clearbit.com/fyers.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Fyers Office",
+        "addressLocality": "Thane",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "Bloomberg Terminal, SAP FICO, Income Tax, Risk Management, Credit Analysis, Due Diligence, Financial Modeling, SQL",
+    "responsibilities": "Implement and maintain internal controls and audit procedures. Coordinate with external auditors during annual audits. Manage credit risk assessment and loan appraisal processes. Monitor market trends and provide investment recommendations. Maintain general ledger and ensure accurate bookkeeping. Monitor financial performance against targets and provide variance analysis. Ensure compliance with tax regulations and statutory requirements",
+    "benefits": "Transportation and conveyance allowance. Professional development and training programs. Annual performance appraisal. International travel opportunities for senior roles. Provident Fund and Gratuity as per company policy. Life and accident insurance",
+    "industry": "finance",
+    "occupationalCategory": "Financial Analyst",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Professional development and training programs, Annual performance appraisal, International travel opportunities for senior roles, Provident Fund and Gratuity as per company policy, Life and accident insurance"
+  },
+  "meta": {
+    "description": "If you're a passionate Financial Analyst with drive and ambition, Fyers in Thane is the place for you. We're growing fast and need talented people to grow with ",
+    "keywords": "Financial Analyst, Fyers, jobs in Thane, Maharashtra jobs, finance jobs India, Bloomberg Terminal, SAP FICO, Income Tax, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:07:23.692Z"
+}
