@@ -1,0 +1,92 @@
+{
+  "slug": "sun-pharmaceutical-senior-doctor-tiruchirappalli-2026-05-21-1",
+  "title": "Senior Doctor - Sun Pharmaceutical - Work From Home Available",
+  "company": "Sun Pharmaceutical",
+  "industry": "healthcare",
+  "role": "Senior Doctor",
+  "location": {
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Pharmacovigilance",
+    "Surgical Procedures",
+    "BLS/ACLS",
+    "ICD-10",
+    "Clinical Documentation",
+    "ICU Management",
+    "Health Informatics",
+    "Medical Coding"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Doctor - Sun Pharmaceutical - Work From Home Available",
+    "description": "Sun Pharmaceutical has an exciting opening for a Senior Doctor at our Tiruchirappalli office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Sun Pharmaceutical:\nSun Pharmaceutical is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Educate patients and families on health management and disease prevention\n• Adhere to NABH/JCI accreditation standards\n• Provide high-quality patient care and maintain patient records\n• Maintain accurate clinical documentation in electronic health records\n• Diagnose and treat medical conditions following established protocols\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Monitor patient progress and adjust treatment plans accordingly\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 0-1 years of relevant experience\n• Proficiency in Pharmacovigilance\n• Proficiency in Surgical Procedures\n• Proficiency in BLS/ACLS\n• Proficiency in ICD-10\n• Proficiency in Clinical Documentation\n• Proficiency in ICU Management\n• Proficiency in Health Informatics\n• Proficiency in Medical Coding\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Company-sponsored certifications\n• Transportation and conveyance allowance\n• Learning & development budget\n• Flexible working hours\n• Professional development and training programs\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Tiruchirappalli, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Sun Pharmaceutical!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Sun Pharmaceutical",
+      "value": "226-1-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Sun Pharmaceutical",
+      "sameAs": "https://www.google.com/search?q=Sun%20Pharmaceutical",
+      "logo": "https://logo.clearbit.com/sunpharmaceutical.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Sun Pharmaceutical Office",
+        "addressLocality": "Tiruchirappalli",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "Pharmacovigilance, Surgical Procedures, BLS/ACLS, ICD-10, Clinical Documentation, ICU Management, Health Informatics, Medical Coding",
+    "responsibilities": "Educate patients and families on health management and disease prevention. Adhere to NABH/JCI accreditation standards. Provide high-quality patient care and maintain patient records. Maintain accurate clinical documentation in electronic health records. Diagnose and treat medical conditions following established protocols. Coordinate with multidisciplinary teams for comprehensive patient management. Monitor patient progress and adjust treatment plans accordingly",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Company-sponsored certifications. Transportation and conveyance allowance. Learning & development budget. Flexible working hours. Professional development and training programs",
+    "industry": "healthcare",
+    "occupationalCategory": "Senior Doctor",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Company-sponsored certifications, Transportation and conveyance allowance, Learning & development budget, Flexible working hours, Professional development and training programs"
+  },
+  "meta": {
+    "description": "Sun Pharmaceutical has an exciting opening for a Senior Doctor at our Tiruchirappalli office. Join a company that values innovation, collaboration, and continuo",
+    "keywords": "Senior Doctor, Sun Pharmaceutical, jobs in Tiruchirappalli, Tamil Nadu jobs, healthcare jobs India, Pharmacovigilance, Surgical Procedures, BLS/ACLS, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:09:05.978Z"
+}

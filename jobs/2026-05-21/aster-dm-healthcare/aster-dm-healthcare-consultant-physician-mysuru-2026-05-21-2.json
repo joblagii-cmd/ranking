@@ -1,0 +1,92 @@
+{
+  "slug": "aster-dm-healthcare-consultant-physician-mysuru-2026-05-21-2",
+  "title": "Aster DM Healthcare is Hiring: Consultant Physician (Principal)",
+  "company": "Aster DM Healthcare",
+  "industry": "healthcare",
+  "role": "Consultant Physician",
+  "location": {
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "CPT Codes",
+    "EMR/EHR",
+    "Telemedicine",
+    "BLS/ACLS",
+    "Infection Control",
+    "Clinical Documentation",
+    "Clinical Research",
+    "ICU Management"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Aster DM Healthcare is Hiring: Consultant Physician (Principal)",
+    "description": "Aster DM Healthcare has an exciting opening for a Consultant Physician at our Mysuru office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Aster DM Healthcare:\nAster DM Healthcare is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Respond to medical emergencies and provide immediate care\n• Monitor patient progress and adjust treatment plans accordingly\n• Provide high-quality patient care and maintain patient records\n• Diagnose and treat medical conditions following established protocols\n• Administer medications and treatments as prescribed\n• Maintain accurate clinical documentation in electronic health records\n• Maintain sterile environments and follow infection control protocols\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 3-6 years of relevant experience\n• Proficiency in CPT Codes\n• Proficiency in EMR/EHR\n• Proficiency in Telemedicine\n• Proficiency in BLS/ACLS\n• Proficiency in Infection Control\n• Proficiency in Clinical Documentation\n• Proficiency in Clinical Research\n• Proficiency in ICU Management\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Annual performance appraisal\n• Flexible working hours\n• Learning & development budget\n• Transportation and conveyance allowance\n• Mobile and internet reimbursement\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Mysuru, Karnataka, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Aster DM Healthcare!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Aster DM Healthcare",
+      "value": "223-2-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Aster DM Healthcare",
+      "sameAs": "https://www.google.com/search?q=Aster%20DM%20Healthcare",
+      "logo": "https://logo.clearbit.com/asterdmhealthcare.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Aster DM Healthcare Office",
+        "addressLocality": "Mysuru",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "CPT Codes, EMR/EHR, Telemedicine, BLS/ACLS, Infection Control, Clinical Documentation, Clinical Research, ICU Management",
+    "responsibilities": "Respond to medical emergencies and provide immediate care. Monitor patient progress and adjust treatment plans accordingly. Provide high-quality patient care and maintain patient records. Diagnose and treat medical conditions following established protocols. Administer medications and treatments as prescribed. Maintain accurate clinical documentation in electronic health records. Maintain sterile environments and follow infection control protocols",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Annual performance appraisal. Flexible working hours. Learning & development budget. Transportation and conveyance allowance. Mobile and internet reimbursement",
+    "industry": "healthcare",
+    "occupationalCategory": "Consultant Physician",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Annual performance appraisal, Flexible working hours, Learning & development budget, Transportation and conveyance allowance, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "Aster DM Healthcare has an exciting opening for a Consultant Physician at our Mysuru office. Join a company that values innovation, collaboration, and continuou",
+    "keywords": "Consultant Physician, Aster DM Healthcare, jobs in Mysuru, Karnataka jobs, healthcare jobs India, CPT Codes, EMR/EHR, Telemedicine, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:09:05.974Z"
+}

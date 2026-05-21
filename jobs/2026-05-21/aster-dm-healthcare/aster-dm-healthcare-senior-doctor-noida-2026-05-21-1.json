@@ -1,0 +1,92 @@
+{
+  "slug": "aster-dm-healthcare-senior-doctor-noida-2026-05-21-1",
+  "title": "Senior Doctor - Aster DM Healthcare - Work From Home Available",
+  "company": "Aster DM Healthcare",
+  "industry": "healthcare",
+  "role": "Senior Doctor",
+  "location": {
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Surgical Procedures",
+    "Medical Ethics",
+    "ICD-10",
+    "EMR/EHR",
+    "Medical Terminology",
+    "Pharmacovigilance",
+    "Infection Control",
+    "HIPAA Compliance"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Doctor - Aster DM Healthcare - Work From Home Available",
+    "description": "Aster DM Healthcare has an exciting opening for a Senior Doctor at our Noida office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Aster DM Healthcare:\nAster DM Healthcare is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Provide high-quality patient care and maintain patient records\n• Diagnose and treat medical conditions following established protocols\n• Ensure patient privacy and maintain confidentiality\n• Respond to medical emergencies and provide immediate care\n• Maintain sterile environments and follow infection control protocols\n• Attend continuing medical education programs and training\n• Maintain accurate clinical documentation in electronic health records\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 6-10 years of relevant experience\n• Proficiency in Surgical Procedures\n• Proficiency in Medical Ethics\n• Proficiency in ICD-10\n• Proficiency in EMR/EHR\n• Proficiency in Medical Terminology\n• Proficiency in Pharmacovigilance\n• Proficiency in Infection Control\n• Proficiency in HIPAA Compliance\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Provident Fund and Gratuity as per company policy\n• Work-from-home flexibility\n• Company-sponsored certifications\n• Professional development and training programs\n• Learning & development budget\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Noida, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Aster DM Healthcare!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Aster DM Healthcare",
+      "value": "223-1-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Aster DM Healthcare",
+      "sameAs": "https://www.google.com/search?q=Aster%20DM%20Healthcare",
+      "logo": "https://logo.clearbit.com/asterdmhealthcare.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Aster DM Healthcare Office",
+        "addressLocality": "Noida",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "Surgical Procedures, Medical Ethics, ICD-10, EMR/EHR, Medical Terminology, Pharmacovigilance, Infection Control, HIPAA Compliance",
+    "responsibilities": "Provide high-quality patient care and maintain patient records. Diagnose and treat medical conditions following established protocols. Ensure patient privacy and maintain confidentiality. Respond to medical emergencies and provide immediate care. Maintain sterile environments and follow infection control protocols. Attend continuing medical education programs and training. Maintain accurate clinical documentation in electronic health records",
+    "benefits": "Annual paid leaves and casual leaves. Provident Fund and Gratuity as per company policy. Work-from-home flexibility. Company-sponsored certifications. Professional development and training programs. Learning & development budget",
+    "industry": "healthcare",
+    "occupationalCategory": "Senior Doctor",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Provident Fund and Gratuity as per company policy, Work-from-home flexibility, Company-sponsored certifications, Professional development and training programs, Learning & development budget"
+  },
+  "meta": {
+    "description": "Aster DM Healthcare has an exciting opening for a Senior Doctor at our Noida office. Join a company that values innovation, collaboration, and continuous learni",
+    "keywords": "Senior Doctor, Aster DM Healthcare, jobs in Noida, Uttar Pradesh jobs, healthcare jobs India, Surgical Procedures, Medical Ethics, ICD-10, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:09:05.974Z"
+}
