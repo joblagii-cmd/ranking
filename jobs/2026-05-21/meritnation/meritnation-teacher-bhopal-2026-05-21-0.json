@@ -1,0 +1,92 @@
+{
+  "slug": "meritnation-teacher-bhopal-2026-05-21-0",
+  "title": "Vacancy for Teacher at Meritnation",
+  "company": "Meritnation",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "LMS Platforms",
+    "Zoom/Teams",
+    "Research Skills",
+    "Educational Technology",
+    "Communication Skills",
+    "Special Education",
+    "Student Assessment",
+    "Pedagogy"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Vacancy for Teacher at Meritnation",
+    "description": "Are you a skilled Teacher looking for your next big career move? Meritnation in Bhopal offers you the perfect platform to grow professionally and personally.\n\nAbout Meritnation:\nMeritnation is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in school events, workshops, and training programs\n• Develop and deliver engaging lesson plans for students\n• Coordinate with academic counselors for student career guidance\n• Create curriculum-aligned learning materials and assessments\n• Monitor student progress and provide timely feedback\n• Maintain classroom discipline and create a positive learning environment\n• Participate in teacher training and professional development programs\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 12-20 years of relevant experience\n• Proficiency in LMS Platforms\n• Proficiency in Zoom/Teams\n• Proficiency in Research Skills\n• Proficiency in Educational Technology\n• Proficiency in Communication Skills\n• Proficiency in Special Education\n• Proficiency in Student Assessment\n• Proficiency in Pedagogy\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Professional development and training programs\n• Flexible working hours\n• Provident Fund and Gratuity as per company policy\n• Mobile and internet reimbursement\n• Meal coupons and food allowance\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Bhopal, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Meritnation!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Meritnation",
+      "value": "504-0-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Meritnation",
+      "sameAs": "https://www.google.com/search?q=Meritnation",
+      "logo": "https://logo.clearbit.com/meritnation.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Meritnation Office",
+        "addressLocality": "Bhopal",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "LMS Platforms, Zoom/Teams, Research Skills, Educational Technology, Communication Skills, Special Education, Student Assessment, Pedagogy",
+    "responsibilities": "Participate in school events, workshops, and training programs. Develop and deliver engaging lesson plans for students. Coordinate with academic counselors for student career guidance. Create curriculum-aligned learning materials and assessments. Monitor student progress and provide timely feedback. Maintain classroom discipline and create a positive learning environment. Participate in teacher training and professional development programs",
+    "benefits": "Work-from-home flexibility. Professional development and training programs. Flexible working hours. Provident Fund and Gratuity as per company policy. Mobile and internet reimbursement. Meal coupons and food allowance",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Professional development and training programs, Flexible working hours, Provident Fund and Gratuity as per company policy, Mobile and internet reimbursement, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "Are you a skilled Teacher looking for your next big career move? Meritnation in Bhopal offers you the perfect platform to grow professionally and personally.",
+    "keywords": "Teacher, Meritnation, jobs in Bhopal, Madhya Pradesh jobs, education jobs India, LMS Platforms, Zoom/Teams, Research Skills, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:17:40.175Z"
+}

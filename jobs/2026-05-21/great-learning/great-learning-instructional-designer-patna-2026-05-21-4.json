@@ -1,0 +1,92 @@
+{
+  "slug": "great-learning-instructional-designer-patna-2026-05-21-4",
+  "title": "Senior Instructional Designer at Great Learning",
+  "company": "Great Learning",
+  "industry": "education",
+  "role": "Instructional Designer",
+  "location": {
+    "city": "Patna",
+    "state": "Bihar",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Lesson Planning",
+    "E-learning",
+    "Special Education",
+    "Curriculum Development",
+    "Educational Technology",
+    "Zoom/Teams",
+    "MS Office",
+    "Pedagogy"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Instructional Designer at Great Learning",
+    "description": "Great Learning, one of India's leading organizations, is hiring a Instructional Designer for our Patna operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Great Learning:\nGreat Learning is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Create curriculum-aligned learning materials and assessments\n• Design formative and summative assessments aligned to learning objectives\n• Coordinate with academic counselors for student career guidance\n• Maintain classroom discipline and create a positive learning environment\n• Conduct doubt-clearing sessions and remedial classes for weak students\n• Contribute to school newsletter, blogs, and other publications\n• Utilize technology and digital tools to enhance learning outcomes\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 12-20 years of relevant experience\n• Proficiency in Lesson Planning\n• Proficiency in E-learning\n• Proficiency in Special Education\n• Proficiency in Curriculum Development\n• Proficiency in Educational Technology\n• Proficiency in Zoom/Teams\n• Proficiency in MS Office\n• Proficiency in Pedagogy\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Life and accident insurance\n• Flexible working hours\n• Recognition and rewards programs\n• Competitive salary with performance-linked incentives\n• Mobile and internet reimbursement\n• International travel opportunities for senior roles\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Patna, Bihar, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Great Learning!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Great Learning",
+      "value": "506-4-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Great Learning",
+      "sameAs": "https://www.google.com/search?q=Great%20Learning",
+      "logo": "https://logo.clearbit.com/greatlearning.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Great Learning Office",
+        "addressLocality": "Patna",
+        "addressRegion": "Bihar",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "Lesson Planning, E-learning, Special Education, Curriculum Development, Educational Technology, Zoom/Teams, MS Office, Pedagogy",
+    "responsibilities": "Create curriculum-aligned learning materials and assessments. Design formative and summative assessments aligned to learning objectives. Coordinate with academic counselors for student career guidance. Maintain classroom discipline and create a positive learning environment. Conduct doubt-clearing sessions and remedial classes for weak students. Contribute to school newsletter, blogs, and other publications. Utilize technology and digital tools to enhance learning outcomes",
+    "benefits": "Life and accident insurance. Flexible working hours. Recognition and rewards programs. Competitive salary with performance-linked incentives. Mobile and internet reimbursement. International travel opportunities for senior roles",
+    "industry": "education",
+    "occupationalCategory": "Instructional Designer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Flexible working hours, Recognition and rewards programs, Competitive salary with performance-linked incentives, Mobile and internet reimbursement, International travel opportunities for senior roles"
+  },
+  "meta": {
+    "description": "Great Learning, one of India's leading organizations, is hiring a Instructional Designer for our Patna operations. We offer a competitive salary package along w",
+    "keywords": "Instructional Designer, Great Learning, jobs in Patna, Bihar jobs, education jobs India, Lesson Planning, E-learning, Special Education, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:17:40.178Z"
+}

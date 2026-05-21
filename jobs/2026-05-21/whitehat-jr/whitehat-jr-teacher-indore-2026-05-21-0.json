@@ -1,0 +1,93 @@
+{
+  "slug": "whitehat-jr-teacher-indore-2026-05-21-0",
+  "title": "Vacancy for Teacher at WhiteHat Jr",
+  "company": "WhiteHat Jr",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "CBSE/ICSE Standards",
+    "Communication Skills",
+    "LMS Platforms",
+    "Lesson Planning",
+    "Pedagogy",
+    "E-learning",
+    "Student Assessment",
+    "Educational Technology"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Vacancy for Teacher at WhiteHat Jr",
+    "description": "Are you a skilled Teacher looking for your next big career move? WhiteHat Jr in Indore offers you the perfect platform to grow professionally and personally.\n\nAbout WhiteHat Jr:\nWhiteHat Jr is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Develop and deliver engaging lesson plans for students\n• Create curriculum-aligned learning materials and assessments\n• Monitor student progress and provide timely feedback\n• Coordinate with academic counselors for student career guidance\n• Conduct parent-teacher meetings and update parents on student performance\n• Conduct doubt-clearing sessions and remedial classes for weak students\n• Maintain student records and prepare progress reports\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 6-10 years of relevant experience\n• Proficiency in CBSE/ICSE Standards\n• Proficiency in Communication Skills\n• Proficiency in LMS Platforms\n• Proficiency in Lesson Planning\n• Proficiency in Pedagogy\n• Proficiency in E-learning\n• Proficiency in Student Assessment\n• Proficiency in Educational Technology\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Mobile and internet reimbursement\n• Work-from-home flexibility\n• Comprehensive health insurance for self and family\n• Annual performance appraisal\n• Learning & development budget\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Indore, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with WhiteHat Jr!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "WhiteHat Jr",
+      "value": "501-0-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "WhiteHat Jr",
+      "sameAs": "https://www.google.com/search?q=WhiteHat%20Jr",
+      "logo": "https://logo.clearbit.com/whitehatjr.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "WhiteHat Jr Office",
+        "addressLocality": "Indore",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "CBSE/ICSE Standards, Communication Skills, LMS Platforms, Lesson Planning, Pedagogy, E-learning, Student Assessment, Educational Technology",
+    "responsibilities": "Develop and deliver engaging lesson plans for students. Create curriculum-aligned learning materials and assessments. Monitor student progress and provide timely feedback. Coordinate with academic counselors for student career guidance. Conduct parent-teacher meetings and update parents on student performance. Conduct doubt-clearing sessions and remedial classes for weak students. Maintain student records and prepare progress reports",
+    "benefits": "Provident Fund and Gratuity as per company policy. Mobile and internet reimbursement. Work-from-home flexibility. Comprehensive health insurance for self and family. Annual performance appraisal. Learning & development budget",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Mobile and internet reimbursement, Work-from-home flexibility, Comprehensive health insurance for self and family, Annual performance appraisal, Learning & development budget"
+  },
+  "meta": {
+    "description": "Are you a skilled Teacher looking for your next big career move? WhiteHat Jr in Indore offers you the perfect platform to grow professionally and personally.",
+    "keywords": "Teacher, WhiteHat Jr, jobs in Indore, Madhya Pradesh jobs, education jobs India, CBSE/ICSE Standards, Communication Skills, LMS Platforms, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:17:40.173Z"
+}
