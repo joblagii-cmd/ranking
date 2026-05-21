@@ -1,0 +1,92 @@
+{
+  "slug": "cisco-india-full-stack-developer-kochi-2026-05-21-2",
+  "title": "Cisco India is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "Cisco India",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Kochi",
+    "state": "Kerala",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "MongoDB",
+    "TensorFlow",
+    "Node.js",
+    "Git",
+    "React",
+    "Java",
+    "Agile/Scrum",
+    "Python"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Cisco India is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "Cisco India, one of India's leading organizations, is hiring a Full Stack Developer for our Kochi operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Cisco India:\nCisco India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Participate in code reviews and contribute to technical discussions\n• Integrate third-party APIs and services\n• Write clean, maintainable, and well-documented code\n• Ensure code security and follow best practices for data protection\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Work with agile methodologies including daily stand-ups and sprint planning\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 0-1 years of relevant experience\n• Proficiency in MongoDB\n• Proficiency in TensorFlow\n• Proficiency in Node.js\n• Proficiency in Git\n• Proficiency in React\n• Proficiency in Java\n• Proficiency in Agile/Scrum\n• Proficiency in Python\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• International travel opportunities for senior roles\n• Maternity and paternity leave\n• Referral bonus program\n• Company-sponsored certifications\n• Comprehensive health insurance for self and family\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Kochi, Kerala, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Cisco India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Cisco India",
+      "value": "50-2-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Cisco India",
+      "sameAs": "https://www.google.com/search?q=Cisco%20India",
+      "logo": "https://logo.clearbit.com/ciscoindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Cisco India Office",
+        "addressLocality": "Kochi",
+        "addressRegion": "Kerala",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "MongoDB, TensorFlow, Node.js, Git, React, Java, Agile/Scrum, Python",
+    "responsibilities": "Design, develop and maintain scalable software applications. Participate in code reviews and contribute to technical discussions. Integrate third-party APIs and services. Write clean, maintainable, and well-documented code. Ensure code security and follow best practices for data protection. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Work with agile methodologies including daily stand-ups and sprint planning",
+    "benefits": "Competitive salary with performance-linked incentives. International travel opportunities for senior roles. Maternity and paternity leave. Referral bonus program. Company-sponsored certifications. Comprehensive health insurance for self and family",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, International travel opportunities for senior roles, Maternity and paternity leave, Referral bonus program, Company-sponsored certifications, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "Cisco India, one of India's leading organizations, is hiring a Full Stack Developer for our Kochi operations. We offer a competitive salary package along with w",
+    "keywords": "Full Stack Developer, Cisco India, jobs in Kochi, Kerala jobs, technology jobs India, MongoDB, TensorFlow, Node.js, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:03:53.983Z"
+}

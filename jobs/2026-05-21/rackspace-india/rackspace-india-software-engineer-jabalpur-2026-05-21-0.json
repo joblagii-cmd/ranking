@@ -1,0 +1,93 @@
+{
+  "slug": "rackspace-india-software-engineer-jabalpur-2026-05-21-0",
+  "title": "Walk-in Drive Software Engineer at Rackspace India",
+  "company": "Rackspace India",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Jabalpur",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Microservices",
+    "Machine Learning",
+    "JavaScript",
+    "REST APIs",
+    "Python",
+    "TensorFlow",
+    "AWS",
+    "Node.js"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Walk-in Drive Software Engineer at Rackspace India",
+    "description": "Rackspace India, one of India's leading organizations, is hiring a Software Engineer for our Jabalpur operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Rackspace India:\nRackspace India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure code security and follow best practices for data protection\n• Design, develop and maintain scalable software applications\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Write clean, maintainable, and well-documented code\n• Write and execute unit tests and integration tests\n• Participate in on-call rotation for production support\n• Participate in code reviews and contribute to technical discussions\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 0-1 years of relevant experience\n• Proficiency in Microservices\n• Proficiency in Machine Learning\n• Proficiency in JavaScript\n• Proficiency in REST APIs\n• Proficiency in Python\n• Proficiency in TensorFlow\n• Proficiency in AWS\n• Proficiency in Node.js\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Professional development and training programs\n• Life and accident insurance\n• Maternity and paternity leave\n• Flexible working hours\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Jabalpur, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Rackspace India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Rackspace India",
+      "value": "41-0-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Rackspace India",
+      "sameAs": "https://www.google.com/search?q=Rackspace%20India",
+      "logo": "https://logo.clearbit.com/rackspaceindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Rackspace India Office",
+        "addressLocality": "Jabalpur",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Microservices, Machine Learning, JavaScript, REST APIs, Python, TensorFlow, AWS, Node.js",
+    "responsibilities": "Ensure code security and follow best practices for data protection. Design, develop and maintain scalable software applications. Work with agile methodologies including daily stand-ups and sprint planning. Write clean, maintainable, and well-documented code. Write and execute unit tests and integration tests. Participate in on-call rotation for production support. Participate in code reviews and contribute to technical discussions",
+    "benefits": "Annual paid leaves and casual leaves. Professional development and training programs. Life and accident insurance. Maternity and paternity leave. Flexible working hours. Provident Fund and Gratuity as per company policy",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Professional development and training programs, Life and accident insurance, Maternity and paternity leave, Flexible working hours, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "Rackspace India, one of India's leading organizations, is hiring a Software Engineer for our Jabalpur operations. We offer a competitive salary package along wi",
+    "keywords": "Software Engineer, Rackspace India, jobs in Jabalpur, Madhya Pradesh jobs, technology jobs India, Microservices, Machine Learning, JavaScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:03:53.976Z"
+}
