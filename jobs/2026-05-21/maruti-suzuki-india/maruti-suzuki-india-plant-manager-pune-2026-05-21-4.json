@@ -1,0 +1,92 @@
+{
+  "slug": "maruti-suzuki-india-plant-manager-pune-2026-05-21-4",
+  "title": "Mid-Level Plant Manager at Maruti Suzuki India",
+  "company": "Maruti Suzuki India",
+  "industry": "manufacturing",
+  "role": "Plant Manager",
+  "location": {
+    "city": "Pune",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "ERP Systems",
+    "Lean Manufacturing",
+    "AutoCAD",
+    "Six Sigma",
+    "APQP",
+    "Project Management",
+    "ISO 9001",
+    "FMEA"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Plant Manager at Maruti Suzuki India",
+    "description": "If you're a passionate Plant Manager with drive and ambition, Maruti Suzuki India in Pune is the place for you. We're growing fast and need talented people to grow with us.\n\nAbout Maruti Suzuki India:\nMaruti Suzuki India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Implement 5S, Kaizen, and Six Sigma practices on the shop floor\n• Train and supervise shop floor workers and supervisors\n• Implement lean manufacturing and continuous improvement initiatives\n• Coordinate with design and engineering teams on product improvements\n• Ensure environmental compliance and waste management\n• Ensure product quality meets internal and customer specifications\n• Maintain accurate production records and prepare daily reports\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 1-3 years of relevant experience\n• Proficiency in ERP Systems\n• Proficiency in Lean Manufacturing\n• Proficiency in AutoCAD\n• Proficiency in Six Sigma\n• Proficiency in APQP\n• Proficiency in Project Management\n• Proficiency in ISO 9001\n• Proficiency in FMEA\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Maternity and paternity leave\n• Work-from-home flexibility\n• Life and accident insurance\n• Recognition and rewards programs\n• Competitive salary with performance-linked incentives\n• Annual performance appraisal\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Pune, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Maruti Suzuki India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Maruti Suzuki India",
+      "value": "403-4-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Maruti Suzuki India",
+      "sameAs": "https://www.google.com/search?q=Maruti%20Suzuki%20India",
+      "logo": "https://logo.clearbit.com/marutisuzukiindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Maruti Suzuki India Office",
+        "addressLocality": "Pune",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "ERP Systems, Lean Manufacturing, AutoCAD, Six Sigma, APQP, Project Management, ISO 9001, FMEA",
+    "responsibilities": "Implement 5S, Kaizen, and Six Sigma practices on the shop floor. Train and supervise shop floor workers and supervisors. Implement lean manufacturing and continuous improvement initiatives. Coordinate with design and engineering teams on product improvements. Ensure environmental compliance and waste management. Ensure product quality meets internal and customer specifications. Maintain accurate production records and prepare daily reports",
+    "benefits": "Maternity and paternity leave. Work-from-home flexibility. Life and accident insurance. Recognition and rewards programs. Competitive salary with performance-linked incentives. Annual performance appraisal",
+    "industry": "manufacturing",
+    "occupationalCategory": "Plant Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Maternity and paternity leave, Work-from-home flexibility, Life and accident insurance, Recognition and rewards programs, Competitive salary with performance-linked incentives, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "If you're a passionate Plant Manager with drive and ambition, Maruti Suzuki India in Pune is the place for you. We're growing fast and need talented people to g",
+    "keywords": "Plant Manager, Maruti Suzuki India, jobs in Pune, Maharashtra jobs, manufacturing jobs India, ERP Systems, Lean Manufacturing, AutoCAD, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:14:37.940Z"
+}

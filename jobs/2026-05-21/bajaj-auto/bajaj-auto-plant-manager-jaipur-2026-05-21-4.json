@@ -1,0 +1,92 @@
+{
+  "slug": "bajaj-auto-plant-manager-jaipur-2026-05-21-4",
+  "title": "Mid-Level Plant Manager at Bajaj Auto",
+  "company": "Bajaj Auto",
+  "industry": "manufacturing",
+  "role": "Plant Manager",
+  "location": {
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "SolidWorks",
+    "5S",
+    "Statistical Process Control",
+    "TPM",
+    "ERP Systems",
+    "Lean Manufacturing",
+    "ISO 9001",
+    "FMEA"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Plant Manager at Bajaj Auto",
+    "description": "Bajaj Auto is actively seeking a talented and motivated Plant Manager to join our dynamic team in Jaipur. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout Bajaj Auto:\nBajaj Auto is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure environmental compliance and waste management\n• Ensure product quality meets internal and customer specifications\n• Ensure compliance with safety regulations and factory acts\n• Oversee daily production operations to meet output targets\n• Coordinate with design and engineering teams on product improvements\n• Manage raw material procurement and inventory levels\n• Prepare production cost analysis and efficiency reports\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 3-6 years of relevant experience\n• Proficiency in SolidWorks\n• Proficiency in 5S\n• Proficiency in Statistical Process Control\n• Proficiency in TPM\n• Proficiency in ERP Systems\n• Proficiency in Lean Manufacturing\n• Proficiency in ISO 9001\n• Proficiency in FMEA\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Flexible working hours\n• Annual performance appraisal\n• Recognition and rewards programs\n• International travel opportunities for senior roles\n• Transportation and conveyance allowance\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Jaipur, Rajasthan, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Bajaj Auto!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Bajaj Auto",
+      "value": "407-4-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Bajaj Auto",
+      "sameAs": "https://www.google.com/search?q=Bajaj%20Auto",
+      "logo": "https://logo.clearbit.com/bajajauto.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Bajaj Auto Office",
+        "addressLocality": "Jaipur",
+        "addressRegion": "Rajasthan",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "SolidWorks, 5S, Statistical Process Control, TPM, ERP Systems, Lean Manufacturing, ISO 9001, FMEA",
+    "responsibilities": "Ensure environmental compliance and waste management. Ensure product quality meets internal and customer specifications. Ensure compliance with safety regulations and factory acts. Oversee daily production operations to meet output targets. Coordinate with design and engineering teams on product improvements. Manage raw material procurement and inventory levels. Prepare production cost analysis and efficiency reports",
+    "benefits": "Annual paid leaves and casual leaves. Flexible working hours. Annual performance appraisal. Recognition and rewards programs. International travel opportunities for senior roles. Transportation and conveyance allowance",
+    "industry": "manufacturing",
+    "occupationalCategory": "Plant Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Flexible working hours, Annual performance appraisal, Recognition and rewards programs, International travel opportunities for senior roles, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "Bajaj Auto is actively seeking a talented and motivated Plant Manager to join our dynamic team in Jaipur. This is an excellent opportunity for professionals who",
+    "keywords": "Plant Manager, Bajaj Auto, jobs in Jaipur, Rajasthan jobs, manufacturing jobs India, SolidWorks, 5S, Statistical Process Control, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:14:37.943Z"
+}

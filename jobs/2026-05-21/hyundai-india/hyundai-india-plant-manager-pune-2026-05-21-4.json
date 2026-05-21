@@ -1,0 +1,92 @@
+{
+  "slug": "hyundai-india-plant-manager-pune-2026-05-21-4",
+  "title": "Mid-Level Plant Manager at Hyundai India",
+  "company": "Hyundai India",
+  "industry": "manufacturing",
+  "role": "Plant Manager",
+  "location": {
+    "city": "Pune",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Kaizen",
+    "ISO 9001",
+    "Six Sigma",
+    "TPM",
+    "PLC/SCADA",
+    "Lean Manufacturing",
+    "PPAP",
+    "SAP MM/PP"
+  ],
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-20",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Plant Manager at Hyundai India",
+    "description": "Hyundai India is actively seeking a talented and motivated Plant Manager to join our dynamic team in Pune. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout Hyundai India:\nHyundai India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with logistics for dispatching finished goods\n• Ensure environmental compliance and waste management\n• Implement lean manufacturing and continuous improvement initiatives\n• Prepare production cost analysis and efficiency reports\n• Ensure product quality meets internal and customer specifications\n• Train and supervise shop floor workers and supervisors\n• Coordinate with design and engineering teams on product improvements\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 0-1 years of relevant experience\n• Proficiency in Kaizen\n• Proficiency in ISO 9001\n• Proficiency in Six Sigma\n• Proficiency in TPM\n• Proficiency in PLC/SCADA\n• Proficiency in Lean Manufacturing\n• Proficiency in PPAP\n• Proficiency in SAP MM/PP\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Professional development and training programs\n• Maternity and paternity leave\n• Flexible working hours\n• International travel opportunities for senior roles\n• Company-sponsored certifications\n• Mobile and internet reimbursement\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Pune, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Hyundai India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Hyundai India",
+      "value": "404-4-20260521"
+    },
+    "datePosted": "2026-05-21",
+    "validThrough": "2026-06-20",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Hyundai India",
+      "sameAs": "https://www.google.com/search?q=Hyundai%20India",
+      "logo": "https://logo.clearbit.com/hyundaiindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Hyundai India Office",
+        "addressLocality": "Pune",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "Kaizen, ISO 9001, Six Sigma, TPM, PLC/SCADA, Lean Manufacturing, PPAP, SAP MM/PP",
+    "responsibilities": "Coordinate with logistics for dispatching finished goods. Ensure environmental compliance and waste management. Implement lean manufacturing and continuous improvement initiatives. Prepare production cost analysis and efficiency reports. Ensure product quality meets internal and customer specifications. Train and supervise shop floor workers and supervisors. Coordinate with design and engineering teams on product improvements",
+    "benefits": "Professional development and training programs. Maternity and paternity leave. Flexible working hours. International travel opportunities for senior roles. Company-sponsored certifications. Mobile and internet reimbursement",
+    "industry": "manufacturing",
+    "occupationalCategory": "Plant Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Maternity and paternity leave, Flexible working hours, International travel opportunities for senior roles, Company-sponsored certifications, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "Hyundai India is actively seeking a talented and motivated Plant Manager to join our dynamic team in Pune. This is an excellent opportunity for professionals wh",
+    "keywords": "Plant Manager, Hyundai India, jobs in Pune, Maharashtra jobs, manufacturing jobs India, Kaizen, ISO 9001, Six Sigma, hiring 2026"
+  },
+  "generatedAt": "2026-05-21T08:14:37.942Z"
+}
