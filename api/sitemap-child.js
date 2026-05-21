@@ -1,6 +1,3 @@
-// api/sitemap-child.js - Child sitemaps (sitemap1.xml to sitemap5.xml)
-// Generates URLs directly from companies list - no GitHub API call needed
-
 import { generateCompanies } from "../lib/companies.js";
 
 export const config = { maxDuration: 10 };
@@ -13,27 +10,22 @@ export default async function handler(req, res) {
   const ist = new Date(now.getTime() + istOffset);
   const dateStr = ist.toISOString().split("T")[0];
 
-  // Get sitemap number from URL
-  const urlPath = req.url || "";
-  const match = urlPath.match(/sitemap(\d+)\.xml/);
-  const sitemapIndex = match ? parseInt(match[1]) : 1;
+  // Get sitemap number from query param ?id=1
+  const sitemapIndex = parseInt(req.query.id || "1");
 
   if (sitemapIndex < 1 || sitemapIndex > 5) {
     return res.status(404).send("Sitemap not found");
   }
 
-  // 5000 companies / 5 sitemaps = 1000 companies per sitemap
   const allCompanies = generateCompanies();
   const CHUNK = 1000;
   const start = (sitemapIndex - 1) * CHUNK;
-  const end = start + CHUNK;
-  const companies = allCompanies.slice(start, end);
-
+  const companies = allCompanies.slice(start, start + CHUNK);
   const POSTS_PER_COMPANY = 5;
 
   const urls = [];
 
-  // Add static pages to sitemap1 only
+  // Static pages in sitemap1 only
   if (sitemapIndex === 1) {
     urls.push(`  <url>
     <loc>${baseUrl}/</loc>
@@ -43,7 +35,7 @@ export default async function handler(req, res) {
   </url>`);
   }
 
-  // Add job URLs for each company x 5 posts
+  // 1000 companies x 5 posts = 5000 URLs per sitemap
   for (const company of companies) {
     const companySlug = company.name.toLowerCase().replace(/[^a-z0-9]+/g, "-").substring(0, 50);
     for (let postIdx = 0; postIdx < POSTS_PER_COMPANY; postIdx++) {
