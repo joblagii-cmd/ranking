@@ -1,0 +1,93 @@
+{
+  "slug": "hdfc-ergo-financial-analyst-pune-2026-05-22-0",
+  "title": "Vacancy for Financial Analyst at HDFC Ergo",
+  "company": "HDFC Ergo",
+  "industry": "finance",
+  "role": "Financial Analyst",
+  "location": {
+    "city": "Pune",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Bloomberg Terminal",
+    "Financial Modeling",
+    "Income Tax",
+    "IFRS",
+    "Python for Finance",
+    "Risk Management",
+    "SQL",
+    "GST"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Vacancy for Financial Analyst at HDFC Ergo",
+    "description": "If you're a passionate Financial Analyst with drive and ambition, HDFC Ergo in Pune is the place for you. We're growing fast and need talented people to grow with us.\n\nAbout HDFC Ergo:\nHDFC Ergo is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure compliance with tax regulations and statutory requirements\n• Prepare and analyze financial statements, reports, and budgets\n• Prepare annual reports and investor presentations\n• Coordinate with external auditors during annual audits\n• Monitor financial performance against targets and provide variance analysis\n• Manage accounts payable and accounts receivable functions\n• Maintain general ledger and ensure accurate bookkeeping\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 6-10 years of relevant experience\n• Proficiency in Bloomberg Terminal\n• Proficiency in Financial Modeling\n• Proficiency in Income Tax\n• Proficiency in IFRS\n• Proficiency in Python for Finance\n• Proficiency in Risk Management\n• Proficiency in SQL\n• Proficiency in GST\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Flexible working hours\n• Competitive salary with performance-linked incentives\n• Recognition and rewards programs\n• Annual performance appraisal\n• Modern office with recreational facilities\n• Referral bonus program\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Pune, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with HDFC Ergo!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "HDFC Ergo",
+      "value": "156-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "HDFC Ergo",
+      "sameAs": "https://www.google.com/search?q=HDFC%20Ergo",
+      "logo": "https://logo.clearbit.com/hdfcergo.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "HDFC Ergo Office",
+        "addressLocality": "Pune",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "Bloomberg Terminal, Financial Modeling, Income Tax, IFRS, Python for Finance, Risk Management, SQL, GST",
+    "responsibilities": "Ensure compliance with tax regulations and statutory requirements. Prepare and analyze financial statements, reports, and budgets. Prepare annual reports and investor presentations. Coordinate with external auditors during annual audits. Monitor financial performance against targets and provide variance analysis. Manage accounts payable and accounts receivable functions. Maintain general ledger and ensure accurate bookkeeping",
+    "benefits": "Flexible working hours. Competitive salary with performance-linked incentives. Recognition and rewards programs. Annual performance appraisal. Modern office with recreational facilities. Referral bonus program",
+    "industry": "finance",
+    "occupationalCategory": "Financial Analyst",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, Competitive salary with performance-linked incentives, Recognition and rewards programs, Annual performance appraisal, Modern office with recreational facilities, Referral bonus program"
+  },
+  "meta": {
+    "description": "If you're a passionate Financial Analyst with drive and ambition, HDFC Ergo in Pune is the place for you. We're growing fast and need talented people to grow wi",
+    "keywords": "Financial Analyst, HDFC Ergo, jobs in Pune, Maharashtra jobs, finance jobs India, Bloomberg Terminal, Financial Modeling, Income Tax, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:36:30.831Z",
+  "page": 38
+}
