@@ -1,0 +1,94 @@
+{
+  "slug": "broadcom-india-asia-pacific-associates-frontend-developer-tiruchirappalli-2026-05-22-4",
+  "title": "Mid-Level Frontend Developer at Broadcom India Asia Pacific Associates",
+  "company": "Broadcom India Asia Pacific Associates",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Rust",
+    "React",
+    "CI/CD",
+    "AWS",
+    "Microservices",
+    "Go",
+    "JavaScript",
+    "Git"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Frontend Developer at Broadcom India Asia Pacific Associates",
+    "description": "Are you a skilled Frontend Developer looking for your next big career move? Broadcom India Asia Pacific Associates in Tiruchirappalli offers you the perfect platform to grow professionally and personally.\n\nAbout Broadcom India Asia Pacific Associates:\nBroadcom India Asia Pacific Associates is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Integrate third-party APIs and services\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Participate in on-call rotation for production support\n• Participate in code reviews and contribute to technical discussions\n• Ensure code security and follow best practices for data protection\n• Contribute to system architecture and technical design decisions\n• Write clean, maintainable, and well-documented code\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 10-15 years of relevant experience\n• Proficiency in Rust\n• Proficiency in React\n• Proficiency in CI/CD\n• Proficiency in AWS\n• Proficiency in Microservices\n• Proficiency in Go\n• Proficiency in JavaScript\n• Proficiency in Git\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Referral bonus program\n• Transportation and conveyance allowance\n• Annual performance appraisal\n• Learning & development budget\n• Life and accident insurance\n• International travel opportunities for senior roles\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Tiruchirappalli, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Broadcom India Asia Pacific Associates!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Broadcom India Asia Pacific Associates",
+      "value": "1889-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Broadcom India Asia Pacific Associates",
+      "sameAs": "https://www.google.com/search?q=Broadcom%20India%20Asia%20Pacific%20Associates",
+      "logo": "https://logo.clearbit.com/broadcomindiaasiapacificassociates.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Broadcom India Asia Pacific Associates Office",
+        "addressLocality": "Tiruchirappalli",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "Rust, React, CI/CD, AWS, Microservices, Go, JavaScript, Git",
+    "responsibilities": "Integrate third-party APIs and services. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Participate in on-call rotation for production support. Participate in code reviews and contribute to technical discussions. Ensure code security and follow best practices for data protection. Contribute to system architecture and technical design decisions. Write clean, maintainable, and well-documented code",
+    "benefits": "Referral bonus program. Transportation and conveyance allowance. Annual performance appraisal. Learning & development budget. Life and accident insurance. International travel opportunities for senior roles",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Referral bonus program, Transportation and conveyance allowance, Annual performance appraisal, Learning & development budget, Life and accident insurance, International travel opportunities for senior roles"
+  },
+  "meta": {
+    "description": "Are you a skilled Frontend Developer looking for your next big career move? Broadcom India Asia Pacific Associates in Tiruchirappalli offers you the perfect pla",
+    "keywords": "Frontend Developer, Broadcom India Asia Pacific Associates, jobs in Tiruchirappalli, Tamil Nadu jobs, technology jobs India, Rust, React, CI/CD, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:55:20.422Z",
+  "page": 472
+}

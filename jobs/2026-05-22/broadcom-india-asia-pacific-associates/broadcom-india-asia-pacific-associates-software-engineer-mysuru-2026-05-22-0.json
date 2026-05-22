@@ -1,0 +1,94 @@
+{
+  "slug": "broadcom-india-asia-pacific-associates-software-engineer-mysuru-2026-05-22-0",
+  "title": "Walk-in Drive Software Engineer at Broadcom India Asia Pacific Associates",
+  "company": "Broadcom India Asia Pacific Associates",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Docker",
+    "React",
+    "TensorFlow",
+    "Machine Learning",
+    "Rust",
+    "JavaScript",
+    "SQL",
+    "Node.js"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Walk-in Drive Software Engineer at Broadcom India Asia Pacific Associates",
+    "description": "Are you a skilled Software Engineer looking for your next big career move? Broadcom India Asia Pacific Associates in Mysuru offers you the perfect platform to grow professionally and personally.\n\nAbout Broadcom India Asia Pacific Associates:\nBroadcom India Asia Pacific Associates is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Optimize application performance and ensure high availability\n• Design, develop and maintain scalable software applications\n• Integrate third-party APIs and services\n• Write and execute unit tests and integration tests\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in on-call rotation for production support\n• Implement new features based on product requirements\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 3-6 years of relevant experience\n• Proficiency in Docker\n• Proficiency in React\n• Proficiency in TensorFlow\n• Proficiency in Machine Learning\n• Proficiency in Rust\n• Proficiency in JavaScript\n• Proficiency in SQL\n• Proficiency in Node.js\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Recognition and rewards programs\n• Comprehensive health insurance for self and family\n• Professional development and training programs\n• Mobile and internet reimbursement\n• Company-sponsored certifications\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Mysuru, Karnataka, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Broadcom India Asia Pacific Associates!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Broadcom India Asia Pacific Associates",
+      "value": "1889-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Broadcom India Asia Pacific Associates",
+      "sameAs": "https://www.google.com/search?q=Broadcom%20India%20Asia%20Pacific%20Associates",
+      "logo": "https://logo.clearbit.com/broadcomindiaasiapacificassociates.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Broadcom India Asia Pacific Associates Office",
+        "addressLocality": "Mysuru",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "Docker, React, TensorFlow, Machine Learning, Rust, JavaScript, SQL, Node.js",
+    "responsibilities": "Optimize application performance and ensure high availability. Design, develop and maintain scalable software applications. Integrate third-party APIs and services. Write and execute unit tests and integration tests. Collaborate with cross-functional teams including product, design, and QA. Participate in on-call rotation for production support. Implement new features based on product requirements",
+    "benefits": "Competitive salary with performance-linked incentives. Recognition and rewards programs. Comprehensive health insurance for self and family. Professional development and training programs. Mobile and internet reimbursement. Company-sponsored certifications",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Recognition and rewards programs, Comprehensive health insurance for self and family, Professional development and training programs, Mobile and internet reimbursement, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "Are you a skilled Software Engineer looking for your next big career move? Broadcom India Asia Pacific Associates in Mysuru offers you the perfect platform to g",
+    "keywords": "Software Engineer, Broadcom India Asia Pacific Associates, jobs in Mysuru, Karnataka jobs, technology jobs India, Docker, React, TensorFlow, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:55:20.421Z",
+  "page": 472
+}
