@@ -1,0 +1,93 @@
+{
+  "slug": "ruby-hall-clinic-consultant-physician-howrah-2026-05-22-2",
+  "title": "Ruby Hall Clinic is Hiring: Consultant Physician (Entry-Level)",
+  "company": "Ruby Hall Clinic",
+  "industry": "healthcare",
+  "role": "Consultant Physician",
+  "location": {
+    "city": "Howrah",
+    "state": "West Bengal",
+    "region": "Eastern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "ICD-10",
+    "Health Informatics",
+    "Medical Coding",
+    "CPT Codes",
+    "Clinical Research",
+    "EMR/EHR",
+    "Medical Terminology",
+    "Clinical Documentation"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Ruby Hall Clinic is Hiring: Consultant Physician (Entry-Level)",
+    "description": "Ruby Hall Clinic, one of India's leading organizations, is hiring a Consultant Physician for our Howrah operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Ruby Hall Clinic:\nRuby Hall Clinic is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Monitor patient progress and adjust treatment plans accordingly\n• Educate patients and families on health management and disease prevention\n• Administer medications and treatments as prescribed\n• Provide high-quality patient care and maintain patient records\n• Respond to medical emergencies and provide immediate care\n• Attend continuing medical education programs and training\n• Diagnose and treat medical conditions following established protocols\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 10-15 years of relevant experience\n• Proficiency in ICD-10\n• Proficiency in Health Informatics\n• Proficiency in Medical Coding\n• Proficiency in CPT Codes\n• Proficiency in Clinical Research\n• Proficiency in EMR/EHR\n• Proficiency in Medical Terminology\n• Proficiency in Clinical Documentation\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Referral bonus program\n• Annual paid leaves and casual leaves\n• Company-sponsored certifications\n• Employee stock options (ESOPs) for eligible roles\n• Annual performance appraisal\n• Work-from-home flexibility\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Howrah, West Bengal, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Ruby Hall Clinic!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Ruby Hall Clinic",
+      "value": "286-2-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Ruby Hall Clinic",
+      "sameAs": "https://www.google.com/search?q=Ruby%20Hall%20Clinic",
+      "logo": "https://logo.clearbit.com/rubyhallclinic.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Ruby Hall Clinic Office",
+        "addressLocality": "Howrah",
+        "addressRegion": "West Bengal",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "ICD-10, Health Informatics, Medical Coding, CPT Codes, Clinical Research, EMR/EHR, Medical Terminology, Clinical Documentation",
+    "responsibilities": "Monitor patient progress and adjust treatment plans accordingly. Educate patients and families on health management and disease prevention. Administer medications and treatments as prescribed. Provide high-quality patient care and maintain patient records. Respond to medical emergencies and provide immediate care. Attend continuing medical education programs and training. Diagnose and treat medical conditions following established protocols",
+    "benefits": "Referral bonus program. Annual paid leaves and casual leaves. Company-sponsored certifications. Employee stock options (ESOPs) for eligible roles. Annual performance appraisal. Work-from-home flexibility",
+    "industry": "healthcare",
+    "occupationalCategory": "Consultant Physician",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Referral bonus program, Annual paid leaves and casual leaves, Company-sponsored certifications, Employee stock options (ESOPs) for eligible roles, Annual performance appraisal, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "Ruby Hall Clinic, one of India's leading organizations, is hiring a Consultant Physician for our Howrah operations. We offer a competitive salary package along ",
+    "keywords": "Consultant Physician, Ruby Hall Clinic, jobs in Howrah, West Bengal jobs, healthcare jobs India, ICD-10, Health Informatics, Medical Coding, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:40:45.846Z",
+  "page": 71
+}

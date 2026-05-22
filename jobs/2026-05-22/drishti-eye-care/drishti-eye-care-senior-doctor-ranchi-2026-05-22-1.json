@@ -1,0 +1,93 @@
+{
+  "slug": "drishti-eye-care-senior-doctor-ranchi-2026-05-22-1",
+  "title": "Senior Doctor - Drishti Eye Care - Apply Now",
+  "company": "Drishti Eye Care",
+  "industry": "healthcare",
+  "role": "Senior Doctor",
+  "location": {
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Diagnostic Skills",
+    "ICU Management",
+    "HIPAA Compliance",
+    "Telemedicine",
+    "EMR/EHR",
+    "NABH Standards",
+    "Medical Coding",
+    "BLS/ACLS"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Doctor - Drishti Eye Care - Apply Now",
+    "description": "Drishti Eye Care, one of India's leading organizations, is hiring a Senior Doctor for our Ranchi operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Drishti Eye Care:\nDrishti Eye Care is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Provide high-quality patient care and maintain patient records\n• Attend continuing medical education programs and training\n• Administer medications and treatments as prescribed\n• Adhere to NABH/JCI accreditation standards\n• Diagnose and treat medical conditions following established protocols\n• Respond to medical emergencies and provide immediate care\n• Collaborate with pharmaceutical representatives and medical suppliers\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 0-1 years of relevant experience\n• Proficiency in Diagnostic Skills\n• Proficiency in ICU Management\n• Proficiency in HIPAA Compliance\n• Proficiency in Telemedicine\n• Proficiency in EMR/EHR\n• Proficiency in NABH Standards\n• Proficiency in Medical Coding\n• Proficiency in BLS/ACLS\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Flexible working hours\n• Annual performance appraisal\n• Comprehensive health insurance for self and family\n• Mobile and internet reimbursement\n• Professional development and training programs\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Ranchi, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Drishti Eye Care!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Drishti Eye Care",
+      "value": "285-1-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Drishti Eye Care",
+      "sameAs": "https://www.google.com/search?q=Drishti%20Eye%20Care",
+      "logo": "https://logo.clearbit.com/drishtieyecare.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Drishti Eye Care Office",
+        "addressLocality": "Ranchi",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "Diagnostic Skills, ICU Management, HIPAA Compliance, Telemedicine, EMR/EHR, NABH Standards, Medical Coding, BLS/ACLS",
+    "responsibilities": "Provide high-quality patient care and maintain patient records. Attend continuing medical education programs and training. Administer medications and treatments as prescribed. Adhere to NABH/JCI accreditation standards. Diagnose and treat medical conditions following established protocols. Respond to medical emergencies and provide immediate care. Collaborate with pharmaceutical representatives and medical suppliers",
+    "benefits": "Competitive salary with performance-linked incentives. Flexible working hours. Annual performance appraisal. Comprehensive health insurance for self and family. Mobile and internet reimbursement. Professional development and training programs",
+    "industry": "healthcare",
+    "occupationalCategory": "Senior Doctor",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Flexible working hours, Annual performance appraisal, Comprehensive health insurance for self and family, Mobile and internet reimbursement, Professional development and training programs"
+  },
+  "meta": {
+    "description": "Drishti Eye Care, one of India's leading organizations, is hiring a Senior Doctor for our Ranchi operations. We offer a competitive salary package along with wo",
+    "keywords": "Senior Doctor, Drishti Eye Care, jobs in Ranchi, Jharkhand jobs, healthcare jobs India, Diagnostic Skills, ICU Management, HIPAA Compliance, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:40:45.845Z",
+  "page": 71
+}

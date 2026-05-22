@@ -1,0 +1,93 @@
+{
+  "slug": "jupiter-hospital-consultant-physician-coimbatore-2026-05-22-2",
+  "title": "Jupiter Hospital is Hiring: Consultant Physician (Entry-Level)",
+  "company": "Jupiter Hospital",
+  "industry": "healthcare",
+  "role": "Consultant Physician",
+  "location": {
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "BLS/ACLS",
+    "Infection Control",
+    "Diagnostic Skills",
+    "Patient Care",
+    "Medical Terminology",
+    "Medical Ethics",
+    "Clinical Documentation",
+    "EMR/EHR"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Jupiter Hospital is Hiring: Consultant Physician (Entry-Level)",
+    "description": "Jupiter Hospital, one of India's leading organizations, is hiring a Consultant Physician for our Coimbatore operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Jupiter Hospital:\nJupiter Hospital is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with pharmaceutical representatives and medical suppliers\n• Provide high-quality patient care and maintain patient records\n• Respond to medical emergencies and provide immediate care\n• Maintain accurate clinical documentation in electronic health records\n• Attend continuing medical education programs and training\n• Ensure patient privacy and maintain confidentiality\n• Educate patients and families on health management and disease prevention\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 3-6 years of relevant experience\n• Proficiency in BLS/ACLS\n• Proficiency in Infection Control\n• Proficiency in Diagnostic Skills\n• Proficiency in Patient Care\n• Proficiency in Medical Terminology\n• Proficiency in Medical Ethics\n• Proficiency in Clinical Documentation\n• Proficiency in EMR/EHR\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Referral bonus program\n• Maternity and paternity leave\n• Flexible working hours\n• Annual performance appraisal\n• Life and accident insurance\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Coimbatore, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Jupiter Hospital!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Jupiter Hospital",
+      "value": "288-2-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Jupiter Hospital",
+      "sameAs": "https://www.google.com/search?q=Jupiter%20Hospital",
+      "logo": "https://logo.clearbit.com/jupiterhospital.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Jupiter Hospital Office",
+        "addressLocality": "Coimbatore",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "BLS/ACLS, Infection Control, Diagnostic Skills, Patient Care, Medical Terminology, Medical Ethics, Clinical Documentation, EMR/EHR",
+    "responsibilities": "Collaborate with pharmaceutical representatives and medical suppliers. Provide high-quality patient care and maintain patient records. Respond to medical emergencies and provide immediate care. Maintain accurate clinical documentation in electronic health records. Attend continuing medical education programs and training. Ensure patient privacy and maintain confidentiality. Educate patients and families on health management and disease prevention",
+    "benefits": "Referral bonus program. Maternity and paternity leave. Flexible working hours. Annual performance appraisal. Life and accident insurance. Employee stock options (ESOPs) for eligible roles",
+    "industry": "healthcare",
+    "occupationalCategory": "Consultant Physician",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Referral bonus program, Maternity and paternity leave, Flexible working hours, Annual performance appraisal, Life and accident insurance, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "Jupiter Hospital, one of India's leading organizations, is hiring a Consultant Physician for our Coimbatore operations. We offer a competitive salary package al",
+    "keywords": "Consultant Physician, Jupiter Hospital, jobs in Coimbatore, Tamil Nadu jobs, healthcare jobs India, BLS/ACLS, Infection Control, Diagnostic Skills, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:40:45.849Z",
+  "page": 71
+}

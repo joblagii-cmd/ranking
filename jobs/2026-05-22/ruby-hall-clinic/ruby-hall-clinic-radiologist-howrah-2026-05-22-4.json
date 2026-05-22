@@ -1,0 +1,93 @@
+{
+  "slug": "ruby-hall-clinic-radiologist-howrah-2026-05-22-4",
+  "title": "Entry-Level Radiologist at Ruby Hall Clinic",
+  "company": "Ruby Hall Clinic",
+  "industry": "healthcare",
+  "role": "Radiologist",
+  "location": {
+    "city": "Howrah",
+    "state": "West Bengal",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Infection Control",
+    "Medical Terminology",
+    "Diagnostic Skills",
+    "BLS/ACLS",
+    "Pharmacovigilance",
+    "EMR/EHR",
+    "HIPAA Compliance",
+    "Medical Coding"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Entry-Level Radiologist at Ruby Hall Clinic",
+    "description": "Ruby Hall Clinic, one of India's leading organizations, is hiring a Radiologist for our Howrah operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Ruby Hall Clinic:\nRuby Hall Clinic is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure patient privacy and maintain confidentiality\n• Administer medications and treatments as prescribed\n• Conduct routine health assessments and screenings\n• Collaborate with pharmaceutical representatives and medical suppliers\n• Maintain accurate clinical documentation in electronic health records\n• Provide high-quality patient care and maintain patient records\n• Diagnose and treat medical conditions following established protocols\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 3-6 years of relevant experience\n• Proficiency in Infection Control\n• Proficiency in Medical Terminology\n• Proficiency in Diagnostic Skills\n• Proficiency in BLS/ACLS\n• Proficiency in Pharmacovigilance\n• Proficiency in EMR/EHR\n• Proficiency in HIPAA Compliance\n• Proficiency in Medical Coding\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Life and accident insurance\n• Annual paid leaves and casual leaves\n• Learning & development budget\n• International travel opportunities for senior roles\n• Recognition and rewards programs\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Howrah, West Bengal, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Ruby Hall Clinic!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Ruby Hall Clinic",
+      "value": "286-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Ruby Hall Clinic",
+      "sameAs": "https://www.google.com/search?q=Ruby%20Hall%20Clinic",
+      "logo": "https://logo.clearbit.com/rubyhallclinic.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Ruby Hall Clinic Office",
+        "addressLocality": "Howrah",
+        "addressRegion": "West Bengal",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "Infection Control, Medical Terminology, Diagnostic Skills, BLS/ACLS, Pharmacovigilance, EMR/EHR, HIPAA Compliance, Medical Coding",
+    "responsibilities": "Ensure patient privacy and maintain confidentiality. Administer medications and treatments as prescribed. Conduct routine health assessments and screenings. Collaborate with pharmaceutical representatives and medical suppliers. Maintain accurate clinical documentation in electronic health records. Provide high-quality patient care and maintain patient records. Diagnose and treat medical conditions following established protocols",
+    "benefits": "Life and accident insurance. Annual paid leaves and casual leaves. Learning & development budget. International travel opportunities for senior roles. Recognition and rewards programs. Provident Fund and Gratuity as per company policy",
+    "industry": "healthcare",
+    "occupationalCategory": "Radiologist",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Annual paid leaves and casual leaves, Learning & development budget, International travel opportunities for senior roles, Recognition and rewards programs, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "Ruby Hall Clinic, one of India's leading organizations, is hiring a Radiologist for our Howrah operations. We offer a competitive salary package along with worl",
+    "keywords": "Radiologist, Ruby Hall Clinic, jobs in Howrah, West Bengal jobs, healthcare jobs India, Infection Control, Medical Terminology, Diagnostic Skills, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:40:45.847Z",
+  "page": 71
+}
