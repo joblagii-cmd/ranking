@@ -1,0 +1,93 @@
+{
+  "slug": "cognizant-software-engineer-visakhapatnam-2026-05-22-0",
+  "title": "Urgent Opening Software Engineer at Cognizant",
+  "company": "Cognizant",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "JavaScript",
+    "REST APIs",
+    "Kubernetes",
+    "Go",
+    "Machine Learning",
+    "Agile/Scrum",
+    "Docker",
+    "TensorFlow"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Urgent Opening Software Engineer at Cognizant",
+    "description": "Cognizant has an exciting opening for a Software Engineer at our Visakhapatnam office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Cognizant:\nCognizant is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Collaborate with cross-functional teams including product, design, and QA\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Implement new features based on product requirements\n• Write and execute unit tests and integration tests\n• Participate in on-call rotation for production support\n• Ensure code security and follow best practices for data protection\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 10-15 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in REST APIs\n• Proficiency in Kubernetes\n• Proficiency in Go\n• Proficiency in Machine Learning\n• Proficiency in Agile/Scrum\n• Proficiency in Docker\n• Proficiency in TensorFlow\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Recognition and rewards programs\n• Annual paid leaves and casual leaves\n• Transportation and conveyance allowance\n• Referral bonus program\n• Provident Fund and Gratuity as per company policy\n• Flexible working hours\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Visakhapatnam, Andhra Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Cognizant!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Cognizant",
+      "value": "6-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Cognizant",
+      "sameAs": "https://www.google.com/search?q=Cognizant",
+      "logo": "https://logo.clearbit.com/cognizant.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Cognizant Office",
+        "addressLocality": "Visakhapatnam",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "JavaScript, REST APIs, Kubernetes, Go, Machine Learning, Agile/Scrum, Docker, TensorFlow",
+    "responsibilities": "Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Collaborate with cross-functional teams including product, design, and QA. Troubleshoot, debug, and resolve software defects and performance issues. Implement new features based on product requirements. Write and execute unit tests and integration tests. Participate in on-call rotation for production support. Ensure code security and follow best practices for data protection",
+    "benefits": "Recognition and rewards programs. Annual paid leaves and casual leaves. Transportation and conveyance allowance. Referral bonus program. Provident Fund and Gratuity as per company policy. Flexible working hours",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Recognition and rewards programs, Annual paid leaves and casual leaves, Transportation and conveyance allowance, Referral bonus program, Provident Fund and Gratuity as per company policy, Flexible working hours"
+  },
+  "meta": {
+    "description": "Cognizant has an exciting opening for a Software Engineer at our Visakhapatnam office. Join a company that values innovation, collaboration, and continuous lear",
+    "keywords": "Software Engineer, Cognizant, jobs in Visakhapatnam, Andhra Pradesh jobs, technology jobs India, JavaScript, REST APIs, Kubernetes, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:31:43.073Z",
+  "page": 1
+}

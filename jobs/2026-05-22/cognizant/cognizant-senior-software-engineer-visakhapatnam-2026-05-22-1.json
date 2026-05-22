@@ -1,0 +1,93 @@
+{
+  "slug": "cognizant-senior-software-engineer-visakhapatnam-2026-05-22-1",
+  "title": "Senior Software Engineer - Cognizant - Multiple Openings",
+  "company": "Cognizant",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "CI/CD",
+    "TensorFlow",
+    "React",
+    "Microservices",
+    "Java",
+    "SQL",
+    "Kubernetes",
+    "Agile/Scrum"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Cognizant - Multiple Openings",
+    "description": "Cognizant has an exciting opening for a Senior Software Engineer at our Visakhapatnam office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Cognizant:\nCognizant is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Optimize application performance and ensure high availability\n• Design, develop and maintain scalable software applications\n• Write clean, maintainable, and well-documented code\n• Implement new features based on product requirements\n• Participate in code reviews and contribute to technical discussions\n• Collaborate with cross-functional teams including product, design, and QA\n• Write and execute unit tests and integration tests\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 6-10 years of relevant experience\n• Proficiency in CI/CD\n• Proficiency in TensorFlow\n• Proficiency in React\n• Proficiency in Microservices\n• Proficiency in Java\n• Proficiency in SQL\n• Proficiency in Kubernetes\n• Proficiency in Agile/Scrum\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Work-from-home flexibility\n• Modern office with recreational facilities\n• Flexible working hours\n• Provident Fund and Gratuity as per company policy\n• Comprehensive health insurance for self and family\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Visakhapatnam, Andhra Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Cognizant!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Cognizant",
+      "value": "6-1-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Cognizant",
+      "sameAs": "https://www.google.com/search?q=Cognizant",
+      "logo": "https://logo.clearbit.com/cognizant.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Cognizant Office",
+        "addressLocality": "Visakhapatnam",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "CI/CD, TensorFlow, React, Microservices, Java, SQL, Kubernetes, Agile/Scrum",
+    "responsibilities": "Optimize application performance and ensure high availability. Design, develop and maintain scalable software applications. Write clean, maintainable, and well-documented code. Implement new features based on product requirements. Participate in code reviews and contribute to technical discussions. Collaborate with cross-functional teams including product, design, and QA. Write and execute unit tests and integration tests",
+    "benefits": "International travel opportunities for senior roles. Work-from-home flexibility. Modern office with recreational facilities. Flexible working hours. Provident Fund and Gratuity as per company policy. Comprehensive health insurance for self and family",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Work-from-home flexibility, Modern office with recreational facilities, Flexible working hours, Provident Fund and Gratuity as per company policy, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "Cognizant has an exciting opening for a Senior Software Engineer at our Visakhapatnam office. Join a company that values innovation, collaboration, and continuo",
+    "keywords": "Senior Software Engineer, Cognizant, jobs in Visakhapatnam, Andhra Pradesh jobs, technology jobs India, CI/CD, TensorFlow, React, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:31:43.073Z",
+  "page": 1
+}

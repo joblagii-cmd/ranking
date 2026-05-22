@@ -1,0 +1,93 @@
+{
+  "slug": "accenture-india-frontend-developer-patna-2026-05-22-4",
+  "title": "Junior Frontend Developer at Accenture India",
+  "company": "Accenture India",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Patna",
+    "state": "Bihar",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Docker",
+    "React",
+    "CI/CD",
+    "Rust",
+    "Kubernetes",
+    "TypeScript",
+    "AWS",
+    "Python"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Junior Frontend Developer at Accenture India",
+    "description": "Are you a skilled Frontend Developer looking for your next big career move? Accenture India in Patna offers you the perfect platform to grow professionally and personally.\n\nAbout Accenture India:\nAccenture India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Write and execute unit tests and integration tests\n• Write clean, maintainable, and well-documented code\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Ensure code security and follow best practices for data protection\n• Participate in code reviews and contribute to technical discussions\n• Design, develop and maintain scalable software applications\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 12-20 years of relevant experience\n• Proficiency in Docker\n• Proficiency in React\n• Proficiency in CI/CD\n• Proficiency in Rust\n• Proficiency in Kubernetes\n• Proficiency in TypeScript\n• Proficiency in AWS\n• Proficiency in Python\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Life and accident insurance\n• Provident Fund and Gratuity as per company policy\n• Mobile and internet reimbursement\n• Transportation and conveyance allowance\n• Meal coupons and food allowance\n• Company-sponsored certifications\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Patna, Bihar, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Accenture India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Accenture India",
+      "value": "7-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Accenture India",
+      "sameAs": "https://www.google.com/search?q=Accenture%20India",
+      "logo": "https://logo.clearbit.com/accentureindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Accenture India Office",
+        "addressLocality": "Patna",
+        "addressRegion": "Bihar",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Docker, React, CI/CD, Rust, Kubernetes, TypeScript, AWS, Python",
+    "responsibilities": "Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Write and execute unit tests and integration tests. Write clean, maintainable, and well-documented code. Troubleshoot, debug, and resolve software defects and performance issues. Ensure code security and follow best practices for data protection. Participate in code reviews and contribute to technical discussions. Design, develop and maintain scalable software applications",
+    "benefits": "Life and accident insurance. Provident Fund and Gratuity as per company policy. Mobile and internet reimbursement. Transportation and conveyance allowance. Meal coupons and food allowance. Company-sponsored certifications",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Provident Fund and Gratuity as per company policy, Mobile and internet reimbursement, Transportation and conveyance allowance, Meal coupons and food allowance, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "Are you a skilled Frontend Developer looking for your next big career move? Accenture India in Patna offers you the perfect platform to grow professionally and ",
+    "keywords": "Frontend Developer, Accenture India, jobs in Patna, Bihar jobs, technology jobs India, Docker, React, CI/CD, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:31:43.076Z",
+  "page": 1
+}
