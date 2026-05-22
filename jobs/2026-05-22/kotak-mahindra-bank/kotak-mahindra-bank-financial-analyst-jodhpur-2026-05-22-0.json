@@ -1,0 +1,93 @@
+{
+  "slug": "kotak-mahindra-bank-financial-analyst-jodhpur-2026-05-22-0",
+  "title": "Vacancy for Financial Analyst at Kotak Mahindra Bank",
+  "company": "Kotak Mahindra Bank",
+  "industry": "finance",
+  "role": "Financial Analyst",
+  "location": {
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "SQL",
+    "Risk Management",
+    "Power BI",
+    "Financial Reporting",
+    "Ind AS",
+    "VBA",
+    "Income Tax",
+    "MS Excel"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Vacancy for Financial Analyst at Kotak Mahindra Bank",
+    "description": "Grow your career with Kotak Mahindra Bank! We are hiring a Financial Analyst for our Jodhpur team. Be part of a workplace that celebrates innovation, diversity, and performance.\n\nAbout Kotak Mahindra Bank:\nKotak Mahindra Bank is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Monitor market trends and provide investment recommendations\n• Conduct due diligence for mergers, acquisitions, and investments\n• Prepare annual reports and investor presentations\n• Manage credit risk assessment and loan appraisal processes\n• Prepare MIS reports for senior management review\n• Develop financial models and projections for business planning\n• Maintain general ledger and ensure accurate bookkeeping\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 3-6 years of relevant experience\n• Proficiency in SQL\n• Proficiency in Risk Management\n• Proficiency in Power BI\n• Proficiency in Financial Reporting\n• Proficiency in Ind AS\n• Proficiency in VBA\n• Proficiency in Income Tax\n• Proficiency in MS Excel\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Life and accident insurance\n• Comprehensive health insurance for self and family\n• Meal coupons and food allowance\n• Annual paid leaves and casual leaves\n• Professional development and training programs\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Jodhpur, Rajasthan, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Kotak Mahindra Bank!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Kotak Mahindra Bank",
+      "value": "130-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Kotak Mahindra Bank",
+      "sameAs": "https://www.google.com/search?q=Kotak%20Mahindra%20Bank",
+      "logo": "https://logo.clearbit.com/kotakmahindrabank.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Kotak Mahindra Bank Office",
+        "addressLocality": "Jodhpur",
+        "addressRegion": "Rajasthan",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "SQL, Risk Management, Power BI, Financial Reporting, Ind AS, VBA, Income Tax, MS Excel",
+    "responsibilities": "Monitor market trends and provide investment recommendations. Conduct due diligence for mergers, acquisitions, and investments. Prepare annual reports and investor presentations. Manage credit risk assessment and loan appraisal processes. Prepare MIS reports for senior management review. Develop financial models and projections for business planning. Maintain general ledger and ensure accurate bookkeeping",
+    "benefits": "Competitive salary with performance-linked incentives. Life and accident insurance. Comprehensive health insurance for self and family. Meal coupons and food allowance. Annual paid leaves and casual leaves. Professional development and training programs",
+    "industry": "finance",
+    "occupationalCategory": "Financial Analyst",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Life and accident insurance, Comprehensive health insurance for self and family, Meal coupons and food allowance, Annual paid leaves and casual leaves, Professional development and training programs"
+  },
+  "meta": {
+    "description": "Grow your career with Kotak Mahindra Bank! We are hiring a Financial Analyst for our Jodhpur team. Be part of a workplace that celebrates innovation, diversity,",
+    "keywords": "Financial Analyst, Kotak Mahindra Bank, jobs in Jodhpur, Rajasthan jobs, finance jobs India, SQL, Risk Management, Power BI, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:35:44.369Z",
+  "page": 32
+}
