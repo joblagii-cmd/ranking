@@ -1,0 +1,93 @@
+{
+  "slug": "supreme-industries-plant-manager-mysuru-2026-05-22-4",
+  "title": "Senior Plant Manager at Supreme Industries",
+  "company": "Supreme Industries",
+  "industry": "manufacturing",
+  "role": "Plant Manager",
+  "location": {
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Kaizen",
+    "GD&T",
+    "Lean Manufacturing",
+    "PPAP",
+    "ERP Systems",
+    "APQP",
+    "Project Management",
+    "PLC/SCADA"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Plant Manager at Supreme Industries",
+    "description": "Supreme Industries has an exciting opening for a Plant Manager at our Mysuru office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Supreme Industries:\nSupreme Industries is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure product quality meets internal and customer specifications\n• Coordinate with design and engineering teams on product improvements\n• Prepare production cost analysis and efficiency reports\n• Implement lean manufacturing and continuous improvement initiatives\n• Ensure environmental compliance and waste management\n• Train and supervise shop floor workers and supervisors\n• Maintain accurate production records and prepare daily reports\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 6-10 years of relevant experience\n• Proficiency in Kaizen\n• Proficiency in GD&T\n• Proficiency in Lean Manufacturing\n• Proficiency in PPAP\n• Proficiency in ERP Systems\n• Proficiency in APQP\n• Proficiency in Project Management\n• Proficiency in PLC/SCADA\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Comprehensive health insurance for self and family\n• Learning & development budget\n• Recognition and rewards programs\n• Annual paid leaves and casual leaves\n• Flexible working hours\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Mysuru, Karnataka, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Supreme Industries!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Supreme Industries",
+      "value": "471-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Supreme Industries",
+      "sameAs": "https://www.google.com/search?q=Supreme%20Industries",
+      "logo": "https://logo.clearbit.com/supremeindustries.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Supreme Industries Office",
+        "addressLocality": "Mysuru",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "Kaizen, GD&T, Lean Manufacturing, PPAP, ERP Systems, APQP, Project Management, PLC/SCADA",
+    "responsibilities": "Ensure product quality meets internal and customer specifications. Coordinate with design and engineering teams on product improvements. Prepare production cost analysis and efficiency reports. Implement lean manufacturing and continuous improvement initiatives. Ensure environmental compliance and waste management. Train and supervise shop floor workers and supervisors. Maintain accurate production records and prepare daily reports",
+    "benefits": "Provident Fund and Gratuity as per company policy. Comprehensive health insurance for self and family. Learning & development budget. Recognition and rewards programs. Annual paid leaves and casual leaves. Flexible working hours",
+    "industry": "manufacturing",
+    "occupationalCategory": "Plant Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Comprehensive health insurance for self and family, Learning & development budget, Recognition and rewards programs, Annual paid leaves and casual leaves, Flexible working hours"
+  },
+  "meta": {
+    "description": "Supreme Industries has an exciting opening for a Plant Manager at our Mysuru office. Join a company that values innovation, collaboration, and continuous learni",
+    "keywords": "Plant Manager, Supreme Industries, jobs in Mysuru, Karnataka jobs, manufacturing jobs India, Kaizen, GD&T, Lean Manufacturing, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:46:32.596Z",
+  "page": 117
+}
