@@ -1,0 +1,93 @@
+{
+  "slug": "siemens-india-plant-manager-lucknow-2026-05-22-4",
+  "title": "Senior Plant Manager at Siemens India",
+  "company": "Siemens India",
+  "industry": "manufacturing",
+  "role": "Plant Manager",
+  "location": {
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "AutoCAD",
+    "SolidWorks",
+    "Statistical Process Control",
+    "ERP Systems",
+    "PLC/SCADA",
+    "SAP MM/PP",
+    "Project Management",
+    "PPAP"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Plant Manager at Siemens India",
+    "description": "Are you a skilled Plant Manager looking for your next big career move? Siemens India in Lucknow offers you the perfect platform to grow professionally and personally.\n\nAbout Siemens India:\nSiemens India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with design and engineering teams on product improvements\n• Ensure compliance with safety regulations and factory acts\n• Implement lean manufacturing and continuous improvement initiatives\n• Ensure product quality meets internal and customer specifications\n• Train and supervise shop floor workers and supervisors\n• Coordinate with logistics for dispatching finished goods\n• Maintain accurate production records and prepare daily reports\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 1-3 years of relevant experience\n• Proficiency in AutoCAD\n• Proficiency in SolidWorks\n• Proficiency in Statistical Process Control\n• Proficiency in ERP Systems\n• Proficiency in PLC/SCADA\n• Proficiency in SAP MM/PP\n• Proficiency in Project Management\n• Proficiency in PPAP\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Comprehensive health insurance for self and family\n• Company-sponsored certifications\n• Modern office with recreational facilities\n• Annual performance appraisal\n• Professional development and training programs\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Lucknow, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Siemens India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Siemens India",
+      "value": "494-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Siemens India",
+      "sameAs": "https://www.google.com/search?q=Siemens%20India",
+      "logo": "https://logo.clearbit.com/siemensindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Siemens India Office",
+        "addressLocality": "Lucknow",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "AutoCAD, SolidWorks, Statistical Process Control, ERP Systems, PLC/SCADA, SAP MM/PP, Project Management, PPAP",
+    "responsibilities": "Coordinate with design and engineering teams on product improvements. Ensure compliance with safety regulations and factory acts. Implement lean manufacturing and continuous improvement initiatives. Ensure product quality meets internal and customer specifications. Train and supervise shop floor workers and supervisors. Coordinate with logistics for dispatching finished goods. Maintain accurate production records and prepare daily reports",
+    "benefits": "Annual paid leaves and casual leaves. Comprehensive health insurance for self and family. Company-sponsored certifications. Modern office with recreational facilities. Annual performance appraisal. Professional development and training programs",
+    "industry": "manufacturing",
+    "occupationalCategory": "Plant Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Comprehensive health insurance for self and family, Company-sponsored certifications, Modern office with recreational facilities, Annual performance appraisal, Professional development and training programs"
+  },
+  "meta": {
+    "description": "Are you a skilled Plant Manager looking for your next big career move? Siemens India in Lucknow offers you the perfect platform to grow professionally and perso",
+    "keywords": "Plant Manager, Siemens India, jobs in Lucknow, Uttar Pradesh jobs, manufacturing jobs India, AutoCAD, SolidWorks, Statistical Process Control, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:47:17.823Z",
+  "page": 123
+}

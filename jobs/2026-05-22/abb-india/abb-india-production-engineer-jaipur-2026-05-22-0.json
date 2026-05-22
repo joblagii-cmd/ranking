@@ -1,0 +1,93 @@
+{
+  "slug": "abb-india-production-engineer-jaipur-2026-05-22-0",
+  "title": "Opening for Production Engineer at ABB India",
+  "company": "ABB India",
+  "industry": "manufacturing",
+  "role": "Production Engineer",
+  "location": {
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "APQP",
+    "SolidWorks",
+    "AutoCAD",
+    "Six Sigma",
+    "Root Cause Analysis",
+    "ERP Systems",
+    "Supply Chain Management",
+    "PLC/SCADA"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Opening for Production Engineer at ABB India",
+    "description": "Are you a skilled Production Engineer looking for your next big career move? ABB India in Jaipur offers you the perfect platform to grow professionally and personally.\n\nAbout ABB India:\nABB India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure environmental compliance and waste management\n• Oversee daily production operations to meet output targets\n• Maintain accurate production records and prepare daily reports\n• Manage supplier quality audits and vendor development\n• Implement lean manufacturing and continuous improvement initiatives\n• Prepare production cost analysis and efficiency reports\n• Monitor equipment performance and coordinate preventive maintenance\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 0-1 years of relevant experience\n• Proficiency in APQP\n• Proficiency in SolidWorks\n• Proficiency in AutoCAD\n• Proficiency in Six Sigma\n• Proficiency in Root Cause Analysis\n• Proficiency in ERP Systems\n• Proficiency in Supply Chain Management\n• Proficiency in PLC/SCADA\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Provident Fund and Gratuity as per company policy\n• Annual paid leaves and casual leaves\n• International travel opportunities for senior roles\n• Annual performance appraisal\n• Learning & development budget\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Jaipur, Rajasthan, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with ABB India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "ABB India",
+      "value": "493-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "ABB India",
+      "sameAs": "https://www.google.com/search?q=ABB%20India",
+      "logo": "https://logo.clearbit.com/abbindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "ABB India Office",
+        "addressLocality": "Jaipur",
+        "addressRegion": "Rajasthan",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "APQP, SolidWorks, AutoCAD, Six Sigma, Root Cause Analysis, ERP Systems, Supply Chain Management, PLC/SCADA",
+    "responsibilities": "Ensure environmental compliance and waste management. Oversee daily production operations to meet output targets. Maintain accurate production records and prepare daily reports. Manage supplier quality audits and vendor development. Implement lean manufacturing and continuous improvement initiatives. Prepare production cost analysis and efficiency reports. Monitor equipment performance and coordinate preventive maintenance",
+    "benefits": "Competitive salary with performance-linked incentives. Provident Fund and Gratuity as per company policy. Annual paid leaves and casual leaves. International travel opportunities for senior roles. Annual performance appraisal. Learning & development budget",
+    "industry": "manufacturing",
+    "occupationalCategory": "Production Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Provident Fund and Gratuity as per company policy, Annual paid leaves and casual leaves, International travel opportunities for senior roles, Annual performance appraisal, Learning & development budget"
+  },
+  "meta": {
+    "description": "Are you a skilled Production Engineer looking for your next big career move? ABB India in Jaipur offers you the perfect platform to grow professionally and pers",
+    "keywords": "Production Engineer, ABB India, jobs in Jaipur, Rajasthan jobs, manufacturing jobs India, APQP, SolidWorks, AutoCAD, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:47:17.822Z",
+  "page": 123
+}
