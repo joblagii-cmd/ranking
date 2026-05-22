@@ -1,0 +1,93 @@
+{
+  "slug": "glenmark-pharmaceuticals-radiologist-indore-2026-05-22-4",
+  "title": "Principal Radiologist at Glenmark Pharmaceuticals",
+  "company": "Glenmark Pharmaceuticals",
+  "industry": "healthcare",
+  "role": "Radiologist",
+  "location": {
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "BLS/ACLS",
+    "Patient Care",
+    "Infection Control",
+    "Clinical Documentation",
+    "ICU Management",
+    "Telemedicine",
+    "EMR/EHR",
+    "Medical Coding"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Principal Radiologist at Glenmark Pharmaceuticals",
+    "description": "Are you a skilled Radiologist looking for your next big career move? Glenmark Pharmaceuticals in Indore offers you the perfect platform to grow professionally and personally.\n\nAbout Glenmark Pharmaceuticals:\nGlenmark Pharmaceuticals is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with pharmaceutical representatives and medical suppliers\n• Provide high-quality patient care and maintain patient records\n• Attend continuing medical education programs and training\n• Diagnose and treat medical conditions following established protocols\n• Maintain sterile environments and follow infection control protocols\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Ensure patient privacy and maintain confidentiality\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 1-3 years of relevant experience\n• Proficiency in BLS/ACLS\n• Proficiency in Patient Care\n• Proficiency in Infection Control\n• Proficiency in Clinical Documentation\n• Proficiency in ICU Management\n• Proficiency in Telemedicine\n• Proficiency in EMR/EHR\n• Proficiency in Medical Coding\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Professional development and training programs\n• Referral bonus program\n• Employee stock options (ESOPs) for eligible roles\n• Comprehensive health insurance for self and family\n• Life and accident insurance\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Indore, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Glenmark Pharmaceuticals!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Glenmark Pharmaceuticals",
+      "value": "249-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Glenmark Pharmaceuticals",
+      "sameAs": "https://www.google.com/search?q=Glenmark%20Pharmaceuticals",
+      "logo": "https://logo.clearbit.com/glenmarkpharmaceuticals.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Glenmark Pharmaceuticals Office",
+        "addressLocality": "Indore",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "BLS/ACLS, Patient Care, Infection Control, Clinical Documentation, ICU Management, Telemedicine, EMR/EHR, Medical Coding",
+    "responsibilities": "Collaborate with pharmaceutical representatives and medical suppliers. Provide high-quality patient care and maintain patient records. Attend continuing medical education programs and training. Diagnose and treat medical conditions following established protocols. Maintain sterile environments and follow infection control protocols. Coordinate with multidisciplinary teams for comprehensive patient management. Ensure patient privacy and maintain confidentiality",
+    "benefits": "Annual paid leaves and casual leaves. Professional development and training programs. Referral bonus program. Employee stock options (ESOPs) for eligible roles. Comprehensive health insurance for self and family. Life and accident insurance",
+    "industry": "healthcare",
+    "occupationalCategory": "Radiologist",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Professional development and training programs, Referral bonus program, Employee stock options (ESOPs) for eligible roles, Comprehensive health insurance for self and family, Life and accident insurance"
+  },
+  "meta": {
+    "description": "Are you a skilled Radiologist looking for your next big career move? Glenmark Pharmaceuticals in Indore offers you the perfect platform to grow professionally a",
+    "keywords": "Radiologist, Glenmark Pharmaceuticals, jobs in Indore, Madhya Pradesh jobs, healthcare jobs India, BLS/ACLS, Patient Care, Infection Control, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:39:36.341Z",
+  "page": 62
+}
