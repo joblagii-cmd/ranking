@@ -1,0 +1,93 @@
+{
+  "slug": "woodland-department-manager-coimbatore-2026-05-22-3",
+  "title": "Department Manager Vacancy at Woodland - 2026 Batch",
+  "company": "Woodland",
+  "industry": "retail",
+  "role": "Department Manager",
+  "location": {
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Inventory Management",
+    "CRM",
+    "Customer Service",
+    "Shrinkage Control",
+    "Loss Prevention",
+    "Visual Merchandising",
+    "Supply Chain",
+    "Planogram"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Department Manager Vacancy at Woodland - 2026 Batch",
+    "description": "If you're a passionate Department Manager with drive and ambition, Woodland in Coimbatore is the place for you. We're growing fast and need talented people to grow with us.\n\nAbout Woodland:\nWoodland is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Assist in recruiting, onboarding, and performance management of staff\n• Manage shrinkage and reduce stock discrepancies\n• Implement promotional activities and in-store campaigns\n• Train and motivate the sales team to deliver excellent service\n• Conduct regular stock audits and prevent pilferage\n• Monitor inventory levels and coordinate replenishment activities\n• Handle customer queries, complaints, and escalations effectively\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 3-6 years of relevant experience\n• Proficiency in Inventory Management\n• Proficiency in CRM\n• Proficiency in Customer Service\n• Proficiency in Shrinkage Control\n• Proficiency in Loss Prevention\n• Proficiency in Visual Merchandising\n• Proficiency in Supply Chain\n• Proficiency in Planogram\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Flexible working hours\n• Comprehensive health insurance for self and family\n• Learning & development budget\n• Recognition and rewards programs\n• Competitive salary with performance-linked incentives\n• Company-sponsored certifications\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Coimbatore, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Woodland!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Woodland",
+      "value": "621-3-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Woodland",
+      "sameAs": "https://www.google.com/search?q=Woodland",
+      "logo": "https://logo.clearbit.com/woodland.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Woodland Office",
+        "addressLocality": "Coimbatore",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Inventory Management, CRM, Customer Service, Shrinkage Control, Loss Prevention, Visual Merchandising, Supply Chain, Planogram",
+    "responsibilities": "Assist in recruiting, onboarding, and performance management of staff. Manage shrinkage and reduce stock discrepancies. Implement promotional activities and in-store campaigns. Train and motivate the sales team to deliver excellent service. Conduct regular stock audits and prevent pilferage. Monitor inventory levels and coordinate replenishment activities. Handle customer queries, complaints, and escalations effectively",
+    "benefits": "Flexible working hours. Comprehensive health insurance for self and family. Learning & development budget. Recognition and rewards programs. Competitive salary with performance-linked incentives. Company-sponsored certifications",
+    "industry": "retail",
+    "occupationalCategory": "Department Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, Comprehensive health insurance for self and family, Learning & development budget, Recognition and rewards programs, Competitive salary with performance-linked incentives, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "If you're a passionate Department Manager with drive and ambition, Woodland in Coimbatore is the place for you. We're growing fast and need talented people to g",
+    "keywords": "Department Manager, Woodland, jobs in Coimbatore, Tamil Nadu jobs, retail jobs India, Inventory Management, CRM, Customer Service, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:51:18.154Z",
+  "page": 155
+}

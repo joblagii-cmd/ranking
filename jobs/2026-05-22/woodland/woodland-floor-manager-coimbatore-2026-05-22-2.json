@@ -1,0 +1,94 @@
+{
+  "slug": "woodland-floor-manager-coimbatore-2026-05-22-2",
+  "title": "Woodland is Hiring: Floor Manager (Principal)",
+  "company": "Woodland",
+  "industry": "retail",
+  "role": "Floor Manager",
+  "location": {
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "MS Excel",
+    "Shrinkage Control",
+    "Customer Service",
+    "Retail Analytics",
+    "E-commerce Integration",
+    "Loss Prevention",
+    "SAP Retail",
+    "Omnichannel Retail"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Woodland is Hiring: Floor Manager (Principal)",
+    "description": "If you're a passionate Floor Manager with drive and ambition, Woodland in Coimbatore is the place for you. We're growing fast and need talented people to grow with us.\n\nAbout Woodland:\nWoodland is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Implement promotional activities and in-store campaigns\n• Ensure compliance with company policies and retail regulations\n• Manage store operations to ensure smooth daily functioning\n• Train and motivate the sales team to deliver excellent service\n• Prepare daily sales reports and share insights with management\n• Achieve sales targets and improve store performance metrics\n• Coordinate with the supply chain team for timely stock delivery\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 10-15 years of relevant experience\n• Proficiency in MS Excel\n• Proficiency in Shrinkage Control\n• Proficiency in Customer Service\n• Proficiency in Retail Analytics\n• Proficiency in E-commerce Integration\n• Proficiency in Loss Prevention\n• Proficiency in SAP Retail\n• Proficiency in Omnichannel Retail\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Company-sponsored certifications\n• International travel opportunities for senior roles\n• Annual performance appraisal\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Flexible working hours\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Coimbatore, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Woodland!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Woodland",
+      "value": "621-2-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Woodland",
+      "sameAs": "https://www.google.com/search?q=Woodland",
+      "logo": "https://logo.clearbit.com/woodland.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Woodland Office",
+        "addressLocality": "Coimbatore",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "MS Excel, Shrinkage Control, Customer Service, Retail Analytics, E-commerce Integration, Loss Prevention, SAP Retail, Omnichannel Retail",
+    "responsibilities": "Implement promotional activities and in-store campaigns. Ensure compliance with company policies and retail regulations. Manage store operations to ensure smooth daily functioning. Train and motivate the sales team to deliver excellent service. Prepare daily sales reports and share insights with management. Achieve sales targets and improve store performance metrics. Coordinate with the supply chain team for timely stock delivery",
+    "benefits": "Company-sponsored certifications. International travel opportunities for senior roles. Annual performance appraisal. Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Flexible working hours",
+    "industry": "retail",
+    "occupationalCategory": "Floor Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Company-sponsored certifications, International travel opportunities for senior roles, Annual performance appraisal, Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Flexible working hours"
+  },
+  "meta": {
+    "description": "If you're a passionate Floor Manager with drive and ambition, Woodland in Coimbatore is the place for you. We're growing fast and need talented people to grow w",
+    "keywords": "Floor Manager, Woodland, jobs in Coimbatore, Tamil Nadu jobs, retail jobs India, MS Excel, Shrinkage Control, Customer Service, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:51:18.154Z",
+  "page": 155
+}
