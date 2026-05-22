@@ -1,0 +1,93 @@
+{
+  "slug": "mtr-foods-floor-manager-kolkata-2026-05-22-2",
+  "title": "MTR Foods is Hiring: Floor Manager (Entry-Level)",
+  "company": "MTR Foods",
+  "industry": "retail",
+  "role": "Floor Manager",
+  "location": {
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "region": "Eastern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "MS Excel",
+    "Customer Service",
+    "Retail Analytics",
+    "Team Leadership",
+    "Sales Techniques",
+    "KPI Management",
+    "Visual Merchandising",
+    "Retail Operations"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "MTR Foods is Hiring: Floor Manager (Entry-Level)",
+    "description": "MTR Foods is actively seeking a talented and motivated Floor Manager to join our dynamic team in Kolkata. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout MTR Foods:\nMTR Foods is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Manage store operations to ensure smooth daily functioning\n• Achieve sales targets and improve store performance metrics\n• Coordinate with the supply chain team for timely stock delivery\n• Ensure visual merchandising standards are maintained at all times\n• Handle customer queries, complaints, and escalations effectively\n• Conduct regular stock audits and prevent pilferage\n• Assist in recruiting, onboarding, and performance management of staff\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 6-10 years of relevant experience\n• Proficiency in MS Excel\n• Proficiency in Customer Service\n• Proficiency in Retail Analytics\n• Proficiency in Team Leadership\n• Proficiency in Sales Techniques\n• Proficiency in KPI Management\n• Proficiency in Visual Merchandising\n• Proficiency in Retail Operations\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Employee stock options (ESOPs) for eligible roles\n• Transportation and conveyance allowance\n• Recognition and rewards programs\n• Learning & development budget\n• Mobile and internet reimbursement\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Kolkata, West Bengal, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with MTR Foods!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "MTR Foods",
+      "value": "653-2-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "MTR Foods",
+      "sameAs": "https://www.google.com/search?q=MTR%20Foods",
+      "logo": "https://logo.clearbit.com/mtrfoods.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "MTR Foods Office",
+        "addressLocality": "Kolkata",
+        "addressRegion": "West Bengal",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "MS Excel, Customer Service, Retail Analytics, Team Leadership, Sales Techniques, KPI Management, Visual Merchandising, Retail Operations",
+    "responsibilities": "Manage store operations to ensure smooth daily functioning. Achieve sales targets and improve store performance metrics. Coordinate with the supply chain team for timely stock delivery. Ensure visual merchandising standards are maintained at all times. Handle customer queries, complaints, and escalations effectively. Conduct regular stock audits and prevent pilferage. Assist in recruiting, onboarding, and performance management of staff",
+    "benefits": "Work-from-home flexibility. Employee stock options (ESOPs) for eligible roles. Transportation and conveyance allowance. Recognition and rewards programs. Learning & development budget. Mobile and internet reimbursement",
+    "industry": "retail",
+    "occupationalCategory": "Floor Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Employee stock options (ESOPs) for eligible roles, Transportation and conveyance allowance, Recognition and rewards programs, Learning & development budget, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "MTR Foods is actively seeking a talented and motivated Floor Manager to join our dynamic team in Kolkata. This is an excellent opportunity for professionals who",
+    "keywords": "Floor Manager, MTR Foods, jobs in Kolkata, West Bengal jobs, retail jobs India, MS Excel, Customer Service, Retail Analytics, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:52:17.830Z",
+  "page": 163
+}
