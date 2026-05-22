@@ -1,0 +1,93 @@
+{
+  "slug": "shroff-eye-centre-medical-officer-allahabad-2026-05-22-0",
+  "title": "Hiring Medical Officer at Shroff Eye Centre",
+  "company": "Shroff Eye Centre",
+  "industry": "healthcare",
+  "role": "Medical Officer",
+  "location": {
+    "city": "Allahabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "NABH Standards",
+    "CPT Codes",
+    "Health Informatics",
+    "Medical Terminology",
+    "ICD-10",
+    "Telemedicine",
+    "Wound Care",
+    "Infection Control"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Hiring Medical Officer at Shroff Eye Centre",
+    "description": "Shroff Eye Centre, one of India's leading organizations, is hiring a Medical Officer for our Allahabad operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Shroff Eye Centre:\nShroff Eye Centre is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Educate patients and families on health management and disease prevention\n• Respond to medical emergencies and provide immediate care\n• Collaborate with pharmaceutical representatives and medical suppliers\n• Attend continuing medical education programs and training\n• Diagnose and treat medical conditions following established protocols\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Conduct routine health assessments and screenings\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 3-6 years of relevant experience\n• Proficiency in NABH Standards\n• Proficiency in CPT Codes\n• Proficiency in Health Informatics\n• Proficiency in Medical Terminology\n• Proficiency in ICD-10\n• Proficiency in Telemedicine\n• Proficiency in Wound Care\n• Proficiency in Infection Control\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Modern office with recreational facilities\n• Referral bonus program\n• Annual paid leaves and casual leaves\n• International travel opportunities for senior roles\n• Recognition and rewards programs\n• Comprehensive health insurance for self and family\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Allahabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Shroff Eye Centre!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Shroff Eye Centre",
+      "value": "284-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Shroff Eye Centre",
+      "sameAs": "https://www.google.com/search?q=Shroff%20Eye%20Centre",
+      "logo": "https://logo.clearbit.com/shroffeyecentre.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Shroff Eye Centre Office",
+        "addressLocality": "Allahabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "NABH Standards, CPT Codes, Health Informatics, Medical Terminology, ICD-10, Telemedicine, Wound Care, Infection Control",
+    "responsibilities": "Educate patients and families on health management and disease prevention. Respond to medical emergencies and provide immediate care. Collaborate with pharmaceutical representatives and medical suppliers. Attend continuing medical education programs and training. Diagnose and treat medical conditions following established protocols. Coordinate with multidisciplinary teams for comprehensive patient management. Conduct routine health assessments and screenings",
+    "benefits": "Modern office with recreational facilities. Referral bonus program. Annual paid leaves and casual leaves. International travel opportunities for senior roles. Recognition and rewards programs. Comprehensive health insurance for self and family",
+    "industry": "healthcare",
+    "occupationalCategory": "Medical Officer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Modern office with recreational facilities, Referral bonus program, Annual paid leaves and casual leaves, International travel opportunities for senior roles, Recognition and rewards programs, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "Shroff Eye Centre, one of India's leading organizations, is hiring a Medical Officer for our Allahabad operations. We offer a competitive salary package along w",
+    "keywords": "Medical Officer, Shroff Eye Centre, jobs in Allahabad, Uttar Pradesh jobs, healthcare jobs India, NABH Standards, CPT Codes, Health Informatics, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:40:38.290Z",
+  "page": 70
+}
