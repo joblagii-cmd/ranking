@@ -1,0 +1,93 @@
+{
+  "slug": "cropin-asia-pacific-associates-backend-developer-ranchi-2026-05-22-3",
+  "title": "Backend Developer Vacancy at Cropin Asia Pacific Associates - 2026 Batch",
+  "company": "Cropin Asia Pacific Associates",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "SQL",
+    "JavaScript",
+    "Python",
+    "Java",
+    "Kubernetes",
+    "Git",
+    "Microservices",
+    "CI/CD"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Cropin Asia Pacific Associates - 2026 Batch",
+    "description": "An exciting career opportunity awaits you at Cropin Asia Pacific Associates. We are on the lookout for a dedicated Backend Developer to strengthen our Ranchi-based team.\n\nAbout Cropin Asia Pacific Associates:\nCropin Asia Pacific Associates is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Write and execute unit tests and integration tests\n• Collaborate with cross-functional teams including product, design, and QA\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Optimize application performance and ensure high availability\n• Contribute to system architecture and technical design decisions\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 6-10 years of relevant experience\n• Proficiency in SQL\n• Proficiency in JavaScript\n• Proficiency in Python\n• Proficiency in Java\n• Proficiency in Kubernetes\n• Proficiency in Git\n• Proficiency in Microservices\n• Proficiency in CI/CD\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• Company-sponsored certifications\n• Modern office with recreational facilities\n• Life and accident insurance\n• Provident Fund and Gratuity as per company policy\n• Meal coupons and food allowance\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Ranchi, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Cropin Asia Pacific Associates!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Cropin Asia Pacific Associates",
+      "value": "1949-3-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Cropin Asia Pacific Associates",
+      "sameAs": "https://www.google.com/search?q=Cropin%20Asia%20Pacific%20Associates",
+      "logo": "https://logo.clearbit.com/cropinasiapacificassociates.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Cropin Asia Pacific Associates Office",
+        "addressLocality": "Ranchi",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "SQL, JavaScript, Python, Java, Kubernetes, Git, Microservices, CI/CD",
+    "responsibilities": "Troubleshoot, debug, and resolve software defects and performance issues. Write and execute unit tests and integration tests. Collaborate with cross-functional teams including product, design, and QA. Mentor junior developers and conduct knowledge-sharing sessions. Work with agile methodologies including daily stand-ups and sprint planning. Optimize application performance and ensure high availability. Contribute to system architecture and technical design decisions",
+    "benefits": "Comprehensive health insurance for self and family. Company-sponsored certifications. Modern office with recreational facilities. Life and accident insurance. Provident Fund and Gratuity as per company policy. Meal coupons and food allowance",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, Company-sponsored certifications, Modern office with recreational facilities, Life and accident insurance, Provident Fund and Gratuity as per company policy, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Cropin Asia Pacific Associates. We are on the lookout for a dedicated Backend Developer to strengthen our Ranchi-ba",
+    "keywords": "Backend Developer, Cropin Asia Pacific Associates, jobs in Ranchi, Jharkhand jobs, technology jobs India, SQL, JavaScript, Python, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:57:25.932Z",
+  "page": 487
+}

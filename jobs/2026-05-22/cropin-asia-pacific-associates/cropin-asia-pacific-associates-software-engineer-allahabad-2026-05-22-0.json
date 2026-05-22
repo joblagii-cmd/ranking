@@ -1,0 +1,93 @@
+{
+  "slug": "cropin-asia-pacific-associates-software-engineer-allahabad-2026-05-22-0",
+  "title": "Opening for Software Engineer at Cropin Asia Pacific Associates",
+  "company": "Cropin Asia Pacific Associates",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Allahabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "CI/CD",
+    "TensorFlow",
+    "JavaScript",
+    "Node.js",
+    "Machine Learning",
+    "MongoDB",
+    "Python",
+    "Rust"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Opening for Software Engineer at Cropin Asia Pacific Associates",
+    "description": "An exciting career opportunity awaits you at Cropin Asia Pacific Associates. We are on the lookout for a dedicated Software Engineer to strengthen our Allahabad-based team.\n\nAbout Cropin Asia Pacific Associates:\nCropin Asia Pacific Associates is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in code reviews and contribute to technical discussions\n• Ensure code security and follow best practices for data protection\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Collaborate with cross-functional teams including product, design, and QA\n• Implement new features based on product requirements\n• Contribute to system architecture and technical design decisions\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 0-1 years of relevant experience\n• Proficiency in CI/CD\n• Proficiency in TensorFlow\n• Proficiency in JavaScript\n• Proficiency in Node.js\n• Proficiency in Machine Learning\n• Proficiency in MongoDB\n• Proficiency in Python\n• Proficiency in Rust\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Annual paid leaves and casual leaves\n• Company-sponsored certifications\n• Annual performance appraisal\n• Meal coupons and food allowance\n• Maternity and paternity leave\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Allahabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Cropin Asia Pacific Associates!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Cropin Asia Pacific Associates",
+      "value": "1949-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Cropin Asia Pacific Associates",
+      "sameAs": "https://www.google.com/search?q=Cropin%20Asia%20Pacific%20Associates",
+      "logo": "https://logo.clearbit.com/cropinasiapacificassociates.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Cropin Asia Pacific Associates Office",
+        "addressLocality": "Allahabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "CI/CD, TensorFlow, JavaScript, Node.js, Machine Learning, MongoDB, Python, Rust",
+    "responsibilities": "Participate in code reviews and contribute to technical discussions. Ensure code security and follow best practices for data protection. Troubleshoot, debug, and resolve software defects and performance issues. Mentor junior developers and conduct knowledge-sharing sessions. Collaborate with cross-functional teams including product, design, and QA. Implement new features based on product requirements. Contribute to system architecture and technical design decisions",
+    "benefits": "Competitive salary with performance-linked incentives. Annual paid leaves and casual leaves. Company-sponsored certifications. Annual performance appraisal. Meal coupons and food allowance. Maternity and paternity leave",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Annual paid leaves and casual leaves, Company-sponsored certifications, Annual performance appraisal, Meal coupons and food allowance, Maternity and paternity leave"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Cropin Asia Pacific Associates. We are on the lookout for a dedicated Software Engineer to strengthen our Allahabad",
+    "keywords": "Software Engineer, Cropin Asia Pacific Associates, jobs in Allahabad, Uttar Pradesh jobs, technology jobs India, CI/CD, TensorFlow, JavaScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:57:25.932Z",
+  "page": 487
+}
