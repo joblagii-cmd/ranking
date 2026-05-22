@@ -1,0 +1,93 @@
+{
+  "slug": "hyundai-india-plant-manager-pune-2026-05-22-4",
+  "title": "Mid-Level Plant Manager at Hyundai India",
+  "company": "Hyundai India",
+  "industry": "manufacturing",
+  "role": "Plant Manager",
+  "location": {
+    "city": "Pune",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "PLC/SCADA",
+    "AutoCAD",
+    "SolidWorks",
+    "5S",
+    "Kaizen",
+    "FMEA",
+    "SAP MM/PP",
+    "Statistical Process Control"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Plant Manager at Hyundai India",
+    "description": "Hyundai India is actively seeking a talented and motivated Plant Manager to join our dynamic team in Pune. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout Hyundai India:\nHyundai India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure compliance with safety regulations and factory acts\n• Implement 5S, Kaizen, and Six Sigma practices on the shop floor\n• Coordinate with logistics for dispatching finished goods\n• Manage supplier quality audits and vendor development\n• Manage raw material procurement and inventory levels\n• Ensure environmental compliance and waste management\n• Oversee daily production operations to meet output targets\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 0-1 years of relevant experience\n• Proficiency in PLC/SCADA\n• Proficiency in AutoCAD\n• Proficiency in SolidWorks\n• Proficiency in 5S\n• Proficiency in Kaizen\n• Proficiency in FMEA\n• Proficiency in SAP MM/PP\n• Proficiency in Statistical Process Control\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Company-sponsored certifications\n• Provident Fund and Gratuity as per company policy\n• Referral bonus program\n• Recognition and rewards programs\n• Life and accident insurance\n• Modern office with recreational facilities\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Pune, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Hyundai India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Hyundai India",
+      "value": "404-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Hyundai India",
+      "sameAs": "https://www.google.com/search?q=Hyundai%20India",
+      "logo": "https://logo.clearbit.com/hyundaiindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Hyundai India Office",
+        "addressLocality": "Pune",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "PLC/SCADA, AutoCAD, SolidWorks, 5S, Kaizen, FMEA, SAP MM/PP, Statistical Process Control",
+    "responsibilities": "Ensure compliance with safety regulations and factory acts. Implement 5S, Kaizen, and Six Sigma practices on the shop floor. Coordinate with logistics for dispatching finished goods. Manage supplier quality audits and vendor development. Manage raw material procurement and inventory levels. Ensure environmental compliance and waste management. Oversee daily production operations to meet output targets",
+    "benefits": "Company-sponsored certifications. Provident Fund and Gratuity as per company policy. Referral bonus program. Recognition and rewards programs. Life and accident insurance. Modern office with recreational facilities",
+    "industry": "manufacturing",
+    "occupationalCategory": "Plant Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Company-sponsored certifications, Provident Fund and Gratuity as per company policy, Referral bonus program, Recognition and rewards programs, Life and accident insurance, Modern office with recreational facilities"
+  },
+  "meta": {
+    "description": "Hyundai India is actively seeking a talented and motivated Plant Manager to join our dynamic team in Pune. This is an excellent opportunity for professionals wh",
+    "keywords": "Plant Manager, Hyundai India, jobs in Pune, Maharashtra jobs, manufacturing jobs India, PLC/SCADA, AutoCAD, SolidWorks, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:44:24.142Z",
+  "page": 100
+}
