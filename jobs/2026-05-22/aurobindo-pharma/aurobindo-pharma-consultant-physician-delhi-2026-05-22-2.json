@@ -1,0 +1,93 @@
+{
+  "slug": "aurobindo-pharma-consultant-physician-delhi-2026-05-22-2",
+  "title": "Aurobindo Pharma is Hiring: Consultant Physician (Principal)",
+  "company": "Aurobindo Pharma",
+  "industry": "healthcare",
+  "role": "Consultant Physician",
+  "location": {
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Medical Terminology",
+    "Diagnostic Skills",
+    "Health Informatics",
+    "ICU Management",
+    "Medical Ethics",
+    "Clinical Documentation",
+    "Infection Control",
+    "Patient Care"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Aurobindo Pharma is Hiring: Consultant Physician (Principal)",
+    "description": "Aurobindo Pharma has an exciting opening for a Consultant Physician at our Delhi office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Aurobindo Pharma:\nAurobindo Pharma is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Provide high-quality patient care and maintain patient records\n• Diagnose and treat medical conditions following established protocols\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Administer medications and treatments as prescribed\n• Respond to medical emergencies and provide immediate care\n• Adhere to NABH/JCI accreditation standards\n• Maintain accurate clinical documentation in electronic health records\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 1-3 years of relevant experience\n• Proficiency in Medical Terminology\n• Proficiency in Diagnostic Skills\n• Proficiency in Health Informatics\n• Proficiency in ICU Management\n• Proficiency in Medical Ethics\n• Proficiency in Clinical Documentation\n• Proficiency in Infection Control\n• Proficiency in Patient Care\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Referral bonus program\n• Employee stock options (ESOPs) for eligible roles\n• Maternity and paternity leave\n• Comprehensive health insurance for self and family\n• Annual paid leaves and casual leaves\n• Life and accident insurance\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Delhi, Delhi, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Aurobindo Pharma!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Aurobindo Pharma",
+      "value": "230-2-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Aurobindo Pharma",
+      "sameAs": "https://www.google.com/search?q=Aurobindo%20Pharma",
+      "logo": "https://logo.clearbit.com/aurobindopharma.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Aurobindo Pharma Office",
+        "addressLocality": "Delhi",
+        "addressRegion": "Delhi",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "Medical Terminology, Diagnostic Skills, Health Informatics, ICU Management, Medical Ethics, Clinical Documentation, Infection Control, Patient Care",
+    "responsibilities": "Provide high-quality patient care and maintain patient records. Diagnose and treat medical conditions following established protocols. Coordinate with multidisciplinary teams for comprehensive patient management. Administer medications and treatments as prescribed. Respond to medical emergencies and provide immediate care. Adhere to NABH/JCI accreditation standards. Maintain accurate clinical documentation in electronic health records",
+    "benefits": "Referral bonus program. Employee stock options (ESOPs) for eligible roles. Maternity and paternity leave. Comprehensive health insurance for self and family. Annual paid leaves and casual leaves. Life and accident insurance",
+    "industry": "healthcare",
+    "occupationalCategory": "Consultant Physician",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Referral bonus program, Employee stock options (ESOPs) for eligible roles, Maternity and paternity leave, Comprehensive health insurance for self and family, Annual paid leaves and casual leaves, Life and accident insurance"
+  },
+  "meta": {
+    "description": "Aurobindo Pharma has an exciting opening for a Consultant Physician at our Delhi office. Join a company that values innovation, collaboration, and continuous le",
+    "keywords": "Consultant Physician, Aurobindo Pharma, jobs in Delhi, Delhi jobs, healthcare jobs India, Medical Terminology, Diagnostic Skills, Health Informatics, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:38:57.221Z",
+  "page": 57
+}
