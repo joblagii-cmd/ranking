@@ -1,0 +1,93 @@
+{
+  "slug": "red-express-supply-chain-manager-surat-2026-05-22-1",
+  "title": "Supply Chain Manager - Red Express - Experienced Professionals",
+  "company": "Red Express",
+  "industry": "logistics",
+  "role": "Supply Chain Manager",
+  "location": {
+    "city": "Surat",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Freight Forwarding",
+    "Route Optimization",
+    "Data Analytics",
+    "WMS",
+    "GPS Tracking Systems",
+    "Reverse Logistics",
+    "3PL Management",
+    "INCOTERMS"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Supply Chain Manager - Red Express - Experienced Professionals",
+    "description": "Red Express invites applications from qualified candidates for the position of Supply Chain Manager at our Surat location. This role offers excellent career advancement prospects.\n\nAbout Red Express:\nRed Express is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Prepare MIS reports on delivery performance and SLA adherence\n• Ensure proper handling, packaging, and labeling of goods\n• Track shipments in real-time and resolve delivery exceptions\n• Manage relationships with third-party logistics providers\n• Implement warehouse management systems (WMS) and track KPIs\n• Ensure compliance with transportation regulations and safety standards\n• Manage reverse logistics and return merchandise authorization\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 1-3 years of relevant experience\n• Proficiency in Freight Forwarding\n• Proficiency in Route Optimization\n• Proficiency in Data Analytics\n• Proficiency in WMS\n• Proficiency in GPS Tracking Systems\n• Proficiency in Reverse Logistics\n• Proficiency in 3PL Management\n• Proficiency in INCOTERMS\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Life and accident insurance\n• Flexible working hours\n• Maternity and paternity leave\n• Annual performance appraisal\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Surat, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Red Express!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Red Express",
+      "value": "826-1-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Red Express",
+      "sameAs": "https://www.google.com/search?q=Red%20Express",
+      "logo": "https://logo.clearbit.com/redexpress.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Red Express Office",
+        "addressLocality": "Surat",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "Freight Forwarding, Route Optimization, Data Analytics, WMS, GPS Tracking Systems, Reverse Logistics, 3PL Management, INCOTERMS",
+    "responsibilities": "Prepare MIS reports on delivery performance and SLA adherence. Ensure proper handling, packaging, and labeling of goods. Track shipments in real-time and resolve delivery exceptions. Manage relationships with third-party logistics providers. Implement warehouse management systems (WMS) and track KPIs. Ensure compliance with transportation regulations and safety standards. Manage reverse logistics and return merchandise authorization",
+    "benefits": "Life and accident insurance. Flexible working hours. Maternity and paternity leave. Annual performance appraisal. Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family",
+    "industry": "logistics",
+    "occupationalCategory": "Supply Chain Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Flexible working hours, Maternity and paternity leave, Annual performance appraisal, Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "Red Express invites applications from qualified candidates for the position of Supply Chain Manager at our Surat location. This role offers excellent career adv",
+    "keywords": "Supply Chain Manager, Red Express, jobs in Surat, Gujarat jobs, logistics jobs India, Freight Forwarding, Route Optimization, Data Analytics, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:57:46.653Z",
+  "page": 206
+}
