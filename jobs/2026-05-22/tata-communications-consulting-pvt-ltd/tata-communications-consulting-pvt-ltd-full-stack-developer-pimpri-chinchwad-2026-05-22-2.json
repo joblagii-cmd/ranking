@@ -1,0 +1,93 @@
+{
+  "slug": "tata-communications-consulting-pvt-ltd-full-stack-developer-pimpri-chinchwad-2026-05-22-2",
+  "title": "Tata Communications Consulting Pvt Ltd is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "Tata Communications Consulting Pvt Ltd",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Pimpri-Chinchwad",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "TensorFlow",
+    "React",
+    "Kubernetes",
+    "Agile/Scrum",
+    "Java",
+    "Docker",
+    "Rust",
+    "Microservices"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Tata Communications Consulting Pvt Ltd is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "Tata Communications Consulting Pvt Ltd, one of India's leading organizations, is hiring a Full Stack Developer for our Pimpri-Chinchwad operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Tata Communications Consulting Pvt Ltd:\nTata Communications Consulting Pvt Ltd is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Implement new features based on product requirements\n• Design, develop and maintain scalable software applications\n• Participate in code reviews and contribute to technical discussions\n• Optimize application performance and ensure high availability\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Mentor junior developers and conduct knowledge-sharing sessions\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 0-1 years of relevant experience\n• Proficiency in TensorFlow\n• Proficiency in React\n• Proficiency in Kubernetes\n• Proficiency in Agile/Scrum\n• Proficiency in Java\n• Proficiency in Docker\n• Proficiency in Rust\n• Proficiency in Microservices\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Company-sponsored certifications\n• Meal coupons and food allowance\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Provident Fund and Gratuity as per company policy\n• Transportation and conveyance allowance\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Pimpri-Chinchwad, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Tata Communications Consulting Pvt Ltd!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Tata Communications Consulting Pvt Ltd",
+      "value": "1921-2-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Tata Communications Consulting Pvt Ltd",
+      "sameAs": "https://www.google.com/search?q=Tata%20Communications%20Consulting%20Pvt%20Ltd",
+      "logo": "https://logo.clearbit.com/tatacommunicationsconsultingpvtltd.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Tata Communications Consulting Pvt Ltd Office",
+        "addressLocality": "Pimpri-Chinchwad",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "TensorFlow, React, Kubernetes, Agile/Scrum, Java, Docker, Rust, Microservices",
+    "responsibilities": "Implement new features based on product requirements. Design, develop and maintain scalable software applications. Participate in code reviews and contribute to technical discussions. Optimize application performance and ensure high availability. Troubleshoot, debug, and resolve software defects and performance issues. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Mentor junior developers and conduct knowledge-sharing sessions",
+    "benefits": "Company-sponsored certifications. Meal coupons and food allowance. Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Provident Fund and Gratuity as per company policy. Transportation and conveyance allowance",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Company-sponsored certifications, Meal coupons and food allowance, Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Provident Fund and Gratuity as per company policy, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "Tata Communications Consulting Pvt Ltd, one of India's leading organizations, is hiring a Full Stack Developer for our Pimpri-Chinchwad operations. We offer a c",
+    "keywords": "Full Stack Developer, Tata Communications Consulting Pvt Ltd, jobs in Pimpri-Chinchwad, Maharashtra jobs, technology jobs India, TensorFlow, React, Kubernetes, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:56:27.267Z",
+  "page": 480
+}

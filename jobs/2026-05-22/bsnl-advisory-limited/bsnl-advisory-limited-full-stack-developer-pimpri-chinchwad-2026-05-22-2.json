@@ -1,0 +1,94 @@
+{
+  "slug": "bsnl-advisory-limited-full-stack-developer-pimpri-chinchwad-2026-05-22-2",
+  "title": "BSNL Advisory Limited is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "BSNL Advisory Limited",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Pimpri-Chinchwad",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "CI/CD",
+    "Go",
+    "Microservices",
+    "MongoDB",
+    "Docker",
+    "Machine Learning",
+    "Rust",
+    "JavaScript"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "BSNL Advisory Limited is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "BSNL Advisory Limited, one of India's leading organizations, is hiring a Full Stack Developer for our Pimpri-Chinchwad operations. We offer a competitive salary package along with world-class benefits.\n\nAbout BSNL Advisory Limited:\nBSNL Advisory Limited is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Optimize application performance and ensure high availability\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Contribute to system architecture and technical design decisions\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Collaborate with cross-functional teams including product, design, and QA\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 12-20 years of relevant experience\n• Proficiency in CI/CD\n• Proficiency in Go\n• Proficiency in Microservices\n• Proficiency in MongoDB\n• Proficiency in Docker\n• Proficiency in Machine Learning\n• Proficiency in Rust\n• Proficiency in JavaScript\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Flexible working hours\n• Work-from-home flexibility\n• Modern office with recreational facilities\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Pimpri-Chinchwad, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with BSNL Advisory Limited!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "BSNL Advisory Limited",
+      "value": "1922-2-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "BSNL Advisory Limited",
+      "sameAs": "https://www.google.com/search?q=BSNL%20Advisory%20Limited",
+      "logo": "https://logo.clearbit.com/bsnladvisorylimited.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "BSNL Advisory Limited Office",
+        "addressLocality": "Pimpri-Chinchwad",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "CI/CD, Go, Microservices, MongoDB, Docker, Machine Learning, Rust, JavaScript",
+    "responsibilities": "Mentor junior developers and conduct knowledge-sharing sessions. Work with agile methodologies including daily stand-ups and sprint planning. Optimize application performance and ensure high availability. Troubleshoot, debug, and resolve software defects and performance issues. Contribute to system architecture and technical design decisions. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Collaborate with cross-functional teams including product, design, and QA",
+    "benefits": "Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Flexible working hours. Work-from-home flexibility. Modern office with recreational facilities. Provident Fund and Gratuity as per company policy",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Flexible working hours, Work-from-home flexibility, Modern office with recreational facilities, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "BSNL Advisory Limited, one of India's leading organizations, is hiring a Full Stack Developer for our Pimpri-Chinchwad operations. We offer a competitive salary",
+    "keywords": "Full Stack Developer, BSNL Advisory Limited, jobs in Pimpri-Chinchwad, Maharashtra jobs, technology jobs India, CI/CD, Go, Microservices, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:56:27.270Z",
+  "page": 480
+}
