@@ -1,0 +1,93 @@
+{
+  "slug": "nabard-credit-analyst-howrah-2026-05-22-2",
+  "title": "NABARD is Hiring: Credit Analyst (Lead)",
+  "company": "NABARD",
+  "industry": "finance",
+  "role": "Credit Analyst",
+  "location": {
+    "city": "Howrah",
+    "state": "West Bengal",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "VBA",
+    "SAP FICO",
+    "Due Diligence",
+    "MS Excel",
+    "Budgeting",
+    "Bloomberg Terminal",
+    "Risk Management",
+    "Financial Modeling"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "NABARD is Hiring: Credit Analyst (Lead)",
+    "description": "We at NABARD are looking for an experienced Credit Analyst based out of Howrah. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout NABARD:\nNABARD is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Prepare and analyze financial statements, reports, and budgets\n• Monitor financial performance against targets and provide variance analysis\n• Maintain general ledger and ensure accurate bookkeeping\n• Conduct due diligence for mergers, acquisitions, and investments\n• Manage accounts payable and accounts receivable functions\n• Implement and maintain internal controls and audit procedures\n• Monitor market trends and provide investment recommendations\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 3-6 years of relevant experience\n• Proficiency in VBA\n• Proficiency in SAP FICO\n• Proficiency in Due Diligence\n• Proficiency in MS Excel\n• Proficiency in Budgeting\n• Proficiency in Bloomberg Terminal\n• Proficiency in Risk Management\n• Proficiency in Financial Modeling\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Annual performance appraisal\n• Professional development and training programs\n• Flexible working hours\n• Modern office with recreational facilities\n• Transportation and conveyance allowance\n• Referral bonus program\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Howrah, West Bengal, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with NABARD!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "NABARD",
+      "value": "203-2-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "NABARD",
+      "sameAs": "https://www.google.com/search?q=NABARD",
+      "logo": "https://logo.clearbit.com/nabard.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "NABARD Office",
+        "addressLocality": "Howrah",
+        "addressRegion": "West Bengal",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "VBA, SAP FICO, Due Diligence, MS Excel, Budgeting, Bloomberg Terminal, Risk Management, Financial Modeling",
+    "responsibilities": "Prepare and analyze financial statements, reports, and budgets. Monitor financial performance against targets and provide variance analysis. Maintain general ledger and ensure accurate bookkeeping. Conduct due diligence for mergers, acquisitions, and investments. Manage accounts payable and accounts receivable functions. Implement and maintain internal controls and audit procedures. Monitor market trends and provide investment recommendations",
+    "benefits": "Annual performance appraisal. Professional development and training programs. Flexible working hours. Modern office with recreational facilities. Transportation and conveyance allowance. Referral bonus program",
+    "industry": "finance",
+    "occupationalCategory": "Credit Analyst",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual performance appraisal, Professional development and training programs, Flexible working hours, Modern office with recreational facilities, Transportation and conveyance allowance, Referral bonus program"
+  },
+  "meta": {
+    "description": "We at NABARD are looking for an experienced Credit Analyst based out of Howrah. If you are a result-oriented professional with a passion for excellence, we want",
+    "keywords": "Credit Analyst, NABARD, jobs in Howrah, West Bengal jobs, finance jobs India, VBA, SAP FICO, Due Diligence, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:38:03.355Z",
+  "page": 50
+}

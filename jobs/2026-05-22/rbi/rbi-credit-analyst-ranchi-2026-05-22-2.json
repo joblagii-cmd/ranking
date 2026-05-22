@@ -1,0 +1,93 @@
+{
+  "slug": "rbi-credit-analyst-ranchi-2026-05-22-2",
+  "title": "RBI is Hiring: Credit Analyst (Lead)",
+  "company": "RBI",
+  "industry": "finance",
+  "role": "Credit Analyst",
+  "location": {
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Tally",
+    "Power BI",
+    "Financial Modeling",
+    "Budgeting",
+    "Ind AS",
+    "QuickBooks",
+    "IFRS",
+    "Forecasting"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "RBI is Hiring: Credit Analyst (Lead)",
+    "description": "We at RBI are looking for an experienced Credit Analyst based out of Ranchi. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout RBI:\nRBI is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Process payroll and manage employee reimbursements\n• Conduct due diligence for mergers, acquisitions, and investments\n• Maintain general ledger and ensure accurate bookkeeping\n• Prepare and analyze financial statements, reports, and budgets\n• Monitor market trends and provide investment recommendations\n• Monitor financial performance against targets and provide variance analysis\n• Manage credit risk assessment and loan appraisal processes\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 6-10 years of relevant experience\n• Proficiency in Tally\n• Proficiency in Power BI\n• Proficiency in Financial Modeling\n• Proficiency in Budgeting\n• Proficiency in Ind AS\n• Proficiency in QuickBooks\n• Proficiency in IFRS\n• Proficiency in Forecasting\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Life and accident insurance\n• Competitive salary with performance-linked incentives\n• Flexible working hours\n• Transportation and conveyance allowance\n• Maternity and paternity leave\n• Mobile and internet reimbursement\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Ranchi, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with RBI!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "RBI",
+      "value": "202-2-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "RBI",
+      "sameAs": "https://www.google.com/search?q=RBI",
+      "logo": "https://logo.clearbit.com/rbi.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "RBI Office",
+        "addressLocality": "Ranchi",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "Tally, Power BI, Financial Modeling, Budgeting, Ind AS, QuickBooks, IFRS, Forecasting",
+    "responsibilities": "Process payroll and manage employee reimbursements. Conduct due diligence for mergers, acquisitions, and investments. Maintain general ledger and ensure accurate bookkeeping. Prepare and analyze financial statements, reports, and budgets. Monitor market trends and provide investment recommendations. Monitor financial performance against targets and provide variance analysis. Manage credit risk assessment and loan appraisal processes",
+    "benefits": "Life and accident insurance. Competitive salary with performance-linked incentives. Flexible working hours. Transportation and conveyance allowance. Maternity and paternity leave. Mobile and internet reimbursement",
+    "industry": "finance",
+    "occupationalCategory": "Credit Analyst",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Competitive salary with performance-linked incentives, Flexible working hours, Transportation and conveyance allowance, Maternity and paternity leave, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "We at RBI are looking for an experienced Credit Analyst based out of Ranchi. If you are a result-oriented professional with a passion for excellence, we want to",
+    "keywords": "Credit Analyst, RBI, jobs in Ranchi, Jharkhand jobs, finance jobs India, Tally, Power BI, Financial Modeling, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:38:03.355Z",
+  "page": 50
+}

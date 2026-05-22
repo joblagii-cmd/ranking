@@ -1,0 +1,93 @@
+{
+  "slug": "nabard-financial-analyst-ranchi-2026-05-22-0",
+  "title": "Career Opportunity Financial Analyst at NABARD",
+  "company": "NABARD",
+  "industry": "finance",
+  "role": "Financial Analyst",
+  "location": {
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Tally",
+    "MS Excel",
+    "IFRS",
+    "Python for Finance",
+    "Risk Management",
+    "VBA",
+    "SAP FICO",
+    "Credit Analysis"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Career Opportunity Financial Analyst at NABARD",
+    "description": "We at NABARD are looking for an experienced Financial Analyst based out of Ranchi. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout NABARD:\nNABARD is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Maintain general ledger and ensure accurate bookkeeping\n• Monitor financial performance against targets and provide variance analysis\n• Manage credit risk assessment and loan appraisal processes\n• Process payroll and manage employee reimbursements\n• Liaise with banks, regulators, and financial institutions\n• Monitor market trends and provide investment recommendations\n• Prepare annual reports and investor presentations\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 10-15 years of relevant experience\n• Proficiency in Tally\n• Proficiency in MS Excel\n• Proficiency in IFRS\n• Proficiency in Python for Finance\n• Proficiency in Risk Management\n• Proficiency in VBA\n• Proficiency in SAP FICO\n• Proficiency in Credit Analysis\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Flexible working hours\n• Competitive salary with performance-linked incentives\n• Provident Fund and Gratuity as per company policy\n• Meal coupons and food allowance\n• Company-sponsored certifications\n• Transportation and conveyance allowance\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Ranchi, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with NABARD!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "NABARD",
+      "value": "203-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "NABARD",
+      "sameAs": "https://www.google.com/search?q=NABARD",
+      "logo": "https://logo.clearbit.com/nabard.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "NABARD Office",
+        "addressLocality": "Ranchi",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "Tally, MS Excel, IFRS, Python for Finance, Risk Management, VBA, SAP FICO, Credit Analysis",
+    "responsibilities": "Maintain general ledger and ensure accurate bookkeeping. Monitor financial performance against targets and provide variance analysis. Manage credit risk assessment and loan appraisal processes. Process payroll and manage employee reimbursements. Liaise with banks, regulators, and financial institutions. Monitor market trends and provide investment recommendations. Prepare annual reports and investor presentations",
+    "benefits": "Flexible working hours. Competitive salary with performance-linked incentives. Provident Fund and Gratuity as per company policy. Meal coupons and food allowance. Company-sponsored certifications. Transportation and conveyance allowance",
+    "industry": "finance",
+    "occupationalCategory": "Financial Analyst",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, Competitive salary with performance-linked incentives, Provident Fund and Gratuity as per company policy, Meal coupons and food allowance, Company-sponsored certifications, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "We at NABARD are looking for an experienced Financial Analyst based out of Ranchi. If you are a result-oriented professional with a passion for excellence, we w",
+    "keywords": "Financial Analyst, NABARD, jobs in Ranchi, Jharkhand jobs, finance jobs India, Tally, MS Excel, IFRS, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:38:03.355Z",
+  "page": 50
+}
