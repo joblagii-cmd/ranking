@@ -1,0 +1,93 @@
+{
+  "slug": "db-schenker-india-logistics-manager-hyderabad-2026-05-22-0",
+  "title": "Immediate Requirement Logistics Manager at DB Schenker India",
+  "company": "DB Schenker India",
+  "industry": "logistics",
+  "role": "Logistics Manager",
+  "location": {
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "SAP SCM",
+    "Data Analytics",
+    "TMS",
+    "Cold Chain Logistics",
+    "Customs Clearance",
+    "Inventory Management",
+    "ERP Systems",
+    "Fleet Management"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Immediate Requirement Logistics Manager at DB Schenker India",
+    "description": "DB Schenker India invites applications from qualified candidates for the position of Logistics Manager at our Hyderabad location. This role offers excellent career advancement prospects.\n\nAbout DB Schenker India:\nDB Schenker India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with warehousing teams for inbound and outbound operations\n• Handle customs clearance for import and export shipments\n• Manage a fleet of vehicles and coordinate with drivers\n• Prepare MIS reports on delivery performance and SLA adherence\n• Manage reverse logistics and return merchandise authorization\n• Oversee end-to-end logistics operations for timely delivery\n• Conduct periodic vendor audits and evaluate logistics partners\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 12-20 years of relevant experience\n• Proficiency in SAP SCM\n• Proficiency in Data Analytics\n• Proficiency in TMS\n• Proficiency in Cold Chain Logistics\n• Proficiency in Customs Clearance\n• Proficiency in Inventory Management\n• Proficiency in ERP Systems\n• Proficiency in Fleet Management\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Maternity and paternity leave\n• Referral bonus program\n• Modern office with recreational facilities\n• Life and accident insurance\n• Comprehensive health insurance for self and family\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Hyderabad, Telangana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with DB Schenker India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "DB Schenker India",
+      "value": "818-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "DB Schenker India",
+      "sameAs": "https://www.google.com/search?q=DB%20Schenker%20India",
+      "logo": "https://logo.clearbit.com/dbschenkerindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "DB Schenker India Office",
+        "addressLocality": "Hyderabad",
+        "addressRegion": "Telangana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "SAP SCM, Data Analytics, TMS, Cold Chain Logistics, Customs Clearance, Inventory Management, ERP Systems, Fleet Management",
+    "responsibilities": "Coordinate with warehousing teams for inbound and outbound operations. Handle customs clearance for import and export shipments. Manage a fleet of vehicles and coordinate with drivers. Prepare MIS reports on delivery performance and SLA adherence. Manage reverse logistics and return merchandise authorization. Oversee end-to-end logistics operations for timely delivery. Conduct periodic vendor audits and evaluate logistics partners",
+    "benefits": "Competitive salary with performance-linked incentives. Maternity and paternity leave. Referral bonus program. Modern office with recreational facilities. Life and accident insurance. Comprehensive health insurance for self and family",
+    "industry": "logistics",
+    "occupationalCategory": "Logistics Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Maternity and paternity leave, Referral bonus program, Modern office with recreational facilities, Life and accident insurance, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "DB Schenker India invites applications from qualified candidates for the position of Logistics Manager at our Hyderabad location. This role offers excellent car",
+    "keywords": "Logistics Manager, DB Schenker India, jobs in Hyderabad, Telangana jobs, logistics jobs India, SAP SCM, Data Analytics, TMS, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:57:31.228Z",
+  "page": 204
+}
