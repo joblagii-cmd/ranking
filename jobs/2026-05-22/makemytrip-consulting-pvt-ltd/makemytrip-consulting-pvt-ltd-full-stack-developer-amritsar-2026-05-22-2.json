@@ -1,0 +1,93 @@
+{
+  "slug": "makemytrip-consulting-pvt-ltd-full-stack-developer-amritsar-2026-05-22-2",
+  "title": "MakeMyTrip Consulting Pvt Ltd is Hiring: Full Stack Developer (Junior)",
+  "company": "MakeMyTrip Consulting Pvt Ltd",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Amritsar",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "CI/CD",
+    "Go",
+    "REST APIs",
+    "Git",
+    "JavaScript",
+    "Python",
+    "AWS",
+    "Agile/Scrum"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "MakeMyTrip Consulting Pvt Ltd is Hiring: Full Stack Developer (Junior)",
+    "description": "We at MakeMyTrip Consulting Pvt Ltd are looking for an experienced Full Stack Developer based out of Amritsar. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout MakeMyTrip Consulting Pvt Ltd:\nMakeMyTrip Consulting Pvt Ltd is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Integrate third-party APIs and services\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Ensure code security and follow best practices for data protection\n• Write clean, maintainable, and well-documented code\n• Participate in on-call rotation for production support\n• Collaborate with cross-functional teams including product, design, and QA\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 1-3 years of relevant experience\n• Proficiency in CI/CD\n• Proficiency in Go\n• Proficiency in REST APIs\n• Proficiency in Git\n• Proficiency in JavaScript\n• Proficiency in Python\n• Proficiency in AWS\n• Proficiency in Agile/Scrum\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Modern office with recreational facilities\n• Mobile and internet reimbursement\n• Work-from-home flexibility\n• Competitive salary with performance-linked incentives\n• Learning & development budget\n• Referral bonus program\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Amritsar, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with MakeMyTrip Consulting Pvt Ltd!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "MakeMyTrip Consulting Pvt Ltd",
+      "value": "1861-2-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "MakeMyTrip Consulting Pvt Ltd",
+      "sameAs": "https://www.google.com/search?q=MakeMyTrip%20Consulting%20Pvt%20Ltd",
+      "logo": "https://logo.clearbit.com/makemytripconsultingpvtltd.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "MakeMyTrip Consulting Pvt Ltd Office",
+        "addressLocality": "Amritsar",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "CI/CD, Go, REST APIs, Git, JavaScript, Python, AWS, Agile/Scrum",
+    "responsibilities": "Design, develop and maintain scalable software applications. Integrate third-party APIs and services. Work with agile methodologies including daily stand-ups and sprint planning. Ensure code security and follow best practices for data protection. Write clean, maintainable, and well-documented code. Participate in on-call rotation for production support. Collaborate with cross-functional teams including product, design, and QA",
+    "benefits": "Modern office with recreational facilities. Mobile and internet reimbursement. Work-from-home flexibility. Competitive salary with performance-linked incentives. Learning & development budget. Referral bonus program",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Modern office with recreational facilities, Mobile and internet reimbursement, Work-from-home flexibility, Competitive salary with performance-linked incentives, Learning & development budget, Referral bonus program"
+  },
+  "meta": {
+    "description": "We at MakeMyTrip Consulting Pvt Ltd are looking for an experienced Full Stack Developer based out of Amritsar. If you are a result-oriented professional with a ",
+    "keywords": "Full Stack Developer, MakeMyTrip Consulting Pvt Ltd, jobs in Amritsar, Punjab jobs, technology jobs India, CI/CD, Go, REST APIs, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:54:21.746Z",
+  "page": 465
+}

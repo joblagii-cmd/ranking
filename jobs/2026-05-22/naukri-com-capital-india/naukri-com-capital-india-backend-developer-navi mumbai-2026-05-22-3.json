@@ -1,0 +1,93 @@
+{
+  "slug": "naukri-com-capital-india-backend-developer-navi mumbai-2026-05-22-3",
+  "title": "Backend Developer Vacancy at Naukri.com Capital India - 2026 Batch",
+  "company": "Naukri.com Capital India",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Agile/Scrum",
+    "CI/CD",
+    "Git",
+    "Rust",
+    "Java",
+    "REST APIs",
+    "Python",
+    "Node.js"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Naukri.com Capital India - 2026 Batch",
+    "description": "Naukri.com Capital India has an exciting opening for a Backend Developer at our Navi Mumbai office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Naukri.com Capital India:\nNaukri.com Capital India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Design, develop and maintain scalable software applications\n• Participate in on-call rotation for production support\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Implement new features based on product requirements\n• Write clean, maintainable, and well-documented code\n• Ensure code security and follow best practices for data protection\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 10-15 years of relevant experience\n• Proficiency in Agile/Scrum\n• Proficiency in CI/CD\n• Proficiency in Git\n• Proficiency in Rust\n• Proficiency in Java\n• Proficiency in REST APIs\n• Proficiency in Python\n• Proficiency in Node.js\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Professional development and training programs\n• Work-from-home flexibility\n• Flexible working hours\n• Comprehensive health insurance for self and family\n• Maternity and paternity leave\n• Recognition and rewards programs\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Navi Mumbai, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Naukri.com Capital India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Naukri.com Capital India",
+      "value": "1863-3-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Naukri.com Capital India",
+      "sameAs": "https://www.google.com/search?q=Naukri.com%20Capital%20India",
+      "logo": "https://logo.clearbit.com/naukricomcapitalindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Naukri.com Capital India Office",
+        "addressLocality": "Navi Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Agile/Scrum, CI/CD, Git, Rust, Java, REST APIs, Python, Node.js",
+    "responsibilities": "Troubleshoot, debug, and resolve software defects and performance issues. Design, develop and maintain scalable software applications. Participate in on-call rotation for production support. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Implement new features based on product requirements. Write clean, maintainable, and well-documented code. Ensure code security and follow best practices for data protection",
+    "benefits": "Professional development and training programs. Work-from-home flexibility. Flexible working hours. Comprehensive health insurance for self and family. Maternity and paternity leave. Recognition and rewards programs",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Work-from-home flexibility, Flexible working hours, Comprehensive health insurance for self and family, Maternity and paternity leave, Recognition and rewards programs"
+  },
+  "meta": {
+    "description": "Naukri.com Capital India has an exciting opening for a Backend Developer at our Navi Mumbai office. Join a company that values innovation, collaboration, and co",
+    "keywords": "Backend Developer, Naukri.com Capital India, jobs in Navi Mumbai, Maharashtra jobs, technology jobs India, Agile/Scrum, CI/CD, Git, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:54:21.747Z",
+  "page": 465
+}

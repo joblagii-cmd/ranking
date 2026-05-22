@@ -1,0 +1,93 @@
+{
+  "slug": "naukri-com-capital-india-full-stack-developer-navi mumbai-2026-05-22-2",
+  "title": "Naukri.com Capital India is Hiring: Full Stack Developer (Junior)",
+  "company": "Naukri.com Capital India",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Agile/Scrum",
+    "Git",
+    "TypeScript",
+    "Rust",
+    "Kubernetes",
+    "Java",
+    "REST APIs",
+    "TensorFlow"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Naukri.com Capital India is Hiring: Full Stack Developer (Junior)",
+    "description": "Naukri.com Capital India has an exciting opening for a Full Stack Developer at our Navi Mumbai office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Naukri.com Capital India:\nNaukri.com Capital India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure code security and follow best practices for data protection\n• Design, develop and maintain scalable software applications\n• Optimize application performance and ensure high availability\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Participate in on-call rotation for production support\n• Participate in code reviews and contribute to technical discussions\n• Implement new features based on product requirements\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 12-20 years of relevant experience\n• Proficiency in Agile/Scrum\n• Proficiency in Git\n• Proficiency in TypeScript\n• Proficiency in Rust\n• Proficiency in Kubernetes\n• Proficiency in Java\n• Proficiency in REST APIs\n• Proficiency in TensorFlow\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Annual paid leaves and casual leaves\n• Provident Fund and Gratuity as per company policy\n• Learning & development budget\n• Work-from-home flexibility\n• International travel opportunities for senior roles\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Navi Mumbai, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Naukri.com Capital India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Naukri.com Capital India",
+      "value": "1863-2-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Naukri.com Capital India",
+      "sameAs": "https://www.google.com/search?q=Naukri.com%20Capital%20India",
+      "logo": "https://logo.clearbit.com/naukricomcapitalindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Naukri.com Capital India Office",
+        "addressLocality": "Navi Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Agile/Scrum, Git, TypeScript, Rust, Kubernetes, Java, REST APIs, TensorFlow",
+    "responsibilities": "Ensure code security and follow best practices for data protection. Design, develop and maintain scalable software applications. Optimize application performance and ensure high availability. Work with agile methodologies including daily stand-ups and sprint planning. Participate in on-call rotation for production support. Participate in code reviews and contribute to technical discussions. Implement new features based on product requirements",
+    "benefits": "Transportation and conveyance allowance. Annual paid leaves and casual leaves. Provident Fund and Gratuity as per company policy. Learning & development budget. Work-from-home flexibility. International travel opportunities for senior roles",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Annual paid leaves and casual leaves, Provident Fund and Gratuity as per company policy, Learning & development budget, Work-from-home flexibility, International travel opportunities for senior roles"
+  },
+  "meta": {
+    "description": "Naukri.com Capital India has an exciting opening for a Full Stack Developer at our Navi Mumbai office. Join a company that values innovation, collaboration, and",
+    "keywords": "Full Stack Developer, Naukri.com Capital India, jobs in Navi Mumbai, Maharashtra jobs, technology jobs India, Agile/Scrum, Git, TypeScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:54:21.747Z",
+  "page": 465
+}

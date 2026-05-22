@@ -1,0 +1,94 @@
+{
+  "slug": "indiamart-advisory-limited-frontend-developer-navi mumbai-2026-05-22-4",
+  "title": "Junior Frontend Developer at IndiaMart Advisory Limited",
+  "company": "IndiaMart Advisory Limited",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "React",
+    "JavaScript",
+    "AWS",
+    "TensorFlow",
+    "Kubernetes",
+    "Go",
+    "Python",
+    "Java"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Junior Frontend Developer at IndiaMart Advisory Limited",
+    "description": "IndiaMart Advisory Limited has an exciting opening for a Frontend Developer at our Navi Mumbai office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout IndiaMart Advisory Limited:\nIndiaMart Advisory Limited is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Ensure code security and follow best practices for data protection\n• Implement new features based on product requirements\n• Collaborate with cross-functional teams including product, design, and QA\n• Contribute to system architecture and technical design decisions\n• Participate in code reviews and contribute to technical discussions\n• Write and execute unit tests and integration tests\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 10-15 years of relevant experience\n• Proficiency in React\n• Proficiency in JavaScript\n• Proficiency in AWS\n• Proficiency in TensorFlow\n• Proficiency in Kubernetes\n• Proficiency in Go\n• Proficiency in Python\n• Proficiency in Java\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Professional development and training programs\n• Flexible working hours\n• Provident Fund and Gratuity as per company policy\n• Work-from-home flexibility\n• Life and accident insurance\n• Recognition and rewards programs\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Navi Mumbai, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with IndiaMart Advisory Limited!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "IndiaMart Advisory Limited",
+      "value": "1862-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "IndiaMart Advisory Limited",
+      "sameAs": "https://www.google.com/search?q=IndiaMart%20Advisory%20Limited",
+      "logo": "https://logo.clearbit.com/indiamartadvisorylimited.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "IndiaMart Advisory Limited Office",
+        "addressLocality": "Navi Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "React, JavaScript, AWS, TensorFlow, Kubernetes, Go, Python, Java",
+    "responsibilities": "Troubleshoot, debug, and resolve software defects and performance issues. Ensure code security and follow best practices for data protection. Implement new features based on product requirements. Collaborate with cross-functional teams including product, design, and QA. Contribute to system architecture and technical design decisions. Participate in code reviews and contribute to technical discussions. Write and execute unit tests and integration tests",
+    "benefits": "Professional development and training programs. Flexible working hours. Provident Fund and Gratuity as per company policy. Work-from-home flexibility. Life and accident insurance. Recognition and rewards programs",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Flexible working hours, Provident Fund and Gratuity as per company policy, Work-from-home flexibility, Life and accident insurance, Recognition and rewards programs"
+  },
+  "meta": {
+    "description": "IndiaMart Advisory Limited has an exciting opening for a Frontend Developer at our Navi Mumbai office. Join a company that values innovation, collaboration, and",
+    "keywords": "Frontend Developer, IndiaMart Advisory Limited, jobs in Navi Mumbai, Maharashtra jobs, technology jobs India, React, JavaScript, AWS, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:54:21.747Z",
+  "page": 465
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "indiamart-advisory-limited-backend-developer-navi mumbai-2026-05-22-3",
+  "title": "Backend Developer Vacancy at IndiaMart Advisory Limited - 2026 Batch",
+  "company": "IndiaMart Advisory Limited",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "JavaScript",
+    "React",
+    "MongoDB",
+    "TensorFlow",
+    "SQL",
+    "Machine Learning",
+    "Node.js",
+    "AWS"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at IndiaMart Advisory Limited - 2026 Batch",
+    "description": "IndiaMart Advisory Limited has an exciting opening for a Backend Developer at our Navi Mumbai office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout IndiaMart Advisory Limited:\nIndiaMart Advisory Limited is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Design, develop and maintain scalable software applications\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Integrate third-party APIs and services\n• Contribute to system architecture and technical design decisions\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Write and execute unit tests and integration tests\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 12-20 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in React\n• Proficiency in MongoDB\n• Proficiency in TensorFlow\n• Proficiency in SQL\n• Proficiency in Machine Learning\n• Proficiency in Node.js\n• Proficiency in AWS\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Life and accident insurance\n• Company-sponsored certifications\n• Flexible working hours\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Professional development and training programs\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Navi Mumbai, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with IndiaMart Advisory Limited!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "IndiaMart Advisory Limited",
+      "value": "1862-3-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "IndiaMart Advisory Limited",
+      "sameAs": "https://www.google.com/search?q=IndiaMart%20Advisory%20Limited",
+      "logo": "https://logo.clearbit.com/indiamartadvisorylimited.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "IndiaMart Advisory Limited Office",
+        "addressLocality": "Navi Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "JavaScript, React, MongoDB, TensorFlow, SQL, Machine Learning, Node.js, AWS",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Design, develop and maintain scalable software applications. Troubleshoot, debug, and resolve software defects and performance issues. Integrate third-party APIs and services. Contribute to system architecture and technical design decisions. Work with agile methodologies including daily stand-ups and sprint planning. Write and execute unit tests and integration tests",
+    "benefits": "Life and accident insurance. Company-sponsored certifications. Flexible working hours. Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Professional development and training programs",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Company-sponsored certifications, Flexible working hours, Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Professional development and training programs"
+  },
+  "meta": {
+    "description": "IndiaMart Advisory Limited has an exciting opening for a Backend Developer at our Navi Mumbai office. Join a company that values innovation, collaboration, and ",
+    "keywords": "Backend Developer, IndiaMart Advisory Limited, jobs in Navi Mumbai, Maharashtra jobs, technology jobs India, JavaScript, React, MongoDB, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:54:21.747Z",
+  "page": 465
+}

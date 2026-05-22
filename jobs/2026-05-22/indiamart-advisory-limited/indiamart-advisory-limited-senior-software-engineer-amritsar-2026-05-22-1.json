@@ -1,0 +1,93 @@
+{
+  "slug": "indiamart-advisory-limited-senior-software-engineer-amritsar-2026-05-22-1",
+  "title": "Senior Software Engineer - IndiaMart Advisory Limited - Freshers Welcome",
+  "company": "IndiaMart Advisory Limited",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Amritsar",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Kubernetes",
+    "SQL",
+    "Git",
+    "Node.js",
+    "MongoDB",
+    "Docker",
+    "React",
+    "Rust"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - IndiaMart Advisory Limited - Freshers Welcome",
+    "description": "We at IndiaMart Advisory Limited are looking for an experienced Senior Software Engineer based out of Amritsar. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout IndiaMart Advisory Limited:\nIndiaMart Advisory Limited is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Implement new features based on product requirements\n• Contribute to system architecture and technical design decisions\n• Integrate third-party APIs and services\n• Optimize application performance and ensure high availability\n• Write and execute unit tests and integration tests\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Participate in on-call rotation for production support\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 1-3 years of relevant experience\n• Proficiency in Kubernetes\n• Proficiency in SQL\n• Proficiency in Git\n• Proficiency in Node.js\n• Proficiency in MongoDB\n• Proficiency in Docker\n• Proficiency in React\n• Proficiency in Rust\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Comprehensive health insurance for self and family\n• Flexible working hours\n• Competitive salary with performance-linked incentives\n• Mobile and internet reimbursement\n• Professional development and training programs\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Amritsar, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with IndiaMart Advisory Limited!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "IndiaMart Advisory Limited",
+      "value": "1862-1-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "IndiaMart Advisory Limited",
+      "sameAs": "https://www.google.com/search?q=IndiaMart%20Advisory%20Limited",
+      "logo": "https://logo.clearbit.com/indiamartadvisorylimited.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "IndiaMart Advisory Limited Office",
+        "addressLocality": "Amritsar",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "Kubernetes, SQL, Git, Node.js, MongoDB, Docker, React, Rust",
+    "responsibilities": "Implement new features based on product requirements. Contribute to system architecture and technical design decisions. Integrate third-party APIs and services. Optimize application performance and ensure high availability. Write and execute unit tests and integration tests. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Participate in on-call rotation for production support",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Comprehensive health insurance for self and family. Flexible working hours. Competitive salary with performance-linked incentives. Mobile and internet reimbursement. Professional development and training programs",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Comprehensive health insurance for self and family, Flexible working hours, Competitive salary with performance-linked incentives, Mobile and internet reimbursement, Professional development and training programs"
+  },
+  "meta": {
+    "description": "We at IndiaMart Advisory Limited are looking for an experienced Senior Software Engineer based out of Amritsar. If you are a result-oriented professional with a",
+    "keywords": "Senior Software Engineer, IndiaMart Advisory Limited, jobs in Amritsar, Punjab jobs, technology jobs India, Kubernetes, SQL, Git, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:54:21.747Z",
+  "page": 465
+}

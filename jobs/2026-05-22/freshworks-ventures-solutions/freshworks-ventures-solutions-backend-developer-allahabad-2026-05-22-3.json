@@ -1,0 +1,93 @@
+{
+  "slug": "freshworks-ventures-solutions-backend-developer-allahabad-2026-05-22-3",
+  "title": "Backend Developer Vacancy at Freshworks Ventures Solutions - 2026 Batch",
+  "company": "Freshworks Ventures Solutions",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Allahabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Kubernetes",
+    "AWS",
+    "Git",
+    "Java",
+    "React",
+    "Node.js",
+    "CI/CD",
+    "Docker"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Freshworks Ventures Solutions - 2026 Batch",
+    "description": "Freshworks Ventures Solutions has an exciting opening for a Backend Developer at our Allahabad office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Freshworks Ventures Solutions:\nFreshworks Ventures Solutions is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Write clean, maintainable, and well-documented code\n• Optimize application performance and ensure high availability\n• Participate in code reviews and contribute to technical discussions\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Integrate third-party APIs and services\n• Troubleshoot, debug, and resolve software defects and performance issues\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 6-10 years of relevant experience\n• Proficiency in Kubernetes\n• Proficiency in AWS\n• Proficiency in Git\n• Proficiency in Java\n• Proficiency in React\n• Proficiency in Node.js\n• Proficiency in CI/CD\n• Proficiency in Docker\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Referral bonus program\n• Annual paid leaves and casual leaves\n• Annual performance appraisal\n• Flexible working hours\n• Competitive salary with performance-linked incentives\n• Maternity and paternity leave\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Allahabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Freshworks Ventures Solutions!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Freshworks Ventures Solutions",
+      "value": "1864-3-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Freshworks Ventures Solutions",
+      "sameAs": "https://www.google.com/search?q=Freshworks%20Ventures%20Solutions",
+      "logo": "https://logo.clearbit.com/freshworksventuressolutions.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Freshworks Ventures Solutions Office",
+        "addressLocality": "Allahabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "Kubernetes, AWS, Git, Java, React, Node.js, CI/CD, Docker",
+    "responsibilities": "Design, develop and maintain scalable software applications. Write clean, maintainable, and well-documented code. Optimize application performance and ensure high availability. Participate in code reviews and contribute to technical discussions. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Integrate third-party APIs and services. Troubleshoot, debug, and resolve software defects and performance issues",
+    "benefits": "Referral bonus program. Annual paid leaves and casual leaves. Annual performance appraisal. Flexible working hours. Competitive salary with performance-linked incentives. Maternity and paternity leave",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Referral bonus program, Annual paid leaves and casual leaves, Annual performance appraisal, Flexible working hours, Competitive salary with performance-linked incentives, Maternity and paternity leave"
+  },
+  "meta": {
+    "description": "Freshworks Ventures Solutions has an exciting opening for a Backend Developer at our Allahabad office. Join a company that values innovation, collaboration, and",
+    "keywords": "Backend Developer, Freshworks Ventures Solutions, jobs in Allahabad, Uttar Pradesh jobs, technology jobs India, Kubernetes, AWS, Git, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:54:21.747Z",
+  "page": 465
+}
