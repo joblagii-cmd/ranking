@@ -1,0 +1,94 @@
+{
+  "slug": "sfc-group-logistics-manager-kolkata-2026-05-22-0",
+  "title": "Immediate Requirement Logistics Manager at SFC Group",
+  "company": "SFC Group",
+  "industry": "logistics",
+  "role": "Logistics Manager",
+  "location": {
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "WMS",
+    "Route Optimization",
+    "Last Mile Delivery",
+    "Reverse Logistics",
+    "Vendor Management",
+    "Cold Chain Logistics",
+    "Fleet Management",
+    "ERP Systems"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Immediate Requirement Logistics Manager at SFC Group",
+    "description": "SFC Group invites applications from qualified candidates for the position of Logistics Manager at our Kolkata location. This role offers excellent career advancement prospects.\n\nAbout SFC Group:\nSFC Group is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Optimize delivery routes to reduce cost and improve efficiency\n• Conduct periodic vendor audits and evaluate logistics partners\n• Manage a fleet of vehicles and coordinate with drivers\n• Manage reverse logistics and return merchandise authorization\n• Ensure proper handling, packaging, and labeling of goods\n• Coordinate with warehousing teams for inbound and outbound operations\n• Implement cost-saving initiatives in transportation and warehousing\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 3-6 years of relevant experience\n• Proficiency in WMS\n• Proficiency in Route Optimization\n• Proficiency in Last Mile Delivery\n• Proficiency in Reverse Logistics\n• Proficiency in Vendor Management\n• Proficiency in Cold Chain Logistics\n• Proficiency in Fleet Management\n• Proficiency in ERP Systems\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Learning & development budget\n• Maternity and paternity leave\n• Professional development and training programs\n• Comprehensive health insurance for self and family\n• Competitive salary with performance-linked incentives\n• Transportation and conveyance allowance\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Kolkata, West Bengal, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with SFC Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "SFC Group",
+      "value": "821-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "SFC Group",
+      "sameAs": "https://www.google.com/search?q=SFC%20Group",
+      "logo": "https://logo.clearbit.com/sfcgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "SFC Group Office",
+        "addressLocality": "Kolkata",
+        "addressRegion": "West Bengal",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "WMS, Route Optimization, Last Mile Delivery, Reverse Logistics, Vendor Management, Cold Chain Logistics, Fleet Management, ERP Systems",
+    "responsibilities": "Optimize delivery routes to reduce cost and improve efficiency. Conduct periodic vendor audits and evaluate logistics partners. Manage a fleet of vehicles and coordinate with drivers. Manage reverse logistics and return merchandise authorization. Ensure proper handling, packaging, and labeling of goods. Coordinate with warehousing teams for inbound and outbound operations. Implement cost-saving initiatives in transportation and warehousing",
+    "benefits": "Learning & development budget. Maternity and paternity leave. Professional development and training programs. Comprehensive health insurance for self and family. Competitive salary with performance-linked incentives. Transportation and conveyance allowance",
+    "industry": "logistics",
+    "occupationalCategory": "Logistics Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Learning & development budget, Maternity and paternity leave, Professional development and training programs, Comprehensive health insurance for self and family, Competitive salary with performance-linked incentives, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "SFC Group invites applications from qualified candidates for the position of Logistics Manager at our Kolkata location. This role offers excellent career advanc",
+    "keywords": "Logistics Manager, SFC Group, jobs in Kolkata, West Bengal jobs, logistics jobs India, WMS, Route Optimization, Last Mile Delivery, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:57:38.913Z",
+  "page": 205
+}
