@@ -1,0 +1,93 @@
+{
+  "slug": "oliveboard-senior-teacher-thane-2026-05-22-1",
+  "title": "Senior Teacher - Oliveboard - Work From Home Available",
+  "company": "Oliveboard",
+  "industry": "education",
+  "role": "Senior Teacher",
+  "location": {
+    "city": "Thane",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Lesson Planning",
+    "Communication Skills",
+    "Classroom Management",
+    "MS Office",
+    "Mentoring",
+    "Bloom's Taxonomy",
+    "Content Creation",
+    "LMS Platforms"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Teacher - Oliveboard - Work From Home Available",
+    "description": "Oliveboard invites applications from qualified candidates for the position of Senior Teacher at our Thane location. This role offers excellent career advancement prospects.\n\nAbout Oliveboard:\nOliveboard is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Contribute to school newsletter, blogs, and other publications\n• Participate in teacher training and professional development programs\n• Utilize technology and digital tools to enhance learning outcomes\n• Participate in school events, workshops, and training programs\n• Design formative and summative assessments aligned to learning objectives\n• Collaborate with faculty on curriculum development initiatives\n• Maintain classroom discipline and create a positive learning environment\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 6-10 years of relevant experience\n• Proficiency in Lesson Planning\n• Proficiency in Communication Skills\n• Proficiency in Classroom Management\n• Proficiency in MS Office\n• Proficiency in Mentoring\n• Proficiency in Bloom's Taxonomy\n• Proficiency in Content Creation\n• Proficiency in LMS Platforms\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Mobile and internet reimbursement\n• Annual paid leaves and casual leaves\n• Recognition and rewards programs\n• Employee stock options (ESOPs) for eligible roles\n• Work-from-home flexibility\n• Life and accident insurance\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Thane, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Oliveboard!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Oliveboard",
+      "value": "585-1-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Oliveboard",
+      "sameAs": "https://www.google.com/search?q=Oliveboard",
+      "logo": "https://logo.clearbit.com/oliveboard.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Oliveboard Office",
+        "addressLocality": "Thane",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "Lesson Planning, Communication Skills, Classroom Management, MS Office, Mentoring, Bloom's Taxonomy, Content Creation, LMS Platforms",
+    "responsibilities": "Contribute to school newsletter, blogs, and other publications. Participate in teacher training and professional development programs. Utilize technology and digital tools to enhance learning outcomes. Participate in school events, workshops, and training programs. Design formative and summative assessments aligned to learning objectives. Collaborate with faculty on curriculum development initiatives. Maintain classroom discipline and create a positive learning environment",
+    "benefits": "Mobile and internet reimbursement. Annual paid leaves and casual leaves. Recognition and rewards programs. Employee stock options (ESOPs) for eligible roles. Work-from-home flexibility. Life and accident insurance",
+    "industry": "education",
+    "occupationalCategory": "Senior Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Mobile and internet reimbursement, Annual paid leaves and casual leaves, Recognition and rewards programs, Employee stock options (ESOPs) for eligible roles, Work-from-home flexibility, Life and accident insurance"
+  },
+  "meta": {
+    "description": "Oliveboard invites applications from qualified candidates for the position of Senior Teacher at our Thane location. This role offers excellent career advancemen",
+    "keywords": "Senior Teacher, Oliveboard, jobs in Thane, Maharashtra jobs, education jobs India, Lesson Planning, Communication Skills, Classroom Management, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:50:10.389Z",
+  "page": 146
+}

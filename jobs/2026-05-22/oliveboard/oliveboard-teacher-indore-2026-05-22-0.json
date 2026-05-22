@@ -1,0 +1,93 @@
+{
+  "slug": "oliveboard-teacher-indore-2026-05-22-0",
+  "title": "Career Opportunity Teacher at Oliveboard",
+  "company": "Oliveboard",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "CBSE/ICSE Standards",
+    "Child Psychology",
+    "Curriculum Development",
+    "Lesson Planning",
+    "IB Curriculum",
+    "Educational Technology",
+    "Data Analysis",
+    "Special Education"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Career Opportunity Teacher at Oliveboard",
+    "description": "Oliveboard invites applications from qualified candidates for the position of Teacher at our Indore location. This role offers excellent career advancement prospects.\n\nAbout Oliveboard:\nOliveboard is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Develop and deliver engaging lesson plans for students\n• Participate in school events, workshops, and training programs\n• Utilize technology and digital tools to enhance learning outcomes\n• Contribute to school newsletter, blogs, and other publications\n• Participate in teacher training and professional development programs\n• Create curriculum-aligned learning materials and assessments\n• Design formative and summative assessments aligned to learning objectives\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 10-15 years of relevant experience\n• Proficiency in CBSE/ICSE Standards\n• Proficiency in Child Psychology\n• Proficiency in Curriculum Development\n• Proficiency in Lesson Planning\n• Proficiency in IB Curriculum\n• Proficiency in Educational Technology\n• Proficiency in Data Analysis\n• Proficiency in Special Education\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Professional development and training programs\n• Maternity and paternity leave\n• Annual paid leaves and casual leaves\n• Provident Fund and Gratuity as per company policy\n• Flexible working hours\n• Referral bonus program\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Indore, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Oliveboard!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Oliveboard",
+      "value": "585-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Oliveboard",
+      "sameAs": "https://www.google.com/search?q=Oliveboard",
+      "logo": "https://logo.clearbit.com/oliveboard.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Oliveboard Office",
+        "addressLocality": "Indore",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "CBSE/ICSE Standards, Child Psychology, Curriculum Development, Lesson Planning, IB Curriculum, Educational Technology, Data Analysis, Special Education",
+    "responsibilities": "Develop and deliver engaging lesson plans for students. Participate in school events, workshops, and training programs. Utilize technology and digital tools to enhance learning outcomes. Contribute to school newsletter, blogs, and other publications. Participate in teacher training and professional development programs. Create curriculum-aligned learning materials and assessments. Design formative and summative assessments aligned to learning objectives",
+    "benefits": "Professional development and training programs. Maternity and paternity leave. Annual paid leaves and casual leaves. Provident Fund and Gratuity as per company policy. Flexible working hours. Referral bonus program",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Maternity and paternity leave, Annual paid leaves and casual leaves, Provident Fund and Gratuity as per company policy, Flexible working hours, Referral bonus program"
+  },
+  "meta": {
+    "description": "Oliveboard invites applications from qualified candidates for the position of Teacher at our Indore location. This role offers excellent career advancement pros",
+    "keywords": "Teacher, Oliveboard, jobs in Indore, Madhya Pradesh jobs, education jobs India, CBSE/ICSE Standards, Child Psychology, Curriculum Development, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:50:10.389Z",
+  "page": 146
+}
