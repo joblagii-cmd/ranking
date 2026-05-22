@@ -1,0 +1,94 @@
+{
+  "slug": "ecil-south-asia-partners-frontend-developer-kochi-2026-05-22-4",
+  "title": "Mid-Level Frontend Developer at ECIL South Asia Partners",
+  "company": "ECIL South Asia Partners",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Kochi",
+    "state": "Kerala",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Machine Learning",
+    "React",
+    "Microservices",
+    "TypeScript",
+    "Kubernetes",
+    "Go",
+    "MongoDB",
+    "Git"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Frontend Developer at ECIL South Asia Partners",
+    "description": "ECIL South Asia Partners has an exciting opening for a Frontend Developer at our Kochi office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout ECIL South Asia Partners:\nECIL South Asia Partners is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write clean, maintainable, and well-documented code\n• Contribute to system architecture and technical design decisions\n• Collaborate with cross-functional teams including product, design, and QA\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Design, develop and maintain scalable software applications\n• Ensure code security and follow best practices for data protection\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 3-6 years of relevant experience\n• Proficiency in Machine Learning\n• Proficiency in React\n• Proficiency in Microservices\n• Proficiency in TypeScript\n• Proficiency in Kubernetes\n• Proficiency in Go\n• Proficiency in MongoDB\n• Proficiency in Git\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Annual performance appraisal\n• Recognition and rewards programs\n• Annual paid leaves and casual leaves\n• Company-sponsored certifications\n• Life and accident insurance\n• Transportation and conveyance allowance\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Kochi, Kerala, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with ECIL South Asia Partners!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "ECIL South Asia Partners",
+      "value": "1880-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "ECIL South Asia Partners",
+      "sameAs": "https://www.google.com/search?q=ECIL%20South%20Asia%20Partners",
+      "logo": "https://logo.clearbit.com/ecilsouthasiapartners.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "ECIL South Asia Partners Office",
+        "addressLocality": "Kochi",
+        "addressRegion": "Kerala",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Machine Learning, React, Microservices, TypeScript, Kubernetes, Go, MongoDB, Git",
+    "responsibilities": "Write clean, maintainable, and well-documented code. Contribute to system architecture and technical design decisions. Collaborate with cross-functional teams including product, design, and QA. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Troubleshoot, debug, and resolve software defects and performance issues. Design, develop and maintain scalable software applications. Ensure code security and follow best practices for data protection",
+    "benefits": "Annual performance appraisal. Recognition and rewards programs. Annual paid leaves and casual leaves. Company-sponsored certifications. Life and accident insurance. Transportation and conveyance allowance",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual performance appraisal, Recognition and rewards programs, Annual paid leaves and casual leaves, Company-sponsored certifications, Life and accident insurance, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "ECIL South Asia Partners has an exciting opening for a Frontend Developer at our Kochi office. Join a company that values innovation, collaboration, and continu",
+    "keywords": "Frontend Developer, ECIL South Asia Partners, jobs in Kochi, Kerala jobs, technology jobs India, Machine Learning, React, Microservices, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:54:55.028Z",
+  "page": 469
+}

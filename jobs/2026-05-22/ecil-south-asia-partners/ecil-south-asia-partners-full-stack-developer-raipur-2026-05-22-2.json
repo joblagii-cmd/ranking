@@ -1,0 +1,93 @@
+{
+  "slug": "ecil-south-asia-partners-full-stack-developer-raipur-2026-05-22-2",
+  "title": "ECIL South Asia Partners is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "ECIL South Asia Partners",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Raipur",
+    "state": "Chhattisgarh",
+    "region": "Central India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "JavaScript",
+    "Microservices",
+    "AWS",
+    "Machine Learning",
+    "TensorFlow",
+    "Agile/Scrum",
+    "MongoDB",
+    "Rust"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "ECIL South Asia Partners is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "ECIL South Asia Partners has an exciting opening for a Full Stack Developer at our Raipur office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout ECIL South Asia Partners:\nECIL South Asia Partners is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Contribute to system architecture and technical design decisions\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Participate in code reviews and contribute to technical discussions\n• Design, develop and maintain scalable software applications\n• Participate in on-call rotation for production support\n• Implement new features based on product requirements\n• Optimize application performance and ensure high availability\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 10-15 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Microservices\n• Proficiency in AWS\n• Proficiency in Machine Learning\n• Proficiency in TensorFlow\n• Proficiency in Agile/Scrum\n• Proficiency in MongoDB\n• Proficiency in Rust\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Company-sponsored certifications\n• Meal coupons and food allowance\n• Flexible working hours\n• Life and accident insurance\n• Modern office with recreational facilities\n• International travel opportunities for senior roles\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Raipur, Chhattisgarh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with ECIL South Asia Partners!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "ECIL South Asia Partners",
+      "value": "1880-2-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "ECIL South Asia Partners",
+      "sameAs": "https://www.google.com/search?q=ECIL%20South%20Asia%20Partners",
+      "logo": "https://logo.clearbit.com/ecilsouthasiapartners.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "ECIL South Asia Partners Office",
+        "addressLocality": "Raipur",
+        "addressRegion": "Chhattisgarh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "JavaScript, Microservices, AWS, Machine Learning, TensorFlow, Agile/Scrum, MongoDB, Rust",
+    "responsibilities": "Contribute to system architecture and technical design decisions. Mentor junior developers and conduct knowledge-sharing sessions. Participate in code reviews and contribute to technical discussions. Design, develop and maintain scalable software applications. Participate in on-call rotation for production support. Implement new features based on product requirements. Optimize application performance and ensure high availability",
+    "benefits": "Company-sponsored certifications. Meal coupons and food allowance. Flexible working hours. Life and accident insurance. Modern office with recreational facilities. International travel opportunities for senior roles",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Company-sponsored certifications, Meal coupons and food allowance, Flexible working hours, Life and accident insurance, Modern office with recreational facilities, International travel opportunities for senior roles"
+  },
+  "meta": {
+    "description": "ECIL South Asia Partners has an exciting opening for a Full Stack Developer at our Raipur office. Join a company that values innovation, collaboration, and cont",
+    "keywords": "Full Stack Developer, ECIL South Asia Partners, jobs in Raipur, Chhattisgarh jobs, technology jobs India, JavaScript, Microservices, AWS, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:54:55.028Z",
+  "page": 469
+}

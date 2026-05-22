@@ -1,0 +1,93 @@
+{
+  "slug": "tata-elxsi-global-group-frontend-developer-madurai-2026-05-22-4",
+  "title": "Mid-Level Frontend Developer at Tata Elxsi Global Group",
+  "company": "Tata Elxsi Global Group",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Madurai",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "JavaScript",
+    "Kubernetes",
+    "Agile/Scrum",
+    "MongoDB",
+    "Node.js",
+    "REST APIs",
+    "Docker",
+    "TypeScript"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Frontend Developer at Tata Elxsi Global Group",
+    "description": "Tata Elxsi Global Group has an exciting opening for a Frontend Developer at our Madurai office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Tata Elxsi Global Group:\nTata Elxsi Global Group is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Participate in code reviews and contribute to technical discussions\n• Collaborate with cross-functional teams including product, design, and QA\n• Contribute to system architecture and technical design decisions\n• Ensure code security and follow best practices for data protection\n• Integrate third-party APIs and services\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 12-20 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Kubernetes\n• Proficiency in Agile/Scrum\n• Proficiency in MongoDB\n• Proficiency in Node.js\n• Proficiency in REST APIs\n• Proficiency in Docker\n• Proficiency in TypeScript\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Meal coupons and food allowance\n• Annual paid leaves and casual leaves\n• Company-sponsored certifications\n• Mobile and internet reimbursement\n• Provident Fund and Gratuity as per company policy\n• Annual performance appraisal\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Madurai, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Tata Elxsi Global Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Tata Elxsi Global Group",
+      "value": "1877-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Tata Elxsi Global Group",
+      "sameAs": "https://www.google.com/search?q=Tata%20Elxsi%20Global%20Group",
+      "logo": "https://logo.clearbit.com/tataelxsiglobalgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Tata Elxsi Global Group Office",
+        "addressLocality": "Madurai",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "JavaScript, Kubernetes, Agile/Scrum, MongoDB, Node.js, REST APIs, Docker, TypeScript",
+    "responsibilities": "Mentor junior developers and conduct knowledge-sharing sessions. Work with agile methodologies including daily stand-ups and sprint planning. Participate in code reviews and contribute to technical discussions. Collaborate with cross-functional teams including product, design, and QA. Contribute to system architecture and technical design decisions. Ensure code security and follow best practices for data protection. Integrate third-party APIs and services",
+    "benefits": "Meal coupons and food allowance. Annual paid leaves and casual leaves. Company-sponsored certifications. Mobile and internet reimbursement. Provident Fund and Gratuity as per company policy. Annual performance appraisal",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Meal coupons and food allowance, Annual paid leaves and casual leaves, Company-sponsored certifications, Mobile and internet reimbursement, Provident Fund and Gratuity as per company policy, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "Tata Elxsi Global Group has an exciting opening for a Frontend Developer at our Madurai office. Join a company that values innovation, collaboration, and contin",
+    "keywords": "Frontend Developer, Tata Elxsi Global Group, jobs in Madurai, Tamil Nadu jobs, technology jobs India, JavaScript, Kubernetes, Agile/Scrum, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:54:55.028Z",
+  "page": 469
+}

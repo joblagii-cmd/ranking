@@ -1,0 +1,93 @@
+{
+  "slug": "zensar-technologies-asia-pacific-associates-senior-software-engineer-madurai-2026-05-22-1",
+  "title": "Senior Software Engineer - Zensar Technologies Asia Pacific Associates - Freshers Welcome",
+  "company": "Zensar Technologies Asia Pacific Associates",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Madurai",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "AWS",
+    "React",
+    "CI/CD",
+    "TensorFlow",
+    "MongoDB",
+    "Docker",
+    "Rust",
+    "JavaScript"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Zensar Technologies Asia Pacific Associates - Freshers Welcome",
+    "description": "Zensar Technologies Asia Pacific Associates has an exciting opening for a Senior Software Engineer at our Madurai office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Zensar Technologies Asia Pacific Associates:\nZensar Technologies Asia Pacific Associates is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Integrate third-party APIs and services\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Implement new features based on product requirements\n• Optimize application performance and ensure high availability\n• Ensure code security and follow best practices for data protection\n• Contribute to system architecture and technical design decisions\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 0-1 years of relevant experience\n• Proficiency in AWS\n• Proficiency in React\n• Proficiency in CI/CD\n• Proficiency in TensorFlow\n• Proficiency in MongoDB\n• Proficiency in Docker\n• Proficiency in Rust\n• Proficiency in JavaScript\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Referral bonus program\n• Employee stock options (ESOPs) for eligible roles\n• Learning & development budget\n• Company-sponsored certifications\n• Life and accident insurance\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Madurai, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Zensar Technologies Asia Pacific Associates!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Zensar Technologies Asia Pacific Associates",
+      "value": "1879-1-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Zensar Technologies Asia Pacific Associates",
+      "sameAs": "https://www.google.com/search?q=Zensar%20Technologies%20Asia%20Pacific%20Associates",
+      "logo": "https://logo.clearbit.com/zensartechnologiesasiapacificassociates.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Zensar Technologies Asia Pacific Associates Office",
+        "addressLocality": "Madurai",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "AWS, React, CI/CD, TensorFlow, MongoDB, Docker, Rust, JavaScript",
+    "responsibilities": "Work with agile methodologies including daily stand-ups and sprint planning. Integrate third-party APIs and services. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Implement new features based on product requirements. Optimize application performance and ensure high availability. Ensure code security and follow best practices for data protection. Contribute to system architecture and technical design decisions",
+    "benefits": "Provident Fund and Gratuity as per company policy. Referral bonus program. Employee stock options (ESOPs) for eligible roles. Learning & development budget. Company-sponsored certifications. Life and accident insurance",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Referral bonus program, Employee stock options (ESOPs) for eligible roles, Learning & development budget, Company-sponsored certifications, Life and accident insurance"
+  },
+  "meta": {
+    "description": "Zensar Technologies Asia Pacific Associates has an exciting opening for a Senior Software Engineer at our Madurai office. Join a company that values innovation,",
+    "keywords": "Senior Software Engineer, Zensar Technologies Asia Pacific Associates, jobs in Madurai, Tamil Nadu jobs, technology jobs India, AWS, React, CI/CD, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:54:55.028Z",
+  "page": 469
+}

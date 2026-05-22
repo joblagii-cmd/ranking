@@ -1,0 +1,93 @@
+{
+  "slug": "zensar-technologies-asia-pacific-associates-frontend-developer-raipur-2026-05-22-4",
+  "title": "Mid-Level Frontend Developer at Zensar Technologies Asia Pacific Associates",
+  "company": "Zensar Technologies Asia Pacific Associates",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Raipur",
+    "state": "Chhattisgarh",
+    "region": "Central India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Docker",
+    "JavaScript",
+    "REST APIs",
+    "TensorFlow",
+    "Agile/Scrum",
+    "Machine Learning",
+    "Go",
+    "CI/CD"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Frontend Developer at Zensar Technologies Asia Pacific Associates",
+    "description": "Zensar Technologies Asia Pacific Associates has an exciting opening for a Frontend Developer at our Raipur office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Zensar Technologies Asia Pacific Associates:\nZensar Technologies Asia Pacific Associates is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure code security and follow best practices for data protection\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in code reviews and contribute to technical discussions\n• Write and execute unit tests and integration tests\n• Contribute to system architecture and technical design decisions\n• Troubleshoot, debug, and resolve software defects and performance issues\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 6-10 years of relevant experience\n• Proficiency in Docker\n• Proficiency in JavaScript\n• Proficiency in REST APIs\n• Proficiency in TensorFlow\n• Proficiency in Agile/Scrum\n• Proficiency in Machine Learning\n• Proficiency in Go\n• Proficiency in CI/CD\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• Life and accident insurance\n• Learning & development budget\n• Mobile and internet reimbursement\n• Competitive salary with performance-linked incentives\n• Annual performance appraisal\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Raipur, Chhattisgarh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Zensar Technologies Asia Pacific Associates!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Zensar Technologies Asia Pacific Associates",
+      "value": "1879-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Zensar Technologies Asia Pacific Associates",
+      "sameAs": "https://www.google.com/search?q=Zensar%20Technologies%20Asia%20Pacific%20Associates",
+      "logo": "https://logo.clearbit.com/zensartechnologiesasiapacificassociates.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Zensar Technologies Asia Pacific Associates Office",
+        "addressLocality": "Raipur",
+        "addressRegion": "Chhattisgarh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "Docker, JavaScript, REST APIs, TensorFlow, Agile/Scrum, Machine Learning, Go, CI/CD",
+    "responsibilities": "Ensure code security and follow best practices for data protection. Work with agile methodologies including daily stand-ups and sprint planning. Collaborate with cross-functional teams including product, design, and QA. Participate in code reviews and contribute to technical discussions. Write and execute unit tests and integration tests. Contribute to system architecture and technical design decisions. Troubleshoot, debug, and resolve software defects and performance issues",
+    "benefits": "Comprehensive health insurance for self and family. Life and accident insurance. Learning & development budget. Mobile and internet reimbursement. Competitive salary with performance-linked incentives. Annual performance appraisal",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, Life and accident insurance, Learning & development budget, Mobile and internet reimbursement, Competitive salary with performance-linked incentives, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "Zensar Technologies Asia Pacific Associates has an exciting opening for a Frontend Developer at our Raipur office. Join a company that values innovation, collab",
+    "keywords": "Frontend Developer, Zensar Technologies Asia Pacific Associates, jobs in Raipur, Chhattisgarh jobs, technology jobs India, Docker, JavaScript, REST APIs, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:54:55.028Z",
+  "page": 469
+}
