@@ -1,0 +1,94 @@
+{
+  "slug": "bel-software-engineer-pune-2026-05-22-0",
+  "title": "Immediate Requirement Software Engineer at BEL",
+  "company": "BEL",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Pune",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Git",
+    "CI/CD",
+    "Microservices",
+    "TensorFlow",
+    "MongoDB",
+    "SQL",
+    "REST APIs",
+    "Kubernetes"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Immediate Requirement Software Engineer at BEL",
+    "description": "An exciting career opportunity awaits you at BEL. We are on the lookout for a dedicated Software Engineer to strengthen our Pune-based team.\n\nAbout BEL:\nBEL is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Collaborate with cross-functional teams including product, design, and QA\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Write clean, maintainable, and well-documented code\n• Optimize application performance and ensure high availability\n• Ensure code security and follow best practices for data protection\n• Write and execute unit tests and integration tests\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 12-20 years of relevant experience\n• Proficiency in Git\n• Proficiency in CI/CD\n• Proficiency in Microservices\n• Proficiency in TensorFlow\n• Proficiency in MongoDB\n• Proficiency in SQL\n• Proficiency in REST APIs\n• Proficiency in Kubernetes\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Referral bonus program\n• Modern office with recreational facilities\n• Life and accident insurance\n• Comprehensive health insurance for self and family\n• Annual performance appraisal\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Pune, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with BEL!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "BEL",
+      "value": "74-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "BEL",
+      "sameAs": "https://www.google.com/search?q=BEL",
+      "logo": "https://logo.clearbit.com/bel.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "BEL Office",
+        "addressLocality": "Pune",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "Git, CI/CD, Microservices, TensorFlow, MongoDB, SQL, REST APIs, Kubernetes",
+    "responsibilities": "Design, develop and maintain scalable software applications. Collaborate with cross-functional teams including product, design, and QA. Troubleshoot, debug, and resolve software defects and performance issues. Write clean, maintainable, and well-documented code. Optimize application performance and ensure high availability. Ensure code security and follow best practices for data protection. Write and execute unit tests and integration tests",
+    "benefits": "Competitive salary with performance-linked incentives. Referral bonus program. Modern office with recreational facilities. Life and accident insurance. Comprehensive health insurance for self and family. Annual performance appraisal",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Referral bonus program, Modern office with recreational facilities, Life and accident insurance, Comprehensive health insurance for self and family, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at BEL. We are on the lookout for a dedicated Software Engineer to strengthen our Pune-based team.",
+    "keywords": "Software Engineer, BEL, jobs in Pune, Maharashtra jobs, technology jobs India, Git, CI/CD, Microservices, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:33:55.518Z",
+  "page": 18
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "ecil-software-engineer-ahmedabad-2026-05-22-0",
+  "title": "Immediate Requirement Software Engineer at ECIL",
+  "company": "ECIL",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "TensorFlow",
+    "Machine Learning",
+    "TypeScript",
+    "Rust",
+    "Java",
+    "Docker",
+    "CI/CD",
+    "Python"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Immediate Requirement Software Engineer at ECIL",
+    "description": "An exciting career opportunity awaits you at ECIL. We are on the lookout for a dedicated Software Engineer to strengthen our Ahmedabad-based team.\n\nAbout ECIL:\nECIL is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Implement new features based on product requirements\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Collaborate with cross-functional teams including product, design, and QA\n• Integrate third-party APIs and services\n• Participate in on-call rotation for production support\n• Ensure code security and follow best practices for data protection\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 10-15 years of relevant experience\n• Proficiency in TensorFlow\n• Proficiency in Machine Learning\n• Proficiency in TypeScript\n• Proficiency in Rust\n• Proficiency in Java\n• Proficiency in Docker\n• Proficiency in CI/CD\n• Proficiency in Python\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Life and accident insurance\n• Maternity and paternity leave\n• Annual paid leaves and casual leaves\n• Work-from-home flexibility\n• Competitive salary with performance-linked incentives\n• International travel opportunities for senior roles\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Ahmedabad, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with ECIL!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "ECIL",
+      "value": "75-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "ECIL",
+      "sameAs": "https://www.google.com/search?q=ECIL",
+      "logo": "https://logo.clearbit.com/ecil.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "ECIL Office",
+        "addressLocality": "Ahmedabad",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "TensorFlow, Machine Learning, TypeScript, Rust, Java, Docker, CI/CD, Python",
+    "responsibilities": "Design, develop and maintain scalable software applications. Implement new features based on product requirements. Work with agile methodologies including daily stand-ups and sprint planning. Collaborate with cross-functional teams including product, design, and QA. Integrate third-party APIs and services. Participate in on-call rotation for production support. Ensure code security and follow best practices for data protection",
+    "benefits": "Life and accident insurance. Maternity and paternity leave. Annual paid leaves and casual leaves. Work-from-home flexibility. Competitive salary with performance-linked incentives. International travel opportunities for senior roles",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Maternity and paternity leave, Annual paid leaves and casual leaves, Work-from-home flexibility, Competitive salary with performance-linked incentives, International travel opportunities for senior roles"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at ECIL. We are on the lookout for a dedicated Software Engineer to strengthen our Ahmedabad-based team.",
+    "keywords": "Software Engineer, ECIL, jobs in Ahmedabad, Gujarat jobs, technology jobs India, TensorFlow, Machine Learning, TypeScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:33:55.519Z",
+  "page": 18
+}
