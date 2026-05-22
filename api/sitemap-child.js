@@ -19,7 +19,7 @@ async function getDates(owner, repo, token) {
         return data
           .filter(f => f.type === "dir" && /^\d{4}-\d{2}-\d{2}$/.test(f.name))
           .map(f => f.name)
-          .sort((a, b) => b.localeCompare(a));
+          .sort((a, b) => a.localeCompare(b));
       }
     }
   } catch { }
@@ -29,7 +29,7 @@ async function getDates(owner, repo, token) {
     const r = await fetch(`https://raw.githubusercontent.com/${owner}/${repo}/main/dates-index.json`);
     if (r.ok) {
       const data = await r.json();
-      if (Array.isArray(data)) return data.sort((a, b) => b.localeCompare(a));
+      if (Array.isArray(data)) return data.sort((a, b) => a.localeCompare(b));
     }
   } catch { }
 
