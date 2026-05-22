@@ -1,0 +1,94 @@
+{
+  "slug": "vmware-india-backend-developer-gwalior-2026-05-22-3",
+  "title": "Backend Developer Vacancy at VMware India - 2026 Batch",
+  "company": "VMware India",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Kubernetes",
+    "AWS",
+    "SQL",
+    "Node.js",
+    "MongoDB",
+    "Agile/Scrum",
+    "TypeScript",
+    "React"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at VMware India - 2026 Batch",
+    "description": "VMware India, one of India's leading organizations, is hiring a Backend Developer for our Gwalior operations. We offer a competitive salary package along with world-class benefits.\n\nAbout VMware India:\nVMware India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Optimize application performance and ensure high availability\n• Integrate third-party APIs and services\n• Design, develop and maintain scalable software applications\n• Write and execute unit tests and integration tests\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Contribute to system architecture and technical design decisions\n• Write clean, maintainable, and well-documented code\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 3-6 years of relevant experience\n• Proficiency in Kubernetes\n• Proficiency in AWS\n• Proficiency in SQL\n• Proficiency in Node.js\n• Proficiency in MongoDB\n• Proficiency in Agile/Scrum\n• Proficiency in TypeScript\n• Proficiency in React\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Professional development and training programs\n• Work-from-home flexibility\n• Annual performance appraisal\n• Mobile and internet reimbursement\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Gwalior, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with VMware India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "VMware India",
+      "value": "42-3-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "VMware India",
+      "sameAs": "https://www.google.com/search?q=VMware%20India",
+      "logo": "https://logo.clearbit.com/vmwareindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "VMware India Office",
+        "addressLocality": "Gwalior",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "Kubernetes, AWS, SQL, Node.js, MongoDB, Agile/Scrum, TypeScript, React",
+    "responsibilities": "Optimize application performance and ensure high availability. Integrate third-party APIs and services. Design, develop and maintain scalable software applications. Write and execute unit tests and integration tests. Mentor junior developers and conduct knowledge-sharing sessions. Contribute to system architecture and technical design decisions. Write clean, maintainable, and well-documented code",
+    "benefits": "International travel opportunities for senior roles. Professional development and training programs. Work-from-home flexibility. Annual performance appraisal. Mobile and internet reimbursement. Employee stock options (ESOPs) for eligible roles",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Professional development and training programs, Work-from-home flexibility, Annual performance appraisal, Mobile and internet reimbursement, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "VMware India, one of India's leading organizations, is hiring a Backend Developer for our Gwalior operations. We offer a competitive salary package along with w",
+    "keywords": "Backend Developer, VMware India, jobs in Gwalior, Madhya Pradesh jobs, technology jobs India, Kubernetes, AWS, SQL, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:32:53.088Z",
+  "page": 10
+}
