@@ -1,0 +1,94 @@
+{
+  "slug": "shaadi-com-global-group-full-stack-developer-ghaziabad-2026-05-22-2",
+  "title": "Shaadi.com Global Group is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "Shaadi.com Global Group",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "AWS",
+    "Kubernetes",
+    "Git",
+    "MongoDB",
+    "React",
+    "Java",
+    "Node.js",
+    "Rust"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Shaadi.com Global Group is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "Shaadi.com Global Group, one of India's leading organizations, is hiring a Full Stack Developer for our Ghaziabad operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Shaadi.com Global Group:\nShaadi.com Global Group is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Contribute to system architecture and technical design decisions\n• Ensure code security and follow best practices for data protection\n• Participate in on-call rotation for production support\n• Optimize application performance and ensure high availability\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Write clean, maintainable, and well-documented code\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 12-20 years of relevant experience\n• Proficiency in AWS\n• Proficiency in Kubernetes\n• Proficiency in Git\n• Proficiency in MongoDB\n• Proficiency in React\n• Proficiency in Java\n• Proficiency in Node.js\n• Proficiency in Rust\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Meal coupons and food allowance\n• Recognition and rewards programs\n• Company-sponsored certifications\n• Annual paid leaves and casual leaves\n• International travel opportunities for senior roles\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Ghaziabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Shaadi.com Global Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Shaadi.com Global Group",
+      "value": "1927-2-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Shaadi.com Global Group",
+      "sameAs": "https://www.google.com/search?q=Shaadi.com%20Global%20Group",
+      "logo": "https://logo.clearbit.com/shaadicomglobalgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Shaadi.com Global Group Office",
+        "addressLocality": "Ghaziabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "AWS, Kubernetes, Git, MongoDB, React, Java, Node.js, Rust",
+    "responsibilities": "Design, develop and maintain scalable software applications. Contribute to system architecture and technical design decisions. Ensure code security and follow best practices for data protection. Participate in on-call rotation for production support. Optimize application performance and ensure high availability. Mentor junior developers and conduct knowledge-sharing sessions. Write clean, maintainable, and well-documented code",
+    "benefits": "Provident Fund and Gratuity as per company policy. Meal coupons and food allowance. Recognition and rewards programs. Company-sponsored certifications. Annual paid leaves and casual leaves. International travel opportunities for senior roles",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Meal coupons and food allowance, Recognition and rewards programs, Company-sponsored certifications, Annual paid leaves and casual leaves, International travel opportunities for senior roles"
+  },
+  "meta": {
+    "description": "Shaadi.com Global Group, one of India's leading organizations, is hiring a Full Stack Developer for our Ghaziabad operations. We offer a competitive salary pack",
+    "keywords": "Full Stack Developer, Shaadi.com Global Group, jobs in Ghaziabad, Uttar Pradesh jobs, technology jobs India, AWS, Kubernetes, Git, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:56:35.388Z",
+  "page": 481
+}

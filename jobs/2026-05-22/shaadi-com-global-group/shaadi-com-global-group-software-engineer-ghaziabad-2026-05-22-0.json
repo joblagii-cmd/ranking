@@ -1,0 +1,93 @@
+{
+  "slug": "shaadi-com-global-group-software-engineer-ghaziabad-2026-05-22-0",
+  "title": "Immediate Requirement Software Engineer at Shaadi.com Global Group",
+  "company": "Shaadi.com Global Group",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "SQL",
+    "TensorFlow",
+    "Agile/Scrum",
+    "React",
+    "CI/CD",
+    "Python",
+    "REST APIs",
+    "Go"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Immediate Requirement Software Engineer at Shaadi.com Global Group",
+    "description": "Shaadi.com Global Group, one of India's leading organizations, is hiring a Software Engineer for our Ghaziabad operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Shaadi.com Global Group:\nShaadi.com Global Group is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Write clean, maintainable, and well-documented code\n• Contribute to system architecture and technical design decisions\n• Participate in on-call rotation for production support\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in code reviews and contribute to technical discussions\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 1-3 years of relevant experience\n• Proficiency in SQL\n• Proficiency in TensorFlow\n• Proficiency in Agile/Scrum\n• Proficiency in React\n• Proficiency in CI/CD\n• Proficiency in Python\n• Proficiency in REST APIs\n• Proficiency in Go\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Professional development and training programs\n• Referral bonus program\n• Recognition and rewards programs\n• Life and accident insurance\n• Employee stock options (ESOPs) for eligible roles\n• Maternity and paternity leave\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Ghaziabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Shaadi.com Global Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Shaadi.com Global Group",
+      "value": "1927-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Shaadi.com Global Group",
+      "sameAs": "https://www.google.com/search?q=Shaadi.com%20Global%20Group",
+      "logo": "https://logo.clearbit.com/shaadicomglobalgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Shaadi.com Global Group Office",
+        "addressLocality": "Ghaziabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "SQL, TensorFlow, Agile/Scrum, React, CI/CD, Python, REST APIs, Go",
+    "responsibilities": "Design, develop and maintain scalable software applications. Write clean, maintainable, and well-documented code. Contribute to system architecture and technical design decisions. Participate in on-call rotation for production support. Troubleshoot, debug, and resolve software defects and performance issues. Collaborate with cross-functional teams including product, design, and QA. Participate in code reviews and contribute to technical discussions",
+    "benefits": "Professional development and training programs. Referral bonus program. Recognition and rewards programs. Life and accident insurance. Employee stock options (ESOPs) for eligible roles. Maternity and paternity leave",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Referral bonus program, Recognition and rewards programs, Life and accident insurance, Employee stock options (ESOPs) for eligible roles, Maternity and paternity leave"
+  },
+  "meta": {
+    "description": "Shaadi.com Global Group, one of India's leading organizations, is hiring a Software Engineer for our Ghaziabad operations. We offer a competitive salary package",
+    "keywords": "Software Engineer, Shaadi.com Global Group, jobs in Ghaziabad, Uttar Pradesh jobs, technology jobs India, SQL, TensorFlow, Agile/Scrum, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:56:35.388Z",
+  "page": 481
+}

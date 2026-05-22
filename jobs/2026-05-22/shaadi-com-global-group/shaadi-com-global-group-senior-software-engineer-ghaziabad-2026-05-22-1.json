@@ -1,0 +1,93 @@
+{
+  "slug": "shaadi-com-global-group-senior-software-engineer-ghaziabad-2026-05-22-1",
+  "title": "Senior Software Engineer - Shaadi.com Global Group - Experienced Professionals",
+  "company": "Shaadi.com Global Group",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Docker",
+    "Java",
+    "React",
+    "SQL",
+    "TypeScript",
+    "Agile/Scrum",
+    "TensorFlow",
+    "CI/CD"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Shaadi.com Global Group - Experienced Professionals",
+    "description": "Shaadi.com Global Group, one of India's leading organizations, is hiring a Senior Software Engineer for our Ghaziabad operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Shaadi.com Global Group:\nShaadi.com Global Group is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Write clean, maintainable, and well-documented code\n• Design, develop and maintain scalable software applications\n• Optimize application performance and ensure high availability\n• Implement new features based on product requirements\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 0-1 years of relevant experience\n• Proficiency in Docker\n• Proficiency in Java\n• Proficiency in React\n• Proficiency in SQL\n• Proficiency in TypeScript\n• Proficiency in Agile/Scrum\n• Proficiency in TensorFlow\n• Proficiency in CI/CD\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Professional development and training programs\n• Company-sponsored certifications\n• Annual paid leaves and casual leaves\n• Maternity and paternity leave\n• Mobile and internet reimbursement\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Ghaziabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Shaadi.com Global Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Shaadi.com Global Group",
+      "value": "1927-1-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Shaadi.com Global Group",
+      "sameAs": "https://www.google.com/search?q=Shaadi.com%20Global%20Group",
+      "logo": "https://logo.clearbit.com/shaadicomglobalgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Shaadi.com Global Group Office",
+        "addressLocality": "Ghaziabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "Docker, Java, React, SQL, TypeScript, Agile/Scrum, TensorFlow, CI/CD",
+    "responsibilities": "Work with agile methodologies including daily stand-ups and sprint planning. Troubleshoot, debug, and resolve software defects and performance issues. Write clean, maintainable, and well-documented code. Design, develop and maintain scalable software applications. Optimize application performance and ensure high availability. Implement new features based on product requirements. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP",
+    "benefits": "Work-from-home flexibility. Professional development and training programs. Company-sponsored certifications. Annual paid leaves and casual leaves. Maternity and paternity leave. Mobile and internet reimbursement",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Professional development and training programs, Company-sponsored certifications, Annual paid leaves and casual leaves, Maternity and paternity leave, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "Shaadi.com Global Group, one of India's leading organizations, is hiring a Senior Software Engineer for our Ghaziabad operations. We offer a competitive salary ",
+    "keywords": "Senior Software Engineer, Shaadi.com Global Group, jobs in Ghaziabad, Uttar Pradesh jobs, technology jobs India, Docker, Java, React, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:56:35.388Z",
+  "page": 481
+}

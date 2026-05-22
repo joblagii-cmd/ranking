@@ -1,0 +1,93 @@
+{
+  "slug": "naukri-digital-technologies-frontend-developer-ludhiana-2026-05-22-4",
+  "title": "Mid-Level Frontend Developer at Naukri Digital Technologies",
+  "company": "Naukri Digital Technologies",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Ludhiana",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "MongoDB",
+    "TypeScript",
+    "Machine Learning",
+    "React",
+    "Java",
+    "Git",
+    "AWS",
+    "TensorFlow"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Frontend Developer at Naukri Digital Technologies",
+    "description": "Naukri Digital Technologies, one of India's leading organizations, is hiring a Frontend Developer for our Ludhiana operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Naukri Digital Technologies:\nNaukri Digital Technologies is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Collaborate with cross-functional teams including product, design, and QA\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Participate in code reviews and contribute to technical discussions\n• Integrate third-party APIs and services\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 10-15 years of relevant experience\n• Proficiency in MongoDB\n• Proficiency in TypeScript\n• Proficiency in Machine Learning\n• Proficiency in React\n• Proficiency in Java\n• Proficiency in Git\n• Proficiency in AWS\n• Proficiency in TensorFlow\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Employee stock options (ESOPs) for eligible roles\n• Company-sponsored certifications\n• Meal coupons and food allowance\n• Flexible working hours\n• Professional development and training programs\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Ludhiana, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Naukri Digital Technologies!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Naukri Digital Technologies",
+      "value": "1926-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Naukri Digital Technologies",
+      "sameAs": "https://www.google.com/search?q=Naukri%20Digital%20Technologies",
+      "logo": "https://logo.clearbit.com/naukridigitaltechnologies.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Naukri Digital Technologies Office",
+        "addressLocality": "Ludhiana",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "MongoDB, TypeScript, Machine Learning, React, Java, Git, AWS, TensorFlow",
+    "responsibilities": "Troubleshoot, debug, and resolve software defects and performance issues. Collaborate with cross-functional teams including product, design, and QA. Mentor junior developers and conduct knowledge-sharing sessions. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Work with agile methodologies including daily stand-ups and sprint planning. Participate in code reviews and contribute to technical discussions. Integrate third-party APIs and services",
+    "benefits": "Work-from-home flexibility. Employee stock options (ESOPs) for eligible roles. Company-sponsored certifications. Meal coupons and food allowance. Flexible working hours. Professional development and training programs",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Employee stock options (ESOPs) for eligible roles, Company-sponsored certifications, Meal coupons and food allowance, Flexible working hours, Professional development and training programs"
+  },
+  "meta": {
+    "description": "Naukri Digital Technologies, one of India's leading organizations, is hiring a Frontend Developer for our Ludhiana operations. We offer a competitive salary pac",
+    "keywords": "Frontend Developer, Naukri Digital Technologies, jobs in Ludhiana, Punjab jobs, technology jobs India, MongoDB, TypeScript, Machine Learning, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:56:35.388Z",
+  "page": 481
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "shaadi-com-global-group-frontend-developer-ludhiana-2026-05-22-4",
+  "title": "Mid-Level Frontend Developer at Shaadi.com Global Group",
+  "company": "Shaadi.com Global Group",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Ludhiana",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "JavaScript",
+    "Kubernetes",
+    "Git",
+    "Python",
+    "REST APIs",
+    "TensorFlow",
+    "MongoDB",
+    "Agile/Scrum"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Frontend Developer at Shaadi.com Global Group",
+    "description": "Shaadi.com Global Group, one of India's leading organizations, is hiring a Frontend Developer for our Ludhiana operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Shaadi.com Global Group:\nShaadi.com Global Group is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure code security and follow best practices for data protection\n• Participate in on-call rotation for production support\n• Write clean, maintainable, and well-documented code\n• Contribute to system architecture and technical design decisions\n• Design, develop and maintain scalable software applications\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 6-10 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Kubernetes\n• Proficiency in Git\n• Proficiency in Python\n• Proficiency in REST APIs\n• Proficiency in TensorFlow\n• Proficiency in MongoDB\n• Proficiency in Agile/Scrum\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• Maternity and paternity leave\n• Employee stock options (ESOPs) for eligible roles\n• Referral bonus program\n• Learning & development budget\n• Mobile and internet reimbursement\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Ludhiana, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Shaadi.com Global Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Shaadi.com Global Group",
+      "value": "1927-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Shaadi.com Global Group",
+      "sameAs": "https://www.google.com/search?q=Shaadi.com%20Global%20Group",
+      "logo": "https://logo.clearbit.com/shaadicomglobalgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Shaadi.com Global Group Office",
+        "addressLocality": "Ludhiana",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "JavaScript, Kubernetes, Git, Python, REST APIs, TensorFlow, MongoDB, Agile/Scrum",
+    "responsibilities": "Ensure code security and follow best practices for data protection. Participate in on-call rotation for production support. Write clean, maintainable, and well-documented code. Contribute to system architecture and technical design decisions. Design, develop and maintain scalable software applications. Troubleshoot, debug, and resolve software defects and performance issues. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP",
+    "benefits": "Comprehensive health insurance for self and family. Maternity and paternity leave. Employee stock options (ESOPs) for eligible roles. Referral bonus program. Learning & development budget. Mobile and internet reimbursement",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, Maternity and paternity leave, Employee stock options (ESOPs) for eligible roles, Referral bonus program, Learning & development budget, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "Shaadi.com Global Group, one of India's leading organizations, is hiring a Frontend Developer for our Ludhiana operations. We offer a competitive salary package",
+    "keywords": "Frontend Developer, Shaadi.com Global Group, jobs in Ludhiana, Punjab jobs, technology jobs India, JavaScript, Kubernetes, Git, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:56:35.388Z",
+  "page": 481
+}
