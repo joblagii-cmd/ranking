@@ -1,0 +1,94 @@
+{
+  "slug": "grofers-senior-software-engineer-faridabad-2026-05-22-1",
+  "title": "Senior Software Engineer - Grofers - Top MNC",
+  "company": "Grofers",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Faridabad",
+    "state": "Haryana",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "JavaScript",
+    "Node.js",
+    "MongoDB",
+    "AWS",
+    "REST APIs",
+    "Python",
+    "CI/CD",
+    "React"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Grofers - Top MNC",
+    "description": "Join the Grofers family as a Senior Software Engineer in Faridabad. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Grofers:\nGrofers is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Contribute to system architecture and technical design decisions\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Participate in code reviews and contribute to technical discussions\n• Optimize application performance and ensure high availability\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 6-10 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Node.js\n• Proficiency in MongoDB\n• Proficiency in AWS\n• Proficiency in REST APIs\n• Proficiency in Python\n• Proficiency in CI/CD\n• Proficiency in React\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• International travel opportunities for senior roles\n• Modern office with recreational facilities\n• Maternity and paternity leave\n• Competitive salary with performance-linked incentives\n• Annual performance appraisal\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Faridabad, Haryana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Grofers!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Grofers",
+      "value": "102-1-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Grofers",
+      "sameAs": "https://www.google.com/search?q=Grofers",
+      "logo": "https://logo.clearbit.com/grofers.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Grofers Office",
+        "addressLocality": "Faridabad",
+        "addressRegion": "Haryana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "JavaScript, Node.js, MongoDB, AWS, REST APIs, Python, CI/CD, React",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Work with agile methodologies including daily stand-ups and sprint planning. Contribute to system architecture and technical design decisions. Troubleshoot, debug, and resolve software defects and performance issues. Mentor junior developers and conduct knowledge-sharing sessions. Participate in code reviews and contribute to technical discussions. Optimize application performance and ensure high availability",
+    "benefits": "Provident Fund and Gratuity as per company policy. International travel opportunities for senior roles. Modern office with recreational facilities. Maternity and paternity leave. Competitive salary with performance-linked incentives. Annual performance appraisal",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, International travel opportunities for senior roles, Modern office with recreational facilities, Maternity and paternity leave, Competitive salary with performance-linked incentives, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "Join the Grofers family as a Senior Software Engineer in Faridabad. We believe in empowering our employees with the tools, training, and environment they need t",
+    "keywords": "Senior Software Engineer, Grofers, jobs in Faridabad, Haryana jobs, technology jobs India, JavaScript, Node.js, MongoDB, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:34:49.743Z",
+  "page": 25
+}
