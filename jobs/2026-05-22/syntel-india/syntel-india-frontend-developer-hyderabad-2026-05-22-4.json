@@ -1,0 +1,94 @@
+{
+  "slug": "syntel-india-frontend-developer-hyderabad-2026-05-22-4",
+  "title": "Mid-Level Frontend Developer at Syntel India",
+  "company": "Syntel India",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "MongoDB",
+    "REST APIs",
+    "Docker",
+    "Java",
+    "Kubernetes",
+    "TensorFlow",
+    "Git",
+    "CI/CD"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Frontend Developer at Syntel India",
+    "description": "An exciting career opportunity awaits you at Syntel India. We are on the lookout for a dedicated Frontend Developer to strengthen our Hyderabad-based team.\n\nAbout Syntel India:\nSyntel India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in code reviews and contribute to technical discussions\n• Integrate third-party APIs and services\n• Write clean, maintainable, and well-documented code\n• Design, develop and maintain scalable software applications\n• Optimize application performance and ensure high availability\n• Ensure code security and follow best practices for data protection\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 10-15 years of relevant experience\n• Proficiency in MongoDB\n• Proficiency in REST APIs\n• Proficiency in Docker\n• Proficiency in Java\n• Proficiency in Kubernetes\n• Proficiency in TensorFlow\n• Proficiency in Git\n• Proficiency in CI/CD\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Recognition and rewards programs\n• Comprehensive health insurance for self and family\n• Modern office with recreational facilities\n• Competitive salary with performance-linked incentives\n• Referral bonus program\n• Company-sponsored certifications\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Hyderabad, Telangana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Syntel India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Syntel India",
+      "value": "66-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Syntel India",
+      "sameAs": "https://www.google.com/search?q=Syntel%20India",
+      "logo": "https://logo.clearbit.com/syntelindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Syntel India Office",
+        "addressLocality": "Hyderabad",
+        "addressRegion": "Telangana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "MongoDB, REST APIs, Docker, Java, Kubernetes, TensorFlow, Git, CI/CD",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Participate in code reviews and contribute to technical discussions. Integrate third-party APIs and services. Write clean, maintainable, and well-documented code. Design, develop and maintain scalable software applications. Optimize application performance and ensure high availability. Ensure code security and follow best practices for data protection",
+    "benefits": "Recognition and rewards programs. Comprehensive health insurance for self and family. Modern office with recreational facilities. Competitive salary with performance-linked incentives. Referral bonus program. Company-sponsored certifications",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Recognition and rewards programs, Comprehensive health insurance for self and family, Modern office with recreational facilities, Competitive salary with performance-linked incentives, Referral bonus program, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Syntel India. We are on the lookout for a dedicated Frontend Developer to strengthen our Hyderabad-based team.",
+    "keywords": "Frontend Developer, Syntel India, jobs in Hyderabad, Telangana jobs, technology jobs India, MongoDB, REST APIs, Docker, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:33:40.138Z",
+  "page": 16
+}

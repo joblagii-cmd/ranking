@@ -1,0 +1,94 @@
+{
+  "slug": "unisys-india-backend-developer-bengaluru-2026-05-22-3",
+  "title": "Backend Developer Vacancy at Unisys India - 2026 Batch",
+  "company": "Unisys India",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "AWS",
+    "Node.js",
+    "Agile/Scrum",
+    "Rust",
+    "React",
+    "Go",
+    "Microservices",
+    "TensorFlow"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Unisys India - 2026 Batch",
+    "description": "An exciting career opportunity awaits you at Unisys India. We are on the lookout for a dedicated Backend Developer to strengthen our Bengaluru-based team.\n\nAbout Unisys India:\nUnisys India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Integrate third-party APIs and services\n• Ensure code security and follow best practices for data protection\n• Implement new features based on product requirements\n• Collaborate with cross-functional teams including product, design, and QA\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Contribute to system architecture and technical design decisions\n• Write and execute unit tests and integration tests\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 0-1 years of relevant experience\n• Proficiency in AWS\n• Proficiency in Node.js\n• Proficiency in Agile/Scrum\n• Proficiency in Rust\n• Proficiency in React\n• Proficiency in Go\n• Proficiency in Microservices\n• Proficiency in TensorFlow\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Life and accident insurance\n• Work-from-home flexibility\n• Professional development and training programs\n• Provident Fund and Gratuity as per company policy\n• Transportation and conveyance allowance\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Bengaluru, Karnataka, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Unisys India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Unisys India",
+      "value": "65-3-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Unisys India",
+      "sameAs": "https://www.google.com/search?q=Unisys%20India",
+      "logo": "https://logo.clearbit.com/unisysindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Unisys India Office",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "AWS, Node.js, Agile/Scrum, Rust, React, Go, Microservices, TensorFlow",
+    "responsibilities": "Integrate third-party APIs and services. Ensure code security and follow best practices for data protection. Implement new features based on product requirements. Collaborate with cross-functional teams including product, design, and QA. Mentor junior developers and conduct knowledge-sharing sessions. Contribute to system architecture and technical design decisions. Write and execute unit tests and integration tests",
+    "benefits": "International travel opportunities for senior roles. Life and accident insurance. Work-from-home flexibility. Professional development and training programs. Provident Fund and Gratuity as per company policy. Transportation and conveyance allowance",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Life and accident insurance, Work-from-home flexibility, Professional development and training programs, Provident Fund and Gratuity as per company policy, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Unisys India. We are on the lookout for a dedicated Backend Developer to strengthen our Bengaluru-based team.",
+    "keywords": "Backend Developer, Unisys India, jobs in Bengaluru, Karnataka jobs, technology jobs India, AWS, Node.js, Agile/Scrum, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:33:40.138Z",
+  "page": 16
+}
