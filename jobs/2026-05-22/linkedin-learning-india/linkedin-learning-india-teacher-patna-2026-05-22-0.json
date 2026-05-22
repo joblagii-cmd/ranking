@@ -1,0 +1,93 @@
+{
+  "slug": "linkedin-learning-india-teacher-patna-2026-05-22-0",
+  "title": "Vacancy for Teacher at LinkedIn Learning India",
+  "company": "LinkedIn Learning India",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Patna",
+    "state": "Bihar",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Lesson Planning",
+    "Curriculum Development",
+    "Research Skills",
+    "Mentoring",
+    "Communication Skills",
+    "IB Curriculum",
+    "Classroom Management",
+    "Educational Technology"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Vacancy for Teacher at LinkedIn Learning India",
+    "description": "LinkedIn Learning India, one of India's leading organizations, is hiring a Teacher for our Patna operations. We offer a competitive salary package along with world-class benefits.\n\nAbout LinkedIn Learning India:\nLinkedIn Learning India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Develop and deliver engaging lesson plans for students\n• Contribute to school newsletter, blogs, and other publications\n• Monitor student progress and provide timely feedback\n• Participate in school events, workshops, and training programs\n• Maintain classroom discipline and create a positive learning environment\n• Utilize technology and digital tools to enhance learning outcomes\n• Create curriculum-aligned learning materials and assessments\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 12-20 years of relevant experience\n• Proficiency in Lesson Planning\n• Proficiency in Curriculum Development\n• Proficiency in Research Skills\n• Proficiency in Mentoring\n• Proficiency in Communication Skills\n• Proficiency in IB Curriculum\n• Proficiency in Classroom Management\n• Proficiency in Educational Technology\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Life and accident insurance\n• Annual performance appraisal\n• Referral bonus program\n• Competitive salary with performance-linked incentives\n• Transportation and conveyance allowance\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Patna, Bihar, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with LinkedIn Learning India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "LinkedIn Learning India",
+      "value": "510-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "LinkedIn Learning India",
+      "sameAs": "https://www.google.com/search?q=LinkedIn%20Learning%20India",
+      "logo": "https://logo.clearbit.com/linkedinlearningindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "LinkedIn Learning India Office",
+        "addressLocality": "Patna",
+        "addressRegion": "Bihar",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "Lesson Planning, Curriculum Development, Research Skills, Mentoring, Communication Skills, IB Curriculum, Classroom Management, Educational Technology",
+    "responsibilities": "Develop and deliver engaging lesson plans for students. Contribute to school newsletter, blogs, and other publications. Monitor student progress and provide timely feedback. Participate in school events, workshops, and training programs. Maintain classroom discipline and create a positive learning environment. Utilize technology and digital tools to enhance learning outcomes. Create curriculum-aligned learning materials and assessments",
+    "benefits": "Annual paid leaves and casual leaves. Life and accident insurance. Annual performance appraisal. Referral bonus program. Competitive salary with performance-linked incentives. Transportation and conveyance allowance",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Life and accident insurance, Annual performance appraisal, Referral bonus program, Competitive salary with performance-linked incentives, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "LinkedIn Learning India, one of India's leading organizations, is hiring a Teacher for our Patna operations. We offer a competitive salary package along with wo",
+    "keywords": "Teacher, LinkedIn Learning India, jobs in Patna, Bihar jobs, education jobs India, Lesson Planning, Curriculum Development, Research Skills, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:47:47.893Z",
+  "page": 127
+}

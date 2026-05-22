@@ -1,0 +1,93 @@
+{
+  "slug": "niit-teacher-vadodara-2026-05-22-0",
+  "title": "Vacancy for Teacher at NIIT",
+  "company": "NIIT",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "MS Office",
+    "Classroom Management",
+    "Student Assessment",
+    "Data Analysis",
+    "LMS Platforms",
+    "Mentoring",
+    "CBSE/ICSE Standards",
+    "IB Curriculum"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Vacancy for Teacher at NIIT",
+    "description": "NIIT, one of India's leading organizations, is hiring a Teacher for our Vadodara operations. We offer a competitive salary package along with world-class benefits.\n\nAbout NIIT:\nNIIT is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Develop and deliver engaging lesson plans for students\n• Create curriculum-aligned learning materials and assessments\n• Monitor student progress and provide timely feedback\n• Participate in teacher training and professional development programs\n• Conduct parent-teacher meetings and update parents on student performance\n• Design formative and summative assessments aligned to learning objectives\n• Maintain classroom discipline and create a positive learning environment\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 10-15 years of relevant experience\n• Proficiency in MS Office\n• Proficiency in Classroom Management\n• Proficiency in Student Assessment\n• Proficiency in Data Analysis\n• Proficiency in LMS Platforms\n• Proficiency in Mentoring\n• Proficiency in CBSE/ICSE Standards\n• Proficiency in IB Curriculum\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Meal coupons and food allowance\n• Employee stock options (ESOPs) for eligible roles\n• Company-sponsored certifications\n• Flexible working hours\n• International travel opportunities for senior roles\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Vadodara, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with NIIT!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "NIIT",
+      "value": "511-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "NIIT",
+      "sameAs": "https://www.google.com/search?q=NIIT",
+      "logo": "https://logo.clearbit.com/niit.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "NIIT Office",
+        "addressLocality": "Vadodara",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "MS Office, Classroom Management, Student Assessment, Data Analysis, LMS Platforms, Mentoring, CBSE/ICSE Standards, IB Curriculum",
+    "responsibilities": "Develop and deliver engaging lesson plans for students. Create curriculum-aligned learning materials and assessments. Monitor student progress and provide timely feedback. Participate in teacher training and professional development programs. Conduct parent-teacher meetings and update parents on student performance. Design formative and summative assessments aligned to learning objectives. Maintain classroom discipline and create a positive learning environment",
+    "benefits": "Annual paid leaves and casual leaves. Meal coupons and food allowance. Employee stock options (ESOPs) for eligible roles. Company-sponsored certifications. Flexible working hours. International travel opportunities for senior roles",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Meal coupons and food allowance, Employee stock options (ESOPs) for eligible roles, Company-sponsored certifications, Flexible working hours, International travel opportunities for senior roles"
+  },
+  "meta": {
+    "description": "NIIT, one of India's leading organizations, is hiring a Teacher for our Vadodara operations. We offer a competitive salary package along with world-class benefi",
+    "keywords": "Teacher, NIIT, jobs in Vadodara, Gujarat jobs, education jobs India, MS Office, Classroom Management, Student Assessment, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:47:47.896Z",
+  "page": 127
+}
