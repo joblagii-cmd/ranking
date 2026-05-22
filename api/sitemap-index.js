@@ -24,15 +24,24 @@ export default async function handler(req, res) {
     }
   } catch { }
 
-  // 1 sitemap per day
-  const entries = dates.map((date, i) => `  <sitemap>
-    <loc>${baseUrl}/sitemap${i + 1}.xml</loc>
+  // 5 sitemaps per day
+  const SITEMAPS_PER_DAY = 5;
+  const entries = [];
+  let sitemapNum = 1;
+
+  for (const date of dates) {
+    for (let i = 0; i < SITEMAPS_PER_DAY; i++) {
+      entries.push(`  <sitemap>
+    <loc>${baseUrl}/sitemap${sitemapNum}.xml</loc>
     <lastmod>${date}</lastmod>
-  </sitemap>`).join("\n");
+  </sitemap>`);
+      sitemapNum++;
+    }
+  }
 
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-${entries}
+${entries.join("\n")}
 </sitemapindex>`;
 
   res.setHeader("Content-Type", "application/xml");
