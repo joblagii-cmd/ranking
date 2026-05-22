@@ -1,0 +1,93 @@
+{
+  "slug": "niit-asia-pacific-associates-senior-software-engineer-surat-2026-05-22-1",
+  "title": "Senior Software Engineer - NIIT Asia Pacific Associates - Experienced Professionals",
+  "company": "NIIT Asia Pacific Associates",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Surat",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "TypeScript",
+    "Machine Learning",
+    "Kubernetes",
+    "Microservices",
+    "Java",
+    "SQL",
+    "REST APIs",
+    "Python"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - NIIT Asia Pacific Associates - Experienced Professionals",
+    "description": "Are you a skilled Senior Software Engineer looking for your next big career move? NIIT Asia Pacific Associates in Surat offers you the perfect platform to grow professionally and personally.\n\nAbout NIIT Asia Pacific Associates:\nNIIT Asia Pacific Associates is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Implement new features based on product requirements\n• Participate in code reviews and contribute to technical discussions\n• Optimize application performance and ensure high availability\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Contribute to system architecture and technical design decisions\n• Integrate third-party APIs and services\n• Write clean, maintainable, and well-documented code\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 3-6 years of relevant experience\n• Proficiency in TypeScript\n• Proficiency in Machine Learning\n• Proficiency in Kubernetes\n• Proficiency in Microservices\n• Proficiency in Java\n• Proficiency in SQL\n• Proficiency in REST APIs\n• Proficiency in Python\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Employee stock options (ESOPs) for eligible roles\n• Work-from-home flexibility\n• Annual paid leaves and casual leaves\n• Recognition and rewards programs\n• Flexible working hours\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Surat, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with NIIT Asia Pacific Associates!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "NIIT Asia Pacific Associates",
+      "value": "1909-1-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "NIIT Asia Pacific Associates",
+      "sameAs": "https://www.google.com/search?q=NIIT%20Asia%20Pacific%20Associates",
+      "logo": "https://logo.clearbit.com/niitasiapacificassociates.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "NIIT Asia Pacific Associates Office",
+        "addressLocality": "Surat",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "TypeScript, Machine Learning, Kubernetes, Microservices, Java, SQL, REST APIs, Python",
+    "responsibilities": "Implement new features based on product requirements. Participate in code reviews and contribute to technical discussions. Optimize application performance and ensure high availability. Work with agile methodologies including daily stand-ups and sprint planning. Contribute to system architecture and technical design decisions. Integrate third-party APIs and services. Write clean, maintainable, and well-documented code",
+    "benefits": "Transportation and conveyance allowance. Employee stock options (ESOPs) for eligible roles. Work-from-home flexibility. Annual paid leaves and casual leaves. Recognition and rewards programs. Flexible working hours",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Employee stock options (ESOPs) for eligible roles, Work-from-home flexibility, Annual paid leaves and casual leaves, Recognition and rewards programs, Flexible working hours"
+  },
+  "meta": {
+    "description": "Are you a skilled Senior Software Engineer looking for your next big career move? NIIT Asia Pacific Associates in Surat offers you the perfect platform to grow ",
+    "keywords": "Senior Software Engineer, NIIT Asia Pacific Associates, jobs in Surat, Gujarat jobs, technology jobs India, TypeScript, Machine Learning, Kubernetes, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:56:02.101Z",
+  "page": 477
+}

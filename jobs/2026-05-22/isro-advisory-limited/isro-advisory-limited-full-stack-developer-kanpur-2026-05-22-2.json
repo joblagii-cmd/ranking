@@ -1,0 +1,93 @@
+{
+  "slug": "isro-advisory-limited-full-stack-developer-kanpur-2026-05-22-2",
+  "title": "ISRO Advisory Limited is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "ISRO Advisory Limited",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Microservices",
+    "Python",
+    "CI/CD",
+    "JavaScript",
+    "MongoDB",
+    "Docker",
+    "Rust",
+    "React"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "ISRO Advisory Limited is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "ISRO Advisory Limited, one of India's leading organizations, is hiring a Full Stack Developer for our Kanpur operations. We offer a competitive salary package along with world-class benefits.\n\nAbout ISRO Advisory Limited:\nISRO Advisory Limited is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Contribute to system architecture and technical design decisions\n• Implement new features based on product requirements\n• Design, develop and maintain scalable software applications\n• Ensure code security and follow best practices for data protection\n• Participate in code reviews and contribute to technical discussions\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 10-15 years of relevant experience\n• Proficiency in Microservices\n• Proficiency in Python\n• Proficiency in CI/CD\n• Proficiency in JavaScript\n• Proficiency in MongoDB\n• Proficiency in Docker\n• Proficiency in Rust\n• Proficiency in React\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Competitive salary with performance-linked incentives\n• Recognition and rewards programs\n• Comprehensive health insurance for self and family\n• Provident Fund and Gratuity as per company policy\n• Company-sponsored certifications\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Kanpur, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with ISRO Advisory Limited!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "ISRO Advisory Limited",
+      "value": "1912-2-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "ISRO Advisory Limited",
+      "sameAs": "https://www.google.com/search?q=ISRO%20Advisory%20Limited",
+      "logo": "https://logo.clearbit.com/isroadvisorylimited.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "ISRO Advisory Limited Office",
+        "addressLocality": "Kanpur",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Microservices, Python, CI/CD, JavaScript, MongoDB, Docker, Rust, React",
+    "responsibilities": "Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Troubleshoot, debug, and resolve software defects and performance issues. Contribute to system architecture and technical design decisions. Implement new features based on product requirements. Design, develop and maintain scalable software applications. Ensure code security and follow best practices for data protection. Participate in code reviews and contribute to technical discussions",
+    "benefits": "Work-from-home flexibility. Competitive salary with performance-linked incentives. Recognition and rewards programs. Comprehensive health insurance for self and family. Provident Fund and Gratuity as per company policy. Company-sponsored certifications",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Competitive salary with performance-linked incentives, Recognition and rewards programs, Comprehensive health insurance for self and family, Provident Fund and Gratuity as per company policy, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "ISRO Advisory Limited, one of India's leading organizations, is hiring a Full Stack Developer for our Kanpur operations. We offer a competitive salary package a",
+    "keywords": "Full Stack Developer, ISRO Advisory Limited, jobs in Kanpur, Uttar Pradesh jobs, technology jobs India, Microservices, Python, CI/CD, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:56:02.102Z",
+  "page": 477
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "aptech-south-asia-partners-frontend-developer-kanpur-2026-05-22-4",
+  "title": "Mid-Level Frontend Developer at Aptech South Asia Partners",
+  "company": "Aptech South Asia Partners",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Go",
+    "TensorFlow",
+    "Kubernetes",
+    "Rust",
+    "Node.js",
+    "TypeScript",
+    "MongoDB",
+    "React"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Frontend Developer at Aptech South Asia Partners",
+    "description": "Aptech South Asia Partners, one of India's leading organizations, is hiring a Frontend Developer for our Kanpur operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Aptech South Asia Partners:\nAptech South Asia Partners is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write and execute unit tests and integration tests\n• Contribute to system architecture and technical design decisions\n• Integrate third-party APIs and services\n• Collaborate with cross-functional teams including product, design, and QA\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Implement new features based on product requirements\n• Write clean, maintainable, and well-documented code\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 10-15 years of relevant experience\n• Proficiency in Go\n• Proficiency in TensorFlow\n• Proficiency in Kubernetes\n• Proficiency in Rust\n• Proficiency in Node.js\n• Proficiency in TypeScript\n• Proficiency in MongoDB\n• Proficiency in React\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Company-sponsored certifications\n• Recognition and rewards programs\n• Professional development and training programs\n• Provident Fund and Gratuity as per company policy\n• Mobile and internet reimbursement\n• Transportation and conveyance allowance\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Kanpur, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Aptech South Asia Partners!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Aptech South Asia Partners",
+      "value": "1910-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Aptech South Asia Partners",
+      "sameAs": "https://www.google.com/search?q=Aptech%20South%20Asia%20Partners",
+      "logo": "https://logo.clearbit.com/aptechsouthasiapartners.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Aptech South Asia Partners Office",
+        "addressLocality": "Kanpur",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Go, TensorFlow, Kubernetes, Rust, Node.js, TypeScript, MongoDB, React",
+    "responsibilities": "Write and execute unit tests and integration tests. Contribute to system architecture and technical design decisions. Integrate third-party APIs and services. Collaborate with cross-functional teams including product, design, and QA. Work with agile methodologies including daily stand-ups and sprint planning. Implement new features based on product requirements. Write clean, maintainable, and well-documented code",
+    "benefits": "Company-sponsored certifications. Recognition and rewards programs. Professional development and training programs. Provident Fund and Gratuity as per company policy. Mobile and internet reimbursement. Transportation and conveyance allowance",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Company-sponsored certifications, Recognition and rewards programs, Professional development and training programs, Provident Fund and Gratuity as per company policy, Mobile and internet reimbursement, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "Aptech South Asia Partners, one of India's leading organizations, is hiring a Frontend Developer for our Kanpur operations. We offer a competitive salary packag",
+    "keywords": "Frontend Developer, Aptech South Asia Partners, jobs in Kanpur, Uttar Pradesh jobs, technology jobs India, Go, TensorFlow, Kubernetes, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:56:02.101Z",
+  "page": 477
+}

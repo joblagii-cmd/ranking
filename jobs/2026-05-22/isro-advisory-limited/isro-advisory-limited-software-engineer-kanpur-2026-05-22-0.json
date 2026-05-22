@@ -1,0 +1,93 @@
+{
+  "slug": "isro-advisory-limited-software-engineer-kanpur-2026-05-22-0",
+  "title": "Immediate Requirement Software Engineer at ISRO Advisory Limited",
+  "company": "ISRO Advisory Limited",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Docker",
+    "REST APIs",
+    "JavaScript",
+    "Machine Learning",
+    "Go",
+    "Agile/Scrum",
+    "Microservices",
+    "Node.js"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Immediate Requirement Software Engineer at ISRO Advisory Limited",
+    "description": "ISRO Advisory Limited, one of India's leading organizations, is hiring a Software Engineer for our Kanpur operations. We offer a competitive salary package along with world-class benefits.\n\nAbout ISRO Advisory Limited:\nISRO Advisory Limited is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Implement new features based on product requirements\n• Ensure code security and follow best practices for data protection\n• Participate in on-call rotation for production support\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Write clean, maintainable, and well-documented code\n• Integrate third-party APIs and services\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 0-1 years of relevant experience\n• Proficiency in Docker\n• Proficiency in REST APIs\n• Proficiency in JavaScript\n• Proficiency in Machine Learning\n• Proficiency in Go\n• Proficiency in Agile/Scrum\n• Proficiency in Microservices\n• Proficiency in Node.js\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Flexible working hours\n• Learning & development budget\n• Competitive salary with performance-linked incentives\n• Recognition and rewards programs\n• Maternity and paternity leave\n• Annual paid leaves and casual leaves\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Kanpur, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with ISRO Advisory Limited!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "ISRO Advisory Limited",
+      "value": "1912-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "ISRO Advisory Limited",
+      "sameAs": "https://www.google.com/search?q=ISRO%20Advisory%20Limited",
+      "logo": "https://logo.clearbit.com/isroadvisorylimited.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "ISRO Advisory Limited Office",
+        "addressLocality": "Kanpur",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "Docker, REST APIs, JavaScript, Machine Learning, Go, Agile/Scrum, Microservices, Node.js",
+    "responsibilities": "Design, develop and maintain scalable software applications. Implement new features based on product requirements. Ensure code security and follow best practices for data protection. Participate in on-call rotation for production support. Troubleshoot, debug, and resolve software defects and performance issues. Write clean, maintainable, and well-documented code. Integrate third-party APIs and services",
+    "benefits": "Flexible working hours. Learning & development budget. Competitive salary with performance-linked incentives. Recognition and rewards programs. Maternity and paternity leave. Annual paid leaves and casual leaves",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, Learning & development budget, Competitive salary with performance-linked incentives, Recognition and rewards programs, Maternity and paternity leave, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "ISRO Advisory Limited, one of India's leading organizations, is hiring a Software Engineer for our Kanpur operations. We offer a competitive salary package alon",
+    "keywords": "Software Engineer, ISRO Advisory Limited, jobs in Kanpur, Uttar Pradesh jobs, technology jobs India, Docker, REST APIs, JavaScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:56:02.101Z",
+  "page": 477
+}
