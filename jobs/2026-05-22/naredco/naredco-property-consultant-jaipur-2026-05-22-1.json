@@ -1,0 +1,93 @@
+{
+  "slug": "naredco-property-consultant-jaipur-2026-05-22-1",
+  "title": "Property Consultant - NAREDCO - Multiple Openings",
+  "company": "NAREDCO",
+  "industry": "realestate",
+  "role": "Property Consultant",
+  "location": {
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "GIS Tools",
+    "Title Search",
+    "Portfolio Management",
+    "RERA Compliance",
+    "Client Relationship Management",
+    "Property Valuation",
+    "MS Office",
+    "Lease Administration"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Property Consultant - NAREDCO - Multiple Openings",
+    "description": "NAREDCO, one of India's leading organizations, is hiring a Property Consultant for our Jaipur operations. We offer a competitive salary package along with world-class benefits.\n\nAbout NAREDCO:\nNAREDCO is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Maintain a pipeline of qualified leads using CRM software\n• Source and close property deals with prospective buyers and investors\n• Conduct site visits and property presentations for clients\n• Conduct land acquisition due diligence and feasibility studies\n• Provide advisory services on property investment and market trends\n• Negotiate pricing, terms, and conditions on behalf of clients\n• Coordinate with legal teams for documentation and title verification\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 0-1 years of relevant experience\n• Proficiency in GIS Tools\n• Proficiency in Title Search\n• Proficiency in Portfolio Management\n• Proficiency in RERA Compliance\n• Proficiency in Client Relationship Management\n• Proficiency in Property Valuation\n• Proficiency in MS Office\n• Proficiency in Lease Administration\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Provident Fund and Gratuity as per company policy\n• Life and accident insurance\n• Comprehensive health insurance for self and family\n• Mobile and internet reimbursement\n• Learning & development budget\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Jaipur, Rajasthan, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with NAREDCO!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "NAREDCO",
+      "value": "742-1-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "NAREDCO",
+      "sameAs": "https://www.google.com/search?q=NAREDCO",
+      "logo": "https://logo.clearbit.com/naredco.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "NAREDCO Office",
+        "addressLocality": "Jaipur",
+        "addressRegion": "Rajasthan",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "GIS Tools, Title Search, Portfolio Management, RERA Compliance, Client Relationship Management, Property Valuation, MS Office, Lease Administration",
+    "responsibilities": "Maintain a pipeline of qualified leads using CRM software. Source and close property deals with prospective buyers and investors. Conduct site visits and property presentations for clients. Conduct land acquisition due diligence and feasibility studies. Provide advisory services on property investment and market trends. Negotiate pricing, terms, and conditions on behalf of clients. Coordinate with legal teams for documentation and title verification",
+    "benefits": "Competitive salary with performance-linked incentives. Provident Fund and Gratuity as per company policy. Life and accident insurance. Comprehensive health insurance for self and family. Mobile and internet reimbursement. Learning & development budget",
+    "industry": "realestate",
+    "occupationalCategory": "Property Consultant",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Provident Fund and Gratuity as per company policy, Life and accident insurance, Comprehensive health insurance for self and family, Mobile and internet reimbursement, Learning & development budget"
+  },
+  "meta": {
+    "description": "NAREDCO, one of India's leading organizations, is hiring a Property Consultant for our Jaipur operations. We offer a competitive salary package along with world",
+    "keywords": "Property Consultant, NAREDCO, jobs in Jaipur, Rajasthan jobs, realestate jobs India, GIS Tools, Title Search, Portfolio Management, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:55:03.058Z",
+  "page": 185
+}

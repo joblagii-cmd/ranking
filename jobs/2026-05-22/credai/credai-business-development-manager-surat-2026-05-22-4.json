@@ -1,0 +1,93 @@
+{
+  "slug": "credai-business-development-manager-surat-2026-05-22-4",
+  "title": "Junior Business Development Manager at CREDAI",
+  "company": "CREDAI",
+  "industry": "realestate",
+  "role": "Business Development Manager",
+  "location": {
+    "city": "Surat",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "MS Office",
+    "Real Estate Law",
+    "Client Relationship Management",
+    "Contract Management",
+    "Sales Techniques",
+    "Portfolio Management",
+    "Investment Analysis",
+    "CRM Software"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Junior Business Development Manager at CREDAI",
+    "description": "CREDAI, one of India's leading organizations, is hiring a Business Development Manager for our Surat operations. We offer a competitive salary package along with world-class benefits.\n\nAbout CREDAI:\nCREDAI is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Source and close property deals with prospective buyers and investors\n• Coordinate with legal teams for documentation and title verification\n• Liaise with banks and NBFCs for home loan assistance to customers\n• Achieve monthly and quarterly sales targets\n• Conduct land acquisition due diligence and feasibility studies\n• Prepare presentations and proposals for institutional clients\n• Provide advisory services on property investment and market trends\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 10-15 years of relevant experience\n• Proficiency in MS Office\n• Proficiency in Real Estate Law\n• Proficiency in Client Relationship Management\n• Proficiency in Contract Management\n• Proficiency in Sales Techniques\n• Proficiency in Portfolio Management\n• Proficiency in Investment Analysis\n• Proficiency in CRM Software\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Annual paid leaves and casual leaves\n• Work-from-home flexibility\n• Meal coupons and food allowance\n• Learning & development budget\n• Annual performance appraisal\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Surat, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with CREDAI!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "CREDAI",
+      "value": "741-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "CREDAI",
+      "sameAs": "https://www.google.com/search?q=CREDAI",
+      "logo": "https://logo.clearbit.com/credai.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "CREDAI Office",
+        "addressLocality": "Surat",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "MS Office, Real Estate Law, Client Relationship Management, Contract Management, Sales Techniques, Portfolio Management, Investment Analysis, CRM Software",
+    "responsibilities": "Source and close property deals with prospective buyers and investors. Coordinate with legal teams for documentation and title verification. Liaise with banks and NBFCs for home loan assistance to customers. Achieve monthly and quarterly sales targets. Conduct land acquisition due diligence and feasibility studies. Prepare presentations and proposals for institutional clients. Provide advisory services on property investment and market trends",
+    "benefits": "Transportation and conveyance allowance. Annual paid leaves and casual leaves. Work-from-home flexibility. Meal coupons and food allowance. Learning & development budget. Annual performance appraisal",
+    "industry": "realestate",
+    "occupationalCategory": "Business Development Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Annual paid leaves and casual leaves, Work-from-home flexibility, Meal coupons and food allowance, Learning & development budget, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "CREDAI, one of India's leading organizations, is hiring a Business Development Manager for our Surat operations. We offer a competitive salary package along wit",
+    "keywords": "Business Development Manager, CREDAI, jobs in Surat, Gujarat jobs, realestate jobs India, MS Office, Real Estate Law, Client Relationship Management, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:55:03.058Z",
+  "page": 185
+}
