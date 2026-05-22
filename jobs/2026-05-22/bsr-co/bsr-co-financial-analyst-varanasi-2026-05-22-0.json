@@ -1,0 +1,93 @@
+{
+  "slug": "bsr-co-financial-analyst-varanasi-2026-05-22-0",
+  "title": "Job Opening Financial Analyst at BSR & Co",
+  "company": "BSR & Co",
+  "industry": "finance",
+  "role": "Financial Analyst",
+  "location": {
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Bloomberg Terminal",
+    "Power BI",
+    "Forecasting",
+    "QuickBooks",
+    "Credit Analysis",
+    "GST",
+    "Financial Modeling",
+    "SQL"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Job Opening Financial Analyst at BSR & Co",
+    "description": "BSR & Co is actively seeking a talented and motivated Financial Analyst to join our dynamic team in Varanasi. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout BSR & Co:\nBSR & Co is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure compliance with tax regulations and statutory requirements\n• Coordinate with external auditors during annual audits\n• Manage credit risk assessment and loan appraisal processes\n• Conduct due diligence for mergers, acquisitions, and investments\n• Prepare MIS reports for senior management review\n• Maintain general ledger and ensure accurate bookkeeping\n• Manage accounts payable and accounts receivable functions\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 12-20 years of relevant experience\n• Proficiency in Bloomberg Terminal\n• Proficiency in Power BI\n• Proficiency in Forecasting\n• Proficiency in QuickBooks\n• Proficiency in Credit Analysis\n• Proficiency in GST\n• Proficiency in Financial Modeling\n• Proficiency in SQL\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Professional development and training programs\n• Company-sponsored certifications\n• Transportation and conveyance allowance\n• Annual paid leaves and casual leaves\n• International travel opportunities for senior roles\n• Maternity and paternity leave\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Varanasi, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with BSR & Co!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "BSR & Co",
+      "value": "191-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "BSR & Co",
+      "sameAs": "https://www.google.com/search?q=BSR%20%26%20Co",
+      "logo": "https://logo.clearbit.com/bsrco.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "BSR & Co Office",
+        "addressLocality": "Varanasi",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "Bloomberg Terminal, Power BI, Forecasting, QuickBooks, Credit Analysis, GST, Financial Modeling, SQL",
+    "responsibilities": "Ensure compliance with tax regulations and statutory requirements. Coordinate with external auditors during annual audits. Manage credit risk assessment and loan appraisal processes. Conduct due diligence for mergers, acquisitions, and investments. Prepare MIS reports for senior management review. Maintain general ledger and ensure accurate bookkeeping. Manage accounts payable and accounts receivable functions",
+    "benefits": "Professional development and training programs. Company-sponsored certifications. Transportation and conveyance allowance. Annual paid leaves and casual leaves. International travel opportunities for senior roles. Maternity and paternity leave",
+    "industry": "finance",
+    "occupationalCategory": "Financial Analyst",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Company-sponsored certifications, Transportation and conveyance allowance, Annual paid leaves and casual leaves, International travel opportunities for senior roles, Maternity and paternity leave"
+  },
+  "meta": {
+    "description": "BSR & Co is actively seeking a talented and motivated Financial Analyst to join our dynamic team in Varanasi. This is an excellent opportunity for professionals",
+    "keywords": "Financial Analyst, BSR & Co, jobs in Varanasi, Uttar Pradesh jobs, finance jobs India, Bloomberg Terminal, Power BI, Forecasting, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:37:40.238Z",
+  "page": 47
+}

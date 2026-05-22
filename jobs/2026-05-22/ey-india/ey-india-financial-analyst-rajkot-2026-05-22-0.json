@@ -1,0 +1,94 @@
+{
+  "slug": "ey-india-financial-analyst-rajkot-2026-05-22-0",
+  "title": "Job Opening Financial Analyst at EY India",
+  "company": "EY India",
+  "industry": "finance",
+  "role": "Financial Analyst",
+  "location": {
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Tally",
+    "QuickBooks",
+    "Budgeting",
+    "Credit Analysis",
+    "IFRS",
+    "Financial Modeling",
+    "Ind AS",
+    "Python for Finance"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Job Opening Financial Analyst at EY India",
+    "description": "EY India is actively seeking a talented and motivated Financial Analyst to join our dynamic team in Rajkot. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout EY India:\nEY India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Implement and maintain internal controls and audit procedures\n• Manage accounts payable and accounts receivable functions\n• Prepare MIS reports for senior management review\n• Monitor market trends and provide investment recommendations\n• Develop financial models and projections for business planning\n• Manage credit risk assessment and loan appraisal processes\n• Ensure compliance with tax regulations and statutory requirements\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 3-6 years of relevant experience\n• Proficiency in Tally\n• Proficiency in QuickBooks\n• Proficiency in Budgeting\n• Proficiency in Credit Analysis\n• Proficiency in IFRS\n• Proficiency in Financial Modeling\n• Proficiency in Ind AS\n• Proficiency in Python for Finance\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Annual performance appraisal\n• Life and accident insurance\n• Company-sponsored certifications\n• Learning & development budget\n• Mobile and internet reimbursement\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Rajkot, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with EY India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "EY India",
+      "value": "189-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "EY India",
+      "sameAs": "https://www.google.com/search?q=EY%20India",
+      "logo": "https://logo.clearbit.com/eyindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "EY India Office",
+        "addressLocality": "Rajkot",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "Tally, QuickBooks, Budgeting, Credit Analysis, IFRS, Financial Modeling, Ind AS, Python for Finance",
+    "responsibilities": "Implement and maintain internal controls and audit procedures. Manage accounts payable and accounts receivable functions. Prepare MIS reports for senior management review. Monitor market trends and provide investment recommendations. Develop financial models and projections for business planning. Manage credit risk assessment and loan appraisal processes. Ensure compliance with tax regulations and statutory requirements",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Annual performance appraisal. Life and accident insurance. Company-sponsored certifications. Learning & development budget. Mobile and internet reimbursement",
+    "industry": "finance",
+    "occupationalCategory": "Financial Analyst",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Annual performance appraisal, Life and accident insurance, Company-sponsored certifications, Learning & development budget, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "EY India is actively seeking a talented and motivated Financial Analyst to join our dynamic team in Rajkot. This is an excellent opportunity for professionals w",
+    "keywords": "Financial Analyst, EY India, jobs in Rajkot, Gujarat jobs, finance jobs India, Tally, QuickBooks, Budgeting, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:37:40.236Z",
+  "page": 47
+}
