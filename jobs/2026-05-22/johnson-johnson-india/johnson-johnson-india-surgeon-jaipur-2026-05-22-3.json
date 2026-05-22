@@ -1,0 +1,94 @@
+{
+  "slug": "johnson-johnson-india-surgeon-jaipur-2026-05-22-3",
+  "title": "Surgeon Vacancy at Johnson & Johnson India - 2026 Batch",
+  "company": "Johnson & Johnson India",
+  "industry": "healthcare",
+  "role": "Surgeon",
+  "location": {
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Medical Coding",
+    "CPT Codes",
+    "Health Informatics",
+    "BLS/ACLS",
+    "EMR/EHR",
+    "Pharmacovigilance",
+    "Medical Terminology",
+    "ICU Management"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Surgeon Vacancy at Johnson & Johnson India - 2026 Batch",
+    "description": "Johnson & Johnson India has an exciting opening for a Surgeon at our Jaipur office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Johnson & Johnson India:\nJohnson & Johnson India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure patient privacy and maintain confidentiality\n• Diagnose and treat medical conditions following established protocols\n• Adhere to NABH/JCI accreditation standards\n• Administer medications and treatments as prescribed\n• Educate patients and families on health management and disease prevention\n• Conduct routine health assessments and screenings\n• Provide high-quality patient care and maintain patient records\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 12-20 years of relevant experience\n• Proficiency in Medical Coding\n• Proficiency in CPT Codes\n• Proficiency in Health Informatics\n• Proficiency in BLS/ACLS\n• Proficiency in EMR/EHR\n• Proficiency in Pharmacovigilance\n• Proficiency in Medical Terminology\n• Proficiency in ICU Management\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Referral bonus program\n• Learning & development budget\n• Annual paid leaves and casual leaves\n• Competitive salary with performance-linked incentives\n• Modern office with recreational facilities\n• Maternity and paternity leave\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Jaipur, Rajasthan, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Johnson & Johnson India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Johnson & Johnson India",
+      "value": "241-3-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Johnson & Johnson India",
+      "sameAs": "https://www.google.com/search?q=Johnson%20%26%20Johnson%20India",
+      "logo": "https://logo.clearbit.com/johnsonjohnsonindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Johnson & Johnson India Office",
+        "addressLocality": "Jaipur",
+        "addressRegion": "Rajasthan",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "Medical Coding, CPT Codes, Health Informatics, BLS/ACLS, EMR/EHR, Pharmacovigilance, Medical Terminology, ICU Management",
+    "responsibilities": "Ensure patient privacy and maintain confidentiality. Diagnose and treat medical conditions following established protocols. Adhere to NABH/JCI accreditation standards. Administer medications and treatments as prescribed. Educate patients and families on health management and disease prevention. Conduct routine health assessments and screenings. Provide high-quality patient care and maintain patient records",
+    "benefits": "Referral bonus program. Learning & development budget. Annual paid leaves and casual leaves. Competitive salary with performance-linked incentives. Modern office with recreational facilities. Maternity and paternity leave",
+    "industry": "healthcare",
+    "occupationalCategory": "Surgeon",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Referral bonus program, Learning & development budget, Annual paid leaves and casual leaves, Competitive salary with performance-linked incentives, Modern office with recreational facilities, Maternity and paternity leave"
+  },
+  "meta": {
+    "description": "Johnson & Johnson India has an exciting opening for a Surgeon at our Jaipur office. Join a company that values innovation, collaboration, and continuous learnin",
+    "keywords": "Surgeon, Johnson & Johnson India, jobs in Jaipur, Rajasthan jobs, healthcare jobs India, Medical Coding, CPT Codes, Health Informatics, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:39:20.759Z",
+  "page": 60
+}
