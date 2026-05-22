@@ -1,0 +1,93 @@
+{
+  "slug": "tata-communications-senior-software-engineer-kanpur-2026-05-22-1",
+  "title": "Senior Software Engineer - Tata Communications - Experienced Professionals",
+  "company": "Tata Communications",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "JavaScript",
+    "Rust",
+    "TensorFlow",
+    "Python",
+    "CI/CD",
+    "Microservices",
+    "AWS",
+    "Git"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Tata Communications - Experienced Professionals",
+    "description": "Join the Tata Communications family as a Senior Software Engineer in Kanpur. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Tata Communications:\nTata Communications is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Write and execute unit tests and integration tests\n• Optimize application performance and ensure high availability\n• Participate in on-call rotation for production support\n• Contribute to system architecture and technical design decisions\n• Integrate third-party APIs and services\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 3-6 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Rust\n• Proficiency in TensorFlow\n• Proficiency in Python\n• Proficiency in CI/CD\n• Proficiency in Microservices\n• Proficiency in AWS\n• Proficiency in Git\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Recognition and rewards programs\n• Meal coupons and food allowance\n• Comprehensive health insurance for self and family\n• International travel opportunities for senior roles\n• Flexible working hours\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Kanpur, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Tata Communications!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Tata Communications",
+      "value": "81-1-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Tata Communications",
+      "sameAs": "https://www.google.com/search?q=Tata%20Communications",
+      "logo": "https://logo.clearbit.com/tatacommunications.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Tata Communications Office",
+        "addressLocality": "Kanpur",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "JavaScript, Rust, TensorFlow, Python, CI/CD, Microservices, AWS, Git",
+    "responsibilities": "Troubleshoot, debug, and resolve software defects and performance issues. Work with agile methodologies including daily stand-ups and sprint planning. Write and execute unit tests and integration tests. Optimize application performance and ensure high availability. Participate in on-call rotation for production support. Contribute to system architecture and technical design decisions. Integrate third-party APIs and services",
+    "benefits": "Competitive salary with performance-linked incentives. Recognition and rewards programs. Meal coupons and food allowance. Comprehensive health insurance for self and family. International travel opportunities for senior roles. Flexible working hours",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Recognition and rewards programs, Meal coupons and food allowance, Comprehensive health insurance for self and family, International travel opportunities for senior roles, Flexible working hours"
+  },
+  "meta": {
+    "description": "Join the Tata Communications family as a Senior Software Engineer in Kanpur. We believe in empowering our employees with the tools, training, and environment th",
+    "keywords": "Senior Software Engineer, Tata Communications, jobs in Kanpur, Uttar Pradesh jobs, technology jobs India, JavaScript, Rust, TensorFlow, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:34:11.155Z",
+  "page": 20
+}
