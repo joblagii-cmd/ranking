@@ -1,0 +1,94 @@
+{
+  "slug": "lybrate-international-enterprises-backend-developer-vijayawada-2026-05-22-3",
+  "title": "Backend Developer Vacancy at Lybrate International Enterprises - 2026 Batch",
+  "company": "Lybrate International Enterprises",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "JavaScript",
+    "Python",
+    "TensorFlow",
+    "Kubernetes",
+    "Java",
+    "MongoDB",
+    "React",
+    "SQL"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Lybrate International Enterprises - 2026 Batch",
+    "description": "Join the Lybrate International Enterprises family as a Backend Developer in Vijayawada. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Lybrate International Enterprises:\nLybrate International Enterprises is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in code reviews and contribute to technical discussions\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in on-call rotation for production support\n• Optimize application performance and ensure high availability\n• Write clean, maintainable, and well-documented code\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Implement new features based on product requirements\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 12-20 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Python\n• Proficiency in TensorFlow\n• Proficiency in Kubernetes\n• Proficiency in Java\n• Proficiency in MongoDB\n• Proficiency in React\n• Proficiency in SQL\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Flexible working hours\n• Transportation and conveyance allowance\n• Life and accident insurance\n• International travel opportunities for senior roles\n• Annual paid leaves and casual leaves\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Vijayawada, Andhra Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Lybrate International Enterprises!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Lybrate International Enterprises",
+      "value": "1958-3-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Lybrate International Enterprises",
+      "sameAs": "https://www.google.com/search?q=Lybrate%20International%20Enterprises",
+      "logo": "https://logo.clearbit.com/lybrateinternationalenterprises.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Lybrate International Enterprises Office",
+        "addressLocality": "Vijayawada",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "JavaScript, Python, TensorFlow, Kubernetes, Java, MongoDB, React, SQL",
+    "responsibilities": "Participate in code reviews and contribute to technical discussions. Collaborate with cross-functional teams including product, design, and QA. Participate in on-call rotation for production support. Optimize application performance and ensure high availability. Write clean, maintainable, and well-documented code. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Implement new features based on product requirements",
+    "benefits": "Flexible working hours. Transportation and conveyance allowance. Life and accident insurance. International travel opportunities for senior roles. Annual paid leaves and casual leaves. Provident Fund and Gratuity as per company policy",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, Transportation and conveyance allowance, Life and accident insurance, International travel opportunities for senior roles, Annual paid leaves and casual leaves, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "Join the Lybrate International Enterprises family as a Backend Developer in Vijayawada. We believe in empowering our employees with the tools, training, and env",
+    "keywords": "Backend Developer, Lybrate International Enterprises, jobs in Vijayawada, Andhra Pradesh jobs, technology jobs India, JavaScript, Python, TensorFlow, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:57:42.900Z",
+  "page": 489
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "mfine-global-group-full-stack-developer-gwalior-2026-05-22-2",
+  "title": "mfine Global Group is Hiring: Full Stack Developer (Senior)",
+  "company": "mfine Global Group",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "TensorFlow",
+    "CI/CD",
+    "Git",
+    "React",
+    "Java",
+    "Agile/Scrum",
+    "Kubernetes",
+    "SQL"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "mfine Global Group is Hiring: Full Stack Developer (Senior)",
+    "description": "Join the mfine Global Group family as a Full Stack Developer in Gwalior. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout mfine Global Group:\nmfine Global Group is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Write clean, maintainable, and well-documented code\n• Ensure code security and follow best practices for data protection\n• Integrate third-party APIs and services\n• Implement new features based on product requirements\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 1-3 years of relevant experience\n• Proficiency in TensorFlow\n• Proficiency in CI/CD\n• Proficiency in Git\n• Proficiency in React\n• Proficiency in Java\n• Proficiency in Agile/Scrum\n• Proficiency in Kubernetes\n• Proficiency in SQL\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Referral bonus program\n• Company-sponsored certifications\n• Life and accident insurance\n• Comprehensive health insurance for self and family\n• Maternity and paternity leave\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Gwalior, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with mfine Global Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "mfine Global Group",
+      "value": "1957-2-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "mfine Global Group",
+      "sameAs": "https://www.google.com/search?q=mfine%20Global%20Group",
+      "logo": "https://logo.clearbit.com/mfineglobalgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "mfine Global Group Office",
+        "addressLocality": "Gwalior",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "TensorFlow, CI/CD, Git, React, Java, Agile/Scrum, Kubernetes, SQL",
+    "responsibilities": "Design, develop and maintain scalable software applications. Write clean, maintainable, and well-documented code. Ensure code security and follow best practices for data protection. Integrate third-party APIs and services. Implement new features based on product requirements. Troubleshoot, debug, and resolve software defects and performance issues. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP",
+    "benefits": "Referral bonus program. Company-sponsored certifications. Life and accident insurance. Comprehensive health insurance for self and family. Maternity and paternity leave. Provident Fund and Gratuity as per company policy",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Referral bonus program, Company-sponsored certifications, Life and accident insurance, Comprehensive health insurance for self and family, Maternity and paternity leave, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "Join the mfine Global Group family as a Full Stack Developer in Gwalior. We believe in empowering our employees with the tools, training, and environment they n",
+    "keywords": "Full Stack Developer, mfine Global Group, jobs in Gwalior, Madhya Pradesh jobs, technology jobs India, TensorFlow, CI/CD, Git, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:57:42.899Z",
+  "page": 489
+}

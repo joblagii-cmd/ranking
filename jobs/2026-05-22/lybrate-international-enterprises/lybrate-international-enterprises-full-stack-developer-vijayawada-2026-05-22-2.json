@@ -1,0 +1,94 @@
+{
+  "slug": "lybrate-international-enterprises-full-stack-developer-vijayawada-2026-05-22-2",
+  "title": "Lybrate International Enterprises is Hiring: Full Stack Developer (Senior)",
+  "company": "Lybrate International Enterprises",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Python",
+    "Rust",
+    "REST APIs",
+    "JavaScript",
+    "Microservices",
+    "CI/CD",
+    "AWS",
+    "Machine Learning"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Lybrate International Enterprises is Hiring: Full Stack Developer (Senior)",
+    "description": "Join the Lybrate International Enterprises family as a Full Stack Developer in Vijayawada. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Lybrate International Enterprises:\nLybrate International Enterprises is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure code security and follow best practices for data protection\n• Integrate third-party APIs and services\n• Collaborate with cross-functional teams including product, design, and QA\n• Contribute to system architecture and technical design decisions\n• Design, develop and maintain scalable software applications\n• Write clean, maintainable, and well-documented code\n• Write and execute unit tests and integration tests\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 0-1 years of relevant experience\n• Proficiency in Python\n• Proficiency in Rust\n• Proficiency in REST APIs\n• Proficiency in JavaScript\n• Proficiency in Microservices\n• Proficiency in CI/CD\n• Proficiency in AWS\n• Proficiency in Machine Learning\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Mobile and internet reimbursement\n• Work-from-home flexibility\n• Professional development and training programs\n• Annual paid leaves and casual leaves\n• Employee stock options (ESOPs) for eligible roles\n• Company-sponsored certifications\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Vijayawada, Andhra Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Lybrate International Enterprises!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Lybrate International Enterprises",
+      "value": "1958-2-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Lybrate International Enterprises",
+      "sameAs": "https://www.google.com/search?q=Lybrate%20International%20Enterprises",
+      "logo": "https://logo.clearbit.com/lybrateinternationalenterprises.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Lybrate International Enterprises Office",
+        "addressLocality": "Vijayawada",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Python, Rust, REST APIs, JavaScript, Microservices, CI/CD, AWS, Machine Learning",
+    "responsibilities": "Ensure code security and follow best practices for data protection. Integrate third-party APIs and services. Collaborate with cross-functional teams including product, design, and QA. Contribute to system architecture and technical design decisions. Design, develop and maintain scalable software applications. Write clean, maintainable, and well-documented code. Write and execute unit tests and integration tests",
+    "benefits": "Mobile and internet reimbursement. Work-from-home flexibility. Professional development and training programs. Annual paid leaves and casual leaves. Employee stock options (ESOPs) for eligible roles. Company-sponsored certifications",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Mobile and internet reimbursement, Work-from-home flexibility, Professional development and training programs, Annual paid leaves and casual leaves, Employee stock options (ESOPs) for eligible roles, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "Join the Lybrate International Enterprises family as a Full Stack Developer in Vijayawada. We believe in empowering our employees with the tools, training, and ",
+    "keywords": "Full Stack Developer, Lybrate International Enterprises, jobs in Vijayawada, Andhra Pradesh jobs, technology jobs India, Python, Rust, REST APIs, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:57:42.900Z",
+  "page": 489
+}
