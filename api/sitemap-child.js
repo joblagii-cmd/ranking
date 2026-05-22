@@ -1,81 +1,33 @@
+import { generateCompanies } from "../lib/companies.js";
+import { generateJobPosting } from "../lib/templateEngine.js";
+
 export const config = { maxDuration: 10 };
+
+const URLS_PER_SITEMAP = 5000;
+const POSTS_PER_COMPANY = 5;
 
 export default async function handler(req, res) {
   const baseUrl = process.env.SITE_URL || `https://${req.headers.host}`;
-  const { GITHUB_TOKEN, GITHUB_OWNER, GITHUB_REPO } = process.env;
 
   const sitemapId = parseInt(req.query.id || "1");
   if (isNaN(sitemapId) || sitemapId < 1) return res.status(404).send("Sitemap not found");
 
-  // Get all available dates from GitHub
-  let dates = [];
-  try {
-    const r = await fetch(`https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/jobs`, {
-      headers: { Authorization: `token ${GITHUB_TOKEN}`, Accept: "application/vnd.github.v3+json", "User-Agent": "JobPoster-Bot/1.0" }
-    });
-    if (r.ok) {
-      const data = await r.json();
-      if (Array.isArray(data)) {
-        dates = data
-          .filter(f => f.type === "dir" && /^\d{4}-\d{2}-\d{2}$/.test(f.name))
-          .map(f => f.name)
-          .sort((a, b) => b.localeCompare(a)); // newest first
-      }
-    }
-  } catch { }
+  // Get today's date (IST)
+  const now = new Date();
+  const ist = new Date(now.getTime() + 5.5 * 60 * 60 * 1000);
+  const dateStr = ist.toISOString().split("T")[0];
 
-  if (dates.length === 0) return res.status(404).send("No job data found");
+  // All companies + all posts = 5000 × 5 = 25000 URLs total per day
+  // Each sitemap = 5000 URLs = 1000 companies × 5 posts
+  const COMPANIES_PER_SITEMAP = URLS_PER_SITEMAP / POSTS_PER_COMPANY; // 1000
 
-  // 5 sitemaps per day × 5000 URLs each = 25000 per day
-  const SITEMAPS_PER_DAY = 5;
-  const COMPANIES_PER_SITEMAP = 1000;
-  const POSTS_PER_COMPANY = 5;
+  const allCompanies = generateCompanies();
+  const totalSitemaps = Math.ceil((allCompanies.length * POSTS_PER_COMPANY) / URLS_PER_SITEMAP);
 
-  // Which date and which chunk (0-4) does this sitemapId map to?
-  const dateIndex = Math.floor((sitemapId - 1) / SITEMAPS_PER_DAY);
-  const chunkIndex = (sitemapId - 1) % SITEMAPS_PER_DAY;
+  if (sitemapId > totalSitemaps) return res.status(404).send("Sitemap not found");
 
-  if (dateIndex >= dates.length) return res.status(404).send("Sitemap not found");
-
-  const dateStr = dates[dateIndex];
-
-  // Get company folders for this date
-  let companyFolders = [];
-  try {
-    const r = await fetch(`https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/jobs/${dateStr}`, {
-      headers: { Authorization: `token ${GITHUB_TOKEN}`, Accept: "application/vnd.github.v3+json", "User-Agent": "JobPoster-Bot/1.0" }
-    });
-    if (r.ok) {
-      const data = await r.json();
-      if (Array.isArray(data)) companyFolders = data.filter(f => f.type === "dir");
-    }
-  } catch { }
-
-  // Get the 1000 companies for this chunk
-  const chunkFolders = companyFolders.slice(
-    chunkIndex * COMPANIES_PER_SITEMAP,
-    (chunkIndex + 1) * COMPANIES_PER_SITEMAP
-  );
-
-  // Fetch actual file paths for this chunk in parallel batches
-  const allFiles = [];
-  const BATCH = 20;
-  for (let i = 0; i < chunkFolders.length; i += BATCH) {
-    const batch = chunkFolders.slice(i, i + BATCH);
-    await Promise.all(batch.map(async folder => {
-      try {
-        const r = await fetch(`https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/${folder.path}`, {
-          headers: { Authorization: `token ${GITHUB_TOKEN}`, Accept: "application/vnd.github.v3+json", "User-Agent": "JobPoster-Bot/1.0" }
-        });
-        if (!r.ok) return;
-        const files = await r.json();
-        if (!Array.isArray(files)) return;
-        files.forEach(f => {
-          if (f.name.endsWith(".json") && f.type === "file") allFiles.push(f.path);
-        });
-      } catch { }
-    }));
-  }
+  const startCompany = (sitemapId - 1) * COMPANIES_PER_SITEMAP;
+  const companies = allCompanies.slice(startCompany, startCompany + COMPANIES_PER_SITEMAP);
 
   const urls = [];
 
@@ -95,13 +47,19 @@ export default async function handler(req, res) {
   </url>`);
   }
 
-  for (const filePath of allFiles) {
-    urls.push(`  <url>
+  // Generate job URLs directly from companies — no API call needed
+  for (const company of companies) {
+    const companySlug = company.name.toLowerCase().replace(/[^a-z0-9]+/g, "-").substring(0, 50);
+    for (let postIdx = 0; postIdx < POSTS_PER_COMPANY; postIdx++) {
+      const posting = generateJobPosting(company, postIdx, dateStr);
+      const filePath = `jobs/${dateStr}/${companySlug}/${posting.slug}.json`;
+      urls.push(`  <url>
     <loc>${baseUrl}/api/job?path=${encodeURIComponent(filePath)}</loc>
     <lastmod>${dateStr}</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>`);
+    }
   }
 
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
