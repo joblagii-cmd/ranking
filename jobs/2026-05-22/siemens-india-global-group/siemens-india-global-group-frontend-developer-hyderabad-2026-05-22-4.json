@@ -1,0 +1,93 @@
+{
+  "slug": "siemens-india-global-group-frontend-developer-hyderabad-2026-05-22-4",
+  "title": "Mid-Level Frontend Developer at Siemens India Global Group",
+  "company": "Siemens India Global Group",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Kubernetes",
+    "Rust",
+    "SQL",
+    "TypeScript",
+    "MongoDB",
+    "Agile/Scrum",
+    "Machine Learning",
+    "CI/CD"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Frontend Developer at Siemens India Global Group",
+    "description": "Are you a skilled Frontend Developer looking for your next big career move? Siemens India Global Group in Hyderabad offers you the perfect platform to grow professionally and personally.\n\nAbout Siemens India Global Group:\nSiemens India Global Group is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write clean, maintainable, and well-documented code\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Design, develop and maintain scalable software applications\n• Ensure code security and follow best practices for data protection\n• Optimize application performance and ensure high availability\n• Contribute to system architecture and technical design decisions\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 1-3 years of relevant experience\n• Proficiency in Kubernetes\n• Proficiency in Rust\n• Proficiency in SQL\n• Proficiency in TypeScript\n• Proficiency in MongoDB\n• Proficiency in Agile/Scrum\n• Proficiency in Machine Learning\n• Proficiency in CI/CD\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Annual performance appraisal\n• Professional development and training programs\n• Mobile and internet reimbursement\n• Recognition and rewards programs\n• Competitive salary with performance-linked incentives\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Hyderabad, Telangana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Siemens India Global Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Siemens India Global Group",
+      "value": "1897-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Siemens India Global Group",
+      "sameAs": "https://www.google.com/search?q=Siemens%20India%20Global%20Group",
+      "logo": "https://logo.clearbit.com/siemensindiaglobalgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Siemens India Global Group Office",
+        "addressLocality": "Hyderabad",
+        "addressRegion": "Telangana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "Kubernetes, Rust, SQL, TypeScript, MongoDB, Agile/Scrum, Machine Learning, CI/CD",
+    "responsibilities": "Write clean, maintainable, and well-documented code. Troubleshoot, debug, and resolve software defects and performance issues. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Design, develop and maintain scalable software applications. Ensure code security and follow best practices for data protection. Optimize application performance and ensure high availability. Contribute to system architecture and technical design decisions",
+    "benefits": "Work-from-home flexibility. Annual performance appraisal. Professional development and training programs. Mobile and internet reimbursement. Recognition and rewards programs. Competitive salary with performance-linked incentives",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Annual performance appraisal, Professional development and training programs, Mobile and internet reimbursement, Recognition and rewards programs, Competitive salary with performance-linked incentives"
+  },
+  "meta": {
+    "description": "Are you a skilled Frontend Developer looking for your next big career move? Siemens India Global Group in Hyderabad offers you the perfect platform to grow prof",
+    "keywords": "Frontend Developer, Siemens India Global Group, jobs in Hyderabad, Telangana jobs, technology jobs India, Kubernetes, Rust, SQL, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:55:37.402Z",
+  "page": 474
+}
