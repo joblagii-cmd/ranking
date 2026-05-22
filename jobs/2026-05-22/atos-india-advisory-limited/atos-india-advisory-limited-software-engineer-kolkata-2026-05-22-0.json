@@ -1,0 +1,94 @@
+{
+  "slug": "atos-india-advisory-limited-software-engineer-kolkata-2026-05-22-0",
+  "title": "Immediate Requirement Software Engineer at Atos India Advisory Limited",
+  "company": "Atos India Advisory Limited",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "REST APIs",
+    "Microservices",
+    "Go",
+    "AWS",
+    "Agile/Scrum",
+    "MongoDB",
+    "Git",
+    "Docker"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Immediate Requirement Software Engineer at Atos India Advisory Limited",
+    "description": "Are you a skilled Software Engineer looking for your next big career move? Atos India Advisory Limited in Kolkata offers you the perfect platform to grow professionally and personally.\n\nAbout Atos India Advisory Limited:\nAtos India Advisory Limited is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Integrate third-party APIs and services\n• Participate in code reviews and contribute to technical discussions\n• Design, develop and maintain scalable software applications\n• Ensure code security and follow best practices for data protection\n• Write and execute unit tests and integration tests\n• Participate in on-call rotation for production support\n• Contribute to system architecture and technical design decisions\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 12-20 years of relevant experience\n• Proficiency in REST APIs\n• Proficiency in Microservices\n• Proficiency in Go\n• Proficiency in AWS\n• Proficiency in Agile/Scrum\n• Proficiency in MongoDB\n• Proficiency in Git\n• Proficiency in Docker\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Modern office with recreational facilities\n• Learning & development budget\n• International travel opportunities for senior roles\n• Competitive salary with performance-linked incentives\n• Annual paid leaves and casual leaves\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Kolkata, West Bengal, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Atos India Advisory Limited!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Atos India Advisory Limited",
+      "value": "1902-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Atos India Advisory Limited",
+      "sameAs": "https://www.google.com/search?q=Atos%20India%20Advisory%20Limited",
+      "logo": "https://logo.clearbit.com/atosindiaadvisorylimited.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Atos India Advisory Limited Office",
+        "addressLocality": "Kolkata",
+        "addressRegion": "West Bengal",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "REST APIs, Microservices, Go, AWS, Agile/Scrum, MongoDB, Git, Docker",
+    "responsibilities": "Integrate third-party APIs and services. Participate in code reviews and contribute to technical discussions. Design, develop and maintain scalable software applications. Ensure code security and follow best practices for data protection. Write and execute unit tests and integration tests. Participate in on-call rotation for production support. Contribute to system architecture and technical design decisions",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Modern office with recreational facilities. Learning & development budget. International travel opportunities for senior roles. Competitive salary with performance-linked incentives. Annual paid leaves and casual leaves",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Modern office with recreational facilities, Learning & development budget, International travel opportunities for senior roles, Competitive salary with performance-linked incentives, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "Are you a skilled Software Engineer looking for your next big career move? Atos India Advisory Limited in Kolkata offers you the perfect platform to grow profes",
+    "keywords": "Software Engineer, Atos India Advisory Limited, jobs in Kolkata, West Bengal jobs, technology jobs India, REST APIs, Microservices, Go, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:55:45.764Z",
+  "page": 475
+}

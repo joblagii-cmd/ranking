@@ -1,0 +1,93 @@
+{
+  "slug": "dxc-technology-india-ventures-solutions-software-engineer-pune-2026-05-22-0",
+  "title": "Immediate Requirement Software Engineer at DXC Technology India Ventures Solutions",
+  "company": "DXC Technology India Ventures Solutions",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Pune",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Microservices",
+    "Docker",
+    "REST APIs",
+    "Rust",
+    "Java",
+    "TensorFlow",
+    "Node.js",
+    "Go"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Immediate Requirement Software Engineer at DXC Technology India Ventures Solutions",
+    "description": "Are you a skilled Software Engineer looking for your next big career move? DXC Technology India Ventures Solutions in Pune offers you the perfect platform to grow professionally and personally.\n\nAbout DXC Technology India Ventures Solutions:\nDXC Technology India Ventures Solutions is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in on-call rotation for production support\n• Implement new features based on product requirements\n• Collaborate with cross-functional teams including product, design, and QA\n• Design, develop and maintain scalable software applications\n• Optimize application performance and ensure high availability\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Ensure code security and follow best practices for data protection\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 6-10 years of relevant experience\n• Proficiency in Microservices\n• Proficiency in Docker\n• Proficiency in REST APIs\n• Proficiency in Rust\n• Proficiency in Java\n• Proficiency in TensorFlow\n• Proficiency in Node.js\n• Proficiency in Go\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Flexible working hours\n• Mobile and internet reimbursement\n• Annual performance appraisal\n• Recognition and rewards programs\n• Transportation and conveyance allowance\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Pune, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with DXC Technology India Ventures Solutions!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "DXC Technology India Ventures Solutions",
+      "value": "1904-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "DXC Technology India Ventures Solutions",
+      "sameAs": "https://www.google.com/search?q=DXC%20Technology%20India%20Ventures%20Solutions",
+      "logo": "https://logo.clearbit.com/dxctechnologyindiaventuressolutions.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "DXC Technology India Ventures Solutions Office",
+        "addressLocality": "Pune",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "Microservices, Docker, REST APIs, Rust, Java, TensorFlow, Node.js, Go",
+    "responsibilities": "Participate in on-call rotation for production support. Implement new features based on product requirements. Collaborate with cross-functional teams including product, design, and QA. Design, develop and maintain scalable software applications. Optimize application performance and ensure high availability. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Ensure code security and follow best practices for data protection",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Flexible working hours. Mobile and internet reimbursement. Annual performance appraisal. Recognition and rewards programs. Transportation and conveyance allowance",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Flexible working hours, Mobile and internet reimbursement, Annual performance appraisal, Recognition and rewards programs, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "Are you a skilled Software Engineer looking for your next big career move? DXC Technology India Ventures Solutions in Pune offers you the perfect platform to gr",
+    "keywords": "Software Engineer, DXC Technology India Ventures Solutions, jobs in Pune, Maharashtra jobs, technology jobs India, Microservices, Docker, REST APIs, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:55:45.765Z",
+  "page": 475
+}

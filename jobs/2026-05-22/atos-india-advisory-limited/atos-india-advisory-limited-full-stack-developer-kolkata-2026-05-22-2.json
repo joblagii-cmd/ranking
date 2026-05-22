@@ -1,0 +1,93 @@
+{
+  "slug": "atos-india-advisory-limited-full-stack-developer-kolkata-2026-05-22-2",
+  "title": "Atos India Advisory Limited is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "Atos India Advisory Limited",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "region": "Eastern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "TensorFlow",
+    "Node.js",
+    "Agile/Scrum",
+    "React",
+    "Go",
+    "TypeScript",
+    "Microservices",
+    "Rust"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Atos India Advisory Limited is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "Are you a skilled Full Stack Developer looking for your next big career move? Atos India Advisory Limited in Kolkata offers you the perfect platform to grow professionally and personally.\n\nAbout Atos India Advisory Limited:\nAtos India Advisory Limited is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Integrate third-party APIs and services\n• Ensure code security and follow best practices for data protection\n• Contribute to system architecture and technical design decisions\n• Implement new features based on product requirements\n• Optimize application performance and ensure high availability\n• Design, develop and maintain scalable software applications\n• Collaborate with cross-functional teams including product, design, and QA\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 6-10 years of relevant experience\n• Proficiency in TensorFlow\n• Proficiency in Node.js\n• Proficiency in Agile/Scrum\n• Proficiency in React\n• Proficiency in Go\n• Proficiency in TypeScript\n• Proficiency in Microservices\n• Proficiency in Rust\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Annual performance appraisal\n• Employee stock options (ESOPs) for eligible roles\n• Annual paid leaves and casual leaves\n• Transportation and conveyance allowance\n• Comprehensive health insurance for self and family\n• Flexible working hours\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Kolkata, West Bengal, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Atos India Advisory Limited!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Atos India Advisory Limited",
+      "value": "1902-2-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Atos India Advisory Limited",
+      "sameAs": "https://www.google.com/search?q=Atos%20India%20Advisory%20Limited",
+      "logo": "https://logo.clearbit.com/atosindiaadvisorylimited.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Atos India Advisory Limited Office",
+        "addressLocality": "Kolkata",
+        "addressRegion": "West Bengal",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "TensorFlow, Node.js, Agile/Scrum, React, Go, TypeScript, Microservices, Rust",
+    "responsibilities": "Integrate third-party APIs and services. Ensure code security and follow best practices for data protection. Contribute to system architecture and technical design decisions. Implement new features based on product requirements. Optimize application performance and ensure high availability. Design, develop and maintain scalable software applications. Collaborate with cross-functional teams including product, design, and QA",
+    "benefits": "Annual performance appraisal. Employee stock options (ESOPs) for eligible roles. Annual paid leaves and casual leaves. Transportation and conveyance allowance. Comprehensive health insurance for self and family. Flexible working hours",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual performance appraisal, Employee stock options (ESOPs) for eligible roles, Annual paid leaves and casual leaves, Transportation and conveyance allowance, Comprehensive health insurance for self and family, Flexible working hours"
+  },
+  "meta": {
+    "description": "Are you a skilled Full Stack Developer looking for your next big career move? Atos India Advisory Limited in Kolkata offers you the perfect platform to grow pro",
+    "keywords": "Full Stack Developer, Atos India Advisory Limited, jobs in Kolkata, West Bengal jobs, technology jobs India, TensorFlow, Node.js, Agile/Scrum, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:55:45.764Z",
+  "page": 475
+}

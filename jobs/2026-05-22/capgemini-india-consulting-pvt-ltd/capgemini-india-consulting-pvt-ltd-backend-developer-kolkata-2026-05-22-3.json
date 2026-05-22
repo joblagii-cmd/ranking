@@ -1,0 +1,94 @@
+{
+  "slug": "capgemini-india-consulting-pvt-ltd-backend-developer-kolkata-2026-05-22-3",
+  "title": "Backend Developer Vacancy at Capgemini India Consulting Pvt Ltd - 2026 Batch",
+  "company": "Capgemini India Consulting Pvt Ltd",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "SQL",
+    "CI/CD",
+    "React",
+    "Agile/Scrum",
+    "MongoDB",
+    "Rust",
+    "Java",
+    "Git"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Capgemini India Consulting Pvt Ltd - 2026 Batch",
+    "description": "Are you a skilled Backend Developer looking for your next big career move? Capgemini India Consulting Pvt Ltd in Kolkata offers you the perfect platform to grow professionally and personally.\n\nAbout Capgemini India Consulting Pvt Ltd:\nCapgemini India Consulting Pvt Ltd is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Contribute to system architecture and technical design decisions\n• Design, develop and maintain scalable software applications\n• Write and execute unit tests and integration tests\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Write clean, maintainable, and well-documented code\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Implement new features based on product requirements\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 6-10 years of relevant experience\n• Proficiency in SQL\n• Proficiency in CI/CD\n• Proficiency in React\n• Proficiency in Agile/Scrum\n• Proficiency in MongoDB\n• Proficiency in Rust\n• Proficiency in Java\n• Proficiency in Git\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Referral bonus program\n• Mobile and internet reimbursement\n• Modern office with recreational facilities\n• Life and accident insurance\n• International travel opportunities for senior roles\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Kolkata, West Bengal, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Capgemini India Consulting Pvt Ltd!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Capgemini India Consulting Pvt Ltd",
+      "value": "1901-3-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Capgemini India Consulting Pvt Ltd",
+      "sameAs": "https://www.google.com/search?q=Capgemini%20India%20Consulting%20Pvt%20Ltd",
+      "logo": "https://logo.clearbit.com/capgeminiindiaconsultingpvtltd.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Capgemini India Consulting Pvt Ltd Office",
+        "addressLocality": "Kolkata",
+        "addressRegion": "West Bengal",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "SQL, CI/CD, React, Agile/Scrum, MongoDB, Rust, Java, Git",
+    "responsibilities": "Contribute to system architecture and technical design decisions. Design, develop and maintain scalable software applications. Write and execute unit tests and integration tests. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Write clean, maintainable, and well-documented code. Mentor junior developers and conduct knowledge-sharing sessions. Implement new features based on product requirements",
+    "benefits": "Competitive salary with performance-linked incentives. Referral bonus program. Mobile and internet reimbursement. Modern office with recreational facilities. Life and accident insurance. International travel opportunities for senior roles",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Referral bonus program, Mobile and internet reimbursement, Modern office with recreational facilities, Life and accident insurance, International travel opportunities for senior roles"
+  },
+  "meta": {
+    "description": "Are you a skilled Backend Developer looking for your next big career move? Capgemini India Consulting Pvt Ltd in Kolkata offers you the perfect platform to grow",
+    "keywords": "Backend Developer, Capgemini India Consulting Pvt Ltd, jobs in Kolkata, West Bengal jobs, technology jobs India, SQL, CI/CD, React, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:55:45.763Z",
+  "page": 475
+}

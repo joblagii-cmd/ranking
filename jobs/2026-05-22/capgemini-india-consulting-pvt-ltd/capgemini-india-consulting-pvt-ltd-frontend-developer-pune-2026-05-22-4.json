@@ -1,0 +1,93 @@
+{
+  "slug": "capgemini-india-consulting-pvt-ltd-frontend-developer-pune-2026-05-22-4",
+  "title": "Mid-Level Frontend Developer at Capgemini India Consulting Pvt Ltd",
+  "company": "Capgemini India Consulting Pvt Ltd",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Pune",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Machine Learning",
+    "AWS",
+    "Kubernetes",
+    "Microservices",
+    "Agile/Scrum",
+    "Java",
+    "MongoDB",
+    "Python"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Frontend Developer at Capgemini India Consulting Pvt Ltd",
+    "description": "Are you a skilled Frontend Developer looking for your next big career move? Capgemini India Consulting Pvt Ltd in Pune offers you the perfect platform to grow professionally and personally.\n\nAbout Capgemini India Consulting Pvt Ltd:\nCapgemini India Consulting Pvt Ltd is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Optimize application performance and ensure high availability\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Implement new features based on product requirements\n• Participate in on-call rotation for production support\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Integrate third-party APIs and services\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 3-6 years of relevant experience\n• Proficiency in Machine Learning\n• Proficiency in AWS\n• Proficiency in Kubernetes\n• Proficiency in Microservices\n• Proficiency in Agile/Scrum\n• Proficiency in Java\n• Proficiency in MongoDB\n• Proficiency in Python\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Flexible working hours\n• Modern office with recreational facilities\n• Company-sponsored certifications\n• Comprehensive health insurance for self and family\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Pune, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Capgemini India Consulting Pvt Ltd!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Capgemini India Consulting Pvt Ltd",
+      "value": "1901-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Capgemini India Consulting Pvt Ltd",
+      "sameAs": "https://www.google.com/search?q=Capgemini%20India%20Consulting%20Pvt%20Ltd",
+      "logo": "https://logo.clearbit.com/capgeminiindiaconsultingpvtltd.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Capgemini India Consulting Pvt Ltd Office",
+        "addressLocality": "Pune",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "Machine Learning, AWS, Kubernetes, Microservices, Agile/Scrum, Java, MongoDB, Python",
+    "responsibilities": "Optimize application performance and ensure high availability. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Work with agile methodologies including daily stand-ups and sprint planning. Implement new features based on product requirements. Participate in on-call rotation for production support. Troubleshoot, debug, and resolve software defects and performance issues. Integrate third-party APIs and services",
+    "benefits": "Competitive salary with performance-linked incentives. Flexible working hours. Modern office with recreational facilities. Company-sponsored certifications. Comprehensive health insurance for self and family. Provident Fund and Gratuity as per company policy",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Flexible working hours, Modern office with recreational facilities, Company-sponsored certifications, Comprehensive health insurance for self and family, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "Are you a skilled Frontend Developer looking for your next big career move? Capgemini India Consulting Pvt Ltd in Pune offers you the perfect platform to grow p",
+    "keywords": "Frontend Developer, Capgemini India Consulting Pvt Ltd, jobs in Pune, Maharashtra jobs, technology jobs India, Machine Learning, AWS, Kubernetes, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:55:45.763Z",
+  "page": 475
+}
