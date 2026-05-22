@@ -1,0 +1,93 @@
+{
+  "slug": "texas-instruments-india-international-enterprises-senior-software-engineer-mysuru-2026-05-22-1",
+  "title": "Senior Software Engineer - Texas Instruments India International Enterprises - Freshers Welcome",
+  "company": "Texas Instruments India International Enterprises",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "TypeScript",
+    "Machine Learning",
+    "Docker",
+    "CI/CD",
+    "REST APIs",
+    "TensorFlow",
+    "Node.js",
+    "SQL"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Texas Instruments India International Enterprises - Freshers Welcome",
+    "description": "Are you a skilled Senior Software Engineer looking for your next big career move? Texas Instruments India International Enterprises in Mysuru offers you the perfect platform to grow professionally and personally.\n\nAbout Texas Instruments India International Enterprises:\nTexas Instruments India International Enterprises is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Implement new features based on product requirements\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Optimize application performance and ensure high availability\n• Ensure code security and follow best practices for data protection\n• Participate in code reviews and contribute to technical discussions\n• Troubleshoot, debug, and resolve software defects and performance issues\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 3-6 years of relevant experience\n• Proficiency in TypeScript\n• Proficiency in Machine Learning\n• Proficiency in Docker\n• Proficiency in CI/CD\n• Proficiency in REST APIs\n• Proficiency in TensorFlow\n• Proficiency in Node.js\n• Proficiency in SQL\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Recognition and rewards programs\n• Work-from-home flexibility\n• Modern office with recreational facilities\n• Comprehensive health insurance for self and family\n• Learning & development budget\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Mysuru, Karnataka, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Texas Instruments India International Enterprises!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Texas Instruments India International Enterprises",
+      "value": "1888-1-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Texas Instruments India International Enterprises",
+      "sameAs": "https://www.google.com/search?q=Texas%20Instruments%20India%20International%20Enterprises",
+      "logo": "https://logo.clearbit.com/texasinstrumentsindiainternationalenterprises.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Texas Instruments India International Enterprises Office",
+        "addressLocality": "Mysuru",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "TypeScript, Machine Learning, Docker, CI/CD, REST APIs, TensorFlow, Node.js, SQL",
+    "responsibilities": "Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Implement new features based on product requirements. Work with agile methodologies including daily stand-ups and sprint planning. Optimize application performance and ensure high availability. Ensure code security and follow best practices for data protection. Participate in code reviews and contribute to technical discussions. Troubleshoot, debug, and resolve software defects and performance issues",
+    "benefits": "Competitive salary with performance-linked incentives. Recognition and rewards programs. Work-from-home flexibility. Modern office with recreational facilities. Comprehensive health insurance for self and family. Learning & development budget",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Recognition and rewards programs, Work-from-home flexibility, Modern office with recreational facilities, Comprehensive health insurance for self and family, Learning & development budget"
+  },
+  "meta": {
+    "description": "Are you a skilled Senior Software Engineer looking for your next big career move? Texas Instruments India International Enterprises in Mysuru offers you the per",
+    "keywords": "Senior Software Engineer, Texas Instruments India International Enterprises, jobs in Mysuru, Karnataka jobs, technology jobs India, TypeScript, Machine Learning, Docker, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:55:11.747Z",
+  "page": 471
+}

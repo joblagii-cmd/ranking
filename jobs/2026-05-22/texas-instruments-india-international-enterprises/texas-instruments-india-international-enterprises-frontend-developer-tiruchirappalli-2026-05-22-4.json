@@ -1,0 +1,93 @@
+{
+  "slug": "texas-instruments-india-international-enterprises-frontend-developer-tiruchirappalli-2026-05-22-4",
+  "title": "Mid-Level Frontend Developer at Texas Instruments India International Enterprises",
+  "company": "Texas Instruments India International Enterprises",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Agile/Scrum",
+    "Rust",
+    "Microservices",
+    "Kubernetes",
+    "Java",
+    "TypeScript",
+    "Python",
+    "Machine Learning"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Frontend Developer at Texas Instruments India International Enterprises",
+    "description": "Are you a skilled Frontend Developer looking for your next big career move? Texas Instruments India International Enterprises in Tiruchirappalli offers you the perfect platform to grow professionally and personally.\n\nAbout Texas Instruments India International Enterprises:\nTexas Instruments India International Enterprises is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in code reviews and contribute to technical discussions\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Write and execute unit tests and integration tests\n• Optimize application performance and ensure high availability\n• Implement new features based on product requirements\n• Integrate third-party APIs and services\n• Write clean, maintainable, and well-documented code\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 12-20 years of relevant experience\n• Proficiency in Agile/Scrum\n• Proficiency in Rust\n• Proficiency in Microservices\n• Proficiency in Kubernetes\n• Proficiency in Java\n• Proficiency in TypeScript\n• Proficiency in Python\n• Proficiency in Machine Learning\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Modern office with recreational facilities\n• International travel opportunities for senior roles\n• Competitive salary with performance-linked incentives\n• Company-sponsored certifications\n• Comprehensive health insurance for self and family\n• Transportation and conveyance allowance\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Tiruchirappalli, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Texas Instruments India International Enterprises!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Texas Instruments India International Enterprises",
+      "value": "1888-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Texas Instruments India International Enterprises",
+      "sameAs": "https://www.google.com/search?q=Texas%20Instruments%20India%20International%20Enterprises",
+      "logo": "https://logo.clearbit.com/texasinstrumentsindiainternationalenterprises.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Texas Instruments India International Enterprises Office",
+        "addressLocality": "Tiruchirappalli",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "Agile/Scrum, Rust, Microservices, Kubernetes, Java, TypeScript, Python, Machine Learning",
+    "responsibilities": "Participate in code reviews and contribute to technical discussions. Work with agile methodologies including daily stand-ups and sprint planning. Write and execute unit tests and integration tests. Optimize application performance and ensure high availability. Implement new features based on product requirements. Integrate third-party APIs and services. Write clean, maintainable, and well-documented code",
+    "benefits": "Modern office with recreational facilities. International travel opportunities for senior roles. Competitive salary with performance-linked incentives. Company-sponsored certifications. Comprehensive health insurance for self and family. Transportation and conveyance allowance",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Modern office with recreational facilities, International travel opportunities for senior roles, Competitive salary with performance-linked incentives, Company-sponsored certifications, Comprehensive health insurance for self and family, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "Are you a skilled Frontend Developer looking for your next big career move? Texas Instruments India International Enterprises in Tiruchirappalli offers you the ",
+    "keywords": "Frontend Developer, Texas Instruments India International Enterprises, jobs in Tiruchirappalli, Tamil Nadu jobs, technology jobs India, Agile/Scrum, Rust, Microservices, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:55:11.747Z",
+  "page": 471
+}

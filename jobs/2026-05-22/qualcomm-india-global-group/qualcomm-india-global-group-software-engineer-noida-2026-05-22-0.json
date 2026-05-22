@@ -1,0 +1,93 @@
+{
+  "slug": "qualcomm-india-global-group-software-engineer-noida-2026-05-22-0",
+  "title": "Walk-in Drive Software Engineer at Qualcomm India Global Group",
+  "company": "Qualcomm India Global Group",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Kubernetes",
+    "Agile/Scrum",
+    "Docker",
+    "Rust",
+    "REST APIs",
+    "Node.js",
+    "Python",
+    "Machine Learning"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Walk-in Drive Software Engineer at Qualcomm India Global Group",
+    "description": "Qualcomm India Global Group has an exciting opening for a Software Engineer at our Noida office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Qualcomm India Global Group:\nQualcomm India Global Group is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in on-call rotation for production support\n• Design, develop and maintain scalable software applications\n• Integrate third-party APIs and services\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Contribute to system architecture and technical design decisions\n• Optimize application performance and ensure high availability\n• Write clean, maintainable, and well-documented code\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 10-15 years of relevant experience\n• Proficiency in Kubernetes\n• Proficiency in Agile/Scrum\n• Proficiency in Docker\n• Proficiency in Rust\n• Proficiency in REST APIs\n• Proficiency in Node.js\n• Proficiency in Python\n• Proficiency in Machine Learning\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Meal coupons and food allowance\n• Annual performance appraisal\n• Provident Fund and Gratuity as per company policy\n• International travel opportunities for senior roles\n• Modern office with recreational facilities\n• Life and accident insurance\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Noida, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Qualcomm India Global Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Qualcomm India Global Group",
+      "value": "1887-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Qualcomm India Global Group",
+      "sameAs": "https://www.google.com/search?q=Qualcomm%20India%20Global%20Group",
+      "logo": "https://logo.clearbit.com/qualcommindiaglobalgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Qualcomm India Global Group Office",
+        "addressLocality": "Noida",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "Kubernetes, Agile/Scrum, Docker, Rust, REST APIs, Node.js, Python, Machine Learning",
+    "responsibilities": "Participate in on-call rotation for production support. Design, develop and maintain scalable software applications. Integrate third-party APIs and services. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Contribute to system architecture and technical design decisions. Optimize application performance and ensure high availability. Write clean, maintainable, and well-documented code",
+    "benefits": "Meal coupons and food allowance. Annual performance appraisal. Provident Fund and Gratuity as per company policy. International travel opportunities for senior roles. Modern office with recreational facilities. Life and accident insurance",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Meal coupons and food allowance, Annual performance appraisal, Provident Fund and Gratuity as per company policy, International travel opportunities for senior roles, Modern office with recreational facilities, Life and accident insurance"
+  },
+  "meta": {
+    "description": "Qualcomm India Global Group has an exciting opening for a Software Engineer at our Noida office. Join a company that values innovation, collaboration, and conti",
+    "keywords": "Software Engineer, Qualcomm India Global Group, jobs in Noida, Uttar Pradesh jobs, technology jobs India, Kubernetes, Agile/Scrum, Docker, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:55:11.746Z",
+  "page": 471
+}

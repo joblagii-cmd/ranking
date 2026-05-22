@@ -1,0 +1,93 @@
+{
+  "slug": "qualcomm-india-global-group-frontend-developer-mysuru-2026-05-22-4",
+  "title": "Mid-Level Frontend Developer at Qualcomm India Global Group",
+  "company": "Qualcomm India Global Group",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "AWS",
+    "Microservices",
+    "Go",
+    "Node.js",
+    "React",
+    "Java",
+    "Python",
+    "SQL"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Frontend Developer at Qualcomm India Global Group",
+    "description": "Are you a skilled Frontend Developer looking for your next big career move? Qualcomm India Global Group in Mysuru offers you the perfect platform to grow professionally and personally.\n\nAbout Qualcomm India Global Group:\nQualcomm India Global Group is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Integrate third-party APIs and services\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Write clean, maintainable, and well-documented code\n• Ensure code security and follow best practices for data protection\n• Design, develop and maintain scalable software applications\n• Participate in on-call rotation for production support\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 0-1 years of relevant experience\n• Proficiency in AWS\n• Proficiency in Microservices\n• Proficiency in Go\n• Proficiency in Node.js\n• Proficiency in React\n• Proficiency in Java\n• Proficiency in Python\n• Proficiency in SQL\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Flexible working hours\n• Company-sponsored certifications\n• Learning & development budget\n• Professional development and training programs\n• Referral bonus program\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Mysuru, Karnataka, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Qualcomm India Global Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Qualcomm India Global Group",
+      "value": "1887-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Qualcomm India Global Group",
+      "sameAs": "https://www.google.com/search?q=Qualcomm%20India%20Global%20Group",
+      "logo": "https://logo.clearbit.com/qualcommindiaglobalgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Qualcomm India Global Group Office",
+        "addressLocality": "Mysuru",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "AWS, Microservices, Go, Node.js, React, Java, Python, SQL",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Integrate third-party APIs and services. Work with agile methodologies including daily stand-ups and sprint planning. Write clean, maintainable, and well-documented code. Ensure code security and follow best practices for data protection. Design, develop and maintain scalable software applications. Participate in on-call rotation for production support",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Flexible working hours. Company-sponsored certifications. Learning & development budget. Professional development and training programs. Referral bonus program",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Flexible working hours, Company-sponsored certifications, Learning & development budget, Professional development and training programs, Referral bonus program"
+  },
+  "meta": {
+    "description": "Are you a skilled Frontend Developer looking for your next big career move? Qualcomm India Global Group in Mysuru offers you the perfect platform to grow profes",
+    "keywords": "Frontend Developer, Qualcomm India Global Group, jobs in Mysuru, Karnataka jobs, technology jobs India, AWS, Microservices, Go, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:55:11.747Z",
+  "page": 471
+}

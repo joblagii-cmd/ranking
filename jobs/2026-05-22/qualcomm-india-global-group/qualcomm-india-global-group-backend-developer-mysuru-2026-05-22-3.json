@@ -1,0 +1,93 @@
+{
+  "slug": "qualcomm-india-global-group-backend-developer-mysuru-2026-05-22-3",
+  "title": "Backend Developer Vacancy at Qualcomm India Global Group - 2026 Batch",
+  "company": "Qualcomm India Global Group",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "SQL",
+    "TypeScript",
+    "Kubernetes",
+    "Rust",
+    "Agile/Scrum",
+    "Git",
+    "Docker",
+    "AWS"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Qualcomm India Global Group - 2026 Batch",
+    "description": "Are you a skilled Backend Developer looking for your next big career move? Qualcomm India Global Group in Mysuru offers you the perfect platform to grow professionally and personally.\n\nAbout Qualcomm India Global Group:\nQualcomm India Global Group is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Ensure code security and follow best practices for data protection\n• Collaborate with cross-functional teams including product, design, and QA\n• Integrate third-party APIs and services\n• Write and execute unit tests and integration tests\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 1-3 years of relevant experience\n• Proficiency in SQL\n• Proficiency in TypeScript\n• Proficiency in Kubernetes\n• Proficiency in Rust\n• Proficiency in Agile/Scrum\n• Proficiency in Git\n• Proficiency in Docker\n• Proficiency in AWS\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Competitive salary with performance-linked incentives\n• Professional development and training programs\n• Work-from-home flexibility\n• Comprehensive health insurance for self and family\n• Flexible working hours\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Mysuru, Karnataka, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Qualcomm India Global Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Qualcomm India Global Group",
+      "value": "1887-3-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Qualcomm India Global Group",
+      "sameAs": "https://www.google.com/search?q=Qualcomm%20India%20Global%20Group",
+      "logo": "https://logo.clearbit.com/qualcommindiaglobalgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Qualcomm India Global Group Office",
+        "addressLocality": "Mysuru",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "SQL, TypeScript, Kubernetes, Rust, Agile/Scrum, Git, Docker, AWS",
+    "responsibilities": "Design, develop and maintain scalable software applications. Work with agile methodologies including daily stand-ups and sprint planning. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Ensure code security and follow best practices for data protection. Collaborate with cross-functional teams including product, design, and QA. Integrate third-party APIs and services. Write and execute unit tests and integration tests",
+    "benefits": "Annual paid leaves and casual leaves. Competitive salary with performance-linked incentives. Professional development and training programs. Work-from-home flexibility. Comprehensive health insurance for self and family. Flexible working hours",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Competitive salary with performance-linked incentives, Professional development and training programs, Work-from-home flexibility, Comprehensive health insurance for self and family, Flexible working hours"
+  },
+  "meta": {
+    "description": "Are you a skilled Backend Developer looking for your next big career move? Qualcomm India Global Group in Mysuru offers you the perfect platform to grow profess",
+    "keywords": "Backend Developer, Qualcomm India Global Group, jobs in Mysuru, Karnataka jobs, technology jobs India, SQL, TypeScript, Kubernetes, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:55:11.747Z",
+  "page": 471
+}
