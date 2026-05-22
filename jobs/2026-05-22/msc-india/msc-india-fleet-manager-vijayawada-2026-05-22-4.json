@@ -1,0 +1,94 @@
+{
+  "slug": "msc-india-fleet-manager-vijayawada-2026-05-22-4",
+  "title": "Mid-Level Fleet Manager at MSC India",
+  "company": "MSC India",
+  "industry": "logistics",
+  "role": "Fleet Manager",
+  "location": {
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Data Analytics",
+    "Vendor Management",
+    "GPS Tracking Systems",
+    "TMS",
+    "WMS",
+    "SAP SCM",
+    "Inventory Management",
+    "Freight Forwarding"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Fleet Manager at MSC India",
+    "description": "Join the MSC India family as a Fleet Manager in Vijayawada. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout MSC India:\nMSC India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Conduct periodic vendor audits and evaluate logistics partners\n• Oversee end-to-end logistics operations for timely delivery\n• Manage reverse logistics and return merchandise authorization\n• Handle customs clearance for import and export shipments\n• Implement warehouse management systems (WMS) and track KPIs\n• Manage a fleet of vehicles and coordinate with drivers\n• Ensure proper handling, packaging, and labeling of goods\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 0-1 years of relevant experience\n• Proficiency in Data Analytics\n• Proficiency in Vendor Management\n• Proficiency in GPS Tracking Systems\n• Proficiency in TMS\n• Proficiency in WMS\n• Proficiency in SAP SCM\n• Proficiency in Inventory Management\n• Proficiency in Freight Forwarding\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Referral bonus program\n• Meal coupons and food allowance\n• International travel opportunities for senior roles\n• Employee stock options (ESOPs) for eligible roles\n• Transportation and conveyance allowance\n• Recognition and rewards programs\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Vijayawada, Andhra Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with MSC India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "MSC India",
+      "value": "792-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "MSC India",
+      "sameAs": "https://www.google.com/search?q=MSC%20India",
+      "logo": "https://logo.clearbit.com/mscindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "MSC India Office",
+        "addressLocality": "Vijayawada",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "Data Analytics, Vendor Management, GPS Tracking Systems, TMS, WMS, SAP SCM, Inventory Management, Freight Forwarding",
+    "responsibilities": "Conduct periodic vendor audits and evaluate logistics partners. Oversee end-to-end logistics operations for timely delivery. Manage reverse logistics and return merchandise authorization. Handle customs clearance for import and export shipments. Implement warehouse management systems (WMS) and track KPIs. Manage a fleet of vehicles and coordinate with drivers. Ensure proper handling, packaging, and labeling of goods",
+    "benefits": "Referral bonus program. Meal coupons and food allowance. International travel opportunities for senior roles. Employee stock options (ESOPs) for eligible roles. Transportation and conveyance allowance. Recognition and rewards programs",
+    "industry": "logistics",
+    "occupationalCategory": "Fleet Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Referral bonus program, Meal coupons and food allowance, International travel opportunities for senior roles, Employee stock options (ESOPs) for eligible roles, Transportation and conveyance allowance, Recognition and rewards programs"
+  },
+  "meta": {
+    "description": "Join the MSC India family as a Fleet Manager in Vijayawada. We believe in empowering our employees with the tools, training, and environment they need to succee",
+    "keywords": "Fleet Manager, MSC India, jobs in Vijayawada, Andhra Pradesh jobs, logistics jobs India, Data Analytics, Vendor Management, GPS Tracking Systems, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:56:36.657Z",
+  "page": 197
+}
