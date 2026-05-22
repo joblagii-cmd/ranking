@@ -1,0 +1,93 @@
+{
+  "slug": "cars24-south-asia-partners-full-stack-developer-agra-2026-05-22-2",
+  "title": "Cars24 South Asia Partners is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "Cars24 South Asia Partners",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "TypeScript",
+    "JavaScript",
+    "React",
+    "Microservices",
+    "Git",
+    "Python",
+    "Kubernetes",
+    "Docker"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Cars24 South Asia Partners is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "Cars24 South Asia Partners, one of India's leading organizations, is hiring a Full Stack Developer for our Agra operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Cars24 South Asia Partners:\nCars24 South Asia Partners is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Integrate third-party APIs and services\n• Design, develop and maintain scalable software applications\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Write and execute unit tests and integration tests\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Write clean, maintainable, and well-documented code\n• Participate in code reviews and contribute to technical discussions\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 3-6 years of relevant experience\n• Proficiency in TypeScript\n• Proficiency in JavaScript\n• Proficiency in React\n• Proficiency in Microservices\n• Proficiency in Git\n• Proficiency in Python\n• Proficiency in Kubernetes\n• Proficiency in Docker\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Mobile and internet reimbursement\n• Life and accident insurance\n• Recognition and rewards programs\n• Work-from-home flexibility\n• Learning & development budget\n• Professional development and training programs\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Agra, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Cars24 South Asia Partners!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Cars24 South Asia Partners",
+      "value": "1930-2-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Cars24 South Asia Partners",
+      "sameAs": "https://www.google.com/search?q=Cars24%20South%20Asia%20Partners",
+      "logo": "https://logo.clearbit.com/cars24southasiapartners.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Cars24 South Asia Partners Office",
+        "addressLocality": "Agra",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "TypeScript, JavaScript, React, Microservices, Git, Python, Kubernetes, Docker",
+    "responsibilities": "Integrate third-party APIs and services. Design, develop and maintain scalable software applications. Mentor junior developers and conduct knowledge-sharing sessions. Write and execute unit tests and integration tests. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Write clean, maintainable, and well-documented code. Participate in code reviews and contribute to technical discussions",
+    "benefits": "Mobile and internet reimbursement. Life and accident insurance. Recognition and rewards programs. Work-from-home flexibility. Learning & development budget. Professional development and training programs",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Mobile and internet reimbursement, Life and accident insurance, Recognition and rewards programs, Work-from-home flexibility, Learning & development budget, Professional development and training programs"
+  },
+  "meta": {
+    "description": "Cars24 South Asia Partners, one of India's leading organizations, is hiring a Full Stack Developer for our Agra operations. We offer a competitive salary packag",
+    "keywords": "Full Stack Developer, Cars24 South Asia Partners, jobs in Agra, Uttar Pradesh jobs, technology jobs India, TypeScript, JavaScript, React, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:56:43.747Z",
+  "page": 482
+}

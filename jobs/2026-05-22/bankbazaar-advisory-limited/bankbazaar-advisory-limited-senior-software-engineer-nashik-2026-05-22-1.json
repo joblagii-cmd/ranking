@@ -1,0 +1,93 @@
+{
+  "slug": "bankbazaar-advisory-limited-senior-software-engineer-nashik-2026-05-22-1",
+  "title": "Senior Software Engineer - BankBazaar Advisory Limited - Experienced Professionals",
+  "company": "BankBazaar Advisory Limited",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "TypeScript",
+    "TensorFlow",
+    "Docker",
+    "Rust",
+    "Java",
+    "Kubernetes",
+    "Agile/Scrum",
+    "React"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - BankBazaar Advisory Limited - Experienced Professionals",
+    "description": "BankBazaar Advisory Limited, one of India's leading organizations, is hiring a Senior Software Engineer for our Nashik operations. We offer a competitive salary package along with world-class benefits.\n\nAbout BankBazaar Advisory Limited:\nBankBazaar Advisory Limited is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write clean, maintainable, and well-documented code\n• Collaborate with cross-functional teams including product, design, and QA\n• Optimize application performance and ensure high availability\n• Implement new features based on product requirements\n• Ensure code security and follow best practices for data protection\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Design, develop and maintain scalable software applications\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 0-1 years of relevant experience\n• Proficiency in TypeScript\n• Proficiency in TensorFlow\n• Proficiency in Docker\n• Proficiency in Rust\n• Proficiency in Java\n• Proficiency in Kubernetes\n• Proficiency in Agile/Scrum\n• Proficiency in React\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Referral bonus program\n• Work-from-home flexibility\n• Annual performance appraisal\n• Professional development and training programs\n• Competitive salary with performance-linked incentives\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Nashik, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with BankBazaar Advisory Limited!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "BankBazaar Advisory Limited",
+      "value": "1932-1-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "BankBazaar Advisory Limited",
+      "sameAs": "https://www.google.com/search?q=BankBazaar%20Advisory%20Limited",
+      "logo": "https://logo.clearbit.com/bankbazaaradvisorylimited.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "BankBazaar Advisory Limited Office",
+        "addressLocality": "Nashik",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "TypeScript, TensorFlow, Docker, Rust, Java, Kubernetes, Agile/Scrum, React",
+    "responsibilities": "Write clean, maintainable, and well-documented code. Collaborate with cross-functional teams including product, design, and QA. Optimize application performance and ensure high availability. Implement new features based on product requirements. Ensure code security and follow best practices for data protection. Mentor junior developers and conduct knowledge-sharing sessions. Design, develop and maintain scalable software applications",
+    "benefits": "Annual paid leaves and casual leaves. Referral bonus program. Work-from-home flexibility. Annual performance appraisal. Professional development and training programs. Competitive salary with performance-linked incentives",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Referral bonus program, Work-from-home flexibility, Annual performance appraisal, Professional development and training programs, Competitive salary with performance-linked incentives"
+  },
+  "meta": {
+    "description": "BankBazaar Advisory Limited, one of India's leading organizations, is hiring a Senior Software Engineer for our Nashik operations. We offer a competitive salary",
+    "keywords": "Senior Software Engineer, BankBazaar Advisory Limited, jobs in Nashik, Maharashtra jobs, technology jobs India, TypeScript, TensorFlow, Docker, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:56:43.747Z",
+  "page": 482
+}

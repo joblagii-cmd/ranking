@@ -1,0 +1,94 @@
+{
+  "slug": "cars24-south-asia-partners-senior-software-engineer-agra-2026-05-22-1",
+  "title": "Senior Software Engineer - Cars24 South Asia Partners - Experienced Professionals",
+  "company": "Cars24 South Asia Partners",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "React",
+    "TypeScript",
+    "Machine Learning",
+    "AWS",
+    "MongoDB",
+    "Agile/Scrum",
+    "Java",
+    "Kubernetes"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Cars24 South Asia Partners - Experienced Professionals",
+    "description": "Cars24 South Asia Partners, one of India's leading organizations, is hiring a Senior Software Engineer for our Agra operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Cars24 South Asia Partners:\nCars24 South Asia Partners is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Write clean, maintainable, and well-documented code\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Participate in on-call rotation for production support\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Troubleshoot, debug, and resolve software defects and performance issues\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 6-10 years of relevant experience\n• Proficiency in React\n• Proficiency in TypeScript\n• Proficiency in Machine Learning\n• Proficiency in AWS\n• Proficiency in MongoDB\n• Proficiency in Agile/Scrum\n• Proficiency in Java\n• Proficiency in Kubernetes\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Meal coupons and food allowance\n• Referral bonus program\n• Life and accident insurance\n• Annual performance appraisal\n• Mobile and internet reimbursement\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Agra, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Cars24 South Asia Partners!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Cars24 South Asia Partners",
+      "value": "1930-1-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Cars24 South Asia Partners",
+      "sameAs": "https://www.google.com/search?q=Cars24%20South%20Asia%20Partners",
+      "logo": "https://logo.clearbit.com/cars24southasiapartners.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Cars24 South Asia Partners Office",
+        "addressLocality": "Agra",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "React, TypeScript, Machine Learning, AWS, MongoDB, Agile/Scrum, Java, Kubernetes",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Write clean, maintainable, and well-documented code. Work with agile methodologies including daily stand-ups and sprint planning. Participate in on-call rotation for production support. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Mentor junior developers and conduct knowledge-sharing sessions. Troubleshoot, debug, and resolve software defects and performance issues",
+    "benefits": "Competitive salary with performance-linked incentives. Meal coupons and food allowance. Referral bonus program. Life and accident insurance. Annual performance appraisal. Mobile and internet reimbursement",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Meal coupons and food allowance, Referral bonus program, Life and accident insurance, Annual performance appraisal, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "Cars24 South Asia Partners, one of India's leading organizations, is hiring a Senior Software Engineer for our Agra operations. We offer a competitive salary pa",
+    "keywords": "Senior Software Engineer, Cars24 South Asia Partners, jobs in Agra, Uttar Pradesh jobs, technology jobs India, React, TypeScript, Machine Learning, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:56:43.747Z",
+  "page": 482
+}

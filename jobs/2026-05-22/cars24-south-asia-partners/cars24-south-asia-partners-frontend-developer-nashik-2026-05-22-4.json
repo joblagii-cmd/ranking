@@ -1,0 +1,93 @@
+{
+  "slug": "cars24-south-asia-partners-frontend-developer-nashik-2026-05-22-4",
+  "title": "Senior Frontend Developer at Cars24 South Asia Partners",
+  "company": "Cars24 South Asia Partners",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Rust",
+    "Microservices",
+    "TypeScript",
+    "Machine Learning",
+    "Kubernetes",
+    "SQL",
+    "TensorFlow",
+    "JavaScript"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Frontend Developer at Cars24 South Asia Partners",
+    "description": "An exciting career opportunity awaits you at Cars24 South Asia Partners. We are on the lookout for a dedicated Frontend Developer to strengthen our Nashik-based team.\n\nAbout Cars24 South Asia Partners:\nCars24 South Asia Partners is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Write and execute unit tests and integration tests\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Participate in code reviews and contribute to technical discussions\n• Write clean, maintainable, and well-documented code\n• Design, develop and maintain scalable software applications\n• Integrate third-party APIs and services\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 12-20 years of relevant experience\n• Proficiency in Rust\n• Proficiency in Microservices\n• Proficiency in TypeScript\n• Proficiency in Machine Learning\n• Proficiency in Kubernetes\n• Proficiency in SQL\n• Proficiency in TensorFlow\n• Proficiency in JavaScript\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• Annual paid leaves and casual leaves\n• Annual performance appraisal\n• Transportation and conveyance allowance\n• Recognition and rewards programs\n• Meal coupons and food allowance\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Nashik, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Cars24 South Asia Partners!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Cars24 South Asia Partners",
+      "value": "1930-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Cars24 South Asia Partners",
+      "sameAs": "https://www.google.com/search?q=Cars24%20South%20Asia%20Partners",
+      "logo": "https://logo.clearbit.com/cars24southasiapartners.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Cars24 South Asia Partners Office",
+        "addressLocality": "Nashik",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "Rust, Microservices, TypeScript, Machine Learning, Kubernetes, SQL, TensorFlow, JavaScript",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Write and execute unit tests and integration tests. Work with agile methodologies including daily stand-ups and sprint planning. Participate in code reviews and contribute to technical discussions. Write clean, maintainable, and well-documented code. Design, develop and maintain scalable software applications. Integrate third-party APIs and services",
+    "benefits": "Comprehensive health insurance for self and family. Annual paid leaves and casual leaves. Annual performance appraisal. Transportation and conveyance allowance. Recognition and rewards programs. Meal coupons and food allowance",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, Annual paid leaves and casual leaves, Annual performance appraisal, Transportation and conveyance allowance, Recognition and rewards programs, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Cars24 South Asia Partners. We are on the lookout for a dedicated Frontend Developer to strengthen our Nashik-based",
+    "keywords": "Frontend Developer, Cars24 South Asia Partners, jobs in Nashik, Maharashtra jobs, technology jobs India, Rust, Microservices, TypeScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:56:43.747Z",
+  "page": 482
+}
