@@ -1,0 +1,93 @@
+{
+  "slug": "agrostar-frontend-developer-srinagar-2026-05-22-4",
+  "title": "Senior Frontend Developer at AgroStar",
+  "company": "AgroStar",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Srinagar",
+    "state": "Jammu & Kashmir",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Git",
+    "React",
+    "Agile/Scrum",
+    "REST APIs",
+    "CI/CD",
+    "JavaScript",
+    "AWS",
+    "TensorFlow"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Frontend Developer at AgroStar",
+    "description": "AgroStar invites applications from qualified candidates for the position of Frontend Developer at our Srinagar location. This role offers excellent career advancement prospects.\n\nAbout AgroStar:\nAgroStar is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure code security and follow best practices for data protection\n• Participate in code reviews and contribute to technical discussions\n• Write and execute unit tests and integration tests\n• Collaborate with cross-functional teams including product, design, and QA\n• Implement new features based on product requirements\n• Integrate third-party APIs and services\n• Write clean, maintainable, and well-documented code\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 0-1 years of relevant experience\n• Proficiency in Git\n• Proficiency in React\n• Proficiency in Agile/Scrum\n• Proficiency in REST APIs\n• Proficiency in CI/CD\n• Proficiency in JavaScript\n• Proficiency in AWS\n• Proficiency in TensorFlow\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Competitive salary with performance-linked incentives\n• Maternity and paternity leave\n• Comprehensive health insurance for self and family\n• Transportation and conveyance allowance\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Srinagar, Jammu & Kashmir, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with AgroStar!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "AgroStar",
+      "value": "107-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "AgroStar",
+      "sameAs": "https://www.google.com/search?q=AgroStar",
+      "logo": "https://logo.clearbit.com/agrostar.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "AgroStar Office",
+        "addressLocality": "Srinagar",
+        "addressRegion": "Jammu & Kashmir",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "Git, React, Agile/Scrum, REST APIs, CI/CD, JavaScript, AWS, TensorFlow",
+    "responsibilities": "Ensure code security and follow best practices for data protection. Participate in code reviews and contribute to technical discussions. Write and execute unit tests and integration tests. Collaborate with cross-functional teams including product, design, and QA. Implement new features based on product requirements. Integrate third-party APIs and services. Write clean, maintainable, and well-documented code",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Competitive salary with performance-linked incentives. Maternity and paternity leave. Comprehensive health insurance for self and family. Transportation and conveyance allowance. Provident Fund and Gratuity as per company policy",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Competitive salary with performance-linked incentives, Maternity and paternity leave, Comprehensive health insurance for self and family, Transportation and conveyance allowance, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "AgroStar invites applications from qualified candidates for the position of Frontend Developer at our Srinagar location. This role offers excellent career advan",
+    "keywords": "Frontend Developer, AgroStar, jobs in Srinagar, Jammu & Kashmir jobs, technology jobs India, Git, React, Agile/Scrum, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:34:57.460Z",
+  "page": 26
+}

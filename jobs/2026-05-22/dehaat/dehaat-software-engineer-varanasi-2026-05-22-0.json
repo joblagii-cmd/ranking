@@ -1,0 +1,93 @@
+{
+  "slug": "dehaat-software-engineer-varanasi-2026-05-22-0",
+  "title": "Opening for Software Engineer at DeHaat",
+  "company": "DeHaat",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "REST APIs",
+    "Rust",
+    "Agile/Scrum",
+    "SQL",
+    "Docker",
+    "Git",
+    "AWS",
+    "Microservices"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Opening for Software Engineer at DeHaat",
+    "description": "DeHaat invites applications from qualified candidates for the position of Software Engineer at our Varanasi location. This role offers excellent career advancement prospects.\n\nAbout DeHaat:\nDeHaat is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write and execute unit tests and integration tests\n• Implement new features based on product requirements\n• Participate in on-call rotation for production support\n• Collaborate with cross-functional teams including product, design, and QA\n• Design, develop and maintain scalable software applications\n• Optimize application performance and ensure high availability\n• Write clean, maintainable, and well-documented code\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 6-10 years of relevant experience\n• Proficiency in REST APIs\n• Proficiency in Rust\n• Proficiency in Agile/Scrum\n• Proficiency in SQL\n• Proficiency in Docker\n• Proficiency in Git\n• Proficiency in AWS\n• Proficiency in Microservices\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Competitive salary with performance-linked incentives\n• Flexible working hours\n• Employee stock options (ESOPs) for eligible roles\n• Modern office with recreational facilities\n• International travel opportunities for senior roles\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Varanasi, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with DeHaat!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "DeHaat",
+      "value": "108-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "DeHaat",
+      "sameAs": "https://www.google.com/search?q=DeHaat",
+      "logo": "https://logo.clearbit.com/dehaat.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "DeHaat Office",
+        "addressLocality": "Varanasi",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "REST APIs, Rust, Agile/Scrum, SQL, Docker, Git, AWS, Microservices",
+    "responsibilities": "Write and execute unit tests and integration tests. Implement new features based on product requirements. Participate in on-call rotation for production support. Collaborate with cross-functional teams including product, design, and QA. Design, develop and maintain scalable software applications. Optimize application performance and ensure high availability. Write clean, maintainable, and well-documented code",
+    "benefits": "Annual paid leaves and casual leaves. Competitive salary with performance-linked incentives. Flexible working hours. Employee stock options (ESOPs) for eligible roles. Modern office with recreational facilities. International travel opportunities for senior roles",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Competitive salary with performance-linked incentives, Flexible working hours, Employee stock options (ESOPs) for eligible roles, Modern office with recreational facilities, International travel opportunities for senior roles"
+  },
+  "meta": {
+    "description": "DeHaat invites applications from qualified candidates for the position of Software Engineer at our Varanasi location. This role offers excellent career advancem",
+    "keywords": "Software Engineer, DeHaat, jobs in Varanasi, Uttar Pradesh jobs, technology jobs India, REST APIs, Rust, Agile/Scrum, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:34:57.460Z",
+  "page": 26
+}

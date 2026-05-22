@@ -1,0 +1,93 @@
+{
+  "slug": "nature-s-basket-senior-software-engineer-meerut-2026-05-22-1",
+  "title": "Senior Software Engineer - Nature's Basket - Top MNC",
+  "company": "Nature's Basket",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "REST APIs",
+    "Docker",
+    "Microservices",
+    "Java",
+    "Agile/Scrum",
+    "React",
+    "Git",
+    "Python"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Nature's Basket - Top MNC",
+    "description": "Nature's Basket invites applications from qualified candidates for the position of Senior Software Engineer at our Meerut location. This role offers excellent career advancement prospects.\n\nAbout Nature's Basket:\nNature's Basket is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Optimize application performance and ensure high availability\n• Implement new features based on product requirements\n• Collaborate with cross-functional teams including product, design, and QA\n• Integrate third-party APIs and services\n• Contribute to system architecture and technical design decisions\n• Write clean, maintainable, and well-documented code\n• Troubleshoot, debug, and resolve software defects and performance issues\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 12-20 years of relevant experience\n• Proficiency in REST APIs\n• Proficiency in Docker\n• Proficiency in Microservices\n• Proficiency in Java\n• Proficiency in Agile/Scrum\n• Proficiency in React\n• Proficiency in Git\n• Proficiency in Python\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Flexible working hours\n• Mobile and internet reimbursement\n• Annual performance appraisal\n• Referral bonus program\n• Provident Fund and Gratuity as per company policy\n• Life and accident insurance\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Meerut, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Nature's Basket!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Nature's Basket",
+      "value": "105-1-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Nature's Basket",
+      "sameAs": "https://www.google.com/search?q=Nature's%20Basket",
+      "logo": "https://logo.clearbit.com/naturesbasket.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Nature's Basket Office",
+        "addressLocality": "Meerut",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "REST APIs, Docker, Microservices, Java, Agile/Scrum, React, Git, Python",
+    "responsibilities": "Optimize application performance and ensure high availability. Implement new features based on product requirements. Collaborate with cross-functional teams including product, design, and QA. Integrate third-party APIs and services. Contribute to system architecture and technical design decisions. Write clean, maintainable, and well-documented code. Troubleshoot, debug, and resolve software defects and performance issues",
+    "benefits": "Flexible working hours. Mobile and internet reimbursement. Annual performance appraisal. Referral bonus program. Provident Fund and Gratuity as per company policy. Life and accident insurance",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, Mobile and internet reimbursement, Annual performance appraisal, Referral bonus program, Provident Fund and Gratuity as per company policy, Life and accident insurance"
+  },
+  "meta": {
+    "description": "Nature's Basket invites applications from qualified candidates for the position of Senior Software Engineer at our Meerut location. This role offers excellent c",
+    "keywords": "Senior Software Engineer, Nature's Basket, jobs in Meerut, Uttar Pradesh jobs, technology jobs India, REST APIs, Docker, Microservices, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:34:57.458Z",
+  "page": 26
+}
