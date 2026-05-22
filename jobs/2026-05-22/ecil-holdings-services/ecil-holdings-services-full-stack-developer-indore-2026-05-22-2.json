@@ -1,0 +1,93 @@
+{
+  "slug": "ecil-holdings-services-full-stack-developer-indore-2026-05-22-2",
+  "title": "ECIL Holdings Services is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "ECIL Holdings Services",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "AWS",
+    "Agile/Scrum",
+    "Node.js",
+    "SQL",
+    "Git",
+    "Kubernetes",
+    "React",
+    "CI/CD"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "ECIL Holdings Services is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "ECIL Holdings Services, one of India's leading organizations, is hiring a Full Stack Developer for our Indore operations. We offer a competitive salary package along with world-class benefits.\n\nAbout ECIL Holdings Services:\nECIL Holdings Services is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write and execute unit tests and integration tests\n• Design, develop and maintain scalable software applications\n• Participate in on-call rotation for production support\n• Write clean, maintainable, and well-documented code\n• Ensure code security and follow best practices for data protection\n• Integrate third-party APIs and services\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 0-1 years of relevant experience\n• Proficiency in AWS\n• Proficiency in Agile/Scrum\n• Proficiency in Node.js\n• Proficiency in SQL\n• Proficiency in Git\n• Proficiency in Kubernetes\n• Proficiency in React\n• Proficiency in CI/CD\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Provident Fund and Gratuity as per company policy\n• Comprehensive health insurance for self and family\n• Transportation and conveyance allowance\n• Maternity and paternity leave\n• Professional development and training programs\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Indore, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with ECIL Holdings Services!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "ECIL Holdings Services",
+      "value": "1915-2-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "ECIL Holdings Services",
+      "sameAs": "https://www.google.com/search?q=ECIL%20Holdings%20Services",
+      "logo": "https://logo.clearbit.com/ecilholdingsservices.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "ECIL Holdings Services Office",
+        "addressLocality": "Indore",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "AWS, Agile/Scrum, Node.js, SQL, Git, Kubernetes, React, CI/CD",
+    "responsibilities": "Write and execute unit tests and integration tests. Design, develop and maintain scalable software applications. Participate in on-call rotation for production support. Write clean, maintainable, and well-documented code. Ensure code security and follow best practices for data protection. Integrate third-party APIs and services. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP",
+    "benefits": "Work-from-home flexibility. Provident Fund and Gratuity as per company policy. Comprehensive health insurance for self and family. Transportation and conveyance allowance. Maternity and paternity leave. Professional development and training programs",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Provident Fund and Gratuity as per company policy, Comprehensive health insurance for self and family, Transportation and conveyance allowance, Maternity and paternity leave, Professional development and training programs"
+  },
+  "meta": {
+    "description": "ECIL Holdings Services, one of India's leading organizations, is hiring a Full Stack Developer for our Indore operations. We offer a competitive salary package ",
+    "keywords": "Full Stack Developer, ECIL Holdings Services, jobs in Indore, Madhya Pradesh jobs, technology jobs India, AWS, Agile/Scrum, Node.js, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:56:10.510Z",
+  "page": 478
+}

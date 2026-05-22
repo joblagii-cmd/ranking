@@ -1,0 +1,94 @@
+{
+  "slug": "ecil-holdings-services-backend-developer-thane-2026-05-22-3",
+  "title": "Backend Developer Vacancy at ECIL Holdings Services - 2026 Batch",
+  "company": "ECIL Holdings Services",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Thane",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Docker",
+    "MongoDB",
+    "Java",
+    "TensorFlow",
+    "Rust",
+    "TypeScript",
+    "Kubernetes",
+    "Agile/Scrum"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at ECIL Holdings Services - 2026 Batch",
+    "description": "ECIL Holdings Services, one of India's leading organizations, is hiring a Backend Developer for our Thane operations. We offer a competitive salary package along with world-class benefits.\n\nAbout ECIL Holdings Services:\nECIL Holdings Services is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Implement new features based on product requirements\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in code reviews and contribute to technical discussions\n• Write and execute unit tests and integration tests\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Integrate third-party APIs and services\n• Contribute to system architecture and technical design decisions\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 12-20 years of relevant experience\n• Proficiency in Docker\n• Proficiency in MongoDB\n• Proficiency in Java\n• Proficiency in TensorFlow\n• Proficiency in Rust\n• Proficiency in TypeScript\n• Proficiency in Kubernetes\n• Proficiency in Agile/Scrum\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Annual performance appraisal\n• Recognition and rewards programs\n• Flexible working hours\n• Modern office with recreational facilities\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Thane, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with ECIL Holdings Services!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "ECIL Holdings Services",
+      "value": "1915-3-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "ECIL Holdings Services",
+      "sameAs": "https://www.google.com/search?q=ECIL%20Holdings%20Services",
+      "logo": "https://logo.clearbit.com/ecilholdingsservices.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "ECIL Holdings Services Office",
+        "addressLocality": "Thane",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "Docker, MongoDB, Java, TensorFlow, Rust, TypeScript, Kubernetes, Agile/Scrum",
+    "responsibilities": "Implement new features based on product requirements. Collaborate with cross-functional teams including product, design, and QA. Participate in code reviews and contribute to technical discussions. Write and execute unit tests and integration tests. Mentor junior developers and conduct knowledge-sharing sessions. Integrate third-party APIs and services. Contribute to system architecture and technical design decisions",
+    "benefits": "Transportation and conveyance allowance. Annual performance appraisal. Recognition and rewards programs. Flexible working hours. Modern office with recreational facilities. Employee stock options (ESOPs) for eligible roles",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Annual performance appraisal, Recognition and rewards programs, Flexible working hours, Modern office with recreational facilities, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "ECIL Holdings Services, one of India's leading organizations, is hiring a Backend Developer for our Thane operations. We offer a competitive salary package alon",
+    "keywords": "Backend Developer, ECIL Holdings Services, jobs in Thane, Maharashtra jobs, technology jobs India, Docker, MongoDB, Java, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:56:10.510Z",
+  "page": 478
+}

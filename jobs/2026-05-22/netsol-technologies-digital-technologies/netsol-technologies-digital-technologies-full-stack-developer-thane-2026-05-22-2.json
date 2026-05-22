@@ -1,0 +1,93 @@
+{
+  "slug": "netsol-technologies-digital-technologies-full-stack-developer-thane-2026-05-22-2",
+  "title": "Netsol Technologies Digital Technologies is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "Netsol Technologies Digital Technologies",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Thane",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Go",
+    "SQL",
+    "REST APIs",
+    "MongoDB",
+    "JavaScript",
+    "Machine Learning",
+    "TensorFlow",
+    "TypeScript"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Netsol Technologies Digital Technologies is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "Netsol Technologies Digital Technologies, one of India's leading organizations, is hiring a Full Stack Developer for our Thane operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Netsol Technologies Digital Technologies:\nNetsol Technologies Digital Technologies is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Participate in code reviews and contribute to technical discussions\n• Integrate third-party APIs and services\n• Design, develop and maintain scalable software applications\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Write clean, maintainable, and well-documented code\n• Write and execute unit tests and integration tests\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 12-20 years of relevant experience\n• Proficiency in Go\n• Proficiency in SQL\n• Proficiency in REST APIs\n• Proficiency in MongoDB\n• Proficiency in JavaScript\n• Proficiency in Machine Learning\n• Proficiency in TensorFlow\n• Proficiency in TypeScript\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Life and accident insurance\n• International travel opportunities for senior roles\n• Professional development and training programs\n• Company-sponsored certifications\n• Meal coupons and food allowance\n• Maternity and paternity leave\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Thane, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Netsol Technologies Digital Technologies!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Netsol Technologies Digital Technologies",
+      "value": "1916-2-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Netsol Technologies Digital Technologies",
+      "sameAs": "https://www.google.com/search?q=Netsol%20Technologies%20Digital%20Technologies",
+      "logo": "https://logo.clearbit.com/netsoltechnologiesdigitaltechnologies.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Netsol Technologies Digital Technologies Office",
+        "addressLocality": "Thane",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Go, SQL, REST APIs, MongoDB, JavaScript, Machine Learning, TensorFlow, TypeScript",
+    "responsibilities": "Work with agile methodologies including daily stand-ups and sprint planning. Participate in code reviews and contribute to technical discussions. Integrate third-party APIs and services. Design, develop and maintain scalable software applications. Mentor junior developers and conduct knowledge-sharing sessions. Write clean, maintainable, and well-documented code. Write and execute unit tests and integration tests",
+    "benefits": "Life and accident insurance. International travel opportunities for senior roles. Professional development and training programs. Company-sponsored certifications. Meal coupons and food allowance. Maternity and paternity leave",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, International travel opportunities for senior roles, Professional development and training programs, Company-sponsored certifications, Meal coupons and food allowance, Maternity and paternity leave"
+  },
+  "meta": {
+    "description": "Netsol Technologies Digital Technologies, one of India's leading organizations, is hiring a Full Stack Developer for our Thane operations. We offer a competitiv",
+    "keywords": "Full Stack Developer, Netsol Technologies Digital Technologies, jobs in Thane, Maharashtra jobs, technology jobs India, Go, SQL, REST APIs, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:56:10.511Z",
+  "page": 478
+}
