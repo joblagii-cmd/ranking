@@ -1,0 +1,94 @@
+{
+  "slug": "acc-limited-production-engineer-agra-2026-05-22-0",
+  "title": "Immediate Requirement Production Engineer at ACC Limited",
+  "company": "ACC Limited",
+  "industry": "manufacturing",
+  "role": "Production Engineer",
+  "location": {
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Project Management",
+    "PLC/SCADA",
+    "PPAP",
+    "AutoCAD",
+    "SolidWorks",
+    "Supply Chain Management",
+    "SAP MM/PP",
+    "GD&T"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Immediate Requirement Production Engineer at ACC Limited",
+    "description": "ACC Limited is actively seeking a talented and motivated Production Engineer to join our dynamic team in Agra. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout ACC Limited:\nACC Limited is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure compliance with safety regulations and factory acts\n• Oversee daily production operations to meet output targets\n• Ensure product quality meets internal and customer specifications\n• Monitor equipment performance and coordinate preventive maintenance\n• Ensure environmental compliance and waste management\n• Maintain accurate production records and prepare daily reports\n• Implement 5S, Kaizen, and Six Sigma practices on the shop floor\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 6-10 years of relevant experience\n• Proficiency in Project Management\n• Proficiency in PLC/SCADA\n• Proficiency in PPAP\n• Proficiency in AutoCAD\n• Proficiency in SolidWorks\n• Proficiency in Supply Chain Management\n• Proficiency in SAP MM/PP\n• Proficiency in GD&T\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Meal coupons and food allowance\n• Work-from-home flexibility\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• International travel opportunities for senior roles\n• Annual performance appraisal\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Agra, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with ACC Limited!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "ACC Limited",
+      "value": "432-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "ACC Limited",
+      "sameAs": "https://www.google.com/search?q=ACC%20Limited",
+      "logo": "https://logo.clearbit.com/acclimited.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "ACC Limited Office",
+        "addressLocality": "Agra",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "Project Management, PLC/SCADA, PPAP, AutoCAD, SolidWorks, Supply Chain Management, SAP MM/PP, GD&T",
+    "responsibilities": "Ensure compliance with safety regulations and factory acts. Oversee daily production operations to meet output targets. Ensure product quality meets internal and customer specifications. Monitor equipment performance and coordinate preventive maintenance. Ensure environmental compliance and waste management. Maintain accurate production records and prepare daily reports. Implement 5S, Kaizen, and Six Sigma practices on the shop floor",
+    "benefits": "Meal coupons and food allowance. Work-from-home flexibility. Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. International travel opportunities for senior roles. Annual performance appraisal",
+    "industry": "manufacturing",
+    "occupationalCategory": "Production Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Meal coupons and food allowance, Work-from-home flexibility, Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, International travel opportunities for senior roles, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "ACC Limited is actively seeking a talented and motivated Production Engineer to join our dynamic team in Agra. This is an excellent opportunity for professional",
+    "keywords": "Production Engineer, ACC Limited, jobs in Agra, Uttar Pradesh jobs, manufacturing jobs India, Project Management, PLC/SCADA, PPAP, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:45:17.323Z",
+  "page": 107
+}
