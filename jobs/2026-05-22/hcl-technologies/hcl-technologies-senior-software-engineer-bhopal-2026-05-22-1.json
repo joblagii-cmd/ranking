@@ -1,0 +1,94 @@
+{
+  "slug": "hcl-technologies-senior-software-engineer-bhopal-2026-05-22-1",
+  "title": "Senior Software Engineer - HCL Technologies - Multiple Openings",
+  "company": "HCL Technologies",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Kubernetes",
+    "TensorFlow",
+    "Java",
+    "JavaScript",
+    "Docker",
+    "Go",
+    "MongoDB",
+    "React"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - HCL Technologies - Multiple Openings",
+    "description": "HCL Technologies has an exciting opening for a Senior Software Engineer at our Bhopal office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout HCL Technologies:\nHCL Technologies is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Contribute to system architecture and technical design decisions\n• Design, develop and maintain scalable software applications\n• Optimize application performance and ensure high availability\n• Write clean, maintainable, and well-documented code\n• Implement new features based on product requirements\n• Integrate third-party APIs and services\n• Troubleshoot, debug, and resolve software defects and performance issues\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 12-20 years of relevant experience\n• Proficiency in Kubernetes\n• Proficiency in TensorFlow\n• Proficiency in Java\n• Proficiency in JavaScript\n• Proficiency in Docker\n• Proficiency in Go\n• Proficiency in MongoDB\n• Proficiency in React\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Mobile and internet reimbursement\n• Competitive salary with performance-linked incentives\n• Referral bonus program\n• Transportation and conveyance allowance\n• Comprehensive health insurance for self and family\n• International travel opportunities for senior roles\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Bhopal, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with HCL Technologies!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "HCL Technologies",
+      "value": "4-1-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "HCL Technologies",
+      "sameAs": "https://www.google.com/search?q=HCL%20Technologies",
+      "logo": "https://logo.clearbit.com/hcltechnologies.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "HCL Technologies Office",
+        "addressLocality": "Bhopal",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "Kubernetes, TensorFlow, Java, JavaScript, Docker, Go, MongoDB, React",
+    "responsibilities": "Contribute to system architecture and technical design decisions. Design, develop and maintain scalable software applications. Optimize application performance and ensure high availability. Write clean, maintainable, and well-documented code. Implement new features based on product requirements. Integrate third-party APIs and services. Troubleshoot, debug, and resolve software defects and performance issues",
+    "benefits": "Mobile and internet reimbursement. Competitive salary with performance-linked incentives. Referral bonus program. Transportation and conveyance allowance. Comprehensive health insurance for self and family. International travel opportunities for senior roles",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Mobile and internet reimbursement, Competitive salary with performance-linked incentives, Referral bonus program, Transportation and conveyance allowance, Comprehensive health insurance for self and family, International travel opportunities for senior roles"
+  },
+  "meta": {
+    "description": "HCL Technologies has an exciting opening for a Senior Software Engineer at our Bhopal office. Join a company that values innovation, collaboration, and continuo",
+    "keywords": "Senior Software Engineer, HCL Technologies, jobs in Bhopal, Madhya Pradesh jobs, technology jobs India, Kubernetes, TensorFlow, Java, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:31:35.385Z",
+  "page": 0
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "tata-consultancy-services-frontend-developer-thane-2026-05-22-4",
+  "title": "Junior Frontend Developer at Tata Consultancy Services",
+  "company": "Tata Consultancy Services",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Thane",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "JavaScript",
+    "Microservices",
+    "AWS",
+    "React",
+    "Rust",
+    "Python",
+    "MongoDB",
+    "Kubernetes"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Junior Frontend Developer at Tata Consultancy Services",
+    "description": "Tata Consultancy Services has an exciting opening for a Frontend Developer at our Thane office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Tata Consultancy Services:\nTata Consultancy Services is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write clean, maintainable, and well-documented code\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Design, develop and maintain scalable software applications\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Ensure code security and follow best practices for data protection\n• Contribute to system architecture and technical design decisions\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 12-20 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Microservices\n• Proficiency in AWS\n• Proficiency in React\n• Proficiency in Rust\n• Proficiency in Python\n• Proficiency in MongoDB\n• Proficiency in Kubernetes\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Work-from-home flexibility\n• Learning & development budget\n• Comprehensive health insurance for self and family\n• Flexible working hours\n• Life and accident insurance\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Thane, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Tata Consultancy Services!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Tata Consultancy Services",
+      "value": "1-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Tata Consultancy Services",
+      "sameAs": "https://www.google.com/search?q=Tata%20Consultancy%20Services",
+      "logo": "https://logo.clearbit.com/tataconsultancyservices.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Tata Consultancy Services Office",
+        "addressLocality": "Thane",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "JavaScript, Microservices, AWS, React, Rust, Python, MongoDB, Kubernetes",
+    "responsibilities": "Write clean, maintainable, and well-documented code. Mentor junior developers and conduct knowledge-sharing sessions. Design, develop and maintain scalable software applications. Troubleshoot, debug, and resolve software defects and performance issues. Work with agile methodologies including daily stand-ups and sprint planning. Ensure code security and follow best practices for data protection. Contribute to system architecture and technical design decisions",
+    "benefits": "Provident Fund and Gratuity as per company policy. Work-from-home flexibility. Learning & development budget. Comprehensive health insurance for self and family. Flexible working hours. Life and accident insurance",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Work-from-home flexibility, Learning & development budget, Comprehensive health insurance for self and family, Flexible working hours, Life and accident insurance"
+  },
+  "meta": {
+    "description": "Tata Consultancy Services has an exciting opening for a Frontend Developer at our Thane office. Join a company that values innovation, collaboration, and contin",
+    "keywords": "Frontend Developer, Tata Consultancy Services, jobs in Thane, Maharashtra jobs, technology jobs India, JavaScript, Microservices, AWS, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:31:35.384Z",
+  "page": 0
+}

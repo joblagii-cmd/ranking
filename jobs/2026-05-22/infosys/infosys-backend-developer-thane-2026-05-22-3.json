@@ -1,0 +1,94 @@
+{
+  "slug": "infosys-backend-developer-thane-2026-05-22-3",
+  "title": "Backend Developer Vacancy at Infosys - 2026 Batch",
+  "company": "Infosys",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Thane",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "AWS",
+    "Docker",
+    "Git",
+    "Python",
+    "REST APIs",
+    "Kubernetes",
+    "JavaScript",
+    "Agile/Scrum"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Infosys - 2026 Batch",
+    "description": "Infosys has an exciting opening for a Backend Developer at our Thane office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Infosys:\nInfosys is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Ensure code security and follow best practices for data protection\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Contribute to system architecture and technical design decisions\n• Write and execute unit tests and integration tests\n• Implement new features based on product requirements\n• Collaborate with cross-functional teams including product, design, and QA\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 12-20 years of relevant experience\n• Proficiency in AWS\n• Proficiency in Docker\n• Proficiency in Git\n• Proficiency in Python\n• Proficiency in REST APIs\n• Proficiency in Kubernetes\n• Proficiency in JavaScript\n• Proficiency in Agile/Scrum\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Flexible working hours\n• Competitive salary with performance-linked incentives\n• Mobile and internet reimbursement\n• Annual performance appraisal\n• Work-from-home flexibility\n• Comprehensive health insurance for self and family\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Thane, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Infosys!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Infosys",
+      "value": "2-3-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Infosys",
+      "sameAs": "https://www.google.com/search?q=Infosys",
+      "logo": "https://logo.clearbit.com/infosys.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Infosys Office",
+        "addressLocality": "Thane",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "AWS, Docker, Git, Python, REST APIs, Kubernetes, JavaScript, Agile/Scrum",
+    "responsibilities": "Design, develop and maintain scalable software applications. Ensure code security and follow best practices for data protection. Work with agile methodologies including daily stand-ups and sprint planning. Contribute to system architecture and technical design decisions. Write and execute unit tests and integration tests. Implement new features based on product requirements. Collaborate with cross-functional teams including product, design, and QA",
+    "benefits": "Flexible working hours. Competitive salary with performance-linked incentives. Mobile and internet reimbursement. Annual performance appraisal. Work-from-home flexibility. Comprehensive health insurance for self and family",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, Competitive salary with performance-linked incentives, Mobile and internet reimbursement, Annual performance appraisal, Work-from-home flexibility, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "Infosys has an exciting opening for a Backend Developer at our Thane office. Join a company that values innovation, collaboration, and continuous learning.",
+    "keywords": "Backend Developer, Infosys, jobs in Thane, Maharashtra jobs, technology jobs India, AWS, Docker, Git, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:31:35.384Z",
+  "page": 0
+}

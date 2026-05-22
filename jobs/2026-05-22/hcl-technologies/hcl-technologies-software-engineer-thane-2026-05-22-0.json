@@ -1,0 +1,93 @@
+{
+  "slug": "hcl-technologies-software-engineer-thane-2026-05-22-0",
+  "title": "Urgent Opening Software Engineer at HCL Technologies",
+  "company": "HCL Technologies",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Thane",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Docker",
+    "Python",
+    "Machine Learning",
+    "CI/CD",
+    "Agile/Scrum",
+    "Kubernetes",
+    "Java",
+    "AWS"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Urgent Opening Software Engineer at HCL Technologies",
+    "description": "HCL Technologies has an exciting opening for a Software Engineer at our Thane office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout HCL Technologies:\nHCL Technologies is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Write clean, maintainable, and well-documented code\n• Optimize application performance and ensure high availability\n• Contribute to system architecture and technical design decisions\n• Ensure code security and follow best practices for data protection\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Mentor junior developers and conduct knowledge-sharing sessions\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 0-1 years of relevant experience\n• Proficiency in Docker\n• Proficiency in Python\n• Proficiency in Machine Learning\n• Proficiency in CI/CD\n• Proficiency in Agile/Scrum\n• Proficiency in Kubernetes\n• Proficiency in Java\n• Proficiency in AWS\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Flexible working hours\n• Employee stock options (ESOPs) for eligible roles\n• Modern office with recreational facilities\n• Transportation and conveyance allowance\n• Annual paid leaves and casual leaves\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Thane, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with HCL Technologies!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "HCL Technologies",
+      "value": "4-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "HCL Technologies",
+      "sameAs": "https://www.google.com/search?q=HCL%20Technologies",
+      "logo": "https://logo.clearbit.com/hcltechnologies.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "HCL Technologies Office",
+        "addressLocality": "Thane",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "Docker, Python, Machine Learning, CI/CD, Agile/Scrum, Kubernetes, Java, AWS",
+    "responsibilities": "Design, develop and maintain scalable software applications. Write clean, maintainable, and well-documented code. Optimize application performance and ensure high availability. Contribute to system architecture and technical design decisions. Ensure code security and follow best practices for data protection. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Mentor junior developers and conduct knowledge-sharing sessions",
+    "benefits": "Work-from-home flexibility. Flexible working hours. Employee stock options (ESOPs) for eligible roles. Modern office with recreational facilities. Transportation and conveyance allowance. Annual paid leaves and casual leaves",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Flexible working hours, Employee stock options (ESOPs) for eligible roles, Modern office with recreational facilities, Transportation and conveyance allowance, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "HCL Technologies has an exciting opening for a Software Engineer at our Thane office. Join a company that values innovation, collaboration, and continuous learn",
+    "keywords": "Software Engineer, HCL Technologies, jobs in Thane, Maharashtra jobs, technology jobs India, Docker, Python, Machine Learning, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:31:35.385Z",
+  "page": 0
+}

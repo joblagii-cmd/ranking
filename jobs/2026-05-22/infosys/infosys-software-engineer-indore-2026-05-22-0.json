@@ -1,0 +1,93 @@
+{
+  "slug": "infosys-software-engineer-indore-2026-05-22-0",
+  "title": "Urgent Opening Software Engineer at Infosys",
+  "company": "Infosys",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Python",
+    "CI/CD",
+    "Microservices",
+    "JavaScript",
+    "SQL",
+    "AWS",
+    "MongoDB",
+    "Java"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Urgent Opening Software Engineer at Infosys",
+    "description": "Infosys has an exciting opening for a Software Engineer at our Indore office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Infosys:\nInfosys is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Implement new features based on product requirements\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Collaborate with cross-functional teams including product, design, and QA\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Write and execute unit tests and integration tests\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 6-10 years of relevant experience\n• Proficiency in Python\n• Proficiency in CI/CD\n• Proficiency in Microservices\n• Proficiency in JavaScript\n• Proficiency in SQL\n• Proficiency in AWS\n• Proficiency in MongoDB\n• Proficiency in Java\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Mobile and internet reimbursement\n• Annual paid leaves and casual leaves\n• Referral bonus program\n• Professional development and training programs\n• Flexible working hours\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Indore, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Infosys!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Infosys",
+      "value": "2-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Infosys",
+      "sameAs": "https://www.google.com/search?q=Infosys",
+      "logo": "https://logo.clearbit.com/infosys.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Infosys Office",
+        "addressLocality": "Indore",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "Python, CI/CD, Microservices, JavaScript, SQL, AWS, MongoDB, Java",
+    "responsibilities": "Design, develop and maintain scalable software applications. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Implement new features based on product requirements. Troubleshoot, debug, and resolve software defects and performance issues. Collaborate with cross-functional teams including product, design, and QA. Mentor junior developers and conduct knowledge-sharing sessions. Write and execute unit tests and integration tests",
+    "benefits": "Mobile and internet reimbursement. Annual paid leaves and casual leaves. Referral bonus program. Professional development and training programs. Flexible working hours. Employee stock options (ESOPs) for eligible roles",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Mobile and internet reimbursement, Annual paid leaves and casual leaves, Referral bonus program, Professional development and training programs, Flexible working hours, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "Infosys has an exciting opening for a Software Engineer at our Indore office. Join a company that values innovation, collaboration, and continuous learning.",
+    "keywords": "Software Engineer, Infosys, jobs in Indore, Madhya Pradesh jobs, technology jobs India, Python, CI/CD, Microservices, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:31:35.384Z",
+  "page": 0
+}
