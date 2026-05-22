@@ -1,0 +1,93 @@
+{
+  "slug": "testbook-senior-teacher-indore-2026-05-22-1",
+  "title": "Senior Teacher - Testbook - Work From Home Available",
+  "company": "Testbook",
+  "industry": "education",
+  "role": "Senior Teacher",
+  "location": {
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Communication Skills",
+    "CBSE/ICSE Standards",
+    "Data Analysis",
+    "E-learning",
+    "Pedagogy",
+    "Research Skills",
+    "Mentoring",
+    "Educational Technology"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Teacher - Testbook - Work From Home Available",
+    "description": "Testbook invites applications from qualified candidates for the position of Senior Teacher at our Indore location. This role offers excellent career advancement prospects.\n\nAbout Testbook:\nTestbook is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Monitor student progress and provide timely feedback\n• Create curriculum-aligned learning materials and assessments\n• Utilize technology and digital tools to enhance learning outcomes\n• Coordinate with academic counselors for student career guidance\n• Participate in school events, workshops, and training programs\n• Contribute to school newsletter, blogs, and other publications\n• Develop and deliver engaging lesson plans for students\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 0-1 years of relevant experience\n• Proficiency in Communication Skills\n• Proficiency in CBSE/ICSE Standards\n• Proficiency in Data Analysis\n• Proficiency in E-learning\n• Proficiency in Pedagogy\n• Proficiency in Research Skills\n• Proficiency in Mentoring\n• Proficiency in Educational Technology\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Mobile and internet reimbursement\n• Recognition and rewards programs\n• Work-from-home flexibility\n• Flexible working hours\n• Maternity and paternity leave\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Indore, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Testbook!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Testbook",
+      "value": "583-1-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Testbook",
+      "sameAs": "https://www.google.com/search?q=Testbook",
+      "logo": "https://logo.clearbit.com/testbook.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Testbook Office",
+        "addressLocality": "Indore",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "Communication Skills, CBSE/ICSE Standards, Data Analysis, E-learning, Pedagogy, Research Skills, Mentoring, Educational Technology",
+    "responsibilities": "Monitor student progress and provide timely feedback. Create curriculum-aligned learning materials and assessments. Utilize technology and digital tools to enhance learning outcomes. Coordinate with academic counselors for student career guidance. Participate in school events, workshops, and training programs. Contribute to school newsletter, blogs, and other publications. Develop and deliver engaging lesson plans for students",
+    "benefits": "Mobile and internet reimbursement. Recognition and rewards programs. Work-from-home flexibility. Flexible working hours. Maternity and paternity leave. Provident Fund and Gratuity as per company policy",
+    "industry": "education",
+    "occupationalCategory": "Senior Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Mobile and internet reimbursement, Recognition and rewards programs, Work-from-home flexibility, Flexible working hours, Maternity and paternity leave, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "Testbook invites applications from qualified candidates for the position of Senior Teacher at our Indore location. This role offers excellent career advancement",
+    "keywords": "Senior Teacher, Testbook, jobs in Indore, Madhya Pradesh jobs, education jobs India, Communication Skills, CBSE/ICSE Standards, Data Analysis, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:50:02.685Z",
+  "page": 145
+}
