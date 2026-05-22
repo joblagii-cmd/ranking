@@ -1,0 +1,93 @@
+{
+  "slug": "reliance-footprint-department-manager-allahabad-2026-05-22-3",
+  "title": "Department Manager Vacancy at Reliance Footprint - 2026 Batch",
+  "company": "Reliance Footprint",
+  "industry": "retail",
+  "role": "Department Manager",
+  "location": {
+    "city": "Allahabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "E-commerce Integration",
+    "Team Leadership",
+    "CRM",
+    "Visual Merchandising",
+    "Loyalty Programs",
+    "Retail Operations",
+    "Customer Service",
+    "Omnichannel Retail"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Department Manager Vacancy at Reliance Footprint - 2026 Batch",
+    "description": "Grow your career with Reliance Footprint! We are hiring a Department Manager for our Allahabad team. Be part of a workplace that celebrates innovation, diversity, and performance.\n\nAbout Reliance Footprint:\nReliance Footprint is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Maintain high standards of store hygiene and cleanliness\n• Achieve sales targets and improve store performance metrics\n• Handle customer queries, complaints, and escalations effectively\n• Assist in recruiting, onboarding, and performance management of staff\n• Conduct regular stock audits and prevent pilferage\n• Prepare daily sales reports and share insights with management\n• Build relationships with regular customers to drive loyalty\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 6-10 years of relevant experience\n• Proficiency in E-commerce Integration\n• Proficiency in Team Leadership\n• Proficiency in CRM\n• Proficiency in Visual Merchandising\n• Proficiency in Loyalty Programs\n• Proficiency in Retail Operations\n• Proficiency in Customer Service\n• Proficiency in Omnichannel Retail\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Comprehensive health insurance for self and family\n• Provident Fund and Gratuity as per company policy\n• International travel opportunities for senior roles\n• Flexible working hours\n• Annual performance appraisal\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Allahabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Reliance Footprint!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Reliance Footprint",
+      "value": "615-3-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Reliance Footprint",
+      "sameAs": "https://www.google.com/search?q=Reliance%20Footprint",
+      "logo": "https://logo.clearbit.com/reliancefootprint.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Reliance Footprint Office",
+        "addressLocality": "Allahabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "E-commerce Integration, Team Leadership, CRM, Visual Merchandising, Loyalty Programs, Retail Operations, Customer Service, Omnichannel Retail",
+    "responsibilities": "Maintain high standards of store hygiene and cleanliness. Achieve sales targets and improve store performance metrics. Handle customer queries, complaints, and escalations effectively. Assist in recruiting, onboarding, and performance management of staff. Conduct regular stock audits and prevent pilferage. Prepare daily sales reports and share insights with management. Build relationships with regular customers to drive loyalty",
+    "benefits": "Annual paid leaves and casual leaves. Comprehensive health insurance for self and family. Provident Fund and Gratuity as per company policy. International travel opportunities for senior roles. Flexible working hours. Annual performance appraisal",
+    "industry": "retail",
+    "occupationalCategory": "Department Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Comprehensive health insurance for self and family, Provident Fund and Gratuity as per company policy, International travel opportunities for senior roles, Flexible working hours, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "Grow your career with Reliance Footprint! We are hiring a Department Manager for our Allahabad team. Be part of a workplace that celebrates innovation, diversit",
+    "keywords": "Department Manager, Reliance Footprint, jobs in Allahabad, Uttar Pradesh jobs, retail jobs India, E-commerce Integration, Team Leadership, CRM, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:51:03.020Z",
+  "page": 153
+}
