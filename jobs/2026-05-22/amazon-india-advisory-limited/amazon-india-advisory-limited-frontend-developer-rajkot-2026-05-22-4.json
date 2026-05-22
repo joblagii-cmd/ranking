@@ -1,0 +1,93 @@
+{
+  "slug": "amazon-india-advisory-limited-frontend-developer-rajkot-2026-05-22-4",
+  "title": "Junior Frontend Developer at Amazon India Advisory Limited",
+  "company": "Amazon India Advisory Limited",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "JavaScript",
+    "Go",
+    "Rust",
+    "TensorFlow",
+    "MongoDB",
+    "Python",
+    "TypeScript",
+    "Git"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Junior Frontend Developer at Amazon India Advisory Limited",
+    "description": "We at Amazon India Advisory Limited are looking for an experienced Frontend Developer based out of Rajkot. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout Amazon India Advisory Limited:\nAmazon India Advisory Limited is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Ensure code security and follow best practices for data protection\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Participate in code reviews and contribute to technical discussions\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Write and execute unit tests and integration tests\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 6-10 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Go\n• Proficiency in Rust\n• Proficiency in TensorFlow\n• Proficiency in MongoDB\n• Proficiency in Python\n• Proficiency in TypeScript\n• Proficiency in Git\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Annual performance appraisal\n• Provident Fund and Gratuity as per company policy\n• Modern office with recreational facilities\n• Comprehensive health insurance for self and family\n• Company-sponsored certifications\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Rajkot, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Amazon India Advisory Limited!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Amazon India Advisory Limited",
+      "value": "1852-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Amazon India Advisory Limited",
+      "sameAs": "https://www.google.com/search?q=Amazon%20India%20Advisory%20Limited",
+      "logo": "https://logo.clearbit.com/amazonindiaadvisorylimited.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Amazon India Advisory Limited Office",
+        "addressLocality": "Rajkot",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "JavaScript, Go, Rust, TensorFlow, MongoDB, Python, TypeScript, Git",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Ensure code security and follow best practices for data protection. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Participate in code reviews and contribute to technical discussions. Troubleshoot, debug, and resolve software defects and performance issues. Work with agile methodologies including daily stand-ups and sprint planning. Write and execute unit tests and integration tests",
+    "benefits": "International travel opportunities for senior roles. Annual performance appraisal. Provident Fund and Gratuity as per company policy. Modern office with recreational facilities. Comprehensive health insurance for self and family. Company-sponsored certifications",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Annual performance appraisal, Provident Fund and Gratuity as per company policy, Modern office with recreational facilities, Comprehensive health insurance for self and family, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "We at Amazon India Advisory Limited are looking for an experienced Frontend Developer based out of Rajkot. If you are a result-oriented professional with a pass",
+    "keywords": "Frontend Developer, Amazon India Advisory Limited, jobs in Rajkot, Gujarat jobs, technology jobs India, JavaScript, Go, Rust, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:53:56.855Z",
+  "page": 462
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "amazon-india-advisory-limited-full-stack-developer-meerut-2026-05-22-2",
+  "title": "Amazon India Advisory Limited is Hiring: Full Stack Developer (Junior)",
+  "company": "Amazon India Advisory Limited",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "JavaScript",
+    "CI/CD",
+    "Python",
+    "REST APIs",
+    "Kubernetes",
+    "Java",
+    "Microservices",
+    "Docker"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Amazon India Advisory Limited is Hiring: Full Stack Developer (Junior)",
+    "description": "We at Amazon India Advisory Limited are looking for an experienced Full Stack Developer based out of Meerut. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout Amazon India Advisory Limited:\nAmazon India Advisory Limited is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Write clean, maintainable, and well-documented code\n• Optimize application performance and ensure high availability\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Contribute to system architecture and technical design decisions\n• Troubleshoot, debug, and resolve software defects and performance issues\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 0-1 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in CI/CD\n• Proficiency in Python\n• Proficiency in REST APIs\n• Proficiency in Kubernetes\n• Proficiency in Java\n• Proficiency in Microservices\n• Proficiency in Docker\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Provident Fund and Gratuity as per company policy\n• Employee stock options (ESOPs) for eligible roles\n• Maternity and paternity leave\n• Annual performance appraisal\n• Comprehensive health insurance for self and family\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Meerut, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Amazon India Advisory Limited!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Amazon India Advisory Limited",
+      "value": "1852-2-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Amazon India Advisory Limited",
+      "sameAs": "https://www.google.com/search?q=Amazon%20India%20Advisory%20Limited",
+      "logo": "https://logo.clearbit.com/amazonindiaadvisorylimited.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Amazon India Advisory Limited Office",
+        "addressLocality": "Meerut",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "JavaScript, CI/CD, Python, REST APIs, Kubernetes, Java, Microservices, Docker",
+    "responsibilities": "Design, develop and maintain scalable software applications. Work with agile methodologies including daily stand-ups and sprint planning. Write clean, maintainable, and well-documented code. Optimize application performance and ensure high availability. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Contribute to system architecture and technical design decisions. Troubleshoot, debug, and resolve software defects and performance issues",
+    "benefits": "Annual paid leaves and casual leaves. Provident Fund and Gratuity as per company policy. Employee stock options (ESOPs) for eligible roles. Maternity and paternity leave. Annual performance appraisal. Comprehensive health insurance for self and family",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Provident Fund and Gratuity as per company policy, Employee stock options (ESOPs) for eligible roles, Maternity and paternity leave, Annual performance appraisal, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "We at Amazon India Advisory Limited are looking for an experienced Full Stack Developer based out of Meerut. If you are a result-oriented professional with a pa",
+    "keywords": "Full Stack Developer, Amazon India Advisory Limited, jobs in Meerut, Uttar Pradesh jobs, technology jobs India, JavaScript, CI/CD, Python, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:53:56.855Z",
+  "page": 462
+}
