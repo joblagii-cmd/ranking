@@ -1,0 +1,93 @@
+{
+  "slug": "rmz-corp-business-development-manager-allahabad-2026-05-22-4",
+  "title": "Entry-Level Business Development Manager at RMZ Corp",
+  "company": "RMZ Corp",
+  "industry": "realestate",
+  "role": "Business Development Manager",
+  "location": {
+    "city": "Allahabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Contract Management",
+    "Financial Modeling",
+    "Market Research",
+    "Portfolio Management",
+    "Property Valuation",
+    "Negotiation Skills",
+    "Sales Techniques",
+    "Real Estate Law"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Entry-Level Business Development Manager at RMZ Corp",
+    "description": "RMZ Corp has an exciting opening for a Business Development Manager at our Allahabad office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout RMZ Corp:\nRMZ Corp is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Build relationships with channel partners and brokers\n• Manage RERA documentation and compliance requirements\n• Provide advisory services on property investment and market trends\n• Source and close property deals with prospective buyers and investors\n• Negotiate pricing, terms, and conditions on behalf of clients\n• Achieve monthly and quarterly sales targets\n• Coordinate with architects, contractors, and project teams\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 10-15 years of relevant experience\n• Proficiency in Contract Management\n• Proficiency in Financial Modeling\n• Proficiency in Market Research\n• Proficiency in Portfolio Management\n• Proficiency in Property Valuation\n• Proficiency in Negotiation Skills\n• Proficiency in Sales Techniques\n• Proficiency in Real Estate Law\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Recognition and rewards programs\n• Modern office with recreational facilities\n• Maternity and paternity leave\n• Comprehensive health insurance for self and family\n• Annual paid leaves and casual leaves\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Allahabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with RMZ Corp!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "RMZ Corp",
+      "value": "698-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "RMZ Corp",
+      "sameAs": "https://www.google.com/search?q=RMZ%20Corp",
+      "logo": "https://logo.clearbit.com/rmzcorp.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "RMZ Corp Office",
+        "addressLocality": "Allahabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "Contract Management, Financial Modeling, Market Research, Portfolio Management, Property Valuation, Negotiation Skills, Sales Techniques, Real Estate Law",
+    "responsibilities": "Build relationships with channel partners and brokers. Manage RERA documentation and compliance requirements. Provide advisory services on property investment and market trends. Source and close property deals with prospective buyers and investors. Negotiate pricing, terms, and conditions on behalf of clients. Achieve monthly and quarterly sales targets. Coordinate with architects, contractors, and project teams",
+    "benefits": "Work-from-home flexibility. Recognition and rewards programs. Modern office with recreational facilities. Maternity and paternity leave. Comprehensive health insurance for self and family. Annual paid leaves and casual leaves",
+    "industry": "realestate",
+    "occupationalCategory": "Business Development Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Recognition and rewards programs, Modern office with recreational facilities, Maternity and paternity leave, Comprehensive health insurance for self and family, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "RMZ Corp has an exciting opening for a Business Development Manager at our Allahabad office. Join a company that values innovation, collaboration, and continuou",
+    "keywords": "Business Development Manager, RMZ Corp, jobs in Allahabad, Uttar Pradesh jobs, realestate jobs India, Contract Management, Financial Modeling, Market Research, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:53:40.037Z",
+  "page": 174
+}

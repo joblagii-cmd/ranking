@@ -1,0 +1,93 @@
+{
+  "slug": "salarpuria-sattva-real-estate-agent-amritsar-2026-05-22-0",
+  "title": "Looking for Real Estate Agent at Salarpuria Sattva",
+  "company": "Salarpuria Sattva",
+  "industry": "realestate",
+  "role": "Real Estate Agent",
+  "location": {
+    "city": "Amritsar",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Financial Modeling",
+    "CRM Software",
+    "Negotiation Skills",
+    "Lease Administration",
+    "RERA Compliance",
+    "Client Relationship Management",
+    "AutoCAD",
+    "MS Office"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Looking for Real Estate Agent at Salarpuria Sattva",
+    "description": "Salarpuria Sattva has an exciting opening for a Real Estate Agent at our Amritsar office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Salarpuria Sattva:\nSalarpuria Sattva is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Provide advisory services on property investment and market trends\n• Coordinate with legal teams for documentation and title verification\n• Achieve monthly and quarterly sales targets\n• Liaise with banks and NBFCs for home loan assistance to customers\n• Conduct land acquisition due diligence and feasibility studies\n• Manage RERA documentation and compliance requirements\n• Manage relationships with existing customers post-purchase\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 10-15 years of relevant experience\n• Proficiency in Financial Modeling\n• Proficiency in CRM Software\n• Proficiency in Negotiation Skills\n• Proficiency in Lease Administration\n• Proficiency in RERA Compliance\n• Proficiency in Client Relationship Management\n• Proficiency in AutoCAD\n• Proficiency in MS Office\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Life and accident insurance\n• Referral bonus program\n• Annual paid leaves and casual leaves\n• Mobile and internet reimbursement\n• Modern office with recreational facilities\n• Flexible working hours\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Amritsar, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Salarpuria Sattva!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Salarpuria Sattva",
+      "value": "697-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Salarpuria Sattva",
+      "sameAs": "https://www.google.com/search?q=Salarpuria%20Sattva",
+      "logo": "https://logo.clearbit.com/salarpuriasattva.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Salarpuria Sattva Office",
+        "addressLocality": "Amritsar",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "Financial Modeling, CRM Software, Negotiation Skills, Lease Administration, RERA Compliance, Client Relationship Management, AutoCAD, MS Office",
+    "responsibilities": "Provide advisory services on property investment and market trends. Coordinate with legal teams for documentation and title verification. Achieve monthly and quarterly sales targets. Liaise with banks and NBFCs for home loan assistance to customers. Conduct land acquisition due diligence and feasibility studies. Manage RERA documentation and compliance requirements. Manage relationships with existing customers post-purchase",
+    "benefits": "Life and accident insurance. Referral bonus program. Annual paid leaves and casual leaves. Mobile and internet reimbursement. Modern office with recreational facilities. Flexible working hours",
+    "industry": "realestate",
+    "occupationalCategory": "Real Estate Agent",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Referral bonus program, Annual paid leaves and casual leaves, Mobile and internet reimbursement, Modern office with recreational facilities, Flexible working hours"
+  },
+  "meta": {
+    "description": "Salarpuria Sattva has an exciting opening for a Real Estate Agent at our Amritsar office. Join a company that values innovation, collaboration, and continuous l",
+    "keywords": "Real Estate Agent, Salarpuria Sattva, jobs in Amritsar, Punjab jobs, realestate jobs India, Financial Modeling, CRM Software, Negotiation Skills, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:53:40.037Z",
+  "page": 174
+}
