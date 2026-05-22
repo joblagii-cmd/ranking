@@ -1,0 +1,93 @@
+{
+  "slug": "atos-india-full-stack-developer-mumbai-2026-05-22-2",
+  "title": "Atos India is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "Atos India",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Docker",
+    "React",
+    "Agile/Scrum",
+    "TypeScript",
+    "MongoDB",
+    "Java",
+    "SQL",
+    "Python"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Atos India is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "An exciting career opportunity awaits you at Atos India. We are on the lookout for a dedicated Full Stack Developer to strengthen our Mumbai-based team.\n\nAbout Atos India:\nAtos India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Collaborate with cross-functional teams including product, design, and QA\n• Write and execute unit tests and integration tests\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Implement new features based on product requirements\n• Contribute to system architecture and technical design decisions\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 12-20 years of relevant experience\n• Proficiency in Docker\n• Proficiency in React\n• Proficiency in Agile/Scrum\n• Proficiency in TypeScript\n• Proficiency in MongoDB\n• Proficiency in Java\n• Proficiency in SQL\n• Proficiency in Python\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Provident Fund and Gratuity as per company policy\n• Professional development and training programs\n• Maternity and paternity leave\n• Recognition and rewards programs\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Mumbai, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Atos India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Atos India",
+      "value": "62-2-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Atos India",
+      "sameAs": "https://www.google.com/search?q=Atos%20India",
+      "logo": "https://logo.clearbit.com/atosindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Atos India Office",
+        "addressLocality": "Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "Docker, React, Agile/Scrum, TypeScript, MongoDB, Java, SQL, Python",
+    "responsibilities": "Troubleshoot, debug, and resolve software defects and performance issues. Collaborate with cross-functional teams including product, design, and QA. Write and execute unit tests and integration tests. Work with agile methodologies including daily stand-ups and sprint planning. Implement new features based on product requirements. Contribute to system architecture and technical design decisions. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP",
+    "benefits": "Annual paid leaves and casual leaves. Provident Fund and Gratuity as per company policy. Professional development and training programs. Maternity and paternity leave. Recognition and rewards programs. Employee stock options (ESOPs) for eligible roles",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Provident Fund and Gratuity as per company policy, Professional development and training programs, Maternity and paternity leave, Recognition and rewards programs, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Atos India. We are on the lookout for a dedicated Full Stack Developer to strengthen our Mumbai-based team.",
+    "keywords": "Full Stack Developer, Atos India, jobs in Mumbai, Maharashtra jobs, technology jobs India, Docker, React, Agile/Scrum, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:33:32.172Z",
+  "page": 15
+}
