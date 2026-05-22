@@ -1,0 +1,93 @@
+{
+  "slug": "rinl-process-engineer-hyderabad-2026-05-22-3",
+  "title": "Process Engineer Vacancy at RINL - 2026 Batch",
+  "company": "RINL",
+  "industry": "manufacturing",
+  "role": "Process Engineer",
+  "location": {
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Statistical Process Control",
+    "TPM",
+    "Kaizen",
+    "Quality Control",
+    "ERP Systems",
+    "Root Cause Analysis",
+    "GD&T",
+    "Lean Manufacturing"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Process Engineer Vacancy at RINL - 2026 Batch",
+    "description": "If you're a passionate Process Engineer with drive and ambition, RINL in Hyderabad is the place for you. We're growing fast and need talented people to grow with us.\n\nAbout RINL:\nRINL is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with design and engineering teams on product improvements\n• Implement 5S, Kaizen, and Six Sigma practices on the shop floor\n• Maintain accurate production records and prepare daily reports\n• Manage raw material procurement and inventory levels\n• Ensure environmental compliance and waste management\n• Monitor equipment performance and coordinate preventive maintenance\n• Conduct root cause analysis for quality rejections and defects\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 0-1 years of relevant experience\n• Proficiency in Statistical Process Control\n• Proficiency in TPM\n• Proficiency in Kaizen\n• Proficiency in Quality Control\n• Proficiency in ERP Systems\n• Proficiency in Root Cause Analysis\n• Proficiency in GD&T\n• Proficiency in Lean Manufacturing\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Annual paid leaves and casual leaves\n• Work-from-home flexibility\n• Employee stock options (ESOPs) for eligible roles\n• Flexible working hours\n• Annual performance appraisal\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Hyderabad, Telangana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with RINL!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "RINL",
+      "value": "400-3-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "RINL",
+      "sameAs": "https://www.google.com/search?q=RINL",
+      "logo": "https://logo.clearbit.com/rinl.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "RINL Office",
+        "addressLocality": "Hyderabad",
+        "addressRegion": "Telangana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "Statistical Process Control, TPM, Kaizen, Quality Control, ERP Systems, Root Cause Analysis, GD&T, Lean Manufacturing",
+    "responsibilities": "Coordinate with design and engineering teams on product improvements. Implement 5S, Kaizen, and Six Sigma practices on the shop floor. Maintain accurate production records and prepare daily reports. Manage raw material procurement and inventory levels. Ensure environmental compliance and waste management. Monitor equipment performance and coordinate preventive maintenance. Conduct root cause analysis for quality rejections and defects",
+    "benefits": "International travel opportunities for senior roles. Annual paid leaves and casual leaves. Work-from-home flexibility. Employee stock options (ESOPs) for eligible roles. Flexible working hours. Annual performance appraisal",
+    "industry": "manufacturing",
+    "occupationalCategory": "Process Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Annual paid leaves and casual leaves, Work-from-home flexibility, Employee stock options (ESOPs) for eligible roles, Flexible working hours, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "If you're a passionate Process Engineer with drive and ambition, RINL in Hyderabad is the place for you. We're growing fast and need talented people to grow wit",
+    "keywords": "Process Engineer, RINL, jobs in Hyderabad, Telangana jobs, manufacturing jobs India, Statistical Process Control, TPM, Kaizen, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:44:16.811Z",
+  "page": 99
+}
