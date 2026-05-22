@@ -1,0 +1,93 @@
+{
+  "slug": "cyient-senior-software-engineer-navi mumbai-2026-05-22-1",
+  "title": "Senior Software Engineer - Cyient - Freshers Welcome",
+  "company": "Cyient",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "React",
+    "TypeScript",
+    "TensorFlow",
+    "AWS",
+    "Microservices",
+    "Docker",
+    "Rust",
+    "CI/CD"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Cyient - Freshers Welcome",
+    "description": "Are you a skilled Senior Software Engineer looking for your next big career move? Cyient in Navi Mumbai offers you the perfect platform to grow professionally and personally.\n\nAbout Cyient:\nCyient is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write clean, maintainable, and well-documented code\n• Ensure code security and follow best practices for data protection\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Integrate third-party APIs and services\n• Design, develop and maintain scalable software applications\n• Optimize application performance and ensure high availability\n• Work with agile methodologies including daily stand-ups and sprint planning\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 6-10 years of relevant experience\n• Proficiency in React\n• Proficiency in TypeScript\n• Proficiency in TensorFlow\n• Proficiency in AWS\n• Proficiency in Microservices\n• Proficiency in Docker\n• Proficiency in Rust\n• Proficiency in CI/CD\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Referral bonus program\n• Provident Fund and Gratuity as per company policy\n• Company-sponsored certifications\n• Employee stock options (ESOPs) for eligible roles\n• Learning & development budget\n• Competitive salary with performance-linked incentives\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Navi Mumbai, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Cyient!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Cyient",
+      "value": "33-1-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Cyient",
+      "sameAs": "https://www.google.com/search?q=Cyient",
+      "logo": "https://logo.clearbit.com/cyient.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Cyient Office",
+        "addressLocality": "Navi Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "React, TypeScript, TensorFlow, AWS, Microservices, Docker, Rust, CI/CD",
+    "responsibilities": "Write clean, maintainable, and well-documented code. Ensure code security and follow best practices for data protection. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Integrate third-party APIs and services. Design, develop and maintain scalable software applications. Optimize application performance and ensure high availability. Work with agile methodologies including daily stand-ups and sprint planning",
+    "benefits": "Referral bonus program. Provident Fund and Gratuity as per company policy. Company-sponsored certifications. Employee stock options (ESOPs) for eligible roles. Learning & development budget. Competitive salary with performance-linked incentives",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Referral bonus program, Provident Fund and Gratuity as per company policy, Company-sponsored certifications, Employee stock options (ESOPs) for eligible roles, Learning & development budget, Competitive salary with performance-linked incentives"
+  },
+  "meta": {
+    "description": "Are you a skilled Senior Software Engineer looking for your next big career move? Cyient in Navi Mumbai offers you the perfect platform to grow professionally a",
+    "keywords": "Senior Software Engineer, Cyient, jobs in Navi Mumbai, Maharashtra jobs, technology jobs India, React, TypeScript, TensorFlow, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:32:37.415Z",
+  "page": 8
+}
