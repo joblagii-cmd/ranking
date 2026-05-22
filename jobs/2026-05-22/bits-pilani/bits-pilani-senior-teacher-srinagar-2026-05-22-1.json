@@ -1,0 +1,94 @@
+{
+  "slug": "bits-pilani-senior-teacher-srinagar-2026-05-22-1",
+  "title": "Senior Teacher - BITS Pilani - Growth Opportunity",
+  "company": "BITS Pilani",
+  "industry": "education",
+  "role": "Senior Teacher",
+  "location": {
+    "city": "Srinagar",
+    "state": "Jammu & Kashmir",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Pedagogy",
+    "Curriculum Development",
+    "Zoom/Teams",
+    "Lesson Planning",
+    "Special Education",
+    "Child Psychology",
+    "E-learning",
+    "CBSE/ICSE Standards"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Teacher - BITS Pilani - Growth Opportunity",
+    "description": "BITS Pilani, one of India's leading organizations, is hiring a Senior Teacher for our Srinagar operations. We offer a competitive salary package along with world-class benefits.\n\nAbout BITS Pilani:\nBITS Pilani is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Maintain classroom discipline and create a positive learning environment\n• Contribute to school newsletter, blogs, and other publications\n• Create curriculum-aligned learning materials and assessments\n• Utilize technology and digital tools to enhance learning outcomes\n• Monitor student progress and provide timely feedback\n• Conduct doubt-clearing sessions and remedial classes for weak students\n• Conduct parent-teacher meetings and update parents on student performance\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 10-15 years of relevant experience\n• Proficiency in Pedagogy\n• Proficiency in Curriculum Development\n• Proficiency in Zoom/Teams\n• Proficiency in Lesson Planning\n• Proficiency in Special Education\n• Proficiency in Child Psychology\n• Proficiency in E-learning\n• Proficiency in CBSE/ICSE Standards\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Flexible working hours\n• Transportation and conveyance allowance\n• Maternity and paternity leave\n• Competitive salary with performance-linked incentives\n• Learning & development budget\n• Comprehensive health insurance for self and family\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Srinagar, Jammu & Kashmir, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with BITS Pilani!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "BITS Pilani",
+      "value": "526-1-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "BITS Pilani",
+      "sameAs": "https://www.google.com/search?q=BITS%20Pilani",
+      "logo": "https://logo.clearbit.com/bitspilani.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "BITS Pilani Office",
+        "addressLocality": "Srinagar",
+        "addressRegion": "Jammu & Kashmir",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Pedagogy, Curriculum Development, Zoom/Teams, Lesson Planning, Special Education, Child Psychology, E-learning, CBSE/ICSE Standards",
+    "responsibilities": "Maintain classroom discipline and create a positive learning environment. Contribute to school newsletter, blogs, and other publications. Create curriculum-aligned learning materials and assessments. Utilize technology and digital tools to enhance learning outcomes. Monitor student progress and provide timely feedback. Conduct doubt-clearing sessions and remedial classes for weak students. Conduct parent-teacher meetings and update parents on student performance",
+    "benefits": "Flexible working hours. Transportation and conveyance allowance. Maternity and paternity leave. Competitive salary with performance-linked incentives. Learning & development budget. Comprehensive health insurance for self and family",
+    "industry": "education",
+    "occupationalCategory": "Senior Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, Transportation and conveyance allowance, Maternity and paternity leave, Competitive salary with performance-linked incentives, Learning & development budget, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "BITS Pilani, one of India's leading organizations, is hiring a Senior Teacher for our Srinagar operations. We offer a competitive salary package along with worl",
+    "keywords": "Senior Teacher, BITS Pilani, jobs in Srinagar, Jammu & Kashmir jobs, education jobs India, Pedagogy, Curriculum Development, Zoom/Teams, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:48:18.113Z",
+  "page": 131
+}
