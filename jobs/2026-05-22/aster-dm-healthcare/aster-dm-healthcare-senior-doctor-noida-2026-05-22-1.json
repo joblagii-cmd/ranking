@@ -1,0 +1,93 @@
+{
+  "slug": "aster-dm-healthcare-senior-doctor-noida-2026-05-22-1",
+  "title": "Senior Doctor - Aster DM Healthcare - Work From Home Available",
+  "company": "Aster DM Healthcare",
+  "industry": "healthcare",
+  "role": "Senior Doctor",
+  "location": {
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Clinical Documentation",
+    "Surgical Procedures",
+    "Health Informatics",
+    "NABH Standards",
+    "EMR/EHR",
+    "Telemedicine",
+    "BLS/ACLS",
+    "Diagnostic Skills"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Doctor - Aster DM Healthcare - Work From Home Available",
+    "description": "Aster DM Healthcare has an exciting opening for a Senior Doctor at our Noida office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Aster DM Healthcare:\nAster DM Healthcare is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Attend continuing medical education programs and training\n• Adhere to NABH/JCI accreditation standards\n• Respond to medical emergencies and provide immediate care\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Maintain sterile environments and follow infection control protocols\n• Diagnose and treat medical conditions following established protocols\n• Conduct routine health assessments and screenings\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 10-15 years of relevant experience\n• Proficiency in Clinical Documentation\n• Proficiency in Surgical Procedures\n• Proficiency in Health Informatics\n• Proficiency in NABH Standards\n• Proficiency in EMR/EHR\n• Proficiency in Telemedicine\n• Proficiency in BLS/ACLS\n• Proficiency in Diagnostic Skills\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Professional development and training programs\n• Mobile and internet reimbursement\n• Maternity and paternity leave\n• Annual performance appraisal\n• Modern office with recreational facilities\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Noida, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Aster DM Healthcare!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Aster DM Healthcare",
+      "value": "223-1-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Aster DM Healthcare",
+      "sameAs": "https://www.google.com/search?q=Aster%20DM%20Healthcare",
+      "logo": "https://logo.clearbit.com/asterdmhealthcare.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Aster DM Healthcare Office",
+        "addressLocality": "Noida",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "Clinical Documentation, Surgical Procedures, Health Informatics, NABH Standards, EMR/EHR, Telemedicine, BLS/ACLS, Diagnostic Skills",
+    "responsibilities": "Attend continuing medical education programs and training. Adhere to NABH/JCI accreditation standards. Respond to medical emergencies and provide immediate care. Coordinate with multidisciplinary teams for comprehensive patient management. Maintain sterile environments and follow infection control protocols. Diagnose and treat medical conditions following established protocols. Conduct routine health assessments and screenings",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Professional development and training programs. Mobile and internet reimbursement. Maternity and paternity leave. Annual performance appraisal. Modern office with recreational facilities",
+    "industry": "healthcare",
+    "occupationalCategory": "Senior Doctor",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Professional development and training programs, Mobile and internet reimbursement, Maternity and paternity leave, Annual performance appraisal, Modern office with recreational facilities"
+  },
+  "meta": {
+    "description": "Aster DM Healthcare has an exciting opening for a Senior Doctor at our Noida office. Join a company that values innovation, collaboration, and continuous learni",
+    "keywords": "Senior Doctor, Aster DM Healthcare, jobs in Noida, Uttar Pradesh jobs, healthcare jobs India, Clinical Documentation, Surgical Procedures, Health Informatics, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:38:42.280Z",
+  "page": 55
+}

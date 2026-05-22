@@ -1,0 +1,93 @@
+{
+  "slug": "columbia-asia-surgeon-mysuru-2026-05-22-3",
+  "title": "Surgeon Vacancy at Columbia Asia - 2026 Batch",
+  "company": "Columbia Asia",
+  "industry": "healthcare",
+  "role": "Surgeon",
+  "location": {
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Infection Control",
+    "Medical Coding",
+    "NABH Standards",
+    "EMR/EHR",
+    "Clinical Documentation",
+    "Medical Terminology",
+    "BLS/ACLS",
+    "Medical Ethics"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Surgeon Vacancy at Columbia Asia - 2026 Batch",
+    "description": "Columbia Asia has an exciting opening for a Surgeon at our Mysuru office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Columbia Asia:\nColumbia Asia is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Administer medications and treatments as prescribed\n• Maintain accurate clinical documentation in electronic health records\n• Attend continuing medical education programs and training\n• Conduct routine health assessments and screenings\n• Maintain sterile environments and follow infection control protocols\n• Ensure patient privacy and maintain confidentiality\n• Respond to medical emergencies and provide immediate care\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 6-10 years of relevant experience\n• Proficiency in Infection Control\n• Proficiency in Medical Coding\n• Proficiency in NABH Standards\n• Proficiency in EMR/EHR\n• Proficiency in Clinical Documentation\n• Proficiency in Medical Terminology\n• Proficiency in BLS/ACLS\n• Proficiency in Medical Ethics\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Company-sponsored certifications\n• Mobile and internet reimbursement\n• Annual paid leaves and casual leaves\n• Modern office with recreational facilities\n• Flexible working hours\n• Competitive salary with performance-linked incentives\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Mysuru, Karnataka, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Columbia Asia!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Columbia Asia",
+      "value": "222-3-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Columbia Asia",
+      "sameAs": "https://www.google.com/search?q=Columbia%20Asia",
+      "logo": "https://logo.clearbit.com/columbiaasia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Columbia Asia Office",
+        "addressLocality": "Mysuru",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "Infection Control, Medical Coding, NABH Standards, EMR/EHR, Clinical Documentation, Medical Terminology, BLS/ACLS, Medical Ethics",
+    "responsibilities": "Administer medications and treatments as prescribed. Maintain accurate clinical documentation in electronic health records. Attend continuing medical education programs and training. Conduct routine health assessments and screenings. Maintain sterile environments and follow infection control protocols. Ensure patient privacy and maintain confidentiality. Respond to medical emergencies and provide immediate care",
+    "benefits": "Company-sponsored certifications. Mobile and internet reimbursement. Annual paid leaves and casual leaves. Modern office with recreational facilities. Flexible working hours. Competitive salary with performance-linked incentives",
+    "industry": "healthcare",
+    "occupationalCategory": "Surgeon",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Company-sponsored certifications, Mobile and internet reimbursement, Annual paid leaves and casual leaves, Modern office with recreational facilities, Flexible working hours, Competitive salary with performance-linked incentives"
+  },
+  "meta": {
+    "description": "Columbia Asia has an exciting opening for a Surgeon at our Mysuru office. Join a company that values innovation, collaboration, and continuous learning.",
+    "keywords": "Surgeon, Columbia Asia, jobs in Mysuru, Karnataka jobs, healthcare jobs India, Infection Control, Medical Coding, NABH Standards, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:38:42.280Z",
+  "page": 55
+}
