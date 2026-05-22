@@ -4,9 +4,46 @@ import { generateJobPosting } from "../lib/templateEngine.js";
 export const config = { maxDuration: 10 };
 
 const SITEMAPS_PER_DAY = 5;
-const URLS_PER_SITEMAP = 5000;
 const POSTS_PER_COMPANY = 5;
-const COMPANIES_PER_SITEMAP = URLS_PER_SITEMAP / POSTS_PER_COMPANY; // 1000
+const COMPANIES_PER_SITEMAP = 1000;
+
+async function getDates(owner, repo, token) {
+  // Try authenticated API first
+  try {
+    const r = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/jobs`, {
+      headers: { Authorization: `token ${token}`, Accept: "application/vnd.github.v3+json", "User-Agent": "JobPoster-Bot/1.0" }
+    });
+    if (r.ok) {
+      const data = await r.json();
+      if (Array.isArray(data)) {
+        return data
+          .filter(f => f.type === "dir" && /^\d{4}-\d{2}-\d{2}$/.test(f.name))
+          .map(f => f.name)
+          .sort((a, b) => b.localeCompare(a));
+      }
+    }
+  } catch { }
+
+  // Fallback: read dates-index.json committed to repo (no auth needed)
+  try {
+    const r = await fetch(`https://raw.githubusercontent.com/${owner}/${repo}/main/dates-index.json`);
+    if (r.ok) {
+      const data = await r.json();
+      if (Array.isArray(data)) return data.sort((a, b) => b.localeCompare(a));
+    }
+  } catch { }
+
+  // Last resort: return today and yesterday
+  const now = new Date();
+  const ist = new Date(now.getTime() + 5.5 * 60 * 60 * 1000);
+  const dates = [];
+  for (let i = 0; i < 7; i++) {
+    const d = new Date(ist);
+    d.setDate(d.getDate() - i);
+    dates.push(d.toISOString().split("T")[0]);
+  }
+  return dates;
+}
 
 export default async function handler(req, res) {
   const baseUrl = process.env.SITE_URL || `https://${req.headers.host}`;
@@ -15,28 +52,8 @@ export default async function handler(req, res) {
   const sitemapId = parseInt(req.query.id || "1");
   if (isNaN(sitemapId) || sitemapId < 1) return res.status(404).send("Sitemap not found");
 
-  const now = new Date();
-  const ist = new Date(now.getTime() + 5.5 * 60 * 60 * 1000);
-  const todayStr = ist.toISOString().split("T")[0];
+  const dates = await getDates(GITHUB_OWNER, GITHUB_REPO, GITHUB_TOKEN);
 
-  // Fetch date folders (1 API call)
-  let dates = [todayStr];
-  try {
-    const r = await fetch(`https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/jobs`, {
-      headers: { Authorization: `token ${GITHUB_TOKEN}`, Accept: "application/vnd.github.v3+json", "User-Agent": "JobPoster-Bot/1.0" }
-    });
-    if (r.ok) {
-      const data = await r.json();
-      if (Array.isArray(data)) {
-        dates = data
-          .filter(f => f.type === "dir" && /^\d{4}-\d{2}-\d{2}$/.test(f.name))
-          .map(f => f.name)
-          .sort((a, b) => b.localeCompare(a));
-      }
-    }
-  } catch { }
-
-  // Which date and chunk does this sitemapId map to?
   const dateIndex = Math.floor((sitemapId - 1) / SITEMAPS_PER_DAY);
   const chunkIndex = (sitemapId - 1) % SITEMAPS_PER_DAY;
 
