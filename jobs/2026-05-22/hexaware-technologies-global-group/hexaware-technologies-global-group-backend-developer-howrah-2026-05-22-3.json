@@ -1,0 +1,93 @@
+{
+  "slug": "hexaware-technologies-global-group-backend-developer-howrah-2026-05-22-3",
+  "title": "Backend Developer Vacancy at Hexaware Technologies Global Group - 2026 Batch",
+  "company": "Hexaware Technologies Global Group",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Howrah",
+    "state": "West Bengal",
+    "region": "Eastern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "REST APIs",
+    "JavaScript",
+    "AWS",
+    "Python",
+    "Rust",
+    "Git",
+    "Kubernetes",
+    "Node.js"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Hexaware Technologies Global Group - 2026 Batch",
+    "description": "Hexaware Technologies Global Group has an exciting opening for a Backend Developer at our Howrah office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Hexaware Technologies Global Group:\nHexaware Technologies Global Group is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Implement new features based on product requirements\n• Ensure code security and follow best practices for data protection\n• Integrate third-party APIs and services\n• Write clean, maintainable, and well-documented code\n• Participate in code reviews and contribute to technical discussions\n• Collaborate with cross-functional teams including product, design, and QA\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 0-1 years of relevant experience\n• Proficiency in REST APIs\n• Proficiency in JavaScript\n• Proficiency in AWS\n• Proficiency in Python\n• Proficiency in Rust\n• Proficiency in Git\n• Proficiency in Kubernetes\n• Proficiency in Node.js\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Transportation and conveyance allowance\n• International travel opportunities for senior roles\n• Annual performance appraisal\n• Mobile and internet reimbursement\n• Flexible working hours\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Howrah, West Bengal, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Hexaware Technologies Global Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Hexaware Technologies Global Group",
+      "value": "1867-3-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Hexaware Technologies Global Group",
+      "sameAs": "https://www.google.com/search?q=Hexaware%20Technologies%20Global%20Group",
+      "logo": "https://logo.clearbit.com/hexawaretechnologiesglobalgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Hexaware Technologies Global Group Office",
+        "addressLocality": "Howrah",
+        "addressRegion": "West Bengal",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "REST APIs, JavaScript, AWS, Python, Rust, Git, Kubernetes, Node.js",
+    "responsibilities": "Design, develop and maintain scalable software applications. Implement new features based on product requirements. Ensure code security and follow best practices for data protection. Integrate third-party APIs and services. Write clean, maintainable, and well-documented code. Participate in code reviews and contribute to technical discussions. Collaborate with cross-functional teams including product, design, and QA",
+    "benefits": "Annual paid leaves and casual leaves. Transportation and conveyance allowance. International travel opportunities for senior roles. Annual performance appraisal. Mobile and internet reimbursement. Flexible working hours",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Transportation and conveyance allowance, International travel opportunities for senior roles, Annual performance appraisal, Mobile and internet reimbursement, Flexible working hours"
+  },
+  "meta": {
+    "description": "Hexaware Technologies Global Group has an exciting opening for a Backend Developer at our Howrah office. Join a company that values innovation, collaboration, a",
+    "keywords": "Backend Developer, Hexaware Technologies Global Group, jobs in Howrah, West Bengal jobs, technology jobs India, REST APIs, JavaScript, AWS, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:54:30.300Z",
+  "page": 466
+}

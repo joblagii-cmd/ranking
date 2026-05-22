@@ -1,0 +1,93 @@
+{
+  "slug": "mphasis-digital-technologies-senior-software-engineer-allahabad-2026-05-22-1",
+  "title": "Senior Software Engineer - Mphasis Digital Technologies - Freshers Welcome",
+  "company": "Mphasis Digital Technologies",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Allahabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "CI/CD",
+    "JavaScript",
+    "Kubernetes",
+    "TypeScript",
+    "Python",
+    "React",
+    "Rust",
+    "MongoDB"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Mphasis Digital Technologies - Freshers Welcome",
+    "description": "Mphasis Digital Technologies has an exciting opening for a Senior Software Engineer at our Allahabad office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Mphasis Digital Technologies:\nMphasis Digital Technologies is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in code reviews and contribute to technical discussions\n• Ensure code security and follow best practices for data protection\n• Implement new features based on product requirements\n• Optimize application performance and ensure high availability\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Write and execute unit tests and integration tests\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 6-10 years of relevant experience\n• Proficiency in CI/CD\n• Proficiency in JavaScript\n• Proficiency in Kubernetes\n• Proficiency in TypeScript\n• Proficiency in Python\n• Proficiency in React\n• Proficiency in Rust\n• Proficiency in MongoDB\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Transportation and conveyance allowance\n• Annual performance appraisal\n• Professional development and training programs\n• Life and accident insurance\n• Learning & development budget\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Allahabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Mphasis Digital Technologies!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Mphasis Digital Technologies",
+      "value": "1866-1-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Mphasis Digital Technologies",
+      "sameAs": "https://www.google.com/search?q=Mphasis%20Digital%20Technologies",
+      "logo": "https://logo.clearbit.com/mphasisdigitaltechnologies.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Mphasis Digital Technologies Office",
+        "addressLocality": "Allahabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "CI/CD, JavaScript, Kubernetes, TypeScript, Python, React, Rust, MongoDB",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Participate in code reviews and contribute to technical discussions. Ensure code security and follow best practices for data protection. Implement new features based on product requirements. Optimize application performance and ensure high availability. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Write and execute unit tests and integration tests",
+    "benefits": "Annual paid leaves and casual leaves. Transportation and conveyance allowance. Annual performance appraisal. Professional development and training programs. Life and accident insurance. Learning & development budget",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Transportation and conveyance allowance, Annual performance appraisal, Professional development and training programs, Life and accident insurance, Learning & development budget"
+  },
+  "meta": {
+    "description": "Mphasis Digital Technologies has an exciting opening for a Senior Software Engineer at our Allahabad office. Join a company that values innovation, collaboratio",
+    "keywords": "Senior Software Engineer, Mphasis Digital Technologies, jobs in Allahabad, Uttar Pradesh jobs, technology jobs India, CI/CD, JavaScript, Kubernetes, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:54:30.300Z",
+  "page": 466
+}

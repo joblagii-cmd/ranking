@@ -1,0 +1,94 @@
+{
+  "slug": "mphasis-digital-technologies-software-engineer-allahabad-2026-05-22-0",
+  "title": "Walk-in Drive Software Engineer at Mphasis Digital Technologies",
+  "company": "Mphasis Digital Technologies",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Allahabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "JavaScript",
+    "Java",
+    "Git",
+    "Kubernetes",
+    "Agile/Scrum",
+    "SQL",
+    "Rust",
+    "Microservices"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Walk-in Drive Software Engineer at Mphasis Digital Technologies",
+    "description": "Mphasis Digital Technologies has an exciting opening for a Software Engineer at our Allahabad office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Mphasis Digital Technologies:\nMphasis Digital Technologies is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Implement new features based on product requirements\n• Participate in on-call rotation for production support\n• Design, develop and maintain scalable software applications\n• Integrate third-party APIs and services\n• Ensure code security and follow best practices for data protection\n• Contribute to system architecture and technical design decisions\n• Optimize application performance and ensure high availability\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 10-15 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Java\n• Proficiency in Git\n• Proficiency in Kubernetes\n• Proficiency in Agile/Scrum\n• Proficiency in SQL\n• Proficiency in Rust\n• Proficiency in Microservices\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Annual performance appraisal\n• Provident Fund and Gratuity as per company policy\n• Life and accident insurance\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Allahabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Mphasis Digital Technologies!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Mphasis Digital Technologies",
+      "value": "1866-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Mphasis Digital Technologies",
+      "sameAs": "https://www.google.com/search?q=Mphasis%20Digital%20Technologies",
+      "logo": "https://logo.clearbit.com/mphasisdigitaltechnologies.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Mphasis Digital Technologies Office",
+        "addressLocality": "Allahabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "JavaScript, Java, Git, Kubernetes, Agile/Scrum, SQL, Rust, Microservices",
+    "responsibilities": "Implement new features based on product requirements. Participate in on-call rotation for production support. Design, develop and maintain scalable software applications. Integrate third-party APIs and services. Ensure code security and follow best practices for data protection. Contribute to system architecture and technical design decisions. Optimize application performance and ensure high availability",
+    "benefits": "Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Annual performance appraisal. Provident Fund and Gratuity as per company policy. Life and accident insurance. Employee stock options (ESOPs) for eligible roles",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Annual performance appraisal, Provident Fund and Gratuity as per company policy, Life and accident insurance, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "Mphasis Digital Technologies has an exciting opening for a Software Engineer at our Allahabad office. Join a company that values innovation, collaboration, and ",
+    "keywords": "Software Engineer, Mphasis Digital Technologies, jobs in Allahabad, Uttar Pradesh jobs, technology jobs India, JavaScript, Java, Git, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:54:30.300Z",
+  "page": 466
+}
