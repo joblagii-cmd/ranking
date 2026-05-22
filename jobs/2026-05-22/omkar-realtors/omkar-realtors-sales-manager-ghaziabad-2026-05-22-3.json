@@ -1,0 +1,94 @@
+{
+  "slug": "omkar-realtors-sales-manager-ghaziabad-2026-05-22-3",
+  "title": "Sales Manager Vacancy at Omkar Realtors - 2026 Batch",
+  "company": "Omkar Realtors",
+  "industry": "realestate",
+  "role": "Sales Manager",
+  "location": {
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Negotiation Skills",
+    "Market Research",
+    "Financial Modeling",
+    "MS Office",
+    "Due Diligence",
+    "GIS Tools",
+    "AutoCAD",
+    "Lease Administration"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Sales Manager Vacancy at Omkar Realtors - 2026 Batch",
+    "description": "An exciting career opportunity awaits you at Omkar Realtors. We are on the lookout for a dedicated Sales Manager to strengthen our Ghaziabad-based team.\n\nAbout Omkar Realtors:\nOmkar Realtors is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Maintain a pipeline of qualified leads using CRM software\n• Manage relationships with existing customers post-purchase\n• Prepare presentations and proposals for institutional clients\n• Coordinate with architects, contractors, and project teams\n• Negotiate pricing, terms, and conditions on behalf of clients\n• Coordinate with legal teams for documentation and title verification\n• Achieve monthly and quarterly sales targets\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 1-3 years of relevant experience\n• Proficiency in Negotiation Skills\n• Proficiency in Market Research\n• Proficiency in Financial Modeling\n• Proficiency in MS Office\n• Proficiency in Due Diligence\n• Proficiency in GIS Tools\n• Proficiency in AutoCAD\n• Proficiency in Lease Administration\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Meal coupons and food allowance\n• Annual paid leaves and casual leaves\n• Modern office with recreational facilities\n• International travel opportunities for senior roles\n• Maternity and paternity leave\n• Life and accident insurance\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Ghaziabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Omkar Realtors!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Omkar Realtors",
+      "value": "760-3-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Omkar Realtors",
+      "sameAs": "https://www.google.com/search?q=Omkar%20Realtors",
+      "logo": "https://logo.clearbit.com/omkarrealtors.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Omkar Realtors Office",
+        "addressLocality": "Ghaziabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "Negotiation Skills, Market Research, Financial Modeling, MS Office, Due Diligence, GIS Tools, AutoCAD, Lease Administration",
+    "responsibilities": "Maintain a pipeline of qualified leads using CRM software. Manage relationships with existing customers post-purchase. Prepare presentations and proposals for institutional clients. Coordinate with architects, contractors, and project teams. Negotiate pricing, terms, and conditions on behalf of clients. Coordinate with legal teams for documentation and title verification. Achieve monthly and quarterly sales targets",
+    "benefits": "Meal coupons and food allowance. Annual paid leaves and casual leaves. Modern office with recreational facilities. International travel opportunities for senior roles. Maternity and paternity leave. Life and accident insurance",
+    "industry": "realestate",
+    "occupationalCategory": "Sales Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Meal coupons and food allowance, Annual paid leaves and casual leaves, Modern office with recreational facilities, International travel opportunities for senior roles, Maternity and paternity leave, Life and accident insurance"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Omkar Realtors. We are on the lookout for a dedicated Sales Manager to strengthen our Ghaziabad-based team.",
+    "keywords": "Sales Manager, Omkar Realtors, jobs in Ghaziabad, Uttar Pradesh jobs, realestate jobs India, Negotiation Skills, Market Research, Financial Modeling, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:55:33.695Z",
+  "page": 189
+}
