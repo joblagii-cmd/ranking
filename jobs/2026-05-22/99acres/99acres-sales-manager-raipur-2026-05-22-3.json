@@ -1,0 +1,93 @@
+{
+  "slug": "99acres-sales-manager-raipur-2026-05-22-3",
+  "title": "Sales Manager Vacancy at 99acres - 2026 Batch",
+  "company": "99acres",
+  "industry": "realestate",
+  "role": "Sales Manager",
+  "location": {
+    "city": "Raipur",
+    "state": "Chhattisgarh",
+    "region": "Central India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Property Valuation",
+    "Property Management",
+    "Title Search",
+    "Contract Management",
+    "Portfolio Management",
+    "Sales Techniques",
+    "Market Research",
+    "Financial Modeling"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Sales Manager Vacancy at 99acres - 2026 Batch",
+    "description": "Are you a skilled Sales Manager looking for your next big career move? 99acres in Raipur offers you the perfect platform to grow professionally and personally.\n\nAbout 99acres:\n99acres is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with legal teams for documentation and title verification\n• Negotiate pricing, terms, and conditions on behalf of clients\n• Build relationships with channel partners and brokers\n• Conduct site visits and property presentations for clients\n• Manage relationships with existing customers post-purchase\n• Coordinate with architects, contractors, and project teams\n• Manage RERA documentation and compliance requirements\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 12-20 years of relevant experience\n• Proficiency in Property Valuation\n• Proficiency in Property Management\n• Proficiency in Title Search\n• Proficiency in Contract Management\n• Proficiency in Portfolio Management\n• Proficiency in Sales Techniques\n• Proficiency in Market Research\n• Proficiency in Financial Modeling\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Mobile and internet reimbursement\n• Annual paid leaves and casual leaves\n• Flexible working hours\n• Learning & development budget\n• Maternity and paternity leave\n• Work-from-home flexibility\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Raipur, Chhattisgarh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with 99acres!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "99acres",
+      "value": "714-3-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "99acres",
+      "sameAs": "https://www.google.com/search?q=99acres",
+      "logo": "https://logo.clearbit.com/99acres.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "99acres Office",
+        "addressLocality": "Raipur",
+        "addressRegion": "Chhattisgarh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Property Valuation, Property Management, Title Search, Contract Management, Portfolio Management, Sales Techniques, Market Research, Financial Modeling",
+    "responsibilities": "Coordinate with legal teams for documentation and title verification. Negotiate pricing, terms, and conditions on behalf of clients. Build relationships with channel partners and brokers. Conduct site visits and property presentations for clients. Manage relationships with existing customers post-purchase. Coordinate with architects, contractors, and project teams. Manage RERA documentation and compliance requirements",
+    "benefits": "Mobile and internet reimbursement. Annual paid leaves and casual leaves. Flexible working hours. Learning & development budget. Maternity and paternity leave. Work-from-home flexibility",
+    "industry": "realestate",
+    "occupationalCategory": "Sales Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Mobile and internet reimbursement, Annual paid leaves and casual leaves, Flexible working hours, Learning & development budget, Maternity and paternity leave, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "Are you a skilled Sales Manager looking for your next big career move? 99acres in Raipur offers you the perfect platform to grow professionally and personally.",
+    "keywords": "Sales Manager, 99acres, jobs in Raipur, Chhattisgarh jobs, realestate jobs India, Property Valuation, Property Management, Title Search, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:54:09.722Z",
+  "page": 178
+}
