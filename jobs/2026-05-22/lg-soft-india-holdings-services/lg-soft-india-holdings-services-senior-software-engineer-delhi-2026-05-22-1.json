@@ -1,0 +1,93 @@
+{
+  "slug": "lg-soft-india-holdings-services-senior-software-engineer-delhi-2026-05-22-1",
+  "title": "Senior Software Engineer - LG Soft India Holdings Services - Freshers Welcome",
+  "company": "LG Soft India Holdings Services",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Docker",
+    "TypeScript",
+    "MongoDB",
+    "TensorFlow",
+    "Kubernetes",
+    "Java",
+    "Git",
+    "REST APIs"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - LG Soft India Holdings Services - Freshers Welcome",
+    "description": "Are you a skilled Senior Software Engineer looking for your next big career move? LG Soft India Holdings Services in Delhi offers you the perfect platform to grow professionally and personally.\n\nAbout LG Soft India Holdings Services:\nLG Soft India Holdings Services is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in on-call rotation for production support\n• Optimize application performance and ensure high availability\n• Write and execute unit tests and integration tests\n• Write clean, maintainable, and well-documented code\n• Collaborate with cross-functional teams including product, design, and QA\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Integrate third-party APIs and services\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 0-1 years of relevant experience\n• Proficiency in Docker\n• Proficiency in TypeScript\n• Proficiency in MongoDB\n• Proficiency in TensorFlow\n• Proficiency in Kubernetes\n• Proficiency in Java\n• Proficiency in Git\n• Proficiency in REST APIs\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Annual performance appraisal\n• Learning & development budget\n• Recognition and rewards programs\n• Company-sponsored certifications\n• Modern office with recreational facilities\n• Life and accident insurance\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Delhi, Delhi, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with LG Soft India Holdings Services!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "LG Soft India Holdings Services",
+      "value": "1895-1-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "LG Soft India Holdings Services",
+      "sameAs": "https://www.google.com/search?q=LG%20Soft%20India%20Holdings%20Services",
+      "logo": "https://logo.clearbit.com/lgsoftindiaholdingsservices.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "LG Soft India Holdings Services Office",
+        "addressLocality": "Delhi",
+        "addressRegion": "Delhi",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Docker, TypeScript, MongoDB, TensorFlow, Kubernetes, Java, Git, REST APIs",
+    "responsibilities": "Participate in on-call rotation for production support. Optimize application performance and ensure high availability. Write and execute unit tests and integration tests. Write clean, maintainable, and well-documented code. Collaborate with cross-functional teams including product, design, and QA. Troubleshoot, debug, and resolve software defects and performance issues. Integrate third-party APIs and services",
+    "benefits": "Annual performance appraisal. Learning & development budget. Recognition and rewards programs. Company-sponsored certifications. Modern office with recreational facilities. Life and accident insurance",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual performance appraisal, Learning & development budget, Recognition and rewards programs, Company-sponsored certifications, Modern office with recreational facilities, Life and accident insurance"
+  },
+  "meta": {
+    "description": "Are you a skilled Senior Software Engineer looking for your next big career move? LG Soft India Holdings Services in Delhi offers you the perfect platform to gr",
+    "keywords": "Senior Software Engineer, LG Soft India Holdings Services, jobs in Delhi, Delhi jobs, technology jobs India, Docker, TypeScript, MongoDB, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:55:28.878Z",
+  "page": 473
+}
