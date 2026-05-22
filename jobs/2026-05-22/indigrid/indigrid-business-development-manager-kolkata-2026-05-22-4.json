@@ -1,0 +1,93 @@
+{
+  "slug": "indigrid-business-development-manager-kolkata-2026-05-22-4",
+  "title": "Junior Business Development Manager at IndiGrid",
+  "company": "IndiGrid",
+  "industry": "realestate",
+  "role": "Business Development Manager",
+  "location": {
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "region": "Eastern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Property Valuation",
+    "GIS Tools",
+    "Real Estate Law",
+    "Due Diligence",
+    "Financial Modeling",
+    "AutoCAD",
+    "Project Management",
+    "RERA Compliance"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Junior Business Development Manager at IndiGrid",
+    "description": "IndiGrid, one of India's leading organizations, is hiring a Business Development Manager for our Kolkata operations. We offer a competitive salary package along with world-class benefits.\n\nAbout IndiGrid:\nIndiGrid is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Maintain a pipeline of qualified leads using CRM software\n• Prepare presentations and proposals for institutional clients\n• Source and close property deals with prospective buyers and investors\n• Build relationships with channel partners and brokers\n• Coordinate with legal teams for documentation and title verification\n• Conduct market research and provide competitive analysis\n• Manage RERA documentation and compliance requirements\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 12-20 years of relevant experience\n• Proficiency in Property Valuation\n• Proficiency in GIS Tools\n• Proficiency in Real Estate Law\n• Proficiency in Due Diligence\n• Proficiency in Financial Modeling\n• Proficiency in AutoCAD\n• Proficiency in Project Management\n• Proficiency in RERA Compliance\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Flexible working hours\n• Meal coupons and food allowance\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Referral bonus program\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Kolkata, West Bengal, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with IndiGrid!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "IndiGrid",
+      "value": "735-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "IndiGrid",
+      "sameAs": "https://www.google.com/search?q=IndiGrid",
+      "logo": "https://logo.clearbit.com/indigrid.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "IndiGrid Office",
+        "addressLocality": "Kolkata",
+        "addressRegion": "West Bengal",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "Property Valuation, GIS Tools, Real Estate Law, Due Diligence, Financial Modeling, AutoCAD, Project Management, RERA Compliance",
+    "responsibilities": "Maintain a pipeline of qualified leads using CRM software. Prepare presentations and proposals for institutional clients. Source and close property deals with prospective buyers and investors. Build relationships with channel partners and brokers. Coordinate with legal teams for documentation and title verification. Conduct market research and provide competitive analysis. Manage RERA documentation and compliance requirements",
+    "benefits": "Transportation and conveyance allowance. Flexible working hours. Meal coupons and food allowance. Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Referral bonus program",
+    "industry": "realestate",
+    "occupationalCategory": "Business Development Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Flexible working hours, Meal coupons and food allowance, Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Referral bonus program"
+  },
+  "meta": {
+    "description": "IndiGrid, one of India's leading organizations, is hiring a Business Development Manager for our Kolkata operations. We offer a competitive salary package along",
+    "keywords": "Business Development Manager, IndiGrid, jobs in Kolkata, West Bengal jobs, realestate jobs India, Property Valuation, GIS Tools, Real Estate Law, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:54:47.782Z",
+  "page": 183
+}
