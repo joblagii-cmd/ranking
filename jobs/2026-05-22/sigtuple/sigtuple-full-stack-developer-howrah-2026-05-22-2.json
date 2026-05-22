@@ -1,0 +1,94 @@
+{
+  "slug": "sigtuple-full-stack-developer-howrah-2026-05-22-2",
+  "title": "SigTuple is Hiring: Full Stack Developer (Senior)",
+  "company": "SigTuple",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Howrah",
+    "state": "West Bengal",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Java",
+    "Go",
+    "CI/CD",
+    "Python",
+    "Git",
+    "AWS",
+    "Node.js",
+    "JavaScript"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "SigTuple is Hiring: Full Stack Developer (Senior)",
+    "description": "SigTuple invites applications from qualified candidates for the position of Full Stack Developer at our Howrah location. This role offers excellent career advancement prospects.\n\nAbout SigTuple:\nSigTuple is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write and execute unit tests and integration tests\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Participate in on-call rotation for production support\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Ensure code security and follow best practices for data protection\n• Integrate third-party APIs and services\n• Design, develop and maintain scalable software applications\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 12-20 years of relevant experience\n• Proficiency in Java\n• Proficiency in Go\n• Proficiency in CI/CD\n• Proficiency in Python\n• Proficiency in Git\n• Proficiency in AWS\n• Proficiency in Node.js\n• Proficiency in JavaScript\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Annual performance appraisal\n• Recognition and rewards programs\n• Annual paid leaves and casual leaves\n• Transportation and conveyance allowance\n• Work-from-home flexibility\n• Meal coupons and food allowance\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Howrah, West Bengal, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with SigTuple!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "SigTuple",
+      "value": "120-2-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "SigTuple",
+      "sameAs": "https://www.google.com/search?q=SigTuple",
+      "logo": "https://logo.clearbit.com/sigtuple.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "SigTuple Office",
+        "addressLocality": "Howrah",
+        "addressRegion": "West Bengal",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "Java, Go, CI/CD, Python, Git, AWS, Node.js, JavaScript",
+    "responsibilities": "Write and execute unit tests and integration tests. Troubleshoot, debug, and resolve software defects and performance issues. Participate in on-call rotation for production support. Work with agile methodologies including daily stand-ups and sprint planning. Ensure code security and follow best practices for data protection. Integrate third-party APIs and services. Design, develop and maintain scalable software applications",
+    "benefits": "Annual performance appraisal. Recognition and rewards programs. Annual paid leaves and casual leaves. Transportation and conveyance allowance. Work-from-home flexibility. Meal coupons and food allowance",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual performance appraisal, Recognition and rewards programs, Annual paid leaves and casual leaves, Transportation and conveyance allowance, Work-from-home flexibility, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "SigTuple invites applications from qualified candidates for the position of Full Stack Developer at our Howrah location. This role offers excellent career advan",
+    "keywords": "Full Stack Developer, SigTuple, jobs in Howrah, West Bengal jobs, technology jobs India, Java, Go, CI/CD, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:35:21.351Z",
+  "page": 29
+}

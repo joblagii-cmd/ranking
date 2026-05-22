@@ -1,0 +1,94 @@
+{
+  "slug": "lybrate-backend-developer-ranchi-2026-05-22-3",
+  "title": "Backend Developer Vacancy at Lybrate - 2026 Batch",
+  "company": "Lybrate",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "REST APIs",
+    "JavaScript",
+    "Microservices",
+    "TensorFlow",
+    "Python",
+    "Agile/Scrum",
+    "React",
+    "CI/CD"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Lybrate - 2026 Batch",
+    "description": "Lybrate invites applications from qualified candidates for the position of Backend Developer at our Ranchi location. This role offers excellent career advancement prospects.\n\nAbout Lybrate:\nLybrate is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Contribute to system architecture and technical design decisions\n• Design, develop and maintain scalable software applications\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Write clean, maintainable, and well-documented code\n• Participate in code reviews and contribute to technical discussions\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in on-call rotation for production support\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 0-1 years of relevant experience\n• Proficiency in REST APIs\n• Proficiency in JavaScript\n• Proficiency in Microservices\n• Proficiency in TensorFlow\n• Proficiency in Python\n• Proficiency in Agile/Scrum\n• Proficiency in React\n• Proficiency in CI/CD\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Referral bonus program\n• Transportation and conveyance allowance\n• International travel opportunities for senior roles\n• Comprehensive health insurance for self and family\n• Annual performance appraisal\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Ranchi, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Lybrate!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Lybrate",
+      "value": "118-3-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Lybrate",
+      "sameAs": "https://www.google.com/search?q=Lybrate",
+      "logo": "https://logo.clearbit.com/lybrate.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Lybrate Office",
+        "addressLocality": "Ranchi",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "REST APIs, JavaScript, Microservices, TensorFlow, Python, Agile/Scrum, React, CI/CD",
+    "responsibilities": "Contribute to system architecture and technical design decisions. Design, develop and maintain scalable software applications. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Write clean, maintainable, and well-documented code. Participate in code reviews and contribute to technical discussions. Collaborate with cross-functional teams including product, design, and QA. Participate in on-call rotation for production support",
+    "benefits": "Competitive salary with performance-linked incentives. Referral bonus program. Transportation and conveyance allowance. International travel opportunities for senior roles. Comprehensive health insurance for self and family. Annual performance appraisal",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Referral bonus program, Transportation and conveyance allowance, International travel opportunities for senior roles, Comprehensive health insurance for self and family, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "Lybrate invites applications from qualified candidates for the position of Backend Developer at our Ranchi location. This role offers excellent career advanceme",
+    "keywords": "Backend Developer, Lybrate, jobs in Ranchi, Jharkhand jobs, technology jobs India, REST APIs, JavaScript, Microservices, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:35:21.350Z",
+  "page": 29
+}

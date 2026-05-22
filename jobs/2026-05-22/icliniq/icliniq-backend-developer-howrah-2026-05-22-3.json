@@ -1,0 +1,93 @@
+{
+  "slug": "icliniq-backend-developer-howrah-2026-05-22-3",
+  "title": "Backend Developer Vacancy at iCliniq - 2026 Batch",
+  "company": "iCliniq",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Howrah",
+    "state": "West Bengal",
+    "region": "Eastern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Git",
+    "Python",
+    "JavaScript",
+    "Kubernetes",
+    "Machine Learning",
+    "Go",
+    "AWS",
+    "Agile/Scrum"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at iCliniq - 2026 Batch",
+    "description": "iCliniq invites applications from qualified candidates for the position of Backend Developer at our Howrah location. This role offers excellent career advancement prospects.\n\nAbout iCliniq:\niCliniq is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in code reviews and contribute to technical discussions\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Integrate third-party APIs and services\n• Optimize application performance and ensure high availability\n• Implement new features based on product requirements\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 12-20 years of relevant experience\n• Proficiency in Git\n• Proficiency in Python\n• Proficiency in JavaScript\n• Proficiency in Kubernetes\n• Proficiency in Machine Learning\n• Proficiency in Go\n• Proficiency in AWS\n• Proficiency in Agile/Scrum\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Maternity and paternity leave\n• Provident Fund and Gratuity as per company policy\n• Competitive salary with performance-linked incentives\n• Employee stock options (ESOPs) for eligible roles\n• Flexible working hours\n• Work-from-home flexibility\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Howrah, West Bengal, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with iCliniq!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "iCliniq",
+      "value": "119-3-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "iCliniq",
+      "sameAs": "https://www.google.com/search?q=iCliniq",
+      "logo": "https://logo.clearbit.com/icliniq.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "iCliniq Office",
+        "addressLocality": "Howrah",
+        "addressRegion": "West Bengal",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "Git, Python, JavaScript, Kubernetes, Machine Learning, Go, AWS, Agile/Scrum",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Participate in code reviews and contribute to technical discussions. Mentor junior developers and conduct knowledge-sharing sessions. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Integrate third-party APIs and services. Optimize application performance and ensure high availability. Implement new features based on product requirements",
+    "benefits": "Maternity and paternity leave. Provident Fund and Gratuity as per company policy. Competitive salary with performance-linked incentives. Employee stock options (ESOPs) for eligible roles. Flexible working hours. Work-from-home flexibility",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Maternity and paternity leave, Provident Fund and Gratuity as per company policy, Competitive salary with performance-linked incentives, Employee stock options (ESOPs) for eligible roles, Flexible working hours, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "iCliniq invites applications from qualified candidates for the position of Backend Developer at our Howrah location. This role offers excellent career advanceme",
+    "keywords": "Backend Developer, iCliniq, jobs in Howrah, West Bengal jobs, technology jobs India, Git, Python, JavaScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:35:21.350Z",
+  "page": 29
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "icliniq-full-stack-developer-ranchi-2026-05-22-2",
+  "title": "iCliniq is Hiring: Full Stack Developer (Senior)",
+  "company": "iCliniq",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Git",
+    "AWS",
+    "MongoDB",
+    "CI/CD",
+    "Kubernetes",
+    "JavaScript",
+    "Machine Learning",
+    "Go"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "iCliniq is Hiring: Full Stack Developer (Senior)",
+    "description": "iCliniq invites applications from qualified candidates for the position of Full Stack Developer at our Ranchi location. This role offers excellent career advancement prospects.\n\nAbout iCliniq:\niCliniq is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Implement new features based on product requirements\n• Contribute to system architecture and technical design decisions\n• Participate in on-call rotation for production support\n• Collaborate with cross-functional teams including product, design, and QA\n• Integrate third-party APIs and services\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 0-1 years of relevant experience\n• Proficiency in Git\n• Proficiency in AWS\n• Proficiency in MongoDB\n• Proficiency in CI/CD\n• Proficiency in Kubernetes\n• Proficiency in JavaScript\n• Proficiency in Machine Learning\n• Proficiency in Go\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Employee stock options (ESOPs) for eligible roles\n• Annual performance appraisal\n• Comprehensive health insurance for self and family\n• Competitive salary with performance-linked incentives\n• Recognition and rewards programs\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Ranchi, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with iCliniq!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "iCliniq",
+      "value": "119-2-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "iCliniq",
+      "sameAs": "https://www.google.com/search?q=iCliniq",
+      "logo": "https://logo.clearbit.com/icliniq.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "iCliniq Office",
+        "addressLocality": "Ranchi",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "Git, AWS, MongoDB, CI/CD, Kubernetes, JavaScript, Machine Learning, Go",
+    "responsibilities": "Design, develop and maintain scalable software applications. Troubleshoot, debug, and resolve software defects and performance issues. Implement new features based on product requirements. Contribute to system architecture and technical design decisions. Participate in on-call rotation for production support. Collaborate with cross-functional teams including product, design, and QA. Integrate third-party APIs and services",
+    "benefits": "Provident Fund and Gratuity as per company policy. Employee stock options (ESOPs) for eligible roles. Annual performance appraisal. Comprehensive health insurance for self and family. Competitive salary with performance-linked incentives. Recognition and rewards programs",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Employee stock options (ESOPs) for eligible roles, Annual performance appraisal, Comprehensive health insurance for self and family, Competitive salary with performance-linked incentives, Recognition and rewards programs"
+  },
+  "meta": {
+    "description": "iCliniq invites applications from qualified candidates for the position of Full Stack Developer at our Ranchi location. This role offers excellent career advanc",
+    "keywords": "Full Stack Developer, iCliniq, jobs in Ranchi, Jharkhand jobs, technology jobs India, Git, AWS, MongoDB, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:35:21.350Z",
+  "page": 29
+}

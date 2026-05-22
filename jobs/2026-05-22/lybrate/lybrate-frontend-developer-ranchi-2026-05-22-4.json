@@ -1,0 +1,93 @@
+{
+  "slug": "lybrate-frontend-developer-ranchi-2026-05-22-4",
+  "title": "Senior Frontend Developer at Lybrate",
+  "company": "Lybrate",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Python",
+    "Microservices",
+    "Git",
+    "React",
+    "TypeScript",
+    "Agile/Scrum",
+    "CI/CD",
+    "MongoDB"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Frontend Developer at Lybrate",
+    "description": "Lybrate invites applications from qualified candidates for the position of Frontend Developer at our Ranchi location. This role offers excellent career advancement prospects.\n\nAbout Lybrate:\nLybrate is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Write clean, maintainable, and well-documented code\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Participate in code reviews and contribute to technical discussions\n• Design, develop and maintain scalable software applications\n• Integrate third-party APIs and services\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 12-20 years of relevant experience\n• Proficiency in Python\n• Proficiency in Microservices\n• Proficiency in Git\n• Proficiency in React\n• Proficiency in TypeScript\n• Proficiency in Agile/Scrum\n• Proficiency in CI/CD\n• Proficiency in MongoDB\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Work-from-home flexibility\n• Annual paid leaves and casual leaves\n• Flexible working hours\n• Life and accident insurance\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Ranchi, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Lybrate!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Lybrate",
+      "value": "118-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Lybrate",
+      "sameAs": "https://www.google.com/search?q=Lybrate",
+      "logo": "https://logo.clearbit.com/lybrate.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Lybrate Office",
+        "addressLocality": "Ranchi",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "Python, Microservices, Git, React, TypeScript, Agile/Scrum, CI/CD, MongoDB",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Write clean, maintainable, and well-documented code. Troubleshoot, debug, and resolve software defects and performance issues. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Participate in code reviews and contribute to technical discussions. Design, develop and maintain scalable software applications. Integrate third-party APIs and services",
+    "benefits": "Transportation and conveyance allowance. Work-from-home flexibility. Annual paid leaves and casual leaves. Flexible working hours. Life and accident insurance. Provident Fund and Gratuity as per company policy",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Work-from-home flexibility, Annual paid leaves and casual leaves, Flexible working hours, Life and accident insurance, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "Lybrate invites applications from qualified candidates for the position of Frontend Developer at our Ranchi location. This role offers excellent career advancem",
+    "keywords": "Frontend Developer, Lybrate, jobs in Ranchi, Jharkhand jobs, technology jobs India, Python, Microservices, Git, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:35:21.350Z",
+  "page": 29
+}

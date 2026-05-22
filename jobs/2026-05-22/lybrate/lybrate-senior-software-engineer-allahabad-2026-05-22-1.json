@@ -1,0 +1,93 @@
+{
+  "slug": "lybrate-senior-software-engineer-allahabad-2026-05-22-1",
+  "title": "Senior Software Engineer - Lybrate - Top MNC",
+  "company": "Lybrate",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Allahabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Git",
+    "Python",
+    "Java",
+    "Machine Learning",
+    "REST APIs",
+    "Go",
+    "Docker",
+    "TensorFlow"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Lybrate - Top MNC",
+    "description": "Lybrate invites applications from qualified candidates for the position of Senior Software Engineer at our Allahabad location. This role offers excellent career advancement prospects.\n\nAbout Lybrate:\nLybrate is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Integrate third-party APIs and services\n• Write clean, maintainable, and well-documented code\n• Write and execute unit tests and integration tests\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in code reviews and contribute to technical discussions\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Work with agile methodologies including daily stand-ups and sprint planning\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 6-10 years of relevant experience\n• Proficiency in Git\n• Proficiency in Python\n• Proficiency in Java\n• Proficiency in Machine Learning\n• Proficiency in REST APIs\n• Proficiency in Go\n• Proficiency in Docker\n• Proficiency in TensorFlow\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Professional development and training programs\n• Life and accident insurance\n• Work-from-home flexibility\n• Company-sponsored certifications\n• Annual paid leaves and casual leaves\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Allahabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Lybrate!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Lybrate",
+      "value": "118-1-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Lybrate",
+      "sameAs": "https://www.google.com/search?q=Lybrate",
+      "logo": "https://logo.clearbit.com/lybrate.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Lybrate Office",
+        "addressLocality": "Allahabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "Git, Python, Java, Machine Learning, REST APIs, Go, Docker, TensorFlow",
+    "responsibilities": "Integrate third-party APIs and services. Write clean, maintainable, and well-documented code. Write and execute unit tests and integration tests. Collaborate with cross-functional teams including product, design, and QA. Participate in code reviews and contribute to technical discussions. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Work with agile methodologies including daily stand-ups and sprint planning",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Professional development and training programs. Life and accident insurance. Work-from-home flexibility. Company-sponsored certifications. Annual paid leaves and casual leaves",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Professional development and training programs, Life and accident insurance, Work-from-home flexibility, Company-sponsored certifications, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "Lybrate invites applications from qualified candidates for the position of Senior Software Engineer at our Allahabad location. This role offers excellent career",
+    "keywords": "Senior Software Engineer, Lybrate, jobs in Allahabad, Uttar Pradesh jobs, technology jobs India, Git, Python, Java, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:35:21.350Z",
+  "page": 29
+}
