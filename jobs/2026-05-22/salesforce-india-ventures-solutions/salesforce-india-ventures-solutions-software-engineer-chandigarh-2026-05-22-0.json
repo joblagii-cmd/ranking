@@ -1,0 +1,94 @@
+{
+  "slug": "salesforce-india-ventures-solutions-software-engineer-chandigarh-2026-05-22-0",
+  "title": "Walk-in Drive Software Engineer at Salesforce India Ventures Solutions",
+  "company": "Salesforce India Ventures Solutions",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Chandigarh",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Java",
+    "AWS",
+    "Docker",
+    "JavaScript",
+    "MongoDB",
+    "Microservices",
+    "Git",
+    "SQL"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Walk-in Drive Software Engineer at Salesforce India Ventures Solutions",
+    "description": "Salesforce India Ventures Solutions has an exciting opening for a Software Engineer at our Chandigarh office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Salesforce India Ventures Solutions:\nSalesforce India Ventures Solutions is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Optimize application performance and ensure high availability\n• Write clean, maintainable, and well-documented code\n• Integrate third-party APIs and services\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Participate in code reviews and contribute to technical discussions\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 3-6 years of relevant experience\n• Proficiency in Java\n• Proficiency in AWS\n• Proficiency in Docker\n• Proficiency in JavaScript\n• Proficiency in MongoDB\n• Proficiency in Microservices\n• Proficiency in Git\n• Proficiency in SQL\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Referral bonus program\n• Employee stock options (ESOPs) for eligible roles\n• Competitive salary with performance-linked incentives\n• Flexible working hours\n• Professional development and training programs\n• Work-from-home flexibility\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Chandigarh, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Salesforce India Ventures Solutions!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Salesforce India Ventures Solutions",
+      "value": "1884-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Salesforce India Ventures Solutions",
+      "sameAs": "https://www.google.com/search?q=Salesforce%20India%20Ventures%20Solutions",
+      "logo": "https://logo.clearbit.com/salesforceindiaventuressolutions.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Salesforce India Ventures Solutions Office",
+        "addressLocality": "Chandigarh",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "Java, AWS, Docker, JavaScript, MongoDB, Microservices, Git, SQL",
+    "responsibilities": "Design, develop and maintain scalable software applications. Optimize application performance and ensure high availability. Write clean, maintainable, and well-documented code. Integrate third-party APIs and services. Work with agile methodologies including daily stand-ups and sprint planning. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Participate in code reviews and contribute to technical discussions",
+    "benefits": "Referral bonus program. Employee stock options (ESOPs) for eligible roles. Competitive salary with performance-linked incentives. Flexible working hours. Professional development and training programs. Work-from-home flexibility",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Referral bonus program, Employee stock options (ESOPs) for eligible roles, Competitive salary with performance-linked incentives, Flexible working hours, Professional development and training programs, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "Salesforce India Ventures Solutions has an exciting opening for a Software Engineer at our Chandigarh office. Join a company that values innovation, collaborati",
+    "keywords": "Software Engineer, Salesforce India Ventures Solutions, jobs in Chandigarh, Punjab jobs, technology jobs India, Java, AWS, Docker, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:55:03.271Z",
+  "page": 470
+}

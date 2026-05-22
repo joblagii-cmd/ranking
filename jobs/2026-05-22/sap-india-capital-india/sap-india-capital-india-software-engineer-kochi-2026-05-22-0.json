@@ -1,0 +1,93 @@
+{
+  "slug": "sap-india-capital-india-software-engineer-kochi-2026-05-22-0",
+  "title": "Walk-in Drive Software Engineer at SAP India Capital India",
+  "company": "SAP India Capital India",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Kochi",
+    "state": "Kerala",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "TensorFlow",
+    "Kubernetes",
+    "Git",
+    "Agile/Scrum",
+    "Java",
+    "React",
+    "Python",
+    "REST APIs"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Walk-in Drive Software Engineer at SAP India Capital India",
+    "description": "SAP India Capital India has an exciting opening for a Software Engineer at our Kochi office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout SAP India Capital India:\nSAP India Capital India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Contribute to system architecture and technical design decisions\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Participate in code reviews and contribute to technical discussions\n• Collaborate with cross-functional teams including product, design, and QA\n• Write and execute unit tests and integration tests\n• Troubleshoot, debug, and resolve software defects and performance issues\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 6-10 years of relevant experience\n• Proficiency in TensorFlow\n• Proficiency in Kubernetes\n• Proficiency in Git\n• Proficiency in Agile/Scrum\n• Proficiency in Java\n• Proficiency in React\n• Proficiency in Python\n• Proficiency in REST APIs\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Maternity and paternity leave\n• Annual paid leaves and casual leaves\n• Modern office with recreational facilities\n• Mobile and internet reimbursement\n• Life and accident insurance\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Kochi, Kerala, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with SAP India Capital India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "SAP India Capital India",
+      "value": "1883-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "SAP India Capital India",
+      "sameAs": "https://www.google.com/search?q=SAP%20India%20Capital%20India",
+      "logo": "https://logo.clearbit.com/sapindiacapitalindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "SAP India Capital India Office",
+        "addressLocality": "Kochi",
+        "addressRegion": "Kerala",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "TensorFlow, Kubernetes, Git, Agile/Scrum, Java, React, Python, REST APIs",
+    "responsibilities": "Work with agile methodologies including daily stand-ups and sprint planning. Contribute to system architecture and technical design decisions. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Participate in code reviews and contribute to technical discussions. Collaborate with cross-functional teams including product, design, and QA. Write and execute unit tests and integration tests. Troubleshoot, debug, and resolve software defects and performance issues",
+    "benefits": "Maternity and paternity leave. Annual paid leaves and casual leaves. Modern office with recreational facilities. Mobile and internet reimbursement. Life and accident insurance. Employee stock options (ESOPs) for eligible roles",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Maternity and paternity leave, Annual paid leaves and casual leaves, Modern office with recreational facilities, Mobile and internet reimbursement, Life and accident insurance, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "SAP India Capital India has an exciting opening for a Software Engineer at our Kochi office. Join a company that values innovation, collaboration, and continuou",
+    "keywords": "Software Engineer, SAP India Capital India, jobs in Kochi, Kerala jobs, technology jobs India, TensorFlow, Kubernetes, Git, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:55:03.270Z",
+  "page": 470
+}

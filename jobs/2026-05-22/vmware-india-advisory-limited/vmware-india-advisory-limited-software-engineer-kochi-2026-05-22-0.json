@@ -1,0 +1,93 @@
+{
+  "slug": "vmware-india-advisory-limited-software-engineer-kochi-2026-05-22-0",
+  "title": "Walk-in Drive Software Engineer at VMware India Advisory Limited",
+  "company": "VMware India Advisory Limited",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Kochi",
+    "state": "Kerala",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "MongoDB",
+    "Machine Learning",
+    "Kubernetes",
+    "TensorFlow",
+    "REST APIs",
+    "Rust",
+    "Docker",
+    "AWS"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Walk-in Drive Software Engineer at VMware India Advisory Limited",
+    "description": "VMware India Advisory Limited has an exciting opening for a Software Engineer at our Kochi office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout VMware India Advisory Limited:\nVMware India Advisory Limited is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Optimize application performance and ensure high availability\n• Integrate third-party APIs and services\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Write clean, maintainable, and well-documented code\n• Contribute to system architecture and technical design decisions\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 10-15 years of relevant experience\n• Proficiency in MongoDB\n• Proficiency in Machine Learning\n• Proficiency in Kubernetes\n• Proficiency in TensorFlow\n• Proficiency in REST APIs\n• Proficiency in Rust\n• Proficiency in Docker\n• Proficiency in AWS\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Recognition and rewards programs\n• Life and accident insurance\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Employee stock options (ESOPs) for eligible roles\n• Annual performance appraisal\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Kochi, Kerala, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with VMware India Advisory Limited!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "VMware India Advisory Limited",
+      "value": "1882-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "VMware India Advisory Limited",
+      "sameAs": "https://www.google.com/search?q=VMware%20India%20Advisory%20Limited",
+      "logo": "https://logo.clearbit.com/vmwareindiaadvisorylimited.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "VMware India Advisory Limited Office",
+        "addressLocality": "Kochi",
+        "addressRegion": "Kerala",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "MongoDB, Machine Learning, Kubernetes, TensorFlow, REST APIs, Rust, Docker, AWS",
+    "responsibilities": "Design, develop and maintain scalable software applications. Work with agile methodologies including daily stand-ups and sprint planning. Optimize application performance and ensure high availability. Integrate third-party APIs and services. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Write clean, maintainable, and well-documented code. Contribute to system architecture and technical design decisions",
+    "benefits": "Recognition and rewards programs. Life and accident insurance. Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Employee stock options (ESOPs) for eligible roles. Annual performance appraisal",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Recognition and rewards programs, Life and accident insurance, Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Employee stock options (ESOPs) for eligible roles, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "VMware India Advisory Limited has an exciting opening for a Software Engineer at our Kochi office. Join a company that values innovation, collaboration, and con",
+    "keywords": "Software Engineer, VMware India Advisory Limited, jobs in Kochi, Kerala jobs, technology jobs India, MongoDB, Machine Learning, Kubernetes, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:55:03.270Z",
+  "page": 470
+}

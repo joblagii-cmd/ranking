@@ -1,0 +1,93 @@
+{
+  "slug": "salesforce-india-ventures-solutions-full-stack-developer-gurgaon-2026-05-22-2",
+  "title": "Salesforce India Ventures Solutions is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "Salesforce India Ventures Solutions",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Gurgaon",
+    "state": "Haryana",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "AWS",
+    "JavaScript",
+    "SQL",
+    "TypeScript",
+    "Docker",
+    "REST APIs",
+    "Rust",
+    "Python"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Salesforce India Ventures Solutions is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "Salesforce India Ventures Solutions has an exciting opening for a Full Stack Developer at our Gurgaon office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Salesforce India Ventures Solutions:\nSalesforce India Ventures Solutions is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Participate in code reviews and contribute to technical discussions\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Integrate third-party APIs and services\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Optimize application performance and ensure high availability\n• Work with agile methodologies including daily stand-ups and sprint planning\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 12-20 years of relevant experience\n• Proficiency in AWS\n• Proficiency in JavaScript\n• Proficiency in SQL\n• Proficiency in TypeScript\n• Proficiency in Docker\n• Proficiency in REST APIs\n• Proficiency in Rust\n• Proficiency in Python\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Professional development and training programs\n• Competitive salary with performance-linked incentives\n• Referral bonus program\n• Work-from-home flexibility\n• Comprehensive health insurance for self and family\n• Transportation and conveyance allowance\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Gurgaon, Haryana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Salesforce India Ventures Solutions!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Salesforce India Ventures Solutions",
+      "value": "1884-2-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Salesforce India Ventures Solutions",
+      "sameAs": "https://www.google.com/search?q=Salesforce%20India%20Ventures%20Solutions",
+      "logo": "https://logo.clearbit.com/salesforceindiaventuressolutions.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Salesforce India Ventures Solutions Office",
+        "addressLocality": "Gurgaon",
+        "addressRegion": "Haryana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "AWS, JavaScript, SQL, TypeScript, Docker, REST APIs, Rust, Python",
+    "responsibilities": "Design, develop and maintain scalable software applications. Participate in code reviews and contribute to technical discussions. Mentor junior developers and conduct knowledge-sharing sessions. Integrate third-party APIs and services. Troubleshoot, debug, and resolve software defects and performance issues. Optimize application performance and ensure high availability. Work with agile methodologies including daily stand-ups and sprint planning",
+    "benefits": "Professional development and training programs. Competitive salary with performance-linked incentives. Referral bonus program. Work-from-home flexibility. Comprehensive health insurance for self and family. Transportation and conveyance allowance",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Competitive salary with performance-linked incentives, Referral bonus program, Work-from-home flexibility, Comprehensive health insurance for self and family, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "Salesforce India Ventures Solutions has an exciting opening for a Full Stack Developer at our Gurgaon office. Join a company that values innovation, collaborati",
+    "keywords": "Full Stack Developer, Salesforce India Ventures Solutions, jobs in Gurgaon, Haryana jobs, technology jobs India, AWS, JavaScript, SQL, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:55:03.271Z",
+  "page": 470
+}
