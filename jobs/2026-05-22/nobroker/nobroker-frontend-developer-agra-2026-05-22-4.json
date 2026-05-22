@@ -1,0 +1,94 @@
+{
+  "slug": "nobroker-frontend-developer-agra-2026-05-22-4",
+  "title": "Senior Frontend Developer at NoBroker",
+  "company": "NoBroker",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Java",
+    "CI/CD",
+    "TypeScript",
+    "Machine Learning",
+    "React",
+    "Agile/Scrum",
+    "SQL",
+    "REST APIs"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Frontend Developer at NoBroker",
+    "description": "Join the NoBroker family as a Frontend Developer in Agra. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout NoBroker:\nNoBroker is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Implement new features based on product requirements\n• Write clean, maintainable, and well-documented code\n• Design, develop and maintain scalable software applications\n• Integrate third-party APIs and services\n• Contribute to system architecture and technical design decisions\n• Participate in code reviews and contribute to technical discussions\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 12-20 years of relevant experience\n• Proficiency in Java\n• Proficiency in CI/CD\n• Proficiency in TypeScript\n• Proficiency in Machine Learning\n• Proficiency in React\n• Proficiency in Agile/Scrum\n• Proficiency in SQL\n• Proficiency in REST APIs\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• Transportation and conveyance allowance\n• Life and accident insurance\n• Meal coupons and food allowance\n• Competitive salary with performance-linked incentives\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Agra, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with NoBroker!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "NoBroker",
+      "value": "97-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "NoBroker",
+      "sameAs": "https://www.google.com/search?q=NoBroker",
+      "logo": "https://logo.clearbit.com/nobroker.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "NoBroker Office",
+        "addressLocality": "Agra",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Java, CI/CD, TypeScript, Machine Learning, React, Agile/Scrum, SQL, REST APIs",
+    "responsibilities": "Implement new features based on product requirements. Write clean, maintainable, and well-documented code. Design, develop and maintain scalable software applications. Integrate third-party APIs and services. Contribute to system architecture and technical design decisions. Participate in code reviews and contribute to technical discussions. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP",
+    "benefits": "Comprehensive health insurance for self and family. Transportation and conveyance allowance. Life and accident insurance. Meal coupons and food allowance. Competitive salary with performance-linked incentives. Employee stock options (ESOPs) for eligible roles",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, Transportation and conveyance allowance, Life and accident insurance, Meal coupons and food allowance, Competitive salary with performance-linked incentives, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "Join the NoBroker family as a Frontend Developer in Agra. We believe in empowering our employees with the tools, training, and environment they need to succeed.",
+    "keywords": "Frontend Developer, NoBroker, jobs in Agra, Uttar Pradesh jobs, technology jobs India, Java, CI/CD, TypeScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:34:41.868Z",
+  "page": 24
+}
