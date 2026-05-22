@@ -2,26 +2,19 @@
   "functions": {
     "api/index.js":        { "maxDuration": 30 },
     "api/job.js":          { "maxDuration": 15 },
-    "api/jobs-all.js":     { "maxDuration": 30 },
     "api/companies.js":    { "maxDuration": 10 },
     "api/status.js":       { "maxDuration": 10 },
-    "api/debug.js":        { "maxDuration": 15 },
     "api/sitemap-index.js":{ "maxDuration": 10 },
     "api/sitemap-child.js":{ "maxDuration": 10 },
     "api/cron/generate.js":{ "maxDuration": 60 },
     "api/trigger.js":      { "maxDuration": 10 }
   },
   "rewrites": [
-    { "source": "/",              "destination": "/api/index" },
-    { "source": "/jobs",          "destination": "/api/jobs-all" },
-    { "source": "/job",           "destination": "/api/job" },
-    { "source": "/companies",     "destination": "/api/companies" },
-    { "source": "/debug",         "destination": "/api/debug" },
-    { "source": "/sitemap.xml",   "destination": "/api/sitemap-index" },
-    { "source": "/sitemap1.xml",  "destination": "/api/sitemap-child?id=1" },
-    { "source": "/sitemap2.xml",  "destination": "/api/sitemap-child?id=2" },
-    { "source": "/sitemap3.xml",  "destination": "/api/sitemap-child?id=3" },
-    { "source": "/sitemap4.xml",  "destination": "/api/sitemap-child?id=4" },
-    { "source": "/sitemap5.xml",  "destination": "/api/sitemap-child?id=5" }
+    { "source": "/",                      "destination": "/api/index" },
+    { "source": "/jobs",                  "destination": "/api/index" },
+    { "source": "/job",                   "destination": "/api/job" },
+    { "source": "/companies",             "destination": "/api/companies" },
+    { "source": "/sitemap.xml",           "destination": "/api/sitemap-index" },
+    { "source": "/sitemap:id(\\d+).xml",  "destination": "/api/sitemap-child?id=$id" }
   ]
 }
