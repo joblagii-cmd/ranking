@@ -1,0 +1,94 @@
+{
+  "slug": "niit-technologies-south-asia-partners-software-engineer-howrah-2026-05-22-0",
+  "title": "Walk-in Drive Software Engineer at NIIT Technologies South Asia Partners",
+  "company": "NIIT Technologies South Asia Partners",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Howrah",
+    "state": "West Bengal",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Java",
+    "Machine Learning",
+    "CI/CD",
+    "JavaScript",
+    "Docker",
+    "Python",
+    "React",
+    "Kubernetes"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Walk-in Drive Software Engineer at NIIT Technologies South Asia Partners",
+    "description": "NIIT Technologies South Asia Partners has an exciting opening for a Software Engineer at our Howrah office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout NIIT Technologies South Asia Partners:\nNIIT Technologies South Asia Partners is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Integrate third-party APIs and services\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Optimize application performance and ensure high availability\n• Participate in on-call rotation for production support\n• Ensure code security and follow best practices for data protection\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 0-1 years of relevant experience\n• Proficiency in Java\n• Proficiency in Machine Learning\n• Proficiency in CI/CD\n• Proficiency in JavaScript\n• Proficiency in Docker\n• Proficiency in Python\n• Proficiency in React\n• Proficiency in Kubernetes\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Annual performance appraisal\n• Employee stock options (ESOPs) for eligible roles\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Life and accident insurance\n• Meal coupons and food allowance\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Howrah, West Bengal, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with NIIT Technologies South Asia Partners!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "NIIT Technologies South Asia Partners",
+      "value": "1870-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "NIIT Technologies South Asia Partners",
+      "sameAs": "https://www.google.com/search?q=NIIT%20Technologies%20South%20Asia%20Partners",
+      "logo": "https://logo.clearbit.com/niittechnologiessouthasiapartners.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "NIIT Technologies South Asia Partners Office",
+        "addressLocality": "Howrah",
+        "addressRegion": "West Bengal",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "Java, Machine Learning, CI/CD, JavaScript, Docker, Python, React, Kubernetes",
+    "responsibilities": "Design, develop and maintain scalable software applications. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Integrate third-party APIs and services. Troubleshoot, debug, and resolve software defects and performance issues. Optimize application performance and ensure high availability. Participate in on-call rotation for production support. Ensure code security and follow best practices for data protection",
+    "benefits": "Annual performance appraisal. Employee stock options (ESOPs) for eligible roles. Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Life and accident insurance. Meal coupons and food allowance",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual performance appraisal, Employee stock options (ESOPs) for eligible roles, Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Life and accident insurance, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "NIIT Technologies South Asia Partners has an exciting opening for a Software Engineer at our Howrah office. Join a company that values innovation, collaboration",
+    "keywords": "Software Engineer, NIIT Technologies South Asia Partners, jobs in Howrah, West Bengal jobs, technology jobs India, Java, Machine Learning, CI/CD, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:54:38.373Z",
+  "page": 467
+}

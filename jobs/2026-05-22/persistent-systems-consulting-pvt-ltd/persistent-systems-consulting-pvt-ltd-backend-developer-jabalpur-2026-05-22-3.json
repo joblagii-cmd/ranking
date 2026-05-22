@@ -1,0 +1,93 @@
+{
+  "slug": "persistent-systems-consulting-pvt-ltd-backend-developer-jabalpur-2026-05-22-3",
+  "title": "Backend Developer Vacancy at Persistent Systems Consulting Pvt Ltd - 2026 Batch",
+  "company": "Persistent Systems Consulting Pvt Ltd",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Jabalpur",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Node.js",
+    "Microservices",
+    "React",
+    "AWS",
+    "TensorFlow",
+    "Docker",
+    "SQL",
+    "Java"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Persistent Systems Consulting Pvt Ltd - 2026 Batch",
+    "description": "Persistent Systems Consulting Pvt Ltd has an exciting opening for a Backend Developer at our Jabalpur office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Persistent Systems Consulting Pvt Ltd:\nPersistent Systems Consulting Pvt Ltd is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Design, develop and maintain scalable software applications\n• Integrate third-party APIs and services\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Write clean, maintainable, and well-documented code\n• Participate in on-call rotation for production support\n• Ensure code security and follow best practices for data protection\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 1-3 years of relevant experience\n• Proficiency in Node.js\n• Proficiency in Microservices\n• Proficiency in React\n• Proficiency in AWS\n• Proficiency in TensorFlow\n• Proficiency in Docker\n• Proficiency in SQL\n• Proficiency in Java\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Meal coupons and food allowance\n• Annual performance appraisal\n• Recognition and rewards programs\n• Transportation and conveyance allowance\n• Flexible working hours\n• Competitive salary with performance-linked incentives\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Jabalpur, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Persistent Systems Consulting Pvt Ltd!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Persistent Systems Consulting Pvt Ltd",
+      "value": "1871-3-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Persistent Systems Consulting Pvt Ltd",
+      "sameAs": "https://www.google.com/search?q=Persistent%20Systems%20Consulting%20Pvt%20Ltd",
+      "logo": "https://logo.clearbit.com/persistentsystemsconsultingpvtltd.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Persistent Systems Consulting Pvt Ltd Office",
+        "addressLocality": "Jabalpur",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "Node.js, Microservices, React, AWS, TensorFlow, Docker, SQL, Java",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Design, develop and maintain scalable software applications. Integrate third-party APIs and services. Troubleshoot, debug, and resolve software defects and performance issues. Write clean, maintainable, and well-documented code. Participate in on-call rotation for production support. Ensure code security and follow best practices for data protection",
+    "benefits": "Meal coupons and food allowance. Annual performance appraisal. Recognition and rewards programs. Transportation and conveyance allowance. Flexible working hours. Competitive salary with performance-linked incentives",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Meal coupons and food allowance, Annual performance appraisal, Recognition and rewards programs, Transportation and conveyance allowance, Flexible working hours, Competitive salary with performance-linked incentives"
+  },
+  "meta": {
+    "description": "Persistent Systems Consulting Pvt Ltd has an exciting opening for a Backend Developer at our Jabalpur office. Join a company that values innovation, collaborati",
+    "keywords": "Backend Developer, Persistent Systems Consulting Pvt Ltd, jobs in Jabalpur, Madhya Pradesh jobs, technology jobs India, Node.js, Microservices, React, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:54:38.376Z",
+  "page": 467
+}

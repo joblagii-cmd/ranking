@@ -1,0 +1,93 @@
+{
+  "slug": "mindtree-asia-pacific-associates-backend-developer-coimbatore-2026-05-22-3",
+  "title": "Backend Developer Vacancy at Mindtree Asia Pacific Associates - 2026 Batch",
+  "company": "Mindtree Asia Pacific Associates",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Agile/Scrum",
+    "Go",
+    "CI/CD",
+    "MongoDB",
+    "JavaScript",
+    "Python",
+    "Rust",
+    "Machine Learning"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Mindtree Asia Pacific Associates - 2026 Batch",
+    "description": "Mindtree Asia Pacific Associates has an exciting opening for a Backend Developer at our Coimbatore office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Mindtree Asia Pacific Associates:\nMindtree Asia Pacific Associates is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Write clean, maintainable, and well-documented code\n• Participate in code reviews and contribute to technical discussions\n• Collaborate with cross-functional teams including product, design, and QA\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Implement new features based on product requirements\n• Write and execute unit tests and integration tests\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 6-10 years of relevant experience\n• Proficiency in Agile/Scrum\n• Proficiency in Go\n• Proficiency in CI/CD\n• Proficiency in MongoDB\n• Proficiency in JavaScript\n• Proficiency in Python\n• Proficiency in Rust\n• Proficiency in Machine Learning\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Learning & development budget\n• Modern office with recreational facilities\n• Recognition and rewards programs\n• International travel opportunities for senior roles\n• Company-sponsored certifications\n• Competitive salary with performance-linked incentives\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Coimbatore, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Mindtree Asia Pacific Associates!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Mindtree Asia Pacific Associates",
+      "value": "1869-3-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Mindtree Asia Pacific Associates",
+      "sameAs": "https://www.google.com/search?q=Mindtree%20Asia%20Pacific%20Associates",
+      "logo": "https://logo.clearbit.com/mindtreeasiapacificassociates.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Mindtree Asia Pacific Associates Office",
+        "addressLocality": "Coimbatore",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "Agile/Scrum, Go, CI/CD, MongoDB, JavaScript, Python, Rust, Machine Learning",
+    "responsibilities": "Design, develop and maintain scalable software applications. Write clean, maintainable, and well-documented code. Participate in code reviews and contribute to technical discussions. Collaborate with cross-functional teams including product, design, and QA. Troubleshoot, debug, and resolve software defects and performance issues. Implement new features based on product requirements. Write and execute unit tests and integration tests",
+    "benefits": "Learning & development budget. Modern office with recreational facilities. Recognition and rewards programs. International travel opportunities for senior roles. Company-sponsored certifications. Competitive salary with performance-linked incentives",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Learning & development budget, Modern office with recreational facilities, Recognition and rewards programs, International travel opportunities for senior roles, Company-sponsored certifications, Competitive salary with performance-linked incentives"
+  },
+  "meta": {
+    "description": "Mindtree Asia Pacific Associates has an exciting opening for a Backend Developer at our Coimbatore office. Join a company that values innovation, collaboration,",
+    "keywords": "Backend Developer, Mindtree Asia Pacific Associates, jobs in Coimbatore, Tamil Nadu jobs, technology jobs India, Agile/Scrum, Go, CI/CD, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:54:38.373Z",
+  "page": 467
+}
