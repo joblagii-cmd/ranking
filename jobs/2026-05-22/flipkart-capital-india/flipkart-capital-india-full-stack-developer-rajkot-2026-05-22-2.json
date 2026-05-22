@@ -1,0 +1,93 @@
+{
+  "slug": "flipkart-capital-india-full-stack-developer-rajkot-2026-05-22-2",
+  "title": "Flipkart Capital India is Hiring: Full Stack Developer (Junior)",
+  "company": "Flipkart Capital India",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Kubernetes",
+    "TensorFlow",
+    "TypeScript",
+    "Python",
+    "Node.js",
+    "Agile/Scrum",
+    "React",
+    "JavaScript"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Flipkart Capital India is Hiring: Full Stack Developer (Junior)",
+    "description": "We at Flipkart Capital India are looking for an experienced Full Stack Developer based out of Rajkot. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout Flipkart Capital India:\nFlipkart Capital India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure code security and follow best practices for data protection\n• Design, develop and maintain scalable software applications\n• Implement new features based on product requirements\n• Participate in on-call rotation for production support\n• Collaborate with cross-functional teams including product, design, and QA\n• Integrate third-party APIs and services\n• Mentor junior developers and conduct knowledge-sharing sessions\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 10-15 years of relevant experience\n• Proficiency in Kubernetes\n• Proficiency in TensorFlow\n• Proficiency in TypeScript\n• Proficiency in Python\n• Proficiency in Node.js\n• Proficiency in Agile/Scrum\n• Proficiency in React\n• Proficiency in JavaScript\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Work-from-home flexibility\n• International travel opportunities for senior roles\n• Employee stock options (ESOPs) for eligible roles\n• Mobile and internet reimbursement\n• Flexible working hours\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Rajkot, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Flipkart Capital India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Flipkart Capital India",
+      "value": "1853-2-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Flipkart Capital India",
+      "sameAs": "https://www.google.com/search?q=Flipkart%20Capital%20India",
+      "logo": "https://logo.clearbit.com/flipkartcapitalindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Flipkart Capital India Office",
+        "addressLocality": "Rajkot",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "Kubernetes, TensorFlow, TypeScript, Python, Node.js, Agile/Scrum, React, JavaScript",
+    "responsibilities": "Ensure code security and follow best practices for data protection. Design, develop and maintain scalable software applications. Implement new features based on product requirements. Participate in on-call rotation for production support. Collaborate with cross-functional teams including product, design, and QA. Integrate third-party APIs and services. Mentor junior developers and conduct knowledge-sharing sessions",
+    "benefits": "Competitive salary with performance-linked incentives. Work-from-home flexibility. International travel opportunities for senior roles. Employee stock options (ESOPs) for eligible roles. Mobile and internet reimbursement. Flexible working hours",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Work-from-home flexibility, International travel opportunities for senior roles, Employee stock options (ESOPs) for eligible roles, Mobile and internet reimbursement, Flexible working hours"
+  },
+  "meta": {
+    "description": "We at Flipkart Capital India are looking for an experienced Full Stack Developer based out of Rajkot. If you are a result-oriented professional with a passion f",
+    "keywords": "Full Stack Developer, Flipkart Capital India, jobs in Rajkot, Gujarat jobs, technology jobs India, Kubernetes, TensorFlow, TypeScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:54:05.248Z",
+  "page": 463
+}

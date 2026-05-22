@@ -1,0 +1,93 @@
+{
+  "slug": "zomato-holdings-services-frontend-developer-srinagar-2026-05-22-4",
+  "title": "Junior Frontend Developer at Zomato Holdings Services",
+  "company": "Zomato Holdings Services",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Srinagar",
+    "state": "Jammu & Kashmir",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Kubernetes",
+    "Microservices",
+    "React",
+    "Go",
+    "Rust",
+    "Node.js",
+    "Git",
+    "Agile/Scrum"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Junior Frontend Developer at Zomato Holdings Services",
+    "description": "We at Zomato Holdings Services are looking for an experienced Frontend Developer based out of Srinagar. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout Zomato Holdings Services:\nZomato Holdings Services is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Participate in on-call rotation for production support\n• Write clean, maintainable, and well-documented code\n• Design, develop and maintain scalable software applications\n• Participate in code reviews and contribute to technical discussions\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Implement new features based on product requirements\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 0-1 years of relevant experience\n• Proficiency in Kubernetes\n• Proficiency in Microservices\n• Proficiency in React\n• Proficiency in Go\n• Proficiency in Rust\n• Proficiency in Node.js\n• Proficiency in Git\n• Proficiency in Agile/Scrum\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Company-sponsored certifications\n• International travel opportunities for senior roles\n• Provident Fund and Gratuity as per company policy\n• Comprehensive health insurance for self and family\n• Transportation and conveyance allowance\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Srinagar, Jammu & Kashmir, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Zomato Holdings Services!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Zomato Holdings Services",
+      "value": "1855-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Zomato Holdings Services",
+      "sameAs": "https://www.google.com/search?q=Zomato%20Holdings%20Services",
+      "logo": "https://logo.clearbit.com/zomatoholdingsservices.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Zomato Holdings Services Office",
+        "addressLocality": "Srinagar",
+        "addressRegion": "Jammu & Kashmir",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "Kubernetes, Microservices, React, Go, Rust, Node.js, Git, Agile/Scrum",
+    "responsibilities": "Work with agile methodologies including daily stand-ups and sprint planning. Participate in on-call rotation for production support. Write clean, maintainable, and well-documented code. Design, develop and maintain scalable software applications. Participate in code reviews and contribute to technical discussions. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Implement new features based on product requirements",
+    "benefits": "Annual paid leaves and casual leaves. Company-sponsored certifications. International travel opportunities for senior roles. Provident Fund and Gratuity as per company policy. Comprehensive health insurance for self and family. Transportation and conveyance allowance",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Company-sponsored certifications, International travel opportunities for senior roles, Provident Fund and Gratuity as per company policy, Comprehensive health insurance for self and family, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "We at Zomato Holdings Services are looking for an experienced Frontend Developer based out of Srinagar. If you are a result-oriented professional with a passion",
+    "keywords": "Frontend Developer, Zomato Holdings Services, jobs in Srinagar, Jammu & Kashmir jobs, technology jobs India, Kubernetes, Microservices, React, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:54:05.249Z",
+  "page": 463
+}

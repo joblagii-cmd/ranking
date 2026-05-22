@@ -1,0 +1,93 @@
+{
+  "slug": "swiggy-digital-technologies-frontend-developer-srinagar-2026-05-22-4",
+  "title": "Junior Frontend Developer at Swiggy Digital Technologies",
+  "company": "Swiggy Digital Technologies",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Srinagar",
+    "state": "Jammu & Kashmir",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Java",
+    "Git",
+    "TensorFlow",
+    "Python",
+    "Microservices",
+    "Node.js",
+    "Agile/Scrum",
+    "CI/CD"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Junior Frontend Developer at Swiggy Digital Technologies",
+    "description": "We at Swiggy Digital Technologies are looking for an experienced Frontend Developer based out of Srinagar. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout Swiggy Digital Technologies:\nSwiggy Digital Technologies is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write and execute unit tests and integration tests\n• Implement new features based on product requirements\n• Optimize application performance and ensure high availability\n• Collaborate with cross-functional teams including product, design, and QA\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Participate in code reviews and contribute to technical discussions\n• Write clean, maintainable, and well-documented code\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 12-20 years of relevant experience\n• Proficiency in Java\n• Proficiency in Git\n• Proficiency in TensorFlow\n• Proficiency in Python\n• Proficiency in Microservices\n• Proficiency in Node.js\n• Proficiency in Agile/Scrum\n• Proficiency in CI/CD\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Referral bonus program\n• Life and accident insurance\n• Employee stock options (ESOPs) for eligible roles\n• Recognition and rewards programs\n• Professional development and training programs\n• Competitive salary with performance-linked incentives\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Srinagar, Jammu & Kashmir, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Swiggy Digital Technologies!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Swiggy Digital Technologies",
+      "value": "1856-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Swiggy Digital Technologies",
+      "sameAs": "https://www.google.com/search?q=Swiggy%20Digital%20Technologies",
+      "logo": "https://logo.clearbit.com/swiggydigitaltechnologies.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Swiggy Digital Technologies Office",
+        "addressLocality": "Srinagar",
+        "addressRegion": "Jammu & Kashmir",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "Java, Git, TensorFlow, Python, Microservices, Node.js, Agile/Scrum, CI/CD",
+    "responsibilities": "Write and execute unit tests and integration tests. Implement new features based on product requirements. Optimize application performance and ensure high availability. Collaborate with cross-functional teams including product, design, and QA. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Participate in code reviews and contribute to technical discussions. Write clean, maintainable, and well-documented code",
+    "benefits": "Referral bonus program. Life and accident insurance. Employee stock options (ESOPs) for eligible roles. Recognition and rewards programs. Professional development and training programs. Competitive salary with performance-linked incentives",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Referral bonus program, Life and accident insurance, Employee stock options (ESOPs) for eligible roles, Recognition and rewards programs, Professional development and training programs, Competitive salary with performance-linked incentives"
+  },
+  "meta": {
+    "description": "We at Swiggy Digital Technologies are looking for an experienced Frontend Developer based out of Srinagar. If you are a result-oriented professional with a pass",
+    "keywords": "Frontend Developer, Swiggy Digital Technologies, jobs in Srinagar, Jammu & Kashmir jobs, technology jobs India, Java, Git, TensorFlow, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:54:05.249Z",
+  "page": 463
+}
