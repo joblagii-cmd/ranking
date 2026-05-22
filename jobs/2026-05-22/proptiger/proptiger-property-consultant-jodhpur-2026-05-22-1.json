@@ -1,0 +1,93 @@
+{
+  "slug": "proptiger-property-consultant-jodhpur-2026-05-22-1",
+  "title": "Property Consultant - PropTiger - Immediate Joiners Preferred",
+  "company": "PropTiger",
+  "industry": "realestate",
+  "role": "Property Consultant",
+  "location": {
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "MS Office",
+    "Project Management",
+    "Lease Administration",
+    "Market Research",
+    "RERA Compliance",
+    "Real Estate Law",
+    "Negotiation Skills",
+    "Portfolio Management"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Property Consultant - PropTiger - Immediate Joiners Preferred",
+    "description": "PropTiger has an exciting opening for a Property Consultant at our Jodhpur office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout PropTiger:\nPropTiger is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with legal teams for documentation and title verification\n• Manage RERA documentation and compliance requirements\n• Maintain a pipeline of qualified leads using CRM software\n• Build relationships with channel partners and brokers\n• Source and close property deals with prospective buyers and investors\n• Manage relationships with existing customers post-purchase\n• Conduct site visits and property presentations for clients\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 12-20 years of relevant experience\n• Proficiency in MS Office\n• Proficiency in Project Management\n• Proficiency in Lease Administration\n• Proficiency in Market Research\n• Proficiency in RERA Compliance\n• Proficiency in Real Estate Law\n• Proficiency in Negotiation Skills\n• Proficiency in Portfolio Management\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Company-sponsored certifications\n• Annual paid leaves and casual leaves\n• Learning & development budget\n• Competitive salary with performance-linked incentives\n• Referral bonus program\n• Annual performance appraisal\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Jodhpur, Rajasthan, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with PropTiger!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "PropTiger",
+      "value": "711-1-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "PropTiger",
+      "sameAs": "https://www.google.com/search?q=PropTiger",
+      "logo": "https://logo.clearbit.com/proptiger.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "PropTiger Office",
+        "addressLocality": "Jodhpur",
+        "addressRegion": "Rajasthan",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "MS Office, Project Management, Lease Administration, Market Research, RERA Compliance, Real Estate Law, Negotiation Skills, Portfolio Management",
+    "responsibilities": "Coordinate with legal teams for documentation and title verification. Manage RERA documentation and compliance requirements. Maintain a pipeline of qualified leads using CRM software. Build relationships with channel partners and brokers. Source and close property deals with prospective buyers and investors. Manage relationships with existing customers post-purchase. Conduct site visits and property presentations for clients",
+    "benefits": "Company-sponsored certifications. Annual paid leaves and casual leaves. Learning & development budget. Competitive salary with performance-linked incentives. Referral bonus program. Annual performance appraisal",
+    "industry": "realestate",
+    "occupationalCategory": "Property Consultant",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Company-sponsored certifications, Annual paid leaves and casual leaves, Learning & development budget, Competitive salary with performance-linked incentives, Referral bonus program, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "PropTiger has an exciting opening for a Property Consultant at our Jodhpur office. Join a company that values innovation, collaboration, and continuous learning",
+    "keywords": "Property Consultant, PropTiger, jobs in Jodhpur, Rajasthan jobs, realestate jobs India, MS Office, Project Management, Lease Administration, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:54:02.264Z",
+  "page": 177
+}
