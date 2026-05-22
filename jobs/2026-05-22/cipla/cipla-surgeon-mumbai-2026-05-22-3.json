@@ -1,0 +1,93 @@
+{
+  "slug": "cipla-surgeon-mumbai-2026-05-22-3",
+  "title": "Surgeon Vacancy at Cipla - 2026 Batch",
+  "company": "Cipla",
+  "industry": "healthcare",
+  "role": "Surgeon",
+  "location": {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Health Informatics",
+    "ICD-10",
+    "Infection Control",
+    "Surgical Procedures",
+    "BLS/ACLS",
+    "Medical Terminology",
+    "NABH Standards",
+    "Telemedicine"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Surgeon Vacancy at Cipla - 2026 Batch",
+    "description": "Cipla has an exciting opening for a Surgeon at our Mumbai office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Cipla:\nCipla is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Diagnose and treat medical conditions following established protocols\n• Maintain accurate clinical documentation in electronic health records\n• Provide high-quality patient care and maintain patient records\n• Participate in quality improvement initiatives and clinical audits\n• Educate patients and families on health management and disease prevention\n• Respond to medical emergencies and provide immediate care\n• Adhere to NABH/JCI accreditation standards\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 6-10 years of relevant experience\n• Proficiency in Health Informatics\n• Proficiency in ICD-10\n• Proficiency in Infection Control\n• Proficiency in Surgical Procedures\n• Proficiency in BLS/ACLS\n• Proficiency in Medical Terminology\n• Proficiency in NABH Standards\n• Proficiency in Telemedicine\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Meal coupons and food allowance\n• Work-from-home flexibility\n• Transportation and conveyance allowance\n• Learning & development budget\n• Life and accident insurance\n• Referral bonus program\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Mumbai, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Cipla!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Cipla",
+      "value": "227-3-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Cipla",
+      "sameAs": "https://www.google.com/search?q=Cipla",
+      "logo": "https://logo.clearbit.com/cipla.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Cipla Office",
+        "addressLocality": "Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "Health Informatics, ICD-10, Infection Control, Surgical Procedures, BLS/ACLS, Medical Terminology, NABH Standards, Telemedicine",
+    "responsibilities": "Diagnose and treat medical conditions following established protocols. Maintain accurate clinical documentation in electronic health records. Provide high-quality patient care and maintain patient records. Participate in quality improvement initiatives and clinical audits. Educate patients and families on health management and disease prevention. Respond to medical emergencies and provide immediate care. Adhere to NABH/JCI accreditation standards",
+    "benefits": "Meal coupons and food allowance. Work-from-home flexibility. Transportation and conveyance allowance. Learning & development budget. Life and accident insurance. Referral bonus program",
+    "industry": "healthcare",
+    "occupationalCategory": "Surgeon",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Meal coupons and food allowance, Work-from-home flexibility, Transportation and conveyance allowance, Learning & development budget, Life and accident insurance, Referral bonus program"
+  },
+  "meta": {
+    "description": "Cipla has an exciting opening for a Surgeon at our Mumbai office. Join a company that values innovation, collaboration, and continuous learning.",
+    "keywords": "Surgeon, Cipla, jobs in Mumbai, Maharashtra jobs, healthcare jobs India, Health Informatics, ICD-10, Infection Control, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:38:49.749Z",
+  "page": 56
+}
