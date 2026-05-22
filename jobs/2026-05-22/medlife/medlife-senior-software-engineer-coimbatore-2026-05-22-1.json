@@ -1,0 +1,93 @@
+{
+  "slug": "medlife-senior-software-engineer-coimbatore-2026-05-22-1",
+  "title": "Senior Software Engineer - Medlife - Top MNC",
+  "company": "Medlife",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "SQL",
+    "JavaScript",
+    "Agile/Scrum",
+    "Git",
+    "Docker",
+    "REST APIs",
+    "TypeScript",
+    "Go"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Medlife - Top MNC",
+    "description": "Medlife invites applications from qualified candidates for the position of Senior Software Engineer at our Coimbatore location. This role offers excellent career advancement prospects.\n\nAbout Medlife:\nMedlife is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure code security and follow best practices for data protection\n• Integrate third-party APIs and services\n• Participate in code reviews and contribute to technical discussions\n• Contribute to system architecture and technical design decisions\n• Collaborate with cross-functional teams including product, design, and QA\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Optimize application performance and ensure high availability\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 10-15 years of relevant experience\n• Proficiency in SQL\n• Proficiency in JavaScript\n• Proficiency in Agile/Scrum\n• Proficiency in Git\n• Proficiency in Docker\n• Proficiency in REST APIs\n• Proficiency in TypeScript\n• Proficiency in Go\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Professional development and training programs\n• Referral bonus program\n• Annual performance appraisal\n• Life and accident insurance\n• Flexible working hours\n• Company-sponsored certifications\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Coimbatore, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Medlife!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Medlife",
+      "value": "122-1-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Medlife",
+      "sameAs": "https://www.google.com/search?q=Medlife",
+      "logo": "https://logo.clearbit.com/medlife.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Medlife Office",
+        "addressLocality": "Coimbatore",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "SQL, JavaScript, Agile/Scrum, Git, Docker, REST APIs, TypeScript, Go",
+    "responsibilities": "Ensure code security and follow best practices for data protection. Integrate third-party APIs and services. Participate in code reviews and contribute to technical discussions. Contribute to system architecture and technical design decisions. Collaborate with cross-functional teams including product, design, and QA. Work with agile methodologies including daily stand-ups and sprint planning. Optimize application performance and ensure high availability",
+    "benefits": "Professional development and training programs. Referral bonus program. Annual performance appraisal. Life and accident insurance. Flexible working hours. Company-sponsored certifications",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Referral bonus program, Annual performance appraisal, Life and accident insurance, Flexible working hours, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "Medlife invites applications from qualified candidates for the position of Senior Software Engineer at our Coimbatore location. This role offers excellent caree",
+    "keywords": "Senior Software Engineer, Medlife, jobs in Coimbatore, Tamil Nadu jobs, technology jobs India, SQL, JavaScript, Agile/Scrum, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:35:29.071Z",
+  "page": 30
+}

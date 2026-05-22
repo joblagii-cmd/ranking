@@ -1,0 +1,93 @@
+{
+  "slug": "medlife-frontend-developer-jabalpur-2026-05-22-4",
+  "title": "Senior Frontend Developer at Medlife",
+  "company": "Medlife",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Jabalpur",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Python",
+    "Microservices",
+    "TensorFlow",
+    "MongoDB",
+    "Kubernetes",
+    "React",
+    "CI/CD",
+    "TypeScript"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Frontend Developer at Medlife",
+    "description": "Medlife invites applications from qualified candidates for the position of Frontend Developer at our Jabalpur location. This role offers excellent career advancement prospects.\n\nAbout Medlife:\nMedlife is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Optimize application performance and ensure high availability\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Implement new features based on product requirements\n• Integrate third-party APIs and services\n• Ensure code security and follow best practices for data protection\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 1-3 years of relevant experience\n• Proficiency in Python\n• Proficiency in Microservices\n• Proficiency in TensorFlow\n• Proficiency in MongoDB\n• Proficiency in Kubernetes\n• Proficiency in React\n• Proficiency in CI/CD\n• Proficiency in TypeScript\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Professional development and training programs\n• Annual performance appraisal\n• Annual paid leaves and casual leaves\n• Flexible working hours\n• Provident Fund and Gratuity as per company policy\n• Comprehensive health insurance for self and family\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Jabalpur, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Medlife!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Medlife",
+      "value": "122-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Medlife",
+      "sameAs": "https://www.google.com/search?q=Medlife",
+      "logo": "https://logo.clearbit.com/medlife.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Medlife Office",
+        "addressLocality": "Jabalpur",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Python, Microservices, TensorFlow, MongoDB, Kubernetes, React, CI/CD, TypeScript",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Mentor junior developers and conduct knowledge-sharing sessions. Optimize application performance and ensure high availability. Troubleshoot, debug, and resolve software defects and performance issues. Implement new features based on product requirements. Integrate third-party APIs and services. Ensure code security and follow best practices for data protection",
+    "benefits": "Professional development and training programs. Annual performance appraisal. Annual paid leaves and casual leaves. Flexible working hours. Provident Fund and Gratuity as per company policy. Comprehensive health insurance for self and family",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Annual performance appraisal, Annual paid leaves and casual leaves, Flexible working hours, Provident Fund and Gratuity as per company policy, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "Medlife invites applications from qualified candidates for the position of Frontend Developer at our Jabalpur location. This role offers excellent career advanc",
+    "keywords": "Frontend Developer, Medlife, jobs in Jabalpur, Madhya Pradesh jobs, technology jobs India, Python, Microservices, TensorFlow, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:35:29.071Z",
+  "page": 30
+}

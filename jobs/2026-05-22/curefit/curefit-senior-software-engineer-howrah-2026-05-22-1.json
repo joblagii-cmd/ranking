@@ -1,0 +1,93 @@
+{
+  "slug": "curefit-senior-software-engineer-howrah-2026-05-22-1",
+  "title": "Senior Software Engineer - Curefit - Top MNC",
+  "company": "Curefit",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Howrah",
+    "state": "West Bengal",
+    "region": "Eastern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Rust",
+    "Node.js",
+    "Kubernetes",
+    "TensorFlow",
+    "REST APIs",
+    "Machine Learning",
+    "Git",
+    "Java"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Curefit - Top MNC",
+    "description": "Curefit invites applications from qualified candidates for the position of Senior Software Engineer at our Howrah location. This role offers excellent career advancement prospects.\n\nAbout Curefit:\nCurefit is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure code security and follow best practices for data protection\n• Participate in on-call rotation for production support\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Write clean, maintainable, and well-documented code\n• Integrate third-party APIs and services\n• Participate in code reviews and contribute to technical discussions\n• Collaborate with cross-functional teams including product, design, and QA\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 12-20 years of relevant experience\n• Proficiency in Rust\n• Proficiency in Node.js\n• Proficiency in Kubernetes\n• Proficiency in TensorFlow\n• Proficiency in REST APIs\n• Proficiency in Machine Learning\n• Proficiency in Git\n• Proficiency in Java\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Company-sponsored certifications\n• Learning & development budget\n• Provident Fund and Gratuity as per company policy\n• Work-from-home flexibility\n• Meal coupons and food allowance\n• International travel opportunities for senior roles\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Howrah, West Bengal, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Curefit!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Curefit",
+      "value": "121-1-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Curefit",
+      "sameAs": "https://www.google.com/search?q=Curefit",
+      "logo": "https://logo.clearbit.com/curefit.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Curefit Office",
+        "addressLocality": "Howrah",
+        "addressRegion": "West Bengal",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "Rust, Node.js, Kubernetes, TensorFlow, REST APIs, Machine Learning, Git, Java",
+    "responsibilities": "Ensure code security and follow best practices for data protection. Participate in on-call rotation for production support. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Write clean, maintainable, and well-documented code. Integrate third-party APIs and services. Participate in code reviews and contribute to technical discussions. Collaborate with cross-functional teams including product, design, and QA",
+    "benefits": "Company-sponsored certifications. Learning & development budget. Provident Fund and Gratuity as per company policy. Work-from-home flexibility. Meal coupons and food allowance. International travel opportunities for senior roles",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Company-sponsored certifications, Learning & development budget, Provident Fund and Gratuity as per company policy, Work-from-home flexibility, Meal coupons and food allowance, International travel opportunities for senior roles"
+  },
+  "meta": {
+    "description": "Curefit invites applications from qualified candidates for the position of Senior Software Engineer at our Howrah location. This role offers excellent career ad",
+    "keywords": "Senior Software Engineer, Curefit, jobs in Howrah, West Bengal jobs, technology jobs India, Rust, Node.js, Kubernetes, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:35:29.070Z",
+  "page": 30
+}

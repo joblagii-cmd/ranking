@@ -1,0 +1,94 @@
+{
+  "slug": "medlife-backend-developer-coimbatore-2026-05-22-3",
+  "title": "Backend Developer Vacancy at Medlife - 2026 Batch",
+  "company": "Medlife",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Git",
+    "SQL",
+    "JavaScript",
+    "MongoDB",
+    "AWS",
+    "Node.js",
+    "Kubernetes",
+    "Python"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Medlife - 2026 Batch",
+    "description": "Medlife invites applications from qualified candidates for the position of Backend Developer at our Coimbatore location. This role offers excellent career advancement prospects.\n\nAbout Medlife:\nMedlife is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Contribute to system architecture and technical design decisions\n• Participate in on-call rotation for production support\n• Design, develop and maintain scalable software applications\n• Collaborate with cross-functional teams including product, design, and QA\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Write clean, maintainable, and well-documented code\n• Implement new features based on product requirements\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 3-6 years of relevant experience\n• Proficiency in Git\n• Proficiency in SQL\n• Proficiency in JavaScript\n• Proficiency in MongoDB\n• Proficiency in AWS\n• Proficiency in Node.js\n• Proficiency in Kubernetes\n• Proficiency in Python\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Learning & development budget\n• Maternity and paternity leave\n• International travel opportunities for senior roles\n• Annual paid leaves and casual leaves\n• Recognition and rewards programs\n• Work-from-home flexibility\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Coimbatore, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Medlife!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Medlife",
+      "value": "122-3-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Medlife",
+      "sameAs": "https://www.google.com/search?q=Medlife",
+      "logo": "https://logo.clearbit.com/medlife.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Medlife Office",
+        "addressLocality": "Coimbatore",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "Git, SQL, JavaScript, MongoDB, AWS, Node.js, Kubernetes, Python",
+    "responsibilities": "Contribute to system architecture and technical design decisions. Participate in on-call rotation for production support. Design, develop and maintain scalable software applications. Collaborate with cross-functional teams including product, design, and QA. Troubleshoot, debug, and resolve software defects and performance issues. Write clean, maintainable, and well-documented code. Implement new features based on product requirements",
+    "benefits": "Learning & development budget. Maternity and paternity leave. International travel opportunities for senior roles. Annual paid leaves and casual leaves. Recognition and rewards programs. Work-from-home flexibility",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Learning & development budget, Maternity and paternity leave, International travel opportunities for senior roles, Annual paid leaves and casual leaves, Recognition and rewards programs, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "Medlife invites applications from qualified candidates for the position of Backend Developer at our Coimbatore location. This role offers excellent career advan",
+    "keywords": "Backend Developer, Medlife, jobs in Coimbatore, Tamil Nadu jobs, technology jobs India, Git, SQL, JavaScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:35:29.071Z",
+  "page": 30
+}

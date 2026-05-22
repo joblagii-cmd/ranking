@@ -1,0 +1,94 @@
+{
+  "slug": "apollo-telehealth-software-engineer-coimbatore-2026-05-22-0",
+  "title": "Opening for Software Engineer at Apollo Telehealth",
+  "company": "Apollo Telehealth",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Docker",
+    "MongoDB",
+    "JavaScript",
+    "Python",
+    "SQL",
+    "AWS",
+    "Microservices",
+    "TypeScript"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Opening for Software Engineer at Apollo Telehealth",
+    "description": "Apollo Telehealth invites applications from qualified candidates for the position of Software Engineer at our Coimbatore location. This role offers excellent career advancement prospects.\n\nAbout Apollo Telehealth:\nApollo Telehealth is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Integrate third-party APIs and services\n• Optimize application performance and ensure high availability\n• Collaborate with cross-functional teams including product, design, and QA\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Write clean, maintainable, and well-documented code\n• Contribute to system architecture and technical design decisions\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 10-15 years of relevant experience\n• Proficiency in Docker\n• Proficiency in MongoDB\n• Proficiency in JavaScript\n• Proficiency in Python\n• Proficiency in SQL\n• Proficiency in AWS\n• Proficiency in Microservices\n• Proficiency in TypeScript\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Recognition and rewards programs\n• Maternity and paternity leave\n• Employee stock options (ESOPs) for eligible roles\n• Life and accident insurance\n• Provident Fund and Gratuity as per company policy\n• Competitive salary with performance-linked incentives\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Coimbatore, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Apollo Telehealth!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Apollo Telehealth",
+      "value": "123-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Apollo Telehealth",
+      "sameAs": "https://www.google.com/search?q=Apollo%20Telehealth",
+      "logo": "https://logo.clearbit.com/apollotelehealth.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Apollo Telehealth Office",
+        "addressLocality": "Coimbatore",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "Docker, MongoDB, JavaScript, Python, SQL, AWS, Microservices, TypeScript",
+    "responsibilities": "Design, develop and maintain scalable software applications. Integrate third-party APIs and services. Optimize application performance and ensure high availability. Collaborate with cross-functional teams including product, design, and QA. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Write clean, maintainable, and well-documented code. Contribute to system architecture and technical design decisions",
+    "benefits": "Recognition and rewards programs. Maternity and paternity leave. Employee stock options (ESOPs) for eligible roles. Life and accident insurance. Provident Fund and Gratuity as per company policy. Competitive salary with performance-linked incentives",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Recognition and rewards programs, Maternity and paternity leave, Employee stock options (ESOPs) for eligible roles, Life and accident insurance, Provident Fund and Gratuity as per company policy, Competitive salary with performance-linked incentives"
+  },
+  "meta": {
+    "description": "Apollo Telehealth invites applications from qualified candidates for the position of Software Engineer at our Coimbatore location. This role offers excellent ca",
+    "keywords": "Software Engineer, Apollo Telehealth, jobs in Coimbatore, Tamil Nadu jobs, technology jobs India, Docker, MongoDB, JavaScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:35:29.071Z",
+  "page": 30
+}

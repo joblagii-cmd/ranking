@@ -1,0 +1,93 @@
+{
+  "slug": "apollo-telehealth-full-stack-developer-jabalpur-2026-05-22-2",
+  "title": "Apollo Telehealth is Hiring: Full Stack Developer (Senior)",
+  "company": "Apollo Telehealth",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Jabalpur",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Kubernetes",
+    "Git",
+    "Machine Learning",
+    "TypeScript",
+    "TensorFlow",
+    "Agile/Scrum",
+    "JavaScript",
+    "SQL"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Apollo Telehealth is Hiring: Full Stack Developer (Senior)",
+    "description": "Apollo Telehealth invites applications from qualified candidates for the position of Full Stack Developer at our Jabalpur location. This role offers excellent career advancement prospects.\n\nAbout Apollo Telehealth:\nApollo Telehealth is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Implement new features based on product requirements\n• Ensure code security and follow best practices for data protection\n• Write clean, maintainable, and well-documented code\n• Write and execute unit tests and integration tests\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Contribute to system architecture and technical design decisions\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 3-6 years of relevant experience\n• Proficiency in Kubernetes\n• Proficiency in Git\n• Proficiency in Machine Learning\n• Proficiency in TypeScript\n• Proficiency in TensorFlow\n• Proficiency in Agile/Scrum\n• Proficiency in JavaScript\n• Proficiency in SQL\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Flexible working hours\n• Modern office with recreational facilities\n• Recognition and rewards programs\n• Work-from-home flexibility\n• Company-sponsored certifications\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Jabalpur, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Apollo Telehealth!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Apollo Telehealth",
+      "value": "123-2-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Apollo Telehealth",
+      "sameAs": "https://www.google.com/search?q=Apollo%20Telehealth",
+      "logo": "https://logo.clearbit.com/apollotelehealth.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Apollo Telehealth Office",
+        "addressLocality": "Jabalpur",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Kubernetes, Git, Machine Learning, TypeScript, TensorFlow, Agile/Scrum, JavaScript, SQL",
+    "responsibilities": "Design, develop and maintain scalable software applications. Implement new features based on product requirements. Ensure code security and follow best practices for data protection. Write clean, maintainable, and well-documented code. Write and execute unit tests and integration tests. Mentor junior developers and conduct knowledge-sharing sessions. Contribute to system architecture and technical design decisions",
+    "benefits": "Competitive salary with performance-linked incentives. Flexible working hours. Modern office with recreational facilities. Recognition and rewards programs. Work-from-home flexibility. Company-sponsored certifications",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Flexible working hours, Modern office with recreational facilities, Recognition and rewards programs, Work-from-home flexibility, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "Apollo Telehealth invites applications from qualified candidates for the position of Full Stack Developer at our Jabalpur location. This role offers excellent c",
+    "keywords": "Full Stack Developer, Apollo Telehealth, jobs in Jabalpur, Madhya Pradesh jobs, technology jobs India, Kubernetes, Git, Machine Learning, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:35:29.071Z",
+  "page": 30
+}

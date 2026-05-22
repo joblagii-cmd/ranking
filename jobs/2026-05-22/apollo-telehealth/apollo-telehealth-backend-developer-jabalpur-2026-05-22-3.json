@@ -1,0 +1,93 @@
+{
+  "slug": "apollo-telehealth-backend-developer-jabalpur-2026-05-22-3",
+  "title": "Backend Developer Vacancy at Apollo Telehealth - 2026 Batch",
+  "company": "Apollo Telehealth",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Jabalpur",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "TensorFlow",
+    "CI/CD",
+    "MongoDB",
+    "TypeScript",
+    "React",
+    "Java",
+    "Microservices",
+    "Agile/Scrum"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Apollo Telehealth - 2026 Batch",
+    "description": "Apollo Telehealth invites applications from qualified candidates for the position of Backend Developer at our Jabalpur location. This role offers excellent career advancement prospects.\n\nAbout Apollo Telehealth:\nApollo Telehealth is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Ensure code security and follow best practices for data protection\n• Write and execute unit tests and integration tests\n• Collaborate with cross-functional teams including product, design, and QA\n• Design, develop and maintain scalable software applications\n• Implement new features based on product requirements\n• Troubleshoot, debug, and resolve software defects and performance issues\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 1-3 years of relevant experience\n• Proficiency in TensorFlow\n• Proficiency in CI/CD\n• Proficiency in MongoDB\n• Proficiency in TypeScript\n• Proficiency in React\n• Proficiency in Java\n• Proficiency in Microservices\n• Proficiency in Agile/Scrum\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Annual performance appraisal\n• Comprehensive health insurance for self and family\n• Annual paid leaves and casual leaves\n• Recognition and rewards programs\n• Transportation and conveyance allowance\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Jabalpur, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Apollo Telehealth!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Apollo Telehealth",
+      "value": "123-3-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Apollo Telehealth",
+      "sameAs": "https://www.google.com/search?q=Apollo%20Telehealth",
+      "logo": "https://logo.clearbit.com/apollotelehealth.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Apollo Telehealth Office",
+        "addressLocality": "Jabalpur",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "TensorFlow, CI/CD, MongoDB, TypeScript, React, Java, Microservices, Agile/Scrum",
+    "responsibilities": "Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Ensure code security and follow best practices for data protection. Write and execute unit tests and integration tests. Collaborate with cross-functional teams including product, design, and QA. Design, develop and maintain scalable software applications. Implement new features based on product requirements. Troubleshoot, debug, and resolve software defects and performance issues",
+    "benefits": "International travel opportunities for senior roles. Annual performance appraisal. Comprehensive health insurance for self and family. Annual paid leaves and casual leaves. Recognition and rewards programs. Transportation and conveyance allowance",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Annual performance appraisal, Comprehensive health insurance for self and family, Annual paid leaves and casual leaves, Recognition and rewards programs, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "Apollo Telehealth invites applications from qualified candidates for the position of Backend Developer at our Jabalpur location. This role offers excellent care",
+    "keywords": "Backend Developer, Apollo Telehealth, jobs in Jabalpur, Madhya Pradesh jobs, technology jobs India, TensorFlow, CI/CD, MongoDB, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:35:29.071Z",
+  "page": 30
+}
