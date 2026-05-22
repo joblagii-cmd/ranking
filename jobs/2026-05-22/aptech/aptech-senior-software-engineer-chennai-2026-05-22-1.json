@@ -1,0 +1,94 @@
+{
+  "slug": "aptech-senior-software-engineer-chennai-2026-05-22-1",
+  "title": "Senior Software Engineer - Aptech - Experienced Professionals",
+  "company": "Aptech",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "AWS",
+    "TypeScript",
+    "Python",
+    "CI/CD",
+    "Agile/Scrum",
+    "Machine Learning",
+    "Microservices",
+    "SQL"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Aptech - Experienced Professionals",
+    "description": "An exciting career opportunity awaits you at Aptech. We are on the lookout for a dedicated Senior Software Engineer to strengthen our Chennai-based team.\n\nAbout Aptech:\nAptech is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in code reviews and contribute to technical discussions\n• Write clean, maintainable, and well-documented code\n• Contribute to system architecture and technical design decisions\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Optimize application performance and ensure high availability\n• Ensure code security and follow best practices for data protection\n• Collaborate with cross-functional teams including product, design, and QA\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 6-10 years of relevant experience\n• Proficiency in AWS\n• Proficiency in TypeScript\n• Proficiency in Python\n• Proficiency in CI/CD\n• Proficiency in Agile/Scrum\n• Proficiency in Machine Learning\n• Proficiency in Microservices\n• Proficiency in SQL\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Annual performance appraisal\n• International travel opportunities for senior roles\n• Comprehensive health insurance for self and family\n• Employee stock options (ESOPs) for eligible roles\n• Mobile and internet reimbursement\n• Transportation and conveyance allowance\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Chennai, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Aptech!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Aptech",
+      "value": "70-1-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Aptech",
+      "sameAs": "https://www.google.com/search?q=Aptech",
+      "logo": "https://logo.clearbit.com/aptech.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Aptech Office",
+        "addressLocality": "Chennai",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "AWS, TypeScript, Python, CI/CD, Agile/Scrum, Machine Learning, Microservices, SQL",
+    "responsibilities": "Participate in code reviews and contribute to technical discussions. Write clean, maintainable, and well-documented code. Contribute to system architecture and technical design decisions. Troubleshoot, debug, and resolve software defects and performance issues. Optimize application performance and ensure high availability. Ensure code security and follow best practices for data protection. Collaborate with cross-functional teams including product, design, and QA",
+    "benefits": "Annual performance appraisal. International travel opportunities for senior roles. Comprehensive health insurance for self and family. Employee stock options (ESOPs) for eligible roles. Mobile and internet reimbursement. Transportation and conveyance allowance",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual performance appraisal, International travel opportunities for senior roles, Comprehensive health insurance for self and family, Employee stock options (ESOPs) for eligible roles, Mobile and internet reimbursement, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Aptech. We are on the lookout for a dedicated Senior Software Engineer to strengthen our Chennai-based team.",
+    "keywords": "Senior Software Engineer, Aptech, jobs in Chennai, Tamil Nadu jobs, technology jobs India, AWS, TypeScript, Python, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:33:47.831Z",
+  "page": 17
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "aptech-backend-developer-kolkata-2026-05-22-3",
+  "title": "Backend Developer Vacancy at Aptech - 2026 Batch",
+  "company": "Aptech",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "region": "Eastern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "AWS",
+    "TensorFlow",
+    "React",
+    "Microservices",
+    "Agile/Scrum",
+    "Git",
+    "JavaScript",
+    "Kubernetes"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Aptech - 2026 Batch",
+    "description": "An exciting career opportunity awaits you at Aptech. We are on the lookout for a dedicated Backend Developer to strengthen our Kolkata-based team.\n\nAbout Aptech:\nAptech is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Implement new features based on product requirements\n• Optimize application performance and ensure high availability\n• Integrate third-party APIs and services\n• Participate in on-call rotation for production support\n• Ensure code security and follow best practices for data protection\n• Contribute to system architecture and technical design decisions\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 1-3 years of relevant experience\n• Proficiency in AWS\n• Proficiency in TensorFlow\n• Proficiency in React\n• Proficiency in Microservices\n• Proficiency in Agile/Scrum\n• Proficiency in Git\n• Proficiency in JavaScript\n• Proficiency in Kubernetes\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Life and accident insurance\n• Recognition and rewards programs\n• Annual paid leaves and casual leaves\n• Flexible working hours\n• Comprehensive health insurance for self and family\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Kolkata, West Bengal, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Aptech!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Aptech",
+      "value": "70-3-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Aptech",
+      "sameAs": "https://www.google.com/search?q=Aptech",
+      "logo": "https://logo.clearbit.com/aptech.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Aptech Office",
+        "addressLocality": "Kolkata",
+        "addressRegion": "West Bengal",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "AWS, TensorFlow, React, Microservices, Agile/Scrum, Git, JavaScript, Kubernetes",
+    "responsibilities": "Work with agile methodologies including daily stand-ups and sprint planning. Implement new features based on product requirements. Optimize application performance and ensure high availability. Integrate third-party APIs and services. Participate in on-call rotation for production support. Ensure code security and follow best practices for data protection. Contribute to system architecture and technical design decisions",
+    "benefits": "Competitive salary with performance-linked incentives. Life and accident insurance. Recognition and rewards programs. Annual paid leaves and casual leaves. Flexible working hours. Comprehensive health insurance for self and family",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Life and accident insurance, Recognition and rewards programs, Annual paid leaves and casual leaves, Flexible working hours, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Aptech. We are on the lookout for a dedicated Backend Developer to strengthen our Kolkata-based team.",
+    "keywords": "Backend Developer, Aptech, jobs in Kolkata, West Bengal jobs, technology jobs India, AWS, TensorFlow, React, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:33:47.831Z",
+  "page": 17
+}
