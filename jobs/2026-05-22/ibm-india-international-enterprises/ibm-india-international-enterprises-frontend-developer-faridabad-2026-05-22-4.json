@@ -1,0 +1,93 @@
+{
+  "slug": "ibm-india-international-enterprises-frontend-developer-faridabad-2026-05-22-4",
+  "title": "Junior Frontend Developer at IBM India International Enterprises",
+  "company": "IBM India International Enterprises",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Faridabad",
+    "state": "Haryana",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Kubernetes",
+    "React",
+    "Java",
+    "SQL",
+    "AWS",
+    "Machine Learning",
+    "Python",
+    "REST APIs"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Junior Frontend Developer at IBM India International Enterprises",
+    "description": "We at IBM India International Enterprises are looking for an experienced Frontend Developer based out of Faridabad. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout IBM India International Enterprises:\nIBM India International Enterprises is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Write clean, maintainable, and well-documented code\n• Ensure code security and follow best practices for data protection\n• Design, develop and maintain scalable software applications\n• Optimize application performance and ensure high availability\n• Write and execute unit tests and integration tests\n• Contribute to system architecture and technical design decisions\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 3-6 years of relevant experience\n• Proficiency in Kubernetes\n• Proficiency in React\n• Proficiency in Java\n• Proficiency in SQL\n• Proficiency in AWS\n• Proficiency in Machine Learning\n• Proficiency in Python\n• Proficiency in REST APIs\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Maternity and paternity leave\n• Transportation and conveyance allowance\n• Competitive salary with performance-linked incentives\n• Learning & development budget\n• Annual performance appraisal\n• Comprehensive health insurance for self and family\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Faridabad, Haryana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with IBM India International Enterprises!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "IBM India International Enterprises",
+      "value": "1848-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "IBM India International Enterprises",
+      "sameAs": "https://www.google.com/search?q=IBM%20India%20International%20Enterprises",
+      "logo": "https://logo.clearbit.com/ibmindiainternationalenterprises.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "IBM India International Enterprises Office",
+        "addressLocality": "Faridabad",
+        "addressRegion": "Haryana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "Kubernetes, React, Java, SQL, AWS, Machine Learning, Python, REST APIs",
+    "responsibilities": "Mentor junior developers and conduct knowledge-sharing sessions. Write clean, maintainable, and well-documented code. Ensure code security and follow best practices for data protection. Design, develop and maintain scalable software applications. Optimize application performance and ensure high availability. Write and execute unit tests and integration tests. Contribute to system architecture and technical design decisions",
+    "benefits": "Maternity and paternity leave. Transportation and conveyance allowance. Competitive salary with performance-linked incentives. Learning & development budget. Annual performance appraisal. Comprehensive health insurance for self and family",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Maternity and paternity leave, Transportation and conveyance allowance, Competitive salary with performance-linked incentives, Learning & development budget, Annual performance appraisal, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "We at IBM India International Enterprises are looking for an experienced Frontend Developer based out of Faridabad. If you are a result-oriented professional wi",
+    "keywords": "Frontend Developer, IBM India International Enterprises, jobs in Faridabad, Haryana jobs, technology jobs India, Kubernetes, React, Java, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:53:48.471Z",
+  "page": 461
+}

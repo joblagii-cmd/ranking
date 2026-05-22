@@ -1,0 +1,94 @@
+{
+  "slug": "tech-mahindra-holdings-services-frontend-developer-agra-2026-05-22-4",
+  "title": "Junior Frontend Developer at Tech Mahindra Holdings Services",
+  "company": "Tech Mahindra Holdings Services",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "JavaScript",
+    "Docker",
+    "Git",
+    "Go",
+    "Python",
+    "MongoDB",
+    "Agile/Scrum",
+    "Machine Learning"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Junior Frontend Developer at Tech Mahindra Holdings Services",
+    "description": "We at Tech Mahindra Holdings Services are looking for an experienced Frontend Developer based out of Agra. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout Tech Mahindra Holdings Services:\nTech Mahindra Holdings Services is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Optimize application performance and ensure high availability\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Integrate third-party APIs and services\n• Ensure code security and follow best practices for data protection\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in code reviews and contribute to technical discussions\n• Write and execute unit tests and integration tests\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 12-20 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Docker\n• Proficiency in Git\n• Proficiency in Go\n• Proficiency in Python\n• Proficiency in MongoDB\n• Proficiency in Agile/Scrum\n• Proficiency in Machine Learning\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Company-sponsored certifications\n• Recognition and rewards programs\n• Maternity and paternity leave\n• Learning & development budget\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Agra, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Tech Mahindra Holdings Services!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Tech Mahindra Holdings Services",
+      "value": "1845-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Tech Mahindra Holdings Services",
+      "sameAs": "https://www.google.com/search?q=Tech%20Mahindra%20Holdings%20Services",
+      "logo": "https://logo.clearbit.com/techmahindraholdingsservices.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Tech Mahindra Holdings Services Office",
+        "addressLocality": "Agra",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "JavaScript, Docker, Git, Go, Python, MongoDB, Agile/Scrum, Machine Learning",
+    "responsibilities": "Optimize application performance and ensure high availability. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Integrate third-party APIs and services. Ensure code security and follow best practices for data protection. Collaborate with cross-functional teams including product, design, and QA. Participate in code reviews and contribute to technical discussions. Write and execute unit tests and integration tests",
+    "benefits": "Annual paid leaves and casual leaves. Company-sponsored certifications. Recognition and rewards programs. Maternity and paternity leave. Learning & development budget. Provident Fund and Gratuity as per company policy",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Company-sponsored certifications, Recognition and rewards programs, Maternity and paternity leave, Learning & development budget, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "We at Tech Mahindra Holdings Services are looking for an experienced Frontend Developer based out of Agra. If you are a result-oriented professional with a pass",
+    "keywords": "Frontend Developer, Tech Mahindra Holdings Services, jobs in Agra, Uttar Pradesh jobs, technology jobs India, JavaScript, Docker, Git, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:53:48.470Z",
+  "page": 461
+}
