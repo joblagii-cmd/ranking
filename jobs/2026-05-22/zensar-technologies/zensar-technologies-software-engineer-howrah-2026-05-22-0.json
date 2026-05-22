@@ -1,0 +1,94 @@
+{
+  "slug": "zensar-technologies-software-engineer-howrah-2026-05-22-0",
+  "title": "Walk-in Drive Software Engineer at Zensar Technologies",
+  "company": "Zensar Technologies",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Howrah",
+    "state": "West Bengal",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "REST APIs",
+    "MongoDB",
+    "Kubernetes",
+    "TypeScript",
+    "AWS",
+    "Agile/Scrum",
+    "Go",
+    "Rust"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Walk-in Drive Software Engineer at Zensar Technologies",
+    "description": "Zensar Technologies, one of India's leading organizations, is hiring a Software Engineer for our Howrah operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Zensar Technologies:\nZensar Technologies is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Participate in on-call rotation for production support\n• Design, develop and maintain scalable software applications\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Ensure code security and follow best practices for data protection\n• Write clean, maintainable, and well-documented code\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 6-10 years of relevant experience\n• Proficiency in REST APIs\n• Proficiency in MongoDB\n• Proficiency in Kubernetes\n• Proficiency in TypeScript\n• Proficiency in AWS\n• Proficiency in Agile/Scrum\n• Proficiency in Go\n• Proficiency in Rust\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Annual performance appraisal\n• Company-sponsored certifications\n• Flexible working hours\n• Recognition and rewards programs\n• Learning & development budget\n• Maternity and paternity leave\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Howrah, West Bengal, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Zensar Technologies!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Zensar Technologies",
+      "value": "39-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Zensar Technologies",
+      "sameAs": "https://www.google.com/search?q=Zensar%20Technologies",
+      "logo": "https://logo.clearbit.com/zensartechnologies.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Zensar Technologies Office",
+        "addressLocality": "Howrah",
+        "addressRegion": "West Bengal",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "REST APIs, MongoDB, Kubernetes, TypeScript, AWS, Agile/Scrum, Go, Rust",
+    "responsibilities": "Mentor junior developers and conduct knowledge-sharing sessions. Participate in on-call rotation for production support. Design, develop and maintain scalable software applications. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Work with agile methodologies including daily stand-ups and sprint planning. Ensure code security and follow best practices for data protection. Write clean, maintainable, and well-documented code",
+    "benefits": "Annual performance appraisal. Company-sponsored certifications. Flexible working hours. Recognition and rewards programs. Learning & development budget. Maternity and paternity leave",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual performance appraisal, Company-sponsored certifications, Flexible working hours, Recognition and rewards programs, Learning & development budget, Maternity and paternity leave"
+  },
+  "meta": {
+    "description": "Zensar Technologies, one of India's leading organizations, is hiring a Software Engineer for our Howrah operations. We offer a competitive salary package along ",
+    "keywords": "Software Engineer, Zensar Technologies, jobs in Howrah, West Bengal jobs, technology jobs India, REST APIs, MongoDB, Kubernetes, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:32:45.317Z",
+  "page": 9
+}

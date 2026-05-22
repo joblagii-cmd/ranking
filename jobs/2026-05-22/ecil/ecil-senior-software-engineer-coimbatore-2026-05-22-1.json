@@ -1,0 +1,94 @@
+{
+  "slug": "ecil-senior-software-engineer-coimbatore-2026-05-22-1",
+  "title": "Senior Software Engineer - ECIL - Freshers Welcome",
+  "company": "ECIL",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "TensorFlow",
+    "SQL",
+    "Kubernetes",
+    "MongoDB",
+    "Go",
+    "Java",
+    "React",
+    "Agile/Scrum"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - ECIL - Freshers Welcome",
+    "description": "ECIL, one of India's leading organizations, is hiring a Senior Software Engineer for our Coimbatore operations. We offer a competitive salary package along with world-class benefits.\n\nAbout ECIL:\nECIL is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Implement new features based on product requirements\n• Participate in on-call rotation for production support\n• Participate in code reviews and contribute to technical discussions\n• Ensure code security and follow best practices for data protection\n• Contribute to system architecture and technical design decisions\n• Work with agile methodologies including daily stand-ups and sprint planning\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 1-3 years of relevant experience\n• Proficiency in TensorFlow\n• Proficiency in SQL\n• Proficiency in Kubernetes\n• Proficiency in MongoDB\n• Proficiency in Go\n• Proficiency in Java\n• Proficiency in React\n• Proficiency in Agile/Scrum\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• Annual performance appraisal\n• Work-from-home flexibility\n• Maternity and paternity leave\n• Modern office with recreational facilities\n• Referral bonus program\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Coimbatore, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with ECIL!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "ECIL",
+      "value": "40-1-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "ECIL",
+      "sameAs": "https://www.google.com/search?q=ECIL",
+      "logo": "https://logo.clearbit.com/ecil.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "ECIL Office",
+        "addressLocality": "Coimbatore",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "TensorFlow, SQL, Kubernetes, MongoDB, Go, Java, React, Agile/Scrum",
+    "responsibilities": "Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Implement new features based on product requirements. Participate in on-call rotation for production support. Participate in code reviews and contribute to technical discussions. Ensure code security and follow best practices for data protection. Contribute to system architecture and technical design decisions. Work with agile methodologies including daily stand-ups and sprint planning",
+    "benefits": "Comprehensive health insurance for self and family. Annual performance appraisal. Work-from-home flexibility. Maternity and paternity leave. Modern office with recreational facilities. Referral bonus program",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, Annual performance appraisal, Work-from-home flexibility, Maternity and paternity leave, Modern office with recreational facilities, Referral bonus program"
+  },
+  "meta": {
+    "description": "ECIL, one of India's leading organizations, is hiring a Senior Software Engineer for our Coimbatore operations. We offer a competitive salary package along with",
+    "keywords": "Senior Software Engineer, ECIL, jobs in Coimbatore, Tamil Nadu jobs, technology jobs India, TensorFlow, SQL, Kubernetes, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:32:45.320Z",
+  "page": 9
+}
