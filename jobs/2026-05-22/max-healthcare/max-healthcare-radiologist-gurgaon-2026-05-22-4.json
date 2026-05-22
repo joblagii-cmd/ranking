@@ -1,0 +1,93 @@
+{
+  "slug": "max-healthcare-radiologist-gurgaon-2026-05-22-4",
+  "title": "Principal Radiologist at Max Healthcare",
+  "company": "Max Healthcare",
+  "industry": "healthcare",
+  "role": "Radiologist",
+  "location": {
+    "city": "Gurgaon",
+    "state": "Haryana",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Surgical Procedures",
+    "Medical Ethics",
+    "ICD-10",
+    "EMR/EHR",
+    "Medical Terminology",
+    "Pharmacovigilance",
+    "Infection Control",
+    "HIPAA Compliance"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Principal Radiologist at Max Healthcare",
+    "description": "Max Healthcare has an exciting opening for a Radiologist at our Gurgaon office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Max Healthcare:\nMax Healthcare is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Provide high-quality patient care and maintain patient records\n• Diagnose and treat medical conditions following established protocols\n• Ensure patient privacy and maintain confidentiality\n• Respond to medical emergencies and provide immediate care\n• Maintain sterile environments and follow infection control protocols\n• Attend continuing medical education programs and training\n• Maintain accurate clinical documentation in electronic health records\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 0-1 years of relevant experience\n• Proficiency in Surgical Procedures\n• Proficiency in Medical Ethics\n• Proficiency in ICD-10\n• Proficiency in EMR/EHR\n• Proficiency in Medical Terminology\n• Proficiency in Pharmacovigilance\n• Proficiency in Infection Control\n• Proficiency in HIPAA Compliance\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Provident Fund and Gratuity as per company policy\n• Work-from-home flexibility\n• Company-sponsored certifications\n• Professional development and training programs\n• Learning & development budget\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Gurgaon, Haryana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Max Healthcare!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Max Healthcare",
+      "value": "218-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Max Healthcare",
+      "sameAs": "https://www.google.com/search?q=Max%20Healthcare",
+      "logo": "https://logo.clearbit.com/maxhealthcare.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Max Healthcare Office",
+        "addressLocality": "Gurgaon",
+        "addressRegion": "Haryana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "Surgical Procedures, Medical Ethics, ICD-10, EMR/EHR, Medical Terminology, Pharmacovigilance, Infection Control, HIPAA Compliance",
+    "responsibilities": "Provide high-quality patient care and maintain patient records. Diagnose and treat medical conditions following established protocols. Ensure patient privacy and maintain confidentiality. Respond to medical emergencies and provide immediate care. Maintain sterile environments and follow infection control protocols. Attend continuing medical education programs and training. Maintain accurate clinical documentation in electronic health records",
+    "benefits": "Annual paid leaves and casual leaves. Provident Fund and Gratuity as per company policy. Work-from-home flexibility. Company-sponsored certifications. Professional development and training programs. Learning & development budget",
+    "industry": "healthcare",
+    "occupationalCategory": "Radiologist",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Provident Fund and Gratuity as per company policy, Work-from-home flexibility, Company-sponsored certifications, Professional development and training programs, Learning & development budget"
+  },
+  "meta": {
+    "description": "Max Healthcare has an exciting opening for a Radiologist at our Gurgaon office. Join a company that values innovation, collaboration, and continuous learning.",
+    "keywords": "Radiologist, Max Healthcare, jobs in Gurgaon, Haryana jobs, healthcare jobs India, Surgical Procedures, Medical Ethics, ICD-10, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:38:34.446Z",
+  "page": 54
+}

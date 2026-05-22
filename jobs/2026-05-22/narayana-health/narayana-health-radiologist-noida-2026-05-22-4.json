@@ -1,0 +1,93 @@
+{
+  "slug": "narayana-health-radiologist-noida-2026-05-22-4",
+  "title": "Principal Radiologist at Narayana Health",
+  "company": "Narayana Health",
+  "industry": "healthcare",
+  "role": "Radiologist",
+  "location": {
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "EMR/EHR",
+    "ICD-10",
+    "Clinical Documentation",
+    "HIPAA Compliance",
+    "Pharmacovigilance",
+    "Clinical Research",
+    "Patient Care",
+    "CPT Codes"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Principal Radiologist at Narayana Health",
+    "description": "Narayana Health has an exciting opening for a Radiologist at our Noida office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Narayana Health:\nNarayana Health is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Adhere to NABH/JCI accreditation standards\n• Administer medications and treatments as prescribed\n• Maintain sterile environments and follow infection control protocols\n• Ensure patient privacy and maintain confidentiality\n• Respond to medical emergencies and provide immediate care\n• Provide high-quality patient care and maintain patient records\n• Conduct routine health assessments and screenings\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 10-15 years of relevant experience\n• Proficiency in EMR/EHR\n• Proficiency in ICD-10\n• Proficiency in Clinical Documentation\n• Proficiency in HIPAA Compliance\n• Proficiency in Pharmacovigilance\n• Proficiency in Clinical Research\n• Proficiency in Patient Care\n• Proficiency in CPT Codes\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Meal coupons and food allowance\n• Mobile and internet reimbursement\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Flexible working hours\n• Annual performance appraisal\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Noida, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Narayana Health!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Narayana Health",
+      "value": "220-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Narayana Health",
+      "sameAs": "https://www.google.com/search?q=Narayana%20Health",
+      "logo": "https://logo.clearbit.com/narayanahealth.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Narayana Health Office",
+        "addressLocality": "Noida",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "EMR/EHR, ICD-10, Clinical Documentation, HIPAA Compliance, Pharmacovigilance, Clinical Research, Patient Care, CPT Codes",
+    "responsibilities": "Adhere to NABH/JCI accreditation standards. Administer medications and treatments as prescribed. Maintain sterile environments and follow infection control protocols. Ensure patient privacy and maintain confidentiality. Respond to medical emergencies and provide immediate care. Provide high-quality patient care and maintain patient records. Conduct routine health assessments and screenings",
+    "benefits": "Meal coupons and food allowance. Mobile and internet reimbursement. Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Flexible working hours. Annual performance appraisal",
+    "industry": "healthcare",
+    "occupationalCategory": "Radiologist",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Meal coupons and food allowance, Mobile and internet reimbursement, Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Flexible working hours, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "Narayana Health has an exciting opening for a Radiologist at our Noida office. Join a company that values innovation, collaboration, and continuous learning.",
+    "keywords": "Radiologist, Narayana Health, jobs in Noida, Uttar Pradesh jobs, healthcare jobs India, EMR/EHR, ICD-10, Clinical Documentation, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:38:34.448Z",
+  "page": 54
+}

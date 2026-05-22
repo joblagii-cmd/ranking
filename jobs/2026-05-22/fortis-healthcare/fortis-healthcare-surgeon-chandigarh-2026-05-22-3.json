@@ -1,0 +1,93 @@
+{
+  "slug": "fortis-healthcare-surgeon-chandigarh-2026-05-22-3",
+  "title": "Surgeon Vacancy at Fortis Healthcare - 2026 Batch",
+  "company": "Fortis Healthcare",
+  "industry": "healthcare",
+  "role": "Surgeon",
+  "location": {
+    "city": "Chandigarh",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Wound Care",
+    "Clinical Research",
+    "Patient Care",
+    "Clinical Documentation",
+    "BLS/ACLS",
+    "EMR/EHR",
+    "Medical Coding",
+    "ICD-10"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Surgeon Vacancy at Fortis Healthcare - 2026 Batch",
+    "description": "We at Fortis Healthcare are looking for an experienced Surgeon based out of Chandigarh. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout Fortis Healthcare:\nFortis Healthcare is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Maintain sterile environments and follow infection control protocols\n• Adhere to NABH/JCI accreditation standards\n• Ensure patient privacy and maintain confidentiality\n• Conduct routine health assessments and screenings\n• Educate patients and families on health management and disease prevention\n• Diagnose and treat medical conditions following established protocols\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 6-10 years of relevant experience\n• Proficiency in Wound Care\n• Proficiency in Clinical Research\n• Proficiency in Patient Care\n• Proficiency in Clinical Documentation\n• Proficiency in BLS/ACLS\n• Proficiency in EMR/EHR\n• Proficiency in Medical Coding\n• Proficiency in ICD-10\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Comprehensive health insurance for self and family\n• Meal coupons and food allowance\n• Modern office with recreational facilities\n• Competitive salary with performance-linked incentives\n• Life and accident insurance\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Chandigarh, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Fortis Healthcare!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Fortis Healthcare",
+      "value": "217-3-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Fortis Healthcare",
+      "sameAs": "https://www.google.com/search?q=Fortis%20Healthcare",
+      "logo": "https://logo.clearbit.com/fortishealthcare.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Fortis Healthcare Office",
+        "addressLocality": "Chandigarh",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "Wound Care, Clinical Research, Patient Care, Clinical Documentation, BLS/ACLS, EMR/EHR, Medical Coding, ICD-10",
+    "responsibilities": "Coordinate with multidisciplinary teams for comprehensive patient management. Maintain sterile environments and follow infection control protocols. Adhere to NABH/JCI accreditation standards. Ensure patient privacy and maintain confidentiality. Conduct routine health assessments and screenings. Educate patients and families on health management and disease prevention. Diagnose and treat medical conditions following established protocols",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Comprehensive health insurance for self and family. Meal coupons and food allowance. Modern office with recreational facilities. Competitive salary with performance-linked incentives. Life and accident insurance",
+    "industry": "healthcare",
+    "occupationalCategory": "Surgeon",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Comprehensive health insurance for self and family, Meal coupons and food allowance, Modern office with recreational facilities, Competitive salary with performance-linked incentives, Life and accident insurance"
+  },
+  "meta": {
+    "description": "We at Fortis Healthcare are looking for an experienced Surgeon based out of Chandigarh. If you are a result-oriented professional with a passion for excellence,",
+    "keywords": "Surgeon, Fortis Healthcare, jobs in Chandigarh, Punjab jobs, healthcare jobs India, Wound Care, Clinical Research, Patient Care, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:38:34.445Z",
+  "page": 54
+}
