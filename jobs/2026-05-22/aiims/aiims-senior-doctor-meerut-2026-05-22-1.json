@@ -1,0 +1,93 @@
+{
+  "slug": "aiims-senior-doctor-meerut-2026-05-22-1",
+  "title": "Senior Doctor - AIIMS - 2025 Hiring Drive",
+  "company": "AIIMS",
+  "industry": "healthcare",
+  "role": "Senior Doctor",
+  "location": {
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Diagnostic Skills",
+    "Wound Care",
+    "Health Informatics",
+    "HIPAA Compliance",
+    "Medical Terminology",
+    "Medical Ethics",
+    "Patient Care",
+    "Medical Coding"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Doctor - AIIMS - 2025 Hiring Drive",
+    "description": "AIIMS, one of India's leading organizations, is hiring a Senior Doctor for our Meerut operations. We offer a competitive salary package along with world-class benefits.\n\nAbout AIIMS:\nAIIMS is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Monitor patient progress and adjust treatment plans accordingly\n• Maintain sterile environments and follow infection control protocols\n• Administer medications and treatments as prescribed\n• Ensure patient privacy and maintain confidentiality\n• Provide high-quality patient care and maintain patient records\n• Maintain accurate clinical documentation in electronic health records\n• Collaborate with pharmaceutical representatives and medical suppliers\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 10-15 years of relevant experience\n• Proficiency in Diagnostic Skills\n• Proficiency in Wound Care\n• Proficiency in Health Informatics\n• Proficiency in HIPAA Compliance\n• Proficiency in Medical Terminology\n• Proficiency in Medical Ethics\n• Proficiency in Patient Care\n• Proficiency in Medical Coding\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Referral bonus program\n• Professional development and training programs\n• International travel opportunities for senior roles\n• Mobile and internet reimbursement\n• Modern office with recreational facilities\n• Competitive salary with performance-linked incentives\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Meerut, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with AIIMS!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "AIIMS",
+      "value": "271-1-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "AIIMS",
+      "sameAs": "https://www.google.com/search?q=AIIMS",
+      "logo": "https://logo.clearbit.com/aiims.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "AIIMS Office",
+        "addressLocality": "Meerut",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Diagnostic Skills, Wound Care, Health Informatics, HIPAA Compliance, Medical Terminology, Medical Ethics, Patient Care, Medical Coding",
+    "responsibilities": "Monitor patient progress and adjust treatment plans accordingly. Maintain sterile environments and follow infection control protocols. Administer medications and treatments as prescribed. Ensure patient privacy and maintain confidentiality. Provide high-quality patient care and maintain patient records. Maintain accurate clinical documentation in electronic health records. Collaborate with pharmaceutical representatives and medical suppliers",
+    "benefits": "Referral bonus program. Professional development and training programs. International travel opportunities for senior roles. Mobile and internet reimbursement. Modern office with recreational facilities. Competitive salary with performance-linked incentives",
+    "industry": "healthcare",
+    "occupationalCategory": "Senior Doctor",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Referral bonus program, Professional development and training programs, International travel opportunities for senior roles, Mobile and internet reimbursement, Modern office with recreational facilities, Competitive salary with performance-linked incentives"
+  },
+  "meta": {
+    "description": "AIIMS, one of India's leading organizations, is hiring a Senior Doctor for our Meerut operations. We offer a competitive salary package along with world-class b",
+    "keywords": "Senior Doctor, AIIMS, jobs in Meerut, Uttar Pradesh jobs, healthcare jobs India, Diagnostic Skills, Wound Care, Health Informatics, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:40:15.398Z",
+  "page": 67
+}
