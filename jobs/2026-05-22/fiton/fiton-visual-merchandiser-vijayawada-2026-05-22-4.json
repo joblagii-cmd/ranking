@@ -1,0 +1,93 @@
+{
+  "slug": "fiton-visual-merchandiser-vijayawada-2026-05-22-4",
+  "title": "Principal Visual Merchandiser at FitOn",
+  "company": "FitOn",
+  "industry": "retail",
+  "role": "Visual Merchandiser",
+  "location": {
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "SAP Retail",
+    "Planogram",
+    "POS Systems",
+    "E-commerce Integration",
+    "Category Management",
+    "Inventory Management",
+    "MS Excel",
+    "Visual Merchandising"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Principal Visual Merchandiser at FitOn",
+    "description": "If you're a passionate Visual Merchandiser with drive and ambition, FitOn in Vijayawada is the place for you. We're growing fast and need talented people to grow with us.\n\nAbout FitOn:\nFitOn is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Train and motivate the sales team to deliver excellent service\n• Implement promotional activities and in-store campaigns\n• Conduct regular stock audits and prevent pilferage\n• Assist in recruiting, onboarding, and performance management of staff\n• Achieve sales targets and improve store performance metrics\n• Monitor inventory levels and coordinate replenishment activities\n• Manage store operations to ensure smooth daily functioning\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 6-10 years of relevant experience\n• Proficiency in SAP Retail\n• Proficiency in Planogram\n• Proficiency in POS Systems\n• Proficiency in E-commerce Integration\n• Proficiency in Category Management\n• Proficiency in Inventory Management\n• Proficiency in MS Excel\n• Proficiency in Visual Merchandising\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Mobile and internet reimbursement\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Transportation and conveyance allowance\n• Maternity and paternity leave\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Vijayawada, Andhra Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with FitOn!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "FitOn",
+      "value": "625-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "FitOn",
+      "sameAs": "https://www.google.com/search?q=FitOn",
+      "logo": "https://logo.clearbit.com/fiton.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "FitOn Office",
+        "addressLocality": "Vijayawada",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "SAP Retail, Planogram, POS Systems, E-commerce Integration, Category Management, Inventory Management, MS Excel, Visual Merchandising",
+    "responsibilities": "Train and motivate the sales team to deliver excellent service. Implement promotional activities and in-store campaigns. Conduct regular stock audits and prevent pilferage. Assist in recruiting, onboarding, and performance management of staff. Achieve sales targets and improve store performance metrics. Monitor inventory levels and coordinate replenishment activities. Manage store operations to ensure smooth daily functioning",
+    "benefits": "Mobile and internet reimbursement. Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Transportation and conveyance allowance. Maternity and paternity leave. Provident Fund and Gratuity as per company policy",
+    "industry": "retail",
+    "occupationalCategory": "Visual Merchandiser",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Mobile and internet reimbursement, Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Transportation and conveyance allowance, Maternity and paternity leave, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "If you're a passionate Visual Merchandiser with drive and ambition, FitOn in Vijayawada is the place for you. We're growing fast and need talented people to gro",
+    "keywords": "Visual Merchandiser, FitOn, jobs in Vijayawada, Andhra Pradesh jobs, retail jobs India, SAP Retail, Planogram, POS Systems, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:51:25.763Z",
+  "page": 156
+}

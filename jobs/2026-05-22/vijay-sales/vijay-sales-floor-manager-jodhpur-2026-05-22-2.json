@@ -1,0 +1,93 @@
+{
+  "slug": "vijay-sales-floor-manager-jodhpur-2026-05-22-2",
+  "title": "Vijay Sales is Hiring: Floor Manager (Principal)",
+  "company": "Vijay Sales",
+  "industry": "retail",
+  "role": "Floor Manager",
+  "location": {
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "CRM",
+    "POS Systems",
+    "Sales Techniques",
+    "SAP Retail",
+    "Shrinkage Control",
+    "Retail Operations",
+    "Visual Merchandising",
+    "Team Leadership"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Vijay Sales is Hiring: Floor Manager (Principal)",
+    "description": "If you're a passionate Floor Manager with drive and ambition, Vijay Sales in Jodhpur is the place for you. We're growing fast and need talented people to grow with us.\n\nAbout Vijay Sales:\nVijay Sales is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Manage store operations to ensure smooth daily functioning\n• Conduct regular stock audits and prevent pilferage\n• Maintain high standards of store hygiene and cleanliness\n• Coordinate with the supply chain team for timely stock delivery\n• Achieve sales targets and improve store performance metrics\n• Train and motivate the sales team to deliver excellent service\n• Handle customer queries, complaints, and escalations effectively\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 3-6 years of relevant experience\n• Proficiency in CRM\n• Proficiency in POS Systems\n• Proficiency in Sales Techniques\n• Proficiency in SAP Retail\n• Proficiency in Shrinkage Control\n• Proficiency in Retail Operations\n• Proficiency in Visual Merchandising\n• Proficiency in Team Leadership\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• Flexible working hours\n• Learning & development budget\n• Referral bonus program\n• Company-sponsored certifications\n• Meal coupons and food allowance\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Jodhpur, Rajasthan, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Vijay Sales!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Vijay Sales",
+      "value": "628-2-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Vijay Sales",
+      "sameAs": "https://www.google.com/search?q=Vijay%20Sales",
+      "logo": "https://logo.clearbit.com/vijaysales.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Vijay Sales Office",
+        "addressLocality": "Jodhpur",
+        "addressRegion": "Rajasthan",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "CRM, POS Systems, Sales Techniques, SAP Retail, Shrinkage Control, Retail Operations, Visual Merchandising, Team Leadership",
+    "responsibilities": "Manage store operations to ensure smooth daily functioning. Conduct regular stock audits and prevent pilferage. Maintain high standards of store hygiene and cleanliness. Coordinate with the supply chain team for timely stock delivery. Achieve sales targets and improve store performance metrics. Train and motivate the sales team to deliver excellent service. Handle customer queries, complaints, and escalations effectively",
+    "benefits": "Comprehensive health insurance for self and family. Flexible working hours. Learning & development budget. Referral bonus program. Company-sponsored certifications. Meal coupons and food allowance",
+    "industry": "retail",
+    "occupationalCategory": "Floor Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, Flexible working hours, Learning & development budget, Referral bonus program, Company-sponsored certifications, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "If you're a passionate Floor Manager with drive and ambition, Vijay Sales in Jodhpur is the place for you. We're growing fast and need talented people to grow w",
+    "keywords": "Floor Manager, Vijay Sales, jobs in Jodhpur, Rajasthan jobs, retail jobs India, CRM, POS Systems, Sales Techniques, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:51:25.763Z",
+  "page": 156
+}
