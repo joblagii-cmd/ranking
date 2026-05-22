@@ -1,0 +1,94 @@
+{
+  "slug": "british-council-india-teacher-noida-2026-05-22-0",
+  "title": "Job Opening Teacher at British Council India",
+  "company": "British Council India",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "LMS Platforms",
+    "E-learning",
+    "Educational Technology",
+    "Special Education",
+    "Bloom's Taxonomy",
+    "Research Skills",
+    "Mentoring",
+    "Curriculum Development"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Job Opening Teacher at British Council India",
+    "description": "Join the British Council India family as a Teacher in Noida. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout British Council India:\nBritish Council India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Utilize technology and digital tools to enhance learning outcomes\n• Develop and deliver engaging lesson plans for students\n• Create curriculum-aligned learning materials and assessments\n• Monitor student progress and provide timely feedback\n• Conduct doubt-clearing sessions and remedial classes for weak students\n• Design formative and summative assessments aligned to learning objectives\n• Participate in teacher training and professional development programs\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 1-3 years of relevant experience\n• Proficiency in LMS Platforms\n• Proficiency in E-learning\n• Proficiency in Educational Technology\n• Proficiency in Special Education\n• Proficiency in Bloom's Taxonomy\n• Proficiency in Research Skills\n• Proficiency in Mentoring\n• Proficiency in Curriculum Development\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Work-from-home flexibility\n• Annual performance appraisal\n• Flexible working hours\n• Learning & development budget\n• Professional development and training programs\n• International travel opportunities for senior roles\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Noida, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with British Council India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "British Council India",
+      "value": "556-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "British Council India",
+      "sameAs": "https://www.google.com/search?q=British%20Council%20India",
+      "logo": "https://logo.clearbit.com/britishcouncilindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "British Council India Office",
+        "addressLocality": "Noida",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "LMS Platforms, E-learning, Educational Technology, Special Education, Bloom's Taxonomy, Research Skills, Mentoring, Curriculum Development",
+    "responsibilities": "Utilize technology and digital tools to enhance learning outcomes. Develop and deliver engaging lesson plans for students. Create curriculum-aligned learning materials and assessments. Monitor student progress and provide timely feedback. Conduct doubt-clearing sessions and remedial classes for weak students. Design formative and summative assessments aligned to learning objectives. Participate in teacher training and professional development programs",
+    "benefits": "Work-from-home flexibility. Annual performance appraisal. Flexible working hours. Learning & development budget. Professional development and training programs. International travel opportunities for senior roles",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Annual performance appraisal, Flexible working hours, Learning & development budget, Professional development and training programs, International travel opportunities for senior roles"
+  },
+  "meta": {
+    "description": "Join the British Council India family as a Teacher in Noida. We believe in empowering our employees with the tools, training, and environment they need to succe",
+    "keywords": "Teacher, British Council India, jobs in Noida, Uttar Pradesh jobs, education jobs India, LMS Platforms, E-learning, Educational Technology, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:49:10.526Z",
+  "page": 138
+}
