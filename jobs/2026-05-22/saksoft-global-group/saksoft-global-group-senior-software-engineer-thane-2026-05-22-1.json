@@ -1,0 +1,93 @@
+{
+  "slug": "saksoft-global-group-senior-software-engineer-thane-2026-05-22-1",
+  "title": "Senior Software Engineer - Saksoft Global Group - Experienced Professionals",
+  "company": "Saksoft Global Group",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Thane",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "SQL",
+    "Java",
+    "Python",
+    "Git",
+    "JavaScript",
+    "Rust",
+    "Docker",
+    "Kubernetes"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Saksoft Global Group - Experienced Professionals",
+    "description": "Saksoft Global Group, one of India's leading organizations, is hiring a Senior Software Engineer for our Thane operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Saksoft Global Group:\nSaksoft Global Group is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Implement new features based on product requirements\n• Integrate third-party APIs and services\n• Write clean, maintainable, and well-documented code\n• Collaborate with cross-functional teams including product, design, and QA\n• Design, develop and maintain scalable software applications\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Participate in code reviews and contribute to technical discussions\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 12-20 years of relevant experience\n• Proficiency in SQL\n• Proficiency in Java\n• Proficiency in Python\n• Proficiency in Git\n• Proficiency in JavaScript\n• Proficiency in Rust\n• Proficiency in Docker\n• Proficiency in Kubernetes\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Referral bonus program\n• Provident Fund and Gratuity as per company policy\n• Transportation and conveyance allowance\n• Learning & development budget\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Thane, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Saksoft Global Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Saksoft Global Group",
+      "value": "1917-1-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Saksoft Global Group",
+      "sameAs": "https://www.google.com/search?q=Saksoft%20Global%20Group",
+      "logo": "https://logo.clearbit.com/saksoftglobalgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Saksoft Global Group Office",
+        "addressLocality": "Thane",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "SQL, Java, Python, Git, JavaScript, Rust, Docker, Kubernetes",
+    "responsibilities": "Implement new features based on product requirements. Integrate third-party APIs and services. Write clean, maintainable, and well-documented code. Collaborate with cross-functional teams including product, design, and QA. Design, develop and maintain scalable software applications. Troubleshoot, debug, and resolve software defects and performance issues. Participate in code reviews and contribute to technical discussions",
+    "benefits": "Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Referral bonus program. Provident Fund and Gratuity as per company policy. Transportation and conveyance allowance. Learning & development budget",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Referral bonus program, Provident Fund and Gratuity as per company policy, Transportation and conveyance allowance, Learning & development budget"
+  },
+  "meta": {
+    "description": "Saksoft Global Group, one of India's leading organizations, is hiring a Senior Software Engineer for our Thane operations. We offer a competitive salary package",
+    "keywords": "Senior Software Engineer, Saksoft Global Group, jobs in Thane, Maharashtra jobs, technology jobs India, SQL, Java, Python, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:56:18.702Z",
+  "page": 479
+}

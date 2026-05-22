@@ -1,0 +1,93 @@
+{
+  "slug": "saksoft-global-group-backend-developer-bhopal-2026-05-22-3",
+  "title": "Backend Developer Vacancy at Saksoft Global Group - 2026 Batch",
+  "company": "Saksoft Global Group",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Microservices",
+    "Machine Learning",
+    "Agile/Scrum",
+    "Go",
+    "Java",
+    "TensorFlow",
+    "AWS",
+    "React"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Saksoft Global Group - 2026 Batch",
+    "description": "Saksoft Global Group, one of India's leading organizations, is hiring a Backend Developer for our Bhopal operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Saksoft Global Group:\nSaksoft Global Group is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Contribute to system architecture and technical design decisions\n• Integrate third-party APIs and services\n• Write and execute unit tests and integration tests\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Optimize application performance and ensure high availability\n• Implement new features based on product requirements\n• Troubleshoot, debug, and resolve software defects and performance issues\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 6-10 years of relevant experience\n• Proficiency in Microservices\n• Proficiency in Machine Learning\n• Proficiency in Agile/Scrum\n• Proficiency in Go\n• Proficiency in Java\n• Proficiency in TensorFlow\n• Proficiency in AWS\n• Proficiency in React\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Maternity and paternity leave\n• Comprehensive health insurance for self and family\n• Learning & development budget\n• Modern office with recreational facilities\n• Annual performance appraisal\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Bhopal, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Saksoft Global Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Saksoft Global Group",
+      "value": "1917-3-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Saksoft Global Group",
+      "sameAs": "https://www.google.com/search?q=Saksoft%20Global%20Group",
+      "logo": "https://logo.clearbit.com/saksoftglobalgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Saksoft Global Group Office",
+        "addressLocality": "Bhopal",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "Microservices, Machine Learning, Agile/Scrum, Go, Java, TensorFlow, AWS, React",
+    "responsibilities": "Contribute to system architecture and technical design decisions. Integrate third-party APIs and services. Write and execute unit tests and integration tests. Work with agile methodologies including daily stand-ups and sprint planning. Optimize application performance and ensure high availability. Implement new features based on product requirements. Troubleshoot, debug, and resolve software defects and performance issues",
+    "benefits": "Competitive salary with performance-linked incentives. Maternity and paternity leave. Comprehensive health insurance for self and family. Learning & development budget. Modern office with recreational facilities. Annual performance appraisal",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Maternity and paternity leave, Comprehensive health insurance for self and family, Learning & development budget, Modern office with recreational facilities, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "Saksoft Global Group, one of India's leading organizations, is hiring a Backend Developer for our Bhopal operations. We offer a competitive salary package along",
+    "keywords": "Backend Developer, Saksoft Global Group, jobs in Bhopal, Madhya Pradesh jobs, technology jobs India, Microservices, Machine Learning, Agile/Scrum, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:56:18.702Z",
+  "page": 479
+}

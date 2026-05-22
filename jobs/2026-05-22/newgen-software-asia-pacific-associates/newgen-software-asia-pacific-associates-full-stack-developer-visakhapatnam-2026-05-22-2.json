@@ -1,0 +1,93 @@
+{
+  "slug": "newgen-software-asia-pacific-associates-full-stack-developer-visakhapatnam-2026-05-22-2",
+  "title": "Newgen Software Asia Pacific Associates is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "Newgen Software Asia Pacific Associates",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "JavaScript",
+    "Node.js",
+    "SQL",
+    "Machine Learning",
+    "Java",
+    "REST APIs",
+    "Rust",
+    "Python"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Newgen Software Asia Pacific Associates is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "Newgen Software Asia Pacific Associates, one of India's leading organizations, is hiring a Full Stack Developer for our Visakhapatnam operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Newgen Software Asia Pacific Associates:\nNewgen Software Asia Pacific Associates is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Optimize application performance and ensure high availability\n• Design, develop and maintain scalable software applications\n• Participate in on-call rotation for production support\n• Write and execute unit tests and integration tests\n• Implement new features based on product requirements\n• Contribute to system architecture and technical design decisions\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 3-6 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Node.js\n• Proficiency in SQL\n• Proficiency in Machine Learning\n• Proficiency in Java\n• Proficiency in REST APIs\n• Proficiency in Rust\n• Proficiency in Python\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Professional development and training programs\n• International travel opportunities for senior roles\n• Annual performance appraisal\n• Referral bonus program\n• Work-from-home flexibility\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Visakhapatnam, Andhra Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Newgen Software Asia Pacific Associates!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Newgen Software Asia Pacific Associates",
+      "value": "1919-2-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Newgen Software Asia Pacific Associates",
+      "sameAs": "https://www.google.com/search?q=Newgen%20Software%20Asia%20Pacific%20Associates",
+      "logo": "https://logo.clearbit.com/newgensoftwareasiapacificassociates.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Newgen Software Asia Pacific Associates Office",
+        "addressLocality": "Visakhapatnam",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "JavaScript, Node.js, SQL, Machine Learning, Java, REST APIs, Rust, Python",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Optimize application performance and ensure high availability. Design, develop and maintain scalable software applications. Participate in on-call rotation for production support. Write and execute unit tests and integration tests. Implement new features based on product requirements. Contribute to system architecture and technical design decisions",
+    "benefits": "Transportation and conveyance allowance. Professional development and training programs. International travel opportunities for senior roles. Annual performance appraisal. Referral bonus program. Work-from-home flexibility",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Professional development and training programs, International travel opportunities for senior roles, Annual performance appraisal, Referral bonus program, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "Newgen Software Asia Pacific Associates, one of India's leading organizations, is hiring a Full Stack Developer for our Visakhapatnam operations. We offer a com",
+    "keywords": "Full Stack Developer, Newgen Software Asia Pacific Associates, jobs in Visakhapatnam, Andhra Pradesh jobs, technology jobs India, JavaScript, Node.js, SQL, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:56:18.702Z",
+  "page": 479
+}

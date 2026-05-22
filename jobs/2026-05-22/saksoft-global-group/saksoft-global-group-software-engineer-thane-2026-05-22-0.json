@@ -1,0 +1,93 @@
+{
+  "slug": "saksoft-global-group-software-engineer-thane-2026-05-22-0",
+  "title": "Immediate Requirement Software Engineer at Saksoft Global Group",
+  "company": "Saksoft Global Group",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Thane",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Python",
+    "Node.js",
+    "Docker",
+    "CI/CD",
+    "Machine Learning",
+    "Rust",
+    "MongoDB",
+    "JavaScript"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Immediate Requirement Software Engineer at Saksoft Global Group",
+    "description": "Saksoft Global Group, one of India's leading organizations, is hiring a Software Engineer for our Thane operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Saksoft Global Group:\nSaksoft Global Group is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in code reviews and contribute to technical discussions\n• Optimize application performance and ensure high availability\n• Participate in on-call rotation for production support\n• Collaborate with cross-functional teams including product, design, and QA\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Integrate third-party APIs and services\n• Implement new features based on product requirements\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 0-1 years of relevant experience\n• Proficiency in Python\n• Proficiency in Node.js\n• Proficiency in Docker\n• Proficiency in CI/CD\n• Proficiency in Machine Learning\n• Proficiency in Rust\n• Proficiency in MongoDB\n• Proficiency in JavaScript\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Work-from-home flexibility\n• Employee stock options (ESOPs) for eligible roles\n• Annual performance appraisal\n• Meal coupons and food allowance\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Thane, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Saksoft Global Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Saksoft Global Group",
+      "value": "1917-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Saksoft Global Group",
+      "sameAs": "https://www.google.com/search?q=Saksoft%20Global%20Group",
+      "logo": "https://logo.clearbit.com/saksoftglobalgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Saksoft Global Group Office",
+        "addressLocality": "Thane",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Python, Node.js, Docker, CI/CD, Machine Learning, Rust, MongoDB, JavaScript",
+    "responsibilities": "Participate in code reviews and contribute to technical discussions. Optimize application performance and ensure high availability. Participate in on-call rotation for production support. Collaborate with cross-functional teams including product, design, and QA. Work with agile methodologies including daily stand-ups and sprint planning. Integrate third-party APIs and services. Implement new features based on product requirements",
+    "benefits": "Transportation and conveyance allowance. Work-from-home flexibility. Employee stock options (ESOPs) for eligible roles. Annual performance appraisal. Meal coupons and food allowance. Provident Fund and Gratuity as per company policy",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Work-from-home flexibility, Employee stock options (ESOPs) for eligible roles, Annual performance appraisal, Meal coupons and food allowance, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "Saksoft Global Group, one of India's leading organizations, is hiring a Software Engineer for our Thane operations. We offer a competitive salary package along ",
+    "keywords": "Software Engineer, Saksoft Global Group, jobs in Thane, Maharashtra jobs, technology jobs India, Python, Node.js, Docker, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:56:18.702Z",
+  "page": 479
+}
