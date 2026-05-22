@@ -1,0 +1,93 @@
+{
+  "slug": "niit-technologies-senior-software-engineer-dhanbad-2026-05-22-1",
+  "title": "Senior Software Engineer - NIIT Technologies - Freshers Welcome",
+  "company": "NIIT Technologies",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Dhanbad",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "SQL",
+    "JavaScript",
+    "Go",
+    "Rust",
+    "Python",
+    "Java",
+    "CI/CD",
+    "Kubernetes"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - NIIT Technologies - Freshers Welcome",
+    "description": "Are you a skilled Senior Software Engineer looking for your next big career move? NIIT Technologies in Dhanbad offers you the perfect platform to grow professionally and personally.\n\nAbout NIIT Technologies:\nNIIT Technologies is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure code security and follow best practices for data protection\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Write and execute unit tests and integration tests\n• Optimize application performance and ensure high availability\n• Integrate third-party APIs and services\n• Contribute to system architecture and technical design decisions\n• Mentor junior developers and conduct knowledge-sharing sessions\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 0-1 years of relevant experience\n• Proficiency in SQL\n• Proficiency in JavaScript\n• Proficiency in Go\n• Proficiency in Rust\n• Proficiency in Python\n• Proficiency in Java\n• Proficiency in CI/CD\n• Proficiency in Kubernetes\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Flexible working hours\n• Annual paid leaves and casual leaves\n• Modern office with recreational facilities\n• Learning & development budget\n• Transportation and conveyance allowance\n• Maternity and paternity leave\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Dhanbad, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with NIIT Technologies!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "NIIT Technologies",
+      "value": "30-1-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "NIIT Technologies",
+      "sameAs": "https://www.google.com/search?q=NIIT%20Technologies",
+      "logo": "https://logo.clearbit.com/niittechnologies.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "NIIT Technologies Office",
+        "addressLocality": "Dhanbad",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "SQL, JavaScript, Go, Rust, Python, Java, CI/CD, Kubernetes",
+    "responsibilities": "Ensure code security and follow best practices for data protection. Work with agile methodologies including daily stand-ups and sprint planning. Write and execute unit tests and integration tests. Optimize application performance and ensure high availability. Integrate third-party APIs and services. Contribute to system architecture and technical design decisions. Mentor junior developers and conduct knowledge-sharing sessions",
+    "benefits": "Flexible working hours. Annual paid leaves and casual leaves. Modern office with recreational facilities. Learning & development budget. Transportation and conveyance allowance. Maternity and paternity leave",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, Annual paid leaves and casual leaves, Modern office with recreational facilities, Learning & development budget, Transportation and conveyance allowance, Maternity and paternity leave"
+  },
+  "meta": {
+    "description": "Are you a skilled Senior Software Engineer looking for your next big career move? NIIT Technologies in Dhanbad offers you the perfect platform to grow professio",
+    "keywords": "Senior Software Engineer, NIIT Technologies, jobs in Dhanbad, Jharkhand jobs, technology jobs India, SQL, JavaScript, Go, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:32:29.747Z",
+  "page": 7
+}

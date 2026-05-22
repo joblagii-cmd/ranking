@@ -1,0 +1,93 @@
+{
+  "slug": "mindtree-full-stack-developer-dhanbad-2026-05-22-2",
+  "title": "Mindtree is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "Mindtree",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Dhanbad",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Docker",
+    "JavaScript",
+    "TensorFlow",
+    "SQL",
+    "TypeScript",
+    "Kubernetes",
+    "Python",
+    "React"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mindtree is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "Are you a skilled Full Stack Developer looking for your next big career move? Mindtree in Dhanbad offers you the perfect platform to grow professionally and personally.\n\nAbout Mindtree:\nMindtree is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Implement new features based on product requirements\n• Write clean, maintainable, and well-documented code\n• Collaborate with cross-functional teams including product, design, and QA\n• Write and execute unit tests and integration tests\n• Ensure code security and follow best practices for data protection\n• Integrate third-party APIs and services\n• Design, develop and maintain scalable software applications\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 0-1 years of relevant experience\n• Proficiency in Docker\n• Proficiency in JavaScript\n• Proficiency in TensorFlow\n• Proficiency in SQL\n• Proficiency in TypeScript\n• Proficiency in Kubernetes\n• Proficiency in Python\n• Proficiency in React\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Learning & development budget\n• Work-from-home flexibility\n• Recognition and rewards programs\n• Company-sponsored certifications\n• Meal coupons and food allowance\n• Mobile and internet reimbursement\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Dhanbad, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Mindtree!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Mindtree",
+      "value": "29-2-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Mindtree",
+      "sameAs": "https://www.google.com/search?q=Mindtree",
+      "logo": "https://logo.clearbit.com/mindtree.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Mindtree Office",
+        "addressLocality": "Dhanbad",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "Docker, JavaScript, TensorFlow, SQL, TypeScript, Kubernetes, Python, React",
+    "responsibilities": "Implement new features based on product requirements. Write clean, maintainable, and well-documented code. Collaborate with cross-functional teams including product, design, and QA. Write and execute unit tests and integration tests. Ensure code security and follow best practices for data protection. Integrate third-party APIs and services. Design, develop and maintain scalable software applications",
+    "benefits": "Learning & development budget. Work-from-home flexibility. Recognition and rewards programs. Company-sponsored certifications. Meal coupons and food allowance. Mobile and internet reimbursement",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Learning & development budget, Work-from-home flexibility, Recognition and rewards programs, Company-sponsored certifications, Meal coupons and food allowance, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "Are you a skilled Full Stack Developer looking for your next big career move? Mindtree in Dhanbad offers you the perfect platform to grow professionally and per",
+    "keywords": "Full Stack Developer, Mindtree, jobs in Dhanbad, Jharkhand jobs, technology jobs India, Docker, JavaScript, TensorFlow, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:32:29.746Z",
+  "page": 7
+}

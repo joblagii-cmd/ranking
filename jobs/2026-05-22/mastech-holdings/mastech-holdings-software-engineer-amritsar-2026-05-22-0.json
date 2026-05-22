@@ -1,0 +1,93 @@
+{
+  "slug": "mastech-holdings-software-engineer-amritsar-2026-05-22-0",
+  "title": "Walk-in Drive Software Engineer at Mastech Holdings",
+  "company": "Mastech Holdings",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Amritsar",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Java",
+    "AWS",
+    "Microservices",
+    "Agile/Scrum",
+    "Machine Learning",
+    "REST APIs",
+    "SQL",
+    "Kubernetes"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Walk-in Drive Software Engineer at Mastech Holdings",
+    "description": "Are you a skilled Software Engineer looking for your next big career move? Mastech Holdings in Amritsar offers you the perfect platform to grow professionally and personally.\n\nAbout Mastech Holdings:\nMastech Holdings is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Participate in on-call rotation for production support\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Write and execute unit tests and integration tests\n• Design, develop and maintain scalable software applications\n• Write clean, maintainable, and well-documented code\n• Participate in code reviews and contribute to technical discussions\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 12-20 years of relevant experience\n• Proficiency in Java\n• Proficiency in AWS\n• Proficiency in Microservices\n• Proficiency in Agile/Scrum\n• Proficiency in Machine Learning\n• Proficiency in REST APIs\n• Proficiency in SQL\n• Proficiency in Kubernetes\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Flexible working hours\n• Annual paid leaves and casual leaves\n• International travel opportunities for senior roles\n• Company-sponsored certifications\n• Meal coupons and food allowance\n• Annual performance appraisal\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Amritsar, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Mastech Holdings!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Mastech Holdings",
+      "value": "32-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Mastech Holdings",
+      "sameAs": "https://www.google.com/search?q=Mastech%20Holdings",
+      "logo": "https://logo.clearbit.com/mastechholdings.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Mastech Holdings Office",
+        "addressLocality": "Amritsar",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "Java, AWS, Microservices, Agile/Scrum, Machine Learning, REST APIs, SQL, Kubernetes",
+    "responsibilities": "Troubleshoot, debug, and resolve software defects and performance issues. Participate in on-call rotation for production support. Work with agile methodologies including daily stand-ups and sprint planning. Write and execute unit tests and integration tests. Design, develop and maintain scalable software applications. Write clean, maintainable, and well-documented code. Participate in code reviews and contribute to technical discussions",
+    "benefits": "Flexible working hours. Annual paid leaves and casual leaves. International travel opportunities for senior roles. Company-sponsored certifications. Meal coupons and food allowance. Annual performance appraisal",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, Annual paid leaves and casual leaves, International travel opportunities for senior roles, Company-sponsored certifications, Meal coupons and food allowance, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "Are you a skilled Software Engineer looking for your next big career move? Mastech Holdings in Amritsar offers you the perfect platform to grow professionally a",
+    "keywords": "Software Engineer, Mastech Holdings, jobs in Amritsar, Punjab jobs, technology jobs India, Java, AWS, Microservices, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:32:29.748Z",
+  "page": 7
+}

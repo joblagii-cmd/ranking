@@ -1,0 +1,94 @@
+{
+  "slug": "mindtree-software-engineer-aurangabad-2026-05-22-0",
+  "title": "Walk-in Drive Software Engineer at Mindtree",
+  "company": "Mindtree",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Aurangabad",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Docker",
+    "Agile/Scrum",
+    "REST APIs",
+    "AWS",
+    "Go",
+    "SQL",
+    "Python",
+    "Kubernetes"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Walk-in Drive Software Engineer at Mindtree",
+    "description": "Are you a skilled Software Engineer looking for your next big career move? Mindtree in Aurangabad offers you the perfect platform to grow professionally and personally.\n\nAbout Mindtree:\nMindtree is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Write and execute unit tests and integration tests\n• Implement new features based on product requirements\n• Contribute to system architecture and technical design decisions\n• Participate in code reviews and contribute to technical discussions\n• Design, develop and maintain scalable software applications\n• Troubleshoot, debug, and resolve software defects and performance issues\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 3-6 years of relevant experience\n• Proficiency in Docker\n• Proficiency in Agile/Scrum\n• Proficiency in REST APIs\n• Proficiency in AWS\n• Proficiency in Go\n• Proficiency in SQL\n• Proficiency in Python\n• Proficiency in Kubernetes\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Modern office with recreational facilities\n• Annual paid leaves and casual leaves\n• Life and accident insurance\n• Maternity and paternity leave\n• Referral bonus program\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Aurangabad, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Mindtree!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Mindtree",
+      "value": "29-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Mindtree",
+      "sameAs": "https://www.google.com/search?q=Mindtree",
+      "logo": "https://logo.clearbit.com/mindtree.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Mindtree Office",
+        "addressLocality": "Aurangabad",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "Docker, Agile/Scrum, REST APIs, AWS, Go, SQL, Python, Kubernetes",
+    "responsibilities": "Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Write and execute unit tests and integration tests. Implement new features based on product requirements. Contribute to system architecture and technical design decisions. Participate in code reviews and contribute to technical discussions. Design, develop and maintain scalable software applications. Troubleshoot, debug, and resolve software defects and performance issues",
+    "benefits": "Provident Fund and Gratuity as per company policy. Modern office with recreational facilities. Annual paid leaves and casual leaves. Life and accident insurance. Maternity and paternity leave. Referral bonus program",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Modern office with recreational facilities, Annual paid leaves and casual leaves, Life and accident insurance, Maternity and paternity leave, Referral bonus program"
+  },
+  "meta": {
+    "description": "Are you a skilled Software Engineer looking for your next big career move? Mindtree in Aurangabad offers you the perfect platform to grow professionally and per",
+    "keywords": "Software Engineer, Mindtree, jobs in Aurangabad, Maharashtra jobs, technology jobs India, Docker, Agile/Scrum, REST APIs, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:32:29.746Z",
+  "page": 7
+}
