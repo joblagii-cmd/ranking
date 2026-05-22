@@ -1,0 +1,93 @@
+{
+  "slug": "jamboree-education-teacher-tiruchirappalli-2026-05-22-0",
+  "title": "Job Opening Teacher at Jamboree Education",
+  "company": "Jamboree Education",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Student Assessment",
+    "Lesson Planning",
+    "Pedagogy",
+    "Child Psychology",
+    "MS Office",
+    "IB Curriculum",
+    "Content Creation",
+    "Data Analysis"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Job Opening Teacher at Jamboree Education",
+    "description": "Join the Jamboree Education family as a Teacher in Tiruchirappalli. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Jamboree Education:\nJamboree Education is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Develop and deliver engaging lesson plans for students\n• Maintain student records and prepare progress reports\n• Conduct doubt-clearing sessions and remedial classes for weak students\n• Participate in school events, workshops, and training programs\n• Design formative and summative assessments aligned to learning objectives\n• Collaborate with faculty on curriculum development initiatives\n• Contribute to school newsletter, blogs, and other publications\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 10-15 years of relevant experience\n• Proficiency in Student Assessment\n• Proficiency in Lesson Planning\n• Proficiency in Pedagogy\n• Proficiency in Child Psychology\n• Proficiency in MS Office\n• Proficiency in IB Curriculum\n• Proficiency in Content Creation\n• Proficiency in Data Analysis\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Maternity and paternity leave\n• Life and accident insurance\n• Company-sponsored certifications\n• Modern office with recreational facilities\n• Comprehensive health insurance for self and family\n• Annual paid leaves and casual leaves\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Tiruchirappalli, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Jamboree Education!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Jamboree Education",
+      "value": "559-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Jamboree Education",
+      "sameAs": "https://www.google.com/search?q=Jamboree%20Education",
+      "logo": "https://logo.clearbit.com/jamboreeeducation.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Jamboree Education Office",
+        "addressLocality": "Tiruchirappalli",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Student Assessment, Lesson Planning, Pedagogy, Child Psychology, MS Office, IB Curriculum, Content Creation, Data Analysis",
+    "responsibilities": "Develop and deliver engaging lesson plans for students. Maintain student records and prepare progress reports. Conduct doubt-clearing sessions and remedial classes for weak students. Participate in school events, workshops, and training programs. Design formative and summative assessments aligned to learning objectives. Collaborate with faculty on curriculum development initiatives. Contribute to school newsletter, blogs, and other publications",
+    "benefits": "Maternity and paternity leave. Life and accident insurance. Company-sponsored certifications. Modern office with recreational facilities. Comprehensive health insurance for self and family. Annual paid leaves and casual leaves",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Maternity and paternity leave, Life and accident insurance, Company-sponsored certifications, Modern office with recreational facilities, Comprehensive health insurance for self and family, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "Join the Jamboree Education family as a Teacher in Tiruchirappalli. We believe in empowering our employees with the tools, training, and environment they need t",
+    "keywords": "Teacher, Jamboree Education, jobs in Tiruchirappalli, Tamil Nadu jobs, education jobs India, Student Assessment, Lesson Planning, Pedagogy, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:49:18.089Z",
+  "page": 139
+}
