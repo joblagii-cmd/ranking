@@ -1,0 +1,93 @@
+{
+  "slug": "docplexus-senior-software-engineer-navi mumbai-2026-05-22-1",
+  "title": "Senior Software Engineer - Docplexus - Top MNC",
+  "company": "Docplexus",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Microservices",
+    "Machine Learning",
+    "Kubernetes",
+    "MongoDB",
+    "Docker",
+    "JavaScript",
+    "Java",
+    "Agile/Scrum"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Docplexus - Top MNC",
+    "description": "Docplexus invites applications from qualified candidates for the position of Senior Software Engineer at our Navi Mumbai location. This role offers excellent career advancement prospects.\n\nAbout Docplexus:\nDocplexus is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Write and execute unit tests and integration tests\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Optimize application performance and ensure high availability\n• Participate in code reviews and contribute to technical discussions\n• Implement new features based on product requirements\n• Write clean, maintainable, and well-documented code\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 12-20 years of relevant experience\n• Proficiency in Microservices\n• Proficiency in Machine Learning\n• Proficiency in Kubernetes\n• Proficiency in MongoDB\n• Proficiency in Docker\n• Proficiency in JavaScript\n• Proficiency in Java\n• Proficiency in Agile/Scrum\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Maternity and paternity leave\n• Modern office with recreational facilities\n• Life and accident insurance\n• Company-sponsored certifications\n• Annual performance appraisal\n• Work-from-home flexibility\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Navi Mumbai, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Docplexus!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Docplexus",
+      "value": "116-1-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Docplexus",
+      "sameAs": "https://www.google.com/search?q=Docplexus",
+      "logo": "https://logo.clearbit.com/docplexus.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Docplexus Office",
+        "addressLocality": "Navi Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "Microservices, Machine Learning, Kubernetes, MongoDB, Docker, JavaScript, Java, Agile/Scrum",
+    "responsibilities": "Work with agile methodologies including daily stand-ups and sprint planning. Write and execute unit tests and integration tests. Mentor junior developers and conduct knowledge-sharing sessions. Optimize application performance and ensure high availability. Participate in code reviews and contribute to technical discussions. Implement new features based on product requirements. Write clean, maintainable, and well-documented code",
+    "benefits": "Maternity and paternity leave. Modern office with recreational facilities. Life and accident insurance. Company-sponsored certifications. Annual performance appraisal. Work-from-home flexibility",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Maternity and paternity leave, Modern office with recreational facilities, Life and accident insurance, Company-sponsored certifications, Annual performance appraisal, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "Docplexus invites applications from qualified candidates for the position of Senior Software Engineer at our Navi Mumbai location. This role offers excellent ca",
+    "keywords": "Senior Software Engineer, Docplexus, jobs in Navi Mumbai, Maharashtra jobs, technology jobs India, Microservices, Machine Learning, Kubernetes, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:35:13.541Z",
+  "page": 28
+}
