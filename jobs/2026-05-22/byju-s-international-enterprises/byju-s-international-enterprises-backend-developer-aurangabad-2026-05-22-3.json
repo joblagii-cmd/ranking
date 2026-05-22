@@ -1,0 +1,93 @@
+{
+  "slug": "byju-s-international-enterprises-backend-developer-aurangabad-2026-05-22-3",
+  "title": "Backend Developer Vacancy at Byju's International Enterprises - 2026 Batch",
+  "company": "Byju's International Enterprises",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Aurangabad",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Docker",
+    "SQL",
+    "CI/CD",
+    "Machine Learning",
+    "Agile/Scrum",
+    "Java",
+    "Git",
+    "TensorFlow"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Byju's International Enterprises - 2026 Batch",
+    "description": "We at Byju's International Enterprises are looking for an experienced Backend Developer based out of Aurangabad. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout Byju's International Enterprises:\nByju's International Enterprises is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Implement new features based on product requirements\n• Participate in on-call rotation for production support\n• Contribute to system architecture and technical design decisions\n• Ensure code security and follow best practices for data protection\n• Design, develop and maintain scalable software applications\n• Write clean, maintainable, and well-documented code\n• Integrate third-party APIs and services\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 10-15 years of relevant experience\n• Proficiency in Docker\n• Proficiency in SQL\n• Proficiency in CI/CD\n• Proficiency in Machine Learning\n• Proficiency in Agile/Scrum\n• Proficiency in Java\n• Proficiency in Git\n• Proficiency in TensorFlow\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Professional development and training programs\n• Competitive salary with performance-linked incentives\n• Maternity and paternity leave\n• Flexible working hours\n• Transportation and conveyance allowance\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Aurangabad, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Byju's International Enterprises!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Byju's International Enterprises",
+      "value": "1858-3-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Byju's International Enterprises",
+      "sameAs": "https://www.google.com/search?q=Byju's%20International%20Enterprises",
+      "logo": "https://logo.clearbit.com/byjusinternationalenterprises.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Byju's International Enterprises Office",
+        "addressLocality": "Aurangabad",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "Docker, SQL, CI/CD, Machine Learning, Agile/Scrum, Java, Git, TensorFlow",
+    "responsibilities": "Implement new features based on product requirements. Participate in on-call rotation for production support. Contribute to system architecture and technical design decisions. Ensure code security and follow best practices for data protection. Design, develop and maintain scalable software applications. Write clean, maintainable, and well-documented code. Integrate third-party APIs and services",
+    "benefits": "Annual paid leaves and casual leaves. Professional development and training programs. Competitive salary with performance-linked incentives. Maternity and paternity leave. Flexible working hours. Transportation and conveyance allowance",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Professional development and training programs, Competitive salary with performance-linked incentives, Maternity and paternity leave, Flexible working hours, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "We at Byju's International Enterprises are looking for an experienced Backend Developer based out of Aurangabad. If you are a result-oriented professional with ",
+    "keywords": "Backend Developer, Byju's International Enterprises, jobs in Aurangabad, Maharashtra jobs, technology jobs India, Docker, SQL, CI/CD, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:54:13.570Z",
+  "page": 464
+}

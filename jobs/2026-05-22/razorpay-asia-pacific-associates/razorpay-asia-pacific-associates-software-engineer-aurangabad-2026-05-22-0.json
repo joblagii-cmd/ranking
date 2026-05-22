@@ -1,0 +1,93 @@
+{
+  "slug": "razorpay-asia-pacific-associates-software-engineer-aurangabad-2026-05-22-0",
+  "title": "Urgent Opening Software Engineer at Razorpay Asia Pacific Associates",
+  "company": "Razorpay Asia Pacific Associates",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Aurangabad",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Python",
+    "JavaScript",
+    "Rust",
+    "MongoDB",
+    "Kubernetes",
+    "Docker",
+    "CI/CD",
+    "Node.js"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Urgent Opening Software Engineer at Razorpay Asia Pacific Associates",
+    "description": "We at Razorpay Asia Pacific Associates are looking for an experienced Software Engineer based out of Aurangabad. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout Razorpay Asia Pacific Associates:\nRazorpay Asia Pacific Associates is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure code security and follow best practices for data protection\n• Write and execute unit tests and integration tests\n• Collaborate with cross-functional teams including product, design, and QA\n• Design, develop and maintain scalable software applications\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Implement new features based on product requirements\n• Write clean, maintainable, and well-documented code\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 0-1 years of relevant experience\n• Proficiency in Python\n• Proficiency in JavaScript\n• Proficiency in Rust\n• Proficiency in MongoDB\n• Proficiency in Kubernetes\n• Proficiency in Docker\n• Proficiency in CI/CD\n• Proficiency in Node.js\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Referral bonus program\n• Learning & development budget\n• Employee stock options (ESOPs) for eligible roles\n• Mobile and internet reimbursement\n• Life and accident insurance\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Aurangabad, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Razorpay Asia Pacific Associates!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Razorpay Asia Pacific Associates",
+      "value": "1859-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Razorpay Asia Pacific Associates",
+      "sameAs": "https://www.google.com/search?q=Razorpay%20Asia%20Pacific%20Associates",
+      "logo": "https://logo.clearbit.com/razorpayasiapacificassociates.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Razorpay Asia Pacific Associates Office",
+        "addressLocality": "Aurangabad",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "Python, JavaScript, Rust, MongoDB, Kubernetes, Docker, CI/CD, Node.js",
+    "responsibilities": "Ensure code security and follow best practices for data protection. Write and execute unit tests and integration tests. Collaborate with cross-functional teams including product, design, and QA. Design, develop and maintain scalable software applications. Work with agile methodologies including daily stand-ups and sprint planning. Implement new features based on product requirements. Write clean, maintainable, and well-documented code",
+    "benefits": "International travel opportunities for senior roles. Referral bonus program. Learning & development budget. Employee stock options (ESOPs) for eligible roles. Mobile and internet reimbursement. Life and accident insurance",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Referral bonus program, Learning & development budget, Employee stock options (ESOPs) for eligible roles, Mobile and internet reimbursement, Life and accident insurance"
+  },
+  "meta": {
+    "description": "We at Razorpay Asia Pacific Associates are looking for an experienced Software Engineer based out of Aurangabad. If you are a result-oriented professional with ",
+    "keywords": "Software Engineer, Razorpay Asia Pacific Associates, jobs in Aurangabad, Maharashtra jobs, technology jobs India, Python, JavaScript, Rust, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:54:13.570Z",
+  "page": 464
+}
