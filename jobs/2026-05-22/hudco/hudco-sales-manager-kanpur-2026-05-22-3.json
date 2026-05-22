@@ -1,0 +1,93 @@
+{
+  "slug": "hudco-sales-manager-kanpur-2026-05-22-3",
+  "title": "Sales Manager Vacancy at HUDCO - 2026 Batch",
+  "company": "HUDCO",
+  "industry": "realestate",
+  "role": "Sales Manager",
+  "location": {
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "GIS Tools",
+    "Property Management",
+    "Lease Administration",
+    "Contract Management",
+    "Property Valuation",
+    "MS Office",
+    "Negotiation Skills",
+    "AutoCAD"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Sales Manager Vacancy at HUDCO - 2026 Batch",
+    "description": "HUDCO, one of India's leading organizations, is hiring a Sales Manager for our Kanpur operations. We offer a competitive salary package along with world-class benefits.\n\nAbout HUDCO:\nHUDCO is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Conduct market research and provide competitive analysis\n• Conduct land acquisition due diligence and feasibility studies\n• Build relationships with channel partners and brokers\n• Provide advisory services on property investment and market trends\n• Conduct site visits and property presentations for clients\n• Prepare presentations and proposals for institutional clients\n• Coordinate with architects, contractors, and project teams\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 0-1 years of relevant experience\n• Proficiency in GIS Tools\n• Proficiency in Property Management\n• Proficiency in Lease Administration\n• Proficiency in Contract Management\n• Proficiency in Property Valuation\n• Proficiency in MS Office\n• Proficiency in Negotiation Skills\n• Proficiency in AutoCAD\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Annual performance appraisal\n• Professional development and training programs\n• Modern office with recreational facilities\n• Mobile and internet reimbursement\n• Work-from-home flexibility\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Kanpur, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with HUDCO!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "HUDCO",
+      "value": "745-3-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "HUDCO",
+      "sameAs": "https://www.google.com/search?q=HUDCO",
+      "logo": "https://logo.clearbit.com/hudco.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "HUDCO Office",
+        "addressLocality": "Kanpur",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "GIS Tools, Property Management, Lease Administration, Contract Management, Property Valuation, MS Office, Negotiation Skills, AutoCAD",
+    "responsibilities": "Conduct market research and provide competitive analysis. Conduct land acquisition due diligence and feasibility studies. Build relationships with channel partners and brokers. Provide advisory services on property investment and market trends. Conduct site visits and property presentations for clients. Prepare presentations and proposals for institutional clients. Coordinate with architects, contractors, and project teams",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Annual performance appraisal. Professional development and training programs. Modern office with recreational facilities. Mobile and internet reimbursement. Work-from-home flexibility",
+    "industry": "realestate",
+    "occupationalCategory": "Sales Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Annual performance appraisal, Professional development and training programs, Modern office with recreational facilities, Mobile and internet reimbursement, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "HUDCO, one of India's leading organizations, is hiring a Sales Manager for our Kanpur operations. We offer a competitive salary package along with world-class b",
+    "keywords": "Sales Manager, HUDCO, jobs in Kanpur, Uttar Pradesh jobs, realestate jobs India, GIS Tools, Property Management, Lease Administration, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:55:10.897Z",
+  "page": 186
+}
