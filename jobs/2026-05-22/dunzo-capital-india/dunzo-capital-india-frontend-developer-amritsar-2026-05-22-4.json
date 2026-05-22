@@ -1,0 +1,94 @@
+{
+  "slug": "dunzo-capital-india-frontend-developer-amritsar-2026-05-22-4",
+  "title": "Senior Frontend Developer at Dunzo Capital India",
+  "company": "Dunzo Capital India",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Amritsar",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Java",
+    "Python",
+    "React",
+    "Docker",
+    "TypeScript",
+    "Agile/Scrum",
+    "JavaScript",
+    "Go"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Frontend Developer at Dunzo Capital India",
+    "description": "An exciting career opportunity awaits you at Dunzo Capital India. We are on the lookout for a dedicated Frontend Developer to strengthen our Amritsar-based team.\n\nAbout Dunzo Capital India:\nDunzo Capital India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Optimize application performance and ensure high availability\n• Ensure code security and follow best practices for data protection\n• Write and execute unit tests and integration tests\n• Integrate third-party APIs and services\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Participate in on-call rotation for production support\n• Collaborate with cross-functional teams including product, design, and QA\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 6-10 years of relevant experience\n• Proficiency in Java\n• Proficiency in Python\n• Proficiency in React\n• Proficiency in Docker\n• Proficiency in TypeScript\n• Proficiency in Agile/Scrum\n• Proficiency in JavaScript\n• Proficiency in Go\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Company-sponsored certifications\n• Mobile and internet reimbursement\n• Recognition and rewards programs\n• International travel opportunities for senior roles\n• Maternity and paternity leave\n• Flexible working hours\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Amritsar, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Dunzo Capital India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Dunzo Capital India",
+      "value": "1943-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Dunzo Capital India",
+      "sameAs": "https://www.google.com/search?q=Dunzo%20Capital%20India",
+      "logo": "https://logo.clearbit.com/dunzocapitalindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Dunzo Capital India Office",
+        "addressLocality": "Amritsar",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "Java, Python, React, Docker, TypeScript, Agile/Scrum, JavaScript, Go",
+    "responsibilities": "Optimize application performance and ensure high availability. Ensure code security and follow best practices for data protection. Write and execute unit tests and integration tests. Integrate third-party APIs and services. Troubleshoot, debug, and resolve software defects and performance issues. Participate in on-call rotation for production support. Collaborate with cross-functional teams including product, design, and QA",
+    "benefits": "Company-sponsored certifications. Mobile and internet reimbursement. Recognition and rewards programs. International travel opportunities for senior roles. Maternity and paternity leave. Flexible working hours",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Company-sponsored certifications, Mobile and internet reimbursement, Recognition and rewards programs, International travel opportunities for senior roles, Maternity and paternity leave, Flexible working hours"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Dunzo Capital India. We are on the lookout for a dedicated Frontend Developer to strengthen our Amritsar-based team",
+    "keywords": "Frontend Developer, Dunzo Capital India, jobs in Amritsar, Punjab jobs, technology jobs India, Java, Python, React, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:57:08.479Z",
+  "page": 485
+}
