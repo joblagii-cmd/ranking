@@ -100,6 +100,6 @@ ${urls.join("\n")}
 </urlset>`;
 
   res.setHeader("Content-Type", "application/xml");
-  res.setHeader("Cache-Control", "s-maxage=3600");
+  res.setHeader("Cache-Control", "no-store");
   return res.status(200).send(xml);
 }
