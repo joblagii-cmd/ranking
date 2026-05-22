@@ -1,0 +1,93 @@
+{
+  "slug": "aiims-delhi-radiologist-jodhpur-2026-05-22-4",
+  "title": "Entry-Level Radiologist at AIIMS Delhi",
+  "company": "AIIMS Delhi",
+  "industry": "healthcare",
+  "role": "Radiologist",
+  "location": {
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Medical Terminology",
+    "Diagnostic Skills",
+    "Wound Care",
+    "Medical Ethics",
+    "ICD-10",
+    "EMR/EHR",
+    "Surgical Procedures",
+    "Clinical Documentation"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Entry-Level Radiologist at AIIMS Delhi",
+    "description": "An exciting career opportunity awaits you at AIIMS Delhi. We are on the lookout for a dedicated Radiologist to strengthen our Jodhpur-based team.\n\nAbout AIIMS Delhi:\nAIIMS Delhi is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Provide high-quality patient care and maintain patient records\n• Ensure patient privacy and maintain confidentiality\n• Diagnose and treat medical conditions following established protocols\n• Maintain sterile environments and follow infection control protocols\n• Educate patients and families on health management and disease prevention\n• Collaborate with pharmaceutical representatives and medical suppliers\n• Respond to medical emergencies and provide immediate care\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 12-20 years of relevant experience\n• Proficiency in Medical Terminology\n• Proficiency in Diagnostic Skills\n• Proficiency in Wound Care\n• Proficiency in Medical Ethics\n• Proficiency in ICD-10\n• Proficiency in EMR/EHR\n• Proficiency in Surgical Procedures\n• Proficiency in Clinical Documentation\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Modern office with recreational facilities\n• Life and accident insurance\n• Company-sponsored certifications\n• Annual paid leaves and casual leaves\n• Learning & development budget\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Jodhpur, Rajasthan, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with AIIMS Delhi!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "AIIMS Delhi",
+      "value": "294-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "AIIMS Delhi",
+      "sameAs": "https://www.google.com/search?q=AIIMS%20Delhi",
+      "logo": "https://logo.clearbit.com/aiimsdelhi.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "AIIMS Delhi Office",
+        "addressLocality": "Jodhpur",
+        "addressRegion": "Rajasthan",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "Medical Terminology, Diagnostic Skills, Wound Care, Medical Ethics, ICD-10, EMR/EHR, Surgical Procedures, Clinical Documentation",
+    "responsibilities": "Provide high-quality patient care and maintain patient records. Ensure patient privacy and maintain confidentiality. Diagnose and treat medical conditions following established protocols. Maintain sterile environments and follow infection control protocols. Educate patients and families on health management and disease prevention. Collaborate with pharmaceutical representatives and medical suppliers. Respond to medical emergencies and provide immediate care",
+    "benefits": "International travel opportunities for senior roles. Modern office with recreational facilities. Life and accident insurance. Company-sponsored certifications. Annual paid leaves and casual leaves. Learning & development budget",
+    "industry": "healthcare",
+    "occupationalCategory": "Radiologist",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Modern office with recreational facilities, Life and accident insurance, Company-sponsored certifications, Annual paid leaves and casual leaves, Learning & development budget"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at AIIMS Delhi. We are on the lookout for a dedicated Radiologist to strengthen our Jodhpur-based team.",
+    "keywords": "Radiologist, AIIMS Delhi, jobs in Jodhpur, Rajasthan jobs, healthcare jobs India, Medical Terminology, Diagnostic Skills, Wound Care, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:41:01.005Z",
+  "page": 73
+}

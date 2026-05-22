@@ -1,0 +1,94 @@
+{
+  "slug": "rml-hospital-medical-officer-vijayawada-2026-05-22-0",
+  "title": "Hiring Medical Officer at RML Hospital",
+  "company": "RML Hospital",
+  "industry": "healthcare",
+  "role": "Medical Officer",
+  "location": {
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Pharmacovigilance",
+    "Medical Coding",
+    "HIPAA Compliance",
+    "ICD-10",
+    "NABH Standards",
+    "Telemedicine",
+    "Medical Ethics",
+    "Wound Care"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Hiring Medical Officer at RML Hospital",
+    "description": "An exciting career opportunity awaits you at RML Hospital. We are on the lookout for a dedicated Medical Officer to strengthen our Vijayawada-based team.\n\nAbout RML Hospital:\nRML Hospital is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Administer medications and treatments as prescribed\n• Maintain accurate clinical documentation in electronic health records\n• Maintain sterile environments and follow infection control protocols\n• Ensure patient privacy and maintain confidentiality\n• Attend continuing medical education programs and training\n• Diagnose and treat medical conditions following established protocols\n• Monitor patient progress and adjust treatment plans accordingly\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 3-6 years of relevant experience\n• Proficiency in Pharmacovigilance\n• Proficiency in Medical Coding\n• Proficiency in HIPAA Compliance\n• Proficiency in ICD-10\n• Proficiency in NABH Standards\n• Proficiency in Telemedicine\n• Proficiency in Medical Ethics\n• Proficiency in Wound Care\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Work-from-home flexibility\n• Learning & development budget\n• Referral bonus program\n• Employee stock options (ESOPs) for eligible roles\n• Flexible working hours\n• Professional development and training programs\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Vijayawada, Andhra Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with RML Hospital!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "RML Hospital",
+      "value": "295-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "RML Hospital",
+      "sameAs": "https://www.google.com/search?q=RML%20Hospital",
+      "logo": "https://logo.clearbit.com/rmlhospital.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "RML Hospital Office",
+        "addressLocality": "Vijayawada",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "Pharmacovigilance, Medical Coding, HIPAA Compliance, ICD-10, NABH Standards, Telemedicine, Medical Ethics, Wound Care",
+    "responsibilities": "Administer medications and treatments as prescribed. Maintain accurate clinical documentation in electronic health records. Maintain sterile environments and follow infection control protocols. Ensure patient privacy and maintain confidentiality. Attend continuing medical education programs and training. Diagnose and treat medical conditions following established protocols. Monitor patient progress and adjust treatment plans accordingly",
+    "benefits": "Work-from-home flexibility. Learning & development budget. Referral bonus program. Employee stock options (ESOPs) for eligible roles. Flexible working hours. Professional development and training programs",
+    "industry": "healthcare",
+    "occupationalCategory": "Medical Officer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Learning & development budget, Referral bonus program, Employee stock options (ESOPs) for eligible roles, Flexible working hours, Professional development and training programs"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at RML Hospital. We are on the lookout for a dedicated Medical Officer to strengthen our Vijayawada-based team.",
+    "keywords": "Medical Officer, RML Hospital, jobs in Vijayawada, Andhra Pradesh jobs, healthcare jobs India, Pharmacovigilance, Medical Coding, HIPAA Compliance, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:41:01.005Z",
+  "page": 73
+}
