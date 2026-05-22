@@ -1,0 +1,94 @@
+{
+  "slug": "healthifyme-senior-software-engineer-aurangabad-2026-05-22-1",
+  "title": "Senior Software Engineer - HealthifyMe - Top MNC",
+  "company": "HealthifyMe",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Aurangabad",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "MongoDB",
+    "AWS",
+    "Rust",
+    "CI/CD",
+    "Git",
+    "SQL",
+    "TensorFlow",
+    "Agile/Scrum"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - HealthifyMe - Top MNC",
+    "description": "HealthifyMe invites applications from qualified candidates for the position of Senior Software Engineer at our Aurangabad location. This role offers excellent career advancement prospects.\n\nAbout HealthifyMe:\nHealthifyMe is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write and execute unit tests and integration tests\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Collaborate with cross-functional teams including product, design, and QA\n• Contribute to system architecture and technical design decisions\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Participate in code reviews and contribute to technical discussions\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 12-20 years of relevant experience\n• Proficiency in MongoDB\n• Proficiency in AWS\n• Proficiency in Rust\n• Proficiency in CI/CD\n• Proficiency in Git\n• Proficiency in SQL\n• Proficiency in TensorFlow\n• Proficiency in Agile/Scrum\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Maternity and paternity leave\n• Life and accident insurance\n• Learning & development budget\n• Company-sponsored certifications\n• Meal coupons and food allowance\n• Professional development and training programs\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Aurangabad, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with HealthifyMe!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "HealthifyMe",
+      "value": "111-1-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "HealthifyMe",
+      "sameAs": "https://www.google.com/search?q=HealthifyMe",
+      "logo": "https://logo.clearbit.com/healthifyme.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "HealthifyMe Office",
+        "addressLocality": "Aurangabad",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "MongoDB, AWS, Rust, CI/CD, Git, SQL, TensorFlow, Agile/Scrum",
+    "responsibilities": "Write and execute unit tests and integration tests. Troubleshoot, debug, and resolve software defects and performance issues. Collaborate with cross-functional teams including product, design, and QA. Contribute to system architecture and technical design decisions. Work with agile methodologies including daily stand-ups and sprint planning. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Participate in code reviews and contribute to technical discussions",
+    "benefits": "Maternity and paternity leave. Life and accident insurance. Learning & development budget. Company-sponsored certifications. Meal coupons and food allowance. Professional development and training programs",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Maternity and paternity leave, Life and accident insurance, Learning & development budget, Company-sponsored certifications, Meal coupons and food allowance, Professional development and training programs"
+  },
+  "meta": {
+    "description": "HealthifyMe invites applications from qualified candidates for the position of Senior Software Engineer at our Aurangabad location. This role offers excellent c",
+    "keywords": "Senior Software Engineer, HealthifyMe, jobs in Aurangabad, Maharashtra jobs, technology jobs India, MongoDB, AWS, Rust, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:35:05.611Z",
+  "page": 27
+}
