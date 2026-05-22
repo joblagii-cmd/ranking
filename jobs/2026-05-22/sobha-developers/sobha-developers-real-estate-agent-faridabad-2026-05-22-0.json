@@ -1,0 +1,94 @@
+{
+  "slug": "sobha-developers-real-estate-agent-faridabad-2026-05-22-0",
+  "title": "Looking for Real Estate Agent at Sobha Developers",
+  "company": "Sobha Developers",
+  "industry": "realestate",
+  "role": "Real Estate Agent",
+  "location": {
+    "city": "Faridabad",
+    "state": "Haryana",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "MS Office",
+    "Financial Modeling",
+    "GIS Tools",
+    "Negotiation Skills",
+    "Client Relationship Management",
+    "Contract Management",
+    "Due Diligence",
+    "AutoCAD"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Looking for Real Estate Agent at Sobha Developers",
+    "description": "We at Sobha Developers are looking for an experienced Real Estate Agent based out of Faridabad. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout Sobha Developers:\nSobha Developers is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Liaise with banks and NBFCs for home loan assistance to customers\n• Achieve monthly and quarterly sales targets\n• Build relationships with channel partners and brokers\n• Coordinate with legal teams for documentation and title verification\n• Provide advisory services on property investment and market trends\n• Maintain a pipeline of qualified leads using CRM software\n• Negotiate pricing, terms, and conditions on behalf of clients\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 0-1 years of relevant experience\n• Proficiency in MS Office\n• Proficiency in Financial Modeling\n• Proficiency in GIS Tools\n• Proficiency in Negotiation Skills\n• Proficiency in Client Relationship Management\n• Proficiency in Contract Management\n• Proficiency in Due Diligence\n• Proficiency in AutoCAD\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Mobile and internet reimbursement\n• Provident Fund and Gratuity as per company policy\n• Professional development and training programs\n• Work-from-home flexibility\n• Meal coupons and food allowance\n• Life and accident insurance\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Faridabad, Haryana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Sobha Developers!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Sobha Developers",
+      "value": "685-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Sobha Developers",
+      "sameAs": "https://www.google.com/search?q=Sobha%20Developers",
+      "logo": "https://logo.clearbit.com/sobhadevelopers.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Sobha Developers Office",
+        "addressLocality": "Faridabad",
+        "addressRegion": "Haryana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "MS Office, Financial Modeling, GIS Tools, Negotiation Skills, Client Relationship Management, Contract Management, Due Diligence, AutoCAD",
+    "responsibilities": "Liaise with banks and NBFCs for home loan assistance to customers. Achieve monthly and quarterly sales targets. Build relationships with channel partners and brokers. Coordinate with legal teams for documentation and title verification. Provide advisory services on property investment and market trends. Maintain a pipeline of qualified leads using CRM software. Negotiate pricing, terms, and conditions on behalf of clients",
+    "benefits": "Mobile and internet reimbursement. Provident Fund and Gratuity as per company policy. Professional development and training programs. Work-from-home flexibility. Meal coupons and food allowance. Life and accident insurance",
+    "industry": "realestate",
+    "occupationalCategory": "Real Estate Agent",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Mobile and internet reimbursement, Provident Fund and Gratuity as per company policy, Professional development and training programs, Work-from-home flexibility, Meal coupons and food allowance, Life and accident insurance"
+  },
+  "meta": {
+    "description": "We at Sobha Developers are looking for an experienced Real Estate Agent based out of Faridabad. If you are a result-oriented professional with a passion for exc",
+    "keywords": "Real Estate Agent, Sobha Developers, jobs in Faridabad, Haryana jobs, realestate jobs India, MS Office, Financial Modeling, GIS Tools, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:53:17.964Z",
+  "page": 171
+}

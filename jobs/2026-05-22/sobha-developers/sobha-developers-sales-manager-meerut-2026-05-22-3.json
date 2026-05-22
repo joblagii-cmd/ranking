@@ -1,0 +1,93 @@
+{
+  "slug": "sobha-developers-sales-manager-meerut-2026-05-22-3",
+  "title": "Sales Manager Vacancy at Sobha Developers - 2026 Batch",
+  "company": "Sobha Developers",
+  "industry": "realestate",
+  "role": "Sales Manager",
+  "location": {
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Investment Analysis",
+    "Property Management",
+    "Project Management",
+    "CRM Software",
+    "Property Valuation",
+    "Negotiation Skills",
+    "Title Search",
+    "Due Diligence"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Sales Manager Vacancy at Sobha Developers - 2026 Batch",
+    "description": "We at Sobha Developers are looking for an experienced Sales Manager based out of Meerut. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout Sobha Developers:\nSobha Developers is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Conduct market research and provide competitive analysis\n• Coordinate with legal teams for documentation and title verification\n• Provide advisory services on property investment and market trends\n• Manage RERA documentation and compliance requirements\n• Maintain a pipeline of qualified leads using CRM software\n• Negotiate pricing, terms, and conditions on behalf of clients\n• Conduct land acquisition due diligence and feasibility studies\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 3-6 years of relevant experience\n• Proficiency in Investment Analysis\n• Proficiency in Property Management\n• Proficiency in Project Management\n• Proficiency in CRM Software\n• Proficiency in Property Valuation\n• Proficiency in Negotiation Skills\n• Proficiency in Title Search\n• Proficiency in Due Diligence\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Employee stock options (ESOPs) for eligible roles\n• Learning & development budget\n• Provident Fund and Gratuity as per company policy\n• Referral bonus program\n• Mobile and internet reimbursement\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Meerut, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Sobha Developers!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Sobha Developers",
+      "value": "685-3-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Sobha Developers",
+      "sameAs": "https://www.google.com/search?q=Sobha%20Developers",
+      "logo": "https://logo.clearbit.com/sobhadevelopers.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Sobha Developers Office",
+        "addressLocality": "Meerut",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "Investment Analysis, Property Management, Project Management, CRM Software, Property Valuation, Negotiation Skills, Title Search, Due Diligence",
+    "responsibilities": "Conduct market research and provide competitive analysis. Coordinate with legal teams for documentation and title verification. Provide advisory services on property investment and market trends. Manage RERA documentation and compliance requirements. Maintain a pipeline of qualified leads using CRM software. Negotiate pricing, terms, and conditions on behalf of clients. Conduct land acquisition due diligence and feasibility studies",
+    "benefits": "Competitive salary with performance-linked incentives. Employee stock options (ESOPs) for eligible roles. Learning & development budget. Provident Fund and Gratuity as per company policy. Referral bonus program. Mobile and internet reimbursement",
+    "industry": "realestate",
+    "occupationalCategory": "Sales Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Employee stock options (ESOPs) for eligible roles, Learning & development budget, Provident Fund and Gratuity as per company policy, Referral bonus program, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "We at Sobha Developers are looking for an experienced Sales Manager based out of Meerut. If you are a result-oriented professional with a passion for excellence",
+    "keywords": "Sales Manager, Sobha Developers, jobs in Meerut, Uttar Pradesh jobs, realestate jobs India, Investment Analysis, Property Management, Project Management, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:53:17.964Z",
+  "page": 171
+}
