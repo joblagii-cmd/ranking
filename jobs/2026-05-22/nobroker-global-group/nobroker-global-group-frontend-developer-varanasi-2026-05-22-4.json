@@ -1,0 +1,93 @@
+{
+  "slug": "nobroker-global-group-frontend-developer-varanasi-2026-05-22-4",
+  "title": "Senior Frontend Developer at NoBroker Global Group",
+  "company": "NoBroker Global Group",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Node.js",
+    "React",
+    "Kubernetes",
+    "Git",
+    "Rust",
+    "AWS",
+    "REST APIs",
+    "Agile/Scrum"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Frontend Developer at NoBroker Global Group",
+    "description": "An exciting career opportunity awaits you at NoBroker Global Group. We are on the lookout for a dedicated Frontend Developer to strengthen our Varanasi-based team.\n\nAbout NoBroker Global Group:\nNoBroker Global Group is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Implement new features based on product requirements\n• Collaborate with cross-functional teams including product, design, and QA\n• Contribute to system architecture and technical design decisions\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Participate in on-call rotation for production support\n• Write and execute unit tests and integration tests\n• Participate in code reviews and contribute to technical discussions\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 6-10 years of relevant experience\n• Proficiency in Node.js\n• Proficiency in React\n• Proficiency in Kubernetes\n• Proficiency in Git\n• Proficiency in Rust\n• Proficiency in AWS\n• Proficiency in REST APIs\n• Proficiency in Agile/Scrum\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Meal coupons and food allowance\n• Company-sponsored certifications\n• Competitive salary with performance-linked incentives\n• International travel opportunities for senior roles\n• Maternity and paternity leave\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Varanasi, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with NoBroker Global Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "NoBroker Global Group",
+      "value": "1937-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "NoBroker Global Group",
+      "sameAs": "https://www.google.com/search?q=NoBroker%20Global%20Group",
+      "logo": "https://logo.clearbit.com/nobrokerglobalgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "NoBroker Global Group Office",
+        "addressLocality": "Varanasi",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "Node.js, React, Kubernetes, Git, Rust, AWS, REST APIs, Agile/Scrum",
+    "responsibilities": "Implement new features based on product requirements. Collaborate with cross-functional teams including product, design, and QA. Contribute to system architecture and technical design decisions. Work with agile methodologies including daily stand-ups and sprint planning. Participate in on-call rotation for production support. Write and execute unit tests and integration tests. Participate in code reviews and contribute to technical discussions",
+    "benefits": "Transportation and conveyance allowance. Meal coupons and food allowance. Company-sponsored certifications. Competitive salary with performance-linked incentives. International travel opportunities for senior roles. Maternity and paternity leave",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Meal coupons and food allowance, Company-sponsored certifications, Competitive salary with performance-linked incentives, International travel opportunities for senior roles, Maternity and paternity leave"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at NoBroker Global Group. We are on the lookout for a dedicated Frontend Developer to strengthen our Varanasi-based te",
+    "keywords": "Frontend Developer, NoBroker Global Group, jobs in Varanasi, Uttar Pradesh jobs, technology jobs India, Node.js, React, Kubernetes, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:57:00.140Z",
+  "page": 484
+}

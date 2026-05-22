@@ -1,0 +1,93 @@
+{
+  "slug": "housing-com-international-enterprises-full-stack-developer-varanasi-2026-05-22-2",
+  "title": "Housing.com International Enterprises is Hiring: Full Stack Developer (Senior)",
+  "company": "Housing.com International Enterprises",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Machine Learning",
+    "React",
+    "Java",
+    "TensorFlow",
+    "Agile/Scrum",
+    "Git",
+    "SQL",
+    "Rust"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Housing.com International Enterprises is Hiring: Full Stack Developer (Senior)",
+    "description": "An exciting career opportunity awaits you at Housing.com International Enterprises. We are on the lookout for a dedicated Full Stack Developer to strengthen our Varanasi-based team.\n\nAbout Housing.com International Enterprises:\nHousing.com International Enterprises is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Integrate third-party APIs and services\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Write and execute unit tests and integration tests\n• Participate in code reviews and contribute to technical discussions\n• Ensure code security and follow best practices for data protection\n• Design, develop and maintain scalable software applications\n• Optimize application performance and ensure high availability\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 12-20 years of relevant experience\n• Proficiency in Machine Learning\n• Proficiency in React\n• Proficiency in Java\n• Proficiency in TensorFlow\n• Proficiency in Agile/Scrum\n• Proficiency in Git\n• Proficiency in SQL\n• Proficiency in Rust\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Learning & development budget\n• Comprehensive health insurance for self and family\n• Modern office with recreational facilities\n• Annual performance appraisal\n• Maternity and paternity leave\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Varanasi, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Housing.com International Enterprises!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Housing.com International Enterprises",
+      "value": "1938-2-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Housing.com International Enterprises",
+      "sameAs": "https://www.google.com/search?q=Housing.com%20International%20Enterprises",
+      "logo": "https://logo.clearbit.com/housingcominternationalenterprises.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Housing.com International Enterprises Office",
+        "addressLocality": "Varanasi",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "Machine Learning, React, Java, TensorFlow, Agile/Scrum, Git, SQL, Rust",
+    "responsibilities": "Integrate third-party APIs and services. Work with agile methodologies including daily stand-ups and sprint planning. Write and execute unit tests and integration tests. Participate in code reviews and contribute to technical discussions. Ensure code security and follow best practices for data protection. Design, develop and maintain scalable software applications. Optimize application performance and ensure high availability",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Learning & development budget. Comprehensive health insurance for self and family. Modern office with recreational facilities. Annual performance appraisal. Maternity and paternity leave",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Learning & development budget, Comprehensive health insurance for self and family, Modern office with recreational facilities, Annual performance appraisal, Maternity and paternity leave"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Housing.com International Enterprises. We are on the lookout for a dedicated Full Stack Developer to strengthen our",
+    "keywords": "Full Stack Developer, Housing.com International Enterprises, jobs in Varanasi, Uttar Pradesh jobs, technology jobs India, Machine Learning, React, Java, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:57:00.140Z",
+  "page": 484
+}

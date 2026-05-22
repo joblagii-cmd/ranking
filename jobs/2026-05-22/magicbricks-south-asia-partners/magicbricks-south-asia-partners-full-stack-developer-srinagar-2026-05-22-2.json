@@ -1,0 +1,94 @@
+{
+  "slug": "magicbricks-south-asia-partners-full-stack-developer-srinagar-2026-05-22-2",
+  "title": "MagicBricks South Asia Partners is Hiring: Full Stack Developer (Senior)",
+  "company": "MagicBricks South Asia Partners",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Srinagar",
+    "state": "Jammu & Kashmir",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "React",
+    "REST APIs",
+    "MongoDB",
+    "Machine Learning",
+    "Kubernetes",
+    "JavaScript",
+    "Git",
+    "AWS"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "MagicBricks South Asia Partners is Hiring: Full Stack Developer (Senior)",
+    "description": "An exciting career opportunity awaits you at MagicBricks South Asia Partners. We are on the lookout for a dedicated Full Stack Developer to strengthen our Srinagar-based team.\n\nAbout MagicBricks South Asia Partners:\nMagicBricks South Asia Partners is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Design, develop and maintain scalable software applications\n• Contribute to system architecture and technical design decisions\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Write and execute unit tests and integration tests\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 3-6 years of relevant experience\n• Proficiency in React\n• Proficiency in REST APIs\n• Proficiency in MongoDB\n• Proficiency in Machine Learning\n• Proficiency in Kubernetes\n• Proficiency in JavaScript\n• Proficiency in Git\n• Proficiency in AWS\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Referral bonus program\n• Mobile and internet reimbursement\n• Transportation and conveyance allowance\n• Life and accident insurance\n• Comprehensive health insurance for self and family\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Srinagar, Jammu & Kashmir, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with MagicBricks South Asia Partners!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "MagicBricks South Asia Partners",
+      "value": "1940-2-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "MagicBricks South Asia Partners",
+      "sameAs": "https://www.google.com/search?q=MagicBricks%20South%20Asia%20Partners",
+      "logo": "https://logo.clearbit.com/magicbrickssouthasiapartners.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "MagicBricks South Asia Partners Office",
+        "addressLocality": "Srinagar",
+        "addressRegion": "Jammu & Kashmir",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "React, REST APIs, MongoDB, Machine Learning, Kubernetes, JavaScript, Git, AWS",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Work with agile methodologies including daily stand-ups and sprint planning. Design, develop and maintain scalable software applications. Contribute to system architecture and technical design decisions. Troubleshoot, debug, and resolve software defects and performance issues. Mentor junior developers and conduct knowledge-sharing sessions. Write and execute unit tests and integration tests",
+    "benefits": "Competitive salary with performance-linked incentives. Referral bonus program. Mobile and internet reimbursement. Transportation and conveyance allowance. Life and accident insurance. Comprehensive health insurance for self and family",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Referral bonus program, Mobile and internet reimbursement, Transportation and conveyance allowance, Life and accident insurance, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at MagicBricks South Asia Partners. We are on the lookout for a dedicated Full Stack Developer to strengthen our Srina",
+    "keywords": "Full Stack Developer, MagicBricks South Asia Partners, jobs in Srinagar, Jammu & Kashmir jobs, technology jobs India, React, REST APIs, MongoDB, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:57:00.141Z",
+  "page": 484
+}

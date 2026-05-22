@@ -1,0 +1,94 @@
+{
+  "slug": "housing-com-international-enterprises-frontend-developer-srinagar-2026-05-22-4",
+  "title": "Senior Frontend Developer at Housing.com International Enterprises",
+  "company": "Housing.com International Enterprises",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Srinagar",
+    "state": "Jammu & Kashmir",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "SQL",
+    "JavaScript",
+    "Python",
+    "Microservices",
+    "MongoDB",
+    "Git",
+    "Rust",
+    "Machine Learning"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Frontend Developer at Housing.com International Enterprises",
+    "description": "An exciting career opportunity awaits you at Housing.com International Enterprises. We are on the lookout for a dedicated Frontend Developer to strengthen our Srinagar-based team.\n\nAbout Housing.com International Enterprises:\nHousing.com International Enterprises is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in on-call rotation for production support\n• Participate in code reviews and contribute to technical discussions\n• Optimize application performance and ensure high availability\n• Integrate third-party APIs and services\n• Ensure code security and follow best practices for data protection\n• Contribute to system architecture and technical design decisions\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 3-6 years of relevant experience\n• Proficiency in SQL\n• Proficiency in JavaScript\n• Proficiency in Python\n• Proficiency in Microservices\n• Proficiency in MongoDB\n• Proficiency in Git\n• Proficiency in Rust\n• Proficiency in Machine Learning\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Mobile and internet reimbursement\n• Employee stock options (ESOPs) for eligible roles\n• Competitive salary with performance-linked incentives\n• Transportation and conveyance allowance\n• Comprehensive health insurance for self and family\n• Referral bonus program\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Srinagar, Jammu & Kashmir, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Housing.com International Enterprises!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Housing.com International Enterprises",
+      "value": "1938-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Housing.com International Enterprises",
+      "sameAs": "https://www.google.com/search?q=Housing.com%20International%20Enterprises",
+      "logo": "https://logo.clearbit.com/housingcominternationalenterprises.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Housing.com International Enterprises Office",
+        "addressLocality": "Srinagar",
+        "addressRegion": "Jammu & Kashmir",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "SQL, JavaScript, Python, Microservices, MongoDB, Git, Rust, Machine Learning",
+    "responsibilities": "Participate in on-call rotation for production support. Participate in code reviews and contribute to technical discussions. Optimize application performance and ensure high availability. Integrate third-party APIs and services. Ensure code security and follow best practices for data protection. Contribute to system architecture and technical design decisions. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP",
+    "benefits": "Mobile and internet reimbursement. Employee stock options (ESOPs) for eligible roles. Competitive salary with performance-linked incentives. Transportation and conveyance allowance. Comprehensive health insurance for self and family. Referral bonus program",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Mobile and internet reimbursement, Employee stock options (ESOPs) for eligible roles, Competitive salary with performance-linked incentives, Transportation and conveyance allowance, Comprehensive health insurance for self and family, Referral bonus program"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Housing.com International Enterprises. We are on the lookout for a dedicated Frontend Developer to strengthen our S",
+    "keywords": "Frontend Developer, Housing.com International Enterprises, jobs in Srinagar, Jammu & Kashmir jobs, technology jobs India, SQL, JavaScript, Python, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:57:00.140Z",
+  "page": 484
+}

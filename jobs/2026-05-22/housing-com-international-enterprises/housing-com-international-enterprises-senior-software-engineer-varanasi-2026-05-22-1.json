@@ -1,0 +1,94 @@
+{
+  "slug": "housing-com-international-enterprises-senior-software-engineer-varanasi-2026-05-22-1",
+  "title": "Senior Software Engineer - Housing.com International Enterprises - Top MNC",
+  "company": "Housing.com International Enterprises",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Docker",
+    "React",
+    "SQL",
+    "Agile/Scrum",
+    "Rust",
+    "Kubernetes",
+    "JavaScript",
+    "REST APIs"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Housing.com International Enterprises - Top MNC",
+    "description": "An exciting career opportunity awaits you at Housing.com International Enterprises. We are on the lookout for a dedicated Senior Software Engineer to strengthen our Varanasi-based team.\n\nAbout Housing.com International Enterprises:\nHousing.com International Enterprises is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in code reviews and contribute to technical discussions\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Write clean, maintainable, and well-documented code\n• Contribute to system architecture and technical design decisions\n• Design, develop and maintain scalable software applications\n• Troubleshoot, debug, and resolve software defects and performance issues\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 0-1 years of relevant experience\n• Proficiency in Docker\n• Proficiency in React\n• Proficiency in SQL\n• Proficiency in Agile/Scrum\n• Proficiency in Rust\n• Proficiency in Kubernetes\n• Proficiency in JavaScript\n• Proficiency in REST APIs\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Referral bonus program\n• Comprehensive health insurance for self and family\n• Flexible working hours\n• Annual paid leaves and casual leaves\n• Mobile and internet reimbursement\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Varanasi, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Housing.com International Enterprises!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Housing.com International Enterprises",
+      "value": "1938-1-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Housing.com International Enterprises",
+      "sameAs": "https://www.google.com/search?q=Housing.com%20International%20Enterprises",
+      "logo": "https://logo.clearbit.com/housingcominternationalenterprises.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Housing.com International Enterprises Office",
+        "addressLocality": "Varanasi",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Docker, React, SQL, Agile/Scrum, Rust, Kubernetes, JavaScript, REST APIs",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Participate in code reviews and contribute to technical discussions. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Write clean, maintainable, and well-documented code. Contribute to system architecture and technical design decisions. Design, develop and maintain scalable software applications. Troubleshoot, debug, and resolve software defects and performance issues",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Referral bonus program. Comprehensive health insurance for self and family. Flexible working hours. Annual paid leaves and casual leaves. Mobile and internet reimbursement",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Referral bonus program, Comprehensive health insurance for self and family, Flexible working hours, Annual paid leaves and casual leaves, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Housing.com International Enterprises. We are on the lookout for a dedicated Senior Software Engineer to strengthen",
+    "keywords": "Senior Software Engineer, Housing.com International Enterprises, jobs in Varanasi, Uttar Pradesh jobs, technology jobs India, Docker, React, SQL, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:57:00.140Z",
+  "page": 484
+}
