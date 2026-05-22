@@ -1,0 +1,93 @@
+{
+  "slug": "igate-india-global-group-full-stack-developer-jaipur-2026-05-22-2",
+  "title": "iGate India Global Group is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "iGate India Global Group",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Machine Learning",
+    "Microservices",
+    "TypeScript",
+    "Rust",
+    "SQL",
+    "Git",
+    "Docker",
+    "REST APIs"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "iGate India Global Group is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "Are you a skilled Full Stack Developer looking for your next big career move? iGate India Global Group in Jaipur offers you the perfect platform to grow professionally and personally.\n\nAbout iGate India Global Group:\niGate India Global Group is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Contribute to system architecture and technical design decisions\n• Implement new features based on product requirements\n• Design, develop and maintain scalable software applications\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Collaborate with cross-functional teams including product, design, and QA\n• Integrate third-party APIs and services\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 10-15 years of relevant experience\n• Proficiency in Machine Learning\n• Proficiency in Microservices\n• Proficiency in TypeScript\n• Proficiency in Rust\n• Proficiency in SQL\n• Proficiency in Git\n• Proficiency in Docker\n• Proficiency in REST APIs\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Life and accident insurance\n• Competitive salary with performance-linked incentives\n• Professional development and training programs\n• Referral bonus program\n• Comprehensive health insurance for self and family\n• Annual paid leaves and casual leaves\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Jaipur, Rajasthan, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with iGate India Global Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "iGate India Global Group",
+      "value": "1907-2-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "iGate India Global Group",
+      "sameAs": "https://www.google.com/search?q=iGate%20India%20Global%20Group",
+      "logo": "https://logo.clearbit.com/igateindiaglobalgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "iGate India Global Group Office",
+        "addressLocality": "Jaipur",
+        "addressRegion": "Rajasthan",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "Machine Learning, Microservices, TypeScript, Rust, SQL, Git, Docker, REST APIs",
+    "responsibilities": "Mentor junior developers and conduct knowledge-sharing sessions. Contribute to system architecture and technical design decisions. Implement new features based on product requirements. Design, develop and maintain scalable software applications. Work with agile methodologies including daily stand-ups and sprint planning. Collaborate with cross-functional teams including product, design, and QA. Integrate third-party APIs and services",
+    "benefits": "Life and accident insurance. Competitive salary with performance-linked incentives. Professional development and training programs. Referral bonus program. Comprehensive health insurance for self and family. Annual paid leaves and casual leaves",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Competitive salary with performance-linked incentives, Professional development and training programs, Referral bonus program, Comprehensive health insurance for self and family, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "Are you a skilled Full Stack Developer looking for your next big career move? iGate India Global Group in Jaipur offers you the perfect platform to grow profess",
+    "keywords": "Full Stack Developer, iGate India Global Group, jobs in Jaipur, Rajasthan jobs, technology jobs India, Machine Learning, Microservices, TypeScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:55:54.052Z",
+  "page": 476
+}

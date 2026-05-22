@@ -1,0 +1,93 @@
+{
+  "slug": "igate-india-global-group-software-engineer-jaipur-2026-05-22-0",
+  "title": "Immediate Requirement Software Engineer at iGate India Global Group",
+  "company": "iGate India Global Group",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "TypeScript",
+    "Docker",
+    "Git",
+    "Kubernetes",
+    "Node.js",
+    "TensorFlow",
+    "Machine Learning",
+    "React"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Immediate Requirement Software Engineer at iGate India Global Group",
+    "description": "Are you a skilled Software Engineer looking for your next big career move? iGate India Global Group in Jaipur offers you the perfect platform to grow professionally and personally.\n\nAbout iGate India Global Group:\niGate India Global Group is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Implement new features based on product requirements\n• Design, develop and maintain scalable software applications\n• Contribute to system architecture and technical design decisions\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Ensure code security and follow best practices for data protection\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 0-1 years of relevant experience\n• Proficiency in TypeScript\n• Proficiency in Docker\n• Proficiency in Git\n• Proficiency in Kubernetes\n• Proficiency in Node.js\n• Proficiency in TensorFlow\n• Proficiency in Machine Learning\n• Proficiency in React\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Mobile and internet reimbursement\n• Work-from-home flexibility\n• Transportation and conveyance allowance\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Jaipur, Rajasthan, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with iGate India Global Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "iGate India Global Group",
+      "value": "1907-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "iGate India Global Group",
+      "sameAs": "https://www.google.com/search?q=iGate%20India%20Global%20Group",
+      "logo": "https://logo.clearbit.com/igateindiaglobalgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "iGate India Global Group Office",
+        "addressLocality": "Jaipur",
+        "addressRegion": "Rajasthan",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "TypeScript, Docker, Git, Kubernetes, Node.js, TensorFlow, Machine Learning, React",
+    "responsibilities": "Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Implement new features based on product requirements. Design, develop and maintain scalable software applications. Contribute to system architecture and technical design decisions. Work with agile methodologies including daily stand-ups and sprint planning. Troubleshoot, debug, and resolve software defects and performance issues. Ensure code security and follow best practices for data protection",
+    "benefits": "Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Mobile and internet reimbursement. Work-from-home flexibility. Transportation and conveyance allowance. Provident Fund and Gratuity as per company policy",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Mobile and internet reimbursement, Work-from-home flexibility, Transportation and conveyance allowance, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "Are you a skilled Software Engineer looking for your next big career move? iGate India Global Group in Jaipur offers you the perfect platform to grow profession",
+    "keywords": "Software Engineer, iGate India Global Group, jobs in Jaipur, Rajasthan jobs, technology jobs India, TypeScript, Docker, Git, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:55:54.052Z",
+  "page": 476
+}

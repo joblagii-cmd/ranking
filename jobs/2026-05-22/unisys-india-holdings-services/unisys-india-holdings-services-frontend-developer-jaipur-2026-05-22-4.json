@@ -1,0 +1,93 @@
+{
+  "slug": "unisys-india-holdings-services-frontend-developer-jaipur-2026-05-22-4",
+  "title": "Mid-Level Frontend Developer at Unisys India Holdings Services",
+  "company": "Unisys India Holdings Services",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "SQL",
+    "MongoDB",
+    "React",
+    "Git",
+    "Microservices",
+    "Java",
+    "REST APIs",
+    "Kubernetes"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Frontend Developer at Unisys India Holdings Services",
+    "description": "Are you a skilled Frontend Developer looking for your next big career move? Unisys India Holdings Services in Jaipur offers you the perfect platform to grow professionally and personally.\n\nAbout Unisys India Holdings Services:\nUnisys India Holdings Services is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Implement new features based on product requirements\n• Ensure code security and follow best practices for data protection\n• Contribute to system architecture and technical design decisions\n• Participate in code reviews and contribute to technical discussions\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Participate in on-call rotation for production support\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 10-15 years of relevant experience\n• Proficiency in SQL\n• Proficiency in MongoDB\n• Proficiency in React\n• Proficiency in Git\n• Proficiency in Microservices\n• Proficiency in Java\n• Proficiency in REST APIs\n• Proficiency in Kubernetes\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Life and accident insurance\n• International travel opportunities for senior roles\n• Maternity and paternity leave\n• Comprehensive health insurance for self and family\n• Flexible working hours\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Jaipur, Rajasthan, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Unisys India Holdings Services!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Unisys India Holdings Services",
+      "value": "1905-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Unisys India Holdings Services",
+      "sameAs": "https://www.google.com/search?q=Unisys%20India%20Holdings%20Services",
+      "logo": "https://logo.clearbit.com/unisysindiaholdingsservices.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Unisys India Holdings Services Office",
+        "addressLocality": "Jaipur",
+        "addressRegion": "Rajasthan",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "SQL, MongoDB, React, Git, Microservices, Java, REST APIs, Kubernetes",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Implement new features based on product requirements. Ensure code security and follow best practices for data protection. Contribute to system architecture and technical design decisions. Participate in code reviews and contribute to technical discussions. Mentor junior developers and conduct knowledge-sharing sessions. Participate in on-call rotation for production support",
+    "benefits": "Provident Fund and Gratuity as per company policy. Life and accident insurance. International travel opportunities for senior roles. Maternity and paternity leave. Comprehensive health insurance for self and family. Flexible working hours",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Life and accident insurance, International travel opportunities for senior roles, Maternity and paternity leave, Comprehensive health insurance for self and family, Flexible working hours"
+  },
+  "meta": {
+    "description": "Are you a skilled Frontend Developer looking for your next big career move? Unisys India Holdings Services in Jaipur offers you the perfect platform to grow pro",
+    "keywords": "Frontend Developer, Unisys India Holdings Services, jobs in Jaipur, Rajasthan jobs, technology jobs India, SQL, MongoDB, React, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:55:54.052Z",
+  "page": 476
+}
