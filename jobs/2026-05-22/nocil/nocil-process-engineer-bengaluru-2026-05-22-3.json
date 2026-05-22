@@ -1,0 +1,94 @@
+{
+  "slug": "nocil-process-engineer-bengaluru-2026-05-22-3",
+  "title": "Process Engineer Vacancy at Nocil - 2026 Batch",
+  "company": "Nocil",
+  "industry": "manufacturing",
+  "role": "Process Engineer",
+  "location": {
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "PLC/SCADA",
+    "Six Sigma",
+    "Lean Manufacturing",
+    "5S",
+    "Project Management",
+    "FMEA",
+    "SAP MM/PP",
+    "GD&T"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Process Engineer Vacancy at Nocil - 2026 Batch",
+    "description": "Are you a skilled Process Engineer looking for your next big career move? Nocil in Bengaluru offers you the perfect platform to grow professionally and personally.\n\nAbout Nocil:\nNocil is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Oversee daily production operations to meet output targets\n• Ensure environmental compliance and waste management\n• Ensure compliance with safety regulations and factory acts\n• Monitor equipment performance and coordinate preventive maintenance\n• Prepare production cost analysis and efficiency reports\n• Implement lean manufacturing and continuous improvement initiatives\n• Maintain accurate production records and prepare daily reports\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 0-1 years of relevant experience\n• Proficiency in PLC/SCADA\n• Proficiency in Six Sigma\n• Proficiency in Lean Manufacturing\n• Proficiency in 5S\n• Proficiency in Project Management\n• Proficiency in FMEA\n• Proficiency in SAP MM/PP\n• Proficiency in GD&T\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Learning & development budget\n• Life and accident insurance\n• Maternity and paternity leave\n• Competitive salary with performance-linked incentives\n• Annual paid leaves and casual leaves\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Bengaluru, Karnataka, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Nocil!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Nocil",
+      "value": "480-3-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Nocil",
+      "sameAs": "https://www.google.com/search?q=Nocil",
+      "logo": "https://logo.clearbit.com/nocil.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Nocil Office",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "PLC/SCADA, Six Sigma, Lean Manufacturing, 5S, Project Management, FMEA, SAP MM/PP, GD&T",
+    "responsibilities": "Oversee daily production operations to meet output targets. Ensure environmental compliance and waste management. Ensure compliance with safety regulations and factory acts. Monitor equipment performance and coordinate preventive maintenance. Prepare production cost analysis and efficiency reports. Implement lean manufacturing and continuous improvement initiatives. Maintain accurate production records and prepare daily reports",
+    "benefits": "International travel opportunities for senior roles. Learning & development budget. Life and accident insurance. Maternity and paternity leave. Competitive salary with performance-linked incentives. Annual paid leaves and casual leaves",
+    "industry": "manufacturing",
+    "occupationalCategory": "Process Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Learning & development budget, Life and accident insurance, Maternity and paternity leave, Competitive salary with performance-linked incentives, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "Are you a skilled Process Engineer looking for your next big career move? Nocil in Bengaluru offers you the perfect platform to grow professionally and personal",
+    "keywords": "Process Engineer, Nocil, jobs in Bengaluru, Karnataka jobs, manufacturing jobs India, PLC/SCADA, Six Sigma, Lean Manufacturing, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:46:47.677Z",
+  "page": 119
+}
