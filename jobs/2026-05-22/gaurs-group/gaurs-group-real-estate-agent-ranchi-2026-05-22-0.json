@@ -1,0 +1,94 @@
+{
+  "slug": "gaurs-group-real-estate-agent-ranchi-2026-05-22-0",
+  "title": "Looking for Real Estate Agent at Gaurs Group",
+  "company": "Gaurs Group",
+  "industry": "realestate",
+  "role": "Real Estate Agent",
+  "location": {
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Property Management",
+    "Property Valuation",
+    "Portfolio Management",
+    "RERA Compliance",
+    "AutoCAD",
+    "GIS Tools",
+    "Client Relationship Management",
+    "Investment Analysis"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Looking for Real Estate Agent at Gaurs Group",
+    "description": "Gaurs Group has an exciting opening for a Real Estate Agent at our Ranchi office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Gaurs Group:\nGaurs Group is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Provide advisory services on property investment and market trends\n• Conduct land acquisition due diligence and feasibility studies\n• Coordinate with legal teams for documentation and title verification\n• Maintain a pipeline of qualified leads using CRM software\n• Liaise with banks and NBFCs for home loan assistance to customers\n• Negotiate pricing, terms, and conditions on behalf of clients\n• Conduct site visits and property presentations for clients\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 10-15 years of relevant experience\n• Proficiency in Property Management\n• Proficiency in Property Valuation\n• Proficiency in Portfolio Management\n• Proficiency in RERA Compliance\n• Proficiency in AutoCAD\n• Proficiency in GIS Tools\n• Proficiency in Client Relationship Management\n• Proficiency in Investment Analysis\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Life and accident insurance\n• Professional development and training programs\n• Work-from-home flexibility\n• Referral bonus program\n• Comprehensive health insurance for self and family\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Ranchi, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Gaurs Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Gaurs Group",
+      "value": "702-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Gaurs Group",
+      "sameAs": "https://www.google.com/search?q=Gaurs%20Group",
+      "logo": "https://logo.clearbit.com/gaursgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Gaurs Group Office",
+        "addressLocality": "Ranchi",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "Property Management, Property Valuation, Portfolio Management, RERA Compliance, AutoCAD, GIS Tools, Client Relationship Management, Investment Analysis",
+    "responsibilities": "Provide advisory services on property investment and market trends. Conduct land acquisition due diligence and feasibility studies. Coordinate with legal teams for documentation and title verification. Maintain a pipeline of qualified leads using CRM software. Liaise with banks and NBFCs for home loan assistance to customers. Negotiate pricing, terms, and conditions on behalf of clients. Conduct site visits and property presentations for clients",
+    "benefits": "Competitive salary with performance-linked incentives. Life and accident insurance. Professional development and training programs. Work-from-home flexibility. Referral bonus program. Comprehensive health insurance for self and family",
+    "industry": "realestate",
+    "occupationalCategory": "Real Estate Agent",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Life and accident insurance, Professional development and training programs, Work-from-home flexibility, Referral bonus program, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "Gaurs Group has an exciting opening for a Real Estate Agent at our Ranchi office. Join a company that values innovation, collaboration, and continuous learning.",
+    "keywords": "Real Estate Agent, Gaurs Group, jobs in Ranchi, Jharkhand jobs, realestate jobs India, Property Management, Property Valuation, Portfolio Management, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:53:47.381Z",
+  "page": 175
+}
