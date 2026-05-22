@@ -1,0 +1,93 @@
+{
+  "slug": "agrostar-global-group-full-stack-developer-navi mumbai-2026-05-22-2",
+  "title": "AgroStar Global Group is Hiring: Full Stack Developer (Senior)",
+  "company": "AgroStar Global Group",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Node.js",
+    "React",
+    "Rust",
+    "MongoDB",
+    "SQL",
+    "Microservices",
+    "Java",
+    "Python"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "AgroStar Global Group is Hiring: Full Stack Developer (Senior)",
+    "description": "An exciting career opportunity awaits you at AgroStar Global Group. We are on the lookout for a dedicated Full Stack Developer to strengthen our Navi Mumbai-based team.\n\nAbout AgroStar Global Group:\nAgroStar Global Group is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Implement new features based on product requirements\n• Contribute to system architecture and technical design decisions\n• Optimize application performance and ensure high availability\n• Design, develop and maintain scalable software applications\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Ensure code security and follow best practices for data protection\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 0-1 years of relevant experience\n• Proficiency in Node.js\n• Proficiency in React\n• Proficiency in Rust\n• Proficiency in MongoDB\n• Proficiency in SQL\n• Proficiency in Microservices\n• Proficiency in Java\n• Proficiency in Python\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Modern office with recreational facilities\n• Annual paid leaves and casual leaves\n• Competitive salary with performance-linked incentives\n• Learning & development budget\n• Work-from-home flexibility\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Navi Mumbai, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with AgroStar Global Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "AgroStar Global Group",
+      "value": "1947-2-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "AgroStar Global Group",
+      "sameAs": "https://www.google.com/search?q=AgroStar%20Global%20Group",
+      "logo": "https://logo.clearbit.com/agrostarglobalgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "AgroStar Global Group Office",
+        "addressLocality": "Navi Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "Node.js, React, Rust, MongoDB, SQL, Microservices, Java, Python",
+    "responsibilities": "Work with agile methodologies including daily stand-ups and sprint planning. Implement new features based on product requirements. Contribute to system architecture and technical design decisions. Optimize application performance and ensure high availability. Design, develop and maintain scalable software applications. Mentor junior developers and conduct knowledge-sharing sessions. Ensure code security and follow best practices for data protection",
+    "benefits": "Modern office with recreational facilities. Annual paid leaves and casual leaves. Competitive salary with performance-linked incentives. Learning & development budget. Work-from-home flexibility. Employee stock options (ESOPs) for eligible roles",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Modern office with recreational facilities, Annual paid leaves and casual leaves, Competitive salary with performance-linked incentives, Learning & development budget, Work-from-home flexibility, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at AgroStar Global Group. We are on the lookout for a dedicated Full Stack Developer to strengthen our Navi Mumbai-bas",
+    "keywords": "Full Stack Developer, AgroStar Global Group, jobs in Navi Mumbai, Maharashtra jobs, technology jobs India, Node.js, React, Rust, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:57:16.936Z",
+  "page": 486
+}

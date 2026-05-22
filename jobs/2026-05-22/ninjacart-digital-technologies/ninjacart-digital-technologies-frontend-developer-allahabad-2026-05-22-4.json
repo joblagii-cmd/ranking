@@ -1,0 +1,93 @@
+{
+  "slug": "ninjacart-digital-technologies-frontend-developer-allahabad-2026-05-22-4",
+  "title": "Senior Frontend Developer at Ninjacart Digital Technologies",
+  "company": "Ninjacart Digital Technologies",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Allahabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Node.js",
+    "TensorFlow",
+    "SQL",
+    "Python",
+    "TypeScript",
+    "CI/CD",
+    "Rust",
+    "MongoDB"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Frontend Developer at Ninjacart Digital Technologies",
+    "description": "An exciting career opportunity awaits you at Ninjacart Digital Technologies. We are on the lookout for a dedicated Frontend Developer to strengthen our Allahabad-based team.\n\nAbout Ninjacart Digital Technologies:\nNinjacart Digital Technologies is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Integrate third-party APIs and services\n• Write clean, maintainable, and well-documented code\n• Ensure code security and follow best practices for data protection\n• Contribute to system architecture and technical design decisions\n• Optimize application performance and ensure high availability\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 12-20 years of relevant experience\n• Proficiency in Node.js\n• Proficiency in TensorFlow\n• Proficiency in SQL\n• Proficiency in Python\n• Proficiency in TypeScript\n• Proficiency in CI/CD\n• Proficiency in Rust\n• Proficiency in MongoDB\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Annual paid leaves and casual leaves\n• Competitive salary with performance-linked incentives\n• Flexible working hours\n• Modern office with recreational facilities\n• Mobile and internet reimbursement\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Allahabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Ninjacart Digital Technologies!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Ninjacart Digital Technologies",
+      "value": "1946-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Ninjacart Digital Technologies",
+      "sameAs": "https://www.google.com/search?q=Ninjacart%20Digital%20Technologies",
+      "logo": "https://logo.clearbit.com/ninjacartdigitaltechnologies.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Ninjacart Digital Technologies Office",
+        "addressLocality": "Allahabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "Node.js, TensorFlow, SQL, Python, TypeScript, CI/CD, Rust, MongoDB",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Troubleshoot, debug, and resolve software defects and performance issues. Integrate third-party APIs and services. Write clean, maintainable, and well-documented code. Ensure code security and follow best practices for data protection. Contribute to system architecture and technical design decisions. Optimize application performance and ensure high availability",
+    "benefits": "International travel opportunities for senior roles. Annual paid leaves and casual leaves. Competitive salary with performance-linked incentives. Flexible working hours. Modern office with recreational facilities. Mobile and internet reimbursement",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Annual paid leaves and casual leaves, Competitive salary with performance-linked incentives, Flexible working hours, Modern office with recreational facilities, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Ninjacart Digital Technologies. We are on the lookout for a dedicated Frontend Developer to strengthen our Allahaba",
+    "keywords": "Frontend Developer, Ninjacart Digital Technologies, jobs in Allahabad, Uttar Pradesh jobs, technology jobs India, Node.js, TensorFlow, SQL, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:57:16.936Z",
+  "page": 486
+}
