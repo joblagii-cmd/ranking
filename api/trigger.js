@@ -7,14 +7,27 @@ export const config = {
 };
 
 const POSTS_PER_COMPANY = 5;
-const COMPANIES_PER_TRIGGER = 10;
+const TOTAL_COMPANIES = 5000;
+const TOTAL_MINUTES = 1440; // 24h × 60min
+
+function getCompaniesForPage(page, allCompanies) {
+  // Distribute 5000 companies across 1440 pages as evenly as possible
+  // 5000 / 1440 = 3 base, 680 pages get 4 companies, 760 pages get 3
+  const base = Math.floor(TOTAL_COMPANIES / TOTAL_MINUTES); // 3
+  const remainder = TOTAL_COMPANIES % TOTAL_MINUTES;         // 680
+
+  const companiesThisPage = page < remainder ? base + 1 : base;
+  const startIdx = page < remainder
+    ? page * (base + 1)
+    : remainder * (base + 1) + (page - remainder) * base;
+
+  return allCompanies.slice(startIdx, startIdx + companiesThisPage);
+}
 
 export default async function handler(req, res) {
   if (req.method !== "POST") {
     return res.status(405).json({ error: "Method not allowed. Use POST." });
   }
-
-  const { page } = req.body || {};
 
   const { GITHUB_TOKEN, GITHUB_OWNER, GITHUB_REPO } = process.env;
 
@@ -22,19 +35,23 @@ export default async function handler(req, res) {
     return res.status(500).json({ error: "Missing environment variables" });
   }
 
-  try {
-    const now = new Date();
-    const istOffset = 5.5 * 60 * 60 * 1000;
-    const ist = new Date(now.getTime() + istOffset);
-    const dateStr = ist.toISOString().split("T")[0];
+  const { page } = req.body || {};
 
-    const currentPage = page ?? Math.floor(Math.random() * 500);
+  const now = new Date();
+  const istOffset = 5.5 * 60 * 60 * 1000;
+  const ist = new Date(now.getTime() + istOffset);
+  const dateStr = ist.toISOString().split("T")[0];
+
+  const currentPage = typeof page === "number"
+    ? Math.max(0, Math.min(page, TOTAL_MINUTES - 1))
+    : ist.getUTCHours() * 60 + ist.getUTCMinutes();
+
+  try {
     const allCompanies = generateCompanies();
-    const startIdx = currentPage * COMPANIES_PER_TRIGGER;
-    const batchCompanies = allCompanies.slice(startIdx, startIdx + COMPANIES_PER_TRIGGER);
+    const batchCompanies = getCompaniesForPage(currentPage, allCompanies);
 
     if (batchCompanies.length === 0) {
-      return res.status(200).json({ message: "No companies for this page" });
+      return res.status(200).json({ message: "No companies for this page", page: currentPage });
     }
 
     const files = [];
@@ -44,7 +61,7 @@ export default async function handler(req, res) {
         const companySlug = company.name.toLowerCase().replace(/[^a-z0-9]+/g, "-").substring(0, 50);
         files.push({
           path: `jobs/${dateStr}/${companySlug}/${posting.slug}.json`,
-          content: { ...posting, generatedAt: new Date().toISOString() }
+          content: { ...posting, generatedAt: new Date().toISOString(), page: currentPage }
         });
       }
     }
@@ -58,7 +75,7 @@ export default async function handler(req, res) {
       postsGenerated: files.length,
       companiesProcessed: batchCompanies.length,
       githubCommit: result.commitSha,
-      message: `Page ${currentPage}: ${files.length} posts committed to GitHub.`
+      message: `Page ${currentPage}/1439: ${files.length} posts committed to GitHub.`
     });
 
   } catch (error) {
