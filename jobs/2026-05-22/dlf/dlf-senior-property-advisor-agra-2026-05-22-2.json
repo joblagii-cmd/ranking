@@ -1,0 +1,93 @@
+{
+  "slug": "dlf-senior-property-advisor-agra-2026-05-22-2",
+  "title": "DLF is Hiring: Senior Property Advisor (Entry-Level)",
+  "company": "DLF",
+  "industry": "realestate",
+  "role": "Senior Property Advisor",
+  "location": {
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "GIS Tools",
+    "CRM Software",
+    "Property Valuation",
+    "MS Office",
+    "Real Estate Law",
+    "Title Search",
+    "Negotiation Skills",
+    "Property Management"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "DLF is Hiring: Senior Property Advisor (Entry-Level)",
+    "description": "We at DLF are looking for an experienced Senior Property Advisor based out of Agra. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout DLF:\nDLF is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Build relationships with channel partners and brokers\n• Achieve monthly and quarterly sales targets\n• Maintain a pipeline of qualified leads using CRM software\n• Manage relationships with existing customers post-purchase\n• Liaise with banks and NBFCs for home loan assistance to customers\n• Source and close property deals with prospective buyers and investors\n• Prepare presentations and proposals for institutional clients\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 3-6 years of relevant experience\n• Proficiency in GIS Tools\n• Proficiency in CRM Software\n• Proficiency in Property Valuation\n• Proficiency in MS Office\n• Proficiency in Real Estate Law\n• Proficiency in Title Search\n• Proficiency in Negotiation Skills\n• Proficiency in Property Management\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Learning & development budget\n• Life and accident insurance\n• Referral bonus program\n• Comprehensive health insurance for self and family\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Agra, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with DLF!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "DLF",
+      "value": "681-2-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "DLF",
+      "sameAs": "https://www.google.com/search?q=DLF",
+      "logo": "https://logo.clearbit.com/dlf.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "DLF Office",
+        "addressLocality": "Agra",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "GIS Tools, CRM Software, Property Valuation, MS Office, Real Estate Law, Title Search, Negotiation Skills, Property Management",
+    "responsibilities": "Build relationships with channel partners and brokers. Achieve monthly and quarterly sales targets. Maintain a pipeline of qualified leads using CRM software. Manage relationships with existing customers post-purchase. Liaise with banks and NBFCs for home loan assistance to customers. Source and close property deals with prospective buyers and investors. Prepare presentations and proposals for institutional clients",
+    "benefits": "Competitive salary with performance-linked incentives. Learning & development budget. Life and accident insurance. Referral bonus program. Comprehensive health insurance for self and family. Provident Fund and Gratuity as per company policy",
+    "industry": "realestate",
+    "occupationalCategory": "Senior Property Advisor",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Learning & development budget, Life and accident insurance, Referral bonus program, Comprehensive health insurance for self and family, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "We at DLF are looking for an experienced Senior Property Advisor based out of Agra. If you are a result-oriented professional with a passion for excellence, we ",
+    "keywords": "Senior Property Advisor, DLF, jobs in Agra, Uttar Pradesh jobs, realestate jobs India, GIS Tools, CRM Software, Property Valuation, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:53:10.465Z",
+  "page": 170
+}
