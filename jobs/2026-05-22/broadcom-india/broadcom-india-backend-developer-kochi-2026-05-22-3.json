@@ -1,0 +1,93 @@
+{
+  "slug": "broadcom-india-backend-developer-kochi-2026-05-22-3",
+  "title": "Backend Developer Vacancy at Broadcom India - 2026 Batch",
+  "company": "Broadcom India",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Kochi",
+    "state": "Kerala",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "JavaScript",
+    "REST APIs",
+    "Docker",
+    "CI/CD",
+    "Agile/Scrum",
+    "Python",
+    "Go",
+    "MongoDB"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Broadcom India - 2026 Batch",
+    "description": "Broadcom India, one of India's leading organizations, is hiring a Backend Developer for our Kochi operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Broadcom India:\nBroadcom India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Implement new features based on product requirements\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Optimize application performance and ensure high availability\n• Contribute to system architecture and technical design decisions\n• Participate in on-call rotation for production support\n• Design, develop and maintain scalable software applications\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 0-1 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in REST APIs\n• Proficiency in Docker\n• Proficiency in CI/CD\n• Proficiency in Agile/Scrum\n• Proficiency in Python\n• Proficiency in Go\n• Proficiency in MongoDB\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Life and accident insurance\n• Comprehensive health insurance for self and family\n• Modern office with recreational facilities\n• Company-sponsored certifications\n• Maternity and paternity leave\n• Mobile and internet reimbursement\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Kochi, Kerala, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Broadcom India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Broadcom India",
+      "value": "49-3-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Broadcom India",
+      "sameAs": "https://www.google.com/search?q=Broadcom%20India",
+      "logo": "https://logo.clearbit.com/broadcomindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Broadcom India Office",
+        "addressLocality": "Kochi",
+        "addressRegion": "Kerala",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "JavaScript, REST APIs, Docker, CI/CD, Agile/Scrum, Python, Go, MongoDB",
+    "responsibilities": "Work with agile methodologies including daily stand-ups and sprint planning. Implement new features based on product requirements. Mentor junior developers and conduct knowledge-sharing sessions. Optimize application performance and ensure high availability. Contribute to system architecture and technical design decisions. Participate in on-call rotation for production support. Design, develop and maintain scalable software applications",
+    "benefits": "Life and accident insurance. Comprehensive health insurance for self and family. Modern office with recreational facilities. Company-sponsored certifications. Maternity and paternity leave. Mobile and internet reimbursement",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Comprehensive health insurance for self and family, Modern office with recreational facilities, Company-sponsored certifications, Maternity and paternity leave, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "Broadcom India, one of India's leading organizations, is hiring a Backend Developer for our Kochi operations. We offer a competitive salary package along with w",
+    "keywords": "Backend Developer, Broadcom India, jobs in Kochi, Kerala jobs, technology jobs India, JavaScript, REST APIs, Docker, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:33:08.548Z",
+  "page": 12
+}
