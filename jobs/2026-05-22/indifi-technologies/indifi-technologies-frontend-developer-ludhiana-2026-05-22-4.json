@@ -1,0 +1,93 @@
+{
+  "slug": "indifi-technologies-frontend-developer-ludhiana-2026-05-22-4",
+  "title": "Senior Frontend Developer at Indifi Technologies",
+  "company": "Indifi Technologies",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Ludhiana",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "JavaScript",
+    "TensorFlow",
+    "Git",
+    "Python",
+    "MongoDB",
+    "Rust",
+    "Agile/Scrum",
+    "REST APIs"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Frontend Developer at Indifi Technologies",
+    "description": "Join the Indifi Technologies family as a Frontend Developer in Ludhiana. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Indifi Technologies:\nIndifi Technologies is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Ensure code security and follow best practices for data protection\n• Participate in on-call rotation for production support\n• Implement new features based on product requirements\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Contribute to system architecture and technical design decisions\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 1-3 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in TensorFlow\n• Proficiency in Git\n• Proficiency in Python\n• Proficiency in MongoDB\n• Proficiency in Rust\n• Proficiency in Agile/Scrum\n• Proficiency in REST APIs\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Maternity and paternity leave\n• Annual paid leaves and casual leaves\n• Provident Fund and Gratuity as per company policy\n• Company-sponsored certifications\n• Comprehensive health insurance for self and family\n• Transportation and conveyance allowance\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Ludhiana, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Indifi Technologies!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Indifi Technologies",
+      "value": "95-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Indifi Technologies",
+      "sameAs": "https://www.google.com/search?q=Indifi%20Technologies",
+      "logo": "https://logo.clearbit.com/indifitechnologies.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Indifi Technologies Office",
+        "addressLocality": "Ludhiana",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "JavaScript, TensorFlow, Git, Python, MongoDB, Rust, Agile/Scrum, REST APIs",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Mentor junior developers and conduct knowledge-sharing sessions. Ensure code security and follow best practices for data protection. Participate in on-call rotation for production support. Implement new features based on product requirements. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Contribute to system architecture and technical design decisions",
+    "benefits": "Maternity and paternity leave. Annual paid leaves and casual leaves. Provident Fund and Gratuity as per company policy. Company-sponsored certifications. Comprehensive health insurance for self and family. Transportation and conveyance allowance",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Maternity and paternity leave, Annual paid leaves and casual leaves, Provident Fund and Gratuity as per company policy, Company-sponsored certifications, Comprehensive health insurance for self and family, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "Join the Indifi Technologies family as a Frontend Developer in Ludhiana. We believe in empowering our employees with the tools, training, and environment they n",
+    "keywords": "Frontend Developer, Indifi Technologies, jobs in Ludhiana, Punjab jobs, technology jobs India, JavaScript, TensorFlow, Git, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:34:34.326Z",
+  "page": 23
+}
