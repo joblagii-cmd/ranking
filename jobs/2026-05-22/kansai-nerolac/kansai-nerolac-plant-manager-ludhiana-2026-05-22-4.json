@@ -1,0 +1,93 @@
+{
+  "slug": "kansai-nerolac-plant-manager-ludhiana-2026-05-22-4",
+  "title": "Mid-Level Plant Manager at Kansai Nerolac",
+  "company": "Kansai Nerolac",
+  "industry": "manufacturing",
+  "role": "Plant Manager",
+  "location": {
+    "city": "Ludhiana",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "SAP MM/PP",
+    "ERP Systems",
+    "Supply Chain Management",
+    "PPAP",
+    "ISO 9001",
+    "PLC/SCADA",
+    "5S",
+    "SolidWorks"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Plant Manager at Kansai Nerolac",
+    "description": "We at Kansai Nerolac are looking for an experienced Plant Manager based out of Ludhiana. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout Kansai Nerolac:\nKansai Nerolac is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Prepare production cost analysis and efficiency reports\n• Implement 5S, Kaizen, and Six Sigma practices on the shop floor\n• Ensure environmental compliance and waste management\n• Monitor equipment performance and coordinate preventive maintenance\n• Coordinate with design and engineering teams on product improvements\n• Train and supervise shop floor workers and supervisors\n• Manage raw material procurement and inventory levels\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 6-10 years of relevant experience\n• Proficiency in SAP MM/PP\n• Proficiency in ERP Systems\n• Proficiency in Supply Chain Management\n• Proficiency in PPAP\n• Proficiency in ISO 9001\n• Proficiency in PLC/SCADA\n• Proficiency in 5S\n• Proficiency in SolidWorks\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Employee stock options (ESOPs) for eligible roles\n• Mobile and internet reimbursement\n• Modern office with recreational facilities\n• Company-sponsored certifications\n• Annual performance appraisal\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Ludhiana, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Kansai Nerolac!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Kansai Nerolac",
+      "value": "428-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Kansai Nerolac",
+      "sameAs": "https://www.google.com/search?q=Kansai%20Nerolac",
+      "logo": "https://logo.clearbit.com/kansainerolac.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Kansai Nerolac Office",
+        "addressLocality": "Ludhiana",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "SAP MM/PP, ERP Systems, Supply Chain Management, PPAP, ISO 9001, PLC/SCADA, 5S, SolidWorks",
+    "responsibilities": "Prepare production cost analysis and efficiency reports. Implement 5S, Kaizen, and Six Sigma practices on the shop floor. Ensure environmental compliance and waste management. Monitor equipment performance and coordinate preventive maintenance. Coordinate with design and engineering teams on product improvements. Train and supervise shop floor workers and supervisors. Manage raw material procurement and inventory levels",
+    "benefits": "International travel opportunities for senior roles. Employee stock options (ESOPs) for eligible roles. Mobile and internet reimbursement. Modern office with recreational facilities. Company-sponsored certifications. Annual performance appraisal",
+    "industry": "manufacturing",
+    "occupationalCategory": "Plant Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Employee stock options (ESOPs) for eligible roles, Mobile and internet reimbursement, Modern office with recreational facilities, Company-sponsored certifications, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "We at Kansai Nerolac are looking for an experienced Plant Manager based out of Ludhiana. If you are a result-oriented professional with a passion for excellence",
+    "keywords": "Plant Manager, Kansai Nerolac, jobs in Ludhiana, Punjab jobs, manufacturing jobs India, SAP MM/PP, ERP Systems, Supply Chain Management, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:45:09.756Z",
+  "page": 106
+}
