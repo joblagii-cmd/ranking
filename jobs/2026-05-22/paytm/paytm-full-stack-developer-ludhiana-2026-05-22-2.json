@@ -1,0 +1,94 @@
+{
+  "slug": "paytm-full-stack-developer-ludhiana-2026-05-22-2",
+  "title": "Paytm is Hiring: Full Stack Developer (Junior)",
+  "company": "Paytm",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Ludhiana",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Node.js",
+    "React",
+    "Microservices",
+    "Kubernetes",
+    "Docker",
+    "Rust",
+    "Java",
+    "Python"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Paytm is Hiring: Full Stack Developer (Junior)",
+    "description": "Are you a skilled Full Stack Developer looking for your next big career move? Paytm in Ludhiana offers you the perfect platform to grow professionally and personally.\n\nAbout Paytm:\nPaytm is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Integrate third-party APIs and services\n• Write clean, maintainable, and well-documented code\n• Implement new features based on product requirements\n• Write and execute unit tests and integration tests\n• Participate in on-call rotation for production support\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 12-20 years of relevant experience\n• Proficiency in Node.js\n• Proficiency in React\n• Proficiency in Microservices\n• Proficiency in Kubernetes\n• Proficiency in Docker\n• Proficiency in Rust\n• Proficiency in Java\n• Proficiency in Python\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Modern office with recreational facilities\n• Annual performance appraisal\n• Employee stock options (ESOPs) for eligible roles\n• Meal coupons and food allowance\n• Flexible working hours\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Ludhiana, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Paytm!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Paytm",
+      "value": "14-2-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Paytm",
+      "sameAs": "https://www.google.com/search?q=Paytm",
+      "logo": "https://logo.clearbit.com/paytm.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Paytm Office",
+        "addressLocality": "Ludhiana",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "Node.js, React, Microservices, Kubernetes, Docker, Rust, Java, Python",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Mentor junior developers and conduct knowledge-sharing sessions. Integrate third-party APIs and services. Write clean, maintainable, and well-documented code. Implement new features based on product requirements. Write and execute unit tests and integration tests. Participate in on-call rotation for production support",
+    "benefits": "Provident Fund and Gratuity as per company policy. Modern office with recreational facilities. Annual performance appraisal. Employee stock options (ESOPs) for eligible roles. Meal coupons and food allowance. Flexible working hours",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Modern office with recreational facilities, Annual performance appraisal, Employee stock options (ESOPs) for eligible roles, Meal coupons and food allowance, Flexible working hours"
+  },
+  "meta": {
+    "description": "Are you a skilled Full Stack Developer looking for your next big career move? Paytm in Ludhiana offers you the perfect platform to grow professionally and perso",
+    "keywords": "Full Stack Developer, Paytm, jobs in Ludhiana, Punjab jobs, technology jobs India, Node.js, React, Microservices, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:31:58.427Z",
+  "page": 3
+}
