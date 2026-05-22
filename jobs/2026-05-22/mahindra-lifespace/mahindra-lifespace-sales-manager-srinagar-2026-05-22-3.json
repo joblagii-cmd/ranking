@@ -1,0 +1,93 @@
+{
+  "slug": "mahindra-lifespace-sales-manager-srinagar-2026-05-22-3",
+  "title": "Sales Manager Vacancy at Mahindra Lifespace - 2026 Batch",
+  "company": "Mahindra Lifespace",
+  "industry": "realestate",
+  "role": "Sales Manager",
+  "location": {
+    "city": "Srinagar",
+    "state": "Jammu & Kashmir",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "RERA Compliance",
+    "Property Management",
+    "AutoCAD",
+    "MS Office",
+    "Real Estate Law",
+    "Property Valuation",
+    "GIS Tools",
+    "Market Research"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Sales Manager Vacancy at Mahindra Lifespace - 2026 Batch",
+    "description": "Mahindra Lifespace has an exciting opening for a Sales Manager at our Srinagar office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Mahindra Lifespace:\nMahindra Lifespace is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Build relationships with channel partners and brokers\n• Conduct site visits and property presentations for clients\n• Coordinate with legal teams for documentation and title verification\n• Prepare presentations and proposals for institutional clients\n• Achieve monthly and quarterly sales targets\n• Manage relationships with existing customers post-purchase\n• Maintain a pipeline of qualified leads using CRM software\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 6-10 years of relevant experience\n• Proficiency in RERA Compliance\n• Proficiency in Property Management\n• Proficiency in AutoCAD\n• Proficiency in MS Office\n• Proficiency in Real Estate Law\n• Proficiency in Property Valuation\n• Proficiency in GIS Tools\n• Proficiency in Market Research\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Company-sponsored certifications\n• Mobile and internet reimbursement\n• Employee stock options (ESOPs) for eligible roles\n• Annual paid leaves and casual leaves\n• Transportation and conveyance allowance\n• Competitive salary with performance-linked incentives\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Srinagar, Jammu & Kashmir, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Mahindra Lifespace!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Mahindra Lifespace",
+      "value": "690-3-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Mahindra Lifespace",
+      "sameAs": "https://www.google.com/search?q=Mahindra%20Lifespace",
+      "logo": "https://logo.clearbit.com/mahindralifespace.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Mahindra Lifespace Office",
+        "addressLocality": "Srinagar",
+        "addressRegion": "Jammu & Kashmir",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "RERA Compliance, Property Management, AutoCAD, MS Office, Real Estate Law, Property Valuation, GIS Tools, Market Research",
+    "responsibilities": "Build relationships with channel partners and brokers. Conduct site visits and property presentations for clients. Coordinate with legal teams for documentation and title verification. Prepare presentations and proposals for institutional clients. Achieve monthly and quarterly sales targets. Manage relationships with existing customers post-purchase. Maintain a pipeline of qualified leads using CRM software",
+    "benefits": "Company-sponsored certifications. Mobile and internet reimbursement. Employee stock options (ESOPs) for eligible roles. Annual paid leaves and casual leaves. Transportation and conveyance allowance. Competitive salary with performance-linked incentives",
+    "industry": "realestate",
+    "occupationalCategory": "Sales Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Company-sponsored certifications, Mobile and internet reimbursement, Employee stock options (ESOPs) for eligible roles, Annual paid leaves and casual leaves, Transportation and conveyance allowance, Competitive salary with performance-linked incentives"
+  },
+  "meta": {
+    "description": "Mahindra Lifespace has an exciting opening for a Sales Manager at our Srinagar office. Join a company that values innovation, collaboration, and continuous lear",
+    "keywords": "Sales Manager, Mahindra Lifespace, jobs in Srinagar, Jammu & Kashmir jobs, realestate jobs India, RERA Compliance, Property Management, AutoCAD, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:53:25.490Z",
+  "page": 172
+}
