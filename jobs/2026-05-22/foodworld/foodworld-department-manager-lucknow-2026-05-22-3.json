@@ -1,0 +1,93 @@
+{
+  "slug": "foodworld-department-manager-lucknow-2026-05-22-3",
+  "title": "Department Manager Vacancy at FoodWorld - 2026 Batch",
+  "company": "FoodWorld",
+  "industry": "retail",
+  "role": "Department Manager",
+  "location": {
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Planogram",
+    "Sales Techniques",
+    "Loss Prevention",
+    "Retail Analytics",
+    "Category Management",
+    "MS Excel",
+    "Customer Service",
+    "Retail Operations"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Department Manager Vacancy at FoodWorld - 2026 Batch",
+    "description": "FoodWorld is actively seeking a talented and motivated Department Manager to join our dynamic team in Lucknow. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout FoodWorld:\nFoodWorld is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Assist in recruiting, onboarding, and performance management of staff\n• Ensure visual merchandising standards are maintained at all times\n• Achieve sales targets and improve store performance metrics\n• Handle customer queries, complaints, and escalations effectively\n• Manage store operations to ensure smooth daily functioning\n• Manage shrinkage and reduce stock discrepancies\n• Prepare daily sales reports and share insights with management\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 12-20 years of relevant experience\n• Proficiency in Planogram\n• Proficiency in Sales Techniques\n• Proficiency in Loss Prevention\n• Proficiency in Retail Analytics\n• Proficiency in Category Management\n• Proficiency in MS Excel\n• Proficiency in Customer Service\n• Proficiency in Retail Operations\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Work-from-home flexibility\n• International travel opportunities for senior roles\n• Comprehensive health insurance for self and family\n• Life and accident insurance\n• Modern office with recreational facilities\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Lucknow, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with FoodWorld!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "FoodWorld",
+      "value": "661-3-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "FoodWorld",
+      "sameAs": "https://www.google.com/search?q=FoodWorld",
+      "logo": "https://logo.clearbit.com/foodworld.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "FoodWorld Office",
+        "addressLocality": "Lucknow",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "Planogram, Sales Techniques, Loss Prevention, Retail Analytics, Category Management, MS Excel, Customer Service, Retail Operations",
+    "responsibilities": "Assist in recruiting, onboarding, and performance management of staff. Ensure visual merchandising standards are maintained at all times. Achieve sales targets and improve store performance metrics. Handle customer queries, complaints, and escalations effectively. Manage store operations to ensure smooth daily functioning. Manage shrinkage and reduce stock discrepancies. Prepare daily sales reports and share insights with management",
+    "benefits": "Work-from-home flexibility. International travel opportunities for senior roles. Comprehensive health insurance for self and family. Life and accident insurance. Modern office with recreational facilities. Employee stock options (ESOPs) for eligible roles",
+    "industry": "retail",
+    "occupationalCategory": "Department Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, International travel opportunities for senior roles, Comprehensive health insurance for self and family, Life and accident insurance, Modern office with recreational facilities, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "FoodWorld is actively seeking a talented and motivated Department Manager to join our dynamic team in Lucknow. This is an excellent opportunity for professional",
+    "keywords": "Department Manager, FoodWorld, jobs in Lucknow, Uttar Pradesh jobs, retail jobs India, Planogram, Sales Techniques, Loss Prevention, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:52:33.195Z",
+  "page": 165
+}

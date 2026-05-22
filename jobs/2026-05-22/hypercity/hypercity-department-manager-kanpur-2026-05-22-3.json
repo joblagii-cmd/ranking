@@ -1,0 +1,94 @@
+{
+  "slug": "hypercity-department-manager-kanpur-2026-05-22-3",
+  "title": "Department Manager Vacancy at Hypercity - 2026 Batch",
+  "company": "Hypercity",
+  "industry": "retail",
+  "role": "Department Manager",
+  "location": {
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Shrinkage Control",
+    "Team Leadership",
+    "Inventory Management",
+    "Loyalty Programs",
+    "KPI Management",
+    "Omnichannel Retail",
+    "POS Systems",
+    "Customer Service"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Department Manager Vacancy at Hypercity - 2026 Batch",
+    "description": "Hypercity is actively seeking a talented and motivated Department Manager to join our dynamic team in Kanpur. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout Hypercity:\nHypercity is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Achieve sales targets and improve store performance metrics\n• Build relationships with regular customers to drive loyalty\n• Ensure compliance with company policies and retail regulations\n• Handle customer queries, complaints, and escalations effectively\n• Prepare daily sales reports and share insights with management\n• Train and motivate the sales team to deliver excellent service\n• Ensure visual merchandising standards are maintained at all times\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 10-15 years of relevant experience\n• Proficiency in Shrinkage Control\n• Proficiency in Team Leadership\n• Proficiency in Inventory Management\n• Proficiency in Loyalty Programs\n• Proficiency in KPI Management\n• Proficiency in Omnichannel Retail\n• Proficiency in POS Systems\n• Proficiency in Customer Service\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Flexible working hours\n• Professional development and training programs\n• Meal coupons and food allowance\n• Learning & development budget\n• Transportation and conveyance allowance\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Kanpur, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Hypercity!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Hypercity",
+      "value": "662-3-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Hypercity",
+      "sameAs": "https://www.google.com/search?q=Hypercity",
+      "logo": "https://logo.clearbit.com/hypercity.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Hypercity Office",
+        "addressLocality": "Kanpur",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "Shrinkage Control, Team Leadership, Inventory Management, Loyalty Programs, KPI Management, Omnichannel Retail, POS Systems, Customer Service",
+    "responsibilities": "Achieve sales targets and improve store performance metrics. Build relationships with regular customers to drive loyalty. Ensure compliance with company policies and retail regulations. Handle customer queries, complaints, and escalations effectively. Prepare daily sales reports and share insights with management. Train and motivate the sales team to deliver excellent service. Ensure visual merchandising standards are maintained at all times",
+    "benefits": "Flexible working hours. Professional development and training programs. Meal coupons and food allowance. Learning & development budget. Transportation and conveyance allowance. Employee stock options (ESOPs) for eligible roles",
+    "industry": "retail",
+    "occupationalCategory": "Department Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, Professional development and training programs, Meal coupons and food allowance, Learning & development budget, Transportation and conveyance allowance, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "Hypercity is actively seeking a talented and motivated Department Manager to join our dynamic team in Kanpur. This is an excellent opportunity for professionals",
+    "keywords": "Department Manager, Hypercity, jobs in Kanpur, Uttar Pradesh jobs, retail jobs India, Shrinkage Control, Team Leadership, Inventory Management, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:52:33.195Z",
+  "page": 165
+}
