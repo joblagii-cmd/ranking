@@ -1,0 +1,94 @@
+{
+  "slug": "mrf-production-engineer-delhi-2026-05-22-0",
+  "title": "Opening for Production Engineer at MRF",
+  "company": "MRF",
+  "industry": "manufacturing",
+  "role": "Production Engineer",
+  "location": {
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Quality Control",
+    "Kaizen",
+    "GD&T",
+    "Project Management",
+    "ISO 9001",
+    "Six Sigma",
+    "Root Cause Analysis",
+    "TPM"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Opening for Production Engineer at MRF",
+    "description": "Are you a skilled Production Engineer looking for your next big career move? MRF in Delhi offers you the perfect platform to grow professionally and personally.\n\nAbout MRF:\nMRF is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Maintain accurate production records and prepare daily reports\n• Oversee daily production operations to meet output targets\n• Ensure compliance with safety regulations and factory acts\n• Manage raw material procurement and inventory levels\n• Conduct root cause analysis for quality rejections and defects\n• Ensure environmental compliance and waste management\n• Coordinate with logistics for dispatching finished goods\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 3-6 years of relevant experience\n• Proficiency in Quality Control\n• Proficiency in Kaizen\n• Proficiency in GD&T\n• Proficiency in Project Management\n• Proficiency in ISO 9001\n• Proficiency in Six Sigma\n• Proficiency in Root Cause Analysis\n• Proficiency in TPM\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Life and accident insurance\n• Transportation and conveyance allowance\n• Annual paid leaves and casual leaves\n• Competitive salary with performance-linked incentives\n• Work-from-home flexibility\n• Flexible working hours\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Delhi, Delhi, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with MRF!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "MRF",
+      "value": "481-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "MRF",
+      "sameAs": "https://www.google.com/search?q=MRF",
+      "logo": "https://logo.clearbit.com/mrf.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "MRF Office",
+        "addressLocality": "Delhi",
+        "addressRegion": "Delhi",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Quality Control, Kaizen, GD&T, Project Management, ISO 9001, Six Sigma, Root Cause Analysis, TPM",
+    "responsibilities": "Maintain accurate production records and prepare daily reports. Oversee daily production operations to meet output targets. Ensure compliance with safety regulations and factory acts. Manage raw material procurement and inventory levels. Conduct root cause analysis for quality rejections and defects. Ensure environmental compliance and waste management. Coordinate with logistics for dispatching finished goods",
+    "benefits": "Life and accident insurance. Transportation and conveyance allowance. Annual paid leaves and casual leaves. Competitive salary with performance-linked incentives. Work-from-home flexibility. Flexible working hours",
+    "industry": "manufacturing",
+    "occupationalCategory": "Production Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Transportation and conveyance allowance, Annual paid leaves and casual leaves, Competitive salary with performance-linked incentives, Work-from-home flexibility, Flexible working hours"
+  },
+  "meta": {
+    "description": "Are you a skilled Production Engineer looking for your next big career move? MRF in Delhi offers you the perfect platform to grow professionally and personally.",
+    "keywords": "Production Engineer, MRF, jobs in Delhi, Delhi jobs, manufacturing jobs India, Quality Control, Kaizen, GD&T, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:46:55.062Z",
+  "page": 120
+}
