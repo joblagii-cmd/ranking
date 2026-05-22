@@ -1,0 +1,93 @@
+{
+  "slug": "indifi-technologies-holdings-services-frontend-developer-rajkot-2026-05-22-4",
+  "title": "Senior Frontend Developer at Indifi Technologies Holdings Services",
+  "company": "Indifi Technologies Holdings Services",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Git",
+    "Python",
+    "Kubernetes",
+    "MongoDB",
+    "Agile/Scrum",
+    "JavaScript",
+    "Java",
+    "AWS"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Frontend Developer at Indifi Technologies Holdings Services",
+    "description": "An exciting career opportunity awaits you at Indifi Technologies Holdings Services. We are on the lookout for a dedicated Frontend Developer to strengthen our Rajkot-based team.\n\nAbout Indifi Technologies Holdings Services:\nIndifi Technologies Holdings Services is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Implement new features based on product requirements\n• Contribute to system architecture and technical design decisions\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Participate in on-call rotation for production support\n• Integrate third-party APIs and services\n• Ensure code security and follow best practices for data protection\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 0-1 years of relevant experience\n• Proficiency in Git\n• Proficiency in Python\n• Proficiency in Kubernetes\n• Proficiency in MongoDB\n• Proficiency in Agile/Scrum\n• Proficiency in JavaScript\n• Proficiency in Java\n• Proficiency in AWS\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Work-from-home flexibility\n• International travel opportunities for senior roles\n• Company-sponsored certifications\n• Annual paid leaves and casual leaves\n• Annual performance appraisal\n• Meal coupons and food allowance\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Rajkot, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Indifi Technologies Holdings Services!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Indifi Technologies Holdings Services",
+      "value": "1935-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Indifi Technologies Holdings Services",
+      "sameAs": "https://www.google.com/search?q=Indifi%20Technologies%20Holdings%20Services",
+      "logo": "https://logo.clearbit.com/indifitechnologiesholdingsservices.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Indifi Technologies Holdings Services Office",
+        "addressLocality": "Rajkot",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "Git, Python, Kubernetes, MongoDB, Agile/Scrum, JavaScript, Java, AWS",
+    "responsibilities": "Implement new features based on product requirements. Contribute to system architecture and technical design decisions. Troubleshoot, debug, and resolve software defects and performance issues. Work with agile methodologies including daily stand-ups and sprint planning. Participate in on-call rotation for production support. Integrate third-party APIs and services. Ensure code security and follow best practices for data protection",
+    "benefits": "Work-from-home flexibility. International travel opportunities for senior roles. Company-sponsored certifications. Annual paid leaves and casual leaves. Annual performance appraisal. Meal coupons and food allowance",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, International travel opportunities for senior roles, Company-sponsored certifications, Annual paid leaves and casual leaves, Annual performance appraisal, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Indifi Technologies Holdings Services. We are on the lookout for a dedicated Frontend Developer to strengthen our R",
+    "keywords": "Frontend Developer, Indifi Technologies Holdings Services, jobs in Rajkot, Gujarat jobs, technology jobs India, Git, Python, Kubernetes, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:56:51.879Z",
+  "page": 483
+}

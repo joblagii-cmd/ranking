@@ -1,0 +1,93 @@
+{
+  "slug": "lendingkart-capital-india-senior-software-engineer-faridabad-2026-05-22-1",
+  "title": "Senior Software Engineer - Lendingkart Capital India - Experienced Professionals",
+  "company": "Lendingkart Capital India",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Faridabad",
+    "state": "Haryana",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "React",
+    "MongoDB",
+    "CI/CD",
+    "Java",
+    "Go",
+    "AWS",
+    "Docker",
+    "Agile/Scrum"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Lendingkart Capital India - Experienced Professionals",
+    "description": "Lendingkart Capital India, one of India's leading organizations, is hiring a Senior Software Engineer for our Faridabad operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Lendingkart Capital India:\nLendingkart Capital India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Integrate third-party APIs and services\n• Participate in code reviews and contribute to technical discussions\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Write clean, maintainable, and well-documented code\n• Optimize application performance and ensure high availability\n• Ensure code security and follow best practices for data protection\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 12-20 years of relevant experience\n• Proficiency in React\n• Proficiency in MongoDB\n• Proficiency in CI/CD\n• Proficiency in Java\n• Proficiency in Go\n• Proficiency in AWS\n• Proficiency in Docker\n• Proficiency in Agile/Scrum\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Recognition and rewards programs\n• Referral bonus program\n• Modern office with recreational facilities\n• Comprehensive health insurance for self and family\n• Professional development and training programs\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Faridabad, Haryana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Lendingkart Capital India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Lendingkart Capital India",
+      "value": "1933-1-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Lendingkart Capital India",
+      "sameAs": "https://www.google.com/search?q=Lendingkart%20Capital%20India",
+      "logo": "https://logo.clearbit.com/lendingkartcapitalindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Lendingkart Capital India Office",
+        "addressLocality": "Faridabad",
+        "addressRegion": "Haryana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "React, MongoDB, CI/CD, Java, Go, AWS, Docker, Agile/Scrum",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Integrate third-party APIs and services. Participate in code reviews and contribute to technical discussions. Troubleshoot, debug, and resolve software defects and performance issues. Write clean, maintainable, and well-documented code. Optimize application performance and ensure high availability. Ensure code security and follow best practices for data protection",
+    "benefits": "Competitive salary with performance-linked incentives. Recognition and rewards programs. Referral bonus program. Modern office with recreational facilities. Comprehensive health insurance for self and family. Professional development and training programs",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Recognition and rewards programs, Referral bonus program, Modern office with recreational facilities, Comprehensive health insurance for self and family, Professional development and training programs"
+  },
+  "meta": {
+    "description": "Lendingkart Capital India, one of India's leading organizations, is hiring a Senior Software Engineer for our Faridabad operations. We offer a competitive salar",
+    "keywords": "Senior Software Engineer, Lendingkart Capital India, jobs in Faridabad, Haryana jobs, technology jobs India, React, MongoDB, CI/CD, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:56:51.879Z",
+  "page": 483
+}

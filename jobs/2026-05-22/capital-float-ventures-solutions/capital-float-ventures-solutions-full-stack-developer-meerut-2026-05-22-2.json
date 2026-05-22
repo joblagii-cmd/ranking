@@ -1,0 +1,93 @@
+{
+  "slug": "capital-float-ventures-solutions-full-stack-developer-meerut-2026-05-22-2",
+  "title": "Capital Float Ventures Solutions is Hiring: Full Stack Developer (Senior)",
+  "company": "Capital Float Ventures Solutions",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "AWS",
+    "TypeScript",
+    "Agile/Scrum",
+    "REST APIs",
+    "MongoDB",
+    "CI/CD",
+    "Rust",
+    "Go"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Capital Float Ventures Solutions is Hiring: Full Stack Developer (Senior)",
+    "description": "An exciting career opportunity awaits you at Capital Float Ventures Solutions. We are on the lookout for a dedicated Full Stack Developer to strengthen our Meerut-based team.\n\nAbout Capital Float Ventures Solutions:\nCapital Float Ventures Solutions is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Optimize application performance and ensure high availability\n• Implement new features based on product requirements\n• Contribute to system architecture and technical design decisions\n• Ensure code security and follow best practices for data protection\n• Integrate third-party APIs and services\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Participate in on-call rotation for production support\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 6-10 years of relevant experience\n• Proficiency in AWS\n• Proficiency in TypeScript\n• Proficiency in Agile/Scrum\n• Proficiency in REST APIs\n• Proficiency in MongoDB\n• Proficiency in CI/CD\n• Proficiency in Rust\n• Proficiency in Go\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Life and accident insurance\n• Work-from-home flexibility\n• Maternity and paternity leave\n• Provident Fund and Gratuity as per company policy\n• Mobile and internet reimbursement\n• Company-sponsored certifications\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Meerut, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Capital Float Ventures Solutions!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Capital Float Ventures Solutions",
+      "value": "1934-2-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Capital Float Ventures Solutions",
+      "sameAs": "https://www.google.com/search?q=Capital%20Float%20Ventures%20Solutions",
+      "logo": "https://logo.clearbit.com/capitalfloatventuressolutions.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Capital Float Ventures Solutions Office",
+        "addressLocality": "Meerut",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "AWS, TypeScript, Agile/Scrum, REST APIs, MongoDB, CI/CD, Rust, Go",
+    "responsibilities": "Optimize application performance and ensure high availability. Implement new features based on product requirements. Contribute to system architecture and technical design decisions. Ensure code security and follow best practices for data protection. Integrate third-party APIs and services. Troubleshoot, debug, and resolve software defects and performance issues. Participate in on-call rotation for production support",
+    "benefits": "Life and accident insurance. Work-from-home flexibility. Maternity and paternity leave. Provident Fund and Gratuity as per company policy. Mobile and internet reimbursement. Company-sponsored certifications",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Work-from-home flexibility, Maternity and paternity leave, Provident Fund and Gratuity as per company policy, Mobile and internet reimbursement, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Capital Float Ventures Solutions. We are on the lookout for a dedicated Full Stack Developer to strengthen our Meer",
+    "keywords": "Full Stack Developer, Capital Float Ventures Solutions, jobs in Meerut, Uttar Pradesh jobs, technology jobs India, AWS, TypeScript, Agile/Scrum, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:56:51.879Z",
+  "page": 483
+}

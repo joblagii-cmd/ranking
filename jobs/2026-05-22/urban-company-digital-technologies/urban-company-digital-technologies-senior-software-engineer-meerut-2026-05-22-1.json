@@ -1,0 +1,93 @@
+{
+  "slug": "urban-company-digital-technologies-senior-software-engineer-meerut-2026-05-22-1",
+  "title": "Senior Software Engineer - Urban Company Digital Technologies - Top MNC",
+  "company": "Urban Company Digital Technologies",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "MongoDB",
+    "Git",
+    "Agile/Scrum",
+    "Microservices",
+    "SQL",
+    "TensorFlow",
+    "Python",
+    "Rust"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Urban Company Digital Technologies - Top MNC",
+    "description": "An exciting career opportunity awaits you at Urban Company Digital Technologies. We are on the lookout for a dedicated Senior Software Engineer to strengthen our Meerut-based team.\n\nAbout Urban Company Digital Technologies:\nUrban Company Digital Technologies is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write clean, maintainable, and well-documented code\n• Design, develop and maintain scalable software applications\n• Ensure code security and follow best practices for data protection\n• Integrate third-party APIs and services\n• Contribute to system architecture and technical design decisions\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Implement new features based on product requirements\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 3-6 years of relevant experience\n• Proficiency in MongoDB\n• Proficiency in Git\n• Proficiency in Agile/Scrum\n• Proficiency in Microservices\n• Proficiency in SQL\n• Proficiency in TensorFlow\n• Proficiency in Python\n• Proficiency in Rust\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Recognition and rewards programs\n• Provident Fund and Gratuity as per company policy\n• Employee stock options (ESOPs) for eligible roles\n• Company-sponsored certifications\n• Comprehensive health insurance for self and family\n• Competitive salary with performance-linked incentives\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Meerut, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Urban Company Digital Technologies!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Urban Company Digital Technologies",
+      "value": "1936-1-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Urban Company Digital Technologies",
+      "sameAs": "https://www.google.com/search?q=Urban%20Company%20Digital%20Technologies",
+      "logo": "https://logo.clearbit.com/urbancompanydigitaltechnologies.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Urban Company Digital Technologies Office",
+        "addressLocality": "Meerut",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "MongoDB, Git, Agile/Scrum, Microservices, SQL, TensorFlow, Python, Rust",
+    "responsibilities": "Write clean, maintainable, and well-documented code. Design, develop and maintain scalable software applications. Ensure code security and follow best practices for data protection. Integrate third-party APIs and services. Contribute to system architecture and technical design decisions. Work with agile methodologies including daily stand-ups and sprint planning. Implement new features based on product requirements",
+    "benefits": "Recognition and rewards programs. Provident Fund and Gratuity as per company policy. Employee stock options (ESOPs) for eligible roles. Company-sponsored certifications. Comprehensive health insurance for self and family. Competitive salary with performance-linked incentives",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Recognition and rewards programs, Provident Fund and Gratuity as per company policy, Employee stock options (ESOPs) for eligible roles, Company-sponsored certifications, Comprehensive health insurance for self and family, Competitive salary with performance-linked incentives"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Urban Company Digital Technologies. We are on the lookout for a dedicated Senior Software Engineer to strengthen ou",
+    "keywords": "Senior Software Engineer, Urban Company Digital Technologies, jobs in Meerut, Uttar Pradesh jobs, technology jobs India, MongoDB, Git, Agile/Scrum, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:56:51.879Z",
+  "page": 483
+}

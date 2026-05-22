@@ -1,0 +1,93 @@
+{
+  "slug": "urban-company-digital-technologies-software-engineer-meerut-2026-05-22-0",
+  "title": "Opening for Software Engineer at Urban Company Digital Technologies",
+  "company": "Urban Company Digital Technologies",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Agile/Scrum",
+    "Python",
+    "Microservices",
+    "Kubernetes",
+    "Git",
+    "TensorFlow",
+    "Docker",
+    "JavaScript"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Opening for Software Engineer at Urban Company Digital Technologies",
+    "description": "An exciting career opportunity awaits you at Urban Company Digital Technologies. We are on the lookout for a dedicated Software Engineer to strengthen our Meerut-based team.\n\nAbout Urban Company Digital Technologies:\nUrban Company Digital Technologies is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in on-call rotation for production support\n• Design, develop and maintain scalable software applications\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Integrate third-party APIs and services\n• Implement new features based on product requirements\n• Write clean, maintainable, and well-documented code\n• Collaborate with cross-functional teams including product, design, and QA\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 6-10 years of relevant experience\n• Proficiency in Agile/Scrum\n• Proficiency in Python\n• Proficiency in Microservices\n• Proficiency in Kubernetes\n• Proficiency in Git\n• Proficiency in TensorFlow\n• Proficiency in Docker\n• Proficiency in JavaScript\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Learning & development budget\n• Mobile and internet reimbursement\n• Competitive salary with performance-linked incentives\n• Professional development and training programs\n• Work-from-home flexibility\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Meerut, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Urban Company Digital Technologies!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Urban Company Digital Technologies",
+      "value": "1936-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Urban Company Digital Technologies",
+      "sameAs": "https://www.google.com/search?q=Urban%20Company%20Digital%20Technologies",
+      "logo": "https://logo.clearbit.com/urbancompanydigitaltechnologies.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Urban Company Digital Technologies Office",
+        "addressLocality": "Meerut",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Agile/Scrum, Python, Microservices, Kubernetes, Git, TensorFlow, Docker, JavaScript",
+    "responsibilities": "Participate in on-call rotation for production support. Design, develop and maintain scalable software applications. Work with agile methodologies including daily stand-ups and sprint planning. Integrate third-party APIs and services. Implement new features based on product requirements. Write clean, maintainable, and well-documented code. Collaborate with cross-functional teams including product, design, and QA",
+    "benefits": "Annual paid leaves and casual leaves. Learning & development budget. Mobile and internet reimbursement. Competitive salary with performance-linked incentives. Professional development and training programs. Work-from-home flexibility",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Learning & development budget, Mobile and internet reimbursement, Competitive salary with performance-linked incentives, Professional development and training programs, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Urban Company Digital Technologies. We are on the lookout for a dedicated Software Engineer to strengthen our Meeru",
+    "keywords": "Software Engineer, Urban Company Digital Technologies, jobs in Meerut, Uttar Pradesh jobs, technology jobs India, Agile/Scrum, Python, Microservices, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:56:51.879Z",
+  "page": 483
+}

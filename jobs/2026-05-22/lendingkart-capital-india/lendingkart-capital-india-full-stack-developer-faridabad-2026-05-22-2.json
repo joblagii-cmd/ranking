@@ -1,0 +1,93 @@
+{
+  "slug": "lendingkart-capital-india-full-stack-developer-faridabad-2026-05-22-2",
+  "title": "Lendingkart Capital India is Hiring: Full Stack Developer (Senior)",
+  "company": "Lendingkart Capital India",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Faridabad",
+    "state": "Haryana",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "React",
+    "TypeScript",
+    "Java",
+    "Docker",
+    "Rust",
+    "Kubernetes",
+    "SQL",
+    "Agile/Scrum"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Lendingkart Capital India is Hiring: Full Stack Developer (Senior)",
+    "description": "An exciting career opportunity awaits you at Lendingkart Capital India. We are on the lookout for a dedicated Full Stack Developer to strengthen our Faridabad-based team.\n\nAbout Lendingkart Capital India:\nLendingkart Capital India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Design, develop and maintain scalable software applications\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Write clean, maintainable, and well-documented code\n• Contribute to system architecture and technical design decisions\n• Ensure code security and follow best practices for data protection\n• Optimize application performance and ensure high availability\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 10-15 years of relevant experience\n• Proficiency in React\n• Proficiency in TypeScript\n• Proficiency in Java\n• Proficiency in Docker\n• Proficiency in Rust\n• Proficiency in Kubernetes\n• Proficiency in SQL\n• Proficiency in Agile/Scrum\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Referral bonus program\n• Mobile and internet reimbursement\n• Employee stock options (ESOPs) for eligible roles\n• Comprehensive health insurance for self and family\n• Meal coupons and food allowance\n• Learning & development budget\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Faridabad, Haryana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Lendingkart Capital India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Lendingkart Capital India",
+      "value": "1933-2-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Lendingkart Capital India",
+      "sameAs": "https://www.google.com/search?q=Lendingkart%20Capital%20India",
+      "logo": "https://logo.clearbit.com/lendingkartcapitalindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Lendingkart Capital India Office",
+        "addressLocality": "Faridabad",
+        "addressRegion": "Haryana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "React, TypeScript, Java, Docker, Rust, Kubernetes, SQL, Agile/Scrum",
+    "responsibilities": "Work with agile methodologies including daily stand-ups and sprint planning. Design, develop and maintain scalable software applications. Troubleshoot, debug, and resolve software defects and performance issues. Write clean, maintainable, and well-documented code. Contribute to system architecture and technical design decisions. Ensure code security and follow best practices for data protection. Optimize application performance and ensure high availability",
+    "benefits": "Referral bonus program. Mobile and internet reimbursement. Employee stock options (ESOPs) for eligible roles. Comprehensive health insurance for self and family. Meal coupons and food allowance. Learning & development budget",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Referral bonus program, Mobile and internet reimbursement, Employee stock options (ESOPs) for eligible roles, Comprehensive health insurance for self and family, Meal coupons and food allowance, Learning & development budget"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Lendingkart Capital India. We are on the lookout for a dedicated Full Stack Developer to strengthen our Faridabad-b",
+    "keywords": "Full Stack Developer, Lendingkart Capital India, jobs in Faridabad, Haryana jobs, technology jobs India, React, TypeScript, Java, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:56:51.879Z",
+  "page": 483
+}

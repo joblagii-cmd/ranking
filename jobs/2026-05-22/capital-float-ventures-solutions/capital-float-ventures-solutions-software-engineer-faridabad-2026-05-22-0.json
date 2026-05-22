@@ -1,0 +1,93 @@
+{
+  "slug": "capital-float-ventures-solutions-software-engineer-faridabad-2026-05-22-0",
+  "title": "Immediate Requirement Software Engineer at Capital Float Ventures Solutions",
+  "company": "Capital Float Ventures Solutions",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Faridabad",
+    "state": "Haryana",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Docker",
+    "JavaScript",
+    "AWS",
+    "TensorFlow",
+    "Python",
+    "Java",
+    "Agile/Scrum",
+    "CI/CD"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Immediate Requirement Software Engineer at Capital Float Ventures Solutions",
+    "description": "Capital Float Ventures Solutions, one of India's leading organizations, is hiring a Software Engineer for our Faridabad operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Capital Float Ventures Solutions:\nCapital Float Ventures Solutions is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure code security and follow best practices for data protection\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Participate in code reviews and contribute to technical discussions\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Contribute to system architecture and technical design decisions\n• Participate in on-call rotation for production support\n• Work with agile methodologies including daily stand-ups and sprint planning\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 12-20 years of relevant experience\n• Proficiency in Docker\n• Proficiency in JavaScript\n• Proficiency in AWS\n• Proficiency in TensorFlow\n• Proficiency in Python\n• Proficiency in Java\n• Proficiency in Agile/Scrum\n• Proficiency in CI/CD\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Mobile and internet reimbursement\n• Company-sponsored certifications\n• Life and accident insurance\n• Competitive salary with performance-linked incentives\n• Professional development and training programs\n• Referral bonus program\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Faridabad, Haryana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Capital Float Ventures Solutions!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Capital Float Ventures Solutions",
+      "value": "1934-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Capital Float Ventures Solutions",
+      "sameAs": "https://www.google.com/search?q=Capital%20Float%20Ventures%20Solutions",
+      "logo": "https://logo.clearbit.com/capitalfloatventuressolutions.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Capital Float Ventures Solutions Office",
+        "addressLocality": "Faridabad",
+        "addressRegion": "Haryana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "Docker, JavaScript, AWS, TensorFlow, Python, Java, Agile/Scrum, CI/CD",
+    "responsibilities": "Ensure code security and follow best practices for data protection. Troubleshoot, debug, and resolve software defects and performance issues. Participate in code reviews and contribute to technical discussions. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Contribute to system architecture and technical design decisions. Participate in on-call rotation for production support. Work with agile methodologies including daily stand-ups and sprint planning",
+    "benefits": "Mobile and internet reimbursement. Company-sponsored certifications. Life and accident insurance. Competitive salary with performance-linked incentives. Professional development and training programs. Referral bonus program",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Mobile and internet reimbursement, Company-sponsored certifications, Life and accident insurance, Competitive salary with performance-linked incentives, Professional development and training programs, Referral bonus program"
+  },
+  "meta": {
+    "description": "Capital Float Ventures Solutions, one of India's leading organizations, is hiring a Software Engineer for our Faridabad operations. We offer a competitive salar",
+    "keywords": "Software Engineer, Capital Float Ventures Solutions, jobs in Faridabad, Haryana jobs, technology jobs India, Docker, JavaScript, AWS, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:56:51.879Z",
+  "page": 483
+}
