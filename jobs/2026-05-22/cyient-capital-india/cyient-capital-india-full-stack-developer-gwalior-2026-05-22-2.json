@@ -1,0 +1,94 @@
+{
+  "slug": "cyient-capital-india-full-stack-developer-gwalior-2026-05-22-2",
+  "title": "Cyient Capital India is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "Cyient Capital India",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "React",
+    "Microservices",
+    "JavaScript",
+    "Docker",
+    "Node.js",
+    "TypeScript",
+    "AWS",
+    "CI/CD"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Cyient Capital India is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "Cyient Capital India has an exciting opening for a Full Stack Developer at our Gwalior office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Cyient Capital India:\nCyient Capital India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure code security and follow best practices for data protection\n• Design, develop and maintain scalable software applications\n• Write clean, maintainable, and well-documented code\n• Participate in code reviews and contribute to technical discussions\n• Contribute to system architecture and technical design decisions\n• Implement new features based on product requirements\n• Integrate third-party APIs and services\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 0-1 years of relevant experience\n• Proficiency in React\n• Proficiency in Microservices\n• Proficiency in JavaScript\n• Proficiency in Docker\n• Proficiency in Node.js\n• Proficiency in TypeScript\n• Proficiency in AWS\n• Proficiency in CI/CD\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Maternity and paternity leave\n• Comprehensive health insurance for self and family\n• Modern office with recreational facilities\n• Professional development and training programs\n• Learning & development budget\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Gwalior, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Cyient Capital India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Cyient Capital India",
+      "value": "1873-2-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Cyient Capital India",
+      "sameAs": "https://www.google.com/search?q=Cyient%20Capital%20India",
+      "logo": "https://logo.clearbit.com/cyientcapitalindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Cyient Capital India Office",
+        "addressLocality": "Gwalior",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "React, Microservices, JavaScript, Docker, Node.js, TypeScript, AWS, CI/CD",
+    "responsibilities": "Ensure code security and follow best practices for data protection. Design, develop and maintain scalable software applications. Write clean, maintainable, and well-documented code. Participate in code reviews and contribute to technical discussions. Contribute to system architecture and technical design decisions. Implement new features based on product requirements. Integrate third-party APIs and services",
+    "benefits": "International travel opportunities for senior roles. Maternity and paternity leave. Comprehensive health insurance for self and family. Modern office with recreational facilities. Professional development and training programs. Learning & development budget",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Maternity and paternity leave, Comprehensive health insurance for self and family, Modern office with recreational facilities, Professional development and training programs, Learning & development budget"
+  },
+  "meta": {
+    "description": "Cyient Capital India has an exciting opening for a Full Stack Developer at our Gwalior office. Join a company that values innovation, collaboration, and continu",
+    "keywords": "Full Stack Developer, Cyient Capital India, jobs in Gwalior, Madhya Pradesh jobs, technology jobs India, React, Microservices, JavaScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:54:46.568Z",
+  "page": 468
+}

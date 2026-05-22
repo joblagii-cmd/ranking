@@ -1,0 +1,93 @@
+{
+  "slug": "cyient-capital-india-backend-developer-gwalior-2026-05-22-3",
+  "title": "Backend Developer Vacancy at Cyient Capital India - 2026 Batch",
+  "company": "Cyient Capital India",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Microservices",
+    "Docker",
+    "AWS",
+    "Machine Learning",
+    "REST APIs",
+    "Node.js",
+    "MongoDB",
+    "React"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Cyient Capital India - 2026 Batch",
+    "description": "Cyient Capital India has an exciting opening for a Backend Developer at our Gwalior office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Cyient Capital India:\nCyient Capital India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Contribute to system architecture and technical design decisions\n• Ensure code security and follow best practices for data protection\n• Design, develop and maintain scalable software applications\n• Participate in on-call rotation for production support\n• Write clean, maintainable, and well-documented code\n• Implement new features based on product requirements\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 12-20 years of relevant experience\n• Proficiency in Microservices\n• Proficiency in Docker\n• Proficiency in AWS\n• Proficiency in Machine Learning\n• Proficiency in REST APIs\n• Proficiency in Node.js\n• Proficiency in MongoDB\n• Proficiency in React\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Annual performance appraisal\n• Maternity and paternity leave\n• Mobile and internet reimbursement\n• Comprehensive health insurance for self and family\n• Referral bonus program\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Gwalior, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Cyient Capital India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Cyient Capital India",
+      "value": "1873-3-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Cyient Capital India",
+      "sameAs": "https://www.google.com/search?q=Cyient%20Capital%20India",
+      "logo": "https://logo.clearbit.com/cyientcapitalindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Cyient Capital India Office",
+        "addressLocality": "Gwalior",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "Microservices, Docker, AWS, Machine Learning, REST APIs, Node.js, MongoDB, React",
+    "responsibilities": "Work with agile methodologies including daily stand-ups and sprint planning. Contribute to system architecture and technical design decisions. Ensure code security and follow best practices for data protection. Design, develop and maintain scalable software applications. Participate in on-call rotation for production support. Write clean, maintainable, and well-documented code. Implement new features based on product requirements",
+    "benefits": "Competitive salary with performance-linked incentives. Annual performance appraisal. Maternity and paternity leave. Mobile and internet reimbursement. Comprehensive health insurance for self and family. Referral bonus program",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Annual performance appraisal, Maternity and paternity leave, Mobile and internet reimbursement, Comprehensive health insurance for self and family, Referral bonus program"
+  },
+  "meta": {
+    "description": "Cyient Capital India has an exciting opening for a Backend Developer at our Gwalior office. Join a company that values innovation, collaboration, and continuous",
+    "keywords": "Backend Developer, Cyient Capital India, jobs in Gwalior, Madhya Pradesh jobs, technology jobs India, Microservices, Docker, AWS, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:54:46.568Z",
+  "page": 468
+}
