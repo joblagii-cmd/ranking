@@ -1,0 +1,94 @@
+{
+  "slug": "nhpc-plant-manager-indore-2026-05-22-4",
+  "title": "Mid-Level Plant Manager at NHPC",
+  "company": "NHPC",
+  "industry": "manufacturing",
+  "role": "Plant Manager",
+  "location": {
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Six Sigma",
+    "PLC/SCADA",
+    "Lean Manufacturing",
+    "SAP MM/PP",
+    "Supply Chain Management",
+    "SolidWorks",
+    "Project Management",
+    "TPM"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Plant Manager at NHPC",
+    "description": "NHPC is actively seeking a talented and motivated Plant Manager to join our dynamic team in Indore. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout NHPC:\nNHPC is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with design and engineering teams on product improvements\n• Ensure environmental compliance and waste management\n• Ensure compliance with safety regulations and factory acts\n• Implement 5S, Kaizen, and Six Sigma practices on the shop floor\n• Prepare production cost analysis and efficiency reports\n• Conduct root cause analysis for quality rejections and defects\n• Monitor equipment performance and coordinate preventive maintenance\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 0-1 years of relevant experience\n• Proficiency in Six Sigma\n• Proficiency in PLC/SCADA\n• Proficiency in Lean Manufacturing\n• Proficiency in SAP MM/PP\n• Proficiency in Supply Chain Management\n• Proficiency in SolidWorks\n• Proficiency in Project Management\n• Proficiency in TPM\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Mobile and internet reimbursement\n• Maternity and paternity leave\n• Modern office with recreational facilities\n• Provident Fund and Gratuity as per company policy\n• International travel opportunities for senior roles\n• Annual performance appraisal\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Indore, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with NHPC!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "NHPC",
+      "value": "415-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "NHPC",
+      "sameAs": "https://www.google.com/search?q=NHPC",
+      "logo": "https://logo.clearbit.com/nhpc.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "NHPC Office",
+        "addressLocality": "Indore",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "Six Sigma, PLC/SCADA, Lean Manufacturing, SAP MM/PP, Supply Chain Management, SolidWorks, Project Management, TPM",
+    "responsibilities": "Coordinate with design and engineering teams on product improvements. Ensure environmental compliance and waste management. Ensure compliance with safety regulations and factory acts. Implement 5S, Kaizen, and Six Sigma practices on the shop floor. Prepare production cost analysis and efficiency reports. Conduct root cause analysis for quality rejections and defects. Monitor equipment performance and coordinate preventive maintenance",
+    "benefits": "Mobile and internet reimbursement. Maternity and paternity leave. Modern office with recreational facilities. Provident Fund and Gratuity as per company policy. International travel opportunities for senior roles. Annual performance appraisal",
+    "industry": "manufacturing",
+    "occupationalCategory": "Plant Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Mobile and internet reimbursement, Maternity and paternity leave, Modern office with recreational facilities, Provident Fund and Gratuity as per company policy, International travel opportunities for senior roles, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "NHPC is actively seeking a talented and motivated Plant Manager to join our dynamic team in Indore. This is an excellent opportunity for professionals who are p",
+    "keywords": "Plant Manager, NHPC, jobs in Indore, Madhya Pradesh jobs, manufacturing jobs India, Six Sigma, PLC/SCADA, Lean Manufacturing, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:44:46.293Z",
+  "page": 103
+}
