@@ -19,21 +19,27 @@ export default async function handler(req, res) {
         dates = data
           .filter(f => f.type === "dir" && /^\d{4}-\d{2}-\d{2}$/.test(f.name))
           .map(f => f.name)
-          .sort((a, b) => b.localeCompare(a));
+          .sort((a, b) => b.localeCompare(a)); // newest first
       }
     }
   } catch { }
 
   if (dates.length === 0) return res.status(404).send("No job data found");
 
-  // Each sitemap covers 1 date (5000 URLs per day fits in one sitemap under 50k limit)
-  // sitemapId 1 = most recent date, 2 = second most recent, etc.
-  const dateIndex = sitemapId - 1;
+  // 5 sitemaps per day × 5000 URLs each = 25000 per day
+  const SITEMAPS_PER_DAY = 5;
+  const COMPANIES_PER_SITEMAP = 1000;
+  const POSTS_PER_COMPANY = 5;
+
+  // Which date and which chunk (0-4) does this sitemapId map to?
+  const dateIndex = Math.floor((sitemapId - 1) / SITEMAPS_PER_DAY);
+  const chunkIndex = (sitemapId - 1) % SITEMAPS_PER_DAY;
+
   if (dateIndex >= dates.length) return res.status(404).send("Sitemap not found");
 
   const dateStr = dates[dateIndex];
 
-  // Get all company folders for this date
+  // Get company folders for this date
   let companyFolders = [];
   try {
     const r = await fetch(`https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/jobs/${dateStr}`, {
@@ -45,11 +51,17 @@ export default async function handler(req, res) {
     }
   } catch { }
 
-  // Fetch actual file paths from each company folder (in parallel, batched)
+  // Get the 1000 companies for this chunk
+  const chunkFolders = companyFolders.slice(
+    chunkIndex * COMPANIES_PER_SITEMAP,
+    (chunkIndex + 1) * COMPANIES_PER_SITEMAP
+  );
+
+  // Fetch actual file paths for this chunk in parallel batches
   const allFiles = [];
   const BATCH = 20;
-  for (let i = 0; i < companyFolders.length; i += BATCH) {
-    const batch = companyFolders.slice(i, i + BATCH);
+  for (let i = 0; i < chunkFolders.length; i += BATCH) {
+    const batch = chunkFolders.slice(i, i + BATCH);
     await Promise.all(batch.map(async folder => {
       try {
         const r = await fetch(`https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/${folder.path}`, {
@@ -59,9 +71,7 @@ export default async function handler(req, res) {
         const files = await r.json();
         if (!Array.isArray(files)) return;
         files.forEach(f => {
-          if (f.name.endsWith(".json") && f.type === "file") {
-            allFiles.push(f.path);
-          }
+          if (f.name.endsWith(".json") && f.type === "file") allFiles.push(f.path);
         });
       } catch { }
     }));
@@ -69,7 +79,7 @@ export default async function handler(req, res) {
 
   const urls = [];
 
-  // Add static pages to first sitemap only
+  // Static pages on sitemap1 only
   if (sitemapId === 1) {
     urls.push(`  <url>
     <loc>${baseUrl}/</loc>
@@ -85,7 +95,6 @@ export default async function handler(req, res) {
   </url>`);
   }
 
-  // Add job URLs using actual file paths
   for (const filePath of allFiles) {
     urls.push(`  <url>
     <loc>${baseUrl}/api/job?path=${encodeURIComponent(filePath)}</loc>
