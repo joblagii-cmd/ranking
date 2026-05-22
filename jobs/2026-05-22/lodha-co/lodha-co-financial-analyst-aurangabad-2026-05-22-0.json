@@ -1,0 +1,93 @@
+{
+  "slug": "lodha-co-financial-analyst-aurangabad-2026-05-22-0",
+  "title": "Job Opening Financial Analyst at Lodha & Co",
+  "company": "Lodha & Co",
+  "industry": "finance",
+  "role": "Financial Analyst",
+  "location": {
+    "city": "Aurangabad",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "MS Excel",
+    "Ind AS",
+    "Risk Management",
+    "Tally",
+    "Income Tax",
+    "VBA",
+    "SAP FICO",
+    "Power BI"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Job Opening Financial Analyst at Lodha & Co",
+    "description": "Lodha & Co is actively seeking a talented and motivated Financial Analyst to join our dynamic team in Aurangabad. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout Lodha & Co:\nLodha & Co is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Manage accounts payable and accounts receivable functions\n• Liaise with banks, regulators, and financial institutions\n• Monitor financial performance against targets and provide variance analysis\n• Monitor market trends and provide investment recommendations\n• Manage credit risk assessment and loan appraisal processes\n• Process payroll and manage employee reimbursements\n• Coordinate with external auditors during annual audits\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 3-6 years of relevant experience\n• Proficiency in MS Excel\n• Proficiency in Ind AS\n• Proficiency in Risk Management\n• Proficiency in Tally\n• Proficiency in Income Tax\n• Proficiency in VBA\n• Proficiency in SAP FICO\n• Proficiency in Power BI\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Professional development and training programs\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Life and accident insurance\n• Recognition and rewards programs\n• Mobile and internet reimbursement\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Aurangabad, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Lodha & Co!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Lodha & Co",
+      "value": "194-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Lodha & Co",
+      "sameAs": "https://www.google.com/search?q=Lodha%20%26%20Co",
+      "logo": "https://logo.clearbit.com/lodhaco.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Lodha & Co Office",
+        "addressLocality": "Aurangabad",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "MS Excel, Ind AS, Risk Management, Tally, Income Tax, VBA, SAP FICO, Power BI",
+    "responsibilities": "Manage accounts payable and accounts receivable functions. Liaise with banks, regulators, and financial institutions. Monitor financial performance against targets and provide variance analysis. Monitor market trends and provide investment recommendations. Manage credit risk assessment and loan appraisal processes. Process payroll and manage employee reimbursements. Coordinate with external auditors during annual audits",
+    "benefits": "Professional development and training programs. Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Life and accident insurance. Recognition and rewards programs. Mobile and internet reimbursement",
+    "industry": "finance",
+    "occupationalCategory": "Financial Analyst",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Life and accident insurance, Recognition and rewards programs, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "Lodha & Co is actively seeking a talented and motivated Financial Analyst to join our dynamic team in Aurangabad. This is an excellent opportunity for professio",
+    "keywords": "Financial Analyst, Lodha & Co, jobs in Aurangabad, Maharashtra jobs, finance jobs India, MS Excel, Ind AS, Risk Management, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:37:48.079Z",
+  "page": 48
+}
