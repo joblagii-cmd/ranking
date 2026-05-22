@@ -1,0 +1,93 @@
+{
+  "slug": "angel-one-financial-analyst-kanpur-2026-05-22-0",
+  "title": "Vacancy for Financial Analyst at Angel One",
+  "company": "Angel One",
+  "industry": "finance",
+  "role": "Financial Analyst",
+  "location": {
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "SAP FICO",
+    "Credit Analysis",
+    "GST",
+    "Due Diligence",
+    "VBA",
+    "Python for Finance",
+    "Budgeting",
+    "Tally"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Vacancy for Financial Analyst at Angel One",
+    "description": "If you're a passionate Financial Analyst with drive and ambition, Angel One in Kanpur is the place for you. We're growing fast and need talented people to grow with us.\n\nAbout Angel One:\nAngel One is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Prepare and analyze financial statements, reports, and budgets\n• Develop financial models and projections for business planning\n• Manage accounts payable and accounts receivable functions\n• Conduct due diligence for mergers, acquisitions, and investments\n• Ensure compliance with tax regulations and statutory requirements\n• Monitor market trends and provide investment recommendations\n• Coordinate with external auditors during annual audits\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 0-1 years of relevant experience\n• Proficiency in SAP FICO\n• Proficiency in Credit Analysis\n• Proficiency in GST\n• Proficiency in Due Diligence\n• Proficiency in VBA\n• Proficiency in Python for Finance\n• Proficiency in Budgeting\n• Proficiency in Tally\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Professional development and training programs\n• Work-from-home flexibility\n• Modern office with recreational facilities\n• Recognition and rewards programs\n• Referral bonus program\n• Transportation and conveyance allowance\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Kanpur, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Angel One!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Angel One",
+      "value": "164-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Angel One",
+      "sameAs": "https://www.google.com/search?q=Angel%20One",
+      "logo": "https://logo.clearbit.com/angelone.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Angel One Office",
+        "addressLocality": "Kanpur",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "SAP FICO, Credit Analysis, GST, Due Diligence, VBA, Python for Finance, Budgeting, Tally",
+    "responsibilities": "Prepare and analyze financial statements, reports, and budgets. Develop financial models and projections for business planning. Manage accounts payable and accounts receivable functions. Conduct due diligence for mergers, acquisitions, and investments. Ensure compliance with tax regulations and statutory requirements. Monitor market trends and provide investment recommendations. Coordinate with external auditors during annual audits",
+    "benefits": "Professional development and training programs. Work-from-home flexibility. Modern office with recreational facilities. Recognition and rewards programs. Referral bonus program. Transportation and conveyance allowance",
+    "industry": "finance",
+    "occupationalCategory": "Financial Analyst",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Work-from-home flexibility, Modern office with recreational facilities, Recognition and rewards programs, Referral bonus program, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "If you're a passionate Financial Analyst with drive and ambition, Angel One in Kanpur is the place for you. We're growing fast and need talented people to grow ",
+    "keywords": "Financial Analyst, Angel One, jobs in Kanpur, Uttar Pradesh jobs, finance jobs India, SAP FICO, Credit Analysis, GST, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:36:45.952Z",
+  "page": 40
+}
