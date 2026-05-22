@@ -1,0 +1,93 @@
+{
+  "slug": "wework-india-sales-manager-bhopal-2026-05-22-3",
+  "title": "Sales Manager Vacancy at WeWork India - 2026 Batch",
+  "company": "WeWork India",
+  "industry": "realestate",
+  "role": "Sales Manager",
+  "location": {
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "CRM Software",
+    "Lease Administration",
+    "GIS Tools",
+    "Sales Techniques",
+    "Investment Analysis",
+    "Market Research",
+    "Property Management",
+    "Contract Management"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Sales Manager Vacancy at WeWork India - 2026 Batch",
+    "description": "WeWork India, one of India's leading organizations, is hiring a Sales Manager for our Bhopal operations. We offer a competitive salary package along with world-class benefits.\n\nAbout WeWork India:\nWeWork India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Conduct market research and provide competitive analysis\n• Conduct site visits and property presentations for clients\n• Coordinate with legal teams for documentation and title verification\n• Source and close property deals with prospective buyers and investors\n• Provide advisory services on property investment and market trends\n• Negotiate pricing, terms, and conditions on behalf of clients\n• Maintain a pipeline of qualified leads using CRM software\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 12-20 years of relevant experience\n• Proficiency in CRM Software\n• Proficiency in Lease Administration\n• Proficiency in GIS Tools\n• Proficiency in Sales Techniques\n• Proficiency in Investment Analysis\n• Proficiency in Market Research\n• Proficiency in Property Management\n• Proficiency in Contract Management\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Meal coupons and food allowance\n• Referral bonus program\n• Competitive salary with performance-linked incentives\n• Learning & development budget\n• Mobile and internet reimbursement\n• International travel opportunities for senior roles\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Bhopal, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with WeWork India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "WeWork India",
+      "value": "752-3-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "WeWork India",
+      "sameAs": "https://www.google.com/search?q=WeWork%20India",
+      "logo": "https://logo.clearbit.com/weworkindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "WeWork India Office",
+        "addressLocality": "Bhopal",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "CRM Software, Lease Administration, GIS Tools, Sales Techniques, Investment Analysis, Market Research, Property Management, Contract Management",
+    "responsibilities": "Conduct market research and provide competitive analysis. Conduct site visits and property presentations for clients. Coordinate with legal teams for documentation and title verification. Source and close property deals with prospective buyers and investors. Provide advisory services on property investment and market trends. Negotiate pricing, terms, and conditions on behalf of clients. Maintain a pipeline of qualified leads using CRM software",
+    "benefits": "Meal coupons and food allowance. Referral bonus program. Competitive salary with performance-linked incentives. Learning & development budget. Mobile and internet reimbursement. International travel opportunities for senior roles",
+    "industry": "realestate",
+    "occupationalCategory": "Sales Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Meal coupons and food allowance, Referral bonus program, Competitive salary with performance-linked incentives, Learning & development budget, Mobile and internet reimbursement, International travel opportunities for senior roles"
+  },
+  "meta": {
+    "description": "WeWork India, one of India's leading organizations, is hiring a Sales Manager for our Bhopal operations. We offer a competitive salary package along with world-",
+    "keywords": "Sales Manager, WeWork India, jobs in Bhopal, Madhya Pradesh jobs, realestate jobs India, CRM Software, Lease Administration, GIS Tools, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:55:18.372Z",
+  "page": 187
+}

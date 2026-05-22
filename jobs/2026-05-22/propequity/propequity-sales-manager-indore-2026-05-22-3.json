@@ -1,0 +1,93 @@
+{
+  "slug": "propequity-sales-manager-indore-2026-05-22-3",
+  "title": "Sales Manager Vacancy at PropEquity - 2026 Batch",
+  "company": "PropEquity",
+  "industry": "realestate",
+  "role": "Sales Manager",
+  "location": {
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "CRM Software",
+    "Portfolio Management",
+    "Property Valuation",
+    "AutoCAD",
+    "Property Management",
+    "Real Estate Law",
+    "Lease Administration",
+    "Financial Modeling"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Sales Manager Vacancy at PropEquity - 2026 Batch",
+    "description": "PropEquity, one of India's leading organizations, is hiring a Sales Manager for our Indore operations. We offer a competitive salary package along with world-class benefits.\n\nAbout PropEquity:\nPropEquity is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Achieve monthly and quarterly sales targets\n• Coordinate with legal teams for documentation and title verification\n• Negotiate pricing, terms, and conditions on behalf of clients\n• Conduct land acquisition due diligence and feasibility studies\n• Conduct site visits and property presentations for clients\n• Liaise with banks and NBFCs for home loan assistance to customers\n• Prepare presentations and proposals for institutional clients\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 3-6 years of relevant experience\n• Proficiency in CRM Software\n• Proficiency in Portfolio Management\n• Proficiency in Property Valuation\n• Proficiency in AutoCAD\n• Proficiency in Property Management\n• Proficiency in Real Estate Law\n• Proficiency in Lease Administration\n• Proficiency in Financial Modeling\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Company-sponsored certifications\n• Life and accident insurance\n• Maternity and paternity leave\n• Professional development and training programs\n• Referral bonus program\n• Recognition and rewards programs\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Indore, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with PropEquity!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "PropEquity",
+      "value": "749-3-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "PropEquity",
+      "sameAs": "https://www.google.com/search?q=PropEquity",
+      "logo": "https://logo.clearbit.com/propequity.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "PropEquity Office",
+        "addressLocality": "Indore",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "CRM Software, Portfolio Management, Property Valuation, AutoCAD, Property Management, Real Estate Law, Lease Administration, Financial Modeling",
+    "responsibilities": "Achieve monthly and quarterly sales targets. Coordinate with legal teams for documentation and title verification. Negotiate pricing, terms, and conditions on behalf of clients. Conduct land acquisition due diligence and feasibility studies. Conduct site visits and property presentations for clients. Liaise with banks and NBFCs for home loan assistance to customers. Prepare presentations and proposals for institutional clients",
+    "benefits": "Company-sponsored certifications. Life and accident insurance. Maternity and paternity leave. Professional development and training programs. Referral bonus program. Recognition and rewards programs",
+    "industry": "realestate",
+    "occupationalCategory": "Sales Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Company-sponsored certifications, Life and accident insurance, Maternity and paternity leave, Professional development and training programs, Referral bonus program, Recognition and rewards programs"
+  },
+  "meta": {
+    "description": "PropEquity, one of India's leading organizations, is hiring a Sales Manager for our Indore operations. We offer a competitive salary package along with world-cl",
+    "keywords": "Sales Manager, PropEquity, jobs in Indore, Madhya Pradesh jobs, realestate jobs India, CRM Software, Portfolio Management, Property Valuation, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:55:18.369Z",
+  "page": 187
+}

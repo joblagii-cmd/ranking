@@ -1,0 +1,94 @@
+{
+  "slug": "propequity-senior-property-advisor-indore-2026-05-22-2",
+  "title": "PropEquity is Hiring: Senior Property Advisor (Junior)",
+  "company": "PropEquity",
+  "industry": "realestate",
+  "role": "Senior Property Advisor",
+  "location": {
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Property Management",
+    "Market Research",
+    "Lease Administration",
+    "Sales Techniques",
+    "AutoCAD",
+    "GIS Tools",
+    "MS Office",
+    "Portfolio Management"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "PropEquity is Hiring: Senior Property Advisor (Junior)",
+    "description": "PropEquity, one of India's leading organizations, is hiring a Senior Property Advisor for our Indore operations. We offer a competitive salary package along with world-class benefits.\n\nAbout PropEquity:\nPropEquity is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Conduct market research and provide competitive analysis\n• Provide advisory services on property investment and market trends\n• Achieve monthly and quarterly sales targets\n• Conduct site visits and property presentations for clients\n• Prepare presentations and proposals for institutional clients\n• Manage relationships with existing customers post-purchase\n• Coordinate with legal teams for documentation and title verification\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 6-10 years of relevant experience\n• Proficiency in Property Management\n• Proficiency in Market Research\n• Proficiency in Lease Administration\n• Proficiency in Sales Techniques\n• Proficiency in AutoCAD\n• Proficiency in GIS Tools\n• Proficiency in MS Office\n• Proficiency in Portfolio Management\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Annual performance appraisal\n• Work-from-home flexibility\n• Flexible working hours\n• Recognition and rewards programs\n• Employee stock options (ESOPs) for eligible roles\n• Meal coupons and food allowance\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Indore, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with PropEquity!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "PropEquity",
+      "value": "749-2-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "PropEquity",
+      "sameAs": "https://www.google.com/search?q=PropEquity",
+      "logo": "https://logo.clearbit.com/propequity.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "PropEquity Office",
+        "addressLocality": "Indore",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "Property Management, Market Research, Lease Administration, Sales Techniques, AutoCAD, GIS Tools, MS Office, Portfolio Management",
+    "responsibilities": "Conduct market research and provide competitive analysis. Provide advisory services on property investment and market trends. Achieve monthly and quarterly sales targets. Conduct site visits and property presentations for clients. Prepare presentations and proposals for institutional clients. Manage relationships with existing customers post-purchase. Coordinate with legal teams for documentation and title verification",
+    "benefits": "Annual performance appraisal. Work-from-home flexibility. Flexible working hours. Recognition and rewards programs. Employee stock options (ESOPs) for eligible roles. Meal coupons and food allowance",
+    "industry": "realestate",
+    "occupationalCategory": "Senior Property Advisor",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual performance appraisal, Work-from-home flexibility, Flexible working hours, Recognition and rewards programs, Employee stock options (ESOPs) for eligible roles, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "PropEquity, one of India's leading organizations, is hiring a Senior Property Advisor for our Indore operations. We offer a competitive salary package along wit",
+    "keywords": "Senior Property Advisor, PropEquity, jobs in Indore, Madhya Pradesh jobs, realestate jobs India, Property Management, Market Research, Lease Administration, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:55:18.369Z",
+  "page": 187
+}
