@@ -3,35 +3,51 @@ import { generateJobPosting } from "../lib/templateEngine.js";
 
 export const config = { maxDuration: 10 };
 
+const SITEMAPS_PER_DAY = 5;
 const URLS_PER_SITEMAP = 5000;
 const POSTS_PER_COMPANY = 5;
+const COMPANIES_PER_SITEMAP = URLS_PER_SITEMAP / POSTS_PER_COMPANY; // 1000
 
 export default async function handler(req, res) {
   const baseUrl = process.env.SITE_URL || `https://${req.headers.host}`;
+  const { GITHUB_TOKEN, GITHUB_OWNER, GITHUB_REPO } = process.env;
 
   const sitemapId = parseInt(req.query.id || "1");
   if (isNaN(sitemapId) || sitemapId < 1) return res.status(404).send("Sitemap not found");
 
-  // Get today's date (IST)
+  // Fetch all date folders (1 API call)
   const now = new Date();
   const ist = new Date(now.getTime() + 5.5 * 60 * 60 * 1000);
-  const dateStr = ist.toISOString().split("T")[0];
+  const todayStr = ist.toISOString().split("T")[0];
 
-  // All companies + all posts = 5000 × 5 = 25000 URLs total per day
-  // Each sitemap = 5000 URLs = 1000 companies × 5 posts
-  const COMPANIES_PER_SITEMAP = URLS_PER_SITEMAP / POSTS_PER_COMPANY; // 1000
+  let dates = [todayStr];
+  try {
+    const r = await fetch(`https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/jobs`, {
+      headers: { Authorization: `token ${GITHUB_TOKEN}`, Accept: "application/vnd.github.v3+json", "User-Agent": "JobPoster-Bot/1.0" }
+    });
+    if (r.ok) {
+      const data = await r.json();
+      if (Array.isArray(data)) {
+        dates = data
+          .filter(f => f.type === "dir" && /^\d{4}-\d{2}-\d{2}$/.test(f.name))
+          .map(f => f.name)
+          .sort((a, b) => b.localeCompare(a));
+      }
+    }
+  } catch { }
 
+  // Which date and chunk does this sitemapId map to?
+  const dateIndex = Math.floor((sitemapId - 1) / SITEMAPS_PER_DAY);
+  const chunkIndex = (sitemapId - 1) % SITEMAPS_PER_DAY;
+
+  if (dateIndex >= dates.length) return res.status(404).send("Sitemap not found");
+
+  const dateStr = dates[dateIndex];
   const allCompanies = generateCompanies();
-  const totalSitemaps = Math.ceil((allCompanies.length * POSTS_PER_COMPANY) / URLS_PER_SITEMAP);
-
-  if (sitemapId > totalSitemaps) return res.status(404).send("Sitemap not found");
-
-  const startCompany = (sitemapId - 1) * COMPANIES_PER_SITEMAP;
-  const companies = allCompanies.slice(startCompany, startCompany + COMPANIES_PER_SITEMAP);
+  const companies = allCompanies.slice(chunkIndex * COMPANIES_PER_SITEMAP, (chunkIndex + 1) * COMPANIES_PER_SITEMAP);
 
   const urls = [];
 
-  // Static pages on sitemap1 only
   if (sitemapId === 1) {
     urls.push(`  <url>
     <loc>${baseUrl}/</loc>
@@ -47,7 +63,6 @@ export default async function handler(req, res) {
   </url>`);
   }
 
-  // Generate job URLs directly from companies — no API call needed
   for (const company of companies) {
     const companySlug = company.name.toLowerCase().replace(/[^a-z0-9]+/g, "-").substring(0, 50);
     for (let postIdx = 0; postIdx < POSTS_PER_COMPANY; postIdx++) {
