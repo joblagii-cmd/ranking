@@ -1,0 +1,93 @@
+{
+  "slug": "awfis-business-development-manager-visakhapatnam-2026-05-22-4",
+  "title": "Junior Business Development Manager at Awfis",
+  "company": "Awfis",
+  "industry": "realestate",
+  "role": "Business Development Manager",
+  "location": {
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Property Valuation",
+    "Client Relationship Management",
+    "Contract Management",
+    "Sales Techniques",
+    "Real Estate Law",
+    "MS Office",
+    "Negotiation Skills",
+    "Due Diligence"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Junior Business Development Manager at Awfis",
+    "description": "Awfis, one of India's leading organizations, is hiring a Business Development Manager for our Visakhapatnam operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Awfis:\nAwfis is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Manage RERA documentation and compliance requirements\n• Build relationships with channel partners and brokers\n• Source and close property deals with prospective buyers and investors\n• Liaise with banks and NBFCs for home loan assistance to customers\n• Manage relationships with existing customers post-purchase\n• Conduct site visits and property presentations for clients\n• Negotiate pricing, terms, and conditions on behalf of clients\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 3-6 years of relevant experience\n• Proficiency in Property Valuation\n• Proficiency in Client Relationship Management\n• Proficiency in Contract Management\n• Proficiency in Sales Techniques\n• Proficiency in Real Estate Law\n• Proficiency in MS Office\n• Proficiency in Negotiation Skills\n• Proficiency in Due Diligence\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Comprehensive health insurance for self and family\n• Work-from-home flexibility\n• Competitive salary with performance-linked incentives\n• Professional development and training programs\n• Annual paid leaves and casual leaves\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Visakhapatnam, Andhra Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Awfis!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Awfis",
+      "value": "753-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Awfis",
+      "sameAs": "https://www.google.com/search?q=Awfis",
+      "logo": "https://logo.clearbit.com/awfis.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Awfis Office",
+        "addressLocality": "Visakhapatnam",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Property Valuation, Client Relationship Management, Contract Management, Sales Techniques, Real Estate Law, MS Office, Negotiation Skills, Due Diligence",
+    "responsibilities": "Manage RERA documentation and compliance requirements. Build relationships with channel partners and brokers. Source and close property deals with prospective buyers and investors. Liaise with banks and NBFCs for home loan assistance to customers. Manage relationships with existing customers post-purchase. Conduct site visits and property presentations for clients. Negotiate pricing, terms, and conditions on behalf of clients",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Comprehensive health insurance for self and family. Work-from-home flexibility. Competitive salary with performance-linked incentives. Professional development and training programs. Annual paid leaves and casual leaves",
+    "industry": "realestate",
+    "occupationalCategory": "Business Development Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Comprehensive health insurance for self and family, Work-from-home flexibility, Competitive salary with performance-linked incentives, Professional development and training programs, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "Awfis, one of India's leading organizations, is hiring a Business Development Manager for our Visakhapatnam operations. We offer a competitive salary package al",
+    "keywords": "Business Development Manager, Awfis, jobs in Visakhapatnam, Andhra Pradesh jobs, realestate jobs India, Property Valuation, Client Relationship Management, Contract Management, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:55:26.014Z",
+  "page": 188
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "awfis-real-estate-agent-thane-2026-05-22-0",
+  "title": "Urgent Opening Real Estate Agent at Awfis",
+  "company": "Awfis",
+  "industry": "realestate",
+  "role": "Real Estate Agent",
+  "location": {
+    "city": "Thane",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Title Search",
+    "AutoCAD",
+    "MS Office",
+    "Due Diligence",
+    "Contract Management",
+    "RERA Compliance",
+    "Financial Modeling",
+    "Sales Techniques"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Urgent Opening Real Estate Agent at Awfis",
+    "description": "Awfis, one of India's leading organizations, is hiring a Real Estate Agent for our Thane operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Awfis:\nAwfis is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with legal teams for documentation and title verification\n• Achieve monthly and quarterly sales targets\n• Build relationships with channel partners and brokers\n• Liaise with banks and NBFCs for home loan assistance to customers\n• Prepare presentations and proposals for institutional clients\n• Provide advisory services on property investment and market trends\n• Manage RERA documentation and compliance requirements\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 1-3 years of relevant experience\n• Proficiency in Title Search\n• Proficiency in AutoCAD\n• Proficiency in MS Office\n• Proficiency in Due Diligence\n• Proficiency in Contract Management\n• Proficiency in RERA Compliance\n• Proficiency in Financial Modeling\n• Proficiency in Sales Techniques\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Maternity and paternity leave\n• Modern office with recreational facilities\n• International travel opportunities for senior roles\n• Annual paid leaves and casual leaves\n• Referral bonus program\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Thane, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Awfis!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Awfis",
+      "value": "753-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Awfis",
+      "sameAs": "https://www.google.com/search?q=Awfis",
+      "logo": "https://logo.clearbit.com/awfis.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Awfis Office",
+        "addressLocality": "Thane",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Title Search, AutoCAD, MS Office, Due Diligence, Contract Management, RERA Compliance, Financial Modeling, Sales Techniques",
+    "responsibilities": "Coordinate with legal teams for documentation and title verification. Achieve monthly and quarterly sales targets. Build relationships with channel partners and brokers. Liaise with banks and NBFCs for home loan assistance to customers. Prepare presentations and proposals for institutional clients. Provide advisory services on property investment and market trends. Manage RERA documentation and compliance requirements",
+    "benefits": "Provident Fund and Gratuity as per company policy. Maternity and paternity leave. Modern office with recreational facilities. International travel opportunities for senior roles. Annual paid leaves and casual leaves. Referral bonus program",
+    "industry": "realestate",
+    "occupationalCategory": "Real Estate Agent",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Maternity and paternity leave, Modern office with recreational facilities, International travel opportunities for senior roles, Annual paid leaves and casual leaves, Referral bonus program"
+  },
+  "meta": {
+    "description": "Awfis, one of India's leading organizations, is hiring a Real Estate Agent for our Thane operations. We offer a competitive salary package along with world-clas",
+    "keywords": "Real Estate Agent, Awfis, jobs in Thane, Maharashtra jobs, realestate jobs India, Title Search, AutoCAD, MS Office, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:55:26.014Z",
+  "page": 188
+}
