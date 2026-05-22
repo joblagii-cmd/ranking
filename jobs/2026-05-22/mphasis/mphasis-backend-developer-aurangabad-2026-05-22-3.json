@@ -1,0 +1,93 @@
+{
+  "slug": "mphasis-backend-developer-aurangabad-2026-05-22-3",
+  "title": "Backend Developer Vacancy at Mphasis - 2026 Batch",
+  "company": "Mphasis",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Aurangabad",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Docker",
+    "Go",
+    "Machine Learning",
+    "TensorFlow",
+    "Python",
+    "Microservices",
+    "REST APIs",
+    "React"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Mphasis - 2026 Batch",
+    "description": "Are you a skilled Backend Developer looking for your next big career move? Mphasis in Aurangabad offers you the perfect platform to grow professionally and personally.\n\nAbout Mphasis:\nMphasis is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Write and execute unit tests and integration tests\n• Participate in on-call rotation for production support\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Design, develop and maintain scalable software applications\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 3-6 years of relevant experience\n• Proficiency in Docker\n• Proficiency in Go\n• Proficiency in Machine Learning\n• Proficiency in TensorFlow\n• Proficiency in Python\n• Proficiency in Microservices\n• Proficiency in REST APIs\n• Proficiency in React\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Comprehensive health insurance for self and family\n• Professional development and training programs\n• Transportation and conveyance allowance\n• Annual performance appraisal\n• Flexible working hours\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Aurangabad, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Mphasis!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Mphasis",
+      "value": "26-3-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Mphasis",
+      "sameAs": "https://www.google.com/search?q=Mphasis",
+      "logo": "https://logo.clearbit.com/mphasis.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Mphasis Office",
+        "addressLocality": "Aurangabad",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Docker, Go, Machine Learning, TensorFlow, Python, Microservices, REST APIs, React",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Troubleshoot, debug, and resolve software defects and performance issues. Write and execute unit tests and integration tests. Participate in on-call rotation for production support. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Work with agile methodologies including daily stand-ups and sprint planning. Design, develop and maintain scalable software applications",
+    "benefits": "International travel opportunities for senior roles. Comprehensive health insurance for self and family. Professional development and training programs. Transportation and conveyance allowance. Annual performance appraisal. Flexible working hours",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Comprehensive health insurance for self and family, Professional development and training programs, Transportation and conveyance allowance, Annual performance appraisal, Flexible working hours"
+  },
+  "meta": {
+    "description": "Are you a skilled Backend Developer looking for your next big career move? Mphasis in Aurangabad offers you the perfect platform to grow professionally and pers",
+    "keywords": "Backend Developer, Mphasis, jobs in Aurangabad, Maharashtra jobs, technology jobs India, Docker, Go, Machine Learning, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:32:22.158Z",
+  "page": 6
+}

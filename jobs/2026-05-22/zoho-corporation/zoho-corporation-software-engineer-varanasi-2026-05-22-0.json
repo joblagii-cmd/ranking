@@ -1,0 +1,94 @@
+{
+  "slug": "zoho-corporation-software-engineer-varanasi-2026-05-22-0",
+  "title": "Walk-in Drive Software Engineer at Zoho Corporation",
+  "company": "Zoho Corporation",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Python",
+    "React",
+    "JavaScript",
+    "Agile/Scrum",
+    "Node.js",
+    "CI/CD",
+    "TypeScript",
+    "MongoDB"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Walk-in Drive Software Engineer at Zoho Corporation",
+    "description": "Are you a skilled Software Engineer looking for your next big career move? Zoho Corporation in Varanasi offers you the perfect platform to grow professionally and personally.\n\nAbout Zoho Corporation:\nZoho Corporation is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Optimize application performance and ensure high availability\n• Write clean, maintainable, and well-documented code\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Participate in on-call rotation for production support\n• Integrate third-party APIs and services\n• Participate in code reviews and contribute to technical discussions\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 1-3 years of relevant experience\n• Proficiency in Python\n• Proficiency in React\n• Proficiency in JavaScript\n• Proficiency in Agile/Scrum\n• Proficiency in Node.js\n• Proficiency in CI/CD\n• Proficiency in TypeScript\n• Proficiency in MongoDB\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Flexible working hours\n• Work-from-home flexibility\n• International travel opportunities for senior roles\n• Provident Fund and Gratuity as per company policy\n• Annual paid leaves and casual leaves\n• Learning & development budget\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Varanasi, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Zoho Corporation!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Zoho Corporation",
+      "value": "25-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Zoho Corporation",
+      "sameAs": "https://www.google.com/search?q=Zoho%20Corporation",
+      "logo": "https://logo.clearbit.com/zohocorporation.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Zoho Corporation Office",
+        "addressLocality": "Varanasi",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Python, React, JavaScript, Agile/Scrum, Node.js, CI/CD, TypeScript, MongoDB",
+    "responsibilities": "Design, develop and maintain scalable software applications. Optimize application performance and ensure high availability. Write clean, maintainable, and well-documented code. Troubleshoot, debug, and resolve software defects and performance issues. Participate in on-call rotation for production support. Integrate third-party APIs and services. Participate in code reviews and contribute to technical discussions",
+    "benefits": "Flexible working hours. Work-from-home flexibility. International travel opportunities for senior roles. Provident Fund and Gratuity as per company policy. Annual paid leaves and casual leaves. Learning & development budget",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, Work-from-home flexibility, International travel opportunities for senior roles, Provident Fund and Gratuity as per company policy, Annual paid leaves and casual leaves, Learning & development budget"
+  },
+  "meta": {
+    "description": "Are you a skilled Software Engineer looking for your next big career move? Zoho Corporation in Varanasi offers you the perfect platform to grow professionally a",
+    "keywords": "Software Engineer, Zoho Corporation, jobs in Varanasi, Uttar Pradesh jobs, technology jobs India, Python, React, JavaScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:32:22.155Z",
+  "page": 6
+}
