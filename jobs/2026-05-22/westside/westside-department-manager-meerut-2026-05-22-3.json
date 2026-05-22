@@ -1,0 +1,93 @@
+{
+  "slug": "westside-department-manager-meerut-2026-05-22-3",
+  "title": "Department Manager Vacancy at Westside - 2026 Batch",
+  "company": "Westside",
+  "industry": "retail",
+  "role": "Department Manager",
+  "location": {
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Retail Operations",
+    "CRM",
+    "Category Management",
+    "KPI Management",
+    "Omnichannel Retail",
+    "Supply Chain",
+    "MS Excel",
+    "Retail Analytics"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Department Manager Vacancy at Westside - 2026 Batch",
+    "description": "Grow your career with Westside! We are hiring a Department Manager for our Meerut team. Be part of a workplace that celebrates innovation, diversity, and performance.\n\nAbout Westside:\nWestside is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Conduct regular stock audits and prevent pilferage\n• Build relationships with regular customers to drive loyalty\n• Manage shrinkage and reduce stock discrepancies\n• Implement promotional activities and in-store campaigns\n• Train and motivate the sales team to deliver excellent service\n• Coordinate with the supply chain team for timely stock delivery\n• Monitor inventory levels and coordinate replenishment activities\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 12-20 years of relevant experience\n• Proficiency in Retail Operations\n• Proficiency in CRM\n• Proficiency in Category Management\n• Proficiency in KPI Management\n• Proficiency in Omnichannel Retail\n• Proficiency in Supply Chain\n• Proficiency in MS Excel\n• Proficiency in Retail Analytics\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Annual performance appraisal\n• Comprehensive health insurance for self and family\n• Competitive salary with performance-linked incentives\n• Mobile and internet reimbursement\n• Transportation and conveyance allowance\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Meerut, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Westside!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Westside",
+      "value": "603-3-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Westside",
+      "sameAs": "https://www.google.com/search?q=Westside",
+      "logo": "https://logo.clearbit.com/westside.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Westside Office",
+        "addressLocality": "Meerut",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "Retail Operations, CRM, Category Management, KPI Management, Omnichannel Retail, Supply Chain, MS Excel, Retail Analytics",
+    "responsibilities": "Conduct regular stock audits and prevent pilferage. Build relationships with regular customers to drive loyalty. Manage shrinkage and reduce stock discrepancies. Implement promotional activities and in-store campaigns. Train and motivate the sales team to deliver excellent service. Coordinate with the supply chain team for timely stock delivery. Monitor inventory levels and coordinate replenishment activities",
+    "benefits": "Provident Fund and Gratuity as per company policy. Annual performance appraisal. Comprehensive health insurance for self and family. Competitive salary with performance-linked incentives. Mobile and internet reimbursement. Transportation and conveyance allowance",
+    "industry": "retail",
+    "occupationalCategory": "Department Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Annual performance appraisal, Comprehensive health insurance for self and family, Competitive salary with performance-linked incentives, Mobile and internet reimbursement, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "Grow your career with Westside! We are hiring a Department Manager for our Meerut team. Be part of a workplace that celebrates innovation, diversity, and perfor",
+    "keywords": "Department Manager, Westside, jobs in Meerut, Uttar Pradesh jobs, retail jobs India, Retail Operations, CRM, Category Management, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:50:40.490Z",
+  "page": 150
+}
