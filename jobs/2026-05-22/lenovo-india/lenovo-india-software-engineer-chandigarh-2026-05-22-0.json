@@ -1,0 +1,93 @@
+{
+  "slug": "lenovo-india-software-engineer-chandigarh-2026-05-22-0",
+  "title": "Walk-in Drive Software Engineer at Lenovo India",
+  "company": "Lenovo India",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Chandigarh",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Agile/Scrum",
+    "JavaScript",
+    "CI/CD",
+    "TensorFlow",
+    "Docker",
+    "Python",
+    "Kubernetes",
+    "MongoDB"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Walk-in Drive Software Engineer at Lenovo India",
+    "description": "Lenovo India, one of India's leading organizations, is hiring a Software Engineer for our Chandigarh operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Lenovo India:\nLenovo India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Integrate third-party APIs and services\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Write and execute unit tests and integration tests\n• Participate in code reviews and contribute to technical discussions\n• Ensure code security and follow best practices for data protection\n• Collaborate with cross-functional teams including product, design, and QA\n• Design, develop and maintain scalable software applications\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 12-20 years of relevant experience\n• Proficiency in Agile/Scrum\n• Proficiency in JavaScript\n• Proficiency in CI/CD\n• Proficiency in TensorFlow\n• Proficiency in Docker\n• Proficiency in Python\n• Proficiency in Kubernetes\n• Proficiency in MongoDB\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Meal coupons and food allowance\n• Work-from-home flexibility\n• Modern office with recreational facilities\n• Life and accident insurance\n• International travel opportunities for senior roles\n• Comprehensive health insurance for self and family\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Chandigarh, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Lenovo India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Lenovo India",
+      "value": "53-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Lenovo India",
+      "sameAs": "https://www.google.com/search?q=Lenovo%20India",
+      "logo": "https://logo.clearbit.com/lenovoindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Lenovo India Office",
+        "addressLocality": "Chandigarh",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "Agile/Scrum, JavaScript, CI/CD, TensorFlow, Docker, Python, Kubernetes, MongoDB",
+    "responsibilities": "Integrate third-party APIs and services. Mentor junior developers and conduct knowledge-sharing sessions. Write and execute unit tests and integration tests. Participate in code reviews and contribute to technical discussions. Ensure code security and follow best practices for data protection. Collaborate with cross-functional teams including product, design, and QA. Design, develop and maintain scalable software applications",
+    "benefits": "Meal coupons and food allowance. Work-from-home flexibility. Modern office with recreational facilities. Life and accident insurance. International travel opportunities for senior roles. Comprehensive health insurance for self and family",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Meal coupons and food allowance, Work-from-home flexibility, Modern office with recreational facilities, Life and accident insurance, International travel opportunities for senior roles, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "Lenovo India, one of India's leading organizations, is hiring a Software Engineer for our Chandigarh operations. We offer a competitive salary package along wit",
+    "keywords": "Software Engineer, Lenovo India, jobs in Chandigarh, Punjab jobs, technology jobs India, Agile/Scrum, JavaScript, CI/CD, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:33:16.559Z",
+  "page": 13
+}

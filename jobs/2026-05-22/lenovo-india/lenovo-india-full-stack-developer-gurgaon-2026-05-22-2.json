@@ -1,0 +1,93 @@
+{
+  "slug": "lenovo-india-full-stack-developer-gurgaon-2026-05-22-2",
+  "title": "Lenovo India is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "Lenovo India",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Gurgaon",
+    "state": "Haryana",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "JavaScript",
+    "Microservices",
+    "Python",
+    "React",
+    "CI/CD",
+    "REST APIs",
+    "Java",
+    "TypeScript"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Lenovo India is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "Lenovo India, one of India's leading organizations, is hiring a Full Stack Developer for our Gurgaon operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Lenovo India:\nLenovo India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write and execute unit tests and integration tests\n• Participate in code reviews and contribute to technical discussions\n• Write clean, maintainable, and well-documented code\n• Collaborate with cross-functional teams including product, design, and QA\n• Contribute to system architecture and technical design decisions\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Design, develop and maintain scalable software applications\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 6-10 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Microservices\n• Proficiency in Python\n• Proficiency in React\n• Proficiency in CI/CD\n• Proficiency in REST APIs\n• Proficiency in Java\n• Proficiency in TypeScript\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Annual performance appraisal\n• Recognition and rewards programs\n• Provident Fund and Gratuity as per company policy\n• Mobile and internet reimbursement\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Gurgaon, Haryana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Lenovo India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Lenovo India",
+      "value": "53-2-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Lenovo India",
+      "sameAs": "https://www.google.com/search?q=Lenovo%20India",
+      "logo": "https://logo.clearbit.com/lenovoindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Lenovo India Office",
+        "addressLocality": "Gurgaon",
+        "addressRegion": "Haryana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "JavaScript, Microservices, Python, React, CI/CD, REST APIs, Java, TypeScript",
+    "responsibilities": "Write and execute unit tests and integration tests. Participate in code reviews and contribute to technical discussions. Write clean, maintainable, and well-documented code. Collaborate with cross-functional teams including product, design, and QA. Contribute to system architecture and technical design decisions. Work with agile methodologies including daily stand-ups and sprint planning. Design, develop and maintain scalable software applications",
+    "benefits": "Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Annual performance appraisal. Recognition and rewards programs. Provident Fund and Gratuity as per company policy. Mobile and internet reimbursement",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Annual performance appraisal, Recognition and rewards programs, Provident Fund and Gratuity as per company policy, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "Lenovo India, one of India's leading organizations, is hiring a Full Stack Developer for our Gurgaon operations. We offer a competitive salary package along wit",
+    "keywords": "Full Stack Developer, Lenovo India, jobs in Gurgaon, Haryana jobs, technology jobs India, JavaScript, Microservices, Python, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:33:16.559Z",
+  "page": 13
+}
