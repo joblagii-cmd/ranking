@@ -1,0 +1,93 @@
+{
+  "slug": "makemytrip-senior-software-engineer-meerut-2026-05-22-1",
+  "title": "Senior Software Engineer - MakeMyTrip - Freshers Welcome",
+  "company": "MakeMyTrip",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "JavaScript",
+    "React",
+    "Microservices",
+    "TensorFlow",
+    "Kubernetes",
+    "MongoDB",
+    "Agile/Scrum",
+    "REST APIs"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - MakeMyTrip - Freshers Welcome",
+    "description": "Are you a skilled Senior Software Engineer looking for your next big career move? MakeMyTrip in Meerut offers you the perfect platform to grow professionally and personally.\n\nAbout MakeMyTrip:\nMakeMyTrip is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Implement new features based on product requirements\n• Optimize application performance and ensure high availability\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Participate in code reviews and contribute to technical discussions\n• Write clean, maintainable, and well-documented code\n• Integrate third-party APIs and services\n• Ensure code security and follow best practices for data protection\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 10-15 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in React\n• Proficiency in Microservices\n• Proficiency in TensorFlow\n• Proficiency in Kubernetes\n• Proficiency in MongoDB\n• Proficiency in Agile/Scrum\n• Proficiency in REST APIs\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Meal coupons and food allowance\n• Life and accident insurance\n• Flexible working hours\n• Company-sponsored certifications\n• Annual paid leaves and casual leaves\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Meerut, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with MakeMyTrip!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "MakeMyTrip",
+      "value": "21-1-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "MakeMyTrip",
+      "sameAs": "https://www.google.com/search?q=MakeMyTrip",
+      "logo": "https://logo.clearbit.com/makemytrip.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "MakeMyTrip Office",
+        "addressLocality": "Meerut",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "JavaScript, React, Microservices, TensorFlow, Kubernetes, MongoDB, Agile/Scrum, REST APIs",
+    "responsibilities": "Implement new features based on product requirements. Optimize application performance and ensure high availability. Mentor junior developers and conduct knowledge-sharing sessions. Participate in code reviews and contribute to technical discussions. Write clean, maintainable, and well-documented code. Integrate third-party APIs and services. Ensure code security and follow best practices for data protection",
+    "benefits": "Work-from-home flexibility. Meal coupons and food allowance. Life and accident insurance. Flexible working hours. Company-sponsored certifications. Annual paid leaves and casual leaves",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Meal coupons and food allowance, Life and accident insurance, Flexible working hours, Company-sponsored certifications, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "Are you a skilled Senior Software Engineer looking for your next big career move? MakeMyTrip in Meerut offers you the perfect platform to grow professionally an",
+    "keywords": "Senior Software Engineer, MakeMyTrip, jobs in Meerut, Uttar Pradesh jobs, technology jobs India, JavaScript, React, Microservices, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:32:14.148Z",
+  "page": 5
+}
