@@ -1,0 +1,94 @@
+{
+  "slug": "mbd-group-subject-matter-expert-surat-2026-05-22-2",
+  "title": "MBD Group is Hiring: Subject Matter Expert (Lead)",
+  "company": "MBD Group",
+  "industry": "education",
+  "role": "Subject Matter Expert",
+  "location": {
+    "city": "Surat",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Communication Skills",
+    "Content Creation",
+    "Research Skills",
+    "Data Analysis",
+    "Educational Technology",
+    "Child Psychology",
+    "Mentoring",
+    "Classroom Management"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "MBD Group is Hiring: Subject Matter Expert (Lead)",
+    "description": "MBD Group invites applications from qualified candidates for the position of Subject Matter Expert at our Surat location. This role offers excellent career advancement prospects.\n\nAbout MBD Group:\nMBD Group is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design formative and summative assessments aligned to learning objectives\n• Develop and deliver engaging lesson plans for students\n• Conduct doubt-clearing sessions and remedial classes for weak students\n• Create curriculum-aligned learning materials and assessments\n• Collaborate with faculty on curriculum development initiatives\n• Monitor student progress and provide timely feedback\n• Contribute to school newsletter, blogs, and other publications\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 12-20 years of relevant experience\n• Proficiency in Communication Skills\n• Proficiency in Content Creation\n• Proficiency in Research Skills\n• Proficiency in Data Analysis\n• Proficiency in Educational Technology\n• Proficiency in Child Psychology\n• Proficiency in Mentoring\n• Proficiency in Classroom Management\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Flexible working hours\n• International travel opportunities for senior roles\n• Maternity and paternity leave\n• Professional development and training programs\n• Mobile and internet reimbursement\n• Company-sponsored certifications\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Surat, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with MBD Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "MBD Group",
+      "value": "577-2-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "MBD Group",
+      "sameAs": "https://www.google.com/search?q=MBD%20Group",
+      "logo": "https://logo.clearbit.com/mbdgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "MBD Group Office",
+        "addressLocality": "Surat",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Communication Skills, Content Creation, Research Skills, Data Analysis, Educational Technology, Child Psychology, Mentoring, Classroom Management",
+    "responsibilities": "Design formative and summative assessments aligned to learning objectives. Develop and deliver engaging lesson plans for students. Conduct doubt-clearing sessions and remedial classes for weak students. Create curriculum-aligned learning materials and assessments. Collaborate with faculty on curriculum development initiatives. Monitor student progress and provide timely feedback. Contribute to school newsletter, blogs, and other publications",
+    "benefits": "Flexible working hours. International travel opportunities for senior roles. Maternity and paternity leave. Professional development and training programs. Mobile and internet reimbursement. Company-sponsored certifications",
+    "industry": "education",
+    "occupationalCategory": "Subject Matter Expert",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, International travel opportunities for senior roles, Maternity and paternity leave, Professional development and training programs, Mobile and internet reimbursement, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "MBD Group invites applications from qualified candidates for the position of Subject Matter Expert at our Surat location. This role offers excellent career adva",
+    "keywords": "Subject Matter Expert, MBD Group, jobs in Surat, Gujarat jobs, education jobs India, Communication Skills, Content Creation, Research Skills, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:49:55.200Z",
+  "page": 144
+}
