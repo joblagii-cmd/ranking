@@ -2,22 +2,53 @@ name: Generate Job Posts
 
 on:
   schedule:
-    - cron: '0 2 * * *'
+    # Runs every minute — 1440 runs/day × ~17 posts = 25,000 posts/day
+    - cron: '* * * * *'
   workflow_dispatch:
+    inputs:
+      page:
+        description: 'Page number (0-1439) to generate manually'
+        required: false
+        default: ''
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 360
+    timeout-minutes: 4
+
     steps:
-      - name: Generate all 25000 posts
+      - name: Calculate page number from current minute
+        id: calc
         run: |
-          for i in $(seq 0 499); do
-            echo "--- Page $i / 499 ---"
-            curl -s -X POST https://ranking-mu-eosin.vercel.app/api/trigger \
-              -H "Content-Type: application/json" \
-              -d "{\"page\": $i}"
-            echo ""
-            sleep 2
-          done
-          echo "Done!"
+          if [ -n "${{ github.event.inputs.page }}" ]; then
+            PAGE="${{ github.event.inputs.page }}"
+          else
+            HOUR=$(date -u +%-H)
+            MINUTE=$(date -u +%-M)
+            PAGE=$(( HOUR * 60 + MINUTE ))
+          fi
+          echo "page=$PAGE" >> $GITHUB_OUTPUT
+          echo "▶ Generating page $PAGE"
+
+      - name: Call trigger API
+        run: |
+          PAGE="${{ steps.calc.outputs.page }}"
+          echo "📤 Triggering page $PAGE..."
+
+          RESPONSE=$(curl -s -w "\n%{http_code}" -X POST \
+            https://ranking-mu-eosin.vercel.app/api/trigger \
+            -H "Content-Type: application/json" \
+            -d "{\"page\": $PAGE}")
+
+          HTTP_CODE=$(echo "$RESPONSE" | tail -n1)
+          BODY=$(echo "$RESPONSE" | head -n -1)
+
+          echo "📥 Status: $HTTP_CODE"
+          echo "📄 Response: $BODY"
+
+          if [ "$HTTP_CODE" != "200" ]; then
+            echo "❌ Failed with status $HTTP_CODE"
+            exit 1
+          fi
+
+          echo "✅ Page $PAGE done"
