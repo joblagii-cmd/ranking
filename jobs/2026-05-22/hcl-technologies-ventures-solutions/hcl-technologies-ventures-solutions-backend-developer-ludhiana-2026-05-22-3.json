@@ -1,0 +1,94 @@
+{
+  "slug": "hcl-technologies-ventures-solutions-backend-developer-ludhiana-2026-05-22-3",
+  "title": "Backend Developer Vacancy at HCL Technologies Ventures Solutions - 2026 Batch",
+  "company": "HCL Technologies Ventures Solutions",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Ludhiana",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "JavaScript",
+    "REST APIs",
+    "Python",
+    "TensorFlow",
+    "Kubernetes",
+    "TypeScript",
+    "Agile/Scrum",
+    "AWS"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at HCL Technologies Ventures Solutions - 2026 Batch",
+    "description": "We at HCL Technologies Ventures Solutions are looking for an experienced Backend Developer based out of Ludhiana. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout HCL Technologies Ventures Solutions:\nHCL Technologies Ventures Solutions is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Implement new features based on product requirements\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in code reviews and contribute to technical discussions\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Design, develop and maintain scalable software applications\n• Integrate third-party APIs and services\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 3-6 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in REST APIs\n• Proficiency in Python\n• Proficiency in TensorFlow\n• Proficiency in Kubernetes\n• Proficiency in TypeScript\n• Proficiency in Agile/Scrum\n• Proficiency in AWS\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Work-from-home flexibility\n• Mobile and internet reimbursement\n• Maternity and paternity leave\n• Competitive salary with performance-linked incentives\n• Life and accident insurance\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Ludhiana, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with HCL Technologies Ventures Solutions!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "HCL Technologies Ventures Solutions",
+      "value": "1844-3-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "HCL Technologies Ventures Solutions",
+      "sameAs": "https://www.google.com/search?q=HCL%20Technologies%20Ventures%20Solutions",
+      "logo": "https://logo.clearbit.com/hcltechnologiesventuressolutions.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "HCL Technologies Ventures Solutions Office",
+        "addressLocality": "Ludhiana",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "JavaScript, REST APIs, Python, TensorFlow, Kubernetes, TypeScript, Agile/Scrum, AWS",
+    "responsibilities": "Implement new features based on product requirements. Collaborate with cross-functional teams including product, design, and QA. Participate in code reviews and contribute to technical discussions. Work with agile methodologies including daily stand-ups and sprint planning. Design, develop and maintain scalable software applications. Integrate third-party APIs and services. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP",
+    "benefits": "Transportation and conveyance allowance. Work-from-home flexibility. Mobile and internet reimbursement. Maternity and paternity leave. Competitive salary with performance-linked incentives. Life and accident insurance",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Work-from-home flexibility, Mobile and internet reimbursement, Maternity and paternity leave, Competitive salary with performance-linked incentives, Life and accident insurance"
+  },
+  "meta": {
+    "description": "We at HCL Technologies Ventures Solutions are looking for an experienced Backend Developer based out of Ludhiana. If you are a result-oriented professional with",
+    "keywords": "Backend Developer, HCL Technologies Ventures Solutions, jobs in Ludhiana, Punjab jobs, technology jobs India, JavaScript, REST APIs, Python, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:53:40.458Z",
+  "page": 460
+}

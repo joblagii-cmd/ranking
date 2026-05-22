@@ -1,0 +1,93 @@
+{
+  "slug": "infosys-advisory-limited-frontend-developer-ghaziabad-2026-05-22-4",
+  "title": "Junior Frontend Developer at Infosys Advisory Limited",
+  "company": "Infosys Advisory Limited",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Machine Learning",
+    "Go",
+    "Node.js",
+    "Agile/Scrum",
+    "Kubernetes",
+    "CI/CD",
+    "React",
+    "REST APIs"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Junior Frontend Developer at Infosys Advisory Limited",
+    "description": "We at Infosys Advisory Limited are looking for an experienced Frontend Developer based out of Ghaziabad. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout Infosys Advisory Limited:\nInfosys Advisory Limited is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Write and execute unit tests and integration tests\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Implement new features based on product requirements\n• Contribute to system architecture and technical design decisions\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Participate in on-call rotation for production support\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 6-10 years of relevant experience\n• Proficiency in Machine Learning\n• Proficiency in Go\n• Proficiency in Node.js\n• Proficiency in Agile/Scrum\n• Proficiency in Kubernetes\n• Proficiency in CI/CD\n• Proficiency in React\n• Proficiency in REST APIs\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Professional development and training programs\n• Competitive salary with performance-linked incentives\n• Modern office with recreational facilities\n• Meal coupons and food allowance\n• Life and accident insurance\n• Company-sponsored certifications\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Ghaziabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Infosys Advisory Limited!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Infosys Advisory Limited",
+      "value": "1842-4-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Infosys Advisory Limited",
+      "sameAs": "https://www.google.com/search?q=Infosys%20Advisory%20Limited",
+      "logo": "https://logo.clearbit.com/infosysadvisorylimited.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Infosys Advisory Limited Office",
+        "addressLocality": "Ghaziabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "Machine Learning, Go, Node.js, Agile/Scrum, Kubernetes, CI/CD, React, REST APIs",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Write and execute unit tests and integration tests. Mentor junior developers and conduct knowledge-sharing sessions. Implement new features based on product requirements. Contribute to system architecture and technical design decisions. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Participate in on-call rotation for production support",
+    "benefits": "Professional development and training programs. Competitive salary with performance-linked incentives. Modern office with recreational facilities. Meal coupons and food allowance. Life and accident insurance. Company-sponsored certifications",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Competitive salary with performance-linked incentives, Modern office with recreational facilities, Meal coupons and food allowance, Life and accident insurance, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "We at Infosys Advisory Limited are looking for an experienced Frontend Developer based out of Ghaziabad. If you are a result-oriented professional with a passio",
+    "keywords": "Frontend Developer, Infosys Advisory Limited, jobs in Ghaziabad, Uttar Pradesh jobs, technology jobs India, Machine Learning, Go, Node.js, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:53:40.457Z",
+  "page": 460
+}

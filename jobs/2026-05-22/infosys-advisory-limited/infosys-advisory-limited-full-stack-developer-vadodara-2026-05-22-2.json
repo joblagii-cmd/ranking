@@ -1,0 +1,94 @@
+{
+  "slug": "infosys-advisory-limited-full-stack-developer-vadodara-2026-05-22-2",
+  "title": "Infosys Advisory Limited is Hiring: Full Stack Developer (Junior)",
+  "company": "Infosys Advisory Limited",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Agile/Scrum",
+    "REST APIs",
+    "Python",
+    "Kubernetes",
+    "React",
+    "Node.js",
+    "SQL",
+    "Docker"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Infosys Advisory Limited is Hiring: Full Stack Developer (Junior)",
+    "description": "We at Infosys Advisory Limited are looking for an experienced Full Stack Developer based out of Vadodara. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout Infosys Advisory Limited:\nInfosys Advisory Limited is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in code reviews and contribute to technical discussions\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Ensure code security and follow best practices for data protection\n• Write clean, maintainable, and well-documented code\n• Integrate third-party APIs and services\n• Collaborate with cross-functional teams including product, design, and QA\n• Write and execute unit tests and integration tests\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 12-20 years of relevant experience\n• Proficiency in Agile/Scrum\n• Proficiency in REST APIs\n• Proficiency in Python\n• Proficiency in Kubernetes\n• Proficiency in React\n• Proficiency in Node.js\n• Proficiency in SQL\n• Proficiency in Docker\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Employee stock options (ESOPs) for eligible roles\n• Maternity and paternity leave\n• Life and accident insurance\n• Provident Fund and Gratuity as per company policy\n• Competitive salary with performance-linked incentives\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Vadodara, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Infosys Advisory Limited!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Infosys Advisory Limited",
+      "value": "1842-2-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Infosys Advisory Limited",
+      "sameAs": "https://www.google.com/search?q=Infosys%20Advisory%20Limited",
+      "logo": "https://logo.clearbit.com/infosysadvisorylimited.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Infosys Advisory Limited Office",
+        "addressLocality": "Vadodara",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "Agile/Scrum, REST APIs, Python, Kubernetes, React, Node.js, SQL, Docker",
+    "responsibilities": "Participate in code reviews and contribute to technical discussions. Mentor junior developers and conduct knowledge-sharing sessions. Ensure code security and follow best practices for data protection. Write clean, maintainable, and well-documented code. Integrate third-party APIs and services. Collaborate with cross-functional teams including product, design, and QA. Write and execute unit tests and integration tests",
+    "benefits": "Annual paid leaves and casual leaves. Employee stock options (ESOPs) for eligible roles. Maternity and paternity leave. Life and accident insurance. Provident Fund and Gratuity as per company policy. Competitive salary with performance-linked incentives",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Employee stock options (ESOPs) for eligible roles, Maternity and paternity leave, Life and accident insurance, Provident Fund and Gratuity as per company policy, Competitive salary with performance-linked incentives"
+  },
+  "meta": {
+    "description": "We at Infosys Advisory Limited are looking for an experienced Full Stack Developer based out of Vadodara. If you are a result-oriented professional with a passi",
+    "keywords": "Full Stack Developer, Infosys Advisory Limited, jobs in Vadodara, Gujarat jobs, technology jobs India, Agile/Scrum, REST APIs, Python, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:53:40.457Z",
+  "page": 460
+}

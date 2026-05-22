@@ -1,0 +1,93 @@
+{
+  "slug": "wipro-capital-india-senior-software-engineer-ghaziabad-2026-05-22-1",
+  "title": "Senior Software Engineer - Wipro Capital India - Multiple Openings",
+  "company": "Wipro Capital India",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "React",
+    "REST APIs",
+    "Python",
+    "Git",
+    "TypeScript",
+    "AWS",
+    "CI/CD",
+    "Agile/Scrum"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Wipro Capital India - Multiple Openings",
+    "description": "We at Wipro Capital India are looking for an experienced Senior Software Engineer based out of Ghaziabad. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout Wipro Capital India:\nWipro Capital India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in code reviews and contribute to technical discussions\n• Write clean, maintainable, and well-documented code\n• Write and execute unit tests and integration tests\n• Design, develop and maintain scalable software applications\n• Participate in on-call rotation for production support\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 12-20 years of relevant experience\n• Proficiency in React\n• Proficiency in REST APIs\n• Proficiency in Python\n• Proficiency in Git\n• Proficiency in TypeScript\n• Proficiency in AWS\n• Proficiency in CI/CD\n• Proficiency in Agile/Scrum\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Maternity and paternity leave\n• Work-from-home flexibility\n• Transportation and conveyance allowance\n• Professional development and training programs\n• Referral bonus program\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Ghaziabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Wipro Capital India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Wipro Capital India",
+      "value": "1843-1-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Wipro Capital India",
+      "sameAs": "https://www.google.com/search?q=Wipro%20Capital%20India",
+      "logo": "https://logo.clearbit.com/wiprocapitalindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Wipro Capital India Office",
+        "addressLocality": "Ghaziabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "React, REST APIs, Python, Git, TypeScript, AWS, CI/CD, Agile/Scrum",
+    "responsibilities": "Participate in code reviews and contribute to technical discussions. Write clean, maintainable, and well-documented code. Write and execute unit tests and integration tests. Design, develop and maintain scalable software applications. Participate in on-call rotation for production support. Mentor junior developers and conduct knowledge-sharing sessions. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP",
+    "benefits": "Annual paid leaves and casual leaves. Maternity and paternity leave. Work-from-home flexibility. Transportation and conveyance allowance. Professional development and training programs. Referral bonus program",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Maternity and paternity leave, Work-from-home flexibility, Transportation and conveyance allowance, Professional development and training programs, Referral bonus program"
+  },
+  "meta": {
+    "description": "We at Wipro Capital India are looking for an experienced Senior Software Engineer based out of Ghaziabad. If you are a result-oriented professional with a passi",
+    "keywords": "Senior Software Engineer, Wipro Capital India, jobs in Ghaziabad, Uttar Pradesh jobs, technology jobs India, React, REST APIs, Python, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T10:53:40.458Z",
+  "page": 460
+}
