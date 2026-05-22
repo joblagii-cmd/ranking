@@ -1,0 +1,93 @@
+{
+  "slug": "lic-financial-analyst-hyderabad-2026-05-22-0",
+  "title": "Vacancy for Financial Analyst at LIC",
+  "company": "LIC",
+  "industry": "finance",
+  "role": "Financial Analyst",
+  "location": {
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Financial Modeling",
+    "GST",
+    "Due Diligence",
+    "VBA",
+    "SQL",
+    "QuickBooks",
+    "IFRS",
+    "Credit Analysis"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Vacancy for Financial Analyst at LIC",
+    "description": "Grow your career with LIC! We are hiring a Financial Analyst for our Hyderabad team. Be part of a workplace that celebrates innovation, diversity, and performance.\n\nAbout LIC:\nLIC is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Prepare and analyze financial statements, reports, and budgets\n• Prepare annual reports and investor presentations\n• Ensure compliance with tax regulations and statutory requirements\n• Monitor market trends and provide investment recommendations\n• Liaise with banks, regulators, and financial institutions\n• Manage credit risk assessment and loan appraisal processes\n• Develop financial models and projections for business planning\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 3-6 years of relevant experience\n• Proficiency in Financial Modeling\n• Proficiency in GST\n• Proficiency in Due Diligence\n• Proficiency in VBA\n• Proficiency in SQL\n• Proficiency in QuickBooks\n• Proficiency in IFRS\n• Proficiency in Credit Analysis\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Referral bonus program\n• Competitive salary with performance-linked incentives\n• Learning & development budget\n• Employee stock options (ESOPs) for eligible roles\n• Flexible working hours\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Hyderabad, Telangana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with LIC!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "LIC",
+      "value": "151-0-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "LIC",
+      "sameAs": "https://www.google.com/search?q=LIC",
+      "logo": "https://logo.clearbit.com/lic.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "LIC Office",
+        "addressLocality": "Hyderabad",
+        "addressRegion": "Telangana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "Financial Modeling, GST, Due Diligence, VBA, SQL, QuickBooks, IFRS, Credit Analysis",
+    "responsibilities": "Prepare and analyze financial statements, reports, and budgets. Prepare annual reports and investor presentations. Ensure compliance with tax regulations and statutory requirements. Monitor market trends and provide investment recommendations. Liaise with banks, regulators, and financial institutions. Manage credit risk assessment and loan appraisal processes. Develop financial models and projections for business planning",
+    "benefits": "International travel opportunities for senior roles. Referral bonus program. Competitive salary with performance-linked incentives. Learning & development budget. Employee stock options (ESOPs) for eligible roles. Flexible working hours",
+    "industry": "finance",
+    "occupationalCategory": "Financial Analyst",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Referral bonus program, Competitive salary with performance-linked incentives, Learning & development budget, Employee stock options (ESOPs) for eligible roles, Flexible working hours"
+  },
+  "meta": {
+    "description": "Grow your career with LIC! We are hiring a Financial Analyst for our Hyderabad team. Be part of a workplace that celebrates innovation, diversity, and performan",
+    "keywords": "Financial Analyst, LIC, jobs in Hyderabad, Telangana jobs, finance jobs India, Financial Modeling, GST, Due Diligence, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:36:23.316Z",
+  "page": 37
+}
