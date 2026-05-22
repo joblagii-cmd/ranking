@@ -1,0 +1,94 @@
+{
+  "slug": "borosil-department-manager-thane-2026-05-22-3",
+  "title": "Department Manager Vacancy at Borosil - 2026 Batch",
+  "company": "Borosil",
+  "industry": "retail",
+  "role": "Department Manager",
+  "location": {
+    "city": "Thane",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Customer Service",
+    "Inventory Management",
+    "Sales Techniques",
+    "Team Leadership",
+    "KPI Management",
+    "SAP Retail",
+    "MS Excel",
+    "Retail Operations"
+  ],
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-06-21",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Department Manager Vacancy at Borosil - 2026 Batch",
+    "description": "We at Borosil are looking for an experienced Department Manager based out of Thane. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout Borosil:\nBorosil is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Build relationships with regular customers to drive loyalty\n• Handle customer queries, complaints, and escalations effectively\n• Ensure compliance with company policies and retail regulations\n• Implement promotional activities and in-store campaigns\n• Achieve sales targets and improve store performance metrics\n• Conduct regular stock audits and prevent pilferage\n• Assist in recruiting, onboarding, and performance management of staff\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 10-15 years of relevant experience\n• Proficiency in Customer Service\n• Proficiency in Inventory Management\n• Proficiency in Sales Techniques\n• Proficiency in Team Leadership\n• Proficiency in KPI Management\n• Proficiency in SAP Retail\n• Proficiency in MS Excel\n• Proficiency in Retail Operations\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Modern office with recreational facilities\n• Annual paid leaves and casual leaves\n• Comprehensive health insurance for self and family\n• Company-sponsored certifications\n• Meal coupons and food allowance\n• Maternity and paternity leave\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Thane, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Borosil!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Borosil",
+      "value": "667-3-20260522"
+    },
+    "datePosted": "2026-05-22",
+    "validThrough": "2026-06-21",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Borosil",
+      "sameAs": "https://www.google.com/search?q=Borosil",
+      "logo": "https://logo.clearbit.com/borosil.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Borosil Office",
+        "addressLocality": "Thane",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "Customer Service, Inventory Management, Sales Techniques, Team Leadership, KPI Management, SAP Retail, MS Excel, Retail Operations",
+    "responsibilities": "Build relationships with regular customers to drive loyalty. Handle customer queries, complaints, and escalations effectively. Ensure compliance with company policies and retail regulations. Implement promotional activities and in-store campaigns. Achieve sales targets and improve store performance metrics. Conduct regular stock audits and prevent pilferage. Assist in recruiting, onboarding, and performance management of staff",
+    "benefits": "Modern office with recreational facilities. Annual paid leaves and casual leaves. Comprehensive health insurance for self and family. Company-sponsored certifications. Meal coupons and food allowance. Maternity and paternity leave",
+    "industry": "retail",
+    "occupationalCategory": "Department Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Modern office with recreational facilities, Annual paid leaves and casual leaves, Comprehensive health insurance for self and family, Company-sponsored certifications, Meal coupons and food allowance, Maternity and paternity leave"
+  },
+  "meta": {
+    "description": "We at Borosil are looking for an experienced Department Manager based out of Thane. If you are a result-oriented professional with a passion for excellence, we ",
+    "keywords": "Department Manager, Borosil, jobs in Thane, Maharashtra jobs, retail jobs India, Customer Service, Inventory Management, Sales Techniques, hiring 2026"
+  },
+  "generatedAt": "2026-05-22T05:52:40.590Z",
+  "page": 166
+}
