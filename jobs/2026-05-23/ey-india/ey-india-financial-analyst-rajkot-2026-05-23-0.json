@@ -1,0 +1,93 @@
+{
+  "slug": "ey-india-financial-analyst-rajkot-2026-05-23-0",
+  "title": "Job Opening Financial Analyst at EY India",
+  "company": "EY India",
+  "industry": "finance",
+  "role": "Financial Analyst",
+  "location": {
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Financial Modeling",
+    "IFRS",
+    "Power BI",
+    "Ind AS",
+    "MS Excel",
+    "Tally",
+    "Financial Reporting",
+    "SAP FICO"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Job Opening Financial Analyst at EY India",
+    "description": "EY India is actively seeking a talented and motivated Financial Analyst to join our dynamic team in Rajkot. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout EY India:\nEY India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Prepare and analyze financial statements, reports, and budgets\n• Maintain general ledger and ensure accurate bookkeeping\n• Coordinate with external auditors during annual audits\n• Liaise with banks, regulators, and financial institutions\n• Monitor financial performance against targets and provide variance analysis\n• Prepare MIS reports for senior management review\n• Process payroll and manage employee reimbursements\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 3-6 years of relevant experience\n• Proficiency in Financial Modeling\n• Proficiency in IFRS\n• Proficiency in Power BI\n• Proficiency in Ind AS\n• Proficiency in MS Excel\n• Proficiency in Tally\n• Proficiency in Financial Reporting\n• Proficiency in SAP FICO\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Life and accident insurance\n• Work-from-home flexibility\n• Annual performance appraisal\n• Flexible working hours\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Rajkot, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with EY India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "EY India",
+      "value": "189-0-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "EY India",
+      "sameAs": "https://www.google.com/search?q=EY%20India",
+      "logo": "https://logo.clearbit.com/eyindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "EY India Office",
+        "addressLocality": "Rajkot",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "Financial Modeling, IFRS, Power BI, Ind AS, MS Excel, Tally, Financial Reporting, SAP FICO",
+    "responsibilities": "Prepare and analyze financial statements, reports, and budgets. Maintain general ledger and ensure accurate bookkeeping. Coordinate with external auditors during annual audits. Liaise with banks, regulators, and financial institutions. Monitor financial performance against targets and provide variance analysis. Prepare MIS reports for senior management review. Process payroll and manage employee reimbursements",
+    "benefits": "Provident Fund and Gratuity as per company policy. Life and accident insurance. Work-from-home flexibility. Annual performance appraisal. Flexible working hours. Employee stock options (ESOPs) for eligible roles",
+    "industry": "finance",
+    "occupationalCategory": "Financial Analyst",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Life and accident insurance, Work-from-home flexibility, Annual performance appraisal, Flexible working hours, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "EY India is actively seeking a talented and motivated Financial Analyst to join our dynamic team in Rajkot. This is an excellent opportunity for professionals w",
+    "keywords": "Financial Analyst, EY India, jobs in Rajkot, Gujarat jobs, finance jobs India, Financial Modeling, IFRS, Power BI, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:20:34.084Z",
+  "page": 47
+}
