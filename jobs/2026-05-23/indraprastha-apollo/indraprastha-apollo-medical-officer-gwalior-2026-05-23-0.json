@@ -1,0 +1,93 @@
+{
+  "slug": "indraprastha-apollo-medical-officer-gwalior-2026-05-23-0",
+  "title": "Hiring Medical Officer at Indraprastha Apollo",
+  "company": "Indraprastha Apollo",
+  "industry": "healthcare",
+  "role": "Medical Officer",
+  "location": {
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Clinical Documentation",
+    "Surgical Procedures",
+    "Patient Care",
+    "EMR/EHR",
+    "Medical Ethics",
+    "Medical Coding",
+    "Clinical Research",
+    "Diagnostic Skills"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Hiring Medical Officer at Indraprastha Apollo",
+    "description": "An exciting career opportunity awaits you at Indraprastha Apollo. We are on the lookout for a dedicated Medical Officer to strengthen our Gwalior-based team.\n\nAbout Indraprastha Apollo:\nIndraprastha Apollo is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Administer medications and treatments as prescribed\n• Adhere to NABH/JCI accreditation standards\n• Monitor patient progress and adjust treatment plans accordingly\n• Participate in quality improvement initiatives and clinical audits\n• Educate patients and families on health management and disease prevention\n• Maintain accurate clinical documentation in electronic health records\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 12-20 years of relevant experience\n• Proficiency in Clinical Documentation\n• Proficiency in Surgical Procedures\n• Proficiency in Patient Care\n• Proficiency in EMR/EHR\n• Proficiency in Medical Ethics\n• Proficiency in Medical Coding\n• Proficiency in Clinical Research\n• Proficiency in Diagnostic Skills\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Annual paid leaves and casual leaves\n• Competitive salary with performance-linked incentives\n• Modern office with recreational facilities\n• Flexible working hours\n• Transportation and conveyance allowance\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Gwalior, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Indraprastha Apollo!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Indraprastha Apollo",
+      "value": "293-0-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Indraprastha Apollo",
+      "sameAs": "https://www.google.com/search?q=Indraprastha%20Apollo",
+      "logo": "https://logo.clearbit.com/indraprasthaapollo.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Indraprastha Apollo Office",
+        "addressLocality": "Gwalior",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "Clinical Documentation, Surgical Procedures, Patient Care, EMR/EHR, Medical Ethics, Medical Coding, Clinical Research, Diagnostic Skills",
+    "responsibilities": "Coordinate with multidisciplinary teams for comprehensive patient management. Administer medications and treatments as prescribed. Adhere to NABH/JCI accreditation standards. Monitor patient progress and adjust treatment plans accordingly. Participate in quality improvement initiatives and clinical audits. Educate patients and families on health management and disease prevention. Maintain accurate clinical documentation in electronic health records",
+    "benefits": "Work-from-home flexibility. Annual paid leaves and casual leaves. Competitive salary with performance-linked incentives. Modern office with recreational facilities. Flexible working hours. Transportation and conveyance allowance",
+    "industry": "healthcare",
+    "occupationalCategory": "Medical Officer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Annual paid leaves and casual leaves, Competitive salary with performance-linked incentives, Modern office with recreational facilities, Flexible working hours, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Indraprastha Apollo. We are on the lookout for a dedicated Medical Officer to strengthen our Gwalior-based team.",
+    "keywords": "Medical Officer, Indraprastha Apollo, jobs in Gwalior, Madhya Pradesh jobs, healthcare jobs India, Clinical Documentation, Surgical Procedures, Patient Care, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:23:47.100Z",
+  "page": 73
+}

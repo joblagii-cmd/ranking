@@ -1,0 +1,94 @@
+{
+  "slug": "aiims-delhi-senior-doctor-vijayawada-2026-05-23-1",
+  "title": "Senior Doctor - AIIMS Delhi - Apply Now",
+  "company": "AIIMS Delhi",
+  "industry": "healthcare",
+  "role": "Senior Doctor",
+  "location": {
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "BLS/ACLS",
+    "CPT Codes",
+    "HIPAA Compliance",
+    "Clinical Research",
+    "NABH Standards",
+    "Health Informatics",
+    "Telemedicine",
+    "Medical Ethics"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Doctor - AIIMS Delhi - Apply Now",
+    "description": "An exciting career opportunity awaits you at AIIMS Delhi. We are on the lookout for a dedicated Senior Doctor to strengthen our Vijayawada-based team.\n\nAbout AIIMS Delhi:\nAIIMS Delhi is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Educate patients and families on health management and disease prevention\n• Provide high-quality patient care and maintain patient records\n• Respond to medical emergencies and provide immediate care\n• Conduct routine health assessments and screenings\n• Diagnose and treat medical conditions following established protocols\n• Administer medications and treatments as prescribed\n• Collaborate with pharmaceutical representatives and medical suppliers\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 3-6 years of relevant experience\n• Proficiency in BLS/ACLS\n• Proficiency in CPT Codes\n• Proficiency in HIPAA Compliance\n• Proficiency in Clinical Research\n• Proficiency in NABH Standards\n• Proficiency in Health Informatics\n• Proficiency in Telemedicine\n• Proficiency in Medical Ethics\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Learning & development budget\n• Company-sponsored certifications\n• Flexible working hours\n• Mobile and internet reimbursement\n• Comprehensive health insurance for self and family\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Vijayawada, Andhra Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with AIIMS Delhi!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "AIIMS Delhi",
+      "value": "294-1-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "AIIMS Delhi",
+      "sameAs": "https://www.google.com/search?q=AIIMS%20Delhi",
+      "logo": "https://logo.clearbit.com/aiimsdelhi.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "AIIMS Delhi Office",
+        "addressLocality": "Vijayawada",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "BLS/ACLS, CPT Codes, HIPAA Compliance, Clinical Research, NABH Standards, Health Informatics, Telemedicine, Medical Ethics",
+    "responsibilities": "Educate patients and families on health management and disease prevention. Provide high-quality patient care and maintain patient records. Respond to medical emergencies and provide immediate care. Conduct routine health assessments and screenings. Diagnose and treat medical conditions following established protocols. Administer medications and treatments as prescribed. Collaborate with pharmaceutical representatives and medical suppliers",
+    "benefits": "Provident Fund and Gratuity as per company policy. Learning & development budget. Company-sponsored certifications. Flexible working hours. Mobile and internet reimbursement. Comprehensive health insurance for self and family",
+    "industry": "healthcare",
+    "occupationalCategory": "Senior Doctor",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Learning & development budget, Company-sponsored certifications, Flexible working hours, Mobile and internet reimbursement, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at AIIMS Delhi. We are on the lookout for a dedicated Senior Doctor to strengthen our Vijayawada-based team.",
+    "keywords": "Senior Doctor, AIIMS Delhi, jobs in Vijayawada, Andhra Pradesh jobs, healthcare jobs India, BLS/ACLS, CPT Codes, HIPAA Compliance, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:23:47.100Z",
+  "page": 73
+}
