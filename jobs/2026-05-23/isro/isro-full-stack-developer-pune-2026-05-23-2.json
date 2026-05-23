@@ -1,0 +1,93 @@
+{
+  "slug": "isro-full-stack-developer-pune-2026-05-23-2",
+  "title": "ISRO is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "ISRO",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Pune",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "MongoDB",
+    "REST APIs",
+    "Java",
+    "Agile/Scrum",
+    "Node.js",
+    "AWS",
+    "CI/CD",
+    "Microservices"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "ISRO is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "An exciting career opportunity awaits you at ISRO. We are on the lookout for a dedicated Full Stack Developer to strengthen our Pune-based team.\n\nAbout ISRO:\nISRO is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Collaborate with cross-functional teams including product, design, and QA\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Integrate third-party APIs and services\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Participate in code reviews and contribute to technical discussions\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 0-1 years of relevant experience\n• Proficiency in MongoDB\n• Proficiency in REST APIs\n• Proficiency in Java\n• Proficiency in Agile/Scrum\n• Proficiency in Node.js\n• Proficiency in AWS\n• Proficiency in CI/CD\n• Proficiency in Microservices\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Learning & development budget\n• Work-from-home flexibility\n• Modern office with recreational facilities\n• International travel opportunities for senior roles\n• Comprehensive health insurance for self and family\n• Transportation and conveyance allowance\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Pune, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with ISRO!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "ISRO",
+      "value": "72-2-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "ISRO",
+      "sameAs": "https://www.google.com/search?q=ISRO",
+      "logo": "https://logo.clearbit.com/isro.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "ISRO Office",
+        "addressLocality": "Pune",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "MongoDB, REST APIs, Java, Agile/Scrum, Node.js, AWS, CI/CD, Microservices",
+    "responsibilities": "Troubleshoot, debug, and resolve software defects and performance issues. Collaborate with cross-functional teams including product, design, and QA. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Work with agile methodologies including daily stand-ups and sprint planning. Integrate third-party APIs and services. Mentor junior developers and conduct knowledge-sharing sessions. Participate in code reviews and contribute to technical discussions",
+    "benefits": "Learning & development budget. Work-from-home flexibility. Modern office with recreational facilities. International travel opportunities for senior roles. Comprehensive health insurance for self and family. Transportation and conveyance allowance",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Learning & development budget, Work-from-home flexibility, Modern office with recreational facilities, International travel opportunities for senior roles, Comprehensive health insurance for self and family, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at ISRO. We are on the lookout for a dedicated Full Stack Developer to strengthen our Pune-based team.",
+    "keywords": "Full Stack Developer, ISRO, jobs in Pune, Maharashtra jobs, technology jobs India, MongoDB, REST APIs, Java, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:16:51.136Z",
+  "page": 17
+}

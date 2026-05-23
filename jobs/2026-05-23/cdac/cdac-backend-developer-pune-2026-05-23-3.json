@@ -1,0 +1,94 @@
+{
+  "slug": "cdac-backend-developer-pune-2026-05-23-3",
+  "title": "Backend Developer Vacancy at CDAC - 2026 Batch",
+  "company": "CDAC",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Pune",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Git",
+    "TypeScript",
+    "JavaScript",
+    "Agile/Scrum",
+    "Python",
+    "Java",
+    "CI/CD",
+    "React"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at CDAC - 2026 Batch",
+    "description": "An exciting career opportunity awaits you at CDAC. We are on the lookout for a dedicated Backend Developer to strengthen our Pune-based team.\n\nAbout CDAC:\nCDAC is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Integrate third-party APIs and services\n• Participate in on-call rotation for production support\n• Design, develop and maintain scalable software applications\n• Write and execute unit tests and integration tests\n• Write clean, maintainable, and well-documented code\n• Contribute to system architecture and technical design decisions\n• Optimize application performance and ensure high availability\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 0-1 years of relevant experience\n• Proficiency in Git\n• Proficiency in TypeScript\n• Proficiency in JavaScript\n• Proficiency in Agile/Scrum\n• Proficiency in Python\n• Proficiency in Java\n• Proficiency in CI/CD\n• Proficiency in React\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Maternity and paternity leave\n• Employee stock options (ESOPs) for eligible roles\n• Comprehensive health insurance for self and family\n• Meal coupons and food allowance\n• Recognition and rewards programs\n• Life and accident insurance\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Pune, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with CDAC!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "CDAC",
+      "value": "71-3-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "CDAC",
+      "sameAs": "https://www.google.com/search?q=CDAC",
+      "logo": "https://logo.clearbit.com/cdac.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "CDAC Office",
+        "addressLocality": "Pune",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "Git, TypeScript, JavaScript, Agile/Scrum, Python, Java, CI/CD, React",
+    "responsibilities": "Integrate third-party APIs and services. Participate in on-call rotation for production support. Design, develop and maintain scalable software applications. Write and execute unit tests and integration tests. Write clean, maintainable, and well-documented code. Contribute to system architecture and technical design decisions. Optimize application performance and ensure high availability",
+    "benefits": "Maternity and paternity leave. Employee stock options (ESOPs) for eligible roles. Comprehensive health insurance for self and family. Meal coupons and food allowance. Recognition and rewards programs. Life and accident insurance",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Maternity and paternity leave, Employee stock options (ESOPs) for eligible roles, Comprehensive health insurance for self and family, Meal coupons and food allowance, Recognition and rewards programs, Life and accident insurance"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at CDAC. We are on the lookout for a dedicated Backend Developer to strengthen our Pune-based team.",
+    "keywords": "Backend Developer, CDAC, jobs in Pune, Maharashtra jobs, technology jobs India, Git, TypeScript, JavaScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:16:51.135Z",
+  "page": 17
+}

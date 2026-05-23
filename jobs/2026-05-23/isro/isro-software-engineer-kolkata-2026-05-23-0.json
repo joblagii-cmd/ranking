@@ -1,0 +1,93 @@
+{
+  "slug": "isro-software-engineer-kolkata-2026-05-23-0",
+  "title": "Immediate Requirement Software Engineer at ISRO",
+  "company": "ISRO",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "region": "Eastern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Java",
+    "Machine Learning",
+    "Python",
+    "Git",
+    "React",
+    "TensorFlow",
+    "Agile/Scrum",
+    "SQL"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Immediate Requirement Software Engineer at ISRO",
+    "description": "An exciting career opportunity awaits you at ISRO. We are on the lookout for a dedicated Software Engineer to strengthen our Kolkata-based team.\n\nAbout ISRO:\nISRO is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Ensure code security and follow best practices for data protection\n• Design, develop and maintain scalable software applications\n• Implement new features based on product requirements\n• Integrate third-party APIs and services\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 3-6 years of relevant experience\n• Proficiency in Java\n• Proficiency in Machine Learning\n• Proficiency in Python\n• Proficiency in Git\n• Proficiency in React\n• Proficiency in TensorFlow\n• Proficiency in Agile/Scrum\n• Proficiency in SQL\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Work-from-home flexibility\n• International travel opportunities for senior roles\n• Company-sponsored certifications\n• Comprehensive health insurance for self and family\n• Flexible working hours\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Kolkata, West Bengal, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with ISRO!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "ISRO",
+      "value": "72-0-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "ISRO",
+      "sameAs": "https://www.google.com/search?q=ISRO",
+      "logo": "https://logo.clearbit.com/isro.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "ISRO Office",
+        "addressLocality": "Kolkata",
+        "addressRegion": "West Bengal",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Java, Machine Learning, Python, Git, React, TensorFlow, Agile/Scrum, SQL",
+    "responsibilities": "Troubleshoot, debug, and resolve software defects and performance issues. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Mentor junior developers and conduct knowledge-sharing sessions. Ensure code security and follow best practices for data protection. Design, develop and maintain scalable software applications. Implement new features based on product requirements. Integrate third-party APIs and services",
+    "benefits": "Competitive salary with performance-linked incentives. Work-from-home flexibility. International travel opportunities for senior roles. Company-sponsored certifications. Comprehensive health insurance for self and family. Flexible working hours",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Work-from-home flexibility, International travel opportunities for senior roles, Company-sponsored certifications, Comprehensive health insurance for self and family, Flexible working hours"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at ISRO. We are on the lookout for a dedicated Software Engineer to strengthen our Kolkata-based team.",
+    "keywords": "Software Engineer, ISRO, jobs in Kolkata, West Bengal jobs, technology jobs India, Java, Machine Learning, Python, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:16:51.136Z",
+  "page": 17
+}
