@@ -1,0 +1,93 @@
+{
+  "slug": "woodland-floor-manager-coimbatore-2026-05-23-2",
+  "title": "Woodland is Hiring: Floor Manager (Principal)",
+  "company": "Woodland",
+  "industry": "retail",
+  "role": "Floor Manager",
+  "location": {
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Retail Operations",
+    "SAP Retail",
+    "Omnichannel Retail",
+    "Category Management",
+    "Planogram",
+    "E-commerce Integration",
+    "Visual Merchandising",
+    "Shrinkage Control"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Woodland is Hiring: Floor Manager (Principal)",
+    "description": "If you're a passionate Floor Manager with drive and ambition, Woodland in Coimbatore is the place for you. We're growing fast and need talented people to grow with us.\n\nAbout Woodland:\nWoodland is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Implement promotional activities and in-store campaigns\n• Manage store operations to ensure smooth daily functioning\n• Achieve sales targets and improve store performance metrics\n• Handle customer queries, complaints, and escalations effectively\n• Monitor inventory levels and coordinate replenishment activities\n• Assist in recruiting, onboarding, and performance management of staff\n• Manage shrinkage and reduce stock discrepancies\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 10-15 years of relevant experience\n• Proficiency in Retail Operations\n• Proficiency in SAP Retail\n• Proficiency in Omnichannel Retail\n• Proficiency in Category Management\n• Proficiency in Planogram\n• Proficiency in E-commerce Integration\n• Proficiency in Visual Merchandising\n• Proficiency in Shrinkage Control\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Professional development and training programs\n• Transportation and conveyance allowance\n• Competitive salary with performance-linked incentives\n• Flexible working hours\n• Learning & development budget\n• Meal coupons and food allowance\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Coimbatore, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Woodland!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Woodland",
+      "value": "621-2-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Woodland",
+      "sameAs": "https://www.google.com/search?q=Woodland",
+      "logo": "https://logo.clearbit.com/woodland.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Woodland Office",
+        "addressLocality": "Coimbatore",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Retail Operations, SAP Retail, Omnichannel Retail, Category Management, Planogram, E-commerce Integration, Visual Merchandising, Shrinkage Control",
+    "responsibilities": "Implement promotional activities and in-store campaigns. Manage store operations to ensure smooth daily functioning. Achieve sales targets and improve store performance metrics. Handle customer queries, complaints, and escalations effectively. Monitor inventory levels and coordinate replenishment activities. Assist in recruiting, onboarding, and performance management of staff. Manage shrinkage and reduce stock discrepancies",
+    "benefits": "Professional development and training programs. Transportation and conveyance allowance. Competitive salary with performance-linked incentives. Flexible working hours. Learning & development budget. Meal coupons and food allowance",
+    "industry": "retail",
+    "occupationalCategory": "Floor Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Transportation and conveyance allowance, Competitive salary with performance-linked incentives, Flexible working hours, Learning & development budget, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "If you're a passionate Floor Manager with drive and ambition, Woodland in Coimbatore is the place for you. We're growing fast and need talented people to grow w",
+    "keywords": "Floor Manager, Woodland, jobs in Coimbatore, Tamil Nadu jobs, retail jobs India, Retail Operations, SAP Retail, Omnichannel Retail, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:33:41.775Z",
+  "page": 155
+}
