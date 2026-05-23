@@ -1,0 +1,93 @@
+{
+  "slug": "nit-warangal-teacher-aurangabad-2026-05-23-0",
+  "title": "Vacancy for Teacher at NIT Warangal",
+  "company": "NIT Warangal",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Aurangabad",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Pedagogy",
+    "MS Office",
+    "Curriculum Development",
+    "Data Analysis",
+    "IB Curriculum",
+    "Zoom/Teams",
+    "Classroom Management",
+    "Special Education"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Vacancy for Teacher at NIT Warangal",
+    "description": "An exciting career opportunity awaits you at NIT Warangal. We are on the lookout for a dedicated Teacher to strengthen our Aurangabad-based team.\n\nAbout NIT Warangal:\nNIT Warangal is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Conduct doubt-clearing sessions and remedial classes for weak students\n• Develop and deliver engaging lesson plans for students\n• Conduct parent-teacher meetings and update parents on student performance\n• Create curriculum-aligned learning materials and assessments\n• Monitor student progress and provide timely feedback\n• Maintain classroom discipline and create a positive learning environment\n• Collaborate with faculty on curriculum development initiatives\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 6-10 years of relevant experience\n• Proficiency in Pedagogy\n• Proficiency in MS Office\n• Proficiency in Curriculum Development\n• Proficiency in Data Analysis\n• Proficiency in IB Curriculum\n• Proficiency in Zoom/Teams\n• Proficiency in Classroom Management\n• Proficiency in Special Education\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Referral bonus program\n• Annual paid leaves and casual leaves\n• Professional development and training programs\n• Work-from-home flexibility\n• Mobile and internet reimbursement\n• Flexible working hours\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Aurangabad, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with NIT Warangal!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "NIT Warangal",
+      "value": "528-0-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "NIT Warangal",
+      "sameAs": "https://www.google.com/search?q=NIT%20Warangal",
+      "logo": "https://logo.clearbit.com/nitwarangal.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "NIT Warangal Office",
+        "addressLocality": "Aurangabad",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "Pedagogy, MS Office, Curriculum Development, Data Analysis, IB Curriculum, Zoom/Teams, Classroom Management, Special Education",
+    "responsibilities": "Conduct doubt-clearing sessions and remedial classes for weak students. Develop and deliver engaging lesson plans for students. Conduct parent-teacher meetings and update parents on student performance. Create curriculum-aligned learning materials and assessments. Monitor student progress and provide timely feedback. Maintain classroom discipline and create a positive learning environment. Collaborate with faculty on curriculum development initiatives",
+    "benefits": "Referral bonus program. Annual paid leaves and casual leaves. Professional development and training programs. Work-from-home flexibility. Mobile and internet reimbursement. Flexible working hours",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Referral bonus program, Annual paid leaves and casual leaves, Professional development and training programs, Work-from-home flexibility, Mobile and internet reimbursement, Flexible working hours"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at NIT Warangal. We are on the lookout for a dedicated Teacher to strengthen our Aurangabad-based team.",
+    "keywords": "Teacher, NIT Warangal, jobs in Aurangabad, Maharashtra jobs, education jobs India, Pedagogy, MS Office, Curriculum Development, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:30:50.063Z",
+  "page": 131
+}
