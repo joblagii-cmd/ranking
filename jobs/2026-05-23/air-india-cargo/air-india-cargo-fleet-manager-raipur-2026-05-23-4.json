@@ -1,0 +1,93 @@
+{
+  "slug": "air-india-cargo-fleet-manager-raipur-2026-05-23-4",
+  "title": "Mid-Level Fleet Manager at Air India Cargo",
+  "company": "Air India Cargo",
+  "industry": "logistics",
+  "role": "Fleet Manager",
+  "location": {
+    "city": "Raipur",
+    "state": "Chhattisgarh",
+    "region": "Central India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "TMS",
+    "Data Analytics",
+    "ERP Systems",
+    "SAP SCM",
+    "Route Optimization",
+    "Supply Chain Management",
+    "KPI Monitoring",
+    "Vendor Management"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Fleet Manager at Air India Cargo",
+    "description": "Join the Air India Cargo family as a Fleet Manager in Raipur. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Air India Cargo:\nAir India Cargo is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Oversee end-to-end logistics operations for timely delivery\n• Prepare MIS reports on delivery performance and SLA adherence\n• Ensure proper handling, packaging, and labeling of goods\n• Manage relationships with third-party logistics providers\n• Optimize delivery routes to reduce cost and improve efficiency\n• Track shipments in real-time and resolve delivery exceptions\n• Handle customs clearance for import and export shipments\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 3-6 years of relevant experience\n• Proficiency in TMS\n• Proficiency in Data Analytics\n• Proficiency in ERP Systems\n• Proficiency in SAP SCM\n• Proficiency in Route Optimization\n• Proficiency in Supply Chain Management\n• Proficiency in KPI Monitoring\n• Proficiency in Vendor Management\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Annual paid leaves and casual leaves\n• Life and accident insurance\n• Annual performance appraisal\n• Employee stock options (ESOPs) for eligible roles\n• Referral bonus program\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Raipur, Chhattisgarh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Air India Cargo!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Air India Cargo",
+      "value": "796-4-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Air India Cargo",
+      "sameAs": "https://www.google.com/search?q=Air%20India%20Cargo",
+      "logo": "https://logo.clearbit.com/airindiacargo.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Air India Cargo Office",
+        "addressLocality": "Raipur",
+        "addressRegion": "Chhattisgarh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "TMS, Data Analytics, ERP Systems, SAP SCM, Route Optimization, Supply Chain Management, KPI Monitoring, Vendor Management",
+    "responsibilities": "Oversee end-to-end logistics operations for timely delivery. Prepare MIS reports on delivery performance and SLA adherence. Ensure proper handling, packaging, and labeling of goods. Manage relationships with third-party logistics providers. Optimize delivery routes to reduce cost and improve efficiency. Track shipments in real-time and resolve delivery exceptions. Handle customs clearance for import and export shipments",
+    "benefits": "Provident Fund and Gratuity as per company policy. Annual paid leaves and casual leaves. Life and accident insurance. Annual performance appraisal. Employee stock options (ESOPs) for eligible roles. Referral bonus program",
+    "industry": "logistics",
+    "occupationalCategory": "Fleet Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Annual paid leaves and casual leaves, Life and accident insurance, Annual performance appraisal, Employee stock options (ESOPs) for eligible roles, Referral bonus program"
+  },
+  "meta": {
+    "description": "Join the Air India Cargo family as a Fleet Manager in Raipur. We believe in empowering our employees with the tools, training, and environment they need to succ",
+    "keywords": "Fleet Manager, Air India Cargo, jobs in Raipur, Chhattisgarh jobs, logistics jobs India, TMS, Data Analytics, ERP Systems, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:38:52.294Z",
+  "page": 198
+}
