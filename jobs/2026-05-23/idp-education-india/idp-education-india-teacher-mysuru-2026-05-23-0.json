@@ -1,0 +1,94 @@
+{
+  "slug": "idp-education-india-teacher-mysuru-2026-05-23-0",
+  "title": "Job Opening Teacher at IDP Education India",
+  "company": "IDP Education India",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "LMS Platforms",
+    "Mentoring",
+    "Child Psychology",
+    "Research Skills",
+    "E-learning",
+    "Educational Technology",
+    "Zoom/Teams",
+    "MS Office"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Job Opening Teacher at IDP Education India",
+    "description": "Join the IDP Education India family as a Teacher in Mysuru. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout IDP Education India:\nIDP Education India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Conduct parent-teacher meetings and update parents on student performance\n• Collaborate with faculty on curriculum development initiatives\n• Contribute to school newsletter, blogs, and other publications\n• Develop and deliver engaging lesson plans for students\n• Support students with special educational needs\n• Design formative and summative assessments aligned to learning objectives\n• Coordinate with academic counselors for student career guidance\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 12-20 years of relevant experience\n• Proficiency in LMS Platforms\n• Proficiency in Mentoring\n• Proficiency in Child Psychology\n• Proficiency in Research Skills\n• Proficiency in E-learning\n• Proficiency in Educational Technology\n• Proficiency in Zoom/Teams\n• Proficiency in MS Office\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Mobile and internet reimbursement\n• Competitive salary with performance-linked incentives\n• International travel opportunities for senior roles\n• Comprehensive health insurance for self and family\n• Recognition and rewards programs\n• Flexible working hours\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Mysuru, Karnataka, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with IDP Education India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "IDP Education India",
+      "value": "558-0-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "IDP Education India",
+      "sameAs": "https://www.google.com/search?q=IDP%20Education%20India",
+      "logo": "https://logo.clearbit.com/idpeducationindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "IDP Education India Office",
+        "addressLocality": "Mysuru",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "LMS Platforms, Mentoring, Child Psychology, Research Skills, E-learning, Educational Technology, Zoom/Teams, MS Office",
+    "responsibilities": "Conduct parent-teacher meetings and update parents on student performance. Collaborate with faculty on curriculum development initiatives. Contribute to school newsletter, blogs, and other publications. Develop and deliver engaging lesson plans for students. Support students with special educational needs. Design formative and summative assessments aligned to learning objectives. Coordinate with academic counselors for student career guidance",
+    "benefits": "Mobile and internet reimbursement. Competitive salary with performance-linked incentives. International travel opportunities for senior roles. Comprehensive health insurance for self and family. Recognition and rewards programs. Flexible working hours",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Mobile and internet reimbursement, Competitive salary with performance-linked incentives, International travel opportunities for senior roles, Comprehensive health insurance for self and family, Recognition and rewards programs, Flexible working hours"
+  },
+  "meta": {
+    "description": "Join the IDP Education India family as a Teacher in Mysuru. We believe in empowering our employees with the tools, training, and environment they need to succee",
+    "keywords": "Teacher, IDP Education India, jobs in Mysuru, Karnataka jobs, education jobs India, LMS Platforms, Mentoring, Child Psychology, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:31:47.102Z",
+  "page": 139
+}

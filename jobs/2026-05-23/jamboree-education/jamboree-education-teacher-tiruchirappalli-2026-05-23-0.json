@@ -1,0 +1,93 @@
+{
+  "slug": "jamboree-education-teacher-tiruchirappalli-2026-05-23-0",
+  "title": "Job Opening Teacher at Jamboree Education",
+  "company": "Jamboree Education",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Student Assessment",
+    "Classroom Management",
+    "Bloom's Taxonomy",
+    "Special Education",
+    "Educational Technology",
+    "Pedagogy",
+    "Communication Skills",
+    "E-learning"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Job Opening Teacher at Jamboree Education",
+    "description": "Join the Jamboree Education family as a Teacher in Tiruchirappalli. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Jamboree Education:\nJamboree Education is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with academic counselors for student career guidance\n• Maintain classroom discipline and create a positive learning environment\n• Develop and deliver engaging lesson plans for students\n• Contribute to school newsletter, blogs, and other publications\n• Maintain student records and prepare progress reports\n• Utilize technology and digital tools to enhance learning outcomes\n• Participate in school events, workshops, and training programs\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 10-15 years of relevant experience\n• Proficiency in Student Assessment\n• Proficiency in Classroom Management\n• Proficiency in Bloom's Taxonomy\n• Proficiency in Special Education\n• Proficiency in Educational Technology\n• Proficiency in Pedagogy\n• Proficiency in Communication Skills\n• Proficiency in E-learning\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Work-from-home flexibility\n• Referral bonus program\n• Flexible working hours\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Tiruchirappalli, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Jamboree Education!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Jamboree Education",
+      "value": "559-0-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Jamboree Education",
+      "sameAs": "https://www.google.com/search?q=Jamboree%20Education",
+      "logo": "https://logo.clearbit.com/jamboreeeducation.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Jamboree Education Office",
+        "addressLocality": "Tiruchirappalli",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "Student Assessment, Classroom Management, Bloom's Taxonomy, Special Education, Educational Technology, Pedagogy, Communication Skills, E-learning",
+    "responsibilities": "Coordinate with academic counselors for student career guidance. Maintain classroom discipline and create a positive learning environment. Develop and deliver engaging lesson plans for students. Contribute to school newsletter, blogs, and other publications. Maintain student records and prepare progress reports. Utilize technology and digital tools to enhance learning outcomes. Participate in school events, workshops, and training programs",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Work-from-home flexibility. Referral bonus program. Flexible working hours. Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Work-from-home flexibility, Referral bonus program, Flexible working hours, Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "Join the Jamboree Education family as a Teacher in Tiruchirappalli. We believe in empowering our employees with the tools, training, and environment they need t",
+    "keywords": "Teacher, Jamboree Education, jobs in Tiruchirappalli, Tamil Nadu jobs, education jobs India, Student Assessment, Classroom Management, Bloom's Taxonomy, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:31:47.102Z",
+  "page": 139
+}
