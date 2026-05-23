@@ -1,0 +1,93 @@
+{
+  "slug": "juspay-investment-banker-jodhpur-2026-05-23-4",
+  "title": "Principal Investment Banker at Juspay",
+  "company": "Juspay",
+  "industry": "finance",
+  "role": "Investment Banker",
+  "location": {
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Risk Management",
+    "Financial Reporting",
+    "MS Excel",
+    "IFRS",
+    "Python for Finance",
+    "VBA",
+    "Tally",
+    "Bloomberg Terminal"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Principal Investment Banker at Juspay",
+    "description": "We at Juspay are looking for an experienced Investment Banker based out of Jodhpur. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout Juspay:\nJuspay is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Manage accounts payable and accounts receivable functions\n• Liaise with banks, regulators, and financial institutions\n• Monitor financial performance against targets and provide variance analysis\n• Prepare and analyze financial statements, reports, and budgets\n• Process payroll and manage employee reimbursements\n• Implement and maintain internal controls and audit procedures\n• Coordinate with external auditors during annual audits\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 10-15 years of relevant experience\n• Proficiency in Risk Management\n• Proficiency in Financial Reporting\n• Proficiency in MS Excel\n• Proficiency in IFRS\n• Proficiency in Python for Finance\n• Proficiency in VBA\n• Proficiency in Tally\n• Proficiency in Bloomberg Terminal\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Flexible working hours\n• Recognition and rewards programs\n• Meal coupons and food allowance\n• Annual performance appraisal\n• Professional development and training programs\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Jodhpur, Rajasthan, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Juspay!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Juspay",
+      "value": "210-4-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Juspay",
+      "sameAs": "https://www.google.com/search?q=Juspay",
+      "logo": "https://logo.clearbit.com/juspay.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Juspay Office",
+        "addressLocality": "Jodhpur",
+        "addressRegion": "Rajasthan",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "Risk Management, Financial Reporting, MS Excel, IFRS, Python for Finance, VBA, Tally, Bloomberg Terminal",
+    "responsibilities": "Manage accounts payable and accounts receivable functions. Liaise with banks, regulators, and financial institutions. Monitor financial performance against targets and provide variance analysis. Prepare and analyze financial statements, reports, and budgets. Process payroll and manage employee reimbursements. Implement and maintain internal controls and audit procedures. Coordinate with external auditors during annual audits",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Flexible working hours. Recognition and rewards programs. Meal coupons and food allowance. Annual performance appraisal. Professional development and training programs",
+    "industry": "finance",
+    "occupationalCategory": "Investment Banker",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Flexible working hours, Recognition and rewards programs, Meal coupons and food allowance, Annual performance appraisal, Professional development and training programs"
+  },
+  "meta": {
+    "description": "We at Juspay are looking for an experienced Investment Banker based out of Jodhpur. If you are a result-oriented professional with a passion for excellence, we ",
+    "keywords": "Investment Banker, Juspay, jobs in Jodhpur, Rajasthan jobs, finance jobs India, Risk Management, Financial Reporting, MS Excel, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:21:11.779Z",
+  "page": 52
+}

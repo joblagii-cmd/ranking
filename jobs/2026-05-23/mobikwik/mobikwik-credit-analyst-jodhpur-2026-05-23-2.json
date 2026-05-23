@@ -1,0 +1,94 @@
+{
+  "slug": "mobikwik-credit-analyst-jodhpur-2026-05-23-2",
+  "title": "MobiKwik is Hiring: Credit Analyst (Principal)",
+  "company": "MobiKwik",
+  "industry": "finance",
+  "role": "Credit Analyst",
+  "location": {
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Python for Finance",
+    "Income Tax",
+    "Risk Management",
+    "QuickBooks",
+    "Financial Modeling",
+    "Bloomberg Terminal",
+    "Financial Reporting",
+    "Credit Analysis"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "MobiKwik is Hiring: Credit Analyst (Principal)",
+    "description": "We at MobiKwik are looking for an experienced Credit Analyst based out of Jodhpur. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout MobiKwik:\nMobiKwik is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Implement and maintain internal controls and audit procedures\n• Prepare MIS reports for senior management review\n• Process payroll and manage employee reimbursements\n• Coordinate with external auditors during annual audits\n• Prepare annual reports and investor presentations\n• Ensure compliance with tax regulations and statutory requirements\n• Monitor market trends and provide investment recommendations\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 12-20 years of relevant experience\n• Proficiency in Python for Finance\n• Proficiency in Income Tax\n• Proficiency in Risk Management\n• Proficiency in QuickBooks\n• Proficiency in Financial Modeling\n• Proficiency in Bloomberg Terminal\n• Proficiency in Financial Reporting\n• Proficiency in Credit Analysis\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Flexible working hours\n• Employee stock options (ESOPs) for eligible roles\n• Competitive salary with performance-linked incentives\n• International travel opportunities for senior roles\n• Maternity and paternity leave\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Jodhpur, Rajasthan, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with MobiKwik!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "MobiKwik",
+      "value": "211-2-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "MobiKwik",
+      "sameAs": "https://www.google.com/search?q=MobiKwik",
+      "logo": "https://logo.clearbit.com/mobikwik.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "MobiKwik Office",
+        "addressLocality": "Jodhpur",
+        "addressRegion": "Rajasthan",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Python for Finance, Income Tax, Risk Management, QuickBooks, Financial Modeling, Bloomberg Terminal, Financial Reporting, Credit Analysis",
+    "responsibilities": "Implement and maintain internal controls and audit procedures. Prepare MIS reports for senior management review. Process payroll and manage employee reimbursements. Coordinate with external auditors during annual audits. Prepare annual reports and investor presentations. Ensure compliance with tax regulations and statutory requirements. Monitor market trends and provide investment recommendations",
+    "benefits": "Annual paid leaves and casual leaves. Flexible working hours. Employee stock options (ESOPs) for eligible roles. Competitive salary with performance-linked incentives. International travel opportunities for senior roles. Maternity and paternity leave",
+    "industry": "finance",
+    "occupationalCategory": "Credit Analyst",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Flexible working hours, Employee stock options (ESOPs) for eligible roles, Competitive salary with performance-linked incentives, International travel opportunities for senior roles, Maternity and paternity leave"
+  },
+  "meta": {
+    "description": "We at MobiKwik are looking for an experienced Credit Analyst based out of Jodhpur. If you are a result-oriented professional with a passion for excellence, we w",
+    "keywords": "Credit Analyst, MobiKwik, jobs in Jodhpur, Rajasthan jobs, finance jobs India, Python for Finance, Income Tax, Risk Management, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:21:11.779Z",
+  "page": 52
+}
