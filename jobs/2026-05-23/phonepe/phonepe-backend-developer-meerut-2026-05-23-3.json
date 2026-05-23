@@ -1,0 +1,93 @@
+{
+  "slug": "phonepe-backend-developer-meerut-2026-05-23-3",
+  "title": "Backend Developer Vacancy at PhonePe - 2026 Batch",
+  "company": "PhonePe",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Python",
+    "React",
+    "JavaScript",
+    "Agile/Scrum",
+    "Node.js",
+    "CI/CD",
+    "TypeScript",
+    "MongoDB"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at PhonePe - 2026 Batch",
+    "description": "Are you a skilled Backend Developer looking for your next big career move? PhonePe in Meerut offers you the perfect platform to grow professionally and personally.\n\nAbout PhonePe:\nPhonePe is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Optimize application performance and ensure high availability\n• Write clean, maintainable, and well-documented code\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Participate in on-call rotation for production support\n• Integrate third-party APIs and services\n• Participate in code reviews and contribute to technical discussions\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 10-15 years of relevant experience\n• Proficiency in Python\n• Proficiency in React\n• Proficiency in JavaScript\n• Proficiency in Agile/Scrum\n• Proficiency in Node.js\n• Proficiency in CI/CD\n• Proficiency in TypeScript\n• Proficiency in MongoDB\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Flexible working hours\n• Work-from-home flexibility\n• International travel opportunities for senior roles\n• Provident Fund and Gratuity as per company policy\n• Annual paid leaves and casual leaves\n• Learning & development budget\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Meerut, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with PhonePe!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "PhonePe",
+      "value": "20-3-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "PhonePe",
+      "sameAs": "https://www.google.com/search?q=PhonePe",
+      "logo": "https://logo.clearbit.com/phonepe.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "PhonePe Office",
+        "addressLocality": "Meerut",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Python, React, JavaScript, Agile/Scrum, Node.js, CI/CD, TypeScript, MongoDB",
+    "responsibilities": "Design, develop and maintain scalable software applications. Optimize application performance and ensure high availability. Write clean, maintainable, and well-documented code. Troubleshoot, debug, and resolve software defects and performance issues. Participate in on-call rotation for production support. Integrate third-party APIs and services. Participate in code reviews and contribute to technical discussions",
+    "benefits": "Flexible working hours. Work-from-home flexibility. International travel opportunities for senior roles. Provident Fund and Gratuity as per company policy. Annual paid leaves and casual leaves. Learning & development budget",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, Work-from-home flexibility, International travel opportunities for senior roles, Provident Fund and Gratuity as per company policy, Annual paid leaves and casual leaves, Learning & development budget"
+  },
+  "meta": {
+    "description": "Are you a skilled Backend Developer looking for your next big career move? PhonePe in Meerut offers you the perfect platform to grow professionally and personal",
+    "keywords": "Backend Developer, PhonePe, jobs in Meerut, Uttar Pradesh jobs, technology jobs India, Python, React, JavaScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:15:12.419Z",
+  "page": 4
+}
