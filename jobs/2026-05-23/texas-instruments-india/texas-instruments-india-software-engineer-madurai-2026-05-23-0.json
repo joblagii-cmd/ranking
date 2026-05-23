@@ -1,0 +1,94 @@
+{
+  "slug": "texas-instruments-india-software-engineer-madurai-2026-05-23-0",
+  "title": "Walk-in Drive Software Engineer at Texas Instruments India",
+  "company": "Texas Instruments India",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Madurai",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "AWS",
+    "Node.js",
+    "React",
+    "Git",
+    "CI/CD",
+    "Microservices",
+    "Kubernetes",
+    "TensorFlow"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Walk-in Drive Software Engineer at Texas Instruments India",
+    "description": "Texas Instruments India, one of India's leading organizations, is hiring a Software Engineer for our Madurai operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Texas Instruments India:\nTexas Instruments India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure code security and follow best practices for data protection\n• Contribute to system architecture and technical design decisions\n• Integrate third-party APIs and services\n• Implement new features based on product requirements\n• Participate in code reviews and contribute to technical discussions\n• Design, develop and maintain scalable software applications\n• Write clean, maintainable, and well-documented code\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 12-20 years of relevant experience\n• Proficiency in AWS\n• Proficiency in Node.js\n• Proficiency in React\n• Proficiency in Git\n• Proficiency in CI/CD\n• Proficiency in Microservices\n• Proficiency in Kubernetes\n• Proficiency in TensorFlow\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Work-from-home flexibility\n• Meal coupons and food allowance\n• Recognition and rewards programs\n• Comprehensive health insurance for self and family\n• Maternity and paternity leave\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Madurai, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Texas Instruments India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Texas Instruments India",
+      "value": "48-0-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Texas Instruments India",
+      "sameAs": "https://www.google.com/search?q=Texas%20Instruments%20India",
+      "logo": "https://logo.clearbit.com/texasinstrumentsindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Texas Instruments India Office",
+        "addressLocality": "Madurai",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "AWS, Node.js, React, Git, CI/CD, Microservices, Kubernetes, TensorFlow",
+    "responsibilities": "Ensure code security and follow best practices for data protection. Contribute to system architecture and technical design decisions. Integrate third-party APIs and services. Implement new features based on product requirements. Participate in code reviews and contribute to technical discussions. Design, develop and maintain scalable software applications. Write clean, maintainable, and well-documented code",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Work-from-home flexibility. Meal coupons and food allowance. Recognition and rewards programs. Comprehensive health insurance for self and family. Maternity and paternity leave",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Work-from-home flexibility, Meal coupons and food allowance, Recognition and rewards programs, Comprehensive health insurance for self and family, Maternity and paternity leave"
+  },
+  "meta": {
+    "description": "Texas Instruments India, one of India's leading organizations, is hiring a Software Engineer for our Madurai operations. We offer a competitive salary package a",
+    "keywords": "Software Engineer, Texas Instruments India, jobs in Madurai, Tamil Nadu jobs, technology jobs India, AWS, Node.js, React, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:16:06.340Z",
+  "page": 11
+}

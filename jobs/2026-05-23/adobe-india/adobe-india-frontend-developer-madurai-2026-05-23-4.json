@@ -1,0 +1,94 @@
+{
+  "slug": "adobe-india-frontend-developer-madurai-2026-05-23-4",
+  "title": "Mid-Level Frontend Developer at Adobe India",
+  "company": "Adobe India",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Madurai",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "JavaScript",
+    "SQL",
+    "TensorFlow",
+    "Git",
+    "Python",
+    "Go",
+    "MongoDB",
+    "Microservices"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Frontend Developer at Adobe India",
+    "description": "Adobe India, one of India's leading organizations, is hiring a Frontend Developer for our Madurai operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Adobe India:\nAdobe India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Contribute to system architecture and technical design decisions\n• Write clean, maintainable, and well-documented code\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Write and execute unit tests and integration tests\n• Collaborate with cross-functional teams including product, design, and QA\n• Work with agile methodologies including daily stand-ups and sprint planning\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 10-15 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in SQL\n• Proficiency in TensorFlow\n• Proficiency in Git\n• Proficiency in Python\n• Proficiency in Go\n• Proficiency in MongoDB\n• Proficiency in Microservices\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Mobile and internet reimbursement\n• Annual paid leaves and casual leaves\n• Company-sponsored certifications\n• Life and accident insurance\n• Professional development and training programs\n• Work-from-home flexibility\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Madurai, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Adobe India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Adobe India",
+      "value": "45-4-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Adobe India",
+      "sameAs": "https://www.google.com/search?q=Adobe%20India",
+      "logo": "https://logo.clearbit.com/adobeindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Adobe India Office",
+        "addressLocality": "Madurai",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "JavaScript, SQL, TensorFlow, Git, Python, Go, MongoDB, Microservices",
+    "responsibilities": "Contribute to system architecture and technical design decisions. Write clean, maintainable, and well-documented code. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Troubleshoot, debug, and resolve software defects and performance issues. Write and execute unit tests and integration tests. Collaborate with cross-functional teams including product, design, and QA. Work with agile methodologies including daily stand-ups and sprint planning",
+    "benefits": "Mobile and internet reimbursement. Annual paid leaves and casual leaves. Company-sponsored certifications. Life and accident insurance. Professional development and training programs. Work-from-home flexibility",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Mobile and internet reimbursement, Annual paid leaves and casual leaves, Company-sponsored certifications, Life and accident insurance, Professional development and training programs, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "Adobe India, one of India's leading organizations, is hiring a Frontend Developer for our Madurai operations. We offer a competitive salary package along with w",
+    "keywords": "Frontend Developer, Adobe India, jobs in Madurai, Tamil Nadu jobs, technology jobs India, JavaScript, SQL, TensorFlow, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:16:06.337Z",
+  "page": 11
+}
