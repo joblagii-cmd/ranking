@@ -1,0 +1,93 @@
+{
+  "slug": "atul-projects-sales-manager-jodhpur-2026-05-23-3",
+  "title": "Sales Manager Vacancy at Atul Projects - 2026 Batch",
+  "company": "Atul Projects",
+  "industry": "realestate",
+  "role": "Sales Manager",
+  "location": {
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Property Valuation",
+    "Market Research",
+    "Title Search",
+    "Negotiation Skills",
+    "GIS Tools",
+    "Contract Management",
+    "Real Estate Law",
+    "Portfolio Management"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Sales Manager Vacancy at Atul Projects - 2026 Batch",
+    "description": "Atul Projects has an exciting opening for a Sales Manager at our Jodhpur office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Atul Projects:\nAtul Projects is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Prepare presentations and proposals for institutional clients\n• Negotiate pricing, terms, and conditions on behalf of clients\n• Maintain a pipeline of qualified leads using CRM software\n• Conduct site visits and property presentations for clients\n• Liaise with banks and NBFCs for home loan assistance to customers\n• Manage RERA documentation and compliance requirements\n• Achieve monthly and quarterly sales targets\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 10-15 years of relevant experience\n• Proficiency in Property Valuation\n• Proficiency in Market Research\n• Proficiency in Title Search\n• Proficiency in Negotiation Skills\n• Proficiency in GIS Tools\n• Proficiency in Contract Management\n• Proficiency in Real Estate Law\n• Proficiency in Portfolio Management\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• Competitive salary with performance-linked incentives\n• Provident Fund and Gratuity as per company policy\n• Annual paid leaves and casual leaves\n• Recognition and rewards programs\n• Mobile and internet reimbursement\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Jodhpur, Rajasthan, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Atul Projects!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Atul Projects",
+      "value": "710-3-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Atul Projects",
+      "sameAs": "https://www.google.com/search?q=Atul%20Projects",
+      "logo": "https://logo.clearbit.com/atulprojects.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Atul Projects Office",
+        "addressLocality": "Jodhpur",
+        "addressRegion": "Rajasthan",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "Property Valuation, Market Research, Title Search, Negotiation Skills, GIS Tools, Contract Management, Real Estate Law, Portfolio Management",
+    "responsibilities": "Prepare presentations and proposals for institutional clients. Negotiate pricing, terms, and conditions on behalf of clients. Maintain a pipeline of qualified leads using CRM software. Conduct site visits and property presentations for clients. Liaise with banks and NBFCs for home loan assistance to customers. Manage RERA documentation and compliance requirements. Achieve monthly and quarterly sales targets",
+    "benefits": "Comprehensive health insurance for self and family. Competitive salary with performance-linked incentives. Provident Fund and Gratuity as per company policy. Annual paid leaves and casual leaves. Recognition and rewards programs. Mobile and internet reimbursement",
+    "industry": "realestate",
+    "occupationalCategory": "Sales Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, Competitive salary with performance-linked incentives, Provident Fund and Gratuity as per company policy, Annual paid leaves and casual leaves, Recognition and rewards programs, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "Atul Projects has an exciting opening for a Sales Manager at our Jodhpur office. Join a company that values innovation, collaboration, and continuous learning.",
+    "keywords": "Sales Manager, Atul Projects, jobs in Jodhpur, Rajasthan jobs, realestate jobs India, Property Valuation, Market Research, Title Search, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:36:21.499Z",
+  "page": 177
+}

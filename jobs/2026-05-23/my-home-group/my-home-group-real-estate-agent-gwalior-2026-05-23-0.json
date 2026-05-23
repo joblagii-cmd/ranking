@@ -1,0 +1,93 @@
+{
+  "slug": "my-home-group-real-estate-agent-gwalior-2026-05-23-0",
+  "title": "Looking for Real Estate Agent at My Home Group",
+  "company": "My Home Group",
+  "industry": "realestate",
+  "role": "Real Estate Agent",
+  "location": {
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Lease Administration",
+    "RERA Compliance",
+    "CRM Software",
+    "Real Estate Law",
+    "Property Valuation",
+    "Project Management",
+    "Sales Techniques",
+    "GIS Tools"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Looking for Real Estate Agent at My Home Group",
+    "description": "My Home Group has an exciting opening for a Real Estate Agent at our Gwalior office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout My Home Group:\nMy Home Group is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with legal teams for documentation and title verification\n• Negotiate pricing, terms, and conditions on behalf of clients\n• Conduct market research and provide competitive analysis\n• Manage relationships with existing customers post-purchase\n• Maintain a pipeline of qualified leads using CRM software\n• Conduct site visits and property presentations for clients\n• Coordinate with architects, contractors, and project teams\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 6-10 years of relevant experience\n• Proficiency in Lease Administration\n• Proficiency in RERA Compliance\n• Proficiency in CRM Software\n• Proficiency in Real Estate Law\n• Proficiency in Property Valuation\n• Proficiency in Project Management\n• Proficiency in Sales Techniques\n• Proficiency in GIS Tools\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Life and accident insurance\n• Work-from-home flexibility\n• Meal coupons and food allowance\n• Mobile and internet reimbursement\n• International travel opportunities for senior roles\n• Comprehensive health insurance for self and family\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Gwalior, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with My Home Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "My Home Group",
+      "value": "709-0-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "My Home Group",
+      "sameAs": "https://www.google.com/search?q=My%20Home%20Group",
+      "logo": "https://logo.clearbit.com/myhomegroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "My Home Group Office",
+        "addressLocality": "Gwalior",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Lease Administration, RERA Compliance, CRM Software, Real Estate Law, Property Valuation, Project Management, Sales Techniques, GIS Tools",
+    "responsibilities": "Coordinate with legal teams for documentation and title verification. Negotiate pricing, terms, and conditions on behalf of clients. Conduct market research and provide competitive analysis. Manage relationships with existing customers post-purchase. Maintain a pipeline of qualified leads using CRM software. Conduct site visits and property presentations for clients. Coordinate with architects, contractors, and project teams",
+    "benefits": "Life and accident insurance. Work-from-home flexibility. Meal coupons and food allowance. Mobile and internet reimbursement. International travel opportunities for senior roles. Comprehensive health insurance for self and family",
+    "industry": "realestate",
+    "occupationalCategory": "Real Estate Agent",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Work-from-home flexibility, Meal coupons and food allowance, Mobile and internet reimbursement, International travel opportunities for senior roles, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "My Home Group has an exciting opening for a Real Estate Agent at our Gwalior office. Join a company that values innovation, collaboration, and continuous learni",
+    "keywords": "Real Estate Agent, My Home Group, jobs in Gwalior, Madhya Pradesh jobs, realestate jobs India, Lease Administration, RERA Compliance, CRM Software, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:36:21.499Z",
+  "page": 177
+}
