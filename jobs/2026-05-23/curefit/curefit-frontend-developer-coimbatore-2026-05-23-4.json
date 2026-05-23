@@ -1,0 +1,94 @@
+{
+  "slug": "curefit-frontend-developer-coimbatore-2026-05-23-4",
+  "title": "Senior Frontend Developer at Curefit",
+  "company": "Curefit",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Agile/Scrum",
+    "SQL",
+    "Microservices",
+    "Java",
+    "Git",
+    "Rust",
+    "Kubernetes",
+    "CI/CD"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Frontend Developer at Curefit",
+    "description": "Curefit invites applications from qualified candidates for the position of Frontend Developer at our Coimbatore location. This role offers excellent career advancement prospects.\n\nAbout Curefit:\nCurefit is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Participate in code reviews and contribute to technical discussions\n• Write and execute unit tests and integration tests\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Optimize application performance and ensure high availability\n• Collaborate with cross-functional teams including product, design, and QA\n• Contribute to system architecture and technical design decisions\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 3-6 years of relevant experience\n• Proficiency in Agile/Scrum\n• Proficiency in SQL\n• Proficiency in Microservices\n• Proficiency in Java\n• Proficiency in Git\n• Proficiency in Rust\n• Proficiency in Kubernetes\n• Proficiency in CI/CD\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• Maternity and paternity leave\n• Competitive salary with performance-linked incentives\n• Flexible working hours\n• Work-from-home flexibility\n• Transportation and conveyance allowance\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Coimbatore, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Curefit!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Curefit",
+      "value": "121-4-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Curefit",
+      "sameAs": "https://www.google.com/search?q=Curefit",
+      "logo": "https://logo.clearbit.com/curefit.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Curefit Office",
+        "addressLocality": "Coimbatore",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "Agile/Scrum, SQL, Microservices, Java, Git, Rust, Kubernetes, CI/CD",
+    "responsibilities": "Work with agile methodologies including daily stand-ups and sprint planning. Participate in code reviews and contribute to technical discussions. Write and execute unit tests and integration tests. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Optimize application performance and ensure high availability. Collaborate with cross-functional teams including product, design, and QA. Contribute to system architecture and technical design decisions",
+    "benefits": "Comprehensive health insurance for self and family. Maternity and paternity leave. Competitive salary with performance-linked incentives. Flexible working hours. Work-from-home flexibility. Transportation and conveyance allowance",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, Maternity and paternity leave, Competitive salary with performance-linked incentives, Flexible working hours, Work-from-home flexibility, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "Curefit invites applications from qualified candidates for the position of Frontend Developer at our Coimbatore location. This role offers excellent career adva",
+    "keywords": "Frontend Developer, Curefit, jobs in Coimbatore, Tamil Nadu jobs, technology jobs India, Agile/Scrum, SQL, Microservices, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:18:27.576Z",
+  "page": 30
+}

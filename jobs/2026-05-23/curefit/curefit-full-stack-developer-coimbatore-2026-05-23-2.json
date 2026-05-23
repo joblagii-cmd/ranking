@@ -1,0 +1,93 @@
+{
+  "slug": "curefit-full-stack-developer-coimbatore-2026-05-23-2",
+  "title": "Curefit is Hiring: Full Stack Developer (Senior)",
+  "company": "Curefit",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Java",
+    "Python",
+    "Node.js",
+    "Kubernetes",
+    "MongoDB",
+    "Git",
+    "JavaScript",
+    "Machine Learning"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Curefit is Hiring: Full Stack Developer (Senior)",
+    "description": "Curefit invites applications from qualified candidates for the position of Full Stack Developer at our Coimbatore location. This role offers excellent career advancement prospects.\n\nAbout Curefit:\nCurefit is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Participate in on-call rotation for production support\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Collaborate with cross-functional teams including product, design, and QA\n• Write clean, maintainable, and well-documented code\n• Contribute to system architecture and technical design decisions\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 12-20 years of relevant experience\n• Proficiency in Java\n• Proficiency in Python\n• Proficiency in Node.js\n• Proficiency in Kubernetes\n• Proficiency in MongoDB\n• Proficiency in Git\n• Proficiency in JavaScript\n• Proficiency in Machine Learning\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Recognition and rewards programs\n• Maternity and paternity leave\n• Flexible working hours\n• Work-from-home flexibility\n• International travel opportunities for senior roles\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Coimbatore, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Curefit!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Curefit",
+      "value": "121-2-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Curefit",
+      "sameAs": "https://www.google.com/search?q=Curefit",
+      "logo": "https://logo.clearbit.com/curefit.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Curefit Office",
+        "addressLocality": "Coimbatore",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "Java, Python, Node.js, Kubernetes, MongoDB, Git, JavaScript, Machine Learning",
+    "responsibilities": "Design, develop and maintain scalable software applications. Participate in on-call rotation for production support. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Troubleshoot, debug, and resolve software defects and performance issues. Collaborate with cross-functional teams including product, design, and QA. Write clean, maintainable, and well-documented code. Contribute to system architecture and technical design decisions",
+    "benefits": "Recognition and rewards programs. Maternity and paternity leave. Flexible working hours. Work-from-home flexibility. International travel opportunities for senior roles. Provident Fund and Gratuity as per company policy",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Recognition and rewards programs, Maternity and paternity leave, Flexible working hours, Work-from-home flexibility, International travel opportunities for senior roles, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "Curefit invites applications from qualified candidates for the position of Full Stack Developer at our Coimbatore location. This role offers excellent career ad",
+    "keywords": "Full Stack Developer, Curefit, jobs in Coimbatore, Tamil Nadu jobs, technology jobs India, Java, Python, Node.js, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:18:27.576Z",
+  "page": 30
+}
