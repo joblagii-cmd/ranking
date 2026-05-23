@@ -1,0 +1,93 @@
+{
+  "slug": "mbd-group-teacher-surat-2026-05-23-0",
+  "title": "Career Opportunity Teacher at MBD Group",
+  "company": "MBD Group",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Surat",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Educational Technology",
+    "Bloom's Taxonomy",
+    "IB Curriculum",
+    "Mentoring",
+    "Content Creation",
+    "CBSE/ICSE Standards",
+    "LMS Platforms",
+    "Child Psychology"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Career Opportunity Teacher at MBD Group",
+    "description": "MBD Group invites applications from qualified candidates for the position of Teacher at our Surat location. This role offers excellent career advancement prospects.\n\nAbout MBD Group:\nMBD Group is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Develop and deliver engaging lesson plans for students\n• Conduct doubt-clearing sessions and remedial classes for weak students\n• Conduct parent-teacher meetings and update parents on student performance\n• Maintain student records and prepare progress reports\n• Design formative and summative assessments aligned to learning objectives\n• Contribute to school newsletter, blogs, and other publications\n• Create curriculum-aligned learning materials and assessments\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 3-6 years of relevant experience\n• Proficiency in Educational Technology\n• Proficiency in Bloom's Taxonomy\n• Proficiency in IB Curriculum\n• Proficiency in Mentoring\n• Proficiency in Content Creation\n• Proficiency in CBSE/ICSE Standards\n• Proficiency in LMS Platforms\n• Proficiency in Child Psychology\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Modern office with recreational facilities\n• Referral bonus program\n• Employee stock options (ESOPs) for eligible roles\n• Annual paid leaves and casual leaves\n• Flexible working hours\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Surat, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with MBD Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "MBD Group",
+      "value": "577-0-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "MBD Group",
+      "sameAs": "https://www.google.com/search?q=MBD%20Group",
+      "logo": "https://logo.clearbit.com/mbdgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "MBD Group Office",
+        "addressLocality": "Surat",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "Educational Technology, Bloom's Taxonomy, IB Curriculum, Mentoring, Content Creation, CBSE/ICSE Standards, LMS Platforms, Child Psychology",
+    "responsibilities": "Develop and deliver engaging lesson plans for students. Conduct doubt-clearing sessions and remedial classes for weak students. Conduct parent-teacher meetings and update parents on student performance. Maintain student records and prepare progress reports. Design formative and summative assessments aligned to learning objectives. Contribute to school newsletter, blogs, and other publications. Create curriculum-aligned learning materials and assessments",
+    "benefits": "Competitive salary with performance-linked incentives. Modern office with recreational facilities. Referral bonus program. Employee stock options (ESOPs) for eligible roles. Annual paid leaves and casual leaves. Flexible working hours",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Modern office with recreational facilities, Referral bonus program, Employee stock options (ESOPs) for eligible roles, Annual paid leaves and casual leaves, Flexible working hours"
+  },
+  "meta": {
+    "description": "MBD Group invites applications from qualified candidates for the position of Teacher at our Surat location. This role offers excellent career advancement prospe",
+    "keywords": "Teacher, MBD Group, jobs in Surat, Gujarat jobs, education jobs India, Educational Technology, Bloom's Taxonomy, IB Curriculum, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:32:22.892Z",
+  "page": 144
+}

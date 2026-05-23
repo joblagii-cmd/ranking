@@ -1,0 +1,93 @@
+{
+  "slug": "mbd-group-instructional-designer-lucknow-2026-05-23-4",
+  "title": "Principal Instructional Designer at MBD Group",
+  "company": "MBD Group",
+  "industry": "education",
+  "role": "Instructional Designer",
+  "location": {
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "IB Curriculum",
+    "Lesson Planning",
+    "CBSE/ICSE Standards",
+    "Classroom Management",
+    "Bloom's Taxonomy",
+    "Curriculum Development",
+    "Educational Technology",
+    "Zoom/Teams"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Principal Instructional Designer at MBD Group",
+    "description": "MBD Group invites applications from qualified candidates for the position of Instructional Designer at our Lucknow location. This role offers excellent career advancement prospects.\n\nAbout MBD Group:\nMBD Group is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design formative and summative assessments aligned to learning objectives\n• Support students with special educational needs\n• Monitor student progress and provide timely feedback\n• Conduct parent-teacher meetings and update parents on student performance\n• Contribute to school newsletter, blogs, and other publications\n• Participate in teacher training and professional development programs\n• Collaborate with faculty on curriculum development initiatives\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 10-15 years of relevant experience\n• Proficiency in IB Curriculum\n• Proficiency in Lesson Planning\n• Proficiency in CBSE/ICSE Standards\n• Proficiency in Classroom Management\n• Proficiency in Bloom's Taxonomy\n• Proficiency in Curriculum Development\n• Proficiency in Educational Technology\n• Proficiency in Zoom/Teams\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• International travel opportunities for senior roles\n• Flexible working hours\n• Provident Fund and Gratuity as per company policy\n• Comprehensive health insurance for self and family\n• Referral bonus program\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Lucknow, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with MBD Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "MBD Group",
+      "value": "577-4-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "MBD Group",
+      "sameAs": "https://www.google.com/search?q=MBD%20Group",
+      "logo": "https://logo.clearbit.com/mbdgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "MBD Group Office",
+        "addressLocality": "Lucknow",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "IB Curriculum, Lesson Planning, CBSE/ICSE Standards, Classroom Management, Bloom's Taxonomy, Curriculum Development, Educational Technology, Zoom/Teams",
+    "responsibilities": "Design formative and summative assessments aligned to learning objectives. Support students with special educational needs. Monitor student progress and provide timely feedback. Conduct parent-teacher meetings and update parents on student performance. Contribute to school newsletter, blogs, and other publications. Participate in teacher training and professional development programs. Collaborate with faculty on curriculum development initiatives",
+    "benefits": "Annual paid leaves and casual leaves. International travel opportunities for senior roles. Flexible working hours. Provident Fund and Gratuity as per company policy. Comprehensive health insurance for self and family. Referral bonus program",
+    "industry": "education",
+    "occupationalCategory": "Instructional Designer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, International travel opportunities for senior roles, Flexible working hours, Provident Fund and Gratuity as per company policy, Comprehensive health insurance for self and family, Referral bonus program"
+  },
+  "meta": {
+    "description": "MBD Group invites applications from qualified candidates for the position of Instructional Designer at our Lucknow location. This role offers excellent career a",
+    "keywords": "Instructional Designer, MBD Group, jobs in Lucknow, Uttar Pradesh jobs, education jobs India, IB Curriculum, Lesson Planning, CBSE/ICSE Standards, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:32:22.892Z",
+  "page": 144
+}
