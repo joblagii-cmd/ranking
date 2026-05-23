@@ -1,0 +1,93 @@
+{
+  "slug": "voltas-manufacturing-engineer-dhanbad-2026-05-23-1",
+  "title": "Manufacturing Engineer - Voltas - Experienced Professionals",
+  "company": "Voltas",
+  "industry": "manufacturing",
+  "role": "Manufacturing Engineer",
+  "location": {
+    "city": "Dhanbad",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "SAP MM/PP",
+    "Lean Manufacturing",
+    "APQP",
+    "Quality Control",
+    "AutoCAD",
+    "TPM",
+    "Project Management",
+    "Six Sigma"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Manufacturing Engineer - Voltas - Experienced Professionals",
+    "description": "We at Voltas are looking for an experienced Manufacturing Engineer based out of Dhanbad. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout Voltas:\nVoltas is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Oversee daily production operations to meet output targets\n• Coordinate with design and engineering teams on product improvements\n• Conduct root cause analysis for quality rejections and defects\n• Implement 5S, Kaizen, and Six Sigma practices on the shop floor\n• Coordinate with logistics for dispatching finished goods\n• Prepare production cost analysis and efficiency reports\n• Manage supplier quality audits and vendor development\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 12-20 years of relevant experience\n• Proficiency in SAP MM/PP\n• Proficiency in Lean Manufacturing\n• Proficiency in APQP\n• Proficiency in Quality Control\n• Proficiency in AutoCAD\n• Proficiency in TPM\n• Proficiency in Project Management\n• Proficiency in Six Sigma\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Modern office with recreational facilities\n• Provident Fund and Gratuity as per company policy\n• Mobile and internet reimbursement\n• International travel opportunities for senior roles\n• Referral bonus program\n• Company-sponsored certifications\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Dhanbad, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Voltas!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Voltas",
+      "value": "446-1-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Voltas",
+      "sameAs": "https://www.google.com/search?q=Voltas",
+      "logo": "https://logo.clearbit.com/voltas.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Voltas Office",
+        "addressLocality": "Dhanbad",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "SAP MM/PP, Lean Manufacturing, APQP, Quality Control, AutoCAD, TPM, Project Management, Six Sigma",
+    "responsibilities": "Oversee daily production operations to meet output targets. Coordinate with design and engineering teams on product improvements. Conduct root cause analysis for quality rejections and defects. Implement 5S, Kaizen, and Six Sigma practices on the shop floor. Coordinate with logistics for dispatching finished goods. Prepare production cost analysis and efficiency reports. Manage supplier quality audits and vendor development",
+    "benefits": "Modern office with recreational facilities. Provident Fund and Gratuity as per company policy. Mobile and internet reimbursement. International travel opportunities for senior roles. Referral bonus program. Company-sponsored certifications",
+    "industry": "manufacturing",
+    "occupationalCategory": "Manufacturing Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Modern office with recreational facilities, Provident Fund and Gratuity as per company policy, Mobile and internet reimbursement, International travel opportunities for senior roles, Referral bonus program, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "We at Voltas are looking for an experienced Manufacturing Engineer based out of Dhanbad. If you are a result-oriented professional with a passion for excellence",
+    "keywords": "Manufacturing Engineer, Voltas, jobs in Dhanbad, Jharkhand jobs, manufacturing jobs India, SAP MM/PP, Lean Manufacturing, APQP, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:28:26.757Z",
+  "page": 111
+}
