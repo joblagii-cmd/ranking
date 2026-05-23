@@ -1,0 +1,94 @@
+{
+  "slug": "srl-diagnostics-radiologist-patna-2026-05-23-4",
+  "title": "Principal Radiologist at SRL Diagnostics",
+  "company": "SRL Diagnostics",
+  "industry": "healthcare",
+  "role": "Radiologist",
+  "location": {
+    "city": "Patna",
+    "state": "Bihar",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Health Informatics",
+    "BLS/ACLS",
+    "Infection Control",
+    "ICU Management",
+    "Diagnostic Skills",
+    "Telemedicine",
+    "NABH Standards",
+    "CPT Codes"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Principal Radiologist at SRL Diagnostics",
+    "description": "Are you a skilled Radiologist looking for your next big career move? SRL Diagnostics in Patna offers you the perfect platform to grow professionally and personally.\n\nAbout SRL Diagnostics:\nSRL Diagnostics is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Administer medications and treatments as prescribed\n• Provide high-quality patient care and maintain patient records\n• Maintain accurate clinical documentation in electronic health records\n• Conduct routine health assessments and screenings\n• Respond to medical emergencies and provide immediate care\n• Attend continuing medical education programs and training\n• Adhere to NABH/JCI accreditation standards\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 12-20 years of relevant experience\n• Proficiency in Health Informatics\n• Proficiency in BLS/ACLS\n• Proficiency in Infection Control\n• Proficiency in ICU Management\n• Proficiency in Diagnostic Skills\n• Proficiency in Telemedicine\n• Proficiency in NABH Standards\n• Proficiency in CPT Codes\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Modern office with recreational facilities\n• Comprehensive health insurance for self and family\n• Meal coupons and food allowance\n• Competitive salary with performance-linked incentives\n• Mobile and internet reimbursement\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Patna, Bihar, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with SRL Diagnostics!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "SRL Diagnostics",
+      "value": "257-4-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "SRL Diagnostics",
+      "sameAs": "https://www.google.com/search?q=SRL%20Diagnostics",
+      "logo": "https://logo.clearbit.com/srldiagnostics.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "SRL Diagnostics Office",
+        "addressLocality": "Patna",
+        "addressRegion": "Bihar",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "Health Informatics, BLS/ACLS, Infection Control, ICU Management, Diagnostic Skills, Telemedicine, NABH Standards, CPT Codes",
+    "responsibilities": "Administer medications and treatments as prescribed. Provide high-quality patient care and maintain patient records. Maintain accurate clinical documentation in electronic health records. Conduct routine health assessments and screenings. Respond to medical emergencies and provide immediate care. Attend continuing medical education programs and training. Adhere to NABH/JCI accreditation standards",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Modern office with recreational facilities. Comprehensive health insurance for self and family. Meal coupons and food allowance. Competitive salary with performance-linked incentives. Mobile and internet reimbursement",
+    "industry": "healthcare",
+    "occupationalCategory": "Radiologist",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Modern office with recreational facilities, Comprehensive health insurance for self and family, Meal coupons and food allowance, Competitive salary with performance-linked incentives, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "Are you a skilled Radiologist looking for your next big career move? SRL Diagnostics in Patna offers you the perfect platform to grow professionally and persona",
+    "keywords": "Radiologist, SRL Diagnostics, jobs in Patna, Bihar jobs, healthcare jobs India, Health Informatics, BLS/ACLS, Infection Control, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:22:40.163Z",
+  "page": 64
+}

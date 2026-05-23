@@ -1,0 +1,93 @@
+{
+  "slug": "dr-lal-pathlabs-medical-officer-pimpri-chinchwad-2026-05-23-0",
+  "title": "Now Hiring Medical Officer at Dr Lal PathLabs",
+  "company": "Dr Lal PathLabs",
+  "industry": "healthcare",
+  "role": "Medical Officer",
+  "location": {
+    "city": "Pimpri-Chinchwad",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Medical Terminology",
+    "HIPAA Compliance",
+    "Medical Coding",
+    "Health Informatics",
+    "EMR/EHR",
+    "Medical Ethics",
+    "Infection Control",
+    "CPT Codes"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Now Hiring Medical Officer at Dr Lal PathLabs",
+    "description": "Are you a skilled Medical Officer looking for your next big career move? Dr Lal PathLabs in Pimpri-Chinchwad offers you the perfect platform to grow professionally and personally.\n\nAbout Dr Lal PathLabs:\nDr Lal PathLabs is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Diagnose and treat medical conditions following established protocols\n• Maintain accurate clinical documentation in electronic health records\n• Provide high-quality patient care and maintain patient records\n• Monitor patient progress and adjust treatment plans accordingly\n• Maintain sterile environments and follow infection control protocols\n• Attend continuing medical education programs and training\n• Collaborate with pharmaceutical representatives and medical suppliers\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 3-6 years of relevant experience\n• Proficiency in Medical Terminology\n• Proficiency in HIPAA Compliance\n• Proficiency in Medical Coding\n• Proficiency in Health Informatics\n• Proficiency in EMR/EHR\n• Proficiency in Medical Ethics\n• Proficiency in Infection Control\n• Proficiency in CPT Codes\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• International travel opportunities for senior roles\n• Company-sponsored certifications\n• Recognition and rewards programs\n• Referral bonus program\n• Annual paid leaves and casual leaves\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Pimpri-Chinchwad, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Dr Lal PathLabs!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Dr Lal PathLabs",
+      "value": "258-0-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Dr Lal PathLabs",
+      "sameAs": "https://www.google.com/search?q=Dr%20Lal%20PathLabs",
+      "logo": "https://logo.clearbit.com/drlalpathlabs.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Dr Lal PathLabs Office",
+        "addressLocality": "Pimpri-Chinchwad",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Medical Terminology, HIPAA Compliance, Medical Coding, Health Informatics, EMR/EHR, Medical Ethics, Infection Control, CPT Codes",
+    "responsibilities": "Diagnose and treat medical conditions following established protocols. Maintain accurate clinical documentation in electronic health records. Provide high-quality patient care and maintain patient records. Monitor patient progress and adjust treatment plans accordingly. Maintain sterile environments and follow infection control protocols. Attend continuing medical education programs and training. Collaborate with pharmaceutical representatives and medical suppliers",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. International travel opportunities for senior roles. Company-sponsored certifications. Recognition and rewards programs. Referral bonus program. Annual paid leaves and casual leaves",
+    "industry": "healthcare",
+    "occupationalCategory": "Medical Officer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, International travel opportunities for senior roles, Company-sponsored certifications, Recognition and rewards programs, Referral bonus program, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "Are you a skilled Medical Officer looking for your next big career move? Dr Lal PathLabs in Pimpri-Chinchwad offers you the perfect platform to grow professiona",
+    "keywords": "Medical Officer, Dr Lal PathLabs, jobs in Pimpri-Chinchwad, Maharashtra jobs, healthcare jobs India, Medical Terminology, HIPAA Compliance, Medical Coding, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:22:40.164Z",
+  "page": 64
+}

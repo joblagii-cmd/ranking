@@ -1,0 +1,93 @@
+{
+  "slug": "metropolis-healthcare-senior-doctor-patna-2026-05-23-1",
+  "title": "Senior Doctor - Metropolis Healthcare - 2025 Hiring Drive",
+  "company": "Metropolis Healthcare",
+  "industry": "healthcare",
+  "role": "Senior Doctor",
+  "location": {
+    "city": "Patna",
+    "state": "Bihar",
+    "region": "Eastern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Clinical Documentation",
+    "EMR/EHR",
+    "HIPAA Compliance",
+    "CPT Codes",
+    "Health Informatics",
+    "ICU Management",
+    "Medical Ethics",
+    "ICD-10"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Doctor - Metropolis Healthcare - 2025 Hiring Drive",
+    "description": "Are you a skilled Senior Doctor looking for your next big career move? Metropolis Healthcare in Patna offers you the perfect platform to grow professionally and personally.\n\nAbout Metropolis Healthcare:\nMetropolis Healthcare is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Diagnose and treat medical conditions following established protocols\n• Ensure patient privacy and maintain confidentiality\n• Administer medications and treatments as prescribed\n• Provide high-quality patient care and maintain patient records\n• Attend continuing medical education programs and training\n• Monitor patient progress and adjust treatment plans accordingly\n• Coordinate with multidisciplinary teams for comprehensive patient management\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 0-1 years of relevant experience\n• Proficiency in Clinical Documentation\n• Proficiency in EMR/EHR\n• Proficiency in HIPAA Compliance\n• Proficiency in CPT Codes\n• Proficiency in Health Informatics\n• Proficiency in ICU Management\n• Proficiency in Medical Ethics\n• Proficiency in ICD-10\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Annual paid leaves and casual leaves\n• Employee stock options (ESOPs) for eligible roles\n• Competitive salary with performance-linked incentives\n• Modern office with recreational facilities\n• Maternity and paternity leave\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Patna, Bihar, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Metropolis Healthcare!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Metropolis Healthcare",
+      "value": "259-1-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Metropolis Healthcare",
+      "sameAs": "https://www.google.com/search?q=Metropolis%20Healthcare",
+      "logo": "https://logo.clearbit.com/metropolishealthcare.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Metropolis Healthcare Office",
+        "addressLocality": "Patna",
+        "addressRegion": "Bihar",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "Clinical Documentation, EMR/EHR, HIPAA Compliance, CPT Codes, Health Informatics, ICU Management, Medical Ethics, ICD-10",
+    "responsibilities": "Diagnose and treat medical conditions following established protocols. Ensure patient privacy and maintain confidentiality. Administer medications and treatments as prescribed. Provide high-quality patient care and maintain patient records. Attend continuing medical education programs and training. Monitor patient progress and adjust treatment plans accordingly. Coordinate with multidisciplinary teams for comprehensive patient management",
+    "benefits": "International travel opportunities for senior roles. Annual paid leaves and casual leaves. Employee stock options (ESOPs) for eligible roles. Competitive salary with performance-linked incentives. Modern office with recreational facilities. Maternity and paternity leave",
+    "industry": "healthcare",
+    "occupationalCategory": "Senior Doctor",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Annual paid leaves and casual leaves, Employee stock options (ESOPs) for eligible roles, Competitive salary with performance-linked incentives, Modern office with recreational facilities, Maternity and paternity leave"
+  },
+  "meta": {
+    "description": "Are you a skilled Senior Doctor looking for your next big career move? Metropolis Healthcare in Patna offers you the perfect platform to grow professionally and",
+    "keywords": "Senior Doctor, Metropolis Healthcare, jobs in Patna, Bihar jobs, healthcare jobs India, Clinical Documentation, EMR/EHR, HIPAA Compliance, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:22:40.167Z",
+  "page": 64
+}
