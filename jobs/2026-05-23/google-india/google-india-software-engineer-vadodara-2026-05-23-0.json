@@ -1,0 +1,93 @@
+{
+  "slug": "google-india-software-engineer-vadodara-2026-05-23-0",
+  "title": "Urgent Opening Software Engineer at Google India",
+  "company": "Google India",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Rust",
+    "Git",
+    "Kubernetes",
+    "JavaScript",
+    "TypeScript",
+    "Docker",
+    "MongoDB",
+    "TensorFlow"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Urgent Opening Software Engineer at Google India",
+    "description": "Google India has an exciting opening for a Software Engineer at our Vadodara office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Google India:\nGoogle India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Optimize application performance and ensure high availability\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Design, develop and maintain scalable software applications\n• Integrate third-party APIs and services\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Implement new features based on product requirements\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 12-20 years of relevant experience\n• Proficiency in Rust\n• Proficiency in Git\n• Proficiency in Kubernetes\n• Proficiency in JavaScript\n• Proficiency in TypeScript\n• Proficiency in Docker\n• Proficiency in MongoDB\n• Proficiency in TensorFlow\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Recognition and rewards programs\n• Life and accident insurance\n• Referral bonus program\n• Work-from-home flexibility\n• Annual performance appraisal\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Vadodara, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Google India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Google India",
+      "value": "11-0-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Google India",
+      "sameAs": "https://www.google.com/search?q=Google%20India",
+      "logo": "https://logo.clearbit.com/googleindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Google India Office",
+        "addressLocality": "Vadodara",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "Rust, Git, Kubernetes, JavaScript, TypeScript, Docker, MongoDB, TensorFlow",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Optimize application performance and ensure high availability. Mentor junior developers and conduct knowledge-sharing sessions. Design, develop and maintain scalable software applications. Integrate third-party APIs and services. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Implement new features based on product requirements",
+    "benefits": "Competitive salary with performance-linked incentives. Recognition and rewards programs. Life and accident insurance. Referral bonus program. Work-from-home flexibility. Annual performance appraisal",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Recognition and rewards programs, Life and accident insurance, Referral bonus program, Work-from-home flexibility, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "Google India has an exciting opening for a Software Engineer at our Vadodara office. Join a company that values innovation, collaboration, and continuous learni",
+    "keywords": "Software Engineer, Google India, jobs in Vadodara, Gujarat jobs, technology jobs India, Rust, Git, Kubernetes, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:14:57.171Z",
+  "page": 2
+}
