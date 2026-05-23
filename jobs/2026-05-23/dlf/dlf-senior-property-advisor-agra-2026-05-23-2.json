@@ -1,0 +1,93 @@
+{
+  "slug": "dlf-senior-property-advisor-agra-2026-05-23-2",
+  "title": "DLF is Hiring: Senior Property Advisor (Entry-Level)",
+  "company": "DLF",
+  "industry": "realestate",
+  "role": "Senior Property Advisor",
+  "location": {
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Project Management",
+    "Contract Management",
+    "MS Office",
+    "Sales Techniques",
+    "AutoCAD",
+    "CRM Software",
+    "RERA Compliance",
+    "Client Relationship Management"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "DLF is Hiring: Senior Property Advisor (Entry-Level)",
+    "description": "We at DLF are looking for an experienced Senior Property Advisor based out of Agra. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout DLF:\nDLF is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Build relationships with channel partners and brokers\n• Source and close property deals with prospective buyers and investors\n• Negotiate pricing, terms, and conditions on behalf of clients\n• Liaise with banks and NBFCs for home loan assistance to customers\n• Manage relationships with existing customers post-purchase\n• Maintain a pipeline of qualified leads using CRM software\n• Provide advisory services on property investment and market trends\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 3-6 years of relevant experience\n• Proficiency in Project Management\n• Proficiency in Contract Management\n• Proficiency in MS Office\n• Proficiency in Sales Techniques\n• Proficiency in AutoCAD\n• Proficiency in CRM Software\n• Proficiency in RERA Compliance\n• Proficiency in Client Relationship Management\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Life and accident insurance\n• Employee stock options (ESOPs) for eligible roles\n• Maternity and paternity leave\n• Referral bonus program\n• Provident Fund and Gratuity as per company policy\n• Flexible working hours\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Agra, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with DLF!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "DLF",
+      "value": "681-2-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "DLF",
+      "sameAs": "https://www.google.com/search?q=DLF",
+      "logo": "https://logo.clearbit.com/dlf.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "DLF Office",
+        "addressLocality": "Agra",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "Project Management, Contract Management, MS Office, Sales Techniques, AutoCAD, CRM Software, RERA Compliance, Client Relationship Management",
+    "responsibilities": "Build relationships with channel partners and brokers. Source and close property deals with prospective buyers and investors. Negotiate pricing, terms, and conditions on behalf of clients. Liaise with banks and NBFCs for home loan assistance to customers. Manage relationships with existing customers post-purchase. Maintain a pipeline of qualified leads using CRM software. Provide advisory services on property investment and market trends",
+    "benefits": "Life and accident insurance. Employee stock options (ESOPs) for eligible roles. Maternity and paternity leave. Referral bonus program. Provident Fund and Gratuity as per company policy. Flexible working hours",
+    "industry": "realestate",
+    "occupationalCategory": "Senior Property Advisor",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Employee stock options (ESOPs) for eligible roles, Maternity and paternity leave, Referral bonus program, Provident Fund and Gratuity as per company policy, Flexible working hours"
+  },
+  "meta": {
+    "description": "We at DLF are looking for an experienced Senior Property Advisor based out of Agra. If you are a result-oriented professional with a passion for excellence, we ",
+    "keywords": "Senior Property Advisor, DLF, jobs in Agra, Uttar Pradesh jobs, realestate jobs India, Project Management, Contract Management, MS Office, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:35:30.553Z",
+  "page": 170
+}

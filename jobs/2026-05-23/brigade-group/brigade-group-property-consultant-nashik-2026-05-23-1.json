@@ -1,0 +1,93 @@
+{
+  "slug": "brigade-group-property-consultant-nashik-2026-05-23-1",
+  "title": "Property Consultant - Brigade Group - Immediate Joiners Preferred",
+  "company": "Brigade Group",
+  "industry": "realestate",
+  "role": "Property Consultant",
+  "location": {
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Investment Analysis",
+    "AutoCAD",
+    "GIS Tools",
+    "Portfolio Management",
+    "Sales Techniques",
+    "Project Management",
+    "Property Management",
+    "RERA Compliance"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Property Consultant - Brigade Group - Immediate Joiners Preferred",
+    "description": "We at Brigade Group are looking for an experienced Property Consultant based out of Nashik. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout Brigade Group:\nBrigade Group is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Conduct site visits and property presentations for clients\n• Source and close property deals with prospective buyers and investors\n• Prepare presentations and proposals for institutional clients\n• Build relationships with channel partners and brokers\n• Liaise with banks and NBFCs for home loan assistance to customers\n• Manage relationships with existing customers post-purchase\n• Conduct market research and provide competitive analysis\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 0-1 years of relevant experience\n• Proficiency in Investment Analysis\n• Proficiency in AutoCAD\n• Proficiency in GIS Tools\n• Proficiency in Portfolio Management\n• Proficiency in Sales Techniques\n• Proficiency in Project Management\n• Proficiency in Property Management\n• Proficiency in RERA Compliance\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Life and accident insurance\n• Learning & development budget\n• Company-sponsored certifications\n• Flexible working hours\n• Referral bonus program\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Nashik, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Brigade Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Brigade Group",
+      "value": "684-1-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Brigade Group",
+      "sameAs": "https://www.google.com/search?q=Brigade%20Group",
+      "logo": "https://logo.clearbit.com/brigadegroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Brigade Group Office",
+        "addressLocality": "Nashik",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "Investment Analysis, AutoCAD, GIS Tools, Portfolio Management, Sales Techniques, Project Management, Property Management, RERA Compliance",
+    "responsibilities": "Conduct site visits and property presentations for clients. Source and close property deals with prospective buyers and investors. Prepare presentations and proposals for institutional clients. Build relationships with channel partners and brokers. Liaise with banks and NBFCs for home loan assistance to customers. Manage relationships with existing customers post-purchase. Conduct market research and provide competitive analysis",
+    "benefits": "Annual paid leaves and casual leaves. Life and accident insurance. Learning & development budget. Company-sponsored certifications. Flexible working hours. Referral bonus program",
+    "industry": "realestate",
+    "occupationalCategory": "Property Consultant",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Life and accident insurance, Learning & development budget, Company-sponsored certifications, Flexible working hours, Referral bonus program"
+  },
+  "meta": {
+    "description": "We at Brigade Group are looking for an experienced Property Consultant based out of Nashik. If you are a result-oriented professional with a passion for excelle",
+    "keywords": "Property Consultant, Brigade Group, jobs in Nashik, Maharashtra jobs, realestate jobs India, Investment Analysis, AutoCAD, GIS Tools, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:35:30.553Z",
+  "page": 170
+}
