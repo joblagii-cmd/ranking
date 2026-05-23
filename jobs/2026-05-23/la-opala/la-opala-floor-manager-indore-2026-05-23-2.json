@@ -1,0 +1,94 @@
+{
+  "slug": "la-opala-floor-manager-indore-2026-05-23-2",
+  "title": "La Opala is Hiring: Floor Manager (Entry-Level)",
+  "company": "La Opala",
+  "industry": "retail",
+  "role": "Floor Manager",
+  "location": {
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Inventory Management",
+    "POS Systems",
+    "Retail Analytics",
+    "Supply Chain",
+    "Planogram",
+    "Visual Merchandising",
+    "Shrinkage Control",
+    "Retail Operations"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "La Opala is Hiring: Floor Manager (Entry-Level)",
+    "description": "We at La Opala are looking for an experienced Floor Manager based out of Indore. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout La Opala:\nLa Opala is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Train and motivate the sales team to deliver excellent service\n• Handle customer queries, complaints, and escalations effectively\n• Assist in recruiting, onboarding, and performance management of staff\n• Manage store operations to ensure smooth daily functioning\n• Ensure visual merchandising standards are maintained at all times\n• Monitor inventory levels and coordinate replenishment activities\n• Coordinate with the supply chain team for timely stock delivery\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 1-3 years of relevant experience\n• Proficiency in Inventory Management\n• Proficiency in POS Systems\n• Proficiency in Retail Analytics\n• Proficiency in Supply Chain\n• Proficiency in Planogram\n• Proficiency in Visual Merchandising\n• Proficiency in Shrinkage Control\n• Proficiency in Retail Operations\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Work-from-home flexibility\n• Mobile and internet reimbursement\n• International travel opportunities for senior roles\n• Competitive salary with performance-linked incentives\n• Meal coupons and food allowance\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Indore, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with La Opala!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "La Opala",
+      "value": "666-2-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "La Opala",
+      "sameAs": "https://www.google.com/search?q=La%20Opala",
+      "logo": "https://logo.clearbit.com/laopala.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "La Opala Office",
+        "addressLocality": "Indore",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Inventory Management, POS Systems, Retail Analytics, Supply Chain, Planogram, Visual Merchandising, Shrinkage Control, Retail Operations",
+    "responsibilities": "Train and motivate the sales team to deliver excellent service. Handle customer queries, complaints, and escalations effectively. Assist in recruiting, onboarding, and performance management of staff. Manage store operations to ensure smooth daily functioning. Ensure visual merchandising standards are maintained at all times. Monitor inventory levels and coordinate replenishment activities. Coordinate with the supply chain team for timely stock delivery",
+    "benefits": "Transportation and conveyance allowance. Work-from-home flexibility. Mobile and internet reimbursement. International travel opportunities for senior roles. Competitive salary with performance-linked incentives. Meal coupons and food allowance",
+    "industry": "retail",
+    "occupationalCategory": "Floor Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Work-from-home flexibility, Mobile and internet reimbursement, International travel opportunities for senior roles, Competitive salary with performance-linked incentives, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "We at La Opala are looking for an experienced Floor Manager based out of Indore. If you are a result-oriented professional with a passion for excellence, we wan",
+    "keywords": "Floor Manager, La Opala, jobs in Indore, Madhya Pradesh jobs, retail jobs India, Inventory Management, POS Systems, Retail Analytics, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:35:01.486Z",
+  "page": 166
+}

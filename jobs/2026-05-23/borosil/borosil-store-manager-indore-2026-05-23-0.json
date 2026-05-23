@@ -1,0 +1,93 @@
+{
+  "slug": "borosil-store-manager-indore-2026-05-23-0",
+  "title": "Hiring Store Manager at Borosil",
+  "company": "Borosil",
+  "industry": "retail",
+  "role": "Store Manager",
+  "location": {
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "SAP Retail",
+    "Customer Service",
+    "E-commerce Integration",
+    "Loss Prevention",
+    "MS Excel",
+    "Retail Operations",
+    "Sales Techniques",
+    "Planogram"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Hiring Store Manager at Borosil",
+    "description": "Borosil is actively seeking a talented and motivated Store Manager to join our dynamic team in Indore. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout Borosil:\nBorosil is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Monitor inventory levels and coordinate replenishment activities\n• Assist in recruiting, onboarding, and performance management of staff\n• Build relationships with regular customers to drive loyalty\n• Maintain high standards of store hygiene and cleanliness\n• Handle customer queries, complaints, and escalations effectively\n• Ensure visual merchandising standards are maintained at all times\n• Achieve sales targets and improve store performance metrics\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 3-6 years of relevant experience\n• Proficiency in SAP Retail\n• Proficiency in Customer Service\n• Proficiency in E-commerce Integration\n• Proficiency in Loss Prevention\n• Proficiency in MS Excel\n• Proficiency in Retail Operations\n• Proficiency in Sales Techniques\n• Proficiency in Planogram\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Professional development and training programs\n• Work-from-home flexibility\n• Flexible working hours\n• Employee stock options (ESOPs) for eligible roles\n• Annual paid leaves and casual leaves\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Indore, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Borosil!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Borosil",
+      "value": "667-0-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Borosil",
+      "sameAs": "https://www.google.com/search?q=Borosil",
+      "logo": "https://logo.clearbit.com/borosil.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Borosil Office",
+        "addressLocality": "Indore",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "SAP Retail, Customer Service, E-commerce Integration, Loss Prevention, MS Excel, Retail Operations, Sales Techniques, Planogram",
+    "responsibilities": "Monitor inventory levels and coordinate replenishment activities. Assist in recruiting, onboarding, and performance management of staff. Build relationships with regular customers to drive loyalty. Maintain high standards of store hygiene and cleanliness. Handle customer queries, complaints, and escalations effectively. Ensure visual merchandising standards are maintained at all times. Achieve sales targets and improve store performance metrics",
+    "benefits": "Professional development and training programs. Work-from-home flexibility. Flexible working hours. Employee stock options (ESOPs) for eligible roles. Annual paid leaves and casual leaves. Provident Fund and Gratuity as per company policy",
+    "industry": "retail",
+    "occupationalCategory": "Store Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Work-from-home flexibility, Flexible working hours, Employee stock options (ESOPs) for eligible roles, Annual paid leaves and casual leaves, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "Borosil is actively seeking a talented and motivated Store Manager to join our dynamic team in Indore. This is an excellent opportunity for professionals who ar",
+    "keywords": "Store Manager, Borosil, jobs in Indore, Madhya Pradesh jobs, retail jobs India, SAP Retail, Customer Service, E-commerce Integration, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:35:01.486Z",
+  "page": 166
+}
