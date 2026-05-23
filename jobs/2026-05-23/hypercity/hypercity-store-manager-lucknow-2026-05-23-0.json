@@ -1,0 +1,93 @@
+{
+  "slug": "hypercity-store-manager-lucknow-2026-05-23-0",
+  "title": "Hiring Store Manager at Hypercity",
+  "company": "Hypercity",
+  "industry": "retail",
+  "role": "Store Manager",
+  "location": {
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Team Leadership",
+    "Customer Service",
+    "KPI Management",
+    "Shrinkage Control",
+    "POS Systems",
+    "MS Excel",
+    "Category Management",
+    "CRM"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Hiring Store Manager at Hypercity",
+    "description": "Hypercity is actively seeking a talented and motivated Store Manager to join our dynamic team in Lucknow. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout Hypercity:\nHypercity is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure compliance with company policies and retail regulations\n• Manage store operations to ensure smooth daily functioning\n• Achieve sales targets and improve store performance metrics\n• Ensure visual merchandising standards are maintained at all times\n• Implement promotional activities and in-store campaigns\n• Maintain high standards of store hygiene and cleanliness\n• Monitor inventory levels and coordinate replenishment activities\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 3-6 years of relevant experience\n• Proficiency in Team Leadership\n• Proficiency in Customer Service\n• Proficiency in KPI Management\n• Proficiency in Shrinkage Control\n• Proficiency in POS Systems\n• Proficiency in MS Excel\n• Proficiency in Category Management\n• Proficiency in CRM\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Company-sponsored certifications\n• Annual paid leaves and casual leaves\n• Maternity and paternity leave\n• Comprehensive health insurance for self and family\n• Modern office with recreational facilities\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Lucknow, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Hypercity!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Hypercity",
+      "value": "662-0-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Hypercity",
+      "sameAs": "https://www.google.com/search?q=Hypercity",
+      "logo": "https://logo.clearbit.com/hypercity.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Hypercity Office",
+        "addressLocality": "Lucknow",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "Team Leadership, Customer Service, KPI Management, Shrinkage Control, POS Systems, MS Excel, Category Management, CRM",
+    "responsibilities": "Ensure compliance with company policies and retail regulations. Manage store operations to ensure smooth daily functioning. Achieve sales targets and improve store performance metrics. Ensure visual merchandising standards are maintained at all times. Implement promotional activities and in-store campaigns. Maintain high standards of store hygiene and cleanliness. Monitor inventory levels and coordinate replenishment activities",
+    "benefits": "Competitive salary with performance-linked incentives. Company-sponsored certifications. Annual paid leaves and casual leaves. Maternity and paternity leave. Comprehensive health insurance for self and family. Modern office with recreational facilities",
+    "industry": "retail",
+    "occupationalCategory": "Store Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Company-sponsored certifications, Annual paid leaves and casual leaves, Maternity and paternity leave, Comprehensive health insurance for self and family, Modern office with recreational facilities"
+  },
+  "meta": {
+    "description": "Hypercity is actively seeking a talented and motivated Store Manager to join our dynamic team in Lucknow. This is an excellent opportunity for professionals who",
+    "keywords": "Store Manager, Hypercity, jobs in Lucknow, Uttar Pradesh jobs, retail jobs India, Team Leadership, Customer Service, KPI Management, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:34:54.316Z",
+  "page": 165
+}

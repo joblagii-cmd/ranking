@@ -1,0 +1,93 @@
+{
+  "slug": "foodworld-floor-manager-lucknow-2026-05-23-2",
+  "title": "FoodWorld is Hiring: Floor Manager (Entry-Level)",
+  "company": "FoodWorld",
+  "industry": "retail",
+  "role": "Floor Manager",
+  "location": {
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Loss Prevention",
+    "CRM",
+    "Supply Chain",
+    "Inventory Management",
+    "Sales Techniques",
+    "Shrinkage Control",
+    "Retail Operations",
+    "Omnichannel Retail"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "FoodWorld is Hiring: Floor Manager (Entry-Level)",
+    "description": "FoodWorld is actively seeking a talented and motivated Floor Manager to join our dynamic team in Lucknow. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout FoodWorld:\nFoodWorld is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Implement promotional activities and in-store campaigns\n• Handle customer queries, complaints, and escalations effectively\n• Assist in recruiting, onboarding, and performance management of staff\n• Manage store operations to ensure smooth daily functioning\n• Maintain high standards of store hygiene and cleanliness\n• Train and motivate the sales team to deliver excellent service\n• Coordinate with the supply chain team for timely stock delivery\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 1-3 years of relevant experience\n• Proficiency in Loss Prevention\n• Proficiency in CRM\n• Proficiency in Supply Chain\n• Proficiency in Inventory Management\n• Proficiency in Sales Techniques\n• Proficiency in Shrinkage Control\n• Proficiency in Retail Operations\n• Proficiency in Omnichannel Retail\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Recognition and rewards programs\n• Flexible working hours\n• Work-from-home flexibility\n• Meal coupons and food allowance\n• Company-sponsored certifications\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Lucknow, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with FoodWorld!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "FoodWorld",
+      "value": "661-2-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "FoodWorld",
+      "sameAs": "https://www.google.com/search?q=FoodWorld",
+      "logo": "https://logo.clearbit.com/foodworld.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "FoodWorld Office",
+        "addressLocality": "Lucknow",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "Loss Prevention, CRM, Supply Chain, Inventory Management, Sales Techniques, Shrinkage Control, Retail Operations, Omnichannel Retail",
+    "responsibilities": "Implement promotional activities and in-store campaigns. Handle customer queries, complaints, and escalations effectively. Assist in recruiting, onboarding, and performance management of staff. Manage store operations to ensure smooth daily functioning. Maintain high standards of store hygiene and cleanliness. Train and motivate the sales team to deliver excellent service. Coordinate with the supply chain team for timely stock delivery",
+    "benefits": "Provident Fund and Gratuity as per company policy. Recognition and rewards programs. Flexible working hours. Work-from-home flexibility. Meal coupons and food allowance. Company-sponsored certifications",
+    "industry": "retail",
+    "occupationalCategory": "Floor Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Recognition and rewards programs, Flexible working hours, Work-from-home flexibility, Meal coupons and food allowance, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "FoodWorld is actively seeking a talented and motivated Floor Manager to join our dynamic team in Lucknow. This is an excellent opportunity for professionals who",
+    "keywords": "Floor Manager, FoodWorld, jobs in Lucknow, Uttar Pradesh jobs, retail jobs India, Loss Prevention, CRM, Supply Chain, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:34:54.316Z",
+  "page": 165
+}
