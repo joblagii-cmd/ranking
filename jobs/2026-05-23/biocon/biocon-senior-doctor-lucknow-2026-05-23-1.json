@@ -1,0 +1,93 @@
+{
+  "slug": "biocon-senior-doctor-lucknow-2026-05-23-1",
+  "title": "Senior Doctor - Biocon - 2025 Hiring Drive",
+  "company": "Biocon",
+  "industry": "healthcare",
+  "role": "Senior Doctor",
+  "location": {
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Medical Coding",
+    "Infection Control",
+    "CPT Codes",
+    "Clinical Documentation",
+    "Patient Care",
+    "Wound Care",
+    "Medical Terminology",
+    "BLS/ACLS"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Doctor - Biocon - 2025 Hiring Drive",
+    "description": "Are you a skilled Senior Doctor looking for your next big career move? Biocon in Lucknow offers you the perfect platform to grow professionally and personally.\n\nAbout Biocon:\nBiocon is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Diagnose and treat medical conditions following established protocols\n• Adhere to NABH/JCI accreditation standards\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Collaborate with pharmaceutical representatives and medical suppliers\n• Monitor patient progress and adjust treatment plans accordingly\n• Administer medications and treatments as prescribed\n• Educate patients and families on health management and disease prevention\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 6-10 years of relevant experience\n• Proficiency in Medical Coding\n• Proficiency in Infection Control\n• Proficiency in CPT Codes\n• Proficiency in Clinical Documentation\n• Proficiency in Patient Care\n• Proficiency in Wound Care\n• Proficiency in Medical Terminology\n• Proficiency in BLS/ACLS\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Referral bonus program\n• Comprehensive health insurance for self and family\n• Employee stock options (ESOPs) for eligible roles\n• Recognition and rewards programs\n• Meal coupons and food allowance\n• Work-from-home flexibility\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Lucknow, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Biocon!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Biocon",
+      "value": "246-1-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Biocon",
+      "sameAs": "https://www.google.com/search?q=Biocon",
+      "logo": "https://logo.clearbit.com/biocon.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Biocon Office",
+        "addressLocality": "Lucknow",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "Medical Coding, Infection Control, CPT Codes, Clinical Documentation, Patient Care, Wound Care, Medical Terminology, BLS/ACLS",
+    "responsibilities": "Diagnose and treat medical conditions following established protocols. Adhere to NABH/JCI accreditation standards. Coordinate with multidisciplinary teams for comprehensive patient management. Collaborate with pharmaceutical representatives and medical suppliers. Monitor patient progress and adjust treatment plans accordingly. Administer medications and treatments as prescribed. Educate patients and families on health management and disease prevention",
+    "benefits": "Referral bonus program. Comprehensive health insurance for self and family. Employee stock options (ESOPs) for eligible roles. Recognition and rewards programs. Meal coupons and food allowance. Work-from-home flexibility",
+    "industry": "healthcare",
+    "occupationalCategory": "Senior Doctor",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Referral bonus program, Comprehensive health insurance for self and family, Employee stock options (ESOPs) for eligible roles, Recognition and rewards programs, Meal coupons and food allowance, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "Are you a skilled Senior Doctor looking for your next big career move? Biocon in Lucknow offers you the perfect platform to grow professionally and personally.",
+    "keywords": "Senior Doctor, Biocon, jobs in Lucknow, Uttar Pradesh jobs, healthcare jobs India, Medical Coding, Infection Control, CPT Codes, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:22:18.021Z",
+  "page": 61
+}
