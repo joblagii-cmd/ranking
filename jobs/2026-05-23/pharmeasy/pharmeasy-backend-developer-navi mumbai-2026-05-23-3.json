@@ -1,0 +1,94 @@
+{
+  "slug": "pharmeasy-backend-developer-navi mumbai-2026-05-23-3",
+  "title": "Backend Developer Vacancy at PharmEasy - 2026 Batch",
+  "company": "PharmEasy",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Docker",
+    "Machine Learning",
+    "CI/CD",
+    "JavaScript",
+    "React",
+    "AWS",
+    "TypeScript",
+    "MongoDB"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at PharmEasy - 2026 Batch",
+    "description": "PharmEasy invites applications from qualified candidates for the position of Backend Developer at our Navi Mumbai location. This role offers excellent career advancement prospects.\n\nAbout PharmEasy:\nPharmEasy is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Implement new features based on product requirements\n• Participate in code reviews and contribute to technical discussions\n• Ensure code security and follow best practices for data protection\n• Contribute to system architecture and technical design decisions\n• Integrate third-party APIs and services\n• Design, develop and maintain scalable software applications\n• Mentor junior developers and conduct knowledge-sharing sessions\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 12-20 years of relevant experience\n• Proficiency in Docker\n• Proficiency in Machine Learning\n• Proficiency in CI/CD\n• Proficiency in JavaScript\n• Proficiency in React\n• Proficiency in AWS\n• Proficiency in TypeScript\n• Proficiency in MongoDB\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Company-sponsored certifications\n• Maternity and paternity leave\n• Work-from-home flexibility\n• Mobile and internet reimbursement\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Navi Mumbai, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with PharmEasy!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "PharmEasy",
+      "value": "114-3-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "PharmEasy",
+      "sameAs": "https://www.google.com/search?q=PharmEasy",
+      "logo": "https://logo.clearbit.com/pharmeasy.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "PharmEasy Office",
+        "addressLocality": "Navi Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "Docker, Machine Learning, CI/CD, JavaScript, React, AWS, TypeScript, MongoDB",
+    "responsibilities": "Implement new features based on product requirements. Participate in code reviews and contribute to technical discussions. Ensure code security and follow best practices for data protection. Contribute to system architecture and technical design decisions. Integrate third-party APIs and services. Design, develop and maintain scalable software applications. Mentor junior developers and conduct knowledge-sharing sessions",
+    "benefits": "International travel opportunities for senior roles. Company-sponsored certifications. Maternity and paternity leave. Work-from-home flexibility. Mobile and internet reimbursement. Employee stock options (ESOPs) for eligible roles",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Company-sponsored certifications, Maternity and paternity leave, Work-from-home flexibility, Mobile and internet reimbursement, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "PharmEasy invites applications from qualified candidates for the position of Backend Developer at our Navi Mumbai location. This role offers excellent career ad",
+    "keywords": "Backend Developer, PharmEasy, jobs in Navi Mumbai, Maharashtra jobs, technology jobs India, Docker, Machine Learning, CI/CD, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:18:12.547Z",
+  "page": 28
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "docplexus-frontend-developer-allahabad-2026-05-23-4",
+  "title": "Senior Frontend Developer at Docplexus",
+  "company": "Docplexus",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Allahabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Rust",
+    "Node.js",
+    "Kubernetes",
+    "TensorFlow",
+    "REST APIs",
+    "Machine Learning",
+    "Git",
+    "Java"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Frontend Developer at Docplexus",
+    "description": "Docplexus invites applications from qualified candidates for the position of Frontend Developer at our Allahabad location. This role offers excellent career advancement prospects.\n\nAbout Docplexus:\nDocplexus is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure code security and follow best practices for data protection\n• Participate in on-call rotation for production support\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Write clean, maintainable, and well-documented code\n• Integrate third-party APIs and services\n• Participate in code reviews and contribute to technical discussions\n• Collaborate with cross-functional teams including product, design, and QA\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 3-6 years of relevant experience\n• Proficiency in Rust\n• Proficiency in Node.js\n• Proficiency in Kubernetes\n• Proficiency in TensorFlow\n• Proficiency in REST APIs\n• Proficiency in Machine Learning\n• Proficiency in Git\n• Proficiency in Java\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Company-sponsored certifications\n• Learning & development budget\n• Provident Fund and Gratuity as per company policy\n• Work-from-home flexibility\n• Meal coupons and food allowance\n• International travel opportunities for senior roles\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Allahabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Docplexus!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Docplexus",
+      "value": "116-4-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Docplexus",
+      "sameAs": "https://www.google.com/search?q=Docplexus",
+      "logo": "https://logo.clearbit.com/docplexus.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Docplexus Office",
+        "addressLocality": "Allahabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "Rust, Node.js, Kubernetes, TensorFlow, REST APIs, Machine Learning, Git, Java",
+    "responsibilities": "Ensure code security and follow best practices for data protection. Participate in on-call rotation for production support. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Write clean, maintainable, and well-documented code. Integrate third-party APIs and services. Participate in code reviews and contribute to technical discussions. Collaborate with cross-functional teams including product, design, and QA",
+    "benefits": "Company-sponsored certifications. Learning & development budget. Provident Fund and Gratuity as per company policy. Work-from-home flexibility. Meal coupons and food allowance. International travel opportunities for senior roles",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Company-sponsored certifications, Learning & development budget, Provident Fund and Gratuity as per company policy, Work-from-home flexibility, Meal coupons and food allowance, International travel opportunities for senior roles"
+  },
+  "meta": {
+    "description": "Docplexus invites applications from qualified candidates for the position of Frontend Developer at our Allahabad location. This role offers excellent career adv",
+    "keywords": "Frontend Developer, Docplexus, jobs in Allahabad, Uttar Pradesh jobs, technology jobs India, Rust, Node.js, Kubernetes, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:18:12.548Z",
+  "page": 28
+}
