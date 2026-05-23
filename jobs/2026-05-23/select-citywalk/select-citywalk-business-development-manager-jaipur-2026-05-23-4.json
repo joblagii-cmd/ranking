@@ -1,0 +1,94 @@
+{
+  "slug": "select-citywalk-business-development-manager-jaipur-2026-05-23-4",
+  "title": "Junior Business Development Manager at Select CityWalk",
+  "company": "Select CityWalk",
+  "industry": "realestate",
+  "role": "Business Development Manager",
+  "location": {
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Due Diligence",
+    "Property Valuation",
+    "Market Research",
+    "GIS Tools",
+    "Client Relationship Management",
+    "Project Management",
+    "Negotiation Skills",
+    "Real Estate Law"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Junior Business Development Manager at Select CityWalk",
+    "description": "Select CityWalk, one of India's leading organizations, is hiring a Business Development Manager for our Jaipur operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Select CityWalk:\nSelect CityWalk is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Liaise with banks and NBFCs for home loan assistance to customers\n• Manage relationships with existing customers post-purchase\n• Conduct land acquisition due diligence and feasibility studies\n• Maintain a pipeline of qualified leads using CRM software\n• Source and close property deals with prospective buyers and investors\n• Achieve monthly and quarterly sales targets\n• Prepare presentations and proposals for institutional clients\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 12-20 years of relevant experience\n• Proficiency in Due Diligence\n• Proficiency in Property Valuation\n• Proficiency in Market Research\n• Proficiency in GIS Tools\n• Proficiency in Client Relationship Management\n• Proficiency in Project Management\n• Proficiency in Negotiation Skills\n• Proficiency in Real Estate Law\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Annual performance appraisal\n• Competitive salary with performance-linked incentives\n• Recognition and rewards programs\n• Comprehensive health insurance for self and family\n• International travel opportunities for senior roles\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Jaipur, Rajasthan, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Select CityWalk!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Select CityWalk",
+      "value": "740-4-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Select CityWalk",
+      "sameAs": "https://www.google.com/search?q=Select%20CityWalk",
+      "logo": "https://logo.clearbit.com/selectcitywalk.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Select CityWalk Office",
+        "addressLocality": "Jaipur",
+        "addressRegion": "Rajasthan",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Due Diligence, Property Valuation, Market Research, GIS Tools, Client Relationship Management, Project Management, Negotiation Skills, Real Estate Law",
+    "responsibilities": "Liaise with banks and NBFCs for home loan assistance to customers. Manage relationships with existing customers post-purchase. Conduct land acquisition due diligence and feasibility studies. Maintain a pipeline of qualified leads using CRM software. Source and close property deals with prospective buyers and investors. Achieve monthly and quarterly sales targets. Prepare presentations and proposals for institutional clients",
+    "benefits": "Annual performance appraisal. Competitive salary with performance-linked incentives. Recognition and rewards programs. Comprehensive health insurance for self and family. International travel opportunities for senior roles. Provident Fund and Gratuity as per company policy",
+    "industry": "realestate",
+    "occupationalCategory": "Business Development Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual performance appraisal, Competitive salary with performance-linked incentives, Recognition and rewards programs, Comprehensive health insurance for self and family, International travel opportunities for senior roles, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "Select CityWalk, one of India's leading organizations, is hiring a Business Development Manager for our Jaipur operations. We offer a competitive salary package",
+    "keywords": "Business Development Manager, Select CityWalk, jobs in Jaipur, Rajasthan jobs, realestate jobs India, Due Diligence, Property Valuation, Market Research, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:37:12.414Z",
+  "page": 184
+}
