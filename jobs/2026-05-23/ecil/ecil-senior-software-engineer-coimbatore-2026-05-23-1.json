@@ -1,0 +1,93 @@
+{
+  "slug": "ecil-senior-software-engineer-coimbatore-2026-05-23-1",
+  "title": "Senior Software Engineer - ECIL - Freshers Welcome",
+  "company": "ECIL",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Rust",
+    "Node.js",
+    "TypeScript",
+    "Python",
+    "Agile/Scrum",
+    "Docker",
+    "CI/CD",
+    "JavaScript"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - ECIL - Freshers Welcome",
+    "description": "ECIL, one of India's leading organizations, is hiring a Senior Software Engineer for our Coimbatore operations. We offer a competitive salary package along with world-class benefits.\n\nAbout ECIL:\nECIL is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in on-call rotation for production support\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Ensure code security and follow best practices for data protection\n• Design, develop and maintain scalable software applications\n• Implement new features based on product requirements\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 1-3 years of relevant experience\n• Proficiency in Rust\n• Proficiency in Node.js\n• Proficiency in TypeScript\n• Proficiency in Python\n• Proficiency in Agile/Scrum\n• Proficiency in Docker\n• Proficiency in CI/CD\n• Proficiency in JavaScript\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Learning & development budget\n• Flexible working hours\n• Annual paid leaves and casual leaves\n• Provident Fund and Gratuity as per company policy\n• Annual performance appraisal\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Coimbatore, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with ECIL!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "ECIL",
+      "value": "40-1-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "ECIL",
+      "sameAs": "https://www.google.com/search?q=ECIL",
+      "logo": "https://logo.clearbit.com/ecil.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "ECIL Office",
+        "addressLocality": "Coimbatore",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "Rust, Node.js, TypeScript, Python, Agile/Scrum, Docker, CI/CD, JavaScript",
+    "responsibilities": "Participate in on-call rotation for production support. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Troubleshoot, debug, and resolve software defects and performance issues. Mentor junior developers and conduct knowledge-sharing sessions. Ensure code security and follow best practices for data protection. Design, develop and maintain scalable software applications. Implement new features based on product requirements",
+    "benefits": "Work-from-home flexibility. Learning & development budget. Flexible working hours. Annual paid leaves and casual leaves. Provident Fund and Gratuity as per company policy. Annual performance appraisal",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Learning & development budget, Flexible working hours, Annual paid leaves and casual leaves, Provident Fund and Gratuity as per company policy, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "ECIL, one of India's leading organizations, is hiring a Senior Software Engineer for our Coimbatore operations. We offer a competitive salary package along with",
+    "keywords": "Senior Software Engineer, ECIL, jobs in Coimbatore, Tamil Nadu jobs, technology jobs India, Rust, Node.js, TypeScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:15:50.608Z",
+  "page": 9
+}

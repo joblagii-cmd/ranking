@@ -1,0 +1,93 @@
+{
+  "slug": "tata-elxsi-full-stack-developer-howrah-2026-05-23-2",
+  "title": "Tata Elxsi is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "Tata Elxsi",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Howrah",
+    "state": "West Bengal",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "MongoDB",
+    "Java",
+    "Python",
+    "Agile/Scrum",
+    "Git",
+    "Node.js",
+    "Rust",
+    "TensorFlow"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Tata Elxsi is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "Tata Elxsi, one of India's leading organizations, is hiring a Full Stack Developer for our Howrah operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Tata Elxsi:\nTata Elxsi is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Write clean, maintainable, and well-documented code\n• Design, develop and maintain scalable software applications\n• Collaborate with cross-functional teams including product, design, and QA\n• Integrate third-party APIs and services\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Participate in code reviews and contribute to technical discussions\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 6-10 years of relevant experience\n• Proficiency in MongoDB\n• Proficiency in Java\n• Proficiency in Python\n• Proficiency in Agile/Scrum\n• Proficiency in Git\n• Proficiency in Node.js\n• Proficiency in Rust\n• Proficiency in TensorFlow\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Company-sponsored certifications\n• Transportation and conveyance allowance\n• Employee stock options (ESOPs) for eligible roles\n• Learning & development budget\n• Competitive salary with performance-linked incentives\n• Annual paid leaves and casual leaves\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Howrah, West Bengal, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Tata Elxsi!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Tata Elxsi",
+      "value": "37-2-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Tata Elxsi",
+      "sameAs": "https://www.google.com/search?q=Tata%20Elxsi",
+      "logo": "https://logo.clearbit.com/tataelxsi.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Tata Elxsi Office",
+        "addressLocality": "Howrah",
+        "addressRegion": "West Bengal",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "MongoDB, Java, Python, Agile/Scrum, Git, Node.js, Rust, TensorFlow",
+    "responsibilities": "Mentor junior developers and conduct knowledge-sharing sessions. Write clean, maintainable, and well-documented code. Design, develop and maintain scalable software applications. Collaborate with cross-functional teams including product, design, and QA. Integrate third-party APIs and services. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Participate in code reviews and contribute to technical discussions",
+    "benefits": "Company-sponsored certifications. Transportation and conveyance allowance. Employee stock options (ESOPs) for eligible roles. Learning & development budget. Competitive salary with performance-linked incentives. Annual paid leaves and casual leaves",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Company-sponsored certifications, Transportation and conveyance allowance, Employee stock options (ESOPs) for eligible roles, Learning & development budget, Competitive salary with performance-linked incentives, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "Tata Elxsi, one of India's leading organizations, is hiring a Full Stack Developer for our Howrah operations. We offer a competitive salary package along with w",
+    "keywords": "Full Stack Developer, Tata Elxsi, jobs in Howrah, West Bengal jobs, technology jobs India, MongoDB, Java, Python, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:15:50.606Z",
+  "page": 9
+}

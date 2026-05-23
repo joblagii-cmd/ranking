@@ -1,0 +1,94 @@
+{
+  "slug": "ecil-software-engineer-coimbatore-2026-05-23-0",
+  "title": "Walk-in Drive Software Engineer at ECIL",
+  "company": "ECIL",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "CI/CD",
+    "Microservices",
+    "Rust",
+    "Docker",
+    "React",
+    "AWS",
+    "Git",
+    "Agile/Scrum"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Walk-in Drive Software Engineer at ECIL",
+    "description": "ECIL, one of India's leading organizations, is hiring a Software Engineer for our Coimbatore operations. We offer a competitive salary package along with world-class benefits.\n\nAbout ECIL:\nECIL is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Ensure code security and follow best practices for data protection\n• Participate in on-call rotation for production support\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Write and execute unit tests and integration tests\n• Write clean, maintainable, and well-documented code\n• Integrate third-party APIs and services\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 3-6 years of relevant experience\n• Proficiency in CI/CD\n• Proficiency in Microservices\n• Proficiency in Rust\n• Proficiency in Docker\n• Proficiency in React\n• Proficiency in AWS\n• Proficiency in Git\n• Proficiency in Agile/Scrum\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Annual performance appraisal\n• Flexible working hours\n• Comprehensive health insurance for self and family\n• Life and accident insurance\n• Company-sponsored certifications\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Coimbatore, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with ECIL!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "ECIL",
+      "value": "40-0-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "ECIL",
+      "sameAs": "https://www.google.com/search?q=ECIL",
+      "logo": "https://logo.clearbit.com/ecil.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "ECIL Office",
+        "addressLocality": "Coimbatore",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "CI/CD, Microservices, Rust, Docker, React, AWS, Git, Agile/Scrum",
+    "responsibilities": "Design, develop and maintain scalable software applications. Ensure code security and follow best practices for data protection. Participate in on-call rotation for production support. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Write and execute unit tests and integration tests. Write clean, maintainable, and well-documented code. Integrate third-party APIs and services",
+    "benefits": "Transportation and conveyance allowance. Annual performance appraisal. Flexible working hours. Comprehensive health insurance for self and family. Life and accident insurance. Company-sponsored certifications",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Annual performance appraisal, Flexible working hours, Comprehensive health insurance for self and family, Life and accident insurance, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "ECIL, one of India's leading organizations, is hiring a Software Engineer for our Coimbatore operations. We offer a competitive salary package along with world-",
+    "keywords": "Software Engineer, ECIL, jobs in Coimbatore, Tamil Nadu jobs, technology jobs India, CI/CD, Microservices, Rust, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:15:50.608Z",
+  "page": 9
+}
