@@ -1,0 +1,93 @@
+{
+  "slug": "ats-infrastructure-real-estate-agent-allahabad-2026-05-23-0",
+  "title": "Looking for Real Estate Agent at ATS Infrastructure",
+  "company": "ATS Infrastructure",
+  "industry": "realestate",
+  "role": "Real Estate Agent",
+  "location": {
+    "city": "Allahabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Property Valuation",
+    "Lease Administration",
+    "Title Search",
+    "GIS Tools",
+    "Real Estate Law",
+    "RERA Compliance",
+    "Market Research",
+    "Sales Techniques"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Looking for Real Estate Agent at ATS Infrastructure",
+    "description": "ATS Infrastructure has an exciting opening for a Real Estate Agent at our Allahabad office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout ATS Infrastructure:\nATS Infrastructure is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with legal teams for documentation and title verification\n• Achieve monthly and quarterly sales targets\n• Prepare presentations and proposals for institutional clients\n• Provide advisory services on property investment and market trends\n• Manage relationships with existing customers post-purchase\n• Build relationships with channel partners and brokers\n• Conduct market research and provide competitive analysis\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 0-1 years of relevant experience\n• Proficiency in Property Valuation\n• Proficiency in Lease Administration\n• Proficiency in Title Search\n• Proficiency in GIS Tools\n• Proficiency in Real Estate Law\n• Proficiency in RERA Compliance\n• Proficiency in Market Research\n• Proficiency in Sales Techniques\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Flexible working hours\n• Work-from-home flexibility\n• Employee stock options (ESOPs) for eligible roles\n• International travel opportunities for senior roles\n• Recognition and rewards programs\n• Meal coupons and food allowance\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Allahabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with ATS Infrastructure!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "ATS Infrastructure",
+      "value": "701-0-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "ATS Infrastructure",
+      "sameAs": "https://www.google.com/search?q=ATS%20Infrastructure",
+      "logo": "https://logo.clearbit.com/atsinfrastructure.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "ATS Infrastructure Office",
+        "addressLocality": "Allahabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "Property Valuation, Lease Administration, Title Search, GIS Tools, Real Estate Law, RERA Compliance, Market Research, Sales Techniques",
+    "responsibilities": "Coordinate with legal teams for documentation and title verification. Achieve monthly and quarterly sales targets. Prepare presentations and proposals for institutional clients. Provide advisory services on property investment and market trends. Manage relationships with existing customers post-purchase. Build relationships with channel partners and brokers. Conduct market research and provide competitive analysis",
+    "benefits": "Flexible working hours. Work-from-home flexibility. Employee stock options (ESOPs) for eligible roles. International travel opportunities for senior roles. Recognition and rewards programs. Meal coupons and food allowance",
+    "industry": "realestate",
+    "occupationalCategory": "Real Estate Agent",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, Work-from-home flexibility, Employee stock options (ESOPs) for eligible roles, International travel opportunities for senior roles, Recognition and rewards programs, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "ATS Infrastructure has an exciting opening for a Real Estate Agent at our Allahabad office. Join a company that values innovation, collaboration, and continuous",
+    "keywords": "Real Estate Agent, ATS Infrastructure, jobs in Allahabad, Uttar Pradesh jobs, realestate jobs India, Property Valuation, Lease Administration, Title Search, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:36:06.948Z",
+  "page": 175
+}

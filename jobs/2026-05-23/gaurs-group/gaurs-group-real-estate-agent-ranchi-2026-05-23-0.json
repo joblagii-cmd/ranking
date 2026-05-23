@@ -1,0 +1,93 @@
+{
+  "slug": "gaurs-group-real-estate-agent-ranchi-2026-05-23-0",
+  "title": "Looking for Real Estate Agent at Gaurs Group",
+  "company": "Gaurs Group",
+  "industry": "realestate",
+  "role": "Real Estate Agent",
+  "location": {
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Investment Analysis",
+    "Sales Techniques",
+    "MS Office",
+    "Contract Management",
+    "Market Research",
+    "Real Estate Law",
+    "Portfolio Management",
+    "Property Valuation"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Looking for Real Estate Agent at Gaurs Group",
+    "description": "Gaurs Group has an exciting opening for a Real Estate Agent at our Ranchi office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Gaurs Group:\nGaurs Group is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Manage RERA documentation and compliance requirements\n• Prepare presentations and proposals for institutional clients\n• Conduct site visits and property presentations for clients\n• Conduct land acquisition due diligence and feasibility studies\n• Provide advisory services on property investment and market trends\n• Coordinate with legal teams for documentation and title verification\n• Achieve monthly and quarterly sales targets\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 12-20 years of relevant experience\n• Proficiency in Investment Analysis\n• Proficiency in Sales Techniques\n• Proficiency in MS Office\n• Proficiency in Contract Management\n• Proficiency in Market Research\n• Proficiency in Real Estate Law\n• Proficiency in Portfolio Management\n• Proficiency in Property Valuation\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• Professional development and training programs\n• Recognition and rewards programs\n• Learning & development budget\n• Modern office with recreational facilities\n• Annual performance appraisal\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Ranchi, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Gaurs Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Gaurs Group",
+      "value": "702-0-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Gaurs Group",
+      "sameAs": "https://www.google.com/search?q=Gaurs%20Group",
+      "logo": "https://logo.clearbit.com/gaursgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Gaurs Group Office",
+        "addressLocality": "Ranchi",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "Investment Analysis, Sales Techniques, MS Office, Contract Management, Market Research, Real Estate Law, Portfolio Management, Property Valuation",
+    "responsibilities": "Manage RERA documentation and compliance requirements. Prepare presentations and proposals for institutional clients. Conduct site visits and property presentations for clients. Conduct land acquisition due diligence and feasibility studies. Provide advisory services on property investment and market trends. Coordinate with legal teams for documentation and title verification. Achieve monthly and quarterly sales targets",
+    "benefits": "Comprehensive health insurance for self and family. Professional development and training programs. Recognition and rewards programs. Learning & development budget. Modern office with recreational facilities. Annual performance appraisal",
+    "industry": "realestate",
+    "occupationalCategory": "Real Estate Agent",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, Professional development and training programs, Recognition and rewards programs, Learning & development budget, Modern office with recreational facilities, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "Gaurs Group has an exciting opening for a Real Estate Agent at our Ranchi office. Join a company that values innovation, collaboration, and continuous learning.",
+    "keywords": "Real Estate Agent, Gaurs Group, jobs in Ranchi, Jharkhand jobs, realestate jobs India, Investment Analysis, Sales Techniques, MS Office, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:36:06.949Z",
+  "page": 175
+}
