@@ -1,0 +1,94 @@
+{
+  "slug": "gateway-distriparks-logistics-manager-howrah-2026-05-23-0",
+  "title": "Walk-in Drive Logistics Manager at Gateway Distriparks",
+  "company": "Gateway Distriparks",
+  "industry": "logistics",
+  "role": "Logistics Manager",
+  "location": {
+    "city": "Howrah",
+    "state": "West Bengal",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Route Optimization",
+    "TMS",
+    "3PL Management",
+    "SAP SCM",
+    "ERP Systems",
+    "Last Mile Delivery",
+    "Cold Chain Logistics",
+    "Vendor Management"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Walk-in Drive Logistics Manager at Gateway Distriparks",
+    "description": "Join the Gateway Distriparks family as a Logistics Manager in Howrah. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Gateway Distriparks:\nGateway Distriparks is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Track shipments in real-time and resolve delivery exceptions\n• Optimize delivery routes to reduce cost and improve efficiency\n• Manage a fleet of vehicles and coordinate with drivers\n• Manage relationships with third-party logistics providers\n• Implement cost-saving initiatives in transportation and warehousing\n• Coordinate with customer service teams to resolve delivery issues\n• Oversee end-to-end logistics operations for timely delivery\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 12-20 years of relevant experience\n• Proficiency in Route Optimization\n• Proficiency in TMS\n• Proficiency in 3PL Management\n• Proficiency in SAP SCM\n• Proficiency in ERP Systems\n• Proficiency in Last Mile Delivery\n• Proficiency in Cold Chain Logistics\n• Proficiency in Vendor Management\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Maternity and paternity leave\n• Competitive salary with performance-linked incentives\n• Referral bonus program\n• Comprehensive health insurance for self and family\n• Learning & development budget\n• Flexible working hours\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Howrah, West Bengal, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Gateway Distriparks!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Gateway Distriparks",
+      "value": "787-0-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Gateway Distriparks",
+      "sameAs": "https://www.google.com/search?q=Gateway%20Distriparks",
+      "logo": "https://logo.clearbit.com/gatewaydistriparks.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Gateway Distriparks Office",
+        "addressLocality": "Howrah",
+        "addressRegion": "West Bengal",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Route Optimization, TMS, 3PL Management, SAP SCM, ERP Systems, Last Mile Delivery, Cold Chain Logistics, Vendor Management",
+    "responsibilities": "Track shipments in real-time and resolve delivery exceptions. Optimize delivery routes to reduce cost and improve efficiency. Manage a fleet of vehicles and coordinate with drivers. Manage relationships with third-party logistics providers. Implement cost-saving initiatives in transportation and warehousing. Coordinate with customer service teams to resolve delivery issues. Oversee end-to-end logistics operations for timely delivery",
+    "benefits": "Maternity and paternity leave. Competitive salary with performance-linked incentives. Referral bonus program. Comprehensive health insurance for self and family. Learning & development budget. Flexible working hours",
+    "industry": "logistics",
+    "occupationalCategory": "Logistics Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Maternity and paternity leave, Competitive salary with performance-linked incentives, Referral bonus program, Comprehensive health insurance for self and family, Learning & development budget, Flexible working hours"
+  },
+  "meta": {
+    "description": "Join the Gateway Distriparks family as a Logistics Manager in Howrah. We believe in empowering our employees with the tools, training, and environment they need",
+    "keywords": "Logistics Manager, Gateway Distriparks, jobs in Howrah, West Bengal jobs, logistics jobs India, Route Optimization, TMS, 3PL Management, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:38:37.489Z",
+  "page": 196
+}
