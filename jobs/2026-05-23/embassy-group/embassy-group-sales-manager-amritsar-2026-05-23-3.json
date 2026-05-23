@@ -1,0 +1,93 @@
+{
+  "slug": "embassy-group-sales-manager-amritsar-2026-05-23-3",
+  "title": "Sales Manager Vacancy at Embassy Group - 2026 Batch",
+  "company": "Embassy Group",
+  "industry": "realestate",
+  "role": "Sales Manager",
+  "location": {
+    "city": "Amritsar",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Property Valuation",
+    "Portfolio Management",
+    "Real Estate Law",
+    "Sales Techniques",
+    "Project Management",
+    "RERA Compliance",
+    "Contract Management",
+    "CRM Software"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Sales Manager Vacancy at Embassy Group - 2026 Batch",
+    "description": "Embassy Group has an exciting opening for a Sales Manager at our Amritsar office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Embassy Group:\nEmbassy Group is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Liaise with banks and NBFCs for home loan assistance to customers\n• Provide advisory services on property investment and market trends\n• Manage RERA documentation and compliance requirements\n• Prepare presentations and proposals for institutional clients\n• Conduct land acquisition due diligence and feasibility studies\n• Achieve monthly and quarterly sales targets\n• Conduct site visits and property presentations for clients\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 3-6 years of relevant experience\n• Proficiency in Property Valuation\n• Proficiency in Portfolio Management\n• Proficiency in Real Estate Law\n• Proficiency in Sales Techniques\n• Proficiency in Project Management\n• Proficiency in RERA Compliance\n• Proficiency in Contract Management\n• Proficiency in CRM Software\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Meal coupons and food allowance\n• Competitive salary with performance-linked incentives\n• Recognition and rewards programs\n• Annual paid leaves and casual leaves\n• Flexible working hours\n• Annual performance appraisal\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Amritsar, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Embassy Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Embassy Group",
+      "value": "696-3-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Embassy Group",
+      "sameAs": "https://www.google.com/search?q=Embassy%20Group",
+      "logo": "https://logo.clearbit.com/embassygroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Embassy Group Office",
+        "addressLocality": "Amritsar",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "Property Valuation, Portfolio Management, Real Estate Law, Sales Techniques, Project Management, RERA Compliance, Contract Management, CRM Software",
+    "responsibilities": "Liaise with banks and NBFCs for home loan assistance to customers. Provide advisory services on property investment and market trends. Manage RERA documentation and compliance requirements. Prepare presentations and proposals for institutional clients. Conduct land acquisition due diligence and feasibility studies. Achieve monthly and quarterly sales targets. Conduct site visits and property presentations for clients",
+    "benefits": "Meal coupons and food allowance. Competitive salary with performance-linked incentives. Recognition and rewards programs. Annual paid leaves and casual leaves. Flexible working hours. Annual performance appraisal",
+    "industry": "realestate",
+    "occupationalCategory": "Sales Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Meal coupons and food allowance, Competitive salary with performance-linked incentives, Recognition and rewards programs, Annual paid leaves and casual leaves, Flexible working hours, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "Embassy Group has an exciting opening for a Sales Manager at our Amritsar office. Join a company that values innovation, collaboration, and continuous learning.",
+    "keywords": "Sales Manager, Embassy Group, jobs in Amritsar, Punjab jobs, realestate jobs India, Property Valuation, Portfolio Management, Real Estate Law, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:35:52.305Z",
+  "page": 173
+}
