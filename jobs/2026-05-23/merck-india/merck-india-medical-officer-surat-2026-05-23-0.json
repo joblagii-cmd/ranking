@@ -1,0 +1,94 @@
+{
+  "slug": "merck-india-medical-officer-surat-2026-05-23-0",
+  "title": "Now Hiring Medical Officer at Merck India",
+  "company": "Merck India",
+  "industry": "healthcare",
+  "role": "Medical Officer",
+  "location": {
+    "city": "Surat",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Diagnostic Skills",
+    "ICD-10",
+    "Medical Coding",
+    "Infection Control",
+    "Health Informatics",
+    "NABH Standards",
+    "EMR/EHR",
+    "Clinical Documentation"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Now Hiring Medical Officer at Merck India",
+    "description": "Merck India has an exciting opening for a Medical Officer at our Surat office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Merck India:\nMerck India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Respond to medical emergencies and provide immediate care\n• Attend continuing medical education programs and training\n• Collaborate with pharmaceutical representatives and medical suppliers\n• Conduct routine health assessments and screenings\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Administer medications and treatments as prescribed\n• Diagnose and treat medical conditions following established protocols\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 0-1 years of relevant experience\n• Proficiency in Diagnostic Skills\n• Proficiency in ICD-10\n• Proficiency in Medical Coding\n• Proficiency in Infection Control\n• Proficiency in Health Informatics\n• Proficiency in NABH Standards\n• Proficiency in EMR/EHR\n• Proficiency in Clinical Documentation\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Meal coupons and food allowance\n• International travel opportunities for senior roles\n• Employee stock options (ESOPs) for eligible roles\n• Work-from-home flexibility\n• Mobile and internet reimbursement\n• Comprehensive health insurance for self and family\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Surat, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Merck India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Merck India",
+      "value": "244-0-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Merck India",
+      "sameAs": "https://www.google.com/search?q=Merck%20India",
+      "logo": "https://logo.clearbit.com/merckindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Merck India Office",
+        "addressLocality": "Surat",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "Diagnostic Skills, ICD-10, Medical Coding, Infection Control, Health Informatics, NABH Standards, EMR/EHR, Clinical Documentation",
+    "responsibilities": "Respond to medical emergencies and provide immediate care. Attend continuing medical education programs and training. Collaborate with pharmaceutical representatives and medical suppliers. Conduct routine health assessments and screenings. Coordinate with multidisciplinary teams for comprehensive patient management. Administer medications and treatments as prescribed. Diagnose and treat medical conditions following established protocols",
+    "benefits": "Meal coupons and food allowance. International travel opportunities for senior roles. Employee stock options (ESOPs) for eligible roles. Work-from-home flexibility. Mobile and internet reimbursement. Comprehensive health insurance for self and family",
+    "industry": "healthcare",
+    "occupationalCategory": "Medical Officer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Meal coupons and food allowance, International travel opportunities for senior roles, Employee stock options (ESOPs) for eligible roles, Work-from-home flexibility, Mobile and internet reimbursement, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "Merck India has an exciting opening for a Medical Officer at our Surat office. Join a company that values innovation, collaboration, and continuous learning.",
+    "keywords": "Medical Officer, Merck India, jobs in Surat, Gujarat jobs, healthcare jobs India, Diagnostic Skills, ICD-10, Medical Coding, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:22:10.795Z",
+  "page": 60
+}
