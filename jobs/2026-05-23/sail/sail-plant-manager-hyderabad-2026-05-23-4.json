@@ -1,0 +1,93 @@
+{
+  "slug": "sail-plant-manager-hyderabad-2026-05-23-4",
+  "title": "Mid-Level Plant Manager at SAIL",
+  "company": "SAIL",
+  "industry": "manufacturing",
+  "role": "Plant Manager",
+  "location": {
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "PPAP",
+    "GD&T",
+    "TPM",
+    "APQP",
+    "AutoCAD",
+    "Project Management",
+    "SolidWorks",
+    "ISO 9001"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Plant Manager at SAIL",
+    "description": "If you're a passionate Plant Manager with drive and ambition, SAIL in Hyderabad is the place for you. We're growing fast and need talented people to grow with us.\n\nAbout SAIL:\nSAIL is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Monitor equipment performance and coordinate preventive maintenance\n• Train and supervise shop floor workers and supervisors\n• Manage supplier quality audits and vendor development\n• Coordinate with logistics for dispatching finished goods\n• Implement lean manufacturing and continuous improvement initiatives\n• Oversee daily production operations to meet output targets\n• Prepare production cost analysis and efficiency reports\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 3-6 years of relevant experience\n• Proficiency in PPAP\n• Proficiency in GD&T\n• Proficiency in TPM\n• Proficiency in APQP\n• Proficiency in AutoCAD\n• Proficiency in Project Management\n• Proficiency in SolidWorks\n• Proficiency in ISO 9001\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Life and accident insurance\n• Mobile and internet reimbursement\n• Meal coupons and food allowance\n• Employee stock options (ESOPs) for eligible roles\n• Annual performance appraisal\n• Learning & development budget\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Hyderabad, Telangana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with SAIL!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "SAIL",
+      "value": "398-4-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "SAIL",
+      "sameAs": "https://www.google.com/search?q=SAIL",
+      "logo": "https://logo.clearbit.com/sail.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "SAIL Office",
+        "addressLocality": "Hyderabad",
+        "addressRegion": "Telangana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "PPAP, GD&T, TPM, APQP, AutoCAD, Project Management, SolidWorks, ISO 9001",
+    "responsibilities": "Monitor equipment performance and coordinate preventive maintenance. Train and supervise shop floor workers and supervisors. Manage supplier quality audits and vendor development. Coordinate with logistics for dispatching finished goods. Implement lean manufacturing and continuous improvement initiatives. Oversee daily production operations to meet output targets. Prepare production cost analysis and efficiency reports",
+    "benefits": "Life and accident insurance. Mobile and internet reimbursement. Meal coupons and food allowance. Employee stock options (ESOPs) for eligible roles. Annual performance appraisal. Learning & development budget",
+    "industry": "manufacturing",
+    "occupationalCategory": "Plant Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Mobile and internet reimbursement, Meal coupons and food allowance, Employee stock options (ESOPs) for eligible roles, Annual performance appraisal, Learning & development budget"
+  },
+  "meta": {
+    "description": "If you're a passionate Plant Manager with drive and ambition, SAIL in Hyderabad is the place for you. We're growing fast and need talented people to grow with u",
+    "keywords": "Plant Manager, SAIL, jobs in Hyderabad, Telangana jobs, manufacturing jobs India, PPAP, GD&T, TPM, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:26:59.996Z",
+  "page": 99
+}

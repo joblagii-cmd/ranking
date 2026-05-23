@@ -1,0 +1,93 @@
+{
+  "slug": "jsw-steel-plant-manager-bengaluru-2026-05-23-4",
+  "title": "Mid-Level Plant Manager at JSW Steel",
+  "company": "JSW Steel",
+  "industry": "manufacturing",
+  "role": "Plant Manager",
+  "location": {
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Six Sigma",
+    "Lean Manufacturing",
+    "Project Management",
+    "APQP",
+    "Supply Chain Management",
+    "Root Cause Analysis",
+    "TPM",
+    "SAP MM/PP"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Plant Manager at JSW Steel",
+    "description": "If you're a passionate Plant Manager with drive and ambition, JSW Steel in Bengaluru is the place for you. We're growing fast and need talented people to grow with us.\n\nAbout JSW Steel:\nJSW Steel is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Oversee daily production operations to meet output targets\n• Ensure product quality meets internal and customer specifications\n• Manage supplier quality audits and vendor development\n• Implement lean manufacturing and continuous improvement initiatives\n• Monitor equipment performance and coordinate preventive maintenance\n• Implement 5S, Kaizen, and Six Sigma practices on the shop floor\n• Coordinate with design and engineering teams on product improvements\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 6-10 years of relevant experience\n• Proficiency in Six Sigma\n• Proficiency in Lean Manufacturing\n• Proficiency in Project Management\n• Proficiency in APQP\n• Proficiency in Supply Chain Management\n• Proficiency in Root Cause Analysis\n• Proficiency in TPM\n• Proficiency in SAP MM/PP\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Learning & development budget\n• Competitive salary with performance-linked incentives\n• Meal coupons and food allowance\n• Comprehensive health insurance for self and family\n• Professional development and training programs\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Bengaluru, Karnataka, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with JSW Steel!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "JSW Steel",
+      "value": "397-4-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "JSW Steel",
+      "sameAs": "https://www.google.com/search?q=JSW%20Steel",
+      "logo": "https://logo.clearbit.com/jswsteel.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "JSW Steel Office",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "Six Sigma, Lean Manufacturing, Project Management, APQP, Supply Chain Management, Root Cause Analysis, TPM, SAP MM/PP",
+    "responsibilities": "Oversee daily production operations to meet output targets. Ensure product quality meets internal and customer specifications. Manage supplier quality audits and vendor development. Implement lean manufacturing and continuous improvement initiatives. Monitor equipment performance and coordinate preventive maintenance. Implement 5S, Kaizen, and Six Sigma practices on the shop floor. Coordinate with design and engineering teams on product improvements",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Learning & development budget. Competitive salary with performance-linked incentives. Meal coupons and food allowance. Comprehensive health insurance for self and family. Professional development and training programs",
+    "industry": "manufacturing",
+    "occupationalCategory": "Plant Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Learning & development budget, Competitive salary with performance-linked incentives, Meal coupons and food allowance, Comprehensive health insurance for self and family, Professional development and training programs"
+  },
+  "meta": {
+    "description": "If you're a passionate Plant Manager with drive and ambition, JSW Steel in Bengaluru is the place for you. We're growing fast and need talented people to grow w",
+    "keywords": "Plant Manager, JSW Steel, jobs in Bengaluru, Karnataka jobs, manufacturing jobs India, Six Sigma, Lean Manufacturing, Project Management, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:26:59.996Z",
+  "page": 99
+}
