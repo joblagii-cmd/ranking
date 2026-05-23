@@ -1,0 +1,93 @@
+{
+  "slug": "nabard-credit-analyst-howrah-2026-05-23-2",
+  "title": "NABARD is Hiring: Credit Analyst (Lead)",
+  "company": "NABARD",
+  "industry": "finance",
+  "role": "Credit Analyst",
+  "location": {
+    "city": "Howrah",
+    "state": "West Bengal",
+    "region": "Eastern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Income Tax",
+    "Credit Analysis",
+    "IFRS",
+    "SQL",
+    "Financial Modeling",
+    "VBA",
+    "Bloomberg Terminal",
+    "Financial Reporting"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "NABARD is Hiring: Credit Analyst (Lead)",
+    "description": "We at NABARD are looking for an experienced Credit Analyst based out of Howrah. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout NABARD:\nNABARD is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Prepare MIS reports for senior management review\n• Maintain general ledger and ensure accurate bookkeeping\n• Monitor market trends and provide investment recommendations\n• Manage credit risk assessment and loan appraisal processes\n• Liaise with banks, regulators, and financial institutions\n• Implement and maintain internal controls and audit procedures\n• Prepare and analyze financial statements, reports, and budgets\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 3-6 years of relevant experience\n• Proficiency in Income Tax\n• Proficiency in Credit Analysis\n• Proficiency in IFRS\n• Proficiency in SQL\n• Proficiency in Financial Modeling\n• Proficiency in VBA\n• Proficiency in Bloomberg Terminal\n• Proficiency in Financial Reporting\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Referral bonus program\n• Competitive salary with performance-linked incentives\n• International travel opportunities for senior roles\n• Comprehensive health insurance for self and family\n• Mobile and internet reimbursement\n• Learning & development budget\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Howrah, West Bengal, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with NABARD!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "NABARD",
+      "value": "203-2-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "NABARD",
+      "sameAs": "https://www.google.com/search?q=NABARD",
+      "logo": "https://logo.clearbit.com/nabard.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "NABARD Office",
+        "addressLocality": "Howrah",
+        "addressRegion": "West Bengal",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "Income Tax, Credit Analysis, IFRS, SQL, Financial Modeling, VBA, Bloomberg Terminal, Financial Reporting",
+    "responsibilities": "Prepare MIS reports for senior management review. Maintain general ledger and ensure accurate bookkeeping. Monitor market trends and provide investment recommendations. Manage credit risk assessment and loan appraisal processes. Liaise with banks, regulators, and financial institutions. Implement and maintain internal controls and audit procedures. Prepare and analyze financial statements, reports, and budgets",
+    "benefits": "Referral bonus program. Competitive salary with performance-linked incentives. International travel opportunities for senior roles. Comprehensive health insurance for self and family. Mobile and internet reimbursement. Learning & development budget",
+    "industry": "finance",
+    "occupationalCategory": "Credit Analyst",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Referral bonus program, Competitive salary with performance-linked incentives, International travel opportunities for senior roles, Comprehensive health insurance for self and family, Mobile and internet reimbursement, Learning & development budget"
+  },
+  "meta": {
+    "description": "We at NABARD are looking for an experienced Credit Analyst based out of Howrah. If you are a result-oriented professional with a passion for excellence, we want",
+    "keywords": "Credit Analyst, NABARD, jobs in Howrah, West Bengal jobs, finance jobs India, Income Tax, Credit Analysis, IFRS, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:20:56.375Z",
+  "page": 50
+}
