@@ -1,0 +1,94 @@
+{
+  "slug": "firstcry-category-manager-noida-2026-05-23-0",
+  "title": "Hiring Category Manager at Firstcry",
+  "company": "Firstcry",
+  "industry": "ecommerce",
+  "role": "Category Manager",
+  "location": {
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "WooCommerce",
+    "Content Writing",
+    "MS Excel",
+    "Digital Marketing",
+    "Product Management",
+    "Magento",
+    "Supply Chain",
+    "Influencer Marketing"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Hiring Category Manager at Firstcry",
+    "description": "An exciting career opportunity awaits you at Firstcry. We are on the lookout for a dedicated Category Manager to strengthen our Noida-based team.\n\nAbout Firstcry:\nFirstcry is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Execute digital marketing campaigns across Google, Meta, and other channels\n• Coordinate with vendors and suppliers for inventory management\n• Manage email marketing campaigns and push notifications\n• Build and maintain affiliate and influencer marketing programs\n• Collaborate with logistics partners to ensure timely delivery\n• Analyze sales data and customer behavior to drive revenue growth\n• Develop and implement category growth strategies\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 3-6 years of relevant experience\n• Proficiency in WooCommerce\n• Proficiency in Content Writing\n• Proficiency in MS Excel\n• Proficiency in Digital Marketing\n• Proficiency in Product Management\n• Proficiency in Magento\n• Proficiency in Supply Chain\n• Proficiency in Influencer Marketing\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Meal coupons and food allowance\n• Annual paid leaves and casual leaves\n• Recognition and rewards programs\n• Company-sponsored certifications\n• Flexible working hours\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Noida, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Firstcry!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Firstcry",
+      "value": "306-0-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Firstcry",
+      "sameAs": "https://www.google.com/search?q=Firstcry",
+      "logo": "https://logo.clearbit.com/firstcry.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Firstcry Office",
+        "addressLocality": "Noida",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "WooCommerce, Content Writing, MS Excel, Digital Marketing, Product Management, Magento, Supply Chain, Influencer Marketing",
+    "responsibilities": "Execute digital marketing campaigns across Google, Meta, and other channels. Coordinate with vendors and suppliers for inventory management. Manage email marketing campaigns and push notifications. Build and maintain affiliate and influencer marketing programs. Collaborate with logistics partners to ensure timely delivery. Analyze sales data and customer behavior to drive revenue growth. Develop and implement category growth strategies",
+    "benefits": "Meal coupons and food allowance. Annual paid leaves and casual leaves. Recognition and rewards programs. Company-sponsored certifications. Flexible working hours. Employee stock options (ESOPs) for eligible roles",
+    "industry": "ecommerce",
+    "occupationalCategory": "Category Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Meal coupons and food allowance, Annual paid leaves and casual leaves, Recognition and rewards programs, Company-sponsored certifications, Flexible working hours, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Firstcry. We are on the lookout for a dedicated Category Manager to strengthen our Noida-based team.",
+    "keywords": "Category Manager, Firstcry, jobs in Noida, Uttar Pradesh jobs, ecommerce jobs India, WooCommerce, Content Writing, MS Excel, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:24:09.849Z",
+  "page": 76
+}
