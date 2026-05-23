@@ -1,0 +1,94 @@
+{
+  "slug": "persistent-systems-backend-developer-navi mumbai-2026-05-23-3",
+  "title": "Backend Developer Vacancy at Persistent Systems - 2026 Batch",
+  "company": "Persistent Systems",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Rust",
+    "Docker",
+    "TypeScript",
+    "Machine Learning",
+    "Node.js",
+    "Agile/Scrum",
+    "CI/CD",
+    "Microservices"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Persistent Systems - 2026 Batch",
+    "description": "Persistent Systems, one of India's leading organizations, is hiring a Backend Developer for our Navi Mumbai operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Persistent Systems:\nPersistent Systems is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Write clean, maintainable, and well-documented code\n• Write and execute unit tests and integration tests\n• Ensure code security and follow best practices for data protection\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Implement new features based on product requirements\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 6-10 years of relevant experience\n• Proficiency in Rust\n• Proficiency in Docker\n• Proficiency in TypeScript\n• Proficiency in Machine Learning\n• Proficiency in Node.js\n• Proficiency in Agile/Scrum\n• Proficiency in CI/CD\n• Proficiency in Microservices\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Flexible working hours\n• Comprehensive health insurance for self and family\n• International travel opportunities for senior roles\n• Transportation and conveyance allowance\n• Employee stock options (ESOPs) for eligible roles\n• Annual performance appraisal\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Navi Mumbai, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Persistent Systems!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Persistent Systems",
+      "value": "31-3-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Persistent Systems",
+      "sameAs": "https://www.google.com/search?q=Persistent%20Systems",
+      "logo": "https://logo.clearbit.com/persistentsystems.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Persistent Systems Office",
+        "addressLocality": "Navi Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "Rust, Docker, TypeScript, Machine Learning, Node.js, Agile/Scrum, CI/CD, Microservices",
+    "responsibilities": "Design, develop and maintain scalable software applications. Write clean, maintainable, and well-documented code. Write and execute unit tests and integration tests. Ensure code security and follow best practices for data protection. Work with agile methodologies including daily stand-ups and sprint planning. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Implement new features based on product requirements",
+    "benefits": "Flexible working hours. Comprehensive health insurance for self and family. International travel opportunities for senior roles. Transportation and conveyance allowance. Employee stock options (ESOPs) for eligible roles. Annual performance appraisal",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, Comprehensive health insurance for self and family, International travel opportunities for senior roles, Transportation and conveyance allowance, Employee stock options (ESOPs) for eligible roles, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "Persistent Systems, one of India's leading organizations, is hiring a Backend Developer for our Navi Mumbai operations. We offer a competitive salary package al",
+    "keywords": "Backend Developer, Persistent Systems, jobs in Navi Mumbai, Maharashtra jobs, technology jobs India, Rust, Docker, TypeScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:15:35.532Z",
+  "page": 7
+}

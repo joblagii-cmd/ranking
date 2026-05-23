@@ -1,0 +1,93 @@
+{
+  "slug": "niit-technologies-full-stack-developer-amritsar-2026-05-23-2",
+  "title": "NIIT Technologies is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "NIIT Technologies",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Amritsar",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Rust",
+    "Microservices",
+    "React",
+    "REST APIs",
+    "JavaScript",
+    "CI/CD",
+    "MongoDB",
+    "Java"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "NIIT Technologies is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "Are you a skilled Full Stack Developer looking for your next big career move? NIIT Technologies in Amritsar offers you the perfect platform to grow professionally and personally.\n\nAbout NIIT Technologies:\nNIIT Technologies is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Integrate third-party APIs and services\n• Collaborate with cross-functional teams including product, design, and QA\n• Optimize application performance and ensure high availability\n• Participate in code reviews and contribute to technical discussions\n• Write and execute unit tests and integration tests\n• Implement new features based on product requirements\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 12-20 years of relevant experience\n• Proficiency in Rust\n• Proficiency in Microservices\n• Proficiency in React\n• Proficiency in REST APIs\n• Proficiency in JavaScript\n• Proficiency in CI/CD\n• Proficiency in MongoDB\n• Proficiency in Java\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Annual performance appraisal\n• Referral bonus program\n• Modern office with recreational facilities\n• Comprehensive health insurance for self and family\n• Learning & development budget\n• Annual paid leaves and casual leaves\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Amritsar, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with NIIT Technologies!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "NIIT Technologies",
+      "value": "30-2-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "NIIT Technologies",
+      "sameAs": "https://www.google.com/search?q=NIIT%20Technologies",
+      "logo": "https://logo.clearbit.com/niittechnologies.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "NIIT Technologies Office",
+        "addressLocality": "Amritsar",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "Rust, Microservices, React, REST APIs, JavaScript, CI/CD, MongoDB, Java",
+    "responsibilities": "Troubleshoot, debug, and resolve software defects and performance issues. Integrate third-party APIs and services. Collaborate with cross-functional teams including product, design, and QA. Optimize application performance and ensure high availability. Participate in code reviews and contribute to technical discussions. Write and execute unit tests and integration tests. Implement new features based on product requirements",
+    "benefits": "Annual performance appraisal. Referral bonus program. Modern office with recreational facilities. Comprehensive health insurance for self and family. Learning & development budget. Annual paid leaves and casual leaves",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual performance appraisal, Referral bonus program, Modern office with recreational facilities, Comprehensive health insurance for self and family, Learning & development budget, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "Are you a skilled Full Stack Developer looking for your next big career move? NIIT Technologies in Amritsar offers you the perfect platform to grow professional",
+    "keywords": "Full Stack Developer, NIIT Technologies, jobs in Amritsar, Punjab jobs, technology jobs India, Rust, Microservices, React, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:15:35.531Z",
+  "page": 7
+}
