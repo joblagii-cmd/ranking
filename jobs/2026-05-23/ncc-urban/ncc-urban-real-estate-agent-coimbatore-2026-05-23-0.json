@@ -1,0 +1,93 @@
+{
+  "slug": "ncc-urban-real-estate-agent-coimbatore-2026-05-23-0",
+  "title": "Looking for Real Estate Agent at NCC Urban",
+  "company": "NCC Urban",
+  "industry": "realestate",
+  "role": "Real Estate Agent",
+  "location": {
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Property Management",
+    "RERA Compliance",
+    "MS Office",
+    "Negotiation Skills",
+    "Portfolio Management",
+    "Real Estate Law",
+    "Contract Management",
+    "Due Diligence"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Looking for Real Estate Agent at NCC Urban",
+    "description": "NCC Urban has an exciting opening for a Real Estate Agent at our Coimbatore office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout NCC Urban:\nNCC Urban is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Negotiate pricing, terms, and conditions on behalf of clients\n• Manage relationships with existing customers post-purchase\n• Coordinate with legal teams for documentation and title verification\n• Build relationships with channel partners and brokers\n• Conduct market research and provide competitive analysis\n• Liaise with banks and NBFCs for home loan assistance to customers\n• Achieve monthly and quarterly sales targets\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 0-1 years of relevant experience\n• Proficiency in Property Management\n• Proficiency in RERA Compliance\n• Proficiency in MS Office\n• Proficiency in Negotiation Skills\n• Proficiency in Portfolio Management\n• Proficiency in Real Estate Law\n• Proficiency in Contract Management\n• Proficiency in Due Diligence\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Provident Fund and Gratuity as per company policy\n• Modern office with recreational facilities\n• Comprehensive health insurance for self and family\n• International travel opportunities for senior roles\n• Referral bonus program\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Coimbatore, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with NCC Urban!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "NCC Urban",
+      "value": "706-0-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "NCC Urban",
+      "sameAs": "https://www.google.com/search?q=NCC%20Urban",
+      "logo": "https://logo.clearbit.com/nccurban.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "NCC Urban Office",
+        "addressLocality": "Coimbatore",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "Property Management, RERA Compliance, MS Office, Negotiation Skills, Portfolio Management, Real Estate Law, Contract Management, Due Diligence",
+    "responsibilities": "Negotiate pricing, terms, and conditions on behalf of clients. Manage relationships with existing customers post-purchase. Coordinate with legal teams for documentation and title verification. Build relationships with channel partners and brokers. Conduct market research and provide competitive analysis. Liaise with banks and NBFCs for home loan assistance to customers. Achieve monthly and quarterly sales targets",
+    "benefits": "Annual paid leaves and casual leaves. Provident Fund and Gratuity as per company policy. Modern office with recreational facilities. Comprehensive health insurance for self and family. International travel opportunities for senior roles. Referral bonus program",
+    "industry": "realestate",
+    "occupationalCategory": "Real Estate Agent",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Provident Fund and Gratuity as per company policy, Modern office with recreational facilities, Comprehensive health insurance for self and family, International travel opportunities for senior roles, Referral bonus program"
+  },
+  "meta": {
+    "description": "NCC Urban has an exciting opening for a Real Estate Agent at our Coimbatore office. Join a company that values innovation, collaboration, and continuous learnin",
+    "keywords": "Real Estate Agent, NCC Urban, jobs in Coimbatore, Tamil Nadu jobs, realestate jobs India, Property Management, RERA Compliance, MS Office, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:36:14.361Z",
+  "page": 176
+}

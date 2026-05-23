@@ -1,0 +1,93 @@
+{
+  "slug": "ncc-urban-sales-manager-jabalpur-2026-05-23-3",
+  "title": "Sales Manager Vacancy at NCC Urban - 2026 Batch",
+  "company": "NCC Urban",
+  "industry": "realestate",
+  "role": "Sales Manager",
+  "location": {
+    "city": "Jabalpur",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Project Management",
+    "Due Diligence",
+    "Client Relationship Management",
+    "CRM Software",
+    "RERA Compliance",
+    "Title Search",
+    "Lease Administration",
+    "MS Office"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Sales Manager Vacancy at NCC Urban - 2026 Batch",
+    "description": "NCC Urban has an exciting opening for a Sales Manager at our Jabalpur office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout NCC Urban:\nNCC Urban is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Manage relationships with existing customers post-purchase\n• Provide advisory services on property investment and market trends\n• Negotiate pricing, terms, and conditions on behalf of clients\n• Achieve monthly and quarterly sales targets\n• Build relationships with channel partners and brokers\n• Conduct site visits and property presentations for clients\n• Manage RERA documentation and compliance requirements\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 6-10 years of relevant experience\n• Proficiency in Project Management\n• Proficiency in Due Diligence\n• Proficiency in Client Relationship Management\n• Proficiency in CRM Software\n• Proficiency in RERA Compliance\n• Proficiency in Title Search\n• Proficiency in Lease Administration\n• Proficiency in MS Office\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Annual performance appraisal\n• Comprehensive health insurance for self and family\n• International travel opportunities for senior roles\n• Employee stock options (ESOPs) for eligible roles\n• Learning & development budget\n• Transportation and conveyance allowance\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Jabalpur, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with NCC Urban!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "NCC Urban",
+      "value": "706-3-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "NCC Urban",
+      "sameAs": "https://www.google.com/search?q=NCC%20Urban",
+      "logo": "https://logo.clearbit.com/nccurban.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "NCC Urban Office",
+        "addressLocality": "Jabalpur",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "Project Management, Due Diligence, Client Relationship Management, CRM Software, RERA Compliance, Title Search, Lease Administration, MS Office",
+    "responsibilities": "Manage relationships with existing customers post-purchase. Provide advisory services on property investment and market trends. Negotiate pricing, terms, and conditions on behalf of clients. Achieve monthly and quarterly sales targets. Build relationships with channel partners and brokers. Conduct site visits and property presentations for clients. Manage RERA documentation and compliance requirements",
+    "benefits": "Annual performance appraisal. Comprehensive health insurance for self and family. International travel opportunities for senior roles. Employee stock options (ESOPs) for eligible roles. Learning & development budget. Transportation and conveyance allowance",
+    "industry": "realestate",
+    "occupationalCategory": "Sales Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual performance appraisal, Comprehensive health insurance for self and family, International travel opportunities for senior roles, Employee stock options (ESOPs) for eligible roles, Learning & development budget, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "NCC Urban has an exciting opening for a Sales Manager at our Jabalpur office. Join a company that values innovation, collaboration, and continuous learning.",
+    "keywords": "Sales Manager, NCC Urban, jobs in Jabalpur, Madhya Pradesh jobs, realestate jobs India, Project Management, Due Diligence, Client Relationship Management, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:36:14.361Z",
+  "page": 176
+}

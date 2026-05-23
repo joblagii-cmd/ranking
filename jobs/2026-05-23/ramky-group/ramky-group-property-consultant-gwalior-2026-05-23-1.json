@@ -1,0 +1,93 @@
+{
+  "slug": "ramky-group-property-consultant-gwalior-2026-05-23-1",
+  "title": "Property Consultant - Ramky Group - Immediate Joiners Preferred",
+  "company": "Ramky Group",
+  "industry": "realestate",
+  "role": "Property Consultant",
+  "location": {
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "CRM Software",
+    "Property Valuation",
+    "MS Office",
+    "Title Search",
+    "Portfolio Management",
+    "GIS Tools",
+    "Due Diligence",
+    "Lease Administration"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Property Consultant - Ramky Group - Immediate Joiners Preferred",
+    "description": "Ramky Group has an exciting opening for a Property Consultant at our Gwalior office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Ramky Group:\nRamky Group is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Negotiate pricing, terms, and conditions on behalf of clients\n• Manage RERA documentation and compliance requirements\n• Conduct site visits and property presentations for clients\n• Liaise with banks and NBFCs for home loan assistance to customers\n• Coordinate with legal teams for documentation and title verification\n• Maintain a pipeline of qualified leads using CRM software\n• Manage relationships with existing customers post-purchase\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 6-10 years of relevant experience\n• Proficiency in CRM Software\n• Proficiency in Property Valuation\n• Proficiency in MS Office\n• Proficiency in Title Search\n• Proficiency in Portfolio Management\n• Proficiency in GIS Tools\n• Proficiency in Due Diligence\n• Proficiency in Lease Administration\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Company-sponsored certifications\n• Flexible working hours\n• Annual performance appraisal\n• Competitive salary with performance-linked incentives\n• Work-from-home flexibility\n• Comprehensive health insurance for self and family\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Gwalior, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Ramky Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Ramky Group",
+      "value": "708-1-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Ramky Group",
+      "sameAs": "https://www.google.com/search?q=Ramky%20Group",
+      "logo": "https://logo.clearbit.com/ramkygroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Ramky Group Office",
+        "addressLocality": "Gwalior",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "CRM Software, Property Valuation, MS Office, Title Search, Portfolio Management, GIS Tools, Due Diligence, Lease Administration",
+    "responsibilities": "Negotiate pricing, terms, and conditions on behalf of clients. Manage RERA documentation and compliance requirements. Conduct site visits and property presentations for clients. Liaise with banks and NBFCs for home loan assistance to customers. Coordinate with legal teams for documentation and title verification. Maintain a pipeline of qualified leads using CRM software. Manage relationships with existing customers post-purchase",
+    "benefits": "Company-sponsored certifications. Flexible working hours. Annual performance appraisal. Competitive salary with performance-linked incentives. Work-from-home flexibility. Comprehensive health insurance for self and family",
+    "industry": "realestate",
+    "occupationalCategory": "Property Consultant",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Company-sponsored certifications, Flexible working hours, Annual performance appraisal, Competitive salary with performance-linked incentives, Work-from-home flexibility, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "Ramky Group has an exciting opening for a Property Consultant at our Gwalior office. Join a company that values innovation, collaboration, and continuous learni",
+    "keywords": "Property Consultant, Ramky Group, jobs in Gwalior, Madhya Pradesh jobs, realestate jobs India, CRM Software, Property Valuation, MS Office, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:36:14.361Z",
+  "page": 176
+}
