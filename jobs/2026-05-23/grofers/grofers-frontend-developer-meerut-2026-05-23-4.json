@@ -1,0 +1,94 @@
+{
+  "slug": "grofers-frontend-developer-meerut-2026-05-23-4",
+  "title": "Senior Frontend Developer at Grofers",
+  "company": "Grofers",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "React",
+    "Java",
+    "Kubernetes",
+    "Node.js",
+    "AWS",
+    "Python",
+    "Microservices",
+    "Go"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Frontend Developer at Grofers",
+    "description": "Grofers invites applications from qualified candidates for the position of Frontend Developer at our Meerut location. This role offers excellent career advancement prospects.\n\nAbout Grofers:\nGrofers is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in code reviews and contribute to technical discussions\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Optimize application performance and ensure high availability\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Integrate third-party APIs and services\n• Collaborate with cross-functional teams including product, design, and QA\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 0-1 years of relevant experience\n• Proficiency in React\n• Proficiency in Java\n• Proficiency in Kubernetes\n• Proficiency in Node.js\n• Proficiency in AWS\n• Proficiency in Python\n• Proficiency in Microservices\n• Proficiency in Go\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Modern office with recreational facilities\n• Flexible working hours\n• International travel opportunities for senior roles\n• Learning & development budget\n• Competitive salary with performance-linked incentives\n• Maternity and paternity leave\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Meerut, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Grofers!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Grofers",
+      "value": "102-4-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Grofers",
+      "sameAs": "https://www.google.com/search?q=Grofers",
+      "logo": "https://logo.clearbit.com/grofers.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Grofers Office",
+        "addressLocality": "Meerut",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "React, Java, Kubernetes, Node.js, AWS, Python, Microservices, Go",
+    "responsibilities": "Participate in code reviews and contribute to technical discussions. Mentor junior developers and conduct knowledge-sharing sessions. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Optimize application performance and ensure high availability. Work with agile methodologies including daily stand-ups and sprint planning. Integrate third-party APIs and services. Collaborate with cross-functional teams including product, design, and QA",
+    "benefits": "Modern office with recreational facilities. Flexible working hours. International travel opportunities for senior roles. Learning & development budget. Competitive salary with performance-linked incentives. Maternity and paternity leave",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Modern office with recreational facilities, Flexible working hours, International travel opportunities for senior roles, Learning & development budget, Competitive salary with performance-linked incentives, Maternity and paternity leave"
+  },
+  "meta": {
+    "description": "Grofers invites applications from qualified candidates for the position of Frontend Developer at our Meerut location. This role offers excellent career advancem",
+    "keywords": "Frontend Developer, Grofers, jobs in Meerut, Uttar Pradesh jobs, technology jobs India, React, Java, Kubernetes, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:17:50.479Z",
+  "page": 25
+}
