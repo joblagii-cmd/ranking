@@ -1,0 +1,93 @@
+{
+  "slug": "jones-lang-lasalle-real-estate-agent-lucknow-2026-05-23-0",
+  "title": "Urgent Opening Real Estate Agent at Jones Lang LaSalle",
+  "company": "Jones Lang LaSalle",
+  "industry": "realestate",
+  "role": "Real Estate Agent",
+  "location": {
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Lease Administration",
+    "Title Search",
+    "Sales Techniques",
+    "Financial Modeling",
+    "Investment Analysis",
+    "CRM Software",
+    "Property Management",
+    "Due Diligence"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Urgent Opening Real Estate Agent at Jones Lang LaSalle",
+    "description": "Jones Lang LaSalle, one of India's leading organizations, is hiring a Real Estate Agent for our Lucknow operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Jones Lang LaSalle:\nJones Lang LaSalle is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Achieve monthly and quarterly sales targets\n• Provide advisory services on property investment and market trends\n• Conduct land acquisition due diligence and feasibility studies\n• Maintain a pipeline of qualified leads using CRM software\n• Conduct market research and provide competitive analysis\n• Coordinate with legal teams for documentation and title verification\n• Prepare presentations and proposals for institutional clients\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 6-10 years of relevant experience\n• Proficiency in Lease Administration\n• Proficiency in Title Search\n• Proficiency in Sales Techniques\n• Proficiency in Financial Modeling\n• Proficiency in Investment Analysis\n• Proficiency in CRM Software\n• Proficiency in Property Management\n• Proficiency in Due Diligence\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Meal coupons and food allowance\n• Professional development and training programs\n• Flexible working hours\n• Learning & development budget\n• Referral bonus program\n• Company-sponsored certifications\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Lucknow, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Jones Lang LaSalle!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Jones Lang LaSalle",
+      "value": "746-0-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Jones Lang LaSalle",
+      "sameAs": "https://www.google.com/search?q=Jones%20Lang%20LaSalle",
+      "logo": "https://logo.clearbit.com/joneslanglasalle.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Jones Lang LaSalle Office",
+        "addressLocality": "Lucknow",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "Lease Administration, Title Search, Sales Techniques, Financial Modeling, Investment Analysis, CRM Software, Property Management, Due Diligence",
+    "responsibilities": "Achieve monthly and quarterly sales targets. Provide advisory services on property investment and market trends. Conduct land acquisition due diligence and feasibility studies. Maintain a pipeline of qualified leads using CRM software. Conduct market research and provide competitive analysis. Coordinate with legal teams for documentation and title verification. Prepare presentations and proposals for institutional clients",
+    "benefits": "Meal coupons and food allowance. Professional development and training programs. Flexible working hours. Learning & development budget. Referral bonus program. Company-sponsored certifications",
+    "industry": "realestate",
+    "occupationalCategory": "Real Estate Agent",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Meal coupons and food allowance, Professional development and training programs, Flexible working hours, Learning & development budget, Referral bonus program, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "Jones Lang LaSalle, one of India's leading organizations, is hiring a Real Estate Agent for our Lucknow operations. We offer a competitive salary package along ",
+    "keywords": "Real Estate Agent, Jones Lang LaSalle, jobs in Lucknow, Uttar Pradesh jobs, realestate jobs India, Lease Administration, Title Search, Sales Techniques, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:37:26.423Z",
+  "page": 186
+}

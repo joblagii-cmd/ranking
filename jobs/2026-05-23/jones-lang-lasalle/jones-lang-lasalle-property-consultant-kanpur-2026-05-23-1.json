@@ -1,0 +1,93 @@
+{
+  "slug": "jones-lang-lasalle-property-consultant-kanpur-2026-05-23-1",
+  "title": "Property Consultant - Jones Lang LaSalle - Multiple Openings",
+  "company": "Jones Lang LaSalle",
+  "industry": "realestate",
+  "role": "Property Consultant",
+  "location": {
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "AutoCAD",
+    "MS Office",
+    "CRM Software",
+    "Contract Management",
+    "Due Diligence",
+    "Market Research",
+    "Property Management",
+    "GIS Tools"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Property Consultant - Jones Lang LaSalle - Multiple Openings",
+    "description": "Jones Lang LaSalle, one of India's leading organizations, is hiring a Property Consultant for our Kanpur operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Jones Lang LaSalle:\nJones Lang LaSalle is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Maintain a pipeline of qualified leads using CRM software\n• Prepare presentations and proposals for institutional clients\n• Build relationships with channel partners and brokers\n• Liaise with banks and NBFCs for home loan assistance to customers\n• Source and close property deals with prospective buyers and investors\n• Achieve monthly and quarterly sales targets\n• Manage RERA documentation and compliance requirements\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 3-6 years of relevant experience\n• Proficiency in AutoCAD\n• Proficiency in MS Office\n• Proficiency in CRM Software\n• Proficiency in Contract Management\n• Proficiency in Due Diligence\n• Proficiency in Market Research\n• Proficiency in Property Management\n• Proficiency in GIS Tools\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Life and accident insurance\n• International travel opportunities for senior roles\n• Company-sponsored certifications\n• Learning & development budget\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Kanpur, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Jones Lang LaSalle!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Jones Lang LaSalle",
+      "value": "746-1-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Jones Lang LaSalle",
+      "sameAs": "https://www.google.com/search?q=Jones%20Lang%20LaSalle",
+      "logo": "https://logo.clearbit.com/joneslanglasalle.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Jones Lang LaSalle Office",
+        "addressLocality": "Kanpur",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "AutoCAD, MS Office, CRM Software, Contract Management, Due Diligence, Market Research, Property Management, GIS Tools",
+    "responsibilities": "Maintain a pipeline of qualified leads using CRM software. Prepare presentations and proposals for institutional clients. Build relationships with channel partners and brokers. Liaise with banks and NBFCs for home loan assistance to customers. Source and close property deals with prospective buyers and investors. Achieve monthly and quarterly sales targets. Manage RERA documentation and compliance requirements",
+    "benefits": "Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Life and accident insurance. International travel opportunities for senior roles. Company-sponsored certifications. Learning & development budget",
+    "industry": "realestate",
+    "occupationalCategory": "Property Consultant",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Life and accident insurance, International travel opportunities for senior roles, Company-sponsored certifications, Learning & development budget"
+  },
+  "meta": {
+    "description": "Jones Lang LaSalle, one of India's leading organizations, is hiring a Property Consultant for our Kanpur operations. We offer a competitive salary package along",
+    "keywords": "Property Consultant, Jones Lang LaSalle, jobs in Kanpur, Uttar Pradesh jobs, realestate jobs India, AutoCAD, MS Office, CRM Software, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:37:26.423Z",
+  "page": 186
+}
