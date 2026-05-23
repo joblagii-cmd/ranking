@@ -1,0 +1,94 @@
+{
+  "slug": "cognizant-frontend-developer-pimpri-chinchwad-2026-05-23-4",
+  "title": "Junior Frontend Developer at Cognizant",
+  "company": "Cognizant",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Pimpri-Chinchwad",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "CI/CD",
+    "Kubernetes",
+    "Docker",
+    "JavaScript",
+    "Python",
+    "MongoDB",
+    "Node.js",
+    "TensorFlow"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Junior Frontend Developer at Cognizant",
+    "description": "Are you a skilled Frontend Developer looking for your next big career move? Cognizant in Pimpri-Chinchwad offers you the perfect platform to grow professionally and personally.\n\nAbout Cognizant:\nCognizant is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Implement new features based on product requirements\n• Write and execute unit tests and integration tests\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Collaborate with cross-functional teams including product, design, and QA\n• Ensure code security and follow best practices for data protection\n• Participate in on-call rotation for production support\n• Design, develop and maintain scalable software applications\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 0-1 years of relevant experience\n• Proficiency in CI/CD\n• Proficiency in Kubernetes\n• Proficiency in Docker\n• Proficiency in JavaScript\n• Proficiency in Python\n• Proficiency in MongoDB\n• Proficiency in Node.js\n• Proficiency in TensorFlow\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Flexible working hours\n• Company-sponsored certifications\n• Referral bonus program\n• Competitive salary with performance-linked incentives\n• Maternity and paternity leave\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Pimpri-Chinchwad, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Cognizant!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Cognizant",
+      "value": "6-4-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Cognizant",
+      "sameAs": "https://www.google.com/search?q=Cognizant",
+      "logo": "https://logo.clearbit.com/cognizant.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Cognizant Office",
+        "addressLocality": "Pimpri-Chinchwad",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "CI/CD, Kubernetes, Docker, JavaScript, Python, MongoDB, Node.js, TensorFlow",
+    "responsibilities": "Implement new features based on product requirements. Write and execute unit tests and integration tests. Work with agile methodologies including daily stand-ups and sprint planning. Collaborate with cross-functional teams including product, design, and QA. Ensure code security and follow best practices for data protection. Participate in on-call rotation for production support. Design, develop and maintain scalable software applications",
+    "benefits": "Annual paid leaves and casual leaves. Flexible working hours. Company-sponsored certifications. Referral bonus program. Competitive salary with performance-linked incentives. Maternity and paternity leave",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Flexible working hours, Company-sponsored certifications, Referral bonus program, Competitive salary with performance-linked incentives, Maternity and paternity leave"
+  },
+  "meta": {
+    "description": "Are you a skilled Frontend Developer looking for your next big career move? Cognizant in Pimpri-Chinchwad offers you the perfect platform to grow professionally",
+    "keywords": "Frontend Developer, Cognizant, jobs in Pimpri-Chinchwad, Maharashtra jobs, technology jobs India, CI/CD, Kubernetes, Docker, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:14:49.650Z",
+  "page": 1
+}
