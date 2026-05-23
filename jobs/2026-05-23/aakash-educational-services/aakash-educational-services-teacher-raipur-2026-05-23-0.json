@@ -1,0 +1,93 @@
+{
+  "slug": "aakash-educational-services-teacher-raipur-2026-05-23-0",
+  "title": "Job Opening Teacher at Aakash Educational Services",
+  "company": "Aakash Educational Services",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Raipur",
+    "state": "Chhattisgarh",
+    "region": "Central India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Communication Skills",
+    "Educational Technology",
+    "Pedagogy",
+    "IB Curriculum",
+    "Data Analysis",
+    "E-learning",
+    "Student Assessment",
+    "Content Creation"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Job Opening Teacher at Aakash Educational Services",
+    "description": "An exciting career opportunity awaits you at Aakash Educational Services. We are on the lookout for a dedicated Teacher to strengthen our Raipur-based team.\n\nAbout Aakash Educational Services:\nAakash Educational Services is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with faculty on curriculum development initiatives\n• Maintain student records and prepare progress reports\n• Design formative and summative assessments aligned to learning objectives\n• Conduct parent-teacher meetings and update parents on student performance\n• Conduct doubt-clearing sessions and remedial classes for weak students\n• Develop and deliver engaging lesson plans for students\n• Participate in teacher training and professional development programs\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 3-6 years of relevant experience\n• Proficiency in Communication Skills\n• Proficiency in Educational Technology\n• Proficiency in Pedagogy\n• Proficiency in IB Curriculum\n• Proficiency in Data Analysis\n• Proficiency in E-learning\n• Proficiency in Student Assessment\n• Proficiency in Content Creation\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Life and accident insurance\n• Referral bonus program\n• Maternity and paternity leave\n• Recognition and rewards programs\n• Learning & development budget\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Raipur, Chhattisgarh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Aakash Educational Services!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Aakash Educational Services",
+      "value": "550-0-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Aakash Educational Services",
+      "sameAs": "https://www.google.com/search?q=Aakash%20Educational%20Services",
+      "logo": "https://logo.clearbit.com/aakasheducationalservices.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Aakash Educational Services Office",
+        "addressLocality": "Raipur",
+        "addressRegion": "Chhattisgarh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "Communication Skills, Educational Technology, Pedagogy, IB Curriculum, Data Analysis, E-learning, Student Assessment, Content Creation",
+    "responsibilities": "Collaborate with faculty on curriculum development initiatives. Maintain student records and prepare progress reports. Design formative and summative assessments aligned to learning objectives. Conduct parent-teacher meetings and update parents on student performance. Conduct doubt-clearing sessions and remedial classes for weak students. Develop and deliver engaging lesson plans for students. Participate in teacher training and professional development programs",
+    "benefits": "Competitive salary with performance-linked incentives. Life and accident insurance. Referral bonus program. Maternity and paternity leave. Recognition and rewards programs. Learning & development budget",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Life and accident insurance, Referral bonus program, Maternity and paternity leave, Recognition and rewards programs, Learning & development budget"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Aakash Educational Services. We are on the lookout for a dedicated Teacher to strengthen our Raipur-based team.",
+    "keywords": "Teacher, Aakash Educational Services, jobs in Raipur, Chhattisgarh jobs, education jobs India, Communication Skills, Educational Technology, Pedagogy, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:31:33.446Z",
+  "page": 137
+}
