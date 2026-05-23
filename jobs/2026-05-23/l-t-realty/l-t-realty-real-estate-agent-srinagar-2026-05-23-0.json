@@ -1,0 +1,93 @@
+{
+  "slug": "l-t-realty-real-estate-agent-srinagar-2026-05-23-0",
+  "title": "Looking for Real Estate Agent at L&T Realty",
+  "company": "L&T Realty",
+  "industry": "realestate",
+  "role": "Real Estate Agent",
+  "location": {
+    "city": "Srinagar",
+    "state": "Jammu & Kashmir",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "GIS Tools",
+    "Market Research",
+    "Financial Modeling",
+    "Portfolio Management",
+    "Sales Techniques",
+    "Lease Administration",
+    "Project Management",
+    "RERA Compliance"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Looking for Real Estate Agent at L&T Realty",
+    "description": "L&T Realty has an exciting opening for a Real Estate Agent at our Srinagar office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout L&T Realty:\nL&T Realty is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with legal teams for documentation and title verification\n• Manage relationships with existing customers post-purchase\n• Prepare presentations and proposals for institutional clients\n• Liaise with banks and NBFCs for home loan assistance to customers\n• Maintain a pipeline of qualified leads using CRM software\n• Achieve monthly and quarterly sales targets\n• Negotiate pricing, terms, and conditions on behalf of clients\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 10-15 years of relevant experience\n• Proficiency in GIS Tools\n• Proficiency in Market Research\n• Proficiency in Financial Modeling\n• Proficiency in Portfolio Management\n• Proficiency in Sales Techniques\n• Proficiency in Lease Administration\n• Proficiency in Project Management\n• Proficiency in RERA Compliance\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Life and accident insurance\n• Recognition and rewards programs\n• Referral bonus program\n• Modern office with recreational facilities\n• Annual paid leaves and casual leaves\n• Competitive salary with performance-linked incentives\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Srinagar, Jammu & Kashmir, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with L&T Realty!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "L&T Realty",
+      "value": "692-0-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "L&T Realty",
+      "sameAs": "https://www.google.com/search?q=L%26T%20Realty",
+      "logo": "https://logo.clearbit.com/ltrealty.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "L&T Realty Office",
+        "addressLocality": "Srinagar",
+        "addressRegion": "Jammu & Kashmir",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "GIS Tools, Market Research, Financial Modeling, Portfolio Management, Sales Techniques, Lease Administration, Project Management, RERA Compliance",
+    "responsibilities": "Coordinate with legal teams for documentation and title verification. Manage relationships with existing customers post-purchase. Prepare presentations and proposals for institutional clients. Liaise with banks and NBFCs for home loan assistance to customers. Maintain a pipeline of qualified leads using CRM software. Achieve monthly and quarterly sales targets. Negotiate pricing, terms, and conditions on behalf of clients",
+    "benefits": "Life and accident insurance. Recognition and rewards programs. Referral bonus program. Modern office with recreational facilities. Annual paid leaves and casual leaves. Competitive salary with performance-linked incentives",
+    "industry": "realestate",
+    "occupationalCategory": "Real Estate Agent",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Recognition and rewards programs, Referral bonus program, Modern office with recreational facilities, Annual paid leaves and casual leaves, Competitive salary with performance-linked incentives"
+  },
+  "meta": {
+    "description": "L&T Realty has an exciting opening for a Real Estate Agent at our Srinagar office. Join a company that values innovation, collaboration, and continuous learning",
+    "keywords": "Real Estate Agent, L&T Realty, jobs in Srinagar, Jammu & Kashmir jobs, realestate jobs India, GIS Tools, Market Research, Financial Modeling, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:35:45.171Z",
+  "page": 172
+}

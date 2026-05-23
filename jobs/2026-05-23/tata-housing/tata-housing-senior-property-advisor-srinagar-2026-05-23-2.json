@@ -1,0 +1,93 @@
+{
+  "slug": "tata-housing-senior-property-advisor-srinagar-2026-05-23-2",
+  "title": "Tata Housing is Hiring: Senior Property Advisor (Entry-Level)",
+  "company": "Tata Housing",
+  "industry": "realestate",
+  "role": "Senior Property Advisor",
+  "location": {
+    "city": "Srinagar",
+    "state": "Jammu & Kashmir",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Title Search",
+    "Property Valuation",
+    "Real Estate Law",
+    "AutoCAD",
+    "Lease Administration",
+    "Property Management",
+    "CRM Software",
+    "GIS Tools"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Tata Housing is Hiring: Senior Property Advisor (Entry-Level)",
+    "description": "Tata Housing has an exciting opening for a Senior Property Advisor at our Srinagar office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Tata Housing:\nTata Housing is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Maintain a pipeline of qualified leads using CRM software\n• Manage relationships with existing customers post-purchase\n• Prepare presentations and proposals for institutional clients\n• Coordinate with architects, contractors, and project teams\n• Source and close property deals with prospective buyers and investors\n• Liaise with banks and NBFCs for home loan assistance to customers\n• Coordinate with legal teams for documentation and title verification\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 6-10 years of relevant experience\n• Proficiency in Title Search\n• Proficiency in Property Valuation\n• Proficiency in Real Estate Law\n• Proficiency in AutoCAD\n• Proficiency in Lease Administration\n• Proficiency in Property Management\n• Proficiency in CRM Software\n• Proficiency in GIS Tools\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Competitive salary with performance-linked incentives\n• Work-from-home flexibility\n• Employee stock options (ESOPs) for eligible roles\n• Life and accident insurance\n• Modern office with recreational facilities\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Srinagar, Jammu & Kashmir, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Tata Housing!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Tata Housing",
+      "value": "691-2-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Tata Housing",
+      "sameAs": "https://www.google.com/search?q=Tata%20Housing",
+      "logo": "https://logo.clearbit.com/tatahousing.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Tata Housing Office",
+        "addressLocality": "Srinagar",
+        "addressRegion": "Jammu & Kashmir",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "Title Search, Property Valuation, Real Estate Law, AutoCAD, Lease Administration, Property Management, CRM Software, GIS Tools",
+    "responsibilities": "Maintain a pipeline of qualified leads using CRM software. Manage relationships with existing customers post-purchase. Prepare presentations and proposals for institutional clients. Coordinate with architects, contractors, and project teams. Source and close property deals with prospective buyers and investors. Liaise with banks and NBFCs for home loan assistance to customers. Coordinate with legal teams for documentation and title verification",
+    "benefits": "International travel opportunities for senior roles. Competitive salary with performance-linked incentives. Work-from-home flexibility. Employee stock options (ESOPs) for eligible roles. Life and accident insurance. Modern office with recreational facilities",
+    "industry": "realestate",
+    "occupationalCategory": "Senior Property Advisor",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Competitive salary with performance-linked incentives, Work-from-home flexibility, Employee stock options (ESOPs) for eligible roles, Life and accident insurance, Modern office with recreational facilities"
+  },
+  "meta": {
+    "description": "Tata Housing has an exciting opening for a Senior Property Advisor at our Srinagar office. Join a company that values innovation, collaboration, and continuous ",
+    "keywords": "Senior Property Advisor, Tata Housing, jobs in Srinagar, Jammu & Kashmir jobs, realestate jobs India, Title Search, Property Valuation, Real Estate Law, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:35:45.171Z",
+  "page": 172
+}
