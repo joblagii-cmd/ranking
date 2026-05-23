@@ -1,0 +1,93 @@
+{
+  "slug": "vedantu-teacher-kanpur-2026-05-23-0",
+  "title": "Vacancy for Teacher at Vedantu",
+  "company": "Vedantu",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Curriculum Development",
+    "IB Curriculum",
+    "Mentoring",
+    "Data Analysis",
+    "CBSE/ICSE Standards",
+    "Content Creation",
+    "Bloom's Taxonomy",
+    "Research Skills"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Vacancy for Teacher at Vedantu",
+    "description": "Are you a skilled Teacher looking for your next big career move? Vedantu in Kanpur offers you the perfect platform to grow professionally and personally.\n\nAbout Vedantu:\nVedantu is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Monitor student progress and provide timely feedback\n• Maintain student records and prepare progress reports\n• Develop and deliver engaging lesson plans for students\n• Maintain classroom discipline and create a positive learning environment\n• Collaborate with faculty on curriculum development initiatives\n• Support students with special educational needs\n• Utilize technology and digital tools to enhance learning outcomes\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 1-3 years of relevant experience\n• Proficiency in Curriculum Development\n• Proficiency in IB Curriculum\n• Proficiency in Mentoring\n• Proficiency in Data Analysis\n• Proficiency in CBSE/ICSE Standards\n• Proficiency in Content Creation\n• Proficiency in Bloom's Taxonomy\n• Proficiency in Research Skills\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• Company-sponsored certifications\n• Annual paid leaves and casual leaves\n• International travel opportunities for senior roles\n• Work-from-home flexibility\n• Mobile and internet reimbursement\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Kanpur, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Vedantu!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Vedantu",
+      "value": "498-0-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Vedantu",
+      "sameAs": "https://www.google.com/search?q=Vedantu",
+      "logo": "https://logo.clearbit.com/vedantu.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Vedantu Office",
+        "addressLocality": "Kanpur",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "Curriculum Development, IB Curriculum, Mentoring, Data Analysis, CBSE/ICSE Standards, Content Creation, Bloom's Taxonomy, Research Skills",
+    "responsibilities": "Monitor student progress and provide timely feedback. Maintain student records and prepare progress reports. Develop and deliver engaging lesson plans for students. Maintain classroom discipline and create a positive learning environment. Collaborate with faculty on curriculum development initiatives. Support students with special educational needs. Utilize technology and digital tools to enhance learning outcomes",
+    "benefits": "Comprehensive health insurance for self and family. Company-sponsored certifications. Annual paid leaves and casual leaves. International travel opportunities for senior roles. Work-from-home flexibility. Mobile and internet reimbursement",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, Company-sponsored certifications, Annual paid leaves and casual leaves, International travel opportunities for senior roles, Work-from-home flexibility, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "Are you a skilled Teacher looking for your next big career move? Vedantu in Kanpur offers you the perfect platform to grow professionally and personally.",
+    "keywords": "Teacher, Vedantu, jobs in Kanpur, Uttar Pradesh jobs, education jobs India, Curriculum Development, IB Curriculum, Mentoring, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:29:59.198Z",
+  "page": 124
+}
