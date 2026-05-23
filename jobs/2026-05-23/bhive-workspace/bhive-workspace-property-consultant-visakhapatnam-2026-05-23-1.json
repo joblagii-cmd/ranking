@@ -1,0 +1,93 @@
+{
+  "slug": "bhive-workspace-property-consultant-visakhapatnam-2026-05-23-1",
+  "title": "Property Consultant - BHIVE Workspace - Freshers Welcome",
+  "company": "BHIVE Workspace",
+  "industry": "realestate",
+  "role": "Property Consultant",
+  "location": {
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Lease Administration",
+    "MS Office",
+    "Financial Modeling",
+    "GIS Tools",
+    "Real Estate Law",
+    "Contract Management",
+    "Portfolio Management",
+    "Negotiation Skills"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Property Consultant - BHIVE Workspace - Freshers Welcome",
+    "description": "BHIVE Workspace, one of India's leading organizations, is hiring a Property Consultant for our Visakhapatnam operations. We offer a competitive salary package along with world-class benefits.\n\nAbout BHIVE Workspace:\nBHIVE Workspace is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with legal teams for documentation and title verification\n• Coordinate with architects, contractors, and project teams\n• Liaise with banks and NBFCs for home loan assistance to customers\n• Maintain a pipeline of qualified leads using CRM software\n• Conduct land acquisition due diligence and feasibility studies\n• Source and close property deals with prospective buyers and investors\n• Prepare presentations and proposals for institutional clients\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 10-15 years of relevant experience\n• Proficiency in Lease Administration\n• Proficiency in MS Office\n• Proficiency in Financial Modeling\n• Proficiency in GIS Tools\n• Proficiency in Real Estate Law\n• Proficiency in Contract Management\n• Proficiency in Portfolio Management\n• Proficiency in Negotiation Skills\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• International travel opportunities for senior roles\n• Work-from-home flexibility\n• Transportation and conveyance allowance\n• Competitive salary with performance-linked incentives\n• Flexible working hours\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Visakhapatnam, Andhra Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with BHIVE Workspace!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "BHIVE Workspace",
+      "value": "755-1-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "BHIVE Workspace",
+      "sameAs": "https://www.google.com/search?q=BHIVE%20Workspace",
+      "logo": "https://logo.clearbit.com/bhiveworkspace.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "BHIVE Workspace Office",
+        "addressLocality": "Visakhapatnam",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "Lease Administration, MS Office, Financial Modeling, GIS Tools, Real Estate Law, Contract Management, Portfolio Management, Negotiation Skills",
+    "responsibilities": "Coordinate with legal teams for documentation and title verification. Coordinate with architects, contractors, and project teams. Liaise with banks and NBFCs for home loan assistance to customers. Maintain a pipeline of qualified leads using CRM software. Conduct land acquisition due diligence and feasibility studies. Source and close property deals with prospective buyers and investors. Prepare presentations and proposals for institutional clients",
+    "benefits": "Provident Fund and Gratuity as per company policy. International travel opportunities for senior roles. Work-from-home flexibility. Transportation and conveyance allowance. Competitive salary with performance-linked incentives. Flexible working hours",
+    "industry": "realestate",
+    "occupationalCategory": "Property Consultant",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, International travel opportunities for senior roles, Work-from-home flexibility, Transportation and conveyance allowance, Competitive salary with performance-linked incentives, Flexible working hours"
+  },
+  "meta": {
+    "description": "BHIVE Workspace, one of India's leading organizations, is hiring a Property Consultant for our Visakhapatnam operations. We offer a competitive salary package a",
+    "keywords": "Property Consultant, BHIVE Workspace, jobs in Visakhapatnam, Andhra Pradesh jobs, realestate jobs India, Lease Administration, MS Office, Financial Modeling, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:37:40.725Z",
+  "page": 188
+}

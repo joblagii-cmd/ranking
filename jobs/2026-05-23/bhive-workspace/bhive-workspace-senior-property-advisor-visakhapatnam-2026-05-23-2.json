@@ -1,0 +1,94 @@
+{
+  "slug": "bhive-workspace-senior-property-advisor-visakhapatnam-2026-05-23-2",
+  "title": "BHIVE Workspace is Hiring: Senior Property Advisor (Junior)",
+  "company": "BHIVE Workspace",
+  "industry": "realestate",
+  "role": "Senior Property Advisor",
+  "location": {
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Real Estate Law",
+    "Due Diligence",
+    "AutoCAD",
+    "Portfolio Management",
+    "GIS Tools",
+    "RERA Compliance",
+    "Contract Management",
+    "Sales Techniques"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "BHIVE Workspace is Hiring: Senior Property Advisor (Junior)",
+    "description": "BHIVE Workspace, one of India's leading organizations, is hiring a Senior Property Advisor for our Visakhapatnam operations. We offer a competitive salary package along with world-class benefits.\n\nAbout BHIVE Workspace:\nBHIVE Workspace is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Prepare presentations and proposals for institutional clients\n• Coordinate with architects, contractors, and project teams\n• Liaise with banks and NBFCs for home loan assistance to customers\n• Coordinate with legal teams for documentation and title verification\n• Provide advisory services on property investment and market trends\n• Achieve monthly and quarterly sales targets\n• Build relationships with channel partners and brokers\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 6-10 years of relevant experience\n• Proficiency in Real Estate Law\n• Proficiency in Due Diligence\n• Proficiency in AutoCAD\n• Proficiency in Portfolio Management\n• Proficiency in GIS Tools\n• Proficiency in RERA Compliance\n• Proficiency in Contract Management\n• Proficiency in Sales Techniques\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Modern office with recreational facilities\n• Life and accident insurance\n• Competitive salary with performance-linked incentives\n• Recognition and rewards programs\n• Employee stock options (ESOPs) for eligible roles\n• Flexible working hours\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Visakhapatnam, Andhra Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with BHIVE Workspace!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "BHIVE Workspace",
+      "value": "755-2-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "BHIVE Workspace",
+      "sameAs": "https://www.google.com/search?q=BHIVE%20Workspace",
+      "logo": "https://logo.clearbit.com/bhiveworkspace.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "BHIVE Workspace Office",
+        "addressLocality": "Visakhapatnam",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "Real Estate Law, Due Diligence, AutoCAD, Portfolio Management, GIS Tools, RERA Compliance, Contract Management, Sales Techniques",
+    "responsibilities": "Prepare presentations and proposals for institutional clients. Coordinate with architects, contractors, and project teams. Liaise with banks and NBFCs for home loan assistance to customers. Coordinate with legal teams for documentation and title verification. Provide advisory services on property investment and market trends. Achieve monthly and quarterly sales targets. Build relationships with channel partners and brokers",
+    "benefits": "Modern office with recreational facilities. Life and accident insurance. Competitive salary with performance-linked incentives. Recognition and rewards programs. Employee stock options (ESOPs) for eligible roles. Flexible working hours",
+    "industry": "realestate",
+    "occupationalCategory": "Senior Property Advisor",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Modern office with recreational facilities, Life and accident insurance, Competitive salary with performance-linked incentives, Recognition and rewards programs, Employee stock options (ESOPs) for eligible roles, Flexible working hours"
+  },
+  "meta": {
+    "description": "BHIVE Workspace, one of India's leading organizations, is hiring a Senior Property Advisor for our Visakhapatnam operations. We offer a competitive salary packa",
+    "keywords": "Senior Property Advisor, BHIVE Workspace, jobs in Visakhapatnam, Andhra Pradesh jobs, realestate jobs India, Real Estate Law, Due Diligence, AutoCAD, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:37:40.725Z",
+  "page": 188
+}

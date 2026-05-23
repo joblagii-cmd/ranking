@@ -1,0 +1,93 @@
+{
+  "slug": "bhive-workspace-sales-manager-pimpri-chinchwad-2026-05-23-3",
+  "title": "Sales Manager Vacancy at BHIVE Workspace - 2026 Batch",
+  "company": "BHIVE Workspace",
+  "industry": "realestate",
+  "role": "Sales Manager",
+  "location": {
+    "city": "Pimpri-Chinchwad",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Property Valuation",
+    "Real Estate Law",
+    "Sales Techniques",
+    "GIS Tools",
+    "Lease Administration",
+    "Due Diligence",
+    "Market Research",
+    "Client Relationship Management"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Sales Manager Vacancy at BHIVE Workspace - 2026 Batch",
+    "description": "BHIVE Workspace, one of India's leading organizations, is hiring a Sales Manager for our Pimpri-Chinchwad operations. We offer a competitive salary package along with world-class benefits.\n\nAbout BHIVE Workspace:\nBHIVE Workspace is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Manage RERA documentation and compliance requirements\n• Negotiate pricing, terms, and conditions on behalf of clients\n• Coordinate with legal teams for documentation and title verification\n• Conduct site visits and property presentations for clients\n• Maintain a pipeline of qualified leads using CRM software\n• Manage relationships with existing customers post-purchase\n• Prepare presentations and proposals for institutional clients\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 3-6 years of relevant experience\n• Proficiency in Property Valuation\n• Proficiency in Real Estate Law\n• Proficiency in Sales Techniques\n• Proficiency in GIS Tools\n• Proficiency in Lease Administration\n• Proficiency in Due Diligence\n• Proficiency in Market Research\n• Proficiency in Client Relationship Management\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Modern office with recreational facilities\n• Meal coupons and food allowance\n• Recognition and rewards programs\n• Comprehensive health insurance for self and family\n• Referral bonus program\n• Work-from-home flexibility\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Pimpri-Chinchwad, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with BHIVE Workspace!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "BHIVE Workspace",
+      "value": "755-3-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "BHIVE Workspace",
+      "sameAs": "https://www.google.com/search?q=BHIVE%20Workspace",
+      "logo": "https://logo.clearbit.com/bhiveworkspace.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "BHIVE Workspace Office",
+        "addressLocality": "Pimpri-Chinchwad",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "Property Valuation, Real Estate Law, Sales Techniques, GIS Tools, Lease Administration, Due Diligence, Market Research, Client Relationship Management",
+    "responsibilities": "Manage RERA documentation and compliance requirements. Negotiate pricing, terms, and conditions on behalf of clients. Coordinate with legal teams for documentation and title verification. Conduct site visits and property presentations for clients. Maintain a pipeline of qualified leads using CRM software. Manage relationships with existing customers post-purchase. Prepare presentations and proposals for institutional clients",
+    "benefits": "Modern office with recreational facilities. Meal coupons and food allowance. Recognition and rewards programs. Comprehensive health insurance for self and family. Referral bonus program. Work-from-home flexibility",
+    "industry": "realestate",
+    "occupationalCategory": "Sales Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Modern office with recreational facilities, Meal coupons and food allowance, Recognition and rewards programs, Comprehensive health insurance for self and family, Referral bonus program, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "BHIVE Workspace, one of India's leading organizations, is hiring a Sales Manager for our Pimpri-Chinchwad operations. We offer a competitive salary package alon",
+    "keywords": "Sales Manager, BHIVE Workspace, jobs in Pimpri-Chinchwad, Maharashtra jobs, realestate jobs India, Property Valuation, Real Estate Law, Sales Techniques, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:37:40.725Z",
+  "page": 188
+}
