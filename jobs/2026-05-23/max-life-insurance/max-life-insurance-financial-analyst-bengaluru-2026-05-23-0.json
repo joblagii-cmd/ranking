@@ -1,0 +1,93 @@
+{
+  "slug": "max-life-insurance-financial-analyst-bengaluru-2026-05-23-0",
+  "title": "Vacancy for Financial Analyst at Max Life Insurance",
+  "company": "Max Life Insurance",
+  "industry": "finance",
+  "role": "Financial Analyst",
+  "location": {
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Python for Finance",
+    "Bloomberg Terminal",
+    "IFRS",
+    "Financial Reporting",
+    "QuickBooks",
+    "Income Tax",
+    "Risk Management",
+    "SAP FICO"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Vacancy for Financial Analyst at Max Life Insurance",
+    "description": "Grow your career with Max Life Insurance! We are hiring a Financial Analyst for our Bengaluru team. Be part of a workplace that celebrates innovation, diversity, and performance.\n\nAbout Max Life Insurance:\nMax Life Insurance is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Implement and maintain internal controls and audit procedures\n• Prepare MIS reports for senior management review\n• Prepare and analyze financial statements, reports, and budgets\n• Monitor financial performance against targets and provide variance analysis\n• Ensure compliance with tax regulations and statutory requirements\n• Liaise with banks, regulators, and financial institutions\n• Process payroll and manage employee reimbursements\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 12-20 years of relevant experience\n• Proficiency in Python for Finance\n• Proficiency in Bloomberg Terminal\n• Proficiency in IFRS\n• Proficiency in Financial Reporting\n• Proficiency in QuickBooks\n• Proficiency in Income Tax\n• Proficiency in Risk Management\n• Proficiency in SAP FICO\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Competitive salary with performance-linked incentives\n• Recognition and rewards programs\n• Employee stock options (ESOPs) for eligible roles\n• Maternity and paternity leave\n• Comprehensive health insurance for self and family\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Bengaluru, Karnataka, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Max Life Insurance!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Max Life Insurance",
+      "value": "149-0-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Max Life Insurance",
+      "sameAs": "https://www.google.com/search?q=Max%20Life%20Insurance",
+      "logo": "https://logo.clearbit.com/maxlifeinsurance.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Max Life Insurance Office",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "Python for Finance, Bloomberg Terminal, IFRS, Financial Reporting, QuickBooks, Income Tax, Risk Management, SAP FICO",
+    "responsibilities": "Implement and maintain internal controls and audit procedures. Prepare MIS reports for senior management review. Prepare and analyze financial statements, reports, and budgets. Monitor financial performance against targets and provide variance analysis. Ensure compliance with tax regulations and statutory requirements. Liaise with banks, regulators, and financial institutions. Process payroll and manage employee reimbursements",
+    "benefits": "Annual paid leaves and casual leaves. Competitive salary with performance-linked incentives. Recognition and rewards programs. Employee stock options (ESOPs) for eligible roles. Maternity and paternity leave. Comprehensive health insurance for self and family",
+    "industry": "finance",
+    "occupationalCategory": "Financial Analyst",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Competitive salary with performance-linked incentives, Recognition and rewards programs, Employee stock options (ESOPs) for eligible roles, Maternity and paternity leave, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "Grow your career with Max Life Insurance! We are hiring a Financial Analyst for our Bengaluru team. Be part of a workplace that celebrates innovation, diversity",
+    "keywords": "Financial Analyst, Max Life Insurance, jobs in Bengaluru, Karnataka jobs, finance jobs India, Python for Finance, Bloomberg Terminal, IFRS, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:19:19.265Z",
+  "page": 37
+}
