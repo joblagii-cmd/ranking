@@ -1,0 +1,93 @@
+{
+  "slug": "healthifyme-senior-software-engineer-aurangabad-2026-05-23-1",
+  "title": "Senior Software Engineer - HealthifyMe - Top MNC",
+  "company": "HealthifyMe",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Aurangabad",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "MongoDB",
+    "TypeScript",
+    "AWS",
+    "Git",
+    "Python",
+    "Go",
+    "Kubernetes",
+    "Java"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - HealthifyMe - Top MNC",
+    "description": "HealthifyMe invites applications from qualified candidates for the position of Senior Software Engineer at our Aurangabad location. This role offers excellent career advancement prospects.\n\nAbout HealthifyMe:\nHealthifyMe is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in code reviews and contribute to technical discussions\n• Participate in on-call rotation for production support\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Implement new features based on product requirements\n• Ensure code security and follow best practices for data protection\n• Write clean, maintainable, and well-documented code\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 12-20 years of relevant experience\n• Proficiency in MongoDB\n• Proficiency in TypeScript\n• Proficiency in AWS\n• Proficiency in Git\n• Proficiency in Python\n• Proficiency in Go\n• Proficiency in Kubernetes\n• Proficiency in Java\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Competitive salary with performance-linked incentives\n• Flexible working hours\n• Recognition and rewards programs\n• Comprehensive health insurance for self and family\n• Mobile and internet reimbursement\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Aurangabad, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with HealthifyMe!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "HealthifyMe",
+      "value": "111-1-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "HealthifyMe",
+      "sameAs": "https://www.google.com/search?q=HealthifyMe",
+      "logo": "https://logo.clearbit.com/healthifyme.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "HealthifyMe Office",
+        "addressLocality": "Aurangabad",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "MongoDB, TypeScript, AWS, Git, Python, Go, Kubernetes, Java",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Participate in code reviews and contribute to technical discussions. Participate in on-call rotation for production support. Work with agile methodologies including daily stand-ups and sprint planning. Implement new features based on product requirements. Ensure code security and follow best practices for data protection. Write clean, maintainable, and well-documented code",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Competitive salary with performance-linked incentives. Flexible working hours. Recognition and rewards programs. Comprehensive health insurance for self and family. Mobile and internet reimbursement",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Competitive salary with performance-linked incentives, Flexible working hours, Recognition and rewards programs, Comprehensive health insurance for self and family, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "HealthifyMe invites applications from qualified candidates for the position of Senior Software Engineer at our Aurangabad location. This role offers excellent c",
+    "keywords": "Senior Software Engineer, HealthifyMe, jobs in Aurangabad, Maharashtra jobs, technology jobs India, MongoDB, TypeScript, AWS, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:18:05.483Z",
+  "page": 27
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "practo-software-engineer-aurangabad-2026-05-23-0",
+  "title": "Opening for Software Engineer at Practo",
+  "company": "Practo",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Aurangabad",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Microservices",
+    "JavaScript",
+    "REST APIs",
+    "Kubernetes",
+    "Git",
+    "Rust",
+    "Python",
+    "AWS"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Opening for Software Engineer at Practo",
+    "description": "Practo invites applications from qualified candidates for the position of Software Engineer at our Aurangabad location. This role offers excellent career advancement prospects.\n\nAbout Practo:\nPracto is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in code reviews and contribute to technical discussions\n• Optimize application performance and ensure high availability\n• Integrate third-party APIs and services\n• Participate in on-call rotation for production support\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Troubleshoot, debug, and resolve software defects and performance issues\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 12-20 years of relevant experience\n• Proficiency in Microservices\n• Proficiency in JavaScript\n• Proficiency in REST APIs\n• Proficiency in Kubernetes\n• Proficiency in Git\n• Proficiency in Rust\n• Proficiency in Python\n• Proficiency in AWS\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• Provident Fund and Gratuity as per company policy\n• Employee stock options (ESOPs) for eligible roles\n• Referral bonus program\n• Work-from-home flexibility\n• Flexible working hours\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Aurangabad, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Practo!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Practo",
+      "value": "112-0-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Practo",
+      "sameAs": "https://www.google.com/search?q=Practo",
+      "logo": "https://logo.clearbit.com/practo.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Practo Office",
+        "addressLocality": "Aurangabad",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "Microservices, JavaScript, REST APIs, Kubernetes, Git, Rust, Python, AWS",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Participate in code reviews and contribute to technical discussions. Optimize application performance and ensure high availability. Integrate third-party APIs and services. Participate in on-call rotation for production support. Work with agile methodologies including daily stand-ups and sprint planning. Troubleshoot, debug, and resolve software defects and performance issues",
+    "benefits": "Comprehensive health insurance for self and family. Provident Fund and Gratuity as per company policy. Employee stock options (ESOPs) for eligible roles. Referral bonus program. Work-from-home flexibility. Flexible working hours",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, Provident Fund and Gratuity as per company policy, Employee stock options (ESOPs) for eligible roles, Referral bonus program, Work-from-home flexibility, Flexible working hours"
+  },
+  "meta": {
+    "description": "Practo invites applications from qualified candidates for the position of Software Engineer at our Aurangabad location. This role offers excellent career advanc",
+    "keywords": "Software Engineer, Practo, jobs in Aurangabad, Maharashtra jobs, technology jobs India, Microservices, JavaScript, REST APIs, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:18:05.483Z",
+  "page": 27
+}
