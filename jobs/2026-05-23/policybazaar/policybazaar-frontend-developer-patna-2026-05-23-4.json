@@ -1,0 +1,93 @@
+{
+  "slug": "policybazaar-frontend-developer-patna-2026-05-23-4",
+  "title": "Senior Frontend Developer at PolicyBazaar",
+  "company": "PolicyBazaar",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Patna",
+    "state": "Bihar",
+    "region": "Eastern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "TensorFlow",
+    "Git",
+    "AWS",
+    "CI/CD",
+    "Go",
+    "Agile/Scrum",
+    "Machine Learning",
+    "Microservices"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Frontend Developer at PolicyBazaar",
+    "description": "Join the PolicyBazaar family as a Frontend Developer in Patna. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout PolicyBazaar:\nPolicyBazaar is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure code security and follow best practices for data protection\n• Implement new features based on product requirements\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Participate in on-call rotation for production support\n• Collaborate with cross-functional teams including product, design, and QA\n• Write and execute unit tests and integration tests\n• Mentor junior developers and conduct knowledge-sharing sessions\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 0-1 years of relevant experience\n• Proficiency in TensorFlow\n• Proficiency in Git\n• Proficiency in AWS\n• Proficiency in CI/CD\n• Proficiency in Go\n• Proficiency in Agile/Scrum\n• Proficiency in Machine Learning\n• Proficiency in Microservices\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Meal coupons and food allowance\n• Modern office with recreational facilities\n• Mobile and internet reimbursement\n• Comprehensive health insurance for self and family\n• Professional development and training programs\n• Competitive salary with performance-linked incentives\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Patna, Bihar, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with PolicyBazaar!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "PolicyBazaar",
+      "value": "91-4-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "PolicyBazaar",
+      "sameAs": "https://www.google.com/search?q=PolicyBazaar",
+      "logo": "https://logo.clearbit.com/policybazaar.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "PolicyBazaar Office",
+        "addressLocality": "Patna",
+        "addressRegion": "Bihar",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "TensorFlow, Git, AWS, CI/CD, Go, Agile/Scrum, Machine Learning, Microservices",
+    "responsibilities": "Ensure code security and follow best practices for data protection. Implement new features based on product requirements. Troubleshoot, debug, and resolve software defects and performance issues. Participate in on-call rotation for production support. Collaborate with cross-functional teams including product, design, and QA. Write and execute unit tests and integration tests. Mentor junior developers and conduct knowledge-sharing sessions",
+    "benefits": "Meal coupons and food allowance. Modern office with recreational facilities. Mobile and internet reimbursement. Comprehensive health insurance for self and family. Professional development and training programs. Competitive salary with performance-linked incentives",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Meal coupons and food allowance, Modern office with recreational facilities, Mobile and internet reimbursement, Comprehensive health insurance for self and family, Professional development and training programs, Competitive salary with performance-linked incentives"
+  },
+  "meta": {
+    "description": "Join the PolicyBazaar family as a Frontend Developer in Patna. We believe in empowering our employees with the tools, training, and environment they need to suc",
+    "keywords": "Frontend Developer, PolicyBazaar, jobs in Patna, Bihar jobs, technology jobs India, TensorFlow, Git, AWS, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:17:27.351Z",
+  "page": 22
+}
