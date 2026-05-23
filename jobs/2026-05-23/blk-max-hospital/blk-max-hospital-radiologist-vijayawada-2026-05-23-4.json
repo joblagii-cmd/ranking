@@ -1,0 +1,93 @@
+{
+  "slug": "blk-max-hospital-radiologist-vijayawada-2026-05-23-4",
+  "title": "Entry-Level Radiologist at BLK-Max Hospital",
+  "company": "BLK-Max Hospital",
+  "industry": "healthcare",
+  "role": "Radiologist",
+  "location": {
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Surgical Procedures",
+    "Wound Care",
+    "Patient Care",
+    "Clinical Documentation",
+    "ICU Management",
+    "Pharmacovigilance",
+    "Health Informatics",
+    "Clinical Research"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Entry-Level Radiologist at BLK-Max Hospital",
+    "description": "An exciting career opportunity awaits you at BLK-Max Hospital. We are on the lookout for a dedicated Radiologist to strengthen our Vijayawada-based team.\n\nAbout BLK-Max Hospital:\nBLK-Max Hospital is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Conduct routine health assessments and screenings\n• Ensure patient privacy and maintain confidentiality\n• Participate in quality improvement initiatives and clinical audits\n• Respond to medical emergencies and provide immediate care\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Adhere to NABH/JCI accreditation standards\n• Administer medications and treatments as prescribed\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 1-3 years of relevant experience\n• Proficiency in Surgical Procedures\n• Proficiency in Wound Care\n• Proficiency in Patient Care\n• Proficiency in Clinical Documentation\n• Proficiency in ICU Management\n• Proficiency in Pharmacovigilance\n• Proficiency in Health Informatics\n• Proficiency in Clinical Research\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Learning & development budget\n• Annual paid leaves and casual leaves\n• Referral bonus program\n• Provident Fund and Gratuity as per company policy\n• Mobile and internet reimbursement\n• Transportation and conveyance allowance\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Vijayawada, Andhra Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with BLK-Max Hospital!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "BLK-Max Hospital",
+      "value": "292-4-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "BLK-Max Hospital",
+      "sameAs": "https://www.google.com/search?q=BLK-Max%20Hospital",
+      "logo": "https://logo.clearbit.com/blkmaxhospital.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "BLK-Max Hospital Office",
+        "addressLocality": "Vijayawada",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "Surgical Procedures, Wound Care, Patient Care, Clinical Documentation, ICU Management, Pharmacovigilance, Health Informatics, Clinical Research",
+    "responsibilities": "Conduct routine health assessments and screenings. Ensure patient privacy and maintain confidentiality. Participate in quality improvement initiatives and clinical audits. Respond to medical emergencies and provide immediate care. Coordinate with multidisciplinary teams for comprehensive patient management. Adhere to NABH/JCI accreditation standards. Administer medications and treatments as prescribed",
+    "benefits": "Learning & development budget. Annual paid leaves and casual leaves. Referral bonus program. Provident Fund and Gratuity as per company policy. Mobile and internet reimbursement. Transportation and conveyance allowance",
+    "industry": "healthcare",
+    "occupationalCategory": "Radiologist",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Learning & development budget, Annual paid leaves and casual leaves, Referral bonus program, Provident Fund and Gratuity as per company policy, Mobile and internet reimbursement, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at BLK-Max Hospital. We are on the lookout for a dedicated Radiologist to strengthen our Vijayawada-based team.",
+    "keywords": "Radiologist, BLK-Max Hospital, jobs in Vijayawada, Andhra Pradesh jobs, healthcare jobs India, Surgical Procedures, Wound Care, Patient Care, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:23:39.450Z",
+  "page": 72
+}
