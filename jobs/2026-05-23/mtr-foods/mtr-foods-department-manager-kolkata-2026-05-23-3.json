@@ -1,0 +1,93 @@
+{
+  "slug": "mtr-foods-department-manager-kolkata-2026-05-23-3",
+  "title": "Department Manager Vacancy at MTR Foods - 2026 Batch",
+  "company": "MTR Foods",
+  "industry": "retail",
+  "role": "Department Manager",
+  "location": {
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "CRM",
+    "Visual Merchandising",
+    "SAP Retail",
+    "Shrinkage Control",
+    "Omnichannel Retail",
+    "Sales Techniques",
+    "Retail Operations",
+    "Inventory Management"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Department Manager Vacancy at MTR Foods - 2026 Batch",
+    "description": "MTR Foods is actively seeking a talented and motivated Department Manager to join our dynamic team in Kolkata. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout MTR Foods:\nMTR Foods is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Handle customer queries, complaints, and escalations effectively\n• Achieve sales targets and improve store performance metrics\n• Coordinate with the supply chain team for timely stock delivery\n• Ensure visual merchandising standards are maintained at all times\n• Manage shrinkage and reduce stock discrepancies\n• Assist in recruiting, onboarding, and performance management of staff\n• Train and motivate the sales team to deliver excellent service\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 6-10 years of relevant experience\n• Proficiency in CRM\n• Proficiency in Visual Merchandising\n• Proficiency in SAP Retail\n• Proficiency in Shrinkage Control\n• Proficiency in Omnichannel Retail\n• Proficiency in Sales Techniques\n• Proficiency in Retail Operations\n• Proficiency in Inventory Management\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Life and accident insurance\n• Annual performance appraisal\n• Employee stock options (ESOPs) for eligible roles\n• Annual paid leaves and casual leaves\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Kolkata, West Bengal, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with MTR Foods!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "MTR Foods",
+      "value": "653-3-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "MTR Foods",
+      "sameAs": "https://www.google.com/search?q=MTR%20Foods",
+      "logo": "https://logo.clearbit.com/mtrfoods.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "MTR Foods Office",
+        "addressLocality": "Kolkata",
+        "addressRegion": "West Bengal",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "CRM, Visual Merchandising, SAP Retail, Shrinkage Control, Omnichannel Retail, Sales Techniques, Retail Operations, Inventory Management",
+    "responsibilities": "Handle customer queries, complaints, and escalations effectively. Achieve sales targets and improve store performance metrics. Coordinate with the supply chain team for timely stock delivery. Ensure visual merchandising standards are maintained at all times. Manage shrinkage and reduce stock discrepancies. Assist in recruiting, onboarding, and performance management of staff. Train and motivate the sales team to deliver excellent service",
+    "benefits": "International travel opportunities for senior roles. Life and accident insurance. Annual performance appraisal. Employee stock options (ESOPs) for eligible roles. Annual paid leaves and casual leaves. Provident Fund and Gratuity as per company policy",
+    "industry": "retail",
+    "occupationalCategory": "Department Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Life and accident insurance, Annual performance appraisal, Employee stock options (ESOPs) for eligible roles, Annual paid leaves and casual leaves, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "MTR Foods is actively seeking a talented and motivated Department Manager to join our dynamic team in Kolkata. This is an excellent opportunity for professional",
+    "keywords": "Department Manager, MTR Foods, jobs in Kolkata, West Bengal jobs, retail jobs India, CRM, Visual Merchandising, SAP Retail, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:34:39.910Z",
+  "page": 163
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "cafe-coffee-day-store-manager-pune-2026-05-23-0",
+  "title": "Hiring Store Manager at Cafe Coffee Day",
+  "company": "Cafe Coffee Day",
+  "industry": "retail",
+  "role": "Store Manager",
+  "location": {
+    "city": "Pune",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "E-commerce Integration",
+    "SAP Retail",
+    "CRM",
+    "Team Leadership",
+    "Category Management",
+    "Shrinkage Control",
+    "Sales Techniques",
+    "Omnichannel Retail"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Hiring Store Manager at Cafe Coffee Day",
+    "description": "Cafe Coffee Day is actively seeking a talented and motivated Store Manager to join our dynamic team in Pune. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout Cafe Coffee Day:\nCafe Coffee Day is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Assist in recruiting, onboarding, and performance management of staff\n• Manage store operations to ensure smooth daily functioning\n• Maintain high standards of store hygiene and cleanliness\n• Ensure compliance with company policies and retail regulations\n• Coordinate with the supply chain team for timely stock delivery\n• Achieve sales targets and improve store performance metrics\n• Manage shrinkage and reduce stock discrepancies\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 6-10 years of relevant experience\n• Proficiency in E-commerce Integration\n• Proficiency in SAP Retail\n• Proficiency in CRM\n• Proficiency in Team Leadership\n• Proficiency in Category Management\n• Proficiency in Shrinkage Control\n• Proficiency in Sales Techniques\n• Proficiency in Omnichannel Retail\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Annual performance appraisal\n• Life and accident insurance\n• Provident Fund and Gratuity as per company policy\n• Annual paid leaves and casual leaves\n• Comprehensive health insurance for self and family\n• Referral bonus program\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Pune, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Cafe Coffee Day!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Cafe Coffee Day",
+      "value": "656-0-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Cafe Coffee Day",
+      "sameAs": "https://www.google.com/search?q=Cafe%20Coffee%20Day",
+      "logo": "https://logo.clearbit.com/cafecoffeeday.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Cafe Coffee Day Office",
+        "addressLocality": "Pune",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "E-commerce Integration, SAP Retail, CRM, Team Leadership, Category Management, Shrinkage Control, Sales Techniques, Omnichannel Retail",
+    "responsibilities": "Assist in recruiting, onboarding, and performance management of staff. Manage store operations to ensure smooth daily functioning. Maintain high standards of store hygiene and cleanliness. Ensure compliance with company policies and retail regulations. Coordinate with the supply chain team for timely stock delivery. Achieve sales targets and improve store performance metrics. Manage shrinkage and reduce stock discrepancies",
+    "benefits": "Annual performance appraisal. Life and accident insurance. Provident Fund and Gratuity as per company policy. Annual paid leaves and casual leaves. Comprehensive health insurance for self and family. Referral bonus program",
+    "industry": "retail",
+    "occupationalCategory": "Store Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual performance appraisal, Life and accident insurance, Provident Fund and Gratuity as per company policy, Annual paid leaves and casual leaves, Comprehensive health insurance for self and family, Referral bonus program"
+  },
+  "meta": {
+    "description": "Cafe Coffee Day is actively seeking a talented and motivated Store Manager to join our dynamic team in Pune. This is an excellent opportunity for professionals ",
+    "keywords": "Store Manager, Cafe Coffee Day, jobs in Pune, Maharashtra jobs, retail jobs India, E-commerce Integration, SAP Retail, CRM, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:34:39.910Z",
+  "page": 163
+}
