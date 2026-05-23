@@ -1,0 +1,94 @@
+{
+  "slug": "testbook-subject-matter-expert-indore-2026-05-23-2",
+  "title": "Testbook is Hiring: Subject Matter Expert (Principal)",
+  "company": "Testbook",
+  "industry": "education",
+  "role": "Subject Matter Expert",
+  "location": {
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "CBSE/ICSE Standards",
+    "Student Assessment",
+    "Mentoring",
+    "Research Skills",
+    "MS Office",
+    "Content Creation",
+    "Educational Technology",
+    "LMS Platforms"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Testbook is Hiring: Subject Matter Expert (Principal)",
+    "description": "Testbook invites applications from qualified candidates for the position of Subject Matter Expert at our Indore location. This role offers excellent career advancement prospects.\n\nAbout Testbook:\nTestbook is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Monitor student progress and provide timely feedback\n• Participate in teacher training and professional development programs\n• Coordinate with academic counselors for student career guidance\n• Develop and deliver engaging lesson plans for students\n• Conduct doubt-clearing sessions and remedial classes for weak students\n• Maintain classroom discipline and create a positive learning environment\n• Create curriculum-aligned learning materials and assessments\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 12-20 years of relevant experience\n• Proficiency in CBSE/ICSE Standards\n• Proficiency in Student Assessment\n• Proficiency in Mentoring\n• Proficiency in Research Skills\n• Proficiency in MS Office\n• Proficiency in Content Creation\n• Proficiency in Educational Technology\n• Proficiency in LMS Platforms\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Annual performance appraisal\n• Meal coupons and food allowance\n• Comprehensive health insurance for self and family\n• Transportation and conveyance allowance\n• Modern office with recreational facilities\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Indore, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Testbook!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Testbook",
+      "value": "583-2-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Testbook",
+      "sameAs": "https://www.google.com/search?q=Testbook",
+      "logo": "https://logo.clearbit.com/testbook.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Testbook Office",
+        "addressLocality": "Indore",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "CBSE/ICSE Standards, Student Assessment, Mentoring, Research Skills, MS Office, Content Creation, Educational Technology, LMS Platforms",
+    "responsibilities": "Monitor student progress and provide timely feedback. Participate in teacher training and professional development programs. Coordinate with academic counselors for student career guidance. Develop and deliver engaging lesson plans for students. Conduct doubt-clearing sessions and remedial classes for weak students. Maintain classroom discipline and create a positive learning environment. Create curriculum-aligned learning materials and assessments",
+    "benefits": "Annual performance appraisal. Meal coupons and food allowance. Comprehensive health insurance for self and family. Transportation and conveyance allowance. Modern office with recreational facilities. Employee stock options (ESOPs) for eligible roles",
+    "industry": "education",
+    "occupationalCategory": "Subject Matter Expert",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual performance appraisal, Meal coupons and food allowance, Comprehensive health insurance for self and family, Transportation and conveyance allowance, Modern office with recreational facilities, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "Testbook invites applications from qualified candidates for the position of Subject Matter Expert at our Indore location. This role offers excellent career adva",
+    "keywords": "Subject Matter Expert, Testbook, jobs in Indore, Madhya Pradesh jobs, education jobs India, CBSE/ICSE Standards, Student Assessment, Mentoring, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:32:30.006Z",
+  "page": 145
+}

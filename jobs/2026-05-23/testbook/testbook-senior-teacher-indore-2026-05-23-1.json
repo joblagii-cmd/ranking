@@ -1,0 +1,93 @@
+{
+  "slug": "testbook-senior-teacher-indore-2026-05-23-1",
+  "title": "Senior Teacher - Testbook - Work From Home Available",
+  "company": "Testbook",
+  "industry": "education",
+  "role": "Senior Teacher",
+  "location": {
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Research Skills",
+    "Educational Technology",
+    "Student Assessment",
+    "Communication Skills",
+    "Pedagogy",
+    "Child Psychology",
+    "Classroom Management",
+    "E-learning"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Teacher - Testbook - Work From Home Available",
+    "description": "Testbook invites applications from qualified candidates for the position of Senior Teacher at our Indore location. This role offers excellent career advancement prospects.\n\nAbout Testbook:\nTestbook is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Conduct parent-teacher meetings and update parents on student performance\n• Create curriculum-aligned learning materials and assessments\n• Support students with special educational needs\n• Contribute to school newsletter, blogs, and other publications\n• Maintain classroom discipline and create a positive learning environment\n• Develop and deliver engaging lesson plans for students\n• Conduct doubt-clearing sessions and remedial classes for weak students\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 0-1 years of relevant experience\n• Proficiency in Research Skills\n• Proficiency in Educational Technology\n• Proficiency in Student Assessment\n• Proficiency in Communication Skills\n• Proficiency in Pedagogy\n• Proficiency in Child Psychology\n• Proficiency in Classroom Management\n• Proficiency in E-learning\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Maternity and paternity leave\n• Flexible working hours\n• Annual paid leaves and casual leaves\n• Competitive salary with performance-linked incentives\n• Referral bonus program\n• Learning & development budget\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Indore, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Testbook!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Testbook",
+      "value": "583-1-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Testbook",
+      "sameAs": "https://www.google.com/search?q=Testbook",
+      "logo": "https://logo.clearbit.com/testbook.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Testbook Office",
+        "addressLocality": "Indore",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "Research Skills, Educational Technology, Student Assessment, Communication Skills, Pedagogy, Child Psychology, Classroom Management, E-learning",
+    "responsibilities": "Conduct parent-teacher meetings and update parents on student performance. Create curriculum-aligned learning materials and assessments. Support students with special educational needs. Contribute to school newsletter, blogs, and other publications. Maintain classroom discipline and create a positive learning environment. Develop and deliver engaging lesson plans for students. Conduct doubt-clearing sessions and remedial classes for weak students",
+    "benefits": "Maternity and paternity leave. Flexible working hours. Annual paid leaves and casual leaves. Competitive salary with performance-linked incentives. Referral bonus program. Learning & development budget",
+    "industry": "education",
+    "occupationalCategory": "Senior Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Maternity and paternity leave, Flexible working hours, Annual paid leaves and casual leaves, Competitive salary with performance-linked incentives, Referral bonus program, Learning & development budget"
+  },
+  "meta": {
+    "description": "Testbook invites applications from qualified candidates for the position of Senior Teacher at our Indore location. This role offers excellent career advancement",
+    "keywords": "Senior Teacher, Testbook, jobs in Indore, Madhya Pradesh jobs, education jobs India, Research Skills, Educational Technology, Student Assessment, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:32:30.006Z",
+  "page": 145
+}

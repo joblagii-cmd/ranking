@@ -1,0 +1,94 @@
+{
+  "slug": "gradeup-teacher-indore-2026-05-23-0",
+  "title": "Career Opportunity Teacher at Gradeup",
+  "company": "Gradeup",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Educational Technology",
+    "Lesson Planning",
+    "LMS Platforms",
+    "Classroom Management",
+    "Student Assessment",
+    "Communication Skills",
+    "Zoom/Teams",
+    "Bloom's Taxonomy"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Career Opportunity Teacher at Gradeup",
+    "description": "Gradeup invites applications from qualified candidates for the position of Teacher at our Indore location. This role offers excellent career advancement prospects.\n\nAbout Gradeup:\nGradeup is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Maintain classroom discipline and create a positive learning environment\n• Maintain student records and prepare progress reports\n• Contribute to school newsletter, blogs, and other publications\n• Conduct parent-teacher meetings and update parents on student performance\n• Participate in school events, workshops, and training programs\n• Develop and deliver engaging lesson plans for students\n• Design formative and summative assessments aligned to learning objectives\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 0-1 years of relevant experience\n• Proficiency in Educational Technology\n• Proficiency in Lesson Planning\n• Proficiency in LMS Platforms\n• Proficiency in Classroom Management\n• Proficiency in Student Assessment\n• Proficiency in Communication Skills\n• Proficiency in Zoom/Teams\n• Proficiency in Bloom's Taxonomy\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Modern office with recreational facilities\n• Meal coupons and food allowance\n• Maternity and paternity leave\n• International travel opportunities for senior roles\n• Referral bonus program\n• Competitive salary with performance-linked incentives\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Indore, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Gradeup!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Gradeup",
+      "value": "584-0-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Gradeup",
+      "sameAs": "https://www.google.com/search?q=Gradeup",
+      "logo": "https://logo.clearbit.com/gradeup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Gradeup Office",
+        "addressLocality": "Indore",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "Educational Technology, Lesson Planning, LMS Platforms, Classroom Management, Student Assessment, Communication Skills, Zoom/Teams, Bloom's Taxonomy",
+    "responsibilities": "Maintain classroom discipline and create a positive learning environment. Maintain student records and prepare progress reports. Contribute to school newsletter, blogs, and other publications. Conduct parent-teacher meetings and update parents on student performance. Participate in school events, workshops, and training programs. Develop and deliver engaging lesson plans for students. Design formative and summative assessments aligned to learning objectives",
+    "benefits": "Modern office with recreational facilities. Meal coupons and food allowance. Maternity and paternity leave. International travel opportunities for senior roles. Referral bonus program. Competitive salary with performance-linked incentives",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Modern office with recreational facilities, Meal coupons and food allowance, Maternity and paternity leave, International travel opportunities for senior roles, Referral bonus program, Competitive salary with performance-linked incentives"
+  },
+  "meta": {
+    "description": "Gradeup invites applications from qualified candidates for the position of Teacher at our Indore location. This role offers excellent career advancement prospec",
+    "keywords": "Teacher, Gradeup, jobs in Indore, Madhya Pradesh jobs, education jobs India, Educational Technology, Lesson Planning, LMS Platforms, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:32:30.006Z",
+  "page": 145
+}

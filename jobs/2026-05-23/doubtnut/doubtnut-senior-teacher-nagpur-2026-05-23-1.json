@@ -1,0 +1,93 @@
+{
+  "slug": "doubtnut-senior-teacher-nagpur-2026-05-23-1",
+  "title": "Senior Teacher - Doubtnut - Work From Home Available",
+  "company": "Doubtnut",
+  "industry": "education",
+  "role": "Senior Teacher",
+  "location": {
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Classroom Management",
+    "Content Creation",
+    "Pedagogy",
+    "Data Analysis",
+    "E-learning",
+    "Child Psychology",
+    "Special Education",
+    "MS Office"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Teacher - Doubtnut - Work From Home Available",
+    "description": "Doubtnut invites applications from qualified candidates for the position of Senior Teacher at our Nagpur location. This role offers excellent career advancement prospects.\n\nAbout Doubtnut:\nDoubtnut is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Support students with special educational needs\n• Design formative and summative assessments aligned to learning objectives\n• Coordinate with academic counselors for student career guidance\n• Conduct doubt-clearing sessions and remedial classes for weak students\n• Utilize technology and digital tools to enhance learning outcomes\n• Participate in school events, workshops, and training programs\n• Maintain classroom discipline and create a positive learning environment\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 1-3 years of relevant experience\n• Proficiency in Classroom Management\n• Proficiency in Content Creation\n• Proficiency in Pedagogy\n• Proficiency in Data Analysis\n• Proficiency in E-learning\n• Proficiency in Child Psychology\n• Proficiency in Special Education\n• Proficiency in MS Office\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Referral bonus program\n• Company-sponsored certifications\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Modern office with recreational facilities\n• Maternity and paternity leave\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Nagpur, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Doubtnut!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Doubtnut",
+      "value": "582-1-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Doubtnut",
+      "sameAs": "https://www.google.com/search?q=Doubtnut",
+      "logo": "https://logo.clearbit.com/doubtnut.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Doubtnut Office",
+        "addressLocality": "Nagpur",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "Classroom Management, Content Creation, Pedagogy, Data Analysis, E-learning, Child Psychology, Special Education, MS Office",
+    "responsibilities": "Support students with special educational needs. Design formative and summative assessments aligned to learning objectives. Coordinate with academic counselors for student career guidance. Conduct doubt-clearing sessions and remedial classes for weak students. Utilize technology and digital tools to enhance learning outcomes. Participate in school events, workshops, and training programs. Maintain classroom discipline and create a positive learning environment",
+    "benefits": "Referral bonus program. Company-sponsored certifications. Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Modern office with recreational facilities. Maternity and paternity leave",
+    "industry": "education",
+    "occupationalCategory": "Senior Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Referral bonus program, Company-sponsored certifications, Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Modern office with recreational facilities, Maternity and paternity leave"
+  },
+  "meta": {
+    "description": "Doubtnut invites applications from qualified candidates for the position of Senior Teacher at our Nagpur location. This role offers excellent career advancement",
+    "keywords": "Senior Teacher, Doubtnut, jobs in Nagpur, Maharashtra jobs, education jobs India, Classroom Management, Content Creation, Pedagogy, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:32:30.006Z",
+  "page": 145
+}
