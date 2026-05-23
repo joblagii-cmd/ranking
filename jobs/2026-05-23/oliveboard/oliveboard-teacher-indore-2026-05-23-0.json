@@ -1,0 +1,93 @@
+{
+  "slug": "oliveboard-teacher-indore-2026-05-23-0",
+  "title": "Career Opportunity Teacher at Oliveboard",
+  "company": "Oliveboard",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Pedagogy",
+    "Classroom Management",
+    "Lesson Planning",
+    "Educational Technology",
+    "Child Psychology",
+    "Mentoring",
+    "Student Assessment",
+    "LMS Platforms"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Career Opportunity Teacher at Oliveboard",
+    "description": "Oliveboard invites applications from qualified candidates for the position of Teacher at our Indore location. This role offers excellent career advancement prospects.\n\nAbout Oliveboard:\nOliveboard is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Develop and deliver engaging lesson plans for students\n• Conduct doubt-clearing sessions and remedial classes for weak students\n• Collaborate with faculty on curriculum development initiatives\n• Create curriculum-aligned learning materials and assessments\n• Design formative and summative assessments aligned to learning objectives\n• Participate in school events, workshops, and training programs\n• Maintain student records and prepare progress reports\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 12-20 years of relevant experience\n• Proficiency in Pedagogy\n• Proficiency in Classroom Management\n• Proficiency in Lesson Planning\n• Proficiency in Educational Technology\n• Proficiency in Child Psychology\n• Proficiency in Mentoring\n• Proficiency in Student Assessment\n• Proficiency in LMS Platforms\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Competitive salary with performance-linked incentives\n• Mobile and internet reimbursement\n• Transportation and conveyance allowance\n• Company-sponsored certifications\n• Maternity and paternity leave\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Indore, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Oliveboard!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Oliveboard",
+      "value": "585-0-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Oliveboard",
+      "sameAs": "https://www.google.com/search?q=Oliveboard",
+      "logo": "https://logo.clearbit.com/oliveboard.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Oliveboard Office",
+        "addressLocality": "Indore",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "Pedagogy, Classroom Management, Lesson Planning, Educational Technology, Child Psychology, Mentoring, Student Assessment, LMS Platforms",
+    "responsibilities": "Develop and deliver engaging lesson plans for students. Conduct doubt-clearing sessions and remedial classes for weak students. Collaborate with faculty on curriculum development initiatives. Create curriculum-aligned learning materials and assessments. Design formative and summative assessments aligned to learning objectives. Participate in school events, workshops, and training programs. Maintain student records and prepare progress reports",
+    "benefits": "Annual paid leaves and casual leaves. Competitive salary with performance-linked incentives. Mobile and internet reimbursement. Transportation and conveyance allowance. Company-sponsored certifications. Maternity and paternity leave",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Competitive salary with performance-linked incentives, Mobile and internet reimbursement, Transportation and conveyance allowance, Company-sponsored certifications, Maternity and paternity leave"
+  },
+  "meta": {
+    "description": "Oliveboard invites applications from qualified candidates for the position of Teacher at our Indore location. This role offers excellent career advancement pros",
+    "keywords": "Teacher, Oliveboard, jobs in Indore, Madhya Pradesh jobs, education jobs India, Pedagogy, Classroom Management, Lesson Planning, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:32:37.171Z",
+  "page": 146
+}
