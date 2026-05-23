@@ -1,0 +1,94 @@
+{
+  "slug": "infosys-senior-software-engineer-thane-2026-05-23-1",
+  "title": "Senior Software Engineer - Infosys - Multiple Openings",
+  "company": "Infosys",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Thane",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Microservices",
+    "JavaScript",
+    "Go",
+    "TensorFlow",
+    "TypeScript",
+    "Git",
+    "Python",
+    "AWS"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Infosys - Multiple Openings",
+    "description": "Infosys has an exciting opening for a Senior Software Engineer at our Thane office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Infosys:\nInfosys is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Design, develop and maintain scalable software applications\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Integrate third-party APIs and services\n• Implement new features based on product requirements\n• Ensure code security and follow best practices for data protection\n• Mentor junior developers and conduct knowledge-sharing sessions\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 3-6 years of relevant experience\n• Proficiency in Microservices\n• Proficiency in JavaScript\n• Proficiency in Go\n• Proficiency in TensorFlow\n• Proficiency in TypeScript\n• Proficiency in Git\n• Proficiency in Python\n• Proficiency in AWS\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Recognition and rewards programs\n• Work-from-home flexibility\n• Life and accident insurance\n• Provident Fund and Gratuity as per company policy\n• Mobile and internet reimbursement\n• Flexible working hours\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Thane, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Infosys!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Infosys",
+      "value": "2-1-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Infosys",
+      "sameAs": "https://www.google.com/search?q=Infosys",
+      "logo": "https://logo.clearbit.com/infosys.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Infosys Office",
+        "addressLocality": "Thane",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "Microservices, JavaScript, Go, TensorFlow, TypeScript, Git, Python, AWS",
+    "responsibilities": "Work with agile methodologies including daily stand-ups and sprint planning. Design, develop and maintain scalable software applications. Troubleshoot, debug, and resolve software defects and performance issues. Integrate third-party APIs and services. Implement new features based on product requirements. Ensure code security and follow best practices for data protection. Mentor junior developers and conduct knowledge-sharing sessions",
+    "benefits": "Recognition and rewards programs. Work-from-home flexibility. Life and accident insurance. Provident Fund and Gratuity as per company policy. Mobile and internet reimbursement. Flexible working hours",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Recognition and rewards programs, Work-from-home flexibility, Life and accident insurance, Provident Fund and Gratuity as per company policy, Mobile and internet reimbursement, Flexible working hours"
+  },
+  "meta": {
+    "description": "Infosys has an exciting opening for a Senior Software Engineer at our Thane office. Join a company that values innovation, collaboration, and continuous learnin",
+    "keywords": "Senior Software Engineer, Infosys, jobs in Thane, Maharashtra jobs, technology jobs India, Microservices, JavaScript, Go, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:14:41.883Z",
+  "page": 0
+}
