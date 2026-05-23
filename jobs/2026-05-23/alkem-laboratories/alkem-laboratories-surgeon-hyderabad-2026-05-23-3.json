@@ -1,0 +1,93 @@
+{
+  "slug": "alkem-laboratories-surgeon-hyderabad-2026-05-23-3",
+  "title": "Surgeon Vacancy at Alkem Laboratories - 2026 Batch",
+  "company": "Alkem Laboratories",
+  "industry": "healthcare",
+  "role": "Surgeon",
+  "location": {
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Medical Terminology",
+    "CPT Codes",
+    "Telemedicine",
+    "Patient Care",
+    "ICD-10",
+    "Medical Coding",
+    "Medical Ethics",
+    "ICU Management"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Surgeon Vacancy at Alkem Laboratories - 2026 Batch",
+    "description": "Alkem Laboratories has an exciting opening for a Surgeon at our Hyderabad office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Alkem Laboratories:\nAlkem Laboratories is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Maintain accurate clinical documentation in electronic health records\n• Maintain sterile environments and follow infection control protocols\n• Conduct routine health assessments and screenings\n• Monitor patient progress and adjust treatment plans accordingly\n• Ensure patient privacy and maintain confidentiality\n• Collaborate with pharmaceutical representatives and medical suppliers\n• Respond to medical emergencies and provide immediate care\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 6-10 years of relevant experience\n• Proficiency in Medical Terminology\n• Proficiency in CPT Codes\n• Proficiency in Telemedicine\n• Proficiency in Patient Care\n• Proficiency in ICD-10\n• Proficiency in Medical Coding\n• Proficiency in Medical Ethics\n• Proficiency in ICU Management\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Maternity and paternity leave\n• Life and accident insurance\n• Competitive salary with performance-linked incentives\n• Flexible working hours\n• Professional development and training programs\n• Meal coupons and food allowance\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Hyderabad, Telangana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Alkem Laboratories!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Alkem Laboratories",
+      "value": "233-3-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Alkem Laboratories",
+      "sameAs": "https://www.google.com/search?q=Alkem%20Laboratories",
+      "logo": "https://logo.clearbit.com/alkemlaboratories.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Alkem Laboratories Office",
+        "addressLocality": "Hyderabad",
+        "addressRegion": "Telangana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "Medical Terminology, CPT Codes, Telemedicine, Patient Care, ICD-10, Medical Coding, Medical Ethics, ICU Management",
+    "responsibilities": "Maintain accurate clinical documentation in electronic health records. Maintain sterile environments and follow infection control protocols. Conduct routine health assessments and screenings. Monitor patient progress and adjust treatment plans accordingly. Ensure patient privacy and maintain confidentiality. Collaborate with pharmaceutical representatives and medical suppliers. Respond to medical emergencies and provide immediate care",
+    "benefits": "Maternity and paternity leave. Life and accident insurance. Competitive salary with performance-linked incentives. Flexible working hours. Professional development and training programs. Meal coupons and food allowance",
+    "industry": "healthcare",
+    "occupationalCategory": "Surgeon",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Maternity and paternity leave, Life and accident insurance, Competitive salary with performance-linked incentives, Flexible working hours, Professional development and training programs, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "Alkem Laboratories has an exciting opening for a Surgeon at our Hyderabad office. Join a company that values innovation, collaboration, and continuous learning.",
+    "keywords": "Surgeon, Alkem Laboratories, jobs in Hyderabad, Telangana jobs, healthcare jobs India, Medical Terminology, CPT Codes, Telemedicine, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:21:56.235Z",
+  "page": 58
+}
