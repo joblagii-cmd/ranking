@@ -1,0 +1,93 @@
+{
+  "slug": "pune-university-teacher-howrah-2026-05-23-0",
+  "title": "Job Opening Teacher at Pune University",
+  "company": "Pune University",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Howrah",
+    "state": "West Bengal",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "E-learning",
+    "IB Curriculum",
+    "Curriculum Development",
+    "Pedagogy",
+    "Research Skills",
+    "Special Education",
+    "Lesson Planning",
+    "CBSE/ICSE Standards"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Job Opening Teacher at Pune University",
+    "description": "An exciting career opportunity awaits you at Pune University. We are on the lookout for a dedicated Teacher to strengthen our Howrah-based team.\n\nAbout Pune University:\nPune University is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with academic counselors for student career guidance\n• Develop and deliver engaging lesson plans for students\n• Create curriculum-aligned learning materials and assessments\n• Design formative and summative assessments aligned to learning objectives\n• Conduct doubt-clearing sessions and remedial classes for weak students\n• Utilize technology and digital tools to enhance learning outcomes\n• Monitor student progress and provide timely feedback\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 10-15 years of relevant experience\n• Proficiency in E-learning\n• Proficiency in IB Curriculum\n• Proficiency in Curriculum Development\n• Proficiency in Pedagogy\n• Proficiency in Research Skills\n• Proficiency in Special Education\n• Proficiency in Lesson Planning\n• Proficiency in CBSE/ICSE Standards\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Maternity and paternity leave\n• Referral bonus program\n• Modern office with recreational facilities\n• Competitive salary with performance-linked incentives\n• Meal coupons and food allowance\n• Comprehensive health insurance for self and family\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Howrah, West Bengal, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Pune University!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Pune University",
+      "value": "538-0-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Pune University",
+      "sameAs": "https://www.google.com/search?q=Pune%20University",
+      "logo": "https://logo.clearbit.com/puneuniversity.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Pune University Office",
+        "addressLocality": "Howrah",
+        "addressRegion": "West Bengal",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "E-learning, IB Curriculum, Curriculum Development, Pedagogy, Research Skills, Special Education, Lesson Planning, CBSE/ICSE Standards",
+    "responsibilities": "Coordinate with academic counselors for student career guidance. Develop and deliver engaging lesson plans for students. Create curriculum-aligned learning materials and assessments. Design formative and summative assessments aligned to learning objectives. Conduct doubt-clearing sessions and remedial classes for weak students. Utilize technology and digital tools to enhance learning outcomes. Monitor student progress and provide timely feedback",
+    "benefits": "Maternity and paternity leave. Referral bonus program. Modern office with recreational facilities. Competitive salary with performance-linked incentives. Meal coupons and food allowance. Comprehensive health insurance for self and family",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Maternity and paternity leave, Referral bonus program, Modern office with recreational facilities, Competitive salary with performance-linked incentives, Meal coupons and food allowance, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Pune University. We are on the lookout for a dedicated Teacher to strengthen our Howrah-based team.",
+    "keywords": "Teacher, Pune University, jobs in Howrah, West Bengal jobs, education jobs India, E-learning, IB Curriculum, Curriculum Development, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:31:11.550Z",
+  "page": 134
+}
