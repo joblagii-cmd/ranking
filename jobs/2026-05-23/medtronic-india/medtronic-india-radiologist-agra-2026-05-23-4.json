@@ -1,0 +1,93 @@
+{
+  "slug": "medtronic-india-radiologist-agra-2026-05-23-4",
+  "title": "Principal Radiologist at Medtronic India",
+  "company": "Medtronic India",
+  "industry": "healthcare",
+  "role": "Radiologist",
+  "location": {
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Diagnostic Skills",
+    "Clinical Documentation",
+    "ICU Management",
+    "Infection Control",
+    "CPT Codes",
+    "Health Informatics",
+    "NABH Standards",
+    "Medical Coding"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Principal Radiologist at Medtronic India",
+    "description": "Medtronic India, one of India's leading organizations, is hiring a Radiologist for our Agra operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Medtronic India:\nMedtronic India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Conduct routine health assessments and screenings\n• Maintain sterile environments and follow infection control protocols\n• Provide high-quality patient care and maintain patient records\n• Educate patients and families on health management and disease prevention\n• Diagnose and treat medical conditions following established protocols\n• Respond to medical emergencies and provide immediate care\n• Attend continuing medical education programs and training\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 6-10 years of relevant experience\n• Proficiency in Diagnostic Skills\n• Proficiency in Clinical Documentation\n• Proficiency in ICU Management\n• Proficiency in Infection Control\n• Proficiency in CPT Codes\n• Proficiency in Health Informatics\n• Proficiency in NABH Standards\n• Proficiency in Medical Coding\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Provident Fund and Gratuity as per company policy\n• Comprehensive health insurance for self and family\n• Learning & development budget\n• Professional development and training programs\n• Company-sponsored certifications\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Agra, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Medtronic India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Medtronic India",
+      "value": "264-4-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Medtronic India",
+      "sameAs": "https://www.google.com/search?q=Medtronic%20India",
+      "logo": "https://logo.clearbit.com/medtronicindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Medtronic India Office",
+        "addressLocality": "Agra",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "Diagnostic Skills, Clinical Documentation, ICU Management, Infection Control, CPT Codes, Health Informatics, NABH Standards, Medical Coding",
+    "responsibilities": "Conduct routine health assessments and screenings. Maintain sterile environments and follow infection control protocols. Provide high-quality patient care and maintain patient records. Educate patients and families on health management and disease prevention. Diagnose and treat medical conditions following established protocols. Respond to medical emergencies and provide immediate care. Attend continuing medical education programs and training",
+    "benefits": "Transportation and conveyance allowance. Provident Fund and Gratuity as per company policy. Comprehensive health insurance for self and family. Learning & development budget. Professional development and training programs. Company-sponsored certifications",
+    "industry": "healthcare",
+    "occupationalCategory": "Radiologist",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Provident Fund and Gratuity as per company policy, Comprehensive health insurance for self and family, Learning & development budget, Professional development and training programs, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "Medtronic India, one of India's leading organizations, is hiring a Radiologist for our Agra operations. We offer a competitive salary package along with world-c",
+    "keywords": "Radiologist, Medtronic India, jobs in Agra, Uttar Pradesh jobs, healthcare jobs India, Diagnostic Skills, Clinical Documentation, ICU Management, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:22:47.303Z",
+  "page": 65
+}
