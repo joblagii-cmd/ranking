@@ -1,0 +1,93 @@
+{
+  "slug": "icliniq-senior-software-engineer-ranchi-2026-05-23-1",
+  "title": "Senior Software Engineer - iCliniq - Top MNC",
+  "company": "iCliniq",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Machine Learning",
+    "SQL",
+    "Microservices",
+    "Kubernetes",
+    "Python",
+    "React",
+    "REST APIs",
+    "Go"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - iCliniq - Top MNC",
+    "description": "iCliniq invites applications from qualified candidates for the position of Senior Software Engineer at our Ranchi location. This role offers excellent career advancement prospects.\n\nAbout iCliniq:\niCliniq is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write and execute unit tests and integration tests\n• Participate in code reviews and contribute to technical discussions\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Optimize application performance and ensure high availability\n• Contribute to system architecture and technical design decisions\n• Participate in on-call rotation for production support\n• Implement new features based on product requirements\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 3-6 years of relevant experience\n• Proficiency in Machine Learning\n• Proficiency in SQL\n• Proficiency in Microservices\n• Proficiency in Kubernetes\n• Proficiency in Python\n• Proficiency in React\n• Proficiency in REST APIs\n• Proficiency in Go\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Modern office with recreational facilities\n• Referral bonus program\n• Provident Fund and Gratuity as per company policy\n• Company-sponsored certifications\n• International travel opportunities for senior roles\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Ranchi, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with iCliniq!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "iCliniq",
+      "value": "119-1-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "iCliniq",
+      "sameAs": "https://www.google.com/search?q=iCliniq",
+      "logo": "https://logo.clearbit.com/icliniq.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "iCliniq Office",
+        "addressLocality": "Ranchi",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "Machine Learning, SQL, Microservices, Kubernetes, Python, React, REST APIs, Go",
+    "responsibilities": "Write and execute unit tests and integration tests. Participate in code reviews and contribute to technical discussions. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Optimize application performance and ensure high availability. Contribute to system architecture and technical design decisions. Participate in on-call rotation for production support. Implement new features based on product requirements",
+    "benefits": "Annual paid leaves and casual leaves. Modern office with recreational facilities. Referral bonus program. Provident Fund and Gratuity as per company policy. Company-sponsored certifications. International travel opportunities for senior roles",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Modern office with recreational facilities, Referral bonus program, Provident Fund and Gratuity as per company policy, Company-sponsored certifications, International travel opportunities for senior roles"
+  },
+  "meta": {
+    "description": "iCliniq invites applications from qualified candidates for the position of Senior Software Engineer at our Ranchi location. This role offers excellent career ad",
+    "keywords": "Senior Software Engineer, iCliniq, jobs in Ranchi, Jharkhand jobs, technology jobs India, Machine Learning, SQL, Microservices, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:18:20.073Z",
+  "page": 29
+}

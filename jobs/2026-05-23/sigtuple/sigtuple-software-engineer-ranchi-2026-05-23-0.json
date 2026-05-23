@@ -1,0 +1,94 @@
+{
+  "slug": "sigtuple-software-engineer-ranchi-2026-05-23-0",
+  "title": "Opening for Software Engineer at SigTuple",
+  "company": "SigTuple",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Microservices",
+    "MongoDB",
+    "JavaScript",
+    "Rust",
+    "TensorFlow",
+    "Machine Learning",
+    "Git",
+    "Python"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Opening for Software Engineer at SigTuple",
+    "description": "SigTuple invites applications from qualified candidates for the position of Software Engineer at our Ranchi location. This role offers excellent career advancement prospects.\n\nAbout SigTuple:\nSigTuple is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Participate in code reviews and contribute to technical discussions\n• Ensure code security and follow best practices for data protection\n• Design, develop and maintain scalable software applications\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Write and execute unit tests and integration tests\n• Optimize application performance and ensure high availability\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 3-6 years of relevant experience\n• Proficiency in Microservices\n• Proficiency in MongoDB\n• Proficiency in JavaScript\n• Proficiency in Rust\n• Proficiency in TensorFlow\n• Proficiency in Machine Learning\n• Proficiency in Git\n• Proficiency in Python\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Life and accident insurance\n• Referral bonus program\n• International travel opportunities for senior roles\n• Transportation and conveyance allowance\n• Maternity and paternity leave\n• Company-sponsored certifications\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Ranchi, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with SigTuple!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "SigTuple",
+      "value": "120-0-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "SigTuple",
+      "sameAs": "https://www.google.com/search?q=SigTuple",
+      "logo": "https://logo.clearbit.com/sigtuple.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "SigTuple Office",
+        "addressLocality": "Ranchi",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "Microservices, MongoDB, JavaScript, Rust, TensorFlow, Machine Learning, Git, Python",
+    "responsibilities": "Mentor junior developers and conduct knowledge-sharing sessions. Participate in code reviews and contribute to technical discussions. Ensure code security and follow best practices for data protection. Design, develop and maintain scalable software applications. Work with agile methodologies including daily stand-ups and sprint planning. Write and execute unit tests and integration tests. Optimize application performance and ensure high availability",
+    "benefits": "Life and accident insurance. Referral bonus program. International travel opportunities for senior roles. Transportation and conveyance allowance. Maternity and paternity leave. Company-sponsored certifications",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Referral bonus program, International travel opportunities for senior roles, Transportation and conveyance allowance, Maternity and paternity leave, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "SigTuple invites applications from qualified candidates for the position of Software Engineer at our Ranchi location. This role offers excellent career advancem",
+    "keywords": "Software Engineer, SigTuple, jobs in Ranchi, Jharkhand jobs, technology jobs India, Microservices, MongoDB, JavaScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:18:20.073Z",
+  "page": 29
+}

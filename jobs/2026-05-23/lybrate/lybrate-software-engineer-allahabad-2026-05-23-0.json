@@ -1,0 +1,93 @@
+{
+  "slug": "lybrate-software-engineer-allahabad-2026-05-23-0",
+  "title": "Opening for Software Engineer at Lybrate",
+  "company": "Lybrate",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Allahabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Git",
+    "Java",
+    "Python",
+    "Machine Learning",
+    "Agile/Scrum",
+    "SQL",
+    "MongoDB",
+    "Microservices"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Opening for Software Engineer at Lybrate",
+    "description": "Lybrate invites applications from qualified candidates for the position of Software Engineer at our Allahabad location. This role offers excellent career advancement prospects.\n\nAbout Lybrate:\nLybrate is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Ensure code security and follow best practices for data protection\n• Contribute to system architecture and technical design decisions\n• Design, develop and maintain scalable software applications\n• Implement new features based on product requirements\n• Mentor junior developers and conduct knowledge-sharing sessions\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 10-15 years of relevant experience\n• Proficiency in Git\n• Proficiency in Java\n• Proficiency in Python\n• Proficiency in Machine Learning\n• Proficiency in Agile/Scrum\n• Proficiency in SQL\n• Proficiency in MongoDB\n• Proficiency in Microservices\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Employee stock options (ESOPs) for eligible roles\n• Maternity and paternity leave\n• Recognition and rewards programs\n• Professional development and training programs\n• Life and accident insurance\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Allahabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Lybrate!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Lybrate",
+      "value": "118-0-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Lybrate",
+      "sameAs": "https://www.google.com/search?q=Lybrate",
+      "logo": "https://logo.clearbit.com/lybrate.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Lybrate Office",
+        "addressLocality": "Allahabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "Git, Java, Python, Machine Learning, Agile/Scrum, SQL, MongoDB, Microservices",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Work with agile methodologies including daily stand-ups and sprint planning. Ensure code security and follow best practices for data protection. Contribute to system architecture and technical design decisions. Design, develop and maintain scalable software applications. Implement new features based on product requirements. Mentor junior developers and conduct knowledge-sharing sessions",
+    "benefits": "International travel opportunities for senior roles. Employee stock options (ESOPs) for eligible roles. Maternity and paternity leave. Recognition and rewards programs. Professional development and training programs. Life and accident insurance",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Employee stock options (ESOPs) for eligible roles, Maternity and paternity leave, Recognition and rewards programs, Professional development and training programs, Life and accident insurance"
+  },
+  "meta": {
+    "description": "Lybrate invites applications from qualified candidates for the position of Software Engineer at our Allahabad location. This role offers excellent career advanc",
+    "keywords": "Software Engineer, Lybrate, jobs in Allahabad, Uttar Pradesh jobs, technology jobs India, Git, Java, Python, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:18:20.072Z",
+  "page": 29
+}

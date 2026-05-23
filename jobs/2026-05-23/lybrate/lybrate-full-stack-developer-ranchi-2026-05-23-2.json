@@ -1,0 +1,94 @@
+{
+  "slug": "lybrate-full-stack-developer-ranchi-2026-05-23-2",
+  "title": "Lybrate is Hiring: Full Stack Developer (Senior)",
+  "company": "Lybrate",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "CI/CD",
+    "AWS",
+    "Docker",
+    "Rust",
+    "Git",
+    "Go",
+    "JavaScript",
+    "Python"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Lybrate is Hiring: Full Stack Developer (Senior)",
+    "description": "Lybrate invites applications from qualified candidates for the position of Full Stack Developer at our Ranchi location. This role offers excellent career advancement prospects.\n\nAbout Lybrate:\nLybrate is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in on-call rotation for production support\n• Design, develop and maintain scalable software applications\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Ensure code security and follow best practices for data protection\n• Integrate third-party APIs and services\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 3-6 years of relevant experience\n• Proficiency in CI/CD\n• Proficiency in AWS\n• Proficiency in Docker\n• Proficiency in Rust\n• Proficiency in Git\n• Proficiency in Go\n• Proficiency in JavaScript\n• Proficiency in Python\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Meal coupons and food allowance\n• Annual paid leaves and casual leaves\n• Provident Fund and Gratuity as per company policy\n• Transportation and conveyance allowance\n• Employee stock options (ESOPs) for eligible roles\n• Modern office with recreational facilities\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Ranchi, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Lybrate!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Lybrate",
+      "value": "118-2-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Lybrate",
+      "sameAs": "https://www.google.com/search?q=Lybrate",
+      "logo": "https://logo.clearbit.com/lybrate.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Lybrate Office",
+        "addressLocality": "Ranchi",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "CI/CD, AWS, Docker, Rust, Git, Go, JavaScript, Python",
+    "responsibilities": "Participate in on-call rotation for production support. Design, develop and maintain scalable software applications. Troubleshoot, debug, and resolve software defects and performance issues. Mentor junior developers and conduct knowledge-sharing sessions. Work with agile methodologies including daily stand-ups and sprint planning. Ensure code security and follow best practices for data protection. Integrate third-party APIs and services",
+    "benefits": "Meal coupons and food allowance. Annual paid leaves and casual leaves. Provident Fund and Gratuity as per company policy. Transportation and conveyance allowance. Employee stock options (ESOPs) for eligible roles. Modern office with recreational facilities",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Meal coupons and food allowance, Annual paid leaves and casual leaves, Provident Fund and Gratuity as per company policy, Transportation and conveyance allowance, Employee stock options (ESOPs) for eligible roles, Modern office with recreational facilities"
+  },
+  "meta": {
+    "description": "Lybrate invites applications from qualified candidates for the position of Full Stack Developer at our Ranchi location. This role offers excellent career advanc",
+    "keywords": "Full Stack Developer, Lybrate, jobs in Ranchi, Jharkhand jobs, technology jobs India, CI/CD, AWS, Docker, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:18:20.072Z",
+  "page": 29
+}
