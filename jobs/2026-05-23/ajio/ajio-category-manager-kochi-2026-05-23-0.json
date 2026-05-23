@@ -1,0 +1,93 @@
+{
+  "slug": "ajio-category-manager-kochi-2026-05-23-0",
+  "title": "Hiring Category Manager at Ajio",
+  "company": "Ajio",
+  "industry": "ecommerce",
+  "role": "Category Manager",
+  "location": {
+    "city": "Kochi",
+    "state": "Kerala",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Influencer Marketing",
+    "MS Excel",
+    "Affiliate Marketing",
+    "SEO/SEM",
+    "Performance Marketing",
+    "A/B Testing",
+    "Product Management",
+    "Email Marketing"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Hiring Category Manager at Ajio",
+    "description": "An exciting career opportunity awaits you at Ajio. We are on the lookout for a dedicated Category Manager to strengthen our Kochi-based team.\n\nAbout Ajio:\nAjio is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Track key performance indicators including GMV, conversion rate, and ROI\n• Coordinate with vendors and suppliers for inventory management\n• Execute digital marketing campaigns across Google, Meta, and other channels\n• Manage customer reviews, ratings, and return/refund processes\n• Manage email marketing campaigns and push notifications\n• Analyze sales data and customer behavior to drive revenue growth\n• Monitor and improve Net Promoter Score (NPS) and customer satisfaction\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 1-3 years of relevant experience\n• Proficiency in Influencer Marketing\n• Proficiency in MS Excel\n• Proficiency in Affiliate Marketing\n• Proficiency in SEO/SEM\n• Proficiency in Performance Marketing\n• Proficiency in A/B Testing\n• Proficiency in Product Management\n• Proficiency in Email Marketing\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Life and accident insurance\n• Maternity and paternity leave\n• Meal coupons and food allowance\n• Annual paid leaves and casual leaves\n• Comprehensive health insurance for self and family\n• Learning & development budget\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Kochi, Kerala, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Ajio!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Ajio",
+      "value": "302-0-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Ajio",
+      "sameAs": "https://www.google.com/search?q=Ajio",
+      "logo": "https://logo.clearbit.com/ajio.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Ajio Office",
+        "addressLocality": "Kochi",
+        "addressRegion": "Kerala",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "Influencer Marketing, MS Excel, Affiliate Marketing, SEO/SEM, Performance Marketing, A/B Testing, Product Management, Email Marketing",
+    "responsibilities": "Track key performance indicators including GMV, conversion rate, and ROI. Coordinate with vendors and suppliers for inventory management. Execute digital marketing campaigns across Google, Meta, and other channels. Manage customer reviews, ratings, and return/refund processes. Manage email marketing campaigns and push notifications. Analyze sales data and customer behavior to drive revenue growth. Monitor and improve Net Promoter Score (NPS) and customer satisfaction",
+    "benefits": "Life and accident insurance. Maternity and paternity leave. Meal coupons and food allowance. Annual paid leaves and casual leaves. Comprehensive health insurance for self and family. Learning & development budget",
+    "industry": "ecommerce",
+    "occupationalCategory": "Category Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Maternity and paternity leave, Meal coupons and food allowance, Annual paid leaves and casual leaves, Comprehensive health insurance for self and family, Learning & development budget"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Ajio. We are on the lookout for a dedicated Category Manager to strengthen our Kochi-based team.",
+    "keywords": "Category Manager, Ajio, jobs in Kochi, Kerala jobs, ecommerce jobs India, Influencer Marketing, MS Excel, Affiliate Marketing, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:24:02.288Z",
+  "page": 75
+}
