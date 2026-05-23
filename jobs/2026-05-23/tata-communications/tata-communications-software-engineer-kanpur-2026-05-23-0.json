@@ -1,0 +1,93 @@
+{
+  "slug": "tata-communications-software-engineer-kanpur-2026-05-23-0",
+  "title": "Immediate Requirement Software Engineer at Tata Communications",
+  "company": "Tata Communications",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "AWS",
+    "SQL",
+    "Git",
+    "Node.js",
+    "Kubernetes",
+    "JavaScript",
+    "Go",
+    "Python"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Immediate Requirement Software Engineer at Tata Communications",
+    "description": "An exciting career opportunity awaits you at Tata Communications. We are on the lookout for a dedicated Software Engineer to strengthen our Kanpur-based team.\n\nAbout Tata Communications:\nTata Communications is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Implement new features based on product requirements\n• Participate in on-call rotation for production support\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Contribute to system architecture and technical design decisions\n• Design, develop and maintain scalable software applications\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 10-15 years of relevant experience\n• Proficiency in AWS\n• Proficiency in SQL\n• Proficiency in Git\n• Proficiency in Node.js\n• Proficiency in Kubernetes\n• Proficiency in JavaScript\n• Proficiency in Go\n• Proficiency in Python\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Provident Fund and Gratuity as per company policy\n• Modern office with recreational facilities\n• Mobile and internet reimbursement\n• Company-sponsored certifications\n• Learning & development budget\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Kanpur, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Tata Communications!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Tata Communications",
+      "value": "81-0-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Tata Communications",
+      "sameAs": "https://www.google.com/search?q=Tata%20Communications",
+      "logo": "https://logo.clearbit.com/tatacommunications.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Tata Communications Office",
+        "addressLocality": "Kanpur",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "AWS, SQL, Git, Node.js, Kubernetes, JavaScript, Go, Python",
+    "responsibilities": "Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Implement new features based on product requirements. Participate in on-call rotation for production support. Troubleshoot, debug, and resolve software defects and performance issues. Mentor junior developers and conduct knowledge-sharing sessions. Contribute to system architecture and technical design decisions. Design, develop and maintain scalable software applications",
+    "benefits": "Competitive salary with performance-linked incentives. Provident Fund and Gratuity as per company policy. Modern office with recreational facilities. Mobile and internet reimbursement. Company-sponsored certifications. Learning & development budget",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Provident Fund and Gratuity as per company policy, Modern office with recreational facilities, Mobile and internet reimbursement, Company-sponsored certifications, Learning & development budget"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Tata Communications. We are on the lookout for a dedicated Software Engineer to strengthen our Kanpur-based team.",
+    "keywords": "Software Engineer, Tata Communications, jobs in Kanpur, Uttar Pradesh jobs, technology jobs India, AWS, SQL, Git, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:17:12.798Z",
+  "page": 20
+}

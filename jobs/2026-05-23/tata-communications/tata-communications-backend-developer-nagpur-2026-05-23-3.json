@@ -1,0 +1,93 @@
+{
+  "slug": "tata-communications-backend-developer-nagpur-2026-05-23-3",
+  "title": "Backend Developer Vacancy at Tata Communications - 2026 Batch",
+  "company": "Tata Communications",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Docker",
+    "Python",
+    "MongoDB",
+    "Node.js",
+    "Kubernetes",
+    "REST APIs",
+    "AWS",
+    "Agile/Scrum"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Tata Communications - 2026 Batch",
+    "description": "Join the Tata Communications family as a Backend Developer in Nagpur. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Tata Communications:\nTata Communications is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Contribute to system architecture and technical design decisions\n• Write and execute unit tests and integration tests\n• Write clean, maintainable, and well-documented code\n• Participate in code reviews and contribute to technical discussions\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 1-3 years of relevant experience\n• Proficiency in Docker\n• Proficiency in Python\n• Proficiency in MongoDB\n• Proficiency in Node.js\n• Proficiency in Kubernetes\n• Proficiency in REST APIs\n• Proficiency in AWS\n• Proficiency in Agile/Scrum\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Company-sponsored certifications\n• Comprehensive health insurance for self and family\n• Meal coupons and food allowance\n• Annual performance appraisal\n• Flexible working hours\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Nagpur, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Tata Communications!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Tata Communications",
+      "value": "81-3-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Tata Communications",
+      "sameAs": "https://www.google.com/search?q=Tata%20Communications",
+      "logo": "https://logo.clearbit.com/tatacommunications.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Tata Communications Office",
+        "addressLocality": "Nagpur",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "Docker, Python, MongoDB, Node.js, Kubernetes, REST APIs, AWS, Agile/Scrum",
+    "responsibilities": "Design, develop and maintain scalable software applications. Mentor junior developers and conduct knowledge-sharing sessions. Troubleshoot, debug, and resolve software defects and performance issues. Contribute to system architecture and technical design decisions. Write and execute unit tests and integration tests. Write clean, maintainable, and well-documented code. Participate in code reviews and contribute to technical discussions",
+    "benefits": "Provident Fund and Gratuity as per company policy. Company-sponsored certifications. Comprehensive health insurance for self and family. Meal coupons and food allowance. Annual performance appraisal. Flexible working hours",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Company-sponsored certifications, Comprehensive health insurance for self and family, Meal coupons and food allowance, Annual performance appraisal, Flexible working hours"
+  },
+  "meta": {
+    "description": "Join the Tata Communications family as a Backend Developer in Nagpur. We believe in empowering our employees with the tools, training, and environment they need",
+    "keywords": "Backend Developer, Tata Communications, jobs in Nagpur, Maharashtra jobs, technology jobs India, Docker, Python, MongoDB, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:17:12.799Z",
+  "page": 20
+}
