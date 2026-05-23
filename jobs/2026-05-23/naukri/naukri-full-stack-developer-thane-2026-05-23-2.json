@@ -1,0 +1,94 @@
+{
+  "slug": "naukri-full-stack-developer-thane-2026-05-23-2",
+  "title": "Naukri is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "Naukri",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Thane",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "JavaScript",
+    "Go",
+    "Rust",
+    "Node.js",
+    "Git",
+    "MongoDB",
+    "Docker",
+    "Microservices"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Naukri is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "Join the Naukri family as a Full Stack Developer in Thane. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Naukri:\nNaukri is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Optimize application performance and ensure high availability\n• Write clean, maintainable, and well-documented code\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Ensure code security and follow best practices for data protection\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Participate in on-call rotation for production support\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 3-6 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Go\n• Proficiency in Rust\n• Proficiency in Node.js\n• Proficiency in Git\n• Proficiency in MongoDB\n• Proficiency in Docker\n• Proficiency in Microservices\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• International travel opportunities for senior roles\n• Learning & development budget\n• Referral bonus program\n• Maternity and paternity leave\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Thane, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Naukri!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Naukri",
+      "value": "86-2-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Naukri",
+      "sameAs": "https://www.google.com/search?q=Naukri",
+      "logo": "https://logo.clearbit.com/naukri.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Naukri Office",
+        "addressLocality": "Thane",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "JavaScript, Go, Rust, Node.js, Git, MongoDB, Docker, Microservices",
+    "responsibilities": "Optimize application performance and ensure high availability. Write clean, maintainable, and well-documented code. Troubleshoot, debug, and resolve software defects and performance issues. Work with agile methodologies including daily stand-ups and sprint planning. Ensure code security and follow best practices for data protection. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Participate in on-call rotation for production support",
+    "benefits": "Annual paid leaves and casual leaves. International travel opportunities for senior roles. Learning & development budget. Referral bonus program. Maternity and paternity leave. Employee stock options (ESOPs) for eligible roles",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, International travel opportunities for senior roles, Learning & development budget, Referral bonus program, Maternity and paternity leave, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "Join the Naukri family as a Full Stack Developer in Thane. We believe in empowering our employees with the tools, training, and environment they need to succeed",
+    "keywords": "Full Stack Developer, Naukri, jobs in Thane, Maharashtra jobs, technology jobs India, JavaScript, Go, Rust, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:17:20.016Z",
+  "page": 21
+}
