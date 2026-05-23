@@ -1,0 +1,93 @@
+{
+  "slug": "ninjacart-full-stack-developer-rajkot-2026-05-23-2",
+  "title": "Ninjacart is Hiring: Full Stack Developer (Senior)",
+  "company": "Ninjacart",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "MongoDB",
+    "JavaScript",
+    "TypeScript",
+    "Rust",
+    "Microservices",
+    "Agile/Scrum",
+    "AWS",
+    "Machine Learning"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Ninjacart is Hiring: Full Stack Developer (Senior)",
+    "description": "Ninjacart invites applications from qualified candidates for the position of Full Stack Developer at our Rajkot location. This role offers excellent career advancement prospects.\n\nAbout Ninjacart:\nNinjacart is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in code reviews and contribute to technical discussions\n• Participate in on-call rotation for production support\n• Implement new features based on product requirements\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Write and execute unit tests and integration tests\n• Optimize application performance and ensure high availability\n• Write clean, maintainable, and well-documented code\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 10-15 years of relevant experience\n• Proficiency in MongoDB\n• Proficiency in JavaScript\n• Proficiency in TypeScript\n• Proficiency in Rust\n• Proficiency in Microservices\n• Proficiency in Agile/Scrum\n• Proficiency in AWS\n• Proficiency in Machine Learning\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Professional development and training programs\n• Competitive salary with performance-linked incentives\n• Work-from-home flexibility\n• Flexible working hours\n• Annual paid leaves and casual leaves\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Rajkot, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Ninjacart!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Ninjacart",
+      "value": "106-2-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Ninjacart",
+      "sameAs": "https://www.google.com/search?q=Ninjacart",
+      "logo": "https://logo.clearbit.com/ninjacart.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Ninjacart Office",
+        "addressLocality": "Rajkot",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "MongoDB, JavaScript, TypeScript, Rust, Microservices, Agile/Scrum, AWS, Machine Learning",
+    "responsibilities": "Participate in code reviews and contribute to technical discussions. Participate in on-call rotation for production support. Implement new features based on product requirements. Mentor junior developers and conduct knowledge-sharing sessions. Write and execute unit tests and integration tests. Optimize application performance and ensure high availability. Write clean, maintainable, and well-documented code",
+    "benefits": "International travel opportunities for senior roles. Professional development and training programs. Competitive salary with performance-linked incentives. Work-from-home flexibility. Flexible working hours. Annual paid leaves and casual leaves",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Professional development and training programs, Competitive salary with performance-linked incentives, Work-from-home flexibility, Flexible working hours, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "Ninjacart invites applications from qualified candidates for the position of Full Stack Developer at our Rajkot location. This role offers excellent career adva",
+    "keywords": "Full Stack Developer, Ninjacart, jobs in Rajkot, Gujarat jobs, technology jobs India, MongoDB, JavaScript, TypeScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:17:58.369Z",
+  "page": 26
+}

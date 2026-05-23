@@ -1,0 +1,93 @@
+{
+  "slug": "nature-s-basket-senior-software-engineer-rajkot-2026-05-23-1",
+  "title": "Senior Software Engineer - Nature's Basket - Top MNC",
+  "company": "Nature's Basket",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "SQL",
+    "CI/CD",
+    "Docker",
+    "MongoDB",
+    "TypeScript",
+    "Rust",
+    "Microservices",
+    "Machine Learning"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Nature's Basket - Top MNC",
+    "description": "Nature's Basket invites applications from qualified candidates for the position of Senior Software Engineer at our Rajkot location. This role offers excellent career advancement prospects.\n\nAbout Nature's Basket:\nNature's Basket is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure code security and follow best practices for data protection\n• Participate in code reviews and contribute to technical discussions\n• Write clean, maintainable, and well-documented code\n• Write and execute unit tests and integration tests\n• Implement new features based on product requirements\n• Integrate third-party APIs and services\n• Troubleshoot, debug, and resolve software defects and performance issues\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 0-1 years of relevant experience\n• Proficiency in SQL\n• Proficiency in CI/CD\n• Proficiency in Docker\n• Proficiency in MongoDB\n• Proficiency in TypeScript\n• Proficiency in Rust\n• Proficiency in Microservices\n• Proficiency in Machine Learning\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Annual paid leaves and casual leaves\n• Comprehensive health insurance for self and family\n• Referral bonus program\n• Provident Fund and Gratuity as per company policy\n• Professional development and training programs\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Rajkot, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Nature's Basket!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Nature's Basket",
+      "value": "105-1-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Nature's Basket",
+      "sameAs": "https://www.google.com/search?q=Nature's%20Basket",
+      "logo": "https://logo.clearbit.com/naturesbasket.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Nature's Basket Office",
+        "addressLocality": "Rajkot",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "SQL, CI/CD, Docker, MongoDB, TypeScript, Rust, Microservices, Machine Learning",
+    "responsibilities": "Ensure code security and follow best practices for data protection. Participate in code reviews and contribute to technical discussions. Write clean, maintainable, and well-documented code. Write and execute unit tests and integration tests. Implement new features based on product requirements. Integrate third-party APIs and services. Troubleshoot, debug, and resolve software defects and performance issues",
+    "benefits": "Competitive salary with performance-linked incentives. Annual paid leaves and casual leaves. Comprehensive health insurance for self and family. Referral bonus program. Provident Fund and Gratuity as per company policy. Professional development and training programs",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Annual paid leaves and casual leaves, Comprehensive health insurance for self and family, Referral bonus program, Provident Fund and Gratuity as per company policy, Professional development and training programs"
+  },
+  "meta": {
+    "description": "Nature's Basket invites applications from qualified candidates for the position of Senior Software Engineer at our Rajkot location. This role offers excellent c",
+    "keywords": "Senior Software Engineer, Nature's Basket, jobs in Rajkot, Gujarat jobs, technology jobs India, SQL, CI/CD, Docker, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:17:58.368Z",
+  "page": 26
+}
