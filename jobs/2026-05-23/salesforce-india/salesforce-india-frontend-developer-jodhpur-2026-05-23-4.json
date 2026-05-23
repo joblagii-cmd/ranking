@@ -1,0 +1,93 @@
+{
+  "slug": "salesforce-india-frontend-developer-jodhpur-2026-05-23-4",
+  "title": "Mid-Level Frontend Developer at Salesforce India",
+  "company": "Salesforce India",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Rust",
+    "React",
+    "TensorFlow",
+    "Agile/Scrum",
+    "Go",
+    "SQL",
+    "TypeScript",
+    "Kubernetes"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Frontend Developer at Salesforce India",
+    "description": "Salesforce India, one of India's leading organizations, is hiring a Frontend Developer for our Jodhpur operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Salesforce India:\nSalesforce India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Optimize application performance and ensure high availability\n• Implement new features based on product requirements\n• Integrate third-party APIs and services\n• Contribute to system architecture and technical design decisions\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in code reviews and contribute to technical discussions\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 12-20 years of relevant experience\n• Proficiency in Rust\n• Proficiency in React\n• Proficiency in TensorFlow\n• Proficiency in Agile/Scrum\n• Proficiency in Go\n• Proficiency in SQL\n• Proficiency in TypeScript\n• Proficiency in Kubernetes\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Life and accident insurance\n• Provident Fund and Gratuity as per company policy\n• Recognition and rewards programs\n• Referral bonus program\n• Work-from-home flexibility\n• Comprehensive health insurance for self and family\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Jodhpur, Rajasthan, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Salesforce India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Salesforce India",
+      "value": "44-4-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Salesforce India",
+      "sameAs": "https://www.google.com/search?q=Salesforce%20India",
+      "logo": "https://logo.clearbit.com/salesforceindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Salesforce India Office",
+        "addressLocality": "Jodhpur",
+        "addressRegion": "Rajasthan",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "Rust, React, TensorFlow, Agile/Scrum, Go, SQL, TypeScript, Kubernetes",
+    "responsibilities": "Optimize application performance and ensure high availability. Implement new features based on product requirements. Integrate third-party APIs and services. Contribute to system architecture and technical design decisions. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Collaborate with cross-functional teams including product, design, and QA. Participate in code reviews and contribute to technical discussions",
+    "benefits": "Life and accident insurance. Provident Fund and Gratuity as per company policy. Recognition and rewards programs. Referral bonus program. Work-from-home flexibility. Comprehensive health insurance for self and family",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Provident Fund and Gratuity as per company policy, Recognition and rewards programs, Referral bonus program, Work-from-home flexibility, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "Salesforce India, one of India's leading organizations, is hiring a Frontend Developer for our Jodhpur operations. We offer a competitive salary package along w",
+    "keywords": "Frontend Developer, Salesforce India, jobs in Jodhpur, Rajasthan jobs, technology jobs India, Rust, React, TensorFlow, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:15:58.480Z",
+  "page": 10
+}
