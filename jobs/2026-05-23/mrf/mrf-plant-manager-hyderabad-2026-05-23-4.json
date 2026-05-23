@@ -1,0 +1,93 @@
+{
+  "slug": "mrf-plant-manager-hyderabad-2026-05-23-4",
+  "title": "Senior Plant Manager at MRF",
+  "company": "MRF",
+  "industry": "manufacturing",
+  "role": "Plant Manager",
+  "location": {
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Supply Chain Management",
+    "TPM",
+    "Lean Manufacturing",
+    "AutoCAD",
+    "5S",
+    "ISO 9001",
+    "SAP MM/PP",
+    "Statistical Process Control"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Plant Manager at MRF",
+    "description": "Are you a skilled Plant Manager looking for your next big career move? MRF in Hyderabad offers you the perfect platform to grow professionally and personally.\n\nAbout MRF:\nMRF is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Manage raw material procurement and inventory levels\n• Ensure compliance with safety regulations and factory acts\n• Maintain accurate production records and prepare daily reports\n• Ensure product quality meets internal and customer specifications\n• Coordinate with design and engineering teams on product improvements\n• Implement 5S, Kaizen, and Six Sigma practices on the shop floor\n• Prepare production cost analysis and efficiency reports\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 10-15 years of relevant experience\n• Proficiency in Supply Chain Management\n• Proficiency in TPM\n• Proficiency in Lean Manufacturing\n• Proficiency in AutoCAD\n• Proficiency in 5S\n• Proficiency in ISO 9001\n• Proficiency in SAP MM/PP\n• Proficiency in Statistical Process Control\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Work-from-home flexibility\n• Referral bonus program\n• Comprehensive health insurance for self and family\n• Annual paid leaves and casual leaves\n• Meal coupons and food allowance\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Hyderabad, Telangana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with MRF!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "MRF",
+      "value": "481-4-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "MRF",
+      "sameAs": "https://www.google.com/search?q=MRF",
+      "logo": "https://logo.clearbit.com/mrf.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "MRF Office",
+        "addressLocality": "Hyderabad",
+        "addressRegion": "Telangana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Supply Chain Management, TPM, Lean Manufacturing, AutoCAD, 5S, ISO 9001, SAP MM/PP, Statistical Process Control",
+    "responsibilities": "Manage raw material procurement and inventory levels. Ensure compliance with safety regulations and factory acts. Maintain accurate production records and prepare daily reports. Ensure product quality meets internal and customer specifications. Coordinate with design and engineering teams on product improvements. Implement 5S, Kaizen, and Six Sigma practices on the shop floor. Prepare production cost analysis and efficiency reports",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Work-from-home flexibility. Referral bonus program. Comprehensive health insurance for self and family. Annual paid leaves and casual leaves. Meal coupons and food allowance",
+    "industry": "manufacturing",
+    "occupationalCategory": "Plant Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Work-from-home flexibility, Referral bonus program, Comprehensive health insurance for self and family, Annual paid leaves and casual leaves, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "Are you a skilled Plant Manager looking for your next big career move? MRF in Hyderabad offers you the perfect platform to grow professionally and personally.",
+    "keywords": "Plant Manager, MRF, jobs in Hyderabad, Telangana jobs, manufacturing jobs India, Supply Chain Management, TPM, Lean Manufacturing, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:29:31.502Z",
+  "page": 120
+}

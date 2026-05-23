@@ -1,0 +1,93 @@
+{
+  "slug": "mrf-process-engineer-bengaluru-2026-05-23-3",
+  "title": "Process Engineer Vacancy at MRF - 2026 Batch",
+  "company": "MRF",
+  "industry": "manufacturing",
+  "role": "Process Engineer",
+  "location": {
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Kaizen",
+    "Statistical Process Control",
+    "Six Sigma",
+    "Supply Chain Management",
+    "AutoCAD",
+    "Quality Control",
+    "SolidWorks",
+    "TPM"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Process Engineer Vacancy at MRF - 2026 Batch",
+    "description": "Are you a skilled Process Engineer looking for your next big career move? MRF in Bengaluru offers you the perfect platform to grow professionally and personally.\n\nAbout MRF:\nMRF is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure environmental compliance and waste management\n• Oversee daily production operations to meet output targets\n• Coordinate with design and engineering teams on product improvements\n• Monitor equipment performance and coordinate preventive maintenance\n• Ensure compliance with safety regulations and factory acts\n• Implement lean manufacturing and continuous improvement initiatives\n• Maintain accurate production records and prepare daily reports\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 12-20 years of relevant experience\n• Proficiency in Kaizen\n• Proficiency in Statistical Process Control\n• Proficiency in Six Sigma\n• Proficiency in Supply Chain Management\n• Proficiency in AutoCAD\n• Proficiency in Quality Control\n• Proficiency in SolidWorks\n• Proficiency in TPM\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Comprehensive health insurance for self and family\n• Modern office with recreational facilities\n• Employee stock options (ESOPs) for eligible roles\n• Maternity and paternity leave\n• International travel opportunities for senior roles\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Bengaluru, Karnataka, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with MRF!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "MRF",
+      "value": "481-3-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "MRF",
+      "sameAs": "https://www.google.com/search?q=MRF",
+      "logo": "https://logo.clearbit.com/mrf.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "MRF Office",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "Kaizen, Statistical Process Control, Six Sigma, Supply Chain Management, AutoCAD, Quality Control, SolidWorks, TPM",
+    "responsibilities": "Ensure environmental compliance and waste management. Oversee daily production operations to meet output targets. Coordinate with design and engineering teams on product improvements. Monitor equipment performance and coordinate preventive maintenance. Ensure compliance with safety regulations and factory acts. Implement lean manufacturing and continuous improvement initiatives. Maintain accurate production records and prepare daily reports",
+    "benefits": "Transportation and conveyance allowance. Comprehensive health insurance for self and family. Modern office with recreational facilities. Employee stock options (ESOPs) for eligible roles. Maternity and paternity leave. International travel opportunities for senior roles",
+    "industry": "manufacturing",
+    "occupationalCategory": "Process Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Comprehensive health insurance for self and family, Modern office with recreational facilities, Employee stock options (ESOPs) for eligible roles, Maternity and paternity leave, International travel opportunities for senior roles"
+  },
+  "meta": {
+    "description": "Are you a skilled Process Engineer looking for your next big career move? MRF in Bengaluru offers you the perfect platform to grow professionally and personally",
+    "keywords": "Process Engineer, MRF, jobs in Bengaluru, Karnataka jobs, manufacturing jobs India, Kaizen, Statistical Process Control, Six Sigma, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:29:31.502Z",
+  "page": 120
+}
