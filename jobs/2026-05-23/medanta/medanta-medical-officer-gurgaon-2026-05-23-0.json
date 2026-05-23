@@ -1,0 +1,94 @@
+{
+  "slug": "medanta-medical-officer-gurgaon-2026-05-23-0",
+  "title": "Career Opportunity Medical Officer at Medanta",
+  "company": "Medanta",
+  "industry": "healthcare",
+  "role": "Medical Officer",
+  "location": {
+    "city": "Gurgaon",
+    "state": "Haryana",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Infection Control",
+    "Medical Ethics",
+    "Patient Care",
+    "Diagnostic Skills",
+    "HIPAA Compliance",
+    "Wound Care",
+    "Clinical Documentation",
+    "Medical Terminology"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Career Opportunity Medical Officer at Medanta",
+    "description": "We at Medanta are looking for an experienced Medical Officer based out of Gurgaon. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout Medanta:\nMedanta is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Diagnose and treat medical conditions following established protocols\n• Provide high-quality patient care and maintain patient records\n• Attend continuing medical education programs and training\n• Administer medications and treatments as prescribed\n• Collaborate with pharmaceutical representatives and medical suppliers\n• Respond to medical emergencies and provide immediate care\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 3-6 years of relevant experience\n• Proficiency in Infection Control\n• Proficiency in Medical Ethics\n• Proficiency in Patient Care\n• Proficiency in Diagnostic Skills\n• Proficiency in HIPAA Compliance\n• Proficiency in Wound Care\n• Proficiency in Clinical Documentation\n• Proficiency in Medical Terminology\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Life and accident insurance\n• Learning & development budget\n• Comprehensive health insurance for self and family\n• Mobile and internet reimbursement\n• Referral bonus program\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Gurgaon, Haryana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Medanta!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Medanta",
+      "value": "221-0-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Medanta",
+      "sameAs": "https://www.google.com/search?q=Medanta",
+      "logo": "https://logo.clearbit.com/medanta.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Medanta Office",
+        "addressLocality": "Gurgaon",
+        "addressRegion": "Haryana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Infection Control, Medical Ethics, Patient Care, Diagnostic Skills, HIPAA Compliance, Wound Care, Clinical Documentation, Medical Terminology",
+    "responsibilities": "Coordinate with multidisciplinary teams for comprehensive patient management. Diagnose and treat medical conditions following established protocols. Provide high-quality patient care and maintain patient records. Attend continuing medical education programs and training. Administer medications and treatments as prescribed. Collaborate with pharmaceutical representatives and medical suppliers. Respond to medical emergencies and provide immediate care",
+    "benefits": "Provident Fund and Gratuity as per company policy. Life and accident insurance. Learning & development budget. Comprehensive health insurance for self and family. Mobile and internet reimbursement. Referral bonus program",
+    "industry": "healthcare",
+    "occupationalCategory": "Medical Officer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Life and accident insurance, Learning & development budget, Comprehensive health insurance for self and family, Mobile and internet reimbursement, Referral bonus program"
+  },
+  "meta": {
+    "description": "We at Medanta are looking for an experienced Medical Officer based out of Gurgaon. If you are a result-oriented professional with a passion for excellence, we w",
+    "keywords": "Medical Officer, Medanta, jobs in Gurgaon, Haryana jobs, healthcare jobs India, Infection Control, Medical Ethics, Patient Care, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:21:34.092Z",
+  "page": 55
+}
