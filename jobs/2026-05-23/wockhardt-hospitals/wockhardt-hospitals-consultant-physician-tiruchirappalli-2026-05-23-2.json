@@ -1,0 +1,93 @@
+{
+  "slug": "wockhardt-hospitals-consultant-physician-tiruchirappalli-2026-05-23-2",
+  "title": "Wockhardt Hospitals is Hiring: Consultant Physician (Principal)",
+  "company": "Wockhardt Hospitals",
+  "industry": "healthcare",
+  "role": "Consultant Physician",
+  "location": {
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Surgical Procedures",
+    "Patient Care",
+    "Clinical Documentation",
+    "Medical Ethics",
+    "HIPAA Compliance",
+    "Telemedicine",
+    "Medical Terminology",
+    "ICD-10"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Wockhardt Hospitals is Hiring: Consultant Physician (Principal)",
+    "description": "Wockhardt Hospitals has an exciting opening for a Consultant Physician at our Tiruchirappalli office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Wockhardt Hospitals:\nWockhardt Hospitals is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with pharmaceutical representatives and medical suppliers\n• Conduct routine health assessments and screenings\n• Provide high-quality patient care and maintain patient records\n• Maintain accurate clinical documentation in electronic health records\n• Educate patients and families on health management and disease prevention\n• Maintain sterile environments and follow infection control protocols\n• Participate in quality improvement initiatives and clinical audits\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 1-3 years of relevant experience\n• Proficiency in Surgical Procedures\n• Proficiency in Patient Care\n• Proficiency in Clinical Documentation\n• Proficiency in Medical Ethics\n• Proficiency in HIPAA Compliance\n• Proficiency in Telemedicine\n• Proficiency in Medical Terminology\n• Proficiency in ICD-10\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• International travel opportunities for senior roles\n• Professional development and training programs\n• Work-from-home flexibility\n• Comprehensive health insurance for self and family\n• Annual paid leaves and casual leaves\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Tiruchirappalli, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Wockhardt Hospitals!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Wockhardt Hospitals",
+      "value": "225-2-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Wockhardt Hospitals",
+      "sameAs": "https://www.google.com/search?q=Wockhardt%20Hospitals",
+      "logo": "https://logo.clearbit.com/wockhardthospitals.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Wockhardt Hospitals Office",
+        "addressLocality": "Tiruchirappalli",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "Surgical Procedures, Patient Care, Clinical Documentation, Medical Ethics, HIPAA Compliance, Telemedicine, Medical Terminology, ICD-10",
+    "responsibilities": "Collaborate with pharmaceutical representatives and medical suppliers. Conduct routine health assessments and screenings. Provide high-quality patient care and maintain patient records. Maintain accurate clinical documentation in electronic health records. Educate patients and families on health management and disease prevention. Maintain sterile environments and follow infection control protocols. Participate in quality improvement initiatives and clinical audits",
+    "benefits": "Provident Fund and Gratuity as per company policy. International travel opportunities for senior roles. Professional development and training programs. Work-from-home flexibility. Comprehensive health insurance for self and family. Annual paid leaves and casual leaves",
+    "industry": "healthcare",
+    "occupationalCategory": "Consultant Physician",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, International travel opportunities for senior roles, Professional development and training programs, Work-from-home flexibility, Comprehensive health insurance for self and family, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "Wockhardt Hospitals has an exciting opening for a Consultant Physician at our Tiruchirappalli office. Join a company that values innovation, collaboration, and ",
+    "keywords": "Consultant Physician, Wockhardt Hospitals, jobs in Tiruchirappalli, Tamil Nadu jobs, healthcare jobs India, Surgical Procedures, Patient Care, Clinical Documentation, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:21:41.404Z",
+  "page": 56
+}
