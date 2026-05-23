@@ -1,0 +1,93 @@
+{
+  "slug": "casa-grande-sales-manager-agra-2026-05-23-3",
+  "title": "Sales Manager Vacancy at Casa Grande - 2026 Batch",
+  "company": "Casa Grande",
+  "industry": "realestate",
+  "role": "Sales Manager",
+  "location": {
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "AutoCAD",
+    "CRM Software",
+    "MS Office",
+    "GIS Tools",
+    "Sales Techniques",
+    "RERA Compliance",
+    "Real Estate Law",
+    "Title Search"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Sales Manager Vacancy at Casa Grande - 2026 Batch",
+    "description": "An exciting career opportunity awaits you at Casa Grande. We are on the lookout for a dedicated Sales Manager to strengthen our Agra-based team.\n\nAbout Casa Grande:\nCasa Grande is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with architects, contractors, and project teams\n• Conduct market research and provide competitive analysis\n• Conduct site visits and property presentations for clients\n• Prepare presentations and proposals for institutional clients\n• Maintain a pipeline of qualified leads using CRM software\n• Source and close property deals with prospective buyers and investors\n• Conduct land acquisition due diligence and feasibility studies\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 10-15 years of relevant experience\n• Proficiency in AutoCAD\n• Proficiency in CRM Software\n• Proficiency in MS Office\n• Proficiency in GIS Tools\n• Proficiency in Sales Techniques\n• Proficiency in RERA Compliance\n• Proficiency in Real Estate Law\n• Proficiency in Title Search\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Professional development and training programs\n• Comprehensive health insurance for self and family\n• Work-from-home flexibility\n• Annual paid leaves and casual leaves\n• International travel opportunities for senior roles\n• Maternity and paternity leave\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Agra, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Casa Grande!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Casa Grande",
+      "value": "764-3-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Casa Grande",
+      "sameAs": "https://www.google.com/search?q=Casa%20Grande",
+      "logo": "https://logo.clearbit.com/casagrande.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Casa Grande Office",
+        "addressLocality": "Agra",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "AutoCAD, CRM Software, MS Office, GIS Tools, Sales Techniques, RERA Compliance, Real Estate Law, Title Search",
+    "responsibilities": "Coordinate with architects, contractors, and project teams. Conduct market research and provide competitive analysis. Conduct site visits and property presentations for clients. Prepare presentations and proposals for institutional clients. Maintain a pipeline of qualified leads using CRM software. Source and close property deals with prospective buyers and investors. Conduct land acquisition due diligence and feasibility studies",
+    "benefits": "Professional development and training programs. Comprehensive health insurance for self and family. Work-from-home flexibility. Annual paid leaves and casual leaves. International travel opportunities for senior roles. Maternity and paternity leave",
+    "industry": "realestate",
+    "occupationalCategory": "Sales Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Comprehensive health insurance for self and family, Work-from-home flexibility, Annual paid leaves and casual leaves, International travel opportunities for senior roles, Maternity and paternity leave"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Casa Grande. We are on the lookout for a dedicated Sales Manager to strengthen our Agra-based team.",
+    "keywords": "Sales Manager, Casa Grande, jobs in Agra, Uttar Pradesh jobs, realestate jobs India, AutoCAD, CRM Software, MS Office, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:37:53.343Z",
+  "page": 190
+}
