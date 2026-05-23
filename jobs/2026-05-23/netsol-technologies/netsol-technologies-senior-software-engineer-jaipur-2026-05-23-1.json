@@ -1,0 +1,94 @@
+{
+  "slug": "netsol-technologies-senior-software-engineer-jaipur-2026-05-23-1",
+  "title": "Senior Software Engineer - Netsol Technologies - Experienced Professionals",
+  "company": "Netsol Technologies",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "SQL",
+    "Agile/Scrum",
+    "Kubernetes",
+    "REST APIs",
+    "AWS",
+    "JavaScript",
+    "Node.js",
+    "Docker"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Netsol Technologies - Experienced Professionals",
+    "description": "An exciting career opportunity awaits you at Netsol Technologies. We are on the lookout for a dedicated Senior Software Engineer to strengthen our Jaipur-based team.\n\nAbout Netsol Technologies:\nNetsol Technologies is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Integrate third-party APIs and services\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Ensure code security and follow best practices for data protection\n• Optimize application performance and ensure high availability\n• Write and execute unit tests and integration tests\n• Implement new features based on product requirements\n• Troubleshoot, debug, and resolve software defects and performance issues\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 6-10 years of relevant experience\n• Proficiency in SQL\n• Proficiency in Agile/Scrum\n• Proficiency in Kubernetes\n• Proficiency in REST APIs\n• Proficiency in AWS\n• Proficiency in JavaScript\n• Proficiency in Node.js\n• Proficiency in Docker\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Transportation and conveyance allowance\n• Annual performance appraisal\n• Referral bonus program\n• Company-sponsored certifications\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Jaipur, Rajasthan, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Netsol Technologies!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Netsol Technologies",
+      "value": "76-1-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Netsol Technologies",
+      "sameAs": "https://www.google.com/search?q=Netsol%20Technologies",
+      "logo": "https://logo.clearbit.com/netsoltechnologies.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Netsol Technologies Office",
+        "addressLocality": "Jaipur",
+        "addressRegion": "Rajasthan",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "SQL, Agile/Scrum, Kubernetes, REST APIs, AWS, JavaScript, Node.js, Docker",
+    "responsibilities": "Integrate third-party APIs and services. Work with agile methodologies including daily stand-ups and sprint planning. Ensure code security and follow best practices for data protection. Optimize application performance and ensure high availability. Write and execute unit tests and integration tests. Implement new features based on product requirements. Troubleshoot, debug, and resolve software defects and performance issues",
+    "benefits": "Competitive salary with performance-linked incentives. Transportation and conveyance allowance. Annual performance appraisal. Referral bonus program. Company-sponsored certifications. Employee stock options (ESOPs) for eligible roles",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Transportation and conveyance allowance, Annual performance appraisal, Referral bonus program, Company-sponsored certifications, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Netsol Technologies. We are on the lookout for a dedicated Senior Software Engineer to strengthen our Jaipur-based ",
+    "keywords": "Senior Software Engineer, Netsol Technologies, jobs in Jaipur, Rajasthan jobs, technology jobs India, SQL, Agile/Scrum, Kubernetes, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:16:58.240Z",
+  "page": 18
+}

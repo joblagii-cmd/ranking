@@ -1,0 +1,93 @@
+{
+  "slug": "bel-frontend-developer-jaipur-2026-05-23-4",
+  "title": "Mid-Level Frontend Developer at BEL",
+  "company": "BEL",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "CI/CD",
+    "Go",
+    "REST APIs",
+    "Node.js",
+    "Docker",
+    "Agile/Scrum",
+    "JavaScript",
+    "Rust"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Frontend Developer at BEL",
+    "description": "An exciting career opportunity awaits you at BEL. We are on the lookout for a dedicated Frontend Developer to strengthen our Jaipur-based team.\n\nAbout BEL:\nBEL is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in code reviews and contribute to technical discussions\n• Ensure code security and follow best practices for data protection\n• Optimize application performance and ensure high availability\n• Integrate third-party APIs and services\n• Contribute to system architecture and technical design decisions\n• Troubleshoot, debug, and resolve software defects and performance issues\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 1-3 years of relevant experience\n• Proficiency in CI/CD\n• Proficiency in Go\n• Proficiency in REST APIs\n• Proficiency in Node.js\n• Proficiency in Docker\n• Proficiency in Agile/Scrum\n• Proficiency in JavaScript\n• Proficiency in Rust\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Work-from-home flexibility\n• Annual performance appraisal\n• Mobile and internet reimbursement\n• Employee stock options (ESOPs) for eligible roles\n• Recognition and rewards programs\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Jaipur, Rajasthan, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with BEL!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "BEL",
+      "value": "74-4-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "BEL",
+      "sameAs": "https://www.google.com/search?q=BEL",
+      "logo": "https://logo.clearbit.com/bel.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "BEL Office",
+        "addressLocality": "Jaipur",
+        "addressRegion": "Rajasthan",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "CI/CD, Go, REST APIs, Node.js, Docker, Agile/Scrum, JavaScript, Rust",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Participate in code reviews and contribute to technical discussions. Ensure code security and follow best practices for data protection. Optimize application performance and ensure high availability. Integrate third-party APIs and services. Contribute to system architecture and technical design decisions. Troubleshoot, debug, and resolve software defects and performance issues",
+    "benefits": "Competitive salary with performance-linked incentives. Work-from-home flexibility. Annual performance appraisal. Mobile and internet reimbursement. Employee stock options (ESOPs) for eligible roles. Recognition and rewards programs",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Work-from-home flexibility, Annual performance appraisal, Mobile and internet reimbursement, Employee stock options (ESOPs) for eligible roles, Recognition and rewards programs"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at BEL. We are on the lookout for a dedicated Frontend Developer to strengthen our Jaipur-based team.",
+    "keywords": "Frontend Developer, BEL, jobs in Jaipur, Rajasthan jobs, technology jobs India, CI/CD, Go, REST APIs, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:16:58.239Z",
+  "page": 18
+}
