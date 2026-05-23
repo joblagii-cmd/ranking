@@ -1,0 +1,94 @@
+{
+  "slug": "l-t-infotech-frontend-developer-dhanbad-2026-05-23-4",
+  "title": "Mid-Level Frontend Developer at L&T Infotech",
+  "company": "L&T Infotech",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Dhanbad",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "React",
+    "TypeScript",
+    "TensorFlow",
+    "AWS",
+    "Microservices",
+    "Docker",
+    "Rust",
+    "CI/CD"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Frontend Developer at L&T Infotech",
+    "description": "Are you a skilled Frontend Developer looking for your next big career move? L&T Infotech in Dhanbad offers you the perfect platform to grow professionally and personally.\n\nAbout L&T Infotech:\nL&T Infotech is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write clean, maintainable, and well-documented code\n• Ensure code security and follow best practices for data protection\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Integrate third-party APIs and services\n• Design, develop and maintain scalable software applications\n• Optimize application performance and ensure high availability\n• Work with agile methodologies including daily stand-ups and sprint planning\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 12-20 years of relevant experience\n• Proficiency in React\n• Proficiency in TypeScript\n• Proficiency in TensorFlow\n• Proficiency in AWS\n• Proficiency in Microservices\n• Proficiency in Docker\n• Proficiency in Rust\n• Proficiency in CI/CD\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Referral bonus program\n• Provident Fund and Gratuity as per company policy\n• Company-sponsored certifications\n• Employee stock options (ESOPs) for eligible roles\n• Learning & development budget\n• Competitive salary with performance-linked incentives\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Dhanbad, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with L&T Infotech!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "L&T Infotech",
+      "value": "28-4-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "L&T Infotech",
+      "sameAs": "https://www.google.com/search?q=L%26T%20Infotech",
+      "logo": "https://logo.clearbit.com/ltinfotech.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "L&T Infotech Office",
+        "addressLocality": "Dhanbad",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "React, TypeScript, TensorFlow, AWS, Microservices, Docker, Rust, CI/CD",
+    "responsibilities": "Write clean, maintainable, and well-documented code. Ensure code security and follow best practices for data protection. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Integrate third-party APIs and services. Design, develop and maintain scalable software applications. Optimize application performance and ensure high availability. Work with agile methodologies including daily stand-ups and sprint planning",
+    "benefits": "Referral bonus program. Provident Fund and Gratuity as per company policy. Company-sponsored certifications. Employee stock options (ESOPs) for eligible roles. Learning & development budget. Competitive salary with performance-linked incentives",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Referral bonus program, Provident Fund and Gratuity as per company policy, Company-sponsored certifications, Employee stock options (ESOPs) for eligible roles, Learning & development budget, Competitive salary with performance-linked incentives"
+  },
+  "meta": {
+    "description": "Are you a skilled Frontend Developer looking for your next big career move? L&T Infotech in Dhanbad offers you the perfect platform to grow professionally and p",
+    "keywords": "Frontend Developer, L&T Infotech, jobs in Dhanbad, Jharkhand jobs, technology jobs India, React, TypeScript, TensorFlow, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:15:27.820Z",
+  "page": 6
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "hexaware-technologies-frontend-developer-dhanbad-2026-05-23-4",
+  "title": "Mid-Level Frontend Developer at Hexaware Technologies",
+  "company": "Hexaware Technologies",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Dhanbad",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Node.js",
+    "Java",
+    "Docker",
+    "TensorFlow",
+    "SQL",
+    "Microservices",
+    "Rust",
+    "React"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Frontend Developer at Hexaware Technologies",
+    "description": "Are you a skilled Frontend Developer looking for your next big career move? Hexaware Technologies in Dhanbad offers you the perfect platform to grow professionally and personally.\n\nAbout Hexaware Technologies:\nHexaware Technologies is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Collaborate with cross-functional teams including product, design, and QA\n• Implement new features based on product requirements\n• Participate in on-call rotation for production support\n• Contribute to system architecture and technical design decisions\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Ensure code security and follow best practices for data protection\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 1-3 years of relevant experience\n• Proficiency in Node.js\n• Proficiency in Java\n• Proficiency in Docker\n• Proficiency in TensorFlow\n• Proficiency in SQL\n• Proficiency in Microservices\n• Proficiency in Rust\n• Proficiency in React\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Learning & development budget\n• Competitive salary with performance-linked incentives\n• Mobile and internet reimbursement\n• Work-from-home flexibility\n• Comprehensive health insurance for self and family\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Dhanbad, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Hexaware Technologies!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Hexaware Technologies",
+      "value": "27-4-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Hexaware Technologies",
+      "sameAs": "https://www.google.com/search?q=Hexaware%20Technologies",
+      "logo": "https://logo.clearbit.com/hexawaretechnologies.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Hexaware Technologies Office",
+        "addressLocality": "Dhanbad",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Node.js, Java, Docker, TensorFlow, SQL, Microservices, Rust, React",
+    "responsibilities": "Troubleshoot, debug, and resolve software defects and performance issues. Collaborate with cross-functional teams including product, design, and QA. Implement new features based on product requirements. Participate in on-call rotation for production support. Contribute to system architecture and technical design decisions. Work with agile methodologies including daily stand-ups and sprint planning. Ensure code security and follow best practices for data protection",
+    "benefits": "Learning & development budget. Competitive salary with performance-linked incentives. Mobile and internet reimbursement. Work-from-home flexibility. Comprehensive health insurance for self and family. Employee stock options (ESOPs) for eligible roles",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Learning & development budget, Competitive salary with performance-linked incentives, Mobile and internet reimbursement, Work-from-home flexibility, Comprehensive health insurance for self and family, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "Are you a skilled Frontend Developer looking for your next big career move? Hexaware Technologies in Dhanbad offers you the perfect platform to grow professiona",
+    "keywords": "Frontend Developer, Hexaware Technologies, jobs in Dhanbad, Jharkhand jobs, technology jobs India, Node.js, Java, Docker, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:15:27.819Z",
+  "page": 6
+}
