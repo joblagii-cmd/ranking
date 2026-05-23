@@ -1,0 +1,93 @@
+{
+  "slug": "acc-limited-production-engineer-agra-2026-05-23-0",
+  "title": "Immediate Requirement Production Engineer at ACC Limited",
+  "company": "ACC Limited",
+  "industry": "manufacturing",
+  "role": "Production Engineer",
+  "location": {
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "FMEA",
+    "SolidWorks",
+    "Six Sigma",
+    "Statistical Process Control",
+    "TPM",
+    "ERP Systems",
+    "Root Cause Analysis",
+    "SAP MM/PP"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Immediate Requirement Production Engineer at ACC Limited",
+    "description": "ACC Limited is actively seeking a talented and motivated Production Engineer to join our dynamic team in Agra. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout ACC Limited:\nACC Limited is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure environmental compliance and waste management\n• Prepare production cost analysis and efficiency reports\n• Implement 5S, Kaizen, and Six Sigma practices on the shop floor\n• Implement lean manufacturing and continuous improvement initiatives\n• Maintain accurate production records and prepare daily reports\n• Ensure compliance with safety regulations and factory acts\n• Conduct root cause analysis for quality rejections and defects\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 10-15 years of relevant experience\n• Proficiency in FMEA\n• Proficiency in SolidWorks\n• Proficiency in Six Sigma\n• Proficiency in Statistical Process Control\n• Proficiency in TPM\n• Proficiency in ERP Systems\n• Proficiency in Root Cause Analysis\n• Proficiency in SAP MM/PP\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Transportation and conveyance allowance\n• Company-sponsored certifications\n• Meal coupons and food allowance\n• Modern office with recreational facilities\n• Maternity and paternity leave\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Agra, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with ACC Limited!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "ACC Limited",
+      "value": "432-0-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "ACC Limited",
+      "sameAs": "https://www.google.com/search?q=ACC%20Limited",
+      "logo": "https://logo.clearbit.com/acclimited.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "ACC Limited Office",
+        "addressLocality": "Agra",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "FMEA, SolidWorks, Six Sigma, Statistical Process Control, TPM, ERP Systems, Root Cause Analysis, SAP MM/PP",
+    "responsibilities": "Ensure environmental compliance and waste management. Prepare production cost analysis and efficiency reports. Implement 5S, Kaizen, and Six Sigma practices on the shop floor. Implement lean manufacturing and continuous improvement initiatives. Maintain accurate production records and prepare daily reports. Ensure compliance with safety regulations and factory acts. Conduct root cause analysis for quality rejections and defects",
+    "benefits": "Annual paid leaves and casual leaves. Transportation and conveyance allowance. Company-sponsored certifications. Meal coupons and food allowance. Modern office with recreational facilities. Maternity and paternity leave",
+    "industry": "manufacturing",
+    "occupationalCategory": "Production Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Transportation and conveyance allowance, Company-sponsored certifications, Meal coupons and food allowance, Modern office with recreational facilities, Maternity and paternity leave"
+  },
+  "meta": {
+    "description": "ACC Limited is actively seeking a talented and motivated Production Engineer to join our dynamic team in Agra. This is an excellent opportunity for professional",
+    "keywords": "Production Engineer, ACC Limited, jobs in Agra, Uttar Pradesh jobs, manufacturing jobs India, FMEA, SolidWorks, Six Sigma, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:27:57.798Z",
+  "page": 107
+}
