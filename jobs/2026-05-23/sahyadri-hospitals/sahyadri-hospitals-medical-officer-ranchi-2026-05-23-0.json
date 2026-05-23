@@ -1,0 +1,94 @@
+{
+  "slug": "sahyadri-hospitals-medical-officer-ranchi-2026-05-23-0",
+  "title": "Hiring Medical Officer at Sahyadri Hospitals",
+  "company": "Sahyadri Hospitals",
+  "industry": "healthcare",
+  "role": "Medical Officer",
+  "location": {
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "HIPAA Compliance",
+    "Medical Terminology",
+    "EMR/EHR",
+    "Clinical Research",
+    "Clinical Documentation",
+    "CPT Codes",
+    "Pharmacovigilance",
+    "Health Informatics"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Hiring Medical Officer at Sahyadri Hospitals",
+    "description": "Sahyadri Hospitals, one of India's leading organizations, is hiring a Medical Officer for our Ranchi operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Sahyadri Hospitals:\nSahyadri Hospitals is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Educate patients and families on health management and disease prevention\n• Conduct routine health assessments and screenings\n• Maintain sterile environments and follow infection control protocols\n• Monitor patient progress and adjust treatment plans accordingly\n• Administer medications and treatments as prescribed\n• Collaborate with pharmaceutical representatives and medical suppliers\n• Adhere to NABH/JCI accreditation standards\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 12-20 years of relevant experience\n• Proficiency in HIPAA Compliance\n• Proficiency in Medical Terminology\n• Proficiency in EMR/EHR\n• Proficiency in Clinical Research\n• Proficiency in Clinical Documentation\n• Proficiency in CPT Codes\n• Proficiency in Pharmacovigilance\n• Proficiency in Health Informatics\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Annual performance appraisal\n• Modern office with recreational facilities\n• International travel opportunities for senior roles\n• Referral bonus program\n• Flexible working hours\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Ranchi, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Sahyadri Hospitals!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Sahyadri Hospitals",
+      "value": "287-0-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Sahyadri Hospitals",
+      "sameAs": "https://www.google.com/search?q=Sahyadri%20Hospitals",
+      "logo": "https://logo.clearbit.com/sahyadrihospitals.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Sahyadri Hospitals Office",
+        "addressLocality": "Ranchi",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "HIPAA Compliance, Medical Terminology, EMR/EHR, Clinical Research, Clinical Documentation, CPT Codes, Pharmacovigilance, Health Informatics",
+    "responsibilities": "Educate patients and families on health management and disease prevention. Conduct routine health assessments and screenings. Maintain sterile environments and follow infection control protocols. Monitor patient progress and adjust treatment plans accordingly. Administer medications and treatments as prescribed. Collaborate with pharmaceutical representatives and medical suppliers. Adhere to NABH/JCI accreditation standards",
+    "benefits": "Provident Fund and Gratuity as per company policy. Annual performance appraisal. Modern office with recreational facilities. International travel opportunities for senior roles. Referral bonus program. Flexible working hours",
+    "industry": "healthcare",
+    "occupationalCategory": "Medical Officer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Annual performance appraisal, Modern office with recreational facilities, International travel opportunities for senior roles, Referral bonus program, Flexible working hours"
+  },
+  "meta": {
+    "description": "Sahyadri Hospitals, one of India's leading organizations, is hiring a Medical Officer for our Ranchi operations. We offer a competitive salary package along wit",
+    "keywords": "Medical Officer, Sahyadri Hospitals, jobs in Ranchi, Jharkhand jobs, healthcare jobs India, HIPAA Compliance, Medical Terminology, EMR/EHR, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:23:32.040Z",
+  "page": 71
+}

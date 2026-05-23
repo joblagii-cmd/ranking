@@ -1,0 +1,93 @@
+{
+  "slug": "drishti-eye-care-radiologist-howrah-2026-05-23-4",
+  "title": "Entry-Level Radiologist at Drishti Eye Care",
+  "company": "Drishti Eye Care",
+  "industry": "healthcare",
+  "role": "Radiologist",
+  "location": {
+    "city": "Howrah",
+    "state": "West Bengal",
+    "region": "Eastern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Patient Care",
+    "Pharmacovigilance",
+    "Health Informatics",
+    "Telemedicine",
+    "Clinical Documentation",
+    "EMR/EHR",
+    "Surgical Procedures",
+    "Medical Terminology"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Entry-Level Radiologist at Drishti Eye Care",
+    "description": "Drishti Eye Care, one of India's leading organizations, is hiring a Radiologist for our Howrah operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Drishti Eye Care:\nDrishti Eye Care is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Adhere to NABH/JCI accreditation standards\n• Educate patients and families on health management and disease prevention\n• Respond to medical emergencies and provide immediate care\n• Provide high-quality patient care and maintain patient records\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Maintain sterile environments and follow infection control protocols\n• Collaborate with pharmaceutical representatives and medical suppliers\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 6-10 years of relevant experience\n• Proficiency in Patient Care\n• Proficiency in Pharmacovigilance\n• Proficiency in Health Informatics\n• Proficiency in Telemedicine\n• Proficiency in Clinical Documentation\n• Proficiency in EMR/EHR\n• Proficiency in Surgical Procedures\n• Proficiency in Medical Terminology\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Flexible working hours\n• Recognition and rewards programs\n• Learning & development budget\n• Referral bonus program\n• Work-from-home flexibility\n• Comprehensive health insurance for self and family\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Howrah, West Bengal, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Drishti Eye Care!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Drishti Eye Care",
+      "value": "285-4-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Drishti Eye Care",
+      "sameAs": "https://www.google.com/search?q=Drishti%20Eye%20Care",
+      "logo": "https://logo.clearbit.com/drishtieyecare.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Drishti Eye Care Office",
+        "addressLocality": "Howrah",
+        "addressRegion": "West Bengal",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "Patient Care, Pharmacovigilance, Health Informatics, Telemedicine, Clinical Documentation, EMR/EHR, Surgical Procedures, Medical Terminology",
+    "responsibilities": "Adhere to NABH/JCI accreditation standards. Educate patients and families on health management and disease prevention. Respond to medical emergencies and provide immediate care. Provide high-quality patient care and maintain patient records. Coordinate with multidisciplinary teams for comprehensive patient management. Maintain sterile environments and follow infection control protocols. Collaborate with pharmaceutical representatives and medical suppliers",
+    "benefits": "Flexible working hours. Recognition and rewards programs. Learning & development budget. Referral bonus program. Work-from-home flexibility. Comprehensive health insurance for self and family",
+    "industry": "healthcare",
+    "occupationalCategory": "Radiologist",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, Recognition and rewards programs, Learning & development budget, Referral bonus program, Work-from-home flexibility, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "Drishti Eye Care, one of India's leading organizations, is hiring a Radiologist for our Howrah operations. We offer a competitive salary package along with worl",
+    "keywords": "Radiologist, Drishti Eye Care, jobs in Howrah, West Bengal jobs, healthcare jobs India, Patient Care, Pharmacovigilance, Health Informatics, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:23:32.039Z",
+  "page": 71
+}
