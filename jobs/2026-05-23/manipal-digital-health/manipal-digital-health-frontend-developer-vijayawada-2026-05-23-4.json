@@ -1,0 +1,94 @@
+{
+  "slug": "manipal-digital-health-frontend-developer-vijayawada-2026-05-23-4",
+  "title": "Senior Frontend Developer at Manipal Digital Health",
+  "company": "Manipal Digital Health",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "REST APIs",
+    "Rust",
+    "Java",
+    "CI/CD",
+    "MongoDB",
+    "AWS",
+    "Git",
+    "Machine Learning"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Frontend Developer at Manipal Digital Health",
+    "description": "Grow your career with Manipal Digital Health! We are hiring a Frontend Developer for our Vijayawada team. Be part of a workplace that celebrates innovation, diversity, and performance.\n\nAbout Manipal Digital Health:\nManipal Digital Health is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Implement new features based on product requirements\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Contribute to system architecture and technical design decisions\n• Write and execute unit tests and integration tests\n• Optimize application performance and ensure high availability\n• Collaborate with cross-functional teams including product, design, and QA\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 10-15 years of relevant experience\n• Proficiency in REST APIs\n• Proficiency in Rust\n• Proficiency in Java\n• Proficiency in CI/CD\n• Proficiency in MongoDB\n• Proficiency in AWS\n• Proficiency in Git\n• Proficiency in Machine Learning\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Mobile and internet reimbursement\n• Employee stock options (ESOPs) for eligible roles\n• Provident Fund and Gratuity as per company policy\n• Life and accident insurance\n• Maternity and paternity leave\n• Comprehensive health insurance for self and family\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Vijayawada, Andhra Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Manipal Digital Health!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Manipal Digital Health",
+      "value": "125-4-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Manipal Digital Health",
+      "sameAs": "https://www.google.com/search?q=Manipal%20Digital%20Health",
+      "logo": "https://logo.clearbit.com/manipaldigitalhealth.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Manipal Digital Health Office",
+        "addressLocality": "Vijayawada",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "REST APIs, Rust, Java, CI/CD, MongoDB, AWS, Git, Machine Learning",
+    "responsibilities": "Mentor junior developers and conduct knowledge-sharing sessions. Implement new features based on product requirements. Work with agile methodologies including daily stand-ups and sprint planning. Contribute to system architecture and technical design decisions. Write and execute unit tests and integration tests. Optimize application performance and ensure high availability. Collaborate with cross-functional teams including product, design, and QA",
+    "benefits": "Mobile and internet reimbursement. Employee stock options (ESOPs) for eligible roles. Provident Fund and Gratuity as per company policy. Life and accident insurance. Maternity and paternity leave. Comprehensive health insurance for self and family",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Mobile and internet reimbursement, Employee stock options (ESOPs) for eligible roles, Provident Fund and Gratuity as per company policy, Life and accident insurance, Maternity and paternity leave, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "Grow your career with Manipal Digital Health! We are hiring a Frontend Developer for our Vijayawada team. Be part of a workplace that celebrates innovation, div",
+    "keywords": "Frontend Developer, Manipal Digital Health, jobs in Vijayawada, Andhra Pradesh jobs, technology jobs India, REST APIs, Rust, Java, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:18:34.845Z",
+  "page": 31
+}

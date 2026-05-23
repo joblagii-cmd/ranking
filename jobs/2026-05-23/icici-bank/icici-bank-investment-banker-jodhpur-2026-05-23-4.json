@@ -1,0 +1,93 @@
+{
+  "slug": "icici-bank-investment-banker-jodhpur-2026-05-23-4",
+  "title": "Senior Investment Banker at ICICI Bank",
+  "company": "ICICI Bank",
+  "industry": "finance",
+  "role": "Investment Banker",
+  "location": {
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Income Tax",
+    "Bloomberg Terminal",
+    "IFRS",
+    "Financial Reporting",
+    "GST",
+    "VBA",
+    "Forecasting",
+    "Python for Finance"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Investment Banker at ICICI Bank",
+    "description": "Grow your career with ICICI Bank! We are hiring a Investment Banker for our Jodhpur team. Be part of a workplace that celebrates innovation, diversity, and performance.\n\nAbout ICICI Bank:\nICICI Bank is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Monitor financial performance against targets and provide variance analysis\n• Manage credit risk assessment and loan appraisal processes\n• Process payroll and manage employee reimbursements\n• Prepare annual reports and investor presentations\n• Monitor market trends and provide investment recommendations\n• Implement and maintain internal controls and audit procedures\n• Ensure compliance with tax regulations and statutory requirements\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 1-3 years of relevant experience\n• Proficiency in Income Tax\n• Proficiency in Bloomberg Terminal\n• Proficiency in IFRS\n• Proficiency in Financial Reporting\n• Proficiency in GST\n• Proficiency in VBA\n• Proficiency in Forecasting\n• Proficiency in Python for Finance\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Maternity and paternity leave\n• Life and accident insurance\n• Flexible working hours\n• Meal coupons and food allowance\n• Competitive salary with performance-linked incentives\n• Learning & development budget\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Jodhpur, Rajasthan, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with ICICI Bank!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "ICICI Bank",
+      "value": "128-4-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "ICICI Bank",
+      "sameAs": "https://www.google.com/search?q=ICICI%20Bank",
+      "logo": "https://logo.clearbit.com/icicibank.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "ICICI Bank Office",
+        "addressLocality": "Jodhpur",
+        "addressRegion": "Rajasthan",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Income Tax, Bloomberg Terminal, IFRS, Financial Reporting, GST, VBA, Forecasting, Python for Finance",
+    "responsibilities": "Monitor financial performance against targets and provide variance analysis. Manage credit risk assessment and loan appraisal processes. Process payroll and manage employee reimbursements. Prepare annual reports and investor presentations. Monitor market trends and provide investment recommendations. Implement and maintain internal controls and audit procedures. Ensure compliance with tax regulations and statutory requirements",
+    "benefits": "Maternity and paternity leave. Life and accident insurance. Flexible working hours. Meal coupons and food allowance. Competitive salary with performance-linked incentives. Learning & development budget",
+    "industry": "finance",
+    "occupationalCategory": "Investment Banker",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Maternity and paternity leave, Life and accident insurance, Flexible working hours, Meal coupons and food allowance, Competitive salary with performance-linked incentives, Learning & development budget"
+  },
+  "meta": {
+    "description": "Grow your career with ICICI Bank! We are hiring a Investment Banker for our Jodhpur team. Be part of a workplace that celebrates innovation, diversity, and perf",
+    "keywords": "Investment Banker, ICICI Bank, jobs in Jodhpur, Rajasthan jobs, finance jobs India, Income Tax, Bloomberg Terminal, IFRS, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:18:34.849Z",
+  "page": 31
+}
