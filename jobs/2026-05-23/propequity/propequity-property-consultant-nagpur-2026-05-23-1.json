@@ -1,0 +1,94 @@
+{
+  "slug": "propequity-property-consultant-nagpur-2026-05-23-1",
+  "title": "Property Consultant - PropEquity - Multiple Openings",
+  "company": "PropEquity",
+  "industry": "realestate",
+  "role": "Property Consultant",
+  "location": {
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "CRM Software",
+    "Title Search",
+    "Property Valuation",
+    "MS Office",
+    "Financial Modeling",
+    "Sales Techniques",
+    "Portfolio Management",
+    "Real Estate Law"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Property Consultant - PropEquity - Multiple Openings",
+    "description": "PropEquity, one of India's leading organizations, is hiring a Property Consultant for our Nagpur operations. We offer a competitive salary package along with world-class benefits.\n\nAbout PropEquity:\nPropEquity is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Negotiate pricing, terms, and conditions on behalf of clients\n• Coordinate with legal teams for documentation and title verification\n• Manage relationships with existing customers post-purchase\n• Conduct market research and provide competitive analysis\n• Achieve monthly and quarterly sales targets\n• Build relationships with channel partners and brokers\n• Source and close property deals with prospective buyers and investors\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 12-20 years of relevant experience\n• Proficiency in CRM Software\n• Proficiency in Title Search\n• Proficiency in Property Valuation\n• Proficiency in MS Office\n• Proficiency in Financial Modeling\n• Proficiency in Sales Techniques\n• Proficiency in Portfolio Management\n• Proficiency in Real Estate Law\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Work-from-home flexibility\n• Flexible working hours\n• Competitive salary with performance-linked incentives\n• Recognition and rewards programs\n• Learning & development budget\n• Transportation and conveyance allowance\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Nagpur, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with PropEquity!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "PropEquity",
+      "value": "749-1-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "PropEquity",
+      "sameAs": "https://www.google.com/search?q=PropEquity",
+      "logo": "https://logo.clearbit.com/propequity.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "PropEquity Office",
+        "addressLocality": "Nagpur",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "CRM Software, Title Search, Property Valuation, MS Office, Financial Modeling, Sales Techniques, Portfolio Management, Real Estate Law",
+    "responsibilities": "Negotiate pricing, terms, and conditions on behalf of clients. Coordinate with legal teams for documentation and title verification. Manage relationships with existing customers post-purchase. Conduct market research and provide competitive analysis. Achieve monthly and quarterly sales targets. Build relationships with channel partners and brokers. Source and close property deals with prospective buyers and investors",
+    "benefits": "Work-from-home flexibility. Flexible working hours. Competitive salary with performance-linked incentives. Recognition and rewards programs. Learning & development budget. Transportation and conveyance allowance",
+    "industry": "realestate",
+    "occupationalCategory": "Property Consultant",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Flexible working hours, Competitive salary with performance-linked incentives, Recognition and rewards programs, Learning & development budget, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "PropEquity, one of India's leading organizations, is hiring a Property Consultant for our Nagpur operations. We offer a competitive salary package along with wo",
+    "keywords": "Property Consultant, PropEquity, jobs in Nagpur, Maharashtra jobs, realestate jobs India, CRM Software, Title Search, Property Valuation, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:37:33.607Z",
+  "page": 187
+}
