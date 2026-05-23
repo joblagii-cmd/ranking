@@ -1,0 +1,94 @@
+{
+  "slug": "99acres-asia-pacific-associates-software-engineer-aurangabad-2026-05-23-0",
+  "title": "Hiring Software Engineer at 99acres Asia Pacific Associates",
+  "company": "99acres Asia Pacific Associates",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Aurangabad",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Go",
+    "Kubernetes",
+    "Docker",
+    "Rust",
+    "Machine Learning",
+    "TypeScript",
+    "Git",
+    "TensorFlow"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Hiring Software Engineer at 99acres Asia Pacific Associates",
+    "description": "99acres Asia Pacific Associates, one of India's leading organizations, is hiring a Software Engineer for our Aurangabad operations. We offer a competitive salary package along with world-class benefits.\n\nAbout 99acres Asia Pacific Associates:\n99acres Asia Pacific Associates is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Design, develop and maintain scalable software applications\n• Ensure code security and follow best practices for data protection\n• Write clean, maintainable, and well-documented code\n• Write and execute unit tests and integration tests\n• Participate in code reviews and contribute to technical discussions\n• Mentor junior developers and conduct knowledge-sharing sessions\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 12-20 years of relevant experience\n• Proficiency in Go\n• Proficiency in Kubernetes\n• Proficiency in Docker\n• Proficiency in Rust\n• Proficiency in Machine Learning\n• Proficiency in TypeScript\n• Proficiency in Git\n• Proficiency in TensorFlow\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Meal coupons and food allowance\n• Work-from-home flexibility\n• Employee stock options (ESOPs) for eligible roles\n• Flexible working hours\n• International travel opportunities for senior roles\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Aurangabad, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with 99acres Asia Pacific Associates!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "99acres Asia Pacific Associates",
+      "value": "2859-0-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "99acres Asia Pacific Associates",
+      "sameAs": "https://www.google.com/search?q=99acres%20Asia%20Pacific%20Associates",
+      "logo": "https://logo.clearbit.com/99acresasiapacificassociates.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "99acres Asia Pacific Associates Office",
+        "addressLocality": "Aurangabad",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "Go, Kubernetes, Docker, Rust, Machine Learning, TypeScript, Git, TensorFlow",
+    "responsibilities": "Work with agile methodologies including daily stand-ups and sprint planning. Design, develop and maintain scalable software applications. Ensure code security and follow best practices for data protection. Write clean, maintainable, and well-documented code. Write and execute unit tests and integration tests. Participate in code reviews and contribute to technical discussions. Mentor junior developers and conduct knowledge-sharing sessions",
+    "benefits": "Transportation and conveyance allowance. Meal coupons and food allowance. Work-from-home flexibility. Employee stock options (ESOPs) for eligible roles. Flexible working hours. International travel opportunities for senior roles",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Meal coupons and food allowance, Work-from-home flexibility, Employee stock options (ESOPs) for eligible roles, Flexible working hours, International travel opportunities for senior roles"
+  },
+  "meta": {
+    "description": "99acres Asia Pacific Associates, one of India's leading organizations, is hiring a Software Engineer for our Aurangabad operations. We offer a competitive salar",
+    "keywords": "Software Engineer, 99acres Asia Pacific Associates, jobs in Aurangabad, Maharashtra jobs, technology jobs India, Go, Kubernetes, Docker, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T12:06:11.041Z",
+  "page": 726
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "bigbasket-consulting-pvt-ltd-full-stack-developer-amritsar-2026-05-23-2",
+  "title": "BigBasket Consulting Pvt Ltd is Hiring: Full Stack Developer (Entry-Level)",
+  "company": "BigBasket Consulting Pvt Ltd",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Amritsar",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "React",
+    "REST APIs",
+    "SQL",
+    "CI/CD",
+    "Git",
+    "Go",
+    "JavaScript",
+    "Docker"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "BigBasket Consulting Pvt Ltd is Hiring: Full Stack Developer (Entry-Level)",
+    "description": "BigBasket Consulting Pvt Ltd, one of India's leading organizations, is hiring a Full Stack Developer for our Amritsar operations. We offer a competitive salary package along with world-class benefits.\n\nAbout BigBasket Consulting Pvt Ltd:\nBigBasket Consulting Pvt Ltd is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Ensure code security and follow best practices for data protection\n• Design, develop and maintain scalable software applications\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Write clean, maintainable, and well-documented code\n• Write and execute unit tests and integration tests\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 1-3 years of relevant experience\n• Proficiency in React\n• Proficiency in REST APIs\n• Proficiency in SQL\n• Proficiency in CI/CD\n• Proficiency in Git\n• Proficiency in Go\n• Proficiency in JavaScript\n• Proficiency in Docker\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Recognition and rewards programs\n• Work-from-home flexibility\n• Competitive salary with performance-linked incentives\n• Annual performance appraisal\n• Company-sponsored certifications\n• Comprehensive health insurance for self and family\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Amritsar, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with BigBasket Consulting Pvt Ltd!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "BigBasket Consulting Pvt Ltd",
+      "value": "2861-2-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "BigBasket Consulting Pvt Ltd",
+      "sameAs": "https://www.google.com/search?q=BigBasket%20Consulting%20Pvt%20Ltd",
+      "logo": "https://logo.clearbit.com/bigbasketconsultingpvtltd.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "BigBasket Consulting Pvt Ltd Office",
+        "addressLocality": "Amritsar",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "React, REST APIs, SQL, CI/CD, Git, Go, JavaScript, Docker",
+    "responsibilities": "Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Work with agile methodologies including daily stand-ups and sprint planning. Ensure code security and follow best practices for data protection. Design, develop and maintain scalable software applications. Mentor junior developers and conduct knowledge-sharing sessions. Write clean, maintainable, and well-documented code. Write and execute unit tests and integration tests",
+    "benefits": "Recognition and rewards programs. Work-from-home flexibility. Competitive salary with performance-linked incentives. Annual performance appraisal. Company-sponsored certifications. Comprehensive health insurance for self and family",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Recognition and rewards programs, Work-from-home flexibility, Competitive salary with performance-linked incentives, Annual performance appraisal, Company-sponsored certifications, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "BigBasket Consulting Pvt Ltd, one of India's leading organizations, is hiring a Full Stack Developer for our Amritsar operations. We offer a competitive salary ",
+    "keywords": "Full Stack Developer, BigBasket Consulting Pvt Ltd, jobs in Amritsar, Punjab jobs, technology jobs India, React, REST APIs, SQL, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T12:06:11.043Z",
+  "page": 726
+}

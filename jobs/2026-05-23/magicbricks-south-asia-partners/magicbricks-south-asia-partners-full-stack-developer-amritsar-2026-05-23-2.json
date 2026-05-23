@@ -1,0 +1,93 @@
+{
+  "slug": "magicbricks-south-asia-partners-full-stack-developer-amritsar-2026-05-23-2",
+  "title": "MagicBricks South Asia Partners is Hiring: Full Stack Developer (Entry-Level)",
+  "company": "MagicBricks South Asia Partners",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Amritsar",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "JavaScript",
+    "Python",
+    "TensorFlow",
+    "Java",
+    "SQL",
+    "CI/CD",
+    "Docker",
+    "AWS"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "MagicBricks South Asia Partners is Hiring: Full Stack Developer (Entry-Level)",
+    "description": "MagicBricks South Asia Partners, one of India's leading organizations, is hiring a Full Stack Developer for our Amritsar operations. We offer a competitive salary package along with world-class benefits.\n\nAbout MagicBricks South Asia Partners:\nMagicBricks South Asia Partners is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Optimize application performance and ensure high availability\n• Participate in code reviews and contribute to technical discussions\n• Design, develop and maintain scalable software applications\n• Write clean, maintainable, and well-documented code\n• Write and execute unit tests and integration tests\n• Implement new features based on product requirements\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 3-6 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Python\n• Proficiency in TensorFlow\n• Proficiency in Java\n• Proficiency in SQL\n• Proficiency in CI/CD\n• Proficiency in Docker\n• Proficiency in AWS\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Learning & development budget\n• Transportation and conveyance allowance\n• Modern office with recreational facilities\n• Recognition and rewards programs\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Amritsar, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with MagicBricks South Asia Partners!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "MagicBricks South Asia Partners",
+      "value": "2860-2-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "MagicBricks South Asia Partners",
+      "sameAs": "https://www.google.com/search?q=MagicBricks%20South%20Asia%20Partners",
+      "logo": "https://logo.clearbit.com/magicbrickssouthasiapartners.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "MagicBricks South Asia Partners Office",
+        "addressLocality": "Amritsar",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "JavaScript, Python, TensorFlow, Java, SQL, CI/CD, Docker, AWS",
+    "responsibilities": "Optimize application performance and ensure high availability. Participate in code reviews and contribute to technical discussions. Design, develop and maintain scalable software applications. Write clean, maintainable, and well-documented code. Write and execute unit tests and integration tests. Implement new features based on product requirements. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP",
+    "benefits": "Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Learning & development budget. Transportation and conveyance allowance. Modern office with recreational facilities. Recognition and rewards programs",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Learning & development budget, Transportation and conveyance allowance, Modern office with recreational facilities, Recognition and rewards programs"
+  },
+  "meta": {
+    "description": "MagicBricks South Asia Partners, one of India's leading organizations, is hiring a Full Stack Developer for our Amritsar operations. We offer a competitive sala",
+    "keywords": "Full Stack Developer, MagicBricks South Asia Partners, jobs in Amritsar, Punjab jobs, technology jobs India, JavaScript, Python, TensorFlow, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T12:06:11.042Z",
+  "page": 726
+}
