@@ -1,0 +1,93 @@
+{
+  "slug": "cdsl-credit-analyst-allahabad-2026-05-23-2",
+  "title": "CDSL is Hiring: Credit Analyst (Lead)",
+  "company": "CDSL",
+  "industry": "finance",
+  "role": "Credit Analyst",
+  "location": {
+    "city": "Allahabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Credit Analysis",
+    "Tally",
+    "Python for Finance",
+    "Due Diligence",
+    "QuickBooks",
+    "GST",
+    "Bloomberg Terminal",
+    "Risk Management"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "CDSL is Hiring: Credit Analyst (Lead)",
+    "description": "We at CDSL are looking for an experienced Credit Analyst based out of Allahabad. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout CDSL:\nCDSL is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Prepare and analyze financial statements, reports, and budgets\n• Monitor financial performance against targets and provide variance analysis\n• Develop financial models and projections for business planning\n• Manage accounts payable and accounts receivable functions\n• Coordinate with external auditors during annual audits\n• Conduct due diligence for mergers, acquisitions, and investments\n• Implement and maintain internal controls and audit procedures\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 12-20 years of relevant experience\n• Proficiency in Credit Analysis\n• Proficiency in Tally\n• Proficiency in Python for Finance\n• Proficiency in Due Diligence\n• Proficiency in QuickBooks\n• Proficiency in GST\n• Proficiency in Bloomberg Terminal\n• Proficiency in Risk Management\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Professional development and training programs\n• Work-from-home flexibility\n• Life and accident insurance\n• Mobile and internet reimbursement\n• Competitive salary with performance-linked incentives\n• Transportation and conveyance allowance\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Allahabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with CDSL!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "CDSL",
+      "value": "200-2-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "CDSL",
+      "sameAs": "https://www.google.com/search?q=CDSL",
+      "logo": "https://logo.clearbit.com/cdsl.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "CDSL Office",
+        "addressLocality": "Allahabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "Credit Analysis, Tally, Python for Finance, Due Diligence, QuickBooks, GST, Bloomberg Terminal, Risk Management",
+    "responsibilities": "Prepare and analyze financial statements, reports, and budgets. Monitor financial performance against targets and provide variance analysis. Develop financial models and projections for business planning. Manage accounts payable and accounts receivable functions. Coordinate with external auditors during annual audits. Conduct due diligence for mergers, acquisitions, and investments. Implement and maintain internal controls and audit procedures",
+    "benefits": "Professional development and training programs. Work-from-home flexibility. Life and accident insurance. Mobile and internet reimbursement. Competitive salary with performance-linked incentives. Transportation and conveyance allowance",
+    "industry": "finance",
+    "occupationalCategory": "Credit Analyst",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Work-from-home flexibility, Life and accident insurance, Mobile and internet reimbursement, Competitive salary with performance-linked incentives, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "We at CDSL are looking for an experienced Credit Analyst based out of Allahabad. If you are a result-oriented professional with a passion for excellence, we wan",
+    "keywords": "Credit Analyst, CDSL, jobs in Allahabad, Uttar Pradesh jobs, finance jobs India, Credit Analysis, Tally, Python for Finance, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:20:48.870Z",
+  "page": 49
+}
