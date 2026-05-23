@@ -1,0 +1,94 @@
+{
+  "slug": "sonata-software-full-stack-developer-allahabad-2026-05-23-2",
+  "title": "Sonata Software is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "Sonata Software",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Allahabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Kubernetes",
+    "CI/CD",
+    "Microservices",
+    "Go",
+    "JavaScript",
+    "TensorFlow",
+    "Git",
+    "Agile/Scrum"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Sonata Software is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "Sonata Software, one of India's leading organizations, is hiring a Full Stack Developer for our Allahabad operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Sonata Software:\nSonata Software is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure code security and follow best practices for data protection\n• Participate in code reviews and contribute to technical discussions\n• Write clean, maintainable, and well-documented code\n• Collaborate with cross-functional teams including product, design, and QA\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Write and execute unit tests and integration tests\n• Troubleshoot, debug, and resolve software defects and performance issues\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 1-3 years of relevant experience\n• Proficiency in Kubernetes\n• Proficiency in CI/CD\n• Proficiency in Microservices\n• Proficiency in Go\n• Proficiency in JavaScript\n• Proficiency in TensorFlow\n• Proficiency in Git\n• Proficiency in Agile/Scrum\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Modern office with recreational facilities\n• Referral bonus program\n• International travel opportunities for senior roles\n• Company-sponsored certifications\n• Mobile and internet reimbursement\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Allahabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Sonata Software!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Sonata Software",
+      "value": "34-2-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Sonata Software",
+      "sameAs": "https://www.google.com/search?q=Sonata%20Software",
+      "logo": "https://logo.clearbit.com/sonatasoftware.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Sonata Software Office",
+        "addressLocality": "Allahabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "Kubernetes, CI/CD, Microservices, Go, JavaScript, TensorFlow, Git, Agile/Scrum",
+    "responsibilities": "Ensure code security and follow best practices for data protection. Participate in code reviews and contribute to technical discussions. Write clean, maintainable, and well-documented code. Collaborate with cross-functional teams including product, design, and QA. Mentor junior developers and conduct knowledge-sharing sessions. Write and execute unit tests and integration tests. Troubleshoot, debug, and resolve software defects and performance issues",
+    "benefits": "Annual paid leaves and casual leaves. Modern office with recreational facilities. Referral bonus program. International travel opportunities for senior roles. Company-sponsored certifications. Mobile and internet reimbursement",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Modern office with recreational facilities, Referral bonus program, International travel opportunities for senior roles, Company-sponsored certifications, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "Sonata Software, one of India's leading organizations, is hiring a Full Stack Developer for our Allahabad operations. We offer a competitive salary package alon",
+    "keywords": "Full Stack Developer, Sonata Software, jobs in Allahabad, Uttar Pradesh jobs, technology jobs India, Kubernetes, CI/CD, Microservices, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:15:42.971Z",
+  "page": 8
+}
