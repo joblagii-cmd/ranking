@@ -1,0 +1,94 @@
+{
+  "slug": "cisco-india-senior-software-engineer-raipur-2026-05-23-1",
+  "title": "Senior Software Engineer - Cisco India - Freshers Welcome",
+  "company": "Cisco India",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Raipur",
+    "state": "Chhattisgarh",
+    "region": "Central India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Kubernetes",
+    "React",
+    "Machine Learning",
+    "Docker",
+    "TensorFlow",
+    "Agile/Scrum",
+    "Microservices",
+    "Java"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Cisco India - Freshers Welcome",
+    "description": "Cisco India, one of India's leading organizations, is hiring a Senior Software Engineer for our Raipur operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Cisco India:\nCisco India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write and execute unit tests and integration tests\n• Optimize application performance and ensure high availability\n• Integrate third-party APIs and services\n• Design, develop and maintain scalable software applications\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Write clean, maintainable, and well-documented code\n• Mentor junior developers and conduct knowledge-sharing sessions\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 3-6 years of relevant experience\n• Proficiency in Kubernetes\n• Proficiency in React\n• Proficiency in Machine Learning\n• Proficiency in Docker\n• Proficiency in TensorFlow\n• Proficiency in Agile/Scrum\n• Proficiency in Microservices\n• Proficiency in Java\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Work-from-home flexibility\n• Learning & development budget\n• Meal coupons and food allowance\n• Comprehensive health insurance for self and family\n• Provident Fund and Gratuity as per company policy\n• Mobile and internet reimbursement\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Raipur, Chhattisgarh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Cisco India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Cisco India",
+      "value": "50-1-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Cisco India",
+      "sameAs": "https://www.google.com/search?q=Cisco%20India",
+      "logo": "https://logo.clearbit.com/ciscoindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Cisco India Office",
+        "addressLocality": "Raipur",
+        "addressRegion": "Chhattisgarh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "Kubernetes, React, Machine Learning, Docker, TensorFlow, Agile/Scrum, Microservices, Java",
+    "responsibilities": "Write and execute unit tests and integration tests. Optimize application performance and ensure high availability. Integrate third-party APIs and services. Design, develop and maintain scalable software applications. Work with agile methodologies including daily stand-ups and sprint planning. Write clean, maintainable, and well-documented code. Mentor junior developers and conduct knowledge-sharing sessions",
+    "benefits": "Work-from-home flexibility. Learning & development budget. Meal coupons and food allowance. Comprehensive health insurance for self and family. Provident Fund and Gratuity as per company policy. Mobile and internet reimbursement",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Learning & development budget, Meal coupons and food allowance, Comprehensive health insurance for self and family, Provident Fund and Gratuity as per company policy, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "Cisco India, one of India's leading organizations, is hiring a Senior Software Engineer for our Raipur operations. We offer a competitive salary package along w",
+    "keywords": "Senior Software Engineer, Cisco India, jobs in Raipur, Chhattisgarh jobs, technology jobs India, Kubernetes, React, Machine Learning, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:16:13.813Z",
+  "page": 12
+}
