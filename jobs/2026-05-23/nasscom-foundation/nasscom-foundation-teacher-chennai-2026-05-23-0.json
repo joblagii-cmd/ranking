@@ -1,0 +1,93 @@
+{
+  "slug": "nasscom-foundation-teacher-chennai-2026-05-23-0",
+  "title": "Job Opening Teacher at NASSCOM Foundation",
+  "company": "NASSCOM Foundation",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Student Assessment",
+    "Child Psychology",
+    "Classroom Management",
+    "Data Analysis",
+    "Mentoring",
+    "Educational Technology",
+    "Curriculum Development",
+    "Research Skills"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Job Opening Teacher at NASSCOM Foundation",
+    "description": "Join the NASSCOM Foundation family as a Teacher in Chennai. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout NASSCOM Foundation:\nNASSCOM Foundation is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Contribute to school newsletter, blogs, and other publications\n• Develop and deliver engaging lesson plans for students\n• Maintain student records and prepare progress reports\n• Conduct doubt-clearing sessions and remedial classes for weak students\n• Monitor student progress and provide timely feedback\n• Create curriculum-aligned learning materials and assessments\n• Design formative and summative assessments aligned to learning objectives\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 12-20 years of relevant experience\n• Proficiency in Student Assessment\n• Proficiency in Child Psychology\n• Proficiency in Classroom Management\n• Proficiency in Data Analysis\n• Proficiency in Mentoring\n• Proficiency in Educational Technology\n• Proficiency in Curriculum Development\n• Proficiency in Research Skills\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Comprehensive health insurance for self and family\n• Maternity and paternity leave\n• Employee stock options (ESOPs) for eligible roles\n• International travel opportunities for senior roles\n• Transportation and conveyance allowance\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Chennai, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with NASSCOM Foundation!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "NASSCOM Foundation",
+      "value": "569-0-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "NASSCOM Foundation",
+      "sameAs": "https://www.google.com/search?q=NASSCOM%20Foundation",
+      "logo": "https://logo.clearbit.com/nasscomfoundation.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "NASSCOM Foundation Office",
+        "addressLocality": "Chennai",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Student Assessment, Child Psychology, Classroom Management, Data Analysis, Mentoring, Educational Technology, Curriculum Development, Research Skills",
+    "responsibilities": "Contribute to school newsletter, blogs, and other publications. Develop and deliver engaging lesson plans for students. Maintain student records and prepare progress reports. Conduct doubt-clearing sessions and remedial classes for weak students. Monitor student progress and provide timely feedback. Create curriculum-aligned learning materials and assessments. Design formative and summative assessments aligned to learning objectives",
+    "benefits": "Provident Fund and Gratuity as per company policy. Comprehensive health insurance for self and family. Maternity and paternity leave. Employee stock options (ESOPs) for eligible roles. International travel opportunities for senior roles. Transportation and conveyance allowance",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Comprehensive health insurance for self and family, Maternity and paternity leave, Employee stock options (ESOPs) for eligible roles, International travel opportunities for senior roles, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "Join the NASSCOM Foundation family as a Teacher in Chennai. We believe in empowering our employees with the tools, training, and environment they need to succee",
+    "keywords": "Teacher, NASSCOM Foundation, jobs in Chennai, Tamil Nadu jobs, education jobs India, Student Assessment, Child Psychology, Classroom Management, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:32:08.607Z",
+  "page": 142
+}
