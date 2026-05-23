@@ -1,0 +1,93 @@
+{
+  "slug": "iit-kharagpur-teacher-faridabad-2026-05-23-0",
+  "title": "Vacancy for Teacher at IIT Kharagpur",
+  "company": "IIT Kharagpur",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Faridabad",
+    "state": "Haryana",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Data Analysis",
+    "CBSE/ICSE Standards",
+    "Pedagogy",
+    "Student Assessment",
+    "Lesson Planning",
+    "Child Psychology",
+    "LMS Platforms",
+    "Bloom's Taxonomy"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Vacancy for Teacher at IIT Kharagpur",
+    "description": "IIT Kharagpur, one of India's leading organizations, is hiring a Teacher for our Faridabad operations. We offer a competitive salary package along with world-class benefits.\n\nAbout IIT Kharagpur:\nIIT Kharagpur is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Develop and deliver engaging lesson plans for students\n• Maintain classroom discipline and create a positive learning environment\n• Participate in school events, workshops, and training programs\n• Participate in teacher training and professional development programs\n• Monitor student progress and provide timely feedback\n• Create curriculum-aligned learning materials and assessments\n• Contribute to school newsletter, blogs, and other publications\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 0-1 years of relevant experience\n• Proficiency in Data Analysis\n• Proficiency in CBSE/ICSE Standards\n• Proficiency in Pedagogy\n• Proficiency in Student Assessment\n• Proficiency in Lesson Planning\n• Proficiency in Child Psychology\n• Proficiency in LMS Platforms\n• Proficiency in Bloom's Taxonomy\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Life and accident insurance\n• Annual paid leaves and casual leaves\n• Competitive salary with performance-linked incentives\n• Annual performance appraisal\n• Flexible working hours\n• Transportation and conveyance allowance\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Faridabad, Haryana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with IIT Kharagpur!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "IIT Kharagpur",
+      "value": "520-0-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "IIT Kharagpur",
+      "sameAs": "https://www.google.com/search?q=IIT%20Kharagpur",
+      "logo": "https://logo.clearbit.com/iitkharagpur.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "IIT Kharagpur Office",
+        "addressLocality": "Faridabad",
+        "addressRegion": "Haryana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "Data Analysis, CBSE/ICSE Standards, Pedagogy, Student Assessment, Lesson Planning, Child Psychology, LMS Platforms, Bloom's Taxonomy",
+    "responsibilities": "Develop and deliver engaging lesson plans for students. Maintain classroom discipline and create a positive learning environment. Participate in school events, workshops, and training programs. Participate in teacher training and professional development programs. Monitor student progress and provide timely feedback. Create curriculum-aligned learning materials and assessments. Contribute to school newsletter, blogs, and other publications",
+    "benefits": "Life and accident insurance. Annual paid leaves and casual leaves. Competitive salary with performance-linked incentives. Annual performance appraisal. Flexible working hours. Transportation and conveyance allowance",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Annual paid leaves and casual leaves, Competitive salary with performance-linked incentives, Annual performance appraisal, Flexible working hours, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "IIT Kharagpur, one of India's leading organizations, is hiring a Teacher for our Faridabad operations. We offer a competitive salary package along with world-cl",
+    "keywords": "Teacher, IIT Kharagpur, jobs in Faridabad, Haryana jobs, education jobs India, Data Analysis, CBSE/ICSE Standards, Pedagogy, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:30:35.740Z",
+  "page": 129
+}
