@@ -1,0 +1,94 @@
+{
+  "slug": "indiamart-backend-developer-rajkot-2026-05-23-3",
+  "title": "Backend Developer Vacancy at IndiaMart - 2026 Batch",
+  "company": "IndiaMart",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "TensorFlow",
+    "SQL",
+    "Python",
+    "REST APIs",
+    "React",
+    "Machine Learning",
+    "JavaScript",
+    "Java"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at IndiaMart - 2026 Batch",
+    "description": "Are you a skilled Backend Developer looking for your next big career move? IndiaMart in Rajkot offers you the perfect platform to grow professionally and personally.\n\nAbout IndiaMart:\nIndiaMart is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write and execute unit tests and integration tests\n• Optimize application performance and ensure high availability\n• Integrate third-party APIs and services\n• Design, develop and maintain scalable software applications\n• Write clean, maintainable, and well-documented code\n• Collaborate with cross-functional teams including product, design, and QA\n• Work with agile methodologies including daily stand-ups and sprint planning\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 1-3 years of relevant experience\n• Proficiency in TensorFlow\n• Proficiency in SQL\n• Proficiency in Python\n• Proficiency in REST APIs\n• Proficiency in React\n• Proficiency in Machine Learning\n• Proficiency in JavaScript\n• Proficiency in Java\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Recognition and rewards programs\n• Annual performance appraisal\n• Provident Fund and Gratuity as per company policy\n• Comprehensive health insurance for self and family\n• Maternity and paternity leave\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Rajkot, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with IndiaMart!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "IndiaMart",
+      "value": "22-3-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "IndiaMart",
+      "sameAs": "https://www.google.com/search?q=IndiaMart",
+      "logo": "https://logo.clearbit.com/indiamart.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "IndiaMart Office",
+        "addressLocality": "Rajkot",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "TensorFlow, SQL, Python, REST APIs, React, Machine Learning, JavaScript, Java",
+    "responsibilities": "Write and execute unit tests and integration tests. Optimize application performance and ensure high availability. Integrate third-party APIs and services. Design, develop and maintain scalable software applications. Write clean, maintainable, and well-documented code. Collaborate with cross-functional teams including product, design, and QA. Work with agile methodologies including daily stand-ups and sprint planning",
+    "benefits": "Annual paid leaves and casual leaves. Recognition and rewards programs. Annual performance appraisal. Provident Fund and Gratuity as per company policy. Comprehensive health insurance for self and family. Maternity and paternity leave",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Recognition and rewards programs, Annual performance appraisal, Provident Fund and Gratuity as per company policy, Comprehensive health insurance for self and family, Maternity and paternity leave"
+  },
+  "meta": {
+    "description": "Are you a skilled Backend Developer looking for your next big career move? IndiaMart in Rajkot offers you the perfect platform to grow professionally and person",
+    "keywords": "Backend Developer, IndiaMart, jobs in Rajkot, Gujarat jobs, technology jobs India, TensorFlow, SQL, Python, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:15:20.161Z",
+  "page": 5
+}

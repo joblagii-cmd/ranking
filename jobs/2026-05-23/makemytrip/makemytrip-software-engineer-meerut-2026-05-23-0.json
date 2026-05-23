@@ -1,0 +1,93 @@
+{
+  "slug": "makemytrip-software-engineer-meerut-2026-05-23-0",
+  "title": "Walk-in Drive Software Engineer at MakeMyTrip",
+  "company": "MakeMyTrip",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "JavaScript",
+    "React",
+    "MongoDB",
+    "SQL",
+    "Python",
+    "Machine Learning",
+    "Node.js",
+    "TensorFlow"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Walk-in Drive Software Engineer at MakeMyTrip",
+    "description": "Are you a skilled Software Engineer looking for your next big career move? MakeMyTrip in Meerut offers you the perfect platform to grow professionally and personally.\n\nAbout MakeMyTrip:\nMakeMyTrip is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Design, develop and maintain scalable software applications\n• Collaborate with cross-functional teams including product, design, and QA\n• Write clean, maintainable, and well-documented code\n• Write and execute unit tests and integration tests\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Implement new features based on product requirements\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 0-1 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in React\n• Proficiency in MongoDB\n• Proficiency in SQL\n• Proficiency in Python\n• Proficiency in Machine Learning\n• Proficiency in Node.js\n• Proficiency in TensorFlow\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Competitive salary with performance-linked incentives\n• Life and accident insurance\n• Transportation and conveyance allowance\n• Recognition and rewards programs\n• Flexible working hours\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Meerut, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with MakeMyTrip!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "MakeMyTrip",
+      "value": "21-0-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "MakeMyTrip",
+      "sameAs": "https://www.google.com/search?q=MakeMyTrip",
+      "logo": "https://logo.clearbit.com/makemytrip.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "MakeMyTrip Office",
+        "addressLocality": "Meerut",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "JavaScript, React, MongoDB, SQL, Python, Machine Learning, Node.js, TensorFlow",
+    "responsibilities": "Mentor junior developers and conduct knowledge-sharing sessions. Design, develop and maintain scalable software applications. Collaborate with cross-functional teams including product, design, and QA. Write clean, maintainable, and well-documented code. Write and execute unit tests and integration tests. Troubleshoot, debug, and resolve software defects and performance issues. Implement new features based on product requirements",
+    "benefits": "Work-from-home flexibility. Competitive salary with performance-linked incentives. Life and accident insurance. Transportation and conveyance allowance. Recognition and rewards programs. Flexible working hours",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Competitive salary with performance-linked incentives, Life and accident insurance, Transportation and conveyance allowance, Recognition and rewards programs, Flexible working hours"
+  },
+  "meta": {
+    "description": "Are you a skilled Software Engineer looking for your next big career move? MakeMyTrip in Meerut offers you the perfect platform to grow professionally and perso",
+    "keywords": "Software Engineer, MakeMyTrip, jobs in Meerut, Uttar Pradesh jobs, technology jobs India, JavaScript, React, MongoDB, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:15:20.159Z",
+  "page": 5
+}

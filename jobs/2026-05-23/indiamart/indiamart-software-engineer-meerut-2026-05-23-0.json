@@ -1,0 +1,94 @@
+{
+  "slug": "indiamart-software-engineer-meerut-2026-05-23-0",
+  "title": "Walk-in Drive Software Engineer at IndiaMart",
+  "company": "IndiaMart",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Microservices",
+    "Python",
+    "TensorFlow",
+    "REST APIs",
+    "TypeScript",
+    "Agile/Scrum",
+    "React",
+    "CI/CD"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Walk-in Drive Software Engineer at IndiaMart",
+    "description": "Are you a skilled Software Engineer looking for your next big career move? IndiaMart in Meerut offers you the perfect platform to grow professionally and personally.\n\nAbout IndiaMart:\nIndiaMart is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Design, develop and maintain scalable software applications\n• Implement new features based on product requirements\n• Optimize application performance and ensure high availability\n• Integrate third-party APIs and services\n• Write and execute unit tests and integration tests\n• Write clean, maintainable, and well-documented code\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 12-20 years of relevant experience\n• Proficiency in Microservices\n• Proficiency in Python\n• Proficiency in TensorFlow\n• Proficiency in REST APIs\n• Proficiency in TypeScript\n• Proficiency in Agile/Scrum\n• Proficiency in React\n• Proficiency in CI/CD\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Work-from-home flexibility\n• Provident Fund and Gratuity as per company policy\n• International travel opportunities for senior roles\n• Meal coupons and food allowance\n• Competitive salary with performance-linked incentives\n• Mobile and internet reimbursement\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Meerut, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with IndiaMart!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "IndiaMart",
+      "value": "22-0-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "IndiaMart",
+      "sameAs": "https://www.google.com/search?q=IndiaMart",
+      "logo": "https://logo.clearbit.com/indiamart.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "IndiaMart Office",
+        "addressLocality": "Meerut",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "Microservices, Python, TensorFlow, REST APIs, TypeScript, Agile/Scrum, React, CI/CD",
+    "responsibilities": "Work with agile methodologies including daily stand-ups and sprint planning. Design, develop and maintain scalable software applications. Implement new features based on product requirements. Optimize application performance and ensure high availability. Integrate third-party APIs and services. Write and execute unit tests and integration tests. Write clean, maintainable, and well-documented code",
+    "benefits": "Work-from-home flexibility. Provident Fund and Gratuity as per company policy. International travel opportunities for senior roles. Meal coupons and food allowance. Competitive salary with performance-linked incentives. Mobile and internet reimbursement",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Provident Fund and Gratuity as per company policy, International travel opportunities for senior roles, Meal coupons and food allowance, Competitive salary with performance-linked incentives, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "Are you a skilled Software Engineer looking for your next big career move? IndiaMart in Meerut offers you the perfect platform to grow professionally and person",
+    "keywords": "Software Engineer, IndiaMart, jobs in Meerut, Uttar Pradesh jobs, technology jobs India, Microservices, Python, TensorFlow, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:15:20.159Z",
+  "page": 5
+}

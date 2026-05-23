@@ -1,0 +1,94 @@
+{
+  "slug": "makemytrip-backend-developer-rajkot-2026-05-23-3",
+  "title": "Backend Developer Vacancy at MakeMyTrip - 2026 Batch",
+  "company": "MakeMyTrip",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "React",
+    "JavaScript",
+    "Java",
+    "MongoDB",
+    "Python",
+    "Machine Learning",
+    "Go",
+    "Node.js"
+  ],
+  "datePosted": "2026-05-23",
+  "validThrough": "2026-06-22",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at MakeMyTrip - 2026 Batch",
+    "description": "Are you a skilled Backend Developer looking for your next big career move? MakeMyTrip in Rajkot offers you the perfect platform to grow professionally and personally.\n\nAbout MakeMyTrip:\nMakeMyTrip is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Implement new features based on product requirements\n• Design, develop and maintain scalable software applications\n• Write and execute unit tests and integration tests\n• Collaborate with cross-functional teams including product, design, and QA\n• Write clean, maintainable, and well-documented code\n• Work with agile methodologies including daily stand-ups and sprint planning\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 3-6 years of relevant experience\n• Proficiency in React\n• Proficiency in JavaScript\n• Proficiency in Java\n• Proficiency in MongoDB\n• Proficiency in Python\n• Proficiency in Machine Learning\n• Proficiency in Go\n• Proficiency in Node.js\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Flexible working hours\n• Meal coupons and food allowance\n• Referral bonus program\n• Mobile and internet reimbursement\n• Annual performance appraisal\n• Work-from-home flexibility\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Rajkot, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with MakeMyTrip!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "MakeMyTrip",
+      "value": "21-3-20260523"
+    },
+    "datePosted": "2026-05-23",
+    "validThrough": "2026-06-22",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "MakeMyTrip",
+      "sameAs": "https://www.google.com/search?q=MakeMyTrip",
+      "logo": "https://logo.clearbit.com/makemytrip.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "MakeMyTrip Office",
+        "addressLocality": "Rajkot",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "React, JavaScript, Java, MongoDB, Python, Machine Learning, Go, Node.js",
+    "responsibilities": "Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Implement new features based on product requirements. Design, develop and maintain scalable software applications. Write and execute unit tests and integration tests. Collaborate with cross-functional teams including product, design, and QA. Write clean, maintainable, and well-documented code. Work with agile methodologies including daily stand-ups and sprint planning",
+    "benefits": "Flexible working hours. Meal coupons and food allowance. Referral bonus program. Mobile and internet reimbursement. Annual performance appraisal. Work-from-home flexibility",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, Meal coupons and food allowance, Referral bonus program, Mobile and internet reimbursement, Annual performance appraisal, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "Are you a skilled Backend Developer looking for your next big career move? MakeMyTrip in Rajkot offers you the perfect platform to grow professionally and perso",
+    "keywords": "Backend Developer, MakeMyTrip, jobs in Rajkot, Gujarat jobs, technology jobs India, React, JavaScript, Java, hiring 2026"
+  },
+  "generatedAt": "2026-05-23T04:15:20.159Z",
+  "page": 5
+}
