@@ -1,0 +1,93 @@
+{
+  "slug": "sun-pharmaceutical-medical-officer-tiruchirappalli-2026-05-24-0",
+  "title": "Career Opportunity Medical Officer at Sun Pharmaceutical",
+  "company": "Sun Pharmaceutical",
+  "industry": "healthcare",
+  "role": "Medical Officer",
+  "location": {
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "CPT Codes",
+    "EMR/EHR",
+    "Telemedicine",
+    "BLS/ACLS",
+    "Infection Control",
+    "Clinical Documentation",
+    "Clinical Research",
+    "ICU Management"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Career Opportunity Medical Officer at Sun Pharmaceutical",
+    "description": "Sun Pharmaceutical has an exciting opening for a Medical Officer at our Tiruchirappalli office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Sun Pharmaceutical:\nSun Pharmaceutical is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Respond to medical emergencies and provide immediate care\n• Monitor patient progress and adjust treatment plans accordingly\n• Provide high-quality patient care and maintain patient records\n• Diagnose and treat medical conditions following established protocols\n• Administer medications and treatments as prescribed\n• Maintain accurate clinical documentation in electronic health records\n• Maintain sterile environments and follow infection control protocols\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 6-10 years of relevant experience\n• Proficiency in CPT Codes\n• Proficiency in EMR/EHR\n• Proficiency in Telemedicine\n• Proficiency in BLS/ACLS\n• Proficiency in Infection Control\n• Proficiency in Clinical Documentation\n• Proficiency in Clinical Research\n• Proficiency in ICU Management\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Annual performance appraisal\n• Flexible working hours\n• Learning & development budget\n• Transportation and conveyance allowance\n• Mobile and internet reimbursement\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Tiruchirappalli, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Sun Pharmaceutical!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Sun Pharmaceutical",
+      "value": "226-0-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Sun Pharmaceutical",
+      "sameAs": "https://www.google.com/search?q=Sun%20Pharmaceutical",
+      "logo": "https://logo.clearbit.com/sunpharmaceutical.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Sun Pharmaceutical Office",
+        "addressLocality": "Tiruchirappalli",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "CPT Codes, EMR/EHR, Telemedicine, BLS/ACLS, Infection Control, Clinical Documentation, Clinical Research, ICU Management",
+    "responsibilities": "Respond to medical emergencies and provide immediate care. Monitor patient progress and adjust treatment plans accordingly. Provide high-quality patient care and maintain patient records. Diagnose and treat medical conditions following established protocols. Administer medications and treatments as prescribed. Maintain accurate clinical documentation in electronic health records. Maintain sterile environments and follow infection control protocols",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Annual performance appraisal. Flexible working hours. Learning & development budget. Transportation and conveyance allowance. Mobile and internet reimbursement",
+    "industry": "healthcare",
+    "occupationalCategory": "Medical Officer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Annual performance appraisal, Flexible working hours, Learning & development budget, Transportation and conveyance allowance, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "Sun Pharmaceutical has an exciting opening for a Medical Officer at our Tiruchirappalli office. Join a company that values innovation, collaboration, and contin",
+    "keywords": "Medical Officer, Sun Pharmaceutical, jobs in Tiruchirappalli, Tamil Nadu jobs, healthcare jobs India, CPT Codes, EMR/EHR, Telemedicine, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:47:58.069Z",
+  "page": 56
+}

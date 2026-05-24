@@ -1,0 +1,93 @@
+{
+  "slug": "dr-reddy-s-laboratories-surgeon-mumbai-2026-05-24-3",
+  "title": "Surgeon Vacancy at Dr. Reddy's Laboratories - 2026 Batch",
+  "company": "Dr. Reddy's Laboratories",
+  "industry": "healthcare",
+  "role": "Surgeon",
+  "location": {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Infection Control",
+    "Medical Coding",
+    "NABH Standards",
+    "ICD-10",
+    "Patient Care",
+    "Clinical Research",
+    "Clinical Documentation",
+    "Wound Care"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Surgeon Vacancy at Dr. Reddy's Laboratories - 2026 Batch",
+    "description": "Dr. Reddy's Laboratories has an exciting opening for a Surgeon at our Mumbai office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Dr. Reddy's Laboratories:\nDr. Reddy's Laboratories is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with pharmaceutical representatives and medical suppliers\n• Maintain sterile environments and follow infection control protocols\n• Respond to medical emergencies and provide immediate care\n• Monitor patient progress and adjust treatment plans accordingly\n• Ensure patient privacy and maintain confidentiality\n• Administer medications and treatments as prescribed\n• Coordinate with multidisciplinary teams for comprehensive patient management\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 6-10 years of relevant experience\n• Proficiency in Infection Control\n• Proficiency in Medical Coding\n• Proficiency in NABH Standards\n• Proficiency in ICD-10\n• Proficiency in Patient Care\n• Proficiency in Clinical Research\n• Proficiency in Clinical Documentation\n• Proficiency in Wound Care\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Professional development and training programs\n• Work-from-home flexibility\n• Employee stock options (ESOPs) for eligible roles\n• International travel opportunities for senior roles\n• Competitive salary with performance-linked incentives\n• Annual paid leaves and casual leaves\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Mumbai, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Dr. Reddy's Laboratories!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Dr. Reddy's Laboratories",
+      "value": "228-3-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Dr. Reddy's Laboratories",
+      "sameAs": "https://www.google.com/search?q=Dr.%20Reddy's%20Laboratories",
+      "logo": "https://logo.clearbit.com/drreddyslaboratories.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Dr. Reddy's Laboratories Office",
+        "addressLocality": "Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Infection Control, Medical Coding, NABH Standards, ICD-10, Patient Care, Clinical Research, Clinical Documentation, Wound Care",
+    "responsibilities": "Collaborate with pharmaceutical representatives and medical suppliers. Maintain sterile environments and follow infection control protocols. Respond to medical emergencies and provide immediate care. Monitor patient progress and adjust treatment plans accordingly. Ensure patient privacy and maintain confidentiality. Administer medications and treatments as prescribed. Coordinate with multidisciplinary teams for comprehensive patient management",
+    "benefits": "Professional development and training programs. Work-from-home flexibility. Employee stock options (ESOPs) for eligible roles. International travel opportunities for senior roles. Competitive salary with performance-linked incentives. Annual paid leaves and casual leaves",
+    "industry": "healthcare",
+    "occupationalCategory": "Surgeon",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Work-from-home flexibility, Employee stock options (ESOPs) for eligible roles, International travel opportunities for senior roles, Competitive salary with performance-linked incentives, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "Dr. Reddy's Laboratories has an exciting opening for a Surgeon at our Mumbai office. Join a company that values innovation, collaboration, and continuous learni",
+    "keywords": "Surgeon, Dr. Reddy's Laboratories, jobs in Mumbai, Maharashtra jobs, healthcare jobs India, Infection Control, Medical Coding, NABH Standards, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:47:58.070Z",
+  "page": 56
+}
