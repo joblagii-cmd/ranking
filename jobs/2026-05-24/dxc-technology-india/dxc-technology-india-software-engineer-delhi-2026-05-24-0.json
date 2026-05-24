@@ -1,0 +1,94 @@
+{
+  "slug": "dxc-technology-india-software-engineer-delhi-2026-05-24-0",
+  "title": "Immediate Requirement Software Engineer at DXC Technology India",
+  "company": "DXC Technology India",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "AWS",
+    "Node.js",
+    "MongoDB",
+    "Rust",
+    "React",
+    "SQL",
+    "Docker",
+    "Machine Learning"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Immediate Requirement Software Engineer at DXC Technology India",
+    "description": "An exciting career opportunity awaits you at DXC Technology India. We are on the lookout for a dedicated Software Engineer to strengthen our Delhi-based team.\n\nAbout DXC Technology India:\nDXC Technology India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Integrate third-party APIs and services\n• Participate in on-call rotation for production support\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Design, develop and maintain scalable software applications\n• Collaborate with cross-functional teams including product, design, and QA\n• Write and execute unit tests and integration tests\n• Write clean, maintainable, and well-documented code\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 0-1 years of relevant experience\n• Proficiency in AWS\n• Proficiency in Node.js\n• Proficiency in MongoDB\n• Proficiency in Rust\n• Proficiency in React\n• Proficiency in SQL\n• Proficiency in Docker\n• Proficiency in Machine Learning\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Competitive salary with performance-linked incentives\n• Company-sponsored certifications\n• Meal coupons and food allowance\n• Mobile and internet reimbursement\n• Annual performance appraisal\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Delhi, Delhi, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with DXC Technology India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "DXC Technology India",
+      "value": "64-0-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "DXC Technology India",
+      "sameAs": "https://www.google.com/search?q=DXC%20Technology%20India",
+      "logo": "https://logo.clearbit.com/dxctechnologyindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "DXC Technology India Office",
+        "addressLocality": "Delhi",
+        "addressRegion": "Delhi",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "AWS, Node.js, MongoDB, Rust, React, SQL, Docker, Machine Learning",
+    "responsibilities": "Integrate third-party APIs and services. Participate in on-call rotation for production support. Mentor junior developers and conduct knowledge-sharing sessions. Design, develop and maintain scalable software applications. Collaborate with cross-functional teams including product, design, and QA. Write and execute unit tests and integration tests. Write clean, maintainable, and well-documented code",
+    "benefits": "International travel opportunities for senior roles. Competitive salary with performance-linked incentives. Company-sponsored certifications. Meal coupons and food allowance. Mobile and internet reimbursement. Annual performance appraisal",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Competitive salary with performance-linked incentives, Company-sponsored certifications, Meal coupons and food allowance, Mobile and internet reimbursement, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at DXC Technology India. We are on the lookout for a dedicated Software Engineer to strengthen our Delhi-based team.",
+    "keywords": "Software Engineer, DXC Technology India, jobs in Delhi, Delhi jobs, technology jobs India, AWS, Node.js, MongoDB, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:42:57.707Z",
+  "page": 15
+}

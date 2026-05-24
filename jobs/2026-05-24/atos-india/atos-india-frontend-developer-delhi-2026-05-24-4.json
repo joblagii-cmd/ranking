@@ -1,0 +1,93 @@
+{
+  "slug": "atos-india-frontend-developer-delhi-2026-05-24-4",
+  "title": "Mid-Level Frontend Developer at Atos India",
+  "company": "Atos India",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "React",
+    "Java",
+    "Agile/Scrum",
+    "CI/CD",
+    "AWS",
+    "TypeScript",
+    "Docker",
+    "Git"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Frontend Developer at Atos India",
+    "description": "An exciting career opportunity awaits you at Atos India. We are on the lookout for a dedicated Frontend Developer to strengthen our Delhi-based team.\n\nAbout Atos India:\nAtos India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Integrate third-party APIs and services\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Implement new features based on product requirements\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Contribute to system architecture and technical design decisions\n• Participate in code reviews and contribute to technical discussions\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 10-15 years of relevant experience\n• Proficiency in React\n• Proficiency in Java\n• Proficiency in Agile/Scrum\n• Proficiency in CI/CD\n• Proficiency in AWS\n• Proficiency in TypeScript\n• Proficiency in Docker\n• Proficiency in Git\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Professional development and training programs\n• Competitive salary with performance-linked incentives\n• Maternity and paternity leave\n• Employee stock options (ESOPs) for eligible roles\n• Recognition and rewards programs\n• Mobile and internet reimbursement\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Delhi, Delhi, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Atos India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Atos India",
+      "value": "62-4-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Atos India",
+      "sameAs": "https://www.google.com/search?q=Atos%20India",
+      "logo": "https://logo.clearbit.com/atosindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Atos India Office",
+        "addressLocality": "Delhi",
+        "addressRegion": "Delhi",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "React, Java, Agile/Scrum, CI/CD, AWS, TypeScript, Docker, Git",
+    "responsibilities": "Integrate third-party APIs and services. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Implement new features based on product requirements. Troubleshoot, debug, and resolve software defects and performance issues. Work with agile methodologies including daily stand-ups and sprint planning. Contribute to system architecture and technical design decisions. Participate in code reviews and contribute to technical discussions",
+    "benefits": "Professional development and training programs. Competitive salary with performance-linked incentives. Maternity and paternity leave. Employee stock options (ESOPs) for eligible roles. Recognition and rewards programs. Mobile and internet reimbursement",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Competitive salary with performance-linked incentives, Maternity and paternity leave, Employee stock options (ESOPs) for eligible roles, Recognition and rewards programs, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Atos India. We are on the lookout for a dedicated Frontend Developer to strengthen our Delhi-based team.",
+    "keywords": "Frontend Developer, Atos India, jobs in Delhi, Delhi jobs, technology jobs India, React, Java, Agile/Scrum, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:42:57.707Z",
+  "page": 15
+}

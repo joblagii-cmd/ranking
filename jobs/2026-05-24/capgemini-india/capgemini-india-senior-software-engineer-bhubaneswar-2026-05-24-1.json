@@ -1,0 +1,93 @@
+{
+  "slug": "capgemini-india-senior-software-engineer-bhubaneswar-2026-05-24-1",
+  "title": "Senior Software Engineer - Capgemini India - Experienced Professionals",
+  "company": "Capgemini India",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "region": "Eastern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "AWS",
+    "Node.js",
+    "TypeScript",
+    "Java",
+    "Machine Learning",
+    "MongoDB",
+    "React",
+    "Microservices"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Capgemini India - Experienced Professionals",
+    "description": "An exciting career opportunity awaits you at Capgemini India. We are on the lookout for a dedicated Senior Software Engineer to strengthen our Bhubaneswar-based team.\n\nAbout Capgemini India:\nCapgemini India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Design, develop and maintain scalable software applications\n• Collaborate with cross-functional teams including product, design, and QA\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Integrate third-party APIs and services\n• Write and execute unit tests and integration tests\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 3-6 years of relevant experience\n• Proficiency in AWS\n• Proficiency in Node.js\n• Proficiency in TypeScript\n• Proficiency in Java\n• Proficiency in Machine Learning\n• Proficiency in MongoDB\n• Proficiency in React\n• Proficiency in Microservices\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• International travel opportunities for senior roles\n• Employee stock options (ESOPs) for eligible roles\n• Flexible working hours\n• Transportation and conveyance allowance\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Bhubaneswar, Odisha, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Capgemini India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Capgemini India",
+      "value": "61-1-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Capgemini India",
+      "sameAs": "https://www.google.com/search?q=Capgemini%20India",
+      "logo": "https://logo.clearbit.com/capgeminiindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Capgemini India Office",
+        "addressLocality": "Bhubaneswar",
+        "addressRegion": "Odisha",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "AWS, Node.js, TypeScript, Java, Machine Learning, MongoDB, React, Microservices",
+    "responsibilities": "Work with agile methodologies including daily stand-ups and sprint planning. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Design, develop and maintain scalable software applications. Collaborate with cross-functional teams including product, design, and QA. Mentor junior developers and conduct knowledge-sharing sessions. Integrate third-party APIs and services. Write and execute unit tests and integration tests",
+    "benefits": "Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. International travel opportunities for senior roles. Employee stock options (ESOPs) for eligible roles. Flexible working hours. Transportation and conveyance allowance",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, International travel opportunities for senior roles, Employee stock options (ESOPs) for eligible roles, Flexible working hours, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Capgemini India. We are on the lookout for a dedicated Senior Software Engineer to strengthen our Bhubaneswar-based",
+    "keywords": "Senior Software Engineer, Capgemini India, jobs in Bhubaneswar, Odisha jobs, technology jobs India, AWS, Node.js, TypeScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:42:57.706Z",
+  "page": 15
+}

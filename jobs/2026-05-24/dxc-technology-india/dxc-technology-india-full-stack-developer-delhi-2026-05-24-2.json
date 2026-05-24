@@ -1,0 +1,93 @@
+{
+  "slug": "dxc-technology-india-full-stack-developer-delhi-2026-05-24-2",
+  "title": "DXC Technology India is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "DXC Technology India",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "TensorFlow",
+    "JavaScript",
+    "REST APIs",
+    "Go",
+    "SQL",
+    "CI/CD",
+    "Kubernetes",
+    "AWS"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "DXC Technology India is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "An exciting career opportunity awaits you at DXC Technology India. We are on the lookout for a dedicated Full Stack Developer to strengthen our Delhi-based team.\n\nAbout DXC Technology India:\nDXC Technology India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in code reviews and contribute to technical discussions\n• Write clean, maintainable, and well-documented code\n• Contribute to system architecture and technical design decisions\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Collaborate with cross-functional teams including product, design, and QA\n• Write and execute unit tests and integration tests\n• Work with agile methodologies including daily stand-ups and sprint planning\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 10-15 years of relevant experience\n• Proficiency in TensorFlow\n• Proficiency in JavaScript\n• Proficiency in REST APIs\n• Proficiency in Go\n• Proficiency in SQL\n• Proficiency in CI/CD\n• Proficiency in Kubernetes\n• Proficiency in AWS\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Professional development and training programs\n• Transportation and conveyance allowance\n• Annual performance appraisal\n• Employee stock options (ESOPs) for eligible roles\n• Annual paid leaves and casual leaves\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Delhi, Delhi, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with DXC Technology India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "DXC Technology India",
+      "value": "64-2-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "DXC Technology India",
+      "sameAs": "https://www.google.com/search?q=DXC%20Technology%20India",
+      "logo": "https://logo.clearbit.com/dxctechnologyindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "DXC Technology India Office",
+        "addressLocality": "Delhi",
+        "addressRegion": "Delhi",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "TensorFlow, JavaScript, REST APIs, Go, SQL, CI/CD, Kubernetes, AWS",
+    "responsibilities": "Participate in code reviews and contribute to technical discussions. Write clean, maintainable, and well-documented code. Contribute to system architecture and technical design decisions. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Collaborate with cross-functional teams including product, design, and QA. Write and execute unit tests and integration tests. Work with agile methodologies including daily stand-ups and sprint planning",
+    "benefits": "Work-from-home flexibility. Professional development and training programs. Transportation and conveyance allowance. Annual performance appraisal. Employee stock options (ESOPs) for eligible roles. Annual paid leaves and casual leaves",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Professional development and training programs, Transportation and conveyance allowance, Annual performance appraisal, Employee stock options (ESOPs) for eligible roles, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at DXC Technology India. We are on the lookout for a dedicated Full Stack Developer to strengthen our Delhi-based team",
+    "keywords": "Full Stack Developer, DXC Technology India, jobs in Delhi, Delhi jobs, technology jobs India, TensorFlow, JavaScript, REST APIs, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:42:57.707Z",
+  "page": 15
+}
