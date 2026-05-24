@@ -1,0 +1,93 @@
+{
+  "slug": "healthifyme-senior-software-engineer-aurangabad-2026-05-24-1",
+  "title": "Senior Software Engineer - HealthifyMe - Top MNC",
+  "company": "HealthifyMe",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Aurangabad",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Microservices",
+    "Java",
+    "TensorFlow",
+    "React",
+    "Git",
+    "SQL",
+    "REST APIs",
+    "AWS"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - HealthifyMe - Top MNC",
+    "description": "HealthifyMe invites applications from qualified candidates for the position of Senior Software Engineer at our Aurangabad location. This role offers excellent career advancement prospects.\n\nAbout HealthifyMe:\nHealthifyMe is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Contribute to system architecture and technical design decisions\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Write clean, maintainable, and well-documented code\n• Write and execute unit tests and integration tests\n• Design, develop and maintain scalable software applications\n• Collaborate with cross-functional teams including product, design, and QA\n• Ensure code security and follow best practices for data protection\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 0-1 years of relevant experience\n• Proficiency in Microservices\n• Proficiency in Java\n• Proficiency in TensorFlow\n• Proficiency in React\n• Proficiency in Git\n• Proficiency in SQL\n• Proficiency in REST APIs\n• Proficiency in AWS\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Competitive salary with performance-linked incentives\n• Maternity and paternity leave\n• Modern office with recreational facilities\n• Company-sponsored certifications\n• Annual paid leaves and casual leaves\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Aurangabad, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with HealthifyMe!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "HealthifyMe",
+      "value": "111-1-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "HealthifyMe",
+      "sameAs": "https://www.google.com/search?q=HealthifyMe",
+      "logo": "https://logo.clearbit.com/healthifyme.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "HealthifyMe Office",
+        "addressLocality": "Aurangabad",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "Microservices, Java, TensorFlow, React, Git, SQL, REST APIs, AWS",
+    "responsibilities": "Contribute to system architecture and technical design decisions. Work with agile methodologies including daily stand-ups and sprint planning. Write clean, maintainable, and well-documented code. Write and execute unit tests and integration tests. Design, develop and maintain scalable software applications. Collaborate with cross-functional teams including product, design, and QA. Ensure code security and follow best practices for data protection",
+    "benefits": "Work-from-home flexibility. Competitive salary with performance-linked incentives. Maternity and paternity leave. Modern office with recreational facilities. Company-sponsored certifications. Annual paid leaves and casual leaves",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Competitive salary with performance-linked incentives, Maternity and paternity leave, Modern office with recreational facilities, Company-sponsored certifications, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "HealthifyMe invites applications from qualified candidates for the position of Senior Software Engineer at our Aurangabad location. This role offers excellent c",
+    "keywords": "Senior Software Engineer, HealthifyMe, jobs in Aurangabad, Maharashtra jobs, technology jobs India, Microservices, Java, TensorFlow, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:44:26.468Z",
+  "page": 27
+}
