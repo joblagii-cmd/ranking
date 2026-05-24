@@ -1,0 +1,93 @@
+{
+  "slug": "cdsl-credit-analyst-allahabad-2026-05-24-2",
+  "title": "CDSL is Hiring: Credit Analyst (Lead)",
+  "company": "CDSL",
+  "industry": "finance",
+  "role": "Credit Analyst",
+  "location": {
+    "city": "Allahabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "IFRS",
+    "Credit Analysis",
+    "Budgeting",
+    "Due Diligence",
+    "Risk Management",
+    "Financial Modeling",
+    "Income Tax",
+    "Ind AS"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "CDSL is Hiring: Credit Analyst (Lead)",
+    "description": "We at CDSL are looking for an experienced Credit Analyst based out of Allahabad. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout CDSL:\nCDSL is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Process payroll and manage employee reimbursements\n• Ensure compliance with tax regulations and statutory requirements\n• Coordinate with external auditors during annual audits\n• Manage accounts payable and accounts receivable functions\n• Implement and maintain internal controls and audit procedures\n• Liaise with banks, regulators, and financial institutions\n• Monitor market trends and provide investment recommendations\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 0-1 years of relevant experience\n• Proficiency in IFRS\n• Proficiency in Credit Analysis\n• Proficiency in Budgeting\n• Proficiency in Due Diligence\n• Proficiency in Risk Management\n• Proficiency in Financial Modeling\n• Proficiency in Income Tax\n• Proficiency in Ind AS\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Meal coupons and food allowance\n• Recognition and rewards programs\n• Provident Fund and Gratuity as per company policy\n• Company-sponsored certifications\n• Learning & development budget\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Allahabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with CDSL!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "CDSL",
+      "value": "200-2-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "CDSL",
+      "sameAs": "https://www.google.com/search?q=CDSL",
+      "logo": "https://logo.clearbit.com/cdsl.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "CDSL Office",
+        "addressLocality": "Allahabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "IFRS, Credit Analysis, Budgeting, Due Diligence, Risk Management, Financial Modeling, Income Tax, Ind AS",
+    "responsibilities": "Process payroll and manage employee reimbursements. Ensure compliance with tax regulations and statutory requirements. Coordinate with external auditors during annual audits. Manage accounts payable and accounts receivable functions. Implement and maintain internal controls and audit procedures. Liaise with banks, regulators, and financial institutions. Monitor market trends and provide investment recommendations",
+    "benefits": "Annual paid leaves and casual leaves. Meal coupons and food allowance. Recognition and rewards programs. Provident Fund and Gratuity as per company policy. Company-sponsored certifications. Learning & development budget",
+    "industry": "finance",
+    "occupationalCategory": "Credit Analyst",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Meal coupons and food allowance, Recognition and rewards programs, Provident Fund and Gratuity as per company policy, Company-sponsored certifications, Learning & development budget"
+  },
+  "meta": {
+    "description": "We at CDSL are looking for an experienced Credit Analyst based out of Allahabad. If you are a result-oriented professional with a passion for excellence, we wan",
+    "keywords": "Credit Analyst, CDSL, jobs in Allahabad, Uttar Pradesh jobs, finance jobs India, IFRS, Credit Analysis, Budgeting, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:47:07.080Z",
+  "page": 49
+}

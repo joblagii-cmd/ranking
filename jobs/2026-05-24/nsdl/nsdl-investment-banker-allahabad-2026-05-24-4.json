@@ -1,0 +1,93 @@
+{
+  "slug": "nsdl-investment-banker-allahabad-2026-05-24-4",
+  "title": "Lead Investment Banker at NSDL",
+  "company": "NSDL",
+  "industry": "finance",
+  "role": "Investment Banker",
+  "location": {
+    "city": "Allahabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "MS Excel",
+    "Power BI",
+    "Tally",
+    "Income Tax",
+    "Risk Management",
+    "VBA",
+    "Due Diligence",
+    "Python for Finance"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Lead Investment Banker at NSDL",
+    "description": "We at NSDL are looking for an experienced Investment Banker based out of Allahabad. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout NSDL:\nNSDL is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Liaise with banks, regulators, and financial institutions\n• Process payroll and manage employee reimbursements\n• Coordinate with external auditors during annual audits\n• Ensure compliance with tax regulations and statutory requirements\n• Manage accounts payable and accounts receivable functions\n• Implement and maintain internal controls and audit procedures\n• Develop financial models and projections for business planning\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 12-20 years of relevant experience\n• Proficiency in MS Excel\n• Proficiency in Power BI\n• Proficiency in Tally\n• Proficiency in Income Tax\n• Proficiency in Risk Management\n• Proficiency in VBA\n• Proficiency in Due Diligence\n• Proficiency in Python for Finance\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• Flexible working hours\n• Transportation and conveyance allowance\n• Maternity and paternity leave\n• Meal coupons and food allowance\n• Company-sponsored certifications\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Allahabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with NSDL!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "NSDL",
+      "value": "199-4-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "NSDL",
+      "sameAs": "https://www.google.com/search?q=NSDL",
+      "logo": "https://logo.clearbit.com/nsdl.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "NSDL Office",
+        "addressLocality": "Allahabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "MS Excel, Power BI, Tally, Income Tax, Risk Management, VBA, Due Diligence, Python for Finance",
+    "responsibilities": "Liaise with banks, regulators, and financial institutions. Process payroll and manage employee reimbursements. Coordinate with external auditors during annual audits. Ensure compliance with tax regulations and statutory requirements. Manage accounts payable and accounts receivable functions. Implement and maintain internal controls and audit procedures. Develop financial models and projections for business planning",
+    "benefits": "Comprehensive health insurance for self and family. Flexible working hours. Transportation and conveyance allowance. Maternity and paternity leave. Meal coupons and food allowance. Company-sponsored certifications",
+    "industry": "finance",
+    "occupationalCategory": "Investment Banker",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, Flexible working hours, Transportation and conveyance allowance, Maternity and paternity leave, Meal coupons and food allowance, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "We at NSDL are looking for an experienced Investment Banker based out of Allahabad. If you are a result-oriented professional with a passion for excellence, we ",
+    "keywords": "Investment Banker, NSDL, jobs in Allahabad, Uttar Pradesh jobs, finance jobs India, MS Excel, Power BI, Tally, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:47:07.078Z",
+  "page": 49
+}
