@@ -1,0 +1,93 @@
+{
+  "slug": "rmz-corp-business-development-manager-allahabad-2026-05-24-4",
+  "title": "Entry-Level Business Development Manager at RMZ Corp",
+  "company": "RMZ Corp",
+  "industry": "realestate",
+  "role": "Business Development Manager",
+  "location": {
+    "city": "Allahabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Sales Techniques",
+    "Client Relationship Management",
+    "GIS Tools",
+    "Property Management",
+    "Due Diligence",
+    "Property Valuation",
+    "Contract Management",
+    "Financial Modeling"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Entry-Level Business Development Manager at RMZ Corp",
+    "description": "RMZ Corp has an exciting opening for a Business Development Manager at our Allahabad office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout RMZ Corp:\nRMZ Corp is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Maintain a pipeline of qualified leads using CRM software\n• Conduct market research and provide competitive analysis\n• Coordinate with legal teams for documentation and title verification\n• Build relationships with channel partners and brokers\n• Liaise with banks and NBFCs for home loan assistance to customers\n• Conduct site visits and property presentations for clients\n• Manage RERA documentation and compliance requirements\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 12-20 years of relevant experience\n• Proficiency in Sales Techniques\n• Proficiency in Client Relationship Management\n• Proficiency in GIS Tools\n• Proficiency in Property Management\n• Proficiency in Due Diligence\n• Proficiency in Property Valuation\n• Proficiency in Contract Management\n• Proficiency in Financial Modeling\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Comprehensive health insurance for self and family\n• International travel opportunities for senior roles\n• Annual performance appraisal\n• Referral bonus program\n• Competitive salary with performance-linked incentives\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Allahabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with RMZ Corp!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "RMZ Corp",
+      "value": "698-4-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "RMZ Corp",
+      "sameAs": "https://www.google.com/search?q=RMZ%20Corp",
+      "logo": "https://logo.clearbit.com/rmzcorp.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "RMZ Corp Office",
+        "addressLocality": "Allahabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "Sales Techniques, Client Relationship Management, GIS Tools, Property Management, Due Diligence, Property Valuation, Contract Management, Financial Modeling",
+    "responsibilities": "Maintain a pipeline of qualified leads using CRM software. Conduct market research and provide competitive analysis. Coordinate with legal teams for documentation and title verification. Build relationships with channel partners and brokers. Liaise with banks and NBFCs for home loan assistance to customers. Conduct site visits and property presentations for clients. Manage RERA documentation and compliance requirements",
+    "benefits": "Provident Fund and Gratuity as per company policy. Comprehensive health insurance for self and family. International travel opportunities for senior roles. Annual performance appraisal. Referral bonus program. Competitive salary with performance-linked incentives",
+    "industry": "realestate",
+    "occupationalCategory": "Business Development Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Comprehensive health insurance for self and family, International travel opportunities for senior roles, Annual performance appraisal, Referral bonus program, Competitive salary with performance-linked incentives"
+  },
+  "meta": {
+    "description": "RMZ Corp has an exciting opening for a Business Development Manager at our Allahabad office. Join a company that values innovation, collaboration, and continuou",
+    "keywords": "Business Development Manager, RMZ Corp, jobs in Allahabad, Uttar Pradesh jobs, realestate jobs India, Sales Techniques, Client Relationship Management, GIS Tools, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T05:02:19.936Z",
+  "page": 174
+}
