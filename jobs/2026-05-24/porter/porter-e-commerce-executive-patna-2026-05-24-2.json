@@ -1,0 +1,93 @@
+{
+  "slug": "porter-e-commerce-executive-patna-2026-05-24-2",
+  "title": "Porter is Hiring: E-commerce Executive (Junior)",
+  "company": "Porter",
+  "industry": "ecommerce",
+  "role": "E-commerce Executive",
+  "location": {
+    "city": "Patna",
+    "state": "Bihar",
+    "region": "Eastern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Data Analytics",
+    "Shopify",
+    "Google Analytics",
+    "Magento",
+    "Influencer Marketing",
+    "Supply Chain",
+    "Affiliate Marketing",
+    "WooCommerce"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Porter is Hiring: E-commerce Executive (Junior)",
+    "description": "Porter invites applications from qualified candidates for the position of E-commerce Executive at our Patna location. This role offers excellent career advancement prospects.\n\nAbout Porter:\nPorter is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Create engaging content for product pages and social media\n• Build and maintain affiliate and influencer marketing programs\n• Conduct competitor analysis and market benchmarking\n• Execute digital marketing campaigns across Google, Meta, and other channels\n• Monitor and improve Net Promoter Score (NPS) and customer satisfaction\n• Collaborate with logistics partners to ensure timely delivery\n• Develop and implement category growth strategies\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 3-6 years of relevant experience\n• Proficiency in Data Analytics\n• Proficiency in Shopify\n• Proficiency in Google Analytics\n• Proficiency in Magento\n• Proficiency in Influencer Marketing\n• Proficiency in Supply Chain\n• Proficiency in Affiliate Marketing\n• Proficiency in WooCommerce\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Annual paid leaves and casual leaves\n• Learning & development budget\n• Company-sponsored certifications\n• Annual performance appraisal\n• Professional development and training programs\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Patna, Bihar, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Porter!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Porter",
+      "value": "342-2-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Porter",
+      "sameAs": "https://www.google.com/search?q=Porter",
+      "logo": "https://logo.clearbit.com/porter.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Porter Office",
+        "addressLocality": "Patna",
+        "addressRegion": "Bihar",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "Data Analytics, Shopify, Google Analytics, Magento, Influencer Marketing, Supply Chain, Affiliate Marketing, WooCommerce",
+    "responsibilities": "Create engaging content for product pages and social media. Build and maintain affiliate and influencer marketing programs. Conduct competitor analysis and market benchmarking. Execute digital marketing campaigns across Google, Meta, and other channels. Monitor and improve Net Promoter Score (NPS) and customer satisfaction. Collaborate with logistics partners to ensure timely delivery. Develop and implement category growth strategies",
+    "benefits": "Work-from-home flexibility. Annual paid leaves and casual leaves. Learning & development budget. Company-sponsored certifications. Annual performance appraisal. Professional development and training programs",
+    "industry": "ecommerce",
+    "occupationalCategory": "E-commerce Executive",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Annual paid leaves and casual leaves, Learning & development budget, Company-sponsored certifications, Annual performance appraisal, Professional development and training programs"
+  },
+  "meta": {
+    "description": "Porter invites applications from qualified candidates for the position of E-commerce Executive at our Patna location. This role offers excellent career advancem",
+    "keywords": "E-commerce Executive, Porter, jobs in Patna, Bihar jobs, ecommerce jobs India, Data Analytics, Shopify, Google Analytics, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:51:24.479Z",
+  "page": 85
+}
