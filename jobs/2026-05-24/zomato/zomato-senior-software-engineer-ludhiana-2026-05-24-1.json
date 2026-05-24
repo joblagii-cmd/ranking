@@ -1,0 +1,93 @@
+{
+  "slug": "zomato-senior-software-engineer-ludhiana-2026-05-24-1",
+  "title": "Senior Software Engineer - Zomato - Multiple Openings",
+  "company": "Zomato",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Ludhiana",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "React",
+    "Java",
+    "Machine Learning",
+    "REST APIs",
+    "Kubernetes",
+    "TensorFlow",
+    "Microservices",
+    "Rust"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Zomato - Multiple Openings",
+    "description": "Are you a skilled Senior Software Engineer looking for your next big career move? Zomato in Ludhiana offers you the perfect platform to grow professionally and personally.\n\nAbout Zomato:\nZomato is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Write clean, maintainable, and well-documented code\n• Integrate third-party APIs and services\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Participate in on-call rotation for production support\n• Contribute to system architecture and technical design decisions\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 0-1 years of relevant experience\n• Proficiency in React\n• Proficiency in Java\n• Proficiency in Machine Learning\n• Proficiency in REST APIs\n• Proficiency in Kubernetes\n• Proficiency in TensorFlow\n• Proficiency in Microservices\n• Proficiency in Rust\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Professional development and training programs\n• Annual paid leaves and casual leaves\n• Company-sponsored certifications\n• Provident Fund and Gratuity as per company policy\n• Comprehensive health insurance for self and family\n• Transportation and conveyance allowance\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Ludhiana, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Zomato!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Zomato",
+      "value": "15-1-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Zomato",
+      "sameAs": "https://www.google.com/search?q=Zomato",
+      "logo": "https://logo.clearbit.com/zomato.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Zomato Office",
+        "addressLocality": "Ludhiana",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "React, Java, Machine Learning, REST APIs, Kubernetes, TensorFlow, Microservices, Rust",
+    "responsibilities": "Design, develop and maintain scalable software applications. Troubleshoot, debug, and resolve software defects and performance issues. Write clean, maintainable, and well-documented code. Integrate third-party APIs and services. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Participate in on-call rotation for production support. Contribute to system architecture and technical design decisions",
+    "benefits": "Professional development and training programs. Annual paid leaves and casual leaves. Company-sponsored certifications. Provident Fund and Gratuity as per company policy. Comprehensive health insurance for self and family. Transportation and conveyance allowance",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Annual paid leaves and casual leaves, Company-sponsored certifications, Provident Fund and Gratuity as per company policy, Comprehensive health insurance for self and family, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "Are you a skilled Senior Software Engineer looking for your next big career move? Zomato in Ludhiana offers you the perfect platform to grow professionally and ",
+    "keywords": "Senior Software Engineer, Zomato, jobs in Ludhiana, Punjab jobs, technology jobs India, React, Java, Machine Learning, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:41:29.267Z",
+  "page": 3
+}

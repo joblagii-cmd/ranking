@@ -1,0 +1,93 @@
+{
+  "slug": "swiggy-backend-developer-nashik-2026-05-24-3",
+  "title": "Backend Developer Vacancy at Swiggy - 2026 Batch",
+  "company": "Swiggy",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "JavaScript",
+    "React",
+    "MongoDB",
+    "SQL",
+    "Python",
+    "Machine Learning",
+    "Node.js",
+    "TensorFlow"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Swiggy - 2026 Batch",
+    "description": "Are you a skilled Backend Developer looking for your next big career move? Swiggy in Nashik offers you the perfect platform to grow professionally and personally.\n\nAbout Swiggy:\nSwiggy is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Design, develop and maintain scalable software applications\n• Collaborate with cross-functional teams including product, design, and QA\n• Write clean, maintainable, and well-documented code\n• Write and execute unit tests and integration tests\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Implement new features based on product requirements\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 6-10 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in React\n• Proficiency in MongoDB\n• Proficiency in SQL\n• Proficiency in Python\n• Proficiency in Machine Learning\n• Proficiency in Node.js\n• Proficiency in TensorFlow\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Competitive salary with performance-linked incentives\n• Life and accident insurance\n• Transportation and conveyance allowance\n• Recognition and rewards programs\n• Flexible working hours\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Nashik, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Swiggy!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Swiggy",
+      "value": "16-3-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Swiggy",
+      "sameAs": "https://www.google.com/search?q=Swiggy",
+      "logo": "https://logo.clearbit.com/swiggy.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Swiggy Office",
+        "addressLocality": "Nashik",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "JavaScript, React, MongoDB, SQL, Python, Machine Learning, Node.js, TensorFlow",
+    "responsibilities": "Mentor junior developers and conduct knowledge-sharing sessions. Design, develop and maintain scalable software applications. Collaborate with cross-functional teams including product, design, and QA. Write clean, maintainable, and well-documented code. Write and execute unit tests and integration tests. Troubleshoot, debug, and resolve software defects and performance issues. Implement new features based on product requirements",
+    "benefits": "Work-from-home flexibility. Competitive salary with performance-linked incentives. Life and accident insurance. Transportation and conveyance allowance. Recognition and rewards programs. Flexible working hours",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Competitive salary with performance-linked incentives, Life and accident insurance, Transportation and conveyance allowance, Recognition and rewards programs, Flexible working hours"
+  },
+  "meta": {
+    "description": "Are you a skilled Backend Developer looking for your next big career move? Swiggy in Nashik offers you the perfect platform to grow professionally and personall",
+    "keywords": "Backend Developer, Swiggy, jobs in Nashik, Maharashtra jobs, technology jobs India, JavaScript, React, MongoDB, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:41:29.268Z",
+  "page": 3
+}
