@@ -1,0 +1,94 @@
+{
+  "slug": "alkem-laboratories-radiologist-chennai-2026-05-24-4",
+  "title": "Principal Radiologist at Alkem Laboratories",
+  "company": "Alkem Laboratories",
+  "industry": "healthcare",
+  "role": "Radiologist",
+  "location": {
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Infection Control",
+    "EMR/EHR",
+    "HIPAA Compliance",
+    "Health Informatics",
+    "Wound Care",
+    "Telemedicine",
+    "Clinical Documentation",
+    "ICU Management"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Principal Radiologist at Alkem Laboratories",
+    "description": "Alkem Laboratories has an exciting opening for a Radiologist at our Chennai office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Alkem Laboratories:\nAlkem Laboratories is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Monitor patient progress and adjust treatment plans accordingly\n• Administer medications and treatments as prescribed\n• Ensure patient privacy and maintain confidentiality\n• Maintain sterile environments and follow infection control protocols\n• Conduct routine health assessments and screenings\n• Attend continuing medical education programs and training\n• Coordinate with multidisciplinary teams for comprehensive patient management\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 3-6 years of relevant experience\n• Proficiency in Infection Control\n• Proficiency in EMR/EHR\n• Proficiency in HIPAA Compliance\n• Proficiency in Health Informatics\n• Proficiency in Wound Care\n• Proficiency in Telemedicine\n• Proficiency in Clinical Documentation\n• Proficiency in ICU Management\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Modern office with recreational facilities\n• Competitive salary with performance-linked incentives\n• Company-sponsored certifications\n• Referral bonus program\n• Mobile and internet reimbursement\n• Life and accident insurance\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Chennai, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Alkem Laboratories!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Alkem Laboratories",
+      "value": "233-4-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Alkem Laboratories",
+      "sameAs": "https://www.google.com/search?q=Alkem%20Laboratories",
+      "logo": "https://logo.clearbit.com/alkemlaboratories.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Alkem Laboratories Office",
+        "addressLocality": "Chennai",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "Infection Control, EMR/EHR, HIPAA Compliance, Health Informatics, Wound Care, Telemedicine, Clinical Documentation, ICU Management",
+    "responsibilities": "Monitor patient progress and adjust treatment plans accordingly. Administer medications and treatments as prescribed. Ensure patient privacy and maintain confidentiality. Maintain sterile environments and follow infection control protocols. Conduct routine health assessments and screenings. Attend continuing medical education programs and training. Coordinate with multidisciplinary teams for comprehensive patient management",
+    "benefits": "Modern office with recreational facilities. Competitive salary with performance-linked incentives. Company-sponsored certifications. Referral bonus program. Mobile and internet reimbursement. Life and accident insurance",
+    "industry": "healthcare",
+    "occupationalCategory": "Radiologist",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Modern office with recreational facilities, Competitive salary with performance-linked incentives, Company-sponsored certifications, Referral bonus program, Mobile and internet reimbursement, Life and accident insurance"
+  },
+  "meta": {
+    "description": "Alkem Laboratories has an exciting opening for a Radiologist at our Chennai office. Join a company that values innovation, collaboration, and continuous learnin",
+    "keywords": "Radiologist, Alkem Laboratories, jobs in Chennai, Tamil Nadu jobs, healthcare jobs India, Infection Control, EMR/EHR, HIPAA Compliance, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:48:10.726Z",
+  "page": 58
+}
