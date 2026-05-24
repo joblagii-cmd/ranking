@@ -1,0 +1,93 @@
+{
+  "slug": "iit-kharagpur-teacher-faridabad-2026-05-24-0",
+  "title": "Vacancy for Teacher at IIT Kharagpur",
+  "company": "IIT Kharagpur",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Faridabad",
+    "state": "Haryana",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Lesson Planning",
+    "Communication Skills",
+    "E-learning",
+    "IB Curriculum",
+    "Pedagogy",
+    "Student Assessment",
+    "Special Education",
+    "Curriculum Development"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Vacancy for Teacher at IIT Kharagpur",
+    "description": "IIT Kharagpur, one of India's leading organizations, is hiring a Teacher for our Faridabad operations. We offer a competitive salary package along with world-class benefits.\n\nAbout IIT Kharagpur:\nIIT Kharagpur is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Conduct parent-teacher meetings and update parents on student performance\n• Design formative and summative assessments aligned to learning objectives\n• Maintain classroom discipline and create a positive learning environment\n• Develop and deliver engaging lesson plans for students\n• Contribute to school newsletter, blogs, and other publications\n• Collaborate with faculty on curriculum development initiatives\n• Conduct doubt-clearing sessions and remedial classes for weak students\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 1-3 years of relevant experience\n• Proficiency in Lesson Planning\n• Proficiency in Communication Skills\n• Proficiency in E-learning\n• Proficiency in IB Curriculum\n• Proficiency in Pedagogy\n• Proficiency in Student Assessment\n• Proficiency in Special Education\n• Proficiency in Curriculum Development\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Referral bonus program\n• Transportation and conveyance allowance\n• Recognition and rewards programs\n• Maternity and paternity leave\n• Comprehensive health insurance for self and family\n• Mobile and internet reimbursement\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Faridabad, Haryana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with IIT Kharagpur!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "IIT Kharagpur",
+      "value": "520-0-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "IIT Kharagpur",
+      "sameAs": "https://www.google.com/search?q=IIT%20Kharagpur",
+      "logo": "https://logo.clearbit.com/iitkharagpur.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "IIT Kharagpur Office",
+        "addressLocality": "Faridabad",
+        "addressRegion": "Haryana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "Lesson Planning, Communication Skills, E-learning, IB Curriculum, Pedagogy, Student Assessment, Special Education, Curriculum Development",
+    "responsibilities": "Conduct parent-teacher meetings and update parents on student performance. Design formative and summative assessments aligned to learning objectives. Maintain classroom discipline and create a positive learning environment. Develop and deliver engaging lesson plans for students. Contribute to school newsletter, blogs, and other publications. Collaborate with faculty on curriculum development initiatives. Conduct doubt-clearing sessions and remedial classes for weak students",
+    "benefits": "Referral bonus program. Transportation and conveyance allowance. Recognition and rewards programs. Maternity and paternity leave. Comprehensive health insurance for self and family. Mobile and internet reimbursement",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Referral bonus program, Transportation and conveyance allowance, Recognition and rewards programs, Maternity and paternity leave, Comprehensive health insurance for self and family, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "IIT Kharagpur, one of India's leading organizations, is hiring a Teacher for our Faridabad operations. We offer a competitive salary package along with world-cl",
+    "keywords": "Teacher, IIT Kharagpur, jobs in Faridabad, Haryana jobs, education jobs India, Lesson Planning, Communication Skills, E-learning, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:56:45.337Z",
+  "page": 129
+}

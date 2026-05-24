@@ -1,0 +1,93 @@
+{
+  "slug": "iit-delhi-teacher-nashik-2026-05-24-0",
+  "title": "Vacancy for Teacher at IIT Delhi",
+  "company": "IIT Delhi",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Child Psychology",
+    "Pedagogy",
+    "Communication Skills",
+    "IB Curriculum",
+    "Data Analysis",
+    "Student Assessment",
+    "Classroom Management",
+    "Educational Technology"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Vacancy for Teacher at IIT Delhi",
+    "description": "IIT Delhi, one of India's leading organizations, is hiring a Teacher for our Nashik operations. We offer a competitive salary package along with world-class benefits.\n\nAbout IIT Delhi:\nIIT Delhi is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with academic counselors for student career guidance\n• Monitor student progress and provide timely feedback\n• Support students with special educational needs\n• Conduct doubt-clearing sessions and remedial classes for weak students\n• Maintain student records and prepare progress reports\n• Develop and deliver engaging lesson plans for students\n• Create curriculum-aligned learning materials and assessments\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 10-15 years of relevant experience\n• Proficiency in Child Psychology\n• Proficiency in Pedagogy\n• Proficiency in Communication Skills\n• Proficiency in IB Curriculum\n• Proficiency in Data Analysis\n• Proficiency in Student Assessment\n• Proficiency in Classroom Management\n• Proficiency in Educational Technology\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Professional development and training programs\n• Provident Fund and Gratuity as per company policy\n• Annual performance appraisal\n• Transportation and conveyance allowance\n• Employee stock options (ESOPs) for eligible roles\n• Flexible working hours\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Nashik, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with IIT Delhi!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "IIT Delhi",
+      "value": "517-0-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "IIT Delhi",
+      "sameAs": "https://www.google.com/search?q=IIT%20Delhi",
+      "logo": "https://logo.clearbit.com/iitdelhi.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "IIT Delhi Office",
+        "addressLocality": "Nashik",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "Child Psychology, Pedagogy, Communication Skills, IB Curriculum, Data Analysis, Student Assessment, Classroom Management, Educational Technology",
+    "responsibilities": "Coordinate with academic counselors for student career guidance. Monitor student progress and provide timely feedback. Support students with special educational needs. Conduct doubt-clearing sessions and remedial classes for weak students. Maintain student records and prepare progress reports. Develop and deliver engaging lesson plans for students. Create curriculum-aligned learning materials and assessments",
+    "benefits": "Professional development and training programs. Provident Fund and Gratuity as per company policy. Annual performance appraisal. Transportation and conveyance allowance. Employee stock options (ESOPs) for eligible roles. Flexible working hours",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Provident Fund and Gratuity as per company policy, Annual performance appraisal, Transportation and conveyance allowance, Employee stock options (ESOPs) for eligible roles, Flexible working hours"
+  },
+  "meta": {
+    "description": "IIT Delhi, one of India's leading organizations, is hiring a Teacher for our Nashik operations. We offer a competitive salary package along with world-class ben",
+    "keywords": "Teacher, IIT Delhi, jobs in Nashik, Maharashtra jobs, education jobs India, Child Psychology, Pedagogy, Communication Skills, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:56:45.335Z",
+  "page": 129
+}

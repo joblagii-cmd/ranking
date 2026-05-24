@@ -1,0 +1,94 @@
+{
+  "slug": "iit-madras-subject-matter-expert-faridabad-2026-05-24-2",
+  "title": "IIT Madras is Hiring: Subject Matter Expert (Lead)",
+  "company": "IIT Madras",
+  "industry": "education",
+  "role": "Subject Matter Expert",
+  "location": {
+    "city": "Faridabad",
+    "state": "Haryana",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Pedagogy",
+    "LMS Platforms",
+    "Communication Skills",
+    "IB Curriculum",
+    "E-learning",
+    "MS Office",
+    "Lesson Planning",
+    "Mentoring"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "IIT Madras is Hiring: Subject Matter Expert (Lead)",
+    "description": "IIT Madras, one of India's leading organizations, is hiring a Subject Matter Expert for our Faridabad operations. We offer a competitive salary package along with world-class benefits.\n\nAbout IIT Madras:\nIIT Madras is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design formative and summative assessments aligned to learning objectives\n• Monitor student progress and provide timely feedback\n• Create curriculum-aligned learning materials and assessments\n• Maintain classroom discipline and create a positive learning environment\n• Collaborate with faculty on curriculum development initiatives\n• Develop and deliver engaging lesson plans for students\n• Conduct parent-teacher meetings and update parents on student performance\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 1-3 years of relevant experience\n• Proficiency in Pedagogy\n• Proficiency in LMS Platforms\n• Proficiency in Communication Skills\n• Proficiency in IB Curriculum\n• Proficiency in E-learning\n• Proficiency in MS Office\n• Proficiency in Lesson Planning\n• Proficiency in Mentoring\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Life and accident insurance\n• Competitive salary with performance-linked incentives\n• Annual paid leaves and casual leaves\n• Professional development and training programs\n• Employee stock options (ESOPs) for eligible roles\n• Referral bonus program\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Faridabad, Haryana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with IIT Madras!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "IIT Madras",
+      "value": "518-2-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "IIT Madras",
+      "sameAs": "https://www.google.com/search?q=IIT%20Madras",
+      "logo": "https://logo.clearbit.com/iitmadras.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "IIT Madras Office",
+        "addressLocality": "Faridabad",
+        "addressRegion": "Haryana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "Pedagogy, LMS Platforms, Communication Skills, IB Curriculum, E-learning, MS Office, Lesson Planning, Mentoring",
+    "responsibilities": "Design formative and summative assessments aligned to learning objectives. Monitor student progress and provide timely feedback. Create curriculum-aligned learning materials and assessments. Maintain classroom discipline and create a positive learning environment. Collaborate with faculty on curriculum development initiatives. Develop and deliver engaging lesson plans for students. Conduct parent-teacher meetings and update parents on student performance",
+    "benefits": "Life and accident insurance. Competitive salary with performance-linked incentives. Annual paid leaves and casual leaves. Professional development and training programs. Employee stock options (ESOPs) for eligible roles. Referral bonus program",
+    "industry": "education",
+    "occupationalCategory": "Subject Matter Expert",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Competitive salary with performance-linked incentives, Annual paid leaves and casual leaves, Professional development and training programs, Employee stock options (ESOPs) for eligible roles, Referral bonus program"
+  },
+  "meta": {
+    "description": "IIT Madras, one of India's leading organizations, is hiring a Subject Matter Expert for our Faridabad operations. We offer a competitive salary package along wi",
+    "keywords": "Subject Matter Expert, IIT Madras, jobs in Faridabad, Haryana jobs, education jobs India, Pedagogy, LMS Platforms, Communication Skills, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:56:45.337Z",
+  "page": 129
+}
