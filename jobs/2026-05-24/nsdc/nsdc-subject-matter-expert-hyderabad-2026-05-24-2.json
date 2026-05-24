@@ -1,0 +1,93 @@
+{
+  "slug": "nsdc-subject-matter-expert-hyderabad-2026-05-24-2",
+  "title": "NSDC is Hiring: Subject Matter Expert (Lead)",
+  "company": "NSDC",
+  "industry": "education",
+  "role": "Subject Matter Expert",
+  "location": {
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Student Assessment",
+    "Educational Technology",
+    "LMS Platforms",
+    "Mentoring",
+    "Content Creation",
+    "Child Psychology",
+    "E-learning",
+    "Classroom Management"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "NSDC is Hiring: Subject Matter Expert (Lead)",
+    "description": "Join the NSDC family as a Subject Matter Expert in Hyderabad. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout NSDC:\nNSDC is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Monitor student progress and provide timely feedback\n• Design formative and summative assessments aligned to learning objectives\n• Create curriculum-aligned learning materials and assessments\n• Support students with special educational needs\n• Utilize technology and digital tools to enhance learning outcomes\n• Participate in teacher training and professional development programs\n• Maintain student records and prepare progress reports\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 0-1 years of relevant experience\n• Proficiency in Student Assessment\n• Proficiency in Educational Technology\n• Proficiency in LMS Platforms\n• Proficiency in Mentoring\n• Proficiency in Content Creation\n• Proficiency in Child Psychology\n• Proficiency in E-learning\n• Proficiency in Classroom Management\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Modern office with recreational facilities\n• Mobile and internet reimbursement\n• Referral bonus program\n• Company-sponsored certifications\n• Learning & development budget\n• Comprehensive health insurance for self and family\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Hyderabad, Telangana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with NSDC!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "NSDC",
+      "value": "567-2-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "NSDC",
+      "sameAs": "https://www.google.com/search?q=NSDC",
+      "logo": "https://logo.clearbit.com/nsdc.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "NSDC Office",
+        "addressLocality": "Hyderabad",
+        "addressRegion": "Telangana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "Student Assessment, Educational Technology, LMS Platforms, Mentoring, Content Creation, Child Psychology, E-learning, Classroom Management",
+    "responsibilities": "Monitor student progress and provide timely feedback. Design formative and summative assessments aligned to learning objectives. Create curriculum-aligned learning materials and assessments. Support students with special educational needs. Utilize technology and digital tools to enhance learning outcomes. Participate in teacher training and professional development programs. Maintain student records and prepare progress reports",
+    "benefits": "Modern office with recreational facilities. Mobile and internet reimbursement. Referral bonus program. Company-sponsored certifications. Learning & development budget. Comprehensive health insurance for self and family",
+    "industry": "education",
+    "occupationalCategory": "Subject Matter Expert",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Modern office with recreational facilities, Mobile and internet reimbursement, Referral bonus program, Company-sponsored certifications, Learning & development budget, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "Join the NSDC family as a Subject Matter Expert in Hyderabad. We believe in empowering our employees with the tools, training, and environment they need to succ",
+    "keywords": "Subject Matter Expert, NSDC, jobs in Hyderabad, Telangana jobs, education jobs India, Student Assessment, Educational Technology, LMS Platforms, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:58:12.867Z",
+  "page": 141
+}
