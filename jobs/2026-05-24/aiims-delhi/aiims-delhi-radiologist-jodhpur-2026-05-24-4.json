@@ -1,0 +1,94 @@
+{
+  "slug": "aiims-delhi-radiologist-jodhpur-2026-05-24-4",
+  "title": "Entry-Level Radiologist at AIIMS Delhi",
+  "company": "AIIMS Delhi",
+  "industry": "healthcare",
+  "role": "Radiologist",
+  "location": {
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Clinical Research",
+    "NABH Standards",
+    "ICU Management",
+    "Health Informatics",
+    "Surgical Procedures",
+    "Patient Care",
+    "Wound Care",
+    "Pharmacovigilance"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Entry-Level Radiologist at AIIMS Delhi",
+    "description": "An exciting career opportunity awaits you at AIIMS Delhi. We are on the lookout for a dedicated Radiologist to strengthen our Jodhpur-based team.\n\nAbout AIIMS Delhi:\nAIIMS Delhi is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Maintain sterile environments and follow infection control protocols\n• Attend continuing medical education programs and training\n• Provide high-quality patient care and maintain patient records\n• Conduct routine health assessments and screenings\n• Educate patients and families on health management and disease prevention\n• Ensure patient privacy and maintain confidentiality\n• Administer medications and treatments as prescribed\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 0-1 years of relevant experience\n• Proficiency in Clinical Research\n• Proficiency in NABH Standards\n• Proficiency in ICU Management\n• Proficiency in Health Informatics\n• Proficiency in Surgical Procedures\n• Proficiency in Patient Care\n• Proficiency in Wound Care\n• Proficiency in Pharmacovigilance\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Flexible working hours\n• Professional development and training programs\n• Competitive salary with performance-linked incentives\n• Life and accident insurance\n• Comprehensive health insurance for self and family\n• International travel opportunities for senior roles\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Jodhpur, Rajasthan, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with AIIMS Delhi!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "AIIMS Delhi",
+      "value": "294-4-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "AIIMS Delhi",
+      "sameAs": "https://www.google.com/search?q=AIIMS%20Delhi",
+      "logo": "https://logo.clearbit.com/aiimsdelhi.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "AIIMS Delhi Office",
+        "addressLocality": "Jodhpur",
+        "addressRegion": "Rajasthan",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "Clinical Research, NABH Standards, ICU Management, Health Informatics, Surgical Procedures, Patient Care, Wound Care, Pharmacovigilance",
+    "responsibilities": "Maintain sterile environments and follow infection control protocols. Attend continuing medical education programs and training. Provide high-quality patient care and maintain patient records. Conduct routine health assessments and screenings. Educate patients and families on health management and disease prevention. Ensure patient privacy and maintain confidentiality. Administer medications and treatments as prescribed",
+    "benefits": "Flexible working hours. Professional development and training programs. Competitive salary with performance-linked incentives. Life and accident insurance. Comprehensive health insurance for self and family. International travel opportunities for senior roles",
+    "industry": "healthcare",
+    "occupationalCategory": "Radiologist",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, Professional development and training programs, Competitive salary with performance-linked incentives, Life and accident insurance, Comprehensive health insurance for self and family, International travel opportunities for senior roles"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at AIIMS Delhi. We are on the lookout for a dedicated Radiologist to strengthen our Jodhpur-based team.",
+    "keywords": "Radiologist, AIIMS Delhi, jobs in Jodhpur, Rajasthan jobs, healthcare jobs India, Clinical Research, NABH Standards, ICU Management, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:49:58.835Z",
+  "page": 73
+}
