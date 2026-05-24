@@ -1,0 +1,94 @@
+{
+  "slug": "supreme-industries-plant-manager-mysuru-2026-05-24-4",
+  "title": "Senior Plant Manager at Supreme Industries",
+  "company": "Supreme Industries",
+  "industry": "manufacturing",
+  "role": "Plant Manager",
+  "location": {
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "PPAP",
+    "GD&T",
+    "FMEA",
+    "Kaizen",
+    "5S",
+    "Quality Control",
+    "APQP",
+    "Statistical Process Control"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Plant Manager at Supreme Industries",
+    "description": "Supreme Industries has an exciting opening for a Plant Manager at our Mysuru office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Supreme Industries:\nSupreme Industries is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with logistics for dispatching finished goods\n• Manage supplier quality audits and vendor development\n• Implement 5S, Kaizen, and Six Sigma practices on the shop floor\n• Prepare production cost analysis and efficiency reports\n• Oversee daily production operations to meet output targets\n• Conduct root cause analysis for quality rejections and defects\n• Ensure product quality meets internal and customer specifications\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 10-15 years of relevant experience\n• Proficiency in PPAP\n• Proficiency in GD&T\n• Proficiency in FMEA\n• Proficiency in Kaizen\n• Proficiency in 5S\n• Proficiency in Quality Control\n• Proficiency in APQP\n• Proficiency in Statistical Process Control\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Employee stock options (ESOPs) for eligible roles\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Recognition and rewards programs\n• Flexible working hours\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Mysuru, Karnataka, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Supreme Industries!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Supreme Industries",
+      "value": "471-4-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Supreme Industries",
+      "sameAs": "https://www.google.com/search?q=Supreme%20Industries",
+      "logo": "https://logo.clearbit.com/supremeindustries.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Supreme Industries Office",
+        "addressLocality": "Mysuru",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "PPAP, GD&T, FMEA, Kaizen, 5S, Quality Control, APQP, Statistical Process Control",
+    "responsibilities": "Coordinate with logistics for dispatching finished goods. Manage supplier quality audits and vendor development. Implement 5S, Kaizen, and Six Sigma practices on the shop floor. Prepare production cost analysis and efficiency reports. Oversee daily production operations to meet output targets. Conduct root cause analysis for quality rejections and defects. Ensure product quality meets internal and customer specifications",
+    "benefits": "International travel opportunities for senior roles. Employee stock options (ESOPs) for eligible roles. Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Recognition and rewards programs. Flexible working hours",
+    "industry": "manufacturing",
+    "occupationalCategory": "Plant Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Employee stock options (ESOPs) for eligible roles, Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Recognition and rewards programs, Flexible working hours"
+  },
+  "meta": {
+    "description": "Supreme Industries has an exciting opening for a Plant Manager at our Mysuru office. Join a company that values innovation, collaboration, and continuous learni",
+    "keywords": "Plant Manager, Supreme Industries, jobs in Mysuru, Karnataka jobs, manufacturing jobs India, PPAP, GD&T, FMEA, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:55:18.036Z",
+  "page": 117
+}
