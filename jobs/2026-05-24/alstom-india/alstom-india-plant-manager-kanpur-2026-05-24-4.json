@@ -1,0 +1,93 @@
+{
+  "slug": "alstom-india-plant-manager-kanpur-2026-05-24-4",
+  "title": "Senior Plant Manager at Alstom India",
+  "company": "Alstom India",
+  "industry": "manufacturing",
+  "role": "Plant Manager",
+  "location": {
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "PLC/SCADA",
+    "FMEA",
+    "ERP Systems",
+    "Supply Chain Management",
+    "SAP MM/PP",
+    "Project Management",
+    "PPAP",
+    "Lean Manufacturing"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Plant Manager at Alstom India",
+    "description": "Are you a skilled Plant Manager looking for your next big career move? Alstom India in Kanpur offers you the perfect platform to grow professionally and personally.\n\nAbout Alstom India:\nAlstom India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with logistics for dispatching finished goods\n• Coordinate with design and engineering teams on product improvements\n• Oversee daily production operations to meet output targets\n• Implement 5S, Kaizen, and Six Sigma practices on the shop floor\n• Ensure product quality meets internal and customer specifications\n• Ensure environmental compliance and waste management\n• Implement lean manufacturing and continuous improvement initiatives\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 1-3 years of relevant experience\n• Proficiency in PLC/SCADA\n• Proficiency in FMEA\n• Proficiency in ERP Systems\n• Proficiency in Supply Chain Management\n• Proficiency in SAP MM/PP\n• Proficiency in Project Management\n• Proficiency in PPAP\n• Proficiency in Lean Manufacturing\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Professional development and training programs\n• Work-from-home flexibility\n• Maternity and paternity leave\n• Modern office with recreational facilities\n• Competitive salary with performance-linked incentives\n• Transportation and conveyance allowance\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Kanpur, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Alstom India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Alstom India",
+      "value": "495-4-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Alstom India",
+      "sameAs": "https://www.google.com/search?q=Alstom%20India",
+      "logo": "https://logo.clearbit.com/alstomindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Alstom India Office",
+        "addressLocality": "Kanpur",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "PLC/SCADA, FMEA, ERP Systems, Supply Chain Management, SAP MM/PP, Project Management, PPAP, Lean Manufacturing",
+    "responsibilities": "Coordinate with logistics for dispatching finished goods. Coordinate with design and engineering teams on product improvements. Oversee daily production operations to meet output targets. Implement 5S, Kaizen, and Six Sigma practices on the shop floor. Ensure product quality meets internal and customer specifications. Ensure environmental compliance and waste management. Implement lean manufacturing and continuous improvement initiatives",
+    "benefits": "Professional development and training programs. Work-from-home flexibility. Maternity and paternity leave. Modern office with recreational facilities. Competitive salary with performance-linked incentives. Transportation and conveyance allowance",
+    "industry": "manufacturing",
+    "occupationalCategory": "Plant Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Work-from-home flexibility, Maternity and paternity leave, Modern office with recreational facilities, Competitive salary with performance-linked incentives, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "Are you a skilled Plant Manager looking for your next big career move? Alstom India in Kanpur offers you the perfect platform to grow professionally and persona",
+    "keywords": "Plant Manager, Alstom India, jobs in Kanpur, Uttar Pradesh jobs, manufacturing jobs India, PLC/SCADA, FMEA, ERP Systems, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:56:01.088Z",
+  "page": 123
+}
