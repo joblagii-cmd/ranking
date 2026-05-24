@@ -1,0 +1,93 @@
+{
+  "slug": "udemy-india-senior-teacher-patna-2026-05-24-1",
+  "title": "Senior Teacher - Udemy India - Growth Opportunity",
+  "company": "Udemy India",
+  "industry": "education",
+  "role": "Senior Teacher",
+  "location": {
+    "city": "Patna",
+    "state": "Bihar",
+    "region": "Eastern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "LMS Platforms",
+    "Curriculum Development",
+    "Student Assessment",
+    "Special Education",
+    "Content Creation",
+    "CBSE/ICSE Standards",
+    "E-learning",
+    "IB Curriculum"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Teacher - Udemy India - Growth Opportunity",
+    "description": "Udemy India, one of India's leading organizations, is hiring a Senior Teacher for our Patna operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Udemy India:\nUdemy India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Conduct doubt-clearing sessions and remedial classes for weak students\n• Develop and deliver engaging lesson plans for students\n• Design formative and summative assessments aligned to learning objectives\n• Participate in teacher training and professional development programs\n• Coordinate with academic counselors for student career guidance\n• Create curriculum-aligned learning materials and assessments\n• Participate in school events, workshops, and training programs\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 0-1 years of relevant experience\n• Proficiency in LMS Platforms\n• Proficiency in Curriculum Development\n• Proficiency in Student Assessment\n• Proficiency in Special Education\n• Proficiency in Content Creation\n• Proficiency in CBSE/ICSE Standards\n• Proficiency in E-learning\n• Proficiency in IB Curriculum\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Annual performance appraisal\n• Recognition and rewards programs\n• Annual paid leaves and casual leaves\n• Provident Fund and Gratuity as per company policy\n• Company-sponsored certifications\n• Maternity and paternity leave\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Patna, Bihar, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Udemy India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Udemy India",
+      "value": "509-1-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Udemy India",
+      "sameAs": "https://www.google.com/search?q=Udemy%20India",
+      "logo": "https://logo.clearbit.com/udemyindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Udemy India Office",
+        "addressLocality": "Patna",
+        "addressRegion": "Bihar",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "LMS Platforms, Curriculum Development, Student Assessment, Special Education, Content Creation, CBSE/ICSE Standards, E-learning, IB Curriculum",
+    "responsibilities": "Conduct doubt-clearing sessions and remedial classes for weak students. Develop and deliver engaging lesson plans for students. Design formative and summative assessments aligned to learning objectives. Participate in teacher training and professional development programs. Coordinate with academic counselors for student career guidance. Create curriculum-aligned learning materials and assessments. Participate in school events, workshops, and training programs",
+    "benefits": "Annual performance appraisal. Recognition and rewards programs. Annual paid leaves and casual leaves. Provident Fund and Gratuity as per company policy. Company-sponsored certifications. Maternity and paternity leave",
+    "industry": "education",
+    "occupationalCategory": "Senior Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual performance appraisal, Recognition and rewards programs, Annual paid leaves and casual leaves, Provident Fund and Gratuity as per company policy, Company-sponsored certifications, Maternity and paternity leave"
+  },
+  "meta": {
+    "description": "Udemy India, one of India's leading organizations, is hiring a Senior Teacher for our Patna operations. We offer a competitive salary package along with world-c",
+    "keywords": "Senior Teacher, Udemy India, jobs in Patna, Bihar jobs, education jobs India, LMS Platforms, Curriculum Development, Student Assessment, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:56:30.680Z",
+  "page": 127
+}
