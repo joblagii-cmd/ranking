@@ -1,0 +1,93 @@
+{
+  "slug": "marico-process-engineer-madurai-2026-05-24-3",
+  "title": "Process Engineer Vacancy at Marico - 2026 Batch",
+  "company": "Marico",
+  "industry": "manufacturing",
+  "role": "Process Engineer",
+  "location": {
+    "city": "Madurai",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Supply Chain Management",
+    "SolidWorks",
+    "APQP",
+    "AutoCAD",
+    "Statistical Process Control",
+    "Quality Control",
+    "GD&T",
+    "ISO 9001"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Process Engineer Vacancy at Marico - 2026 Batch",
+    "description": "Marico has an exciting opening for a Process Engineer at our Madurai office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Marico:\nMarico is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Implement 5S, Kaizen, and Six Sigma practices on the shop floor\n• Coordinate with logistics for dispatching finished goods\n• Manage raw material procurement and inventory levels\n• Prepare production cost analysis and efficiency reports\n• Oversee daily production operations to meet output targets\n• Ensure product quality meets internal and customer specifications\n• Implement lean manufacturing and continuous improvement initiatives\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 6-10 years of relevant experience\n• Proficiency in Supply Chain Management\n• Proficiency in SolidWorks\n• Proficiency in APQP\n• Proficiency in AutoCAD\n• Proficiency in Statistical Process Control\n• Proficiency in Quality Control\n• Proficiency in GD&T\n• Proficiency in ISO 9001\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Transportation and conveyance allowance\n• Maternity and paternity leave\n• Annual performance appraisal\n• Modern office with recreational facilities\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Madurai, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Marico!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Marico",
+      "value": "462-3-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Marico",
+      "sameAs": "https://www.google.com/search?q=Marico",
+      "logo": "https://logo.clearbit.com/marico.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Marico Office",
+        "addressLocality": "Madurai",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Supply Chain Management, SolidWorks, APQP, AutoCAD, Statistical Process Control, Quality Control, GD&T, ISO 9001",
+    "responsibilities": "Implement 5S, Kaizen, and Six Sigma practices on the shop floor. Coordinate with logistics for dispatching finished goods. Manage raw material procurement and inventory levels. Prepare production cost analysis and efficiency reports. Oversee daily production operations to meet output targets. Ensure product quality meets internal and customer specifications. Implement lean manufacturing and continuous improvement initiatives",
+    "benefits": "Provident Fund and Gratuity as per company policy. Transportation and conveyance allowance. Maternity and paternity leave. Annual performance appraisal. Modern office with recreational facilities. Employee stock options (ESOPs) for eligible roles",
+    "industry": "manufacturing",
+    "occupationalCategory": "Process Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Transportation and conveyance allowance, Maternity and paternity leave, Annual performance appraisal, Modern office with recreational facilities, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "Marico has an exciting opening for a Process Engineer at our Madurai office. Join a company that values innovation, collaboration, and continuous learning.",
+    "keywords": "Process Engineer, Marico, jobs in Madurai, Tamil Nadu jobs, manufacturing jobs India, Supply Chain Management, SolidWorks, APQP, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:55:03.222Z",
+  "page": 115
+}
