@@ -1,0 +1,93 @@
+{
+  "slug": "cdac-senior-software-engineer-kolkata-2026-05-24-1",
+  "title": "Senior Software Engineer - CDAC - Experienced Professionals",
+  "company": "CDAC",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "region": "Eastern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "CI/CD",
+    "Java",
+    "Rust",
+    "Node.js",
+    "Microservices",
+    "SQL",
+    "TypeScript",
+    "React"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - CDAC - Experienced Professionals",
+    "description": "An exciting career opportunity awaits you at CDAC. We are on the lookout for a dedicated Senior Software Engineer to strengthen our Kolkata-based team.\n\nAbout CDAC:\nCDAC is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Contribute to system architecture and technical design decisions\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Collaborate with cross-functional teams including product, design, and QA\n• Optimize application performance and ensure high availability\n• Implement new features based on product requirements\n• Participate in code reviews and contribute to technical discussions\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 6-10 years of relevant experience\n• Proficiency in CI/CD\n• Proficiency in Java\n• Proficiency in Rust\n• Proficiency in Node.js\n• Proficiency in Microservices\n• Proficiency in SQL\n• Proficiency in TypeScript\n• Proficiency in React\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Recognition and rewards programs\n• International travel opportunities for senior roles\n• Employee stock options (ESOPs) for eligible roles\n• Mobile and internet reimbursement\n• Flexible working hours\n• Company-sponsored certifications\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Kolkata, West Bengal, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with CDAC!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "CDAC",
+      "value": "71-1-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "CDAC",
+      "sameAs": "https://www.google.com/search?q=CDAC",
+      "logo": "https://logo.clearbit.com/cdac.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "CDAC Office",
+        "addressLocality": "Kolkata",
+        "addressRegion": "West Bengal",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "CI/CD, Java, Rust, Node.js, Microservices, SQL, TypeScript, React",
+    "responsibilities": "Design, develop and maintain scalable software applications. Contribute to system architecture and technical design decisions. Mentor junior developers and conduct knowledge-sharing sessions. Collaborate with cross-functional teams including product, design, and QA. Optimize application performance and ensure high availability. Implement new features based on product requirements. Participate in code reviews and contribute to technical discussions",
+    "benefits": "Recognition and rewards programs. International travel opportunities for senior roles. Employee stock options (ESOPs) for eligible roles. Mobile and internet reimbursement. Flexible working hours. Company-sponsored certifications",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Recognition and rewards programs, International travel opportunities for senior roles, Employee stock options (ESOPs) for eligible roles, Mobile and internet reimbursement, Flexible working hours, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at CDAC. We are on the lookout for a dedicated Senior Software Engineer to strengthen our Kolkata-based team.",
+    "keywords": "Senior Software Engineer, CDAC, jobs in Kolkata, West Bengal jobs, technology jobs India, CI/CD, Java, Rust, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:43:12.472Z",
+  "page": 17
+}

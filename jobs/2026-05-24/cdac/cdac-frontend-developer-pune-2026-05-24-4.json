@@ -1,0 +1,93 @@
+{
+  "slug": "cdac-frontend-developer-pune-2026-05-24-4",
+  "title": "Mid-Level Frontend Developer at CDAC",
+  "company": "CDAC",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Pune",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "SQL",
+    "Agile/Scrum",
+    "Kubernetes",
+    "REST APIs",
+    "AWS",
+    "JavaScript",
+    "Node.js",
+    "Docker"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Frontend Developer at CDAC",
+    "description": "An exciting career opportunity awaits you at CDAC. We are on the lookout for a dedicated Frontend Developer to strengthen our Pune-based team.\n\nAbout CDAC:\nCDAC is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Integrate third-party APIs and services\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Ensure code security and follow best practices for data protection\n• Optimize application performance and ensure high availability\n• Write and execute unit tests and integration tests\n• Implement new features based on product requirements\n• Troubleshoot, debug, and resolve software defects and performance issues\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 12-20 years of relevant experience\n• Proficiency in SQL\n• Proficiency in Agile/Scrum\n• Proficiency in Kubernetes\n• Proficiency in REST APIs\n• Proficiency in AWS\n• Proficiency in JavaScript\n• Proficiency in Node.js\n• Proficiency in Docker\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Transportation and conveyance allowance\n• Annual performance appraisal\n• Referral bonus program\n• Company-sponsored certifications\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Pune, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with CDAC!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "CDAC",
+      "value": "71-4-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "CDAC",
+      "sameAs": "https://www.google.com/search?q=CDAC",
+      "logo": "https://logo.clearbit.com/cdac.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "CDAC Office",
+        "addressLocality": "Pune",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "SQL, Agile/Scrum, Kubernetes, REST APIs, AWS, JavaScript, Node.js, Docker",
+    "responsibilities": "Integrate third-party APIs and services. Work with agile methodologies including daily stand-ups and sprint planning. Ensure code security and follow best practices for data protection. Optimize application performance and ensure high availability. Write and execute unit tests and integration tests. Implement new features based on product requirements. Troubleshoot, debug, and resolve software defects and performance issues",
+    "benefits": "Competitive salary with performance-linked incentives. Transportation and conveyance allowance. Annual performance appraisal. Referral bonus program. Company-sponsored certifications. Employee stock options (ESOPs) for eligible roles",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Transportation and conveyance allowance, Annual performance appraisal, Referral bonus program, Company-sponsored certifications, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at CDAC. We are on the lookout for a dedicated Frontend Developer to strengthen our Pune-based team.",
+    "keywords": "Frontend Developer, CDAC, jobs in Pune, Maharashtra jobs, technology jobs India, SQL, Agile/Scrum, Kubernetes, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:43:12.472Z",
+  "page": 17
+}
