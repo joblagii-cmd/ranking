@@ -1,0 +1,94 @@
+{
+  "slug": "ecil-full-stack-developer-jabalpur-2026-05-24-2",
+  "title": "ECIL is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "ECIL",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Jabalpur",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Node.js",
+    "Microservices",
+    "React",
+    "Go",
+    "SQL",
+    "AWS",
+    "Machine Learning",
+    "Docker"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "ECIL is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "ECIL, one of India's leading organizations, is hiring a Full Stack Developer for our Jabalpur operations. We offer a competitive salary package along with world-class benefits.\n\nAbout ECIL:\nECIL is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Implement new features based on product requirements\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in code reviews and contribute to technical discussions\n• Participate in on-call rotation for production support\n• Integrate third-party APIs and services\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 1-3 years of relevant experience\n• Proficiency in Node.js\n• Proficiency in Microservices\n• Proficiency in React\n• Proficiency in Go\n• Proficiency in SQL\n• Proficiency in AWS\n• Proficiency in Machine Learning\n• Proficiency in Docker\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Annual performance appraisal\n• Modern office with recreational facilities\n• Provident Fund and Gratuity as per company policy\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Jabalpur, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with ECIL!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "ECIL",
+      "value": "40-2-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "ECIL",
+      "sameAs": "https://www.google.com/search?q=ECIL",
+      "logo": "https://logo.clearbit.com/ecil.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "ECIL Office",
+        "addressLocality": "Jabalpur",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "Node.js, Microservices, React, Go, SQL, AWS, Machine Learning, Docker",
+    "responsibilities": "Implement new features based on product requirements. Troubleshoot, debug, and resolve software defects and performance issues. Collaborate with cross-functional teams including product, design, and QA. Participate in code reviews and contribute to technical discussions. Participate in on-call rotation for production support. Integrate third-party APIs and services. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP",
+    "benefits": "Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Annual performance appraisal. Modern office with recreational facilities. Provident Fund and Gratuity as per company policy. Employee stock options (ESOPs) for eligible roles",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Annual performance appraisal, Modern office with recreational facilities, Provident Fund and Gratuity as per company policy, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "ECIL, one of India's leading organizations, is hiring a Full Stack Developer for our Jabalpur operations. We offer a competitive salary package along with world",
+    "keywords": "Full Stack Developer, ECIL, jobs in Jabalpur, Madhya Pradesh jobs, technology jobs India, Node.js, Microservices, React, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:42:13.938Z",
+  "page": 9
+}

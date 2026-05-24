@@ -1,0 +1,93 @@
+{
+  "slug": "birlasoft-full-stack-developer-coimbatore-2026-05-24-2",
+  "title": "Birlasoft is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "Birlasoft",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "REST APIs",
+    "React",
+    "Go",
+    "JavaScript",
+    "TensorFlow",
+    "Agile/Scrum",
+    "Git",
+    "Docker"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Birlasoft is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "Birlasoft, one of India's leading organizations, is hiring a Full Stack Developer for our Coimbatore operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Birlasoft:\nBirlasoft is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Participate in code reviews and contribute to technical discussions\n• Integrate third-party APIs and services\n• Optimize application performance and ensure high availability\n• Write and execute unit tests and integration tests\n• Contribute to system architecture and technical design decisions\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 6-10 years of relevant experience\n• Proficiency in REST APIs\n• Proficiency in React\n• Proficiency in Go\n• Proficiency in JavaScript\n• Proficiency in TensorFlow\n• Proficiency in Agile/Scrum\n• Proficiency in Git\n• Proficiency in Docker\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Annual paid leaves and casual leaves\n• Life and accident insurance\n• Employee stock options (ESOPs) for eligible roles\n• Meal coupons and food allowance\n• Flexible working hours\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Coimbatore, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Birlasoft!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Birlasoft",
+      "value": "38-2-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Birlasoft",
+      "sameAs": "https://www.google.com/search?q=Birlasoft",
+      "logo": "https://logo.clearbit.com/birlasoft.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Birlasoft Office",
+        "addressLocality": "Coimbatore",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "REST APIs, React, Go, JavaScript, TensorFlow, Agile/Scrum, Git, Docker",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Troubleshoot, debug, and resolve software defects and performance issues. Participate in code reviews and contribute to technical discussions. Integrate third-party APIs and services. Optimize application performance and ensure high availability. Write and execute unit tests and integration tests. Contribute to system architecture and technical design decisions",
+    "benefits": "Work-from-home flexibility. Annual paid leaves and casual leaves. Life and accident insurance. Employee stock options (ESOPs) for eligible roles. Meal coupons and food allowance. Flexible working hours",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Annual paid leaves and casual leaves, Life and accident insurance, Employee stock options (ESOPs) for eligible roles, Meal coupons and food allowance, Flexible working hours"
+  },
+  "meta": {
+    "description": "Birlasoft, one of India's leading organizations, is hiring a Full Stack Developer for our Coimbatore operations. We offer a competitive salary package along wit",
+    "keywords": "Full Stack Developer, Birlasoft, jobs in Coimbatore, Tamil Nadu jobs, technology jobs India, REST APIs, React, Go, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:42:13.937Z",
+  "page": 9
+}
