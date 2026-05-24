@@ -1,0 +1,93 @@
+{
+  "slug": "lg-soft-india-senior-software-engineer-gurgaon-2026-05-24-1",
+  "title": "Senior Software Engineer - LG Soft India - Experienced Professionals",
+  "company": "LG Soft India",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Gurgaon",
+    "state": "Haryana",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Rust",
+    "Machine Learning",
+    "Go",
+    "CI/CD",
+    "Node.js",
+    "React",
+    "Kubernetes",
+    "Microservices"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - LG Soft India - Experienced Professionals",
+    "description": "LG Soft India, one of India's leading organizations, is hiring a Senior Software Engineer for our Gurgaon operations. We offer a competitive salary package along with world-class benefits.\n\nAbout LG Soft India:\nLG Soft India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Design, develop and maintain scalable software applications\n• Contribute to system architecture and technical design decisions\n• Write clean, maintainable, and well-documented code\n• Integrate third-party APIs and services\n• Participate in code reviews and contribute to technical discussions\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 6-10 years of relevant experience\n• Proficiency in Rust\n• Proficiency in Machine Learning\n• Proficiency in Go\n• Proficiency in CI/CD\n• Proficiency in Node.js\n• Proficiency in React\n• Proficiency in Kubernetes\n• Proficiency in Microservices\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Comprehensive health insurance for self and family\n• Mobile and internet reimbursement\n• Professional development and training programs\n• Flexible working hours\n• Meal coupons and food allowance\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Gurgaon, Haryana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with LG Soft India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "LG Soft India",
+      "value": "55-1-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "LG Soft India",
+      "sameAs": "https://www.google.com/search?q=LG%20Soft%20India",
+      "logo": "https://logo.clearbit.com/lgsoftindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "LG Soft India Office",
+        "addressLocality": "Gurgaon",
+        "addressRegion": "Haryana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "Rust, Machine Learning, Go, CI/CD, Node.js, React, Kubernetes, Microservices",
+    "responsibilities": "Mentor junior developers and conduct knowledge-sharing sessions. Troubleshoot, debug, and resolve software defects and performance issues. Design, develop and maintain scalable software applications. Contribute to system architecture and technical design decisions. Write clean, maintainable, and well-documented code. Integrate third-party APIs and services. Participate in code reviews and contribute to technical discussions",
+    "benefits": "Transportation and conveyance allowance. Comprehensive health insurance for self and family. Mobile and internet reimbursement. Professional development and training programs. Flexible working hours. Meal coupons and food allowance",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Comprehensive health insurance for self and family, Mobile and internet reimbursement, Professional development and training programs, Flexible working hours, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "LG Soft India, one of India's leading organizations, is hiring a Senior Software Engineer for our Gurgaon operations. We offer a competitive salary package alon",
+    "keywords": "Senior Software Engineer, LG Soft India, jobs in Gurgaon, Haryana jobs, technology jobs India, Rust, Machine Learning, Go, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:42:43.111Z",
+  "page": 13
+}
