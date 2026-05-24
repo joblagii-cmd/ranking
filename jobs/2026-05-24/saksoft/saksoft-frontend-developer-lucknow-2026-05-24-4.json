@@ -1,0 +1,94 @@
+{
+  "slug": "saksoft-frontend-developer-lucknow-2026-05-24-4",
+  "title": "Mid-Level Frontend Developer at Saksoft",
+  "company": "Saksoft",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "JavaScript",
+    "Go",
+    "Rust",
+    "Java",
+    "Python",
+    "React",
+    "TensorFlow",
+    "Node.js"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Frontend Developer at Saksoft",
+    "description": "Join the Saksoft family as a Frontend Developer in Lucknow. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Saksoft:\nSaksoft is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Write and execute unit tests and integration tests\n• Participate in code reviews and contribute to technical discussions\n• Optimize application performance and ensure high availability\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Integrate third-party APIs and services\n• Collaborate with cross-functional teams including product, design, and QA\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 12-20 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Go\n• Proficiency in Rust\n• Proficiency in Java\n• Proficiency in Python\n• Proficiency in React\n• Proficiency in TensorFlow\n• Proficiency in Node.js\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Flexible working hours\n• Work-from-home flexibility\n• Annual performance appraisal\n• International travel opportunities for senior roles\n• Transportation and conveyance allowance\n• Company-sponsored certifications\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Lucknow, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Saksoft!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Saksoft",
+      "value": "77-4-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Saksoft",
+      "sameAs": "https://www.google.com/search?q=Saksoft",
+      "logo": "https://logo.clearbit.com/saksoft.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Saksoft Office",
+        "addressLocality": "Lucknow",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "JavaScript, Go, Rust, Java, Python, React, TensorFlow, Node.js",
+    "responsibilities": "Work with agile methodologies including daily stand-ups and sprint planning. Write and execute unit tests and integration tests. Participate in code reviews and contribute to technical discussions. Optimize application performance and ensure high availability. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Integrate third-party APIs and services. Collaborate with cross-functional teams including product, design, and QA",
+    "benefits": "Flexible working hours. Work-from-home flexibility. Annual performance appraisal. International travel opportunities for senior roles. Transportation and conveyance allowance. Company-sponsored certifications",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, Work-from-home flexibility, Annual performance appraisal, International travel opportunities for senior roles, Transportation and conveyance allowance, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "Join the Saksoft family as a Frontend Developer in Lucknow. We believe in empowering our employees with the tools, training, and environment they need to succee",
+    "keywords": "Frontend Developer, Saksoft, jobs in Lucknow, Uttar Pradesh jobs, technology jobs India, JavaScript, Go, Rust, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:43:27.451Z",
+  "page": 19
+}
