@@ -1,0 +1,94 @@
+{
+  "slug": "dell-india-frontend-developer-chandigarh-2026-05-24-4",
+  "title": "Mid-Level Frontend Developer at Dell India",
+  "company": "Dell India",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Chandigarh",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "React",
+    "Python",
+    "Node.js",
+    "TensorFlow",
+    "SQL",
+    "Java",
+    "MongoDB",
+    "CI/CD"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Frontend Developer at Dell India",
+    "description": "Dell India, one of India's leading organizations, is hiring a Frontend Developer for our Chandigarh operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Dell India:\nDell India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Ensure code security and follow best practices for data protection\n• Write clean, maintainable, and well-documented code\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Contribute to system architecture and technical design decisions\n• Integrate third-party APIs and services\n• Work with agile methodologies including daily stand-ups and sprint planning\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 10-15 years of relevant experience\n• Proficiency in React\n• Proficiency in Python\n• Proficiency in Node.js\n• Proficiency in TensorFlow\n• Proficiency in SQL\n• Proficiency in Java\n• Proficiency in MongoDB\n• Proficiency in CI/CD\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Learning & development budget\n• Recognition and rewards programs\n• Mobile and internet reimbursement\n• Provident Fund and Gratuity as per company policy\n• Flexible working hours\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Chandigarh, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Dell India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Dell India",
+      "value": "51-4-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Dell India",
+      "sameAs": "https://www.google.com/search?q=Dell%20India",
+      "logo": "https://logo.clearbit.com/dellindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Dell India Office",
+        "addressLocality": "Chandigarh",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "React, Python, Node.js, TensorFlow, SQL, Java, MongoDB, CI/CD",
+    "responsibilities": "Design, develop and maintain scalable software applications. Ensure code security and follow best practices for data protection. Write clean, maintainable, and well-documented code. Mentor junior developers and conduct knowledge-sharing sessions. Contribute to system architecture and technical design decisions. Integrate third-party APIs and services. Work with agile methodologies including daily stand-ups and sprint planning",
+    "benefits": "Annual paid leaves and casual leaves. Learning & development budget. Recognition and rewards programs. Mobile and internet reimbursement. Provident Fund and Gratuity as per company policy. Flexible working hours",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Learning & development budget, Recognition and rewards programs, Mobile and internet reimbursement, Provident Fund and Gratuity as per company policy, Flexible working hours"
+  },
+  "meta": {
+    "description": "Dell India, one of India's leading organizations, is hiring a Frontend Developer for our Chandigarh operations. We offer a competitive salary package along with",
+    "keywords": "Frontend Developer, Dell India, jobs in Chandigarh, Punjab jobs, technology jobs India, React, Python, Node.js, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:42:35.763Z",
+  "page": 12
+}

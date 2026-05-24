@@ -1,0 +1,94 @@
+{
+  "slug": "hp-india-full-stack-developer-chandigarh-2026-05-24-2",
+  "title": "HP India is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "HP India",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Chandigarh",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "SQL",
+    "Node.js",
+    "TypeScript",
+    "Microservices",
+    "TensorFlow",
+    "Rust",
+    "Agile/Scrum",
+    "React"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "HP India is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "HP India, one of India's leading organizations, is hiring a Full Stack Developer for our Chandigarh operations. We offer a competitive salary package along with world-class benefits.\n\nAbout HP India:\nHP India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in code reviews and contribute to technical discussions\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Optimize application performance and ensure high availability\n• Implement new features based on product requirements\n• Ensure code security and follow best practices for data protection\n• Participate in on-call rotation for production support\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 12-20 years of relevant experience\n• Proficiency in SQL\n• Proficiency in Node.js\n• Proficiency in TypeScript\n• Proficiency in Microservices\n• Proficiency in TensorFlow\n• Proficiency in Rust\n• Proficiency in Agile/Scrum\n• Proficiency in React\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Modern office with recreational facilities\n• Learning & development budget\n• Professional development and training programs\n• Competitive salary with performance-linked incentives\n• Annual paid leaves and casual leaves\n• Comprehensive health insurance for self and family\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Chandigarh, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with HP India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "HP India",
+      "value": "52-2-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "HP India",
+      "sameAs": "https://www.google.com/search?q=HP%20India",
+      "logo": "https://logo.clearbit.com/hpindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "HP India Office",
+        "addressLocality": "Chandigarh",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "SQL, Node.js, TypeScript, Microservices, TensorFlow, Rust, Agile/Scrum, React",
+    "responsibilities": "Participate in code reviews and contribute to technical discussions. Mentor junior developers and conduct knowledge-sharing sessions. Work with agile methodologies including daily stand-ups and sprint planning. Optimize application performance and ensure high availability. Implement new features based on product requirements. Ensure code security and follow best practices for data protection. Participate in on-call rotation for production support",
+    "benefits": "Modern office with recreational facilities. Learning & development budget. Professional development and training programs. Competitive salary with performance-linked incentives. Annual paid leaves and casual leaves. Comprehensive health insurance for self and family",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Modern office with recreational facilities, Learning & development budget, Professional development and training programs, Competitive salary with performance-linked incentives, Annual paid leaves and casual leaves, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "HP India, one of India's leading organizations, is hiring a Full Stack Developer for our Chandigarh operations. We offer a competitive salary package along with",
+    "keywords": "Full Stack Developer, HP India, jobs in Chandigarh, Punjab jobs, technology jobs India, SQL, Node.js, TypeScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:42:35.765Z",
+  "page": 12
+}

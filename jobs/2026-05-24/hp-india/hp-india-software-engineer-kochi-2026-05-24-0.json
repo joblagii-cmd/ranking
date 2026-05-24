@@ -1,0 +1,93 @@
+{
+  "slug": "hp-india-software-engineer-kochi-2026-05-24-0",
+  "title": "Walk-in Drive Software Engineer at HP India",
+  "company": "HP India",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Kochi",
+    "state": "Kerala",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Kubernetes",
+    "Docker",
+    "Rust",
+    "Python",
+    "AWS",
+    "Microservices",
+    "SQL",
+    "Go"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Walk-in Drive Software Engineer at HP India",
+    "description": "HP India, one of India's leading organizations, is hiring a Software Engineer for our Kochi operations. We offer a competitive salary package along with world-class benefits.\n\nAbout HP India:\nHP India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Write and execute unit tests and integration tests\n• Contribute to system architecture and technical design decisions\n• Ensure code security and follow best practices for data protection\n• Write clean, maintainable, and well-documented code\n• Work with agile methodologies including daily stand-ups and sprint planning\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 1-3 years of relevant experience\n• Proficiency in Kubernetes\n• Proficiency in Docker\n• Proficiency in Rust\n• Proficiency in Python\n• Proficiency in AWS\n• Proficiency in Microservices\n• Proficiency in SQL\n• Proficiency in Go\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Referral bonus program\n• Company-sponsored certifications\n• Provident Fund and Gratuity as per company policy\n• Comprehensive health insurance for self and family\n• Competitive salary with performance-linked incentives\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Kochi, Kerala, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with HP India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "HP India",
+      "value": "52-0-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "HP India",
+      "sameAs": "https://www.google.com/search?q=HP%20India",
+      "logo": "https://logo.clearbit.com/hpindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "HP India Office",
+        "addressLocality": "Kochi",
+        "addressRegion": "Kerala",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Kubernetes, Docker, Rust, Python, AWS, Microservices, SQL, Go",
+    "responsibilities": "Design, develop and maintain scalable software applications. Troubleshoot, debug, and resolve software defects and performance issues. Write and execute unit tests and integration tests. Contribute to system architecture and technical design decisions. Ensure code security and follow best practices for data protection. Write clean, maintainable, and well-documented code. Work with agile methodologies including daily stand-ups and sprint planning",
+    "benefits": "Annual paid leaves and casual leaves. Referral bonus program. Company-sponsored certifications. Provident Fund and Gratuity as per company policy. Comprehensive health insurance for self and family. Competitive salary with performance-linked incentives",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Referral bonus program, Company-sponsored certifications, Provident Fund and Gratuity as per company policy, Comprehensive health insurance for self and family, Competitive salary with performance-linked incentives"
+  },
+  "meta": {
+    "description": "HP India, one of India's leading organizations, is hiring a Software Engineer for our Kochi operations. We offer a competitive salary package along with world-c",
+    "keywords": "Software Engineer, HP India, jobs in Kochi, Kerala jobs, technology jobs India, Kubernetes, Docker, Rust, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:42:35.763Z",
+  "page": 12
+}
