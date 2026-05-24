@@ -1,0 +1,94 @@
+{
+  "slug": "awfis-sales-manager-visakhapatnam-2026-05-24-3",
+  "title": "Sales Manager Vacancy at Awfis - 2026 Batch",
+  "company": "Awfis",
+  "industry": "realestate",
+  "role": "Sales Manager",
+  "location": {
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Lease Administration",
+    "Real Estate Law",
+    "Contract Management",
+    "Title Search",
+    "MS Office",
+    "Negotiation Skills",
+    "RERA Compliance",
+    "Financial Modeling"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Sales Manager Vacancy at Awfis - 2026 Batch",
+    "description": "Awfis, one of India's leading organizations, is hiring a Sales Manager for our Visakhapatnam operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Awfis:\nAwfis is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Maintain a pipeline of qualified leads using CRM software\n• Build relationships with channel partners and brokers\n• Liaise with banks and NBFCs for home loan assistance to customers\n• Conduct land acquisition due diligence and feasibility studies\n• Conduct market research and provide competitive analysis\n• Negotiate pricing, terms, and conditions on behalf of clients\n• Coordinate with legal teams for documentation and title verification\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 10-15 years of relevant experience\n• Proficiency in Lease Administration\n• Proficiency in Real Estate Law\n• Proficiency in Contract Management\n• Proficiency in Title Search\n• Proficiency in MS Office\n• Proficiency in Negotiation Skills\n• Proficiency in RERA Compliance\n• Proficiency in Financial Modeling\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Referral bonus program\n• International travel opportunities for senior roles\n• Annual performance appraisal\n• Life and accident insurance\n• Meal coupons and food allowance\n• Recognition and rewards programs\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Visakhapatnam, Andhra Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Awfis!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Awfis",
+      "value": "753-3-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Awfis",
+      "sameAs": "https://www.google.com/search?q=Awfis",
+      "logo": "https://logo.clearbit.com/awfis.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Awfis Office",
+        "addressLocality": "Visakhapatnam",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "Lease Administration, Real Estate Law, Contract Management, Title Search, MS Office, Negotiation Skills, RERA Compliance, Financial Modeling",
+    "responsibilities": "Maintain a pipeline of qualified leads using CRM software. Build relationships with channel partners and brokers. Liaise with banks and NBFCs for home loan assistance to customers. Conduct land acquisition due diligence and feasibility studies. Conduct market research and provide competitive analysis. Negotiate pricing, terms, and conditions on behalf of clients. Coordinate with legal teams for documentation and title verification",
+    "benefits": "Referral bonus program. International travel opportunities for senior roles. Annual performance appraisal. Life and accident insurance. Meal coupons and food allowance. Recognition and rewards programs",
+    "industry": "realestate",
+    "occupationalCategory": "Sales Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Referral bonus program, International travel opportunities for senior roles, Annual performance appraisal, Life and accident insurance, Meal coupons and food allowance, Recognition and rewards programs"
+  },
+  "meta": {
+    "description": "Awfis, one of India's leading organizations, is hiring a Sales Manager for our Visakhapatnam operations. We offer a competitive salary package along with world-",
+    "keywords": "Sales Manager, Awfis, jobs in Visakhapatnam, Andhra Pradesh jobs, realestate jobs India, Lease Administration, Real Estate Law, Contract Management, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T05:04:05.532Z",
+  "page": 188
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "awfis-real-estate-agent-thane-2026-05-24-0",
+  "title": "Urgent Opening Real Estate Agent at Awfis",
+  "company": "Awfis",
+  "industry": "realestate",
+  "role": "Real Estate Agent",
+  "location": {
+    "city": "Thane",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Contract Management",
+    "Investment Analysis",
+    "MS Office",
+    "Market Research",
+    "Project Management",
+    "AutoCAD",
+    "CRM Software",
+    "RERA Compliance"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Urgent Opening Real Estate Agent at Awfis",
+    "description": "Awfis, one of India's leading organizations, is hiring a Real Estate Agent for our Thane operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Awfis:\nAwfis is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Provide advisory services on property investment and market trends\n• Coordinate with legal teams for documentation and title verification\n• Conduct market research and provide competitive analysis\n• Negotiate pricing, terms, and conditions on behalf of clients\n• Manage relationships with existing customers post-purchase\n• Conduct site visits and property presentations for clients\n• Liaise with banks and NBFCs for home loan assistance to customers\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 3-6 years of relevant experience\n• Proficiency in Contract Management\n• Proficiency in Investment Analysis\n• Proficiency in MS Office\n• Proficiency in Market Research\n• Proficiency in Project Management\n• Proficiency in AutoCAD\n• Proficiency in CRM Software\n• Proficiency in RERA Compliance\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Flexible working hours\n• Transportation and conveyance allowance\n• Employee stock options (ESOPs) for eligible roles\n• International travel opportunities for senior roles\n• Recognition and rewards programs\n• Meal coupons and food allowance\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Thane, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Awfis!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Awfis",
+      "value": "753-0-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Awfis",
+      "sameAs": "https://www.google.com/search?q=Awfis",
+      "logo": "https://logo.clearbit.com/awfis.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Awfis Office",
+        "addressLocality": "Thane",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "Contract Management, Investment Analysis, MS Office, Market Research, Project Management, AutoCAD, CRM Software, RERA Compliance",
+    "responsibilities": "Provide advisory services on property investment and market trends. Coordinate with legal teams for documentation and title verification. Conduct market research and provide competitive analysis. Negotiate pricing, terms, and conditions on behalf of clients. Manage relationships with existing customers post-purchase. Conduct site visits and property presentations for clients. Liaise with banks and NBFCs for home loan assistance to customers",
+    "benefits": "Flexible working hours. Transportation and conveyance allowance. Employee stock options (ESOPs) for eligible roles. International travel opportunities for senior roles. Recognition and rewards programs. Meal coupons and food allowance",
+    "industry": "realestate",
+    "occupationalCategory": "Real Estate Agent",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, Transportation and conveyance allowance, Employee stock options (ESOPs) for eligible roles, International travel opportunities for senior roles, Recognition and rewards programs, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "Awfis, one of India's leading organizations, is hiring a Real Estate Agent for our Thane operations. We offer a competitive salary package along with world-clas",
+    "keywords": "Real Estate Agent, Awfis, jobs in Thane, Maharashtra jobs, realestate jobs India, Contract Management, Investment Analysis, MS Office, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T05:04:05.532Z",
+  "page": 188
+}

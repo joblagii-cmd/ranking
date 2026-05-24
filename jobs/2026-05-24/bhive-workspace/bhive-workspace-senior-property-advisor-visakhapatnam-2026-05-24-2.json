@@ -1,0 +1,93 @@
+{
+  "slug": "bhive-workspace-senior-property-advisor-visakhapatnam-2026-05-24-2",
+  "title": "BHIVE Workspace is Hiring: Senior Property Advisor (Junior)",
+  "company": "BHIVE Workspace",
+  "industry": "realestate",
+  "role": "Senior Property Advisor",
+  "location": {
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "CRM Software",
+    "Financial Modeling",
+    "Lease Administration",
+    "Project Management",
+    "RERA Compliance",
+    "AutoCAD",
+    "Due Diligence",
+    "Contract Management"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "BHIVE Workspace is Hiring: Senior Property Advisor (Junior)",
+    "description": "BHIVE Workspace, one of India's leading organizations, is hiring a Senior Property Advisor for our Visakhapatnam operations. We offer a competitive salary package along with world-class benefits.\n\nAbout BHIVE Workspace:\nBHIVE Workspace is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Source and close property deals with prospective buyers and investors\n• Manage relationships with existing customers post-purchase\n• Build relationships with channel partners and brokers\n• Conduct market research and provide competitive analysis\n• Manage RERA documentation and compliance requirements\n• Maintain a pipeline of qualified leads using CRM software\n• Coordinate with legal teams for documentation and title verification\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 6-10 years of relevant experience\n• Proficiency in CRM Software\n• Proficiency in Financial Modeling\n• Proficiency in Lease Administration\n• Proficiency in Project Management\n• Proficiency in RERA Compliance\n• Proficiency in AutoCAD\n• Proficiency in Due Diligence\n• Proficiency in Contract Management\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Company-sponsored certifications\n• Work-from-home flexibility\n• Annual paid leaves and casual leaves\n• Modern office with recreational facilities\n• Transportation and conveyance allowance\n• Meal coupons and food allowance\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Visakhapatnam, Andhra Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with BHIVE Workspace!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "BHIVE Workspace",
+      "value": "755-2-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "BHIVE Workspace",
+      "sameAs": "https://www.google.com/search?q=BHIVE%20Workspace",
+      "logo": "https://logo.clearbit.com/bhiveworkspace.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "BHIVE Workspace Office",
+        "addressLocality": "Visakhapatnam",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "CRM Software, Financial Modeling, Lease Administration, Project Management, RERA Compliance, AutoCAD, Due Diligence, Contract Management",
+    "responsibilities": "Source and close property deals with prospective buyers and investors. Manage relationships with existing customers post-purchase. Build relationships with channel partners and brokers. Conduct market research and provide competitive analysis. Manage RERA documentation and compliance requirements. Maintain a pipeline of qualified leads using CRM software. Coordinate with legal teams for documentation and title verification",
+    "benefits": "Company-sponsored certifications. Work-from-home flexibility. Annual paid leaves and casual leaves. Modern office with recreational facilities. Transportation and conveyance allowance. Meal coupons and food allowance",
+    "industry": "realestate",
+    "occupationalCategory": "Senior Property Advisor",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Company-sponsored certifications, Work-from-home flexibility, Annual paid leaves and casual leaves, Modern office with recreational facilities, Transportation and conveyance allowance, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "BHIVE Workspace, one of India's leading organizations, is hiring a Senior Property Advisor for our Visakhapatnam operations. We offer a competitive salary packa",
+    "keywords": "Senior Property Advisor, BHIVE Workspace, jobs in Visakhapatnam, Andhra Pradesh jobs, realestate jobs India, CRM Software, Financial Modeling, Lease Administration, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T05:04:05.533Z",
+  "page": 188
+}

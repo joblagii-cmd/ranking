@@ -1,0 +1,94 @@
+{
+  "slug": "91springboard-sales-manager-visakhapatnam-2026-05-24-3",
+  "title": "Sales Manager Vacancy at 91Springboard - 2026 Batch",
+  "company": "91Springboard",
+  "industry": "realestate",
+  "role": "Sales Manager",
+  "location": {
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Lease Administration",
+    "Financial Modeling",
+    "Contract Management",
+    "RERA Compliance",
+    "Real Estate Law",
+    "CRM Software",
+    "Investment Analysis",
+    "GIS Tools"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Sales Manager Vacancy at 91Springboard - 2026 Batch",
+    "description": "91Springboard, one of India's leading organizations, is hiring a Sales Manager for our Visakhapatnam operations. We offer a competitive salary package along with world-class benefits.\n\nAbout 91Springboard:\n91Springboard is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Liaise with banks and NBFCs for home loan assistance to customers\n• Achieve monthly and quarterly sales targets\n• Manage RERA documentation and compliance requirements\n• Negotiate pricing, terms, and conditions on behalf of clients\n• Conduct site visits and property presentations for clients\n• Coordinate with legal teams for documentation and title verification\n• Conduct land acquisition due diligence and feasibility studies\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 6-10 years of relevant experience\n• Proficiency in Lease Administration\n• Proficiency in Financial Modeling\n• Proficiency in Contract Management\n• Proficiency in RERA Compliance\n• Proficiency in Real Estate Law\n• Proficiency in CRM Software\n• Proficiency in Investment Analysis\n• Proficiency in GIS Tools\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Professional development and training programs\n• Work-from-home flexibility\n• Meal coupons and food allowance\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Learning & development budget\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Visakhapatnam, Andhra Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with 91Springboard!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "91Springboard",
+      "value": "754-3-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "91Springboard",
+      "sameAs": "https://www.google.com/search?q=91Springboard",
+      "logo": "https://logo.clearbit.com/91springboard.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "91Springboard Office",
+        "addressLocality": "Visakhapatnam",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "Lease Administration, Financial Modeling, Contract Management, RERA Compliance, Real Estate Law, CRM Software, Investment Analysis, GIS Tools",
+    "responsibilities": "Liaise with banks and NBFCs for home loan assistance to customers. Achieve monthly and quarterly sales targets. Manage RERA documentation and compliance requirements. Negotiate pricing, terms, and conditions on behalf of clients. Conduct site visits and property presentations for clients. Coordinate with legal teams for documentation and title verification. Conduct land acquisition due diligence and feasibility studies",
+    "benefits": "Professional development and training programs. Work-from-home flexibility. Meal coupons and food allowance. Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Learning & development budget",
+    "industry": "realestate",
+    "occupationalCategory": "Sales Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Work-from-home flexibility, Meal coupons and food allowance, Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Learning & development budget"
+  },
+  "meta": {
+    "description": "91Springboard, one of India's leading organizations, is hiring a Sales Manager for our Visakhapatnam operations. We offer a competitive salary package along wit",
+    "keywords": "Sales Manager, 91Springboard, jobs in Visakhapatnam, Andhra Pradesh jobs, realestate jobs India, Lease Administration, Financial Modeling, Contract Management, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T05:04:05.533Z",
+  "page": 188
+}
