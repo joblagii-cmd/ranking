@@ -1,0 +1,93 @@
+{
+  "slug": "mtr-foods-floor-manager-kolkata-2026-05-24-2",
+  "title": "MTR Foods is Hiring: Floor Manager (Entry-Level)",
+  "company": "MTR Foods",
+  "industry": "retail",
+  "role": "Floor Manager",
+  "location": {
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "CRM",
+    "Planogram",
+    "Team Leadership",
+    "Customer Service",
+    "SAP Retail",
+    "Inventory Management",
+    "Sales Techniques",
+    "Shrinkage Control"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "MTR Foods is Hiring: Floor Manager (Entry-Level)",
+    "description": "MTR Foods is actively seeking a talented and motivated Floor Manager to join our dynamic team in Kolkata. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout MTR Foods:\nMTR Foods is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Monitor inventory levels and coordinate replenishment activities\n• Manage shrinkage and reduce stock discrepancies\n• Handle customer queries, complaints, and escalations effectively\n• Coordinate with the supply chain team for timely stock delivery\n• Maintain high standards of store hygiene and cleanliness\n• Manage store operations to ensure smooth daily functioning\n• Conduct regular stock audits and prevent pilferage\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 12-20 years of relevant experience\n• Proficiency in CRM\n• Proficiency in Planogram\n• Proficiency in Team Leadership\n• Proficiency in Customer Service\n• Proficiency in SAP Retail\n• Proficiency in Inventory Management\n• Proficiency in Sales Techniques\n• Proficiency in Shrinkage Control\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Transportation and conveyance allowance\n• Flexible working hours\n• Meal coupons and food allowance\n• Life and accident insurance\n• Comprehensive health insurance for self and family\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Kolkata, West Bengal, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with MTR Foods!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "MTR Foods",
+      "value": "653-2-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "MTR Foods",
+      "sameAs": "https://www.google.com/search?q=MTR%20Foods",
+      "logo": "https://logo.clearbit.com/mtrfoods.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "MTR Foods Office",
+        "addressLocality": "Kolkata",
+        "addressRegion": "West Bengal",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "CRM, Planogram, Team Leadership, Customer Service, SAP Retail, Inventory Management, Sales Techniques, Shrinkage Control",
+    "responsibilities": "Monitor inventory levels and coordinate replenishment activities. Manage shrinkage and reduce stock discrepancies. Handle customer queries, complaints, and escalations effectively. Coordinate with the supply chain team for timely stock delivery. Maintain high standards of store hygiene and cleanliness. Manage store operations to ensure smooth daily functioning. Conduct regular stock audits and prevent pilferage",
+    "benefits": "Competitive salary with performance-linked incentives. Transportation and conveyance allowance. Flexible working hours. Meal coupons and food allowance. Life and accident insurance. Comprehensive health insurance for self and family",
+    "industry": "retail",
+    "occupationalCategory": "Floor Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Transportation and conveyance allowance, Flexible working hours, Meal coupons and food allowance, Life and accident insurance, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "MTR Foods is actively seeking a talented and motivated Floor Manager to join our dynamic team in Kolkata. This is an excellent opportunity for professionals who",
+    "keywords": "Floor Manager, MTR Foods, jobs in Kolkata, West Bengal jobs, retail jobs India, CRM, Planogram, Team Leadership, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T05:00:55.786Z",
+  "page": 163
+}
