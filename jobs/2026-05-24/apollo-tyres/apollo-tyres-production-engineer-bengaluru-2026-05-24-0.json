@@ -1,0 +1,93 @@
+{
+  "slug": "apollo-tyres-production-engineer-bengaluru-2026-05-24-0",
+  "title": "Opening for Production Engineer at Apollo Tyres",
+  "company": "Apollo Tyres",
+  "industry": "manufacturing",
+  "role": "Production Engineer",
+  "location": {
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Quality Control",
+    "PPAP",
+    "AutoCAD",
+    "Root Cause Analysis",
+    "Lean Manufacturing",
+    "Statistical Process Control",
+    "ISO 9001",
+    "5S"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Opening for Production Engineer at Apollo Tyres",
+    "description": "Are you a skilled Production Engineer looking for your next big career move? Apollo Tyres in Bengaluru offers you the perfect platform to grow professionally and personally.\n\nAbout Apollo Tyres:\nApollo Tyres is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure product quality meets internal and customer specifications\n• Train and supervise shop floor workers and supervisors\n• Oversee daily production operations to meet output targets\n• Coordinate with design and engineering teams on product improvements\n• Conduct root cause analysis for quality rejections and defects\n• Ensure environmental compliance and waste management\n• Implement lean manufacturing and continuous improvement initiatives\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 3-6 years of relevant experience\n• Proficiency in Quality Control\n• Proficiency in PPAP\n• Proficiency in AutoCAD\n• Proficiency in Root Cause Analysis\n• Proficiency in Lean Manufacturing\n• Proficiency in Statistical Process Control\n• Proficiency in ISO 9001\n• Proficiency in 5S\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Professional development and training programs\n• Referral bonus program\n• Recognition and rewards programs\n• Learning & development budget\n• Company-sponsored certifications\n• Work-from-home flexibility\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Bengaluru, Karnataka, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Apollo Tyres!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Apollo Tyres",
+      "value": "482-0-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Apollo Tyres",
+      "sameAs": "https://www.google.com/search?q=Apollo%20Tyres",
+      "logo": "https://logo.clearbit.com/apollotyres.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Apollo Tyres Office",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "Quality Control, PPAP, AutoCAD, Root Cause Analysis, Lean Manufacturing, Statistical Process Control, ISO 9001, 5S",
+    "responsibilities": "Ensure product quality meets internal and customer specifications. Train and supervise shop floor workers and supervisors. Oversee daily production operations to meet output targets. Coordinate with design and engineering teams on product improvements. Conduct root cause analysis for quality rejections and defects. Ensure environmental compliance and waste management. Implement lean manufacturing and continuous improvement initiatives",
+    "benefits": "Professional development and training programs. Referral bonus program. Recognition and rewards programs. Learning & development budget. Company-sponsored certifications. Work-from-home flexibility",
+    "industry": "manufacturing",
+    "occupationalCategory": "Production Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Referral bonus program, Recognition and rewards programs, Learning & development budget, Company-sponsored certifications, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "Are you a skilled Production Engineer looking for your next big career move? Apollo Tyres in Bengaluru offers you the perfect platform to grow professionally an",
+    "keywords": "Production Engineer, Apollo Tyres, jobs in Bengaluru, Karnataka jobs, manufacturing jobs India, Quality Control, PPAP, AutoCAD, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:55:39.264Z",
+  "page": 120
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "mrf-manufacturing-engineer-delhi-2026-05-24-1",
+  "title": "Manufacturing Engineer - MRF - Top MNC",
+  "company": "MRF",
+  "industry": "manufacturing",
+  "role": "Manufacturing Engineer",
+  "location": {
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "FMEA",
+    "Quality Control",
+    "ISO 9001",
+    "Lean Manufacturing",
+    "PPAP",
+    "PLC/SCADA",
+    "Root Cause Analysis",
+    "TPM"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Manufacturing Engineer - MRF - Top MNC",
+    "description": "Are you a skilled Manufacturing Engineer looking for your next big career move? MRF in Delhi offers you the perfect platform to grow professionally and personally.\n\nAbout MRF:\nMRF is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with design and engineering teams on product improvements\n• Implement lean manufacturing and continuous improvement initiatives\n• Ensure compliance with safety regulations and factory acts\n• Manage raw material procurement and inventory levels\n• Train and supervise shop floor workers and supervisors\n• Monitor equipment performance and coordinate preventive maintenance\n• Prepare production cost analysis and efficiency reports\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 3-6 years of relevant experience\n• Proficiency in FMEA\n• Proficiency in Quality Control\n• Proficiency in ISO 9001\n• Proficiency in Lean Manufacturing\n• Proficiency in PPAP\n• Proficiency in PLC/SCADA\n• Proficiency in Root Cause Analysis\n• Proficiency in TPM\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Modern office with recreational facilities\n• Maternity and paternity leave\n• International travel opportunities for senior roles\n• Comprehensive health insurance for self and family\n• Provident Fund and Gratuity as per company policy\n• Professional development and training programs\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Delhi, Delhi, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with MRF!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "MRF",
+      "value": "481-1-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "MRF",
+      "sameAs": "https://www.google.com/search?q=MRF",
+      "logo": "https://logo.clearbit.com/mrf.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "MRF Office",
+        "addressLocality": "Delhi",
+        "addressRegion": "Delhi",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "FMEA, Quality Control, ISO 9001, Lean Manufacturing, PPAP, PLC/SCADA, Root Cause Analysis, TPM",
+    "responsibilities": "Coordinate with design and engineering teams on product improvements. Implement lean manufacturing and continuous improvement initiatives. Ensure compliance with safety regulations and factory acts. Manage raw material procurement and inventory levels. Train and supervise shop floor workers and supervisors. Monitor equipment performance and coordinate preventive maintenance. Prepare production cost analysis and efficiency reports",
+    "benefits": "Modern office with recreational facilities. Maternity and paternity leave. International travel opportunities for senior roles. Comprehensive health insurance for self and family. Provident Fund and Gratuity as per company policy. Professional development and training programs",
+    "industry": "manufacturing",
+    "occupationalCategory": "Manufacturing Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Modern office with recreational facilities, Maternity and paternity leave, International travel opportunities for senior roles, Comprehensive health insurance for self and family, Provident Fund and Gratuity as per company policy, Professional development and training programs"
+  },
+  "meta": {
+    "description": "Are you a skilled Manufacturing Engineer looking for your next big career move? MRF in Delhi offers you the perfect platform to grow professionally and personal",
+    "keywords": "Manufacturing Engineer, MRF, jobs in Delhi, Delhi jobs, manufacturing jobs India, FMEA, Quality Control, ISO 9001, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:55:39.264Z",
+  "page": 120
+}

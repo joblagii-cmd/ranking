@@ -1,0 +1,93 @@
+{
+  "slug": "apollo-tyres-plant-manager-hyderabad-2026-05-24-4",
+  "title": "Senior Plant Manager at Apollo Tyres",
+  "company": "Apollo Tyres",
+  "industry": "manufacturing",
+  "role": "Plant Manager",
+  "location": {
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Kaizen",
+    "ERP Systems",
+    "Quality Control",
+    "AutoCAD",
+    "SolidWorks",
+    "SAP MM/PP",
+    "TPM",
+    "Root Cause Analysis"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Plant Manager at Apollo Tyres",
+    "description": "Are you a skilled Plant Manager looking for your next big career move? Apollo Tyres in Hyderabad offers you the perfect platform to grow professionally and personally.\n\nAbout Apollo Tyres:\nApollo Tyres is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Oversee daily production operations to meet output targets\n• Ensure product quality meets internal and customer specifications\n• Implement lean manufacturing and continuous improvement initiatives\n• Conduct root cause analysis for quality rejections and defects\n• Implement 5S, Kaizen, and Six Sigma practices on the shop floor\n• Manage supplier quality audits and vendor development\n• Prepare production cost analysis and efficiency reports\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 6-10 years of relevant experience\n• Proficiency in Kaizen\n• Proficiency in ERP Systems\n• Proficiency in Quality Control\n• Proficiency in AutoCAD\n• Proficiency in SolidWorks\n• Proficiency in SAP MM/PP\n• Proficiency in TPM\n• Proficiency in Root Cause Analysis\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Professional development and training programs\n• Comprehensive health insurance for self and family\n• Annual performance appraisal\n• Recognition and rewards programs\n• Flexible working hours\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Hyderabad, Telangana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Apollo Tyres!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Apollo Tyres",
+      "value": "482-4-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Apollo Tyres",
+      "sameAs": "https://www.google.com/search?q=Apollo%20Tyres",
+      "logo": "https://logo.clearbit.com/apollotyres.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Apollo Tyres Office",
+        "addressLocality": "Hyderabad",
+        "addressRegion": "Telangana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "Kaizen, ERP Systems, Quality Control, AutoCAD, SolidWorks, SAP MM/PP, TPM, Root Cause Analysis",
+    "responsibilities": "Oversee daily production operations to meet output targets. Ensure product quality meets internal and customer specifications. Implement lean manufacturing and continuous improvement initiatives. Conduct root cause analysis for quality rejections and defects. Implement 5S, Kaizen, and Six Sigma practices on the shop floor. Manage supplier quality audits and vendor development. Prepare production cost analysis and efficiency reports",
+    "benefits": "Work-from-home flexibility. Professional development and training programs. Comprehensive health insurance for self and family. Annual performance appraisal. Recognition and rewards programs. Flexible working hours",
+    "industry": "manufacturing",
+    "occupationalCategory": "Plant Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Professional development and training programs, Comprehensive health insurance for self and family, Annual performance appraisal, Recognition and rewards programs, Flexible working hours"
+  },
+  "meta": {
+    "description": "Are you a skilled Plant Manager looking for your next big career move? Apollo Tyres in Hyderabad offers you the perfect platform to grow professionally and pers",
+    "keywords": "Plant Manager, Apollo Tyres, jobs in Hyderabad, Telangana jobs, manufacturing jobs India, Kaizen, ERP Systems, Quality Control, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:55:39.264Z",
+  "page": 120
+}
