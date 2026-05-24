@@ -1,0 +1,93 @@
+{
+  "slug": "oracle-india-senior-software-engineer-patna-2026-05-24-1",
+  "title": "Senior Software Engineer - Oracle India - Multiple Openings",
+  "company": "Oracle India",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Patna",
+    "state": "Bihar",
+    "region": "Eastern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Java",
+    "Machine Learning",
+    "React",
+    "TypeScript",
+    "Rust",
+    "AWS",
+    "Microservices",
+    "Python"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Oracle India - Multiple Openings",
+    "description": "Oracle India has an exciting opening for a Senior Software Engineer at our Patna office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Oracle India:\nOracle India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Optimize application performance and ensure high availability\n• Ensure code security and follow best practices for data protection\n• Design, develop and maintain scalable software applications\n• Integrate third-party APIs and services\n• Write clean, maintainable, and well-documented code\n• Write and execute unit tests and integration tests\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 1-3 years of relevant experience\n• Proficiency in Java\n• Proficiency in Machine Learning\n• Proficiency in React\n• Proficiency in TypeScript\n• Proficiency in Rust\n• Proficiency in AWS\n• Proficiency in Microservices\n• Proficiency in Python\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Annual performance appraisal\n• Work-from-home flexibility\n• Life and accident insurance\n• Employee stock options (ESOPs) for eligible roles\n• Mobile and internet reimbursement\n• Flexible working hours\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Patna, Bihar, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Oracle India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Oracle India",
+      "value": "9-1-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Oracle India",
+      "sameAs": "https://www.google.com/search?q=Oracle%20India",
+      "logo": "https://logo.clearbit.com/oracleindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Oracle India Office",
+        "addressLocality": "Patna",
+        "addressRegion": "Bihar",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "Java, Machine Learning, React, TypeScript, Rust, AWS, Microservices, Python",
+    "responsibilities": "Mentor junior developers and conduct knowledge-sharing sessions. Optimize application performance and ensure high availability. Ensure code security and follow best practices for data protection. Design, develop and maintain scalable software applications. Integrate third-party APIs and services. Write clean, maintainable, and well-documented code. Write and execute unit tests and integration tests",
+    "benefits": "Annual performance appraisal. Work-from-home flexibility. Life and accident insurance. Employee stock options (ESOPs) for eligible roles. Mobile and internet reimbursement. Flexible working hours",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual performance appraisal, Work-from-home flexibility, Life and accident insurance, Employee stock options (ESOPs) for eligible roles, Mobile and internet reimbursement, Flexible working hours"
+  },
+  "meta": {
+    "description": "Oracle India has an exciting opening for a Senior Software Engineer at our Patna office. Join a company that values innovation, collaboration, and continuous le",
+    "keywords": "Senior Software Engineer, Oracle India, jobs in Patna, Bihar jobs, technology jobs India, Java, Machine Learning, React, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:41:22.066Z",
+  "page": 2
+}

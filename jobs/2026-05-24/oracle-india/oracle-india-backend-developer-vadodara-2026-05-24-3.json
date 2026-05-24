@@ -1,0 +1,93 @@
+{
+  "slug": "oracle-india-backend-developer-vadodara-2026-05-24-3",
+  "title": "Backend Developer Vacancy at Oracle India - 2026 Batch",
+  "company": "Oracle India",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "CI/CD",
+    "JavaScript",
+    "TensorFlow",
+    "React",
+    "Microservices",
+    "Node.js",
+    "TypeScript",
+    "SQL"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Oracle India - 2026 Batch",
+    "description": "Are you a skilled Backend Developer looking for your next big career move? Oracle India in Vadodara offers you the perfect platform to grow professionally and personally.\n\nAbout Oracle India:\nOracle India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Design, develop and maintain scalable software applications\n• Write clean, maintainable, and well-documented code\n• Write and execute unit tests and integration tests\n• Participate in on-call rotation for production support\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Participate in code reviews and contribute to technical discussions\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 12-20 years of relevant experience\n• Proficiency in CI/CD\n• Proficiency in JavaScript\n• Proficiency in TensorFlow\n• Proficiency in React\n• Proficiency in Microservices\n• Proficiency in Node.js\n• Proficiency in TypeScript\n• Proficiency in SQL\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Life and accident insurance\n• Annual performance appraisal\n• Employee stock options (ESOPs) for eligible roles\n• Modern office with recreational facilities\n• Meal coupons and food allowance\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Vadodara, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Oracle India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Oracle India",
+      "value": "9-3-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Oracle India",
+      "sameAs": "https://www.google.com/search?q=Oracle%20India",
+      "logo": "https://logo.clearbit.com/oracleindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Oracle India Office",
+        "addressLocality": "Vadodara",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "CI/CD, JavaScript, TensorFlow, React, Microservices, Node.js, TypeScript, SQL",
+    "responsibilities": "Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Design, develop and maintain scalable software applications. Write clean, maintainable, and well-documented code. Write and execute unit tests and integration tests. Participate in on-call rotation for production support. Troubleshoot, debug, and resolve software defects and performance issues. Participate in code reviews and contribute to technical discussions",
+    "benefits": "Annual paid leaves and casual leaves. Life and accident insurance. Annual performance appraisal. Employee stock options (ESOPs) for eligible roles. Modern office with recreational facilities. Meal coupons and food allowance",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Life and accident insurance, Annual performance appraisal, Employee stock options (ESOPs) for eligible roles, Modern office with recreational facilities, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "Are you a skilled Backend Developer looking for your next big career move? Oracle India in Vadodara offers you the perfect platform to grow professionally and p",
+    "keywords": "Backend Developer, Oracle India, jobs in Vadodara, Gujarat jobs, technology jobs India, CI/CD, JavaScript, TensorFlow, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:41:22.066Z",
+  "page": 2
+}
