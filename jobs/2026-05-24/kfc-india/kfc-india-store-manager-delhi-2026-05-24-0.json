@@ -1,0 +1,94 @@
+{
+  "slug": "kfc-india-store-manager-delhi-2026-05-24-0",
+  "title": "Hiring Store Manager at KFC India",
+  "company": "KFC India",
+  "industry": "retail",
+  "role": "Store Manager",
+  "location": {
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "E-commerce Integration",
+    "SAP Retail",
+    "Loyalty Programs",
+    "CRM",
+    "Sales Techniques",
+    "KPI Management",
+    "Shrinkage Control",
+    "Customer Service"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Hiring Store Manager at KFC India",
+    "description": "KFC India is actively seeking a talented and motivated Store Manager to join our dynamic team in Delhi. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout KFC India:\nKFC India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Maintain high standards of store hygiene and cleanliness\n• Handle customer queries, complaints, and escalations effectively\n• Conduct regular stock audits and prevent pilferage\n• Train and motivate the sales team to deliver excellent service\n• Implement promotional activities and in-store campaigns\n• Ensure visual merchandising standards are maintained at all times\n• Coordinate with the supply chain team for timely stock delivery\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 3-6 years of relevant experience\n• Proficiency in E-commerce Integration\n• Proficiency in SAP Retail\n• Proficiency in Loyalty Programs\n• Proficiency in CRM\n• Proficiency in Sales Techniques\n• Proficiency in KPI Management\n• Proficiency in Shrinkage Control\n• Proficiency in Customer Service\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Work-from-home flexibility\n• Recognition and rewards programs\n• Maternity and paternity leave\n• Annual performance appraisal\n• Annual paid leaves and casual leaves\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Delhi, Delhi, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with KFC India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "KFC India",
+      "value": "647-0-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "KFC India",
+      "sameAs": "https://www.google.com/search?q=KFC%20India",
+      "logo": "https://logo.clearbit.com/kfcindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "KFC India Office",
+        "addressLocality": "Delhi",
+        "addressRegion": "Delhi",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "E-commerce Integration, SAP Retail, Loyalty Programs, CRM, Sales Techniques, KPI Management, Shrinkage Control, Customer Service",
+    "responsibilities": "Maintain high standards of store hygiene and cleanliness. Handle customer queries, complaints, and escalations effectively. Conduct regular stock audits and prevent pilferage. Train and motivate the sales team to deliver excellent service. Implement promotional activities and in-store campaigns. Ensure visual merchandising standards are maintained at all times. Coordinate with the supply chain team for timely stock delivery",
+    "benefits": "Transportation and conveyance allowance. Work-from-home flexibility. Recognition and rewards programs. Maternity and paternity leave. Annual performance appraisal. Annual paid leaves and casual leaves",
+    "industry": "retail",
+    "occupationalCategory": "Store Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Work-from-home flexibility, Recognition and rewards programs, Maternity and paternity leave, Annual performance appraisal, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "KFC India is actively seeking a talented and motivated Store Manager to join our dynamic team in Delhi. This is an excellent opportunity for professionals who a",
+    "keywords": "Store Manager, KFC India, jobs in Delhi, Delhi jobs, retail jobs India, E-commerce Integration, SAP Retail, Loyalty Programs, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T05:00:40.430Z",
+  "page": 161
+}
