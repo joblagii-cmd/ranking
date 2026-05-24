@@ -1,0 +1,94 @@
+{
+  "slug": "supertech-sales-manager-coimbatore-2026-05-24-3",
+  "title": "Sales Manager Vacancy at Supertech - 2026 Batch",
+  "company": "Supertech",
+  "industry": "realestate",
+  "role": "Sales Manager",
+  "location": {
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Lease Administration",
+    "RERA Compliance",
+    "CRM Software",
+    "Real Estate Law",
+    "Property Valuation",
+    "Project Management",
+    "Sales Techniques",
+    "GIS Tools"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Sales Manager Vacancy at Supertech - 2026 Batch",
+    "description": "Supertech has an exciting opening for a Sales Manager at our Coimbatore office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Supertech:\nSupertech is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with legal teams for documentation and title verification\n• Negotiate pricing, terms, and conditions on behalf of clients\n• Conduct market research and provide competitive analysis\n• Manage relationships with existing customers post-purchase\n• Maintain a pipeline of qualified leads using CRM software\n• Conduct site visits and property presentations for clients\n• Coordinate with architects, contractors, and project teams\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 0-1 years of relevant experience\n• Proficiency in Lease Administration\n• Proficiency in RERA Compliance\n• Proficiency in CRM Software\n• Proficiency in Real Estate Law\n• Proficiency in Property Valuation\n• Proficiency in Project Management\n• Proficiency in Sales Techniques\n• Proficiency in GIS Tools\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Life and accident insurance\n• Work-from-home flexibility\n• Meal coupons and food allowance\n• Mobile and internet reimbursement\n• International travel opportunities for senior roles\n• Comprehensive health insurance for self and family\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Coimbatore, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Supertech!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Supertech",
+      "value": "704-3-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Supertech",
+      "sameAs": "https://www.google.com/search?q=Supertech",
+      "logo": "https://logo.clearbit.com/supertech.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Supertech Office",
+        "addressLocality": "Coimbatore",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Lease Administration, RERA Compliance, CRM Software, Real Estate Law, Property Valuation, Project Management, Sales Techniques, GIS Tools",
+    "responsibilities": "Coordinate with legal teams for documentation and title verification. Negotiate pricing, terms, and conditions on behalf of clients. Conduct market research and provide competitive analysis. Manage relationships with existing customers post-purchase. Maintain a pipeline of qualified leads using CRM software. Conduct site visits and property presentations for clients. Coordinate with architects, contractors, and project teams",
+    "benefits": "Life and accident insurance. Work-from-home flexibility. Meal coupons and food allowance. Mobile and internet reimbursement. International travel opportunities for senior roles. Comprehensive health insurance for self and family",
+    "industry": "realestate",
+    "occupationalCategory": "Sales Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Work-from-home flexibility, Meal coupons and food allowance, Mobile and internet reimbursement, International travel opportunities for senior roles, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "Supertech has an exciting opening for a Sales Manager at our Coimbatore office. Join a company that values innovation, collaboration, and continuous learning.",
+    "keywords": "Sales Manager, Supertech, jobs in Coimbatore, Tamil Nadu jobs, realestate jobs India, Lease Administration, RERA Compliance, CRM Software, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T05:02:27.589Z",
+  "page": 175
+}

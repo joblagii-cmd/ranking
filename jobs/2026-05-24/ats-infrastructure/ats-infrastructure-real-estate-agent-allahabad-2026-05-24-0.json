@@ -1,0 +1,94 @@
+{
+  "slug": "ats-infrastructure-real-estate-agent-allahabad-2026-05-24-0",
+  "title": "Looking for Real Estate Agent at ATS Infrastructure",
+  "company": "ATS Infrastructure",
+  "industry": "realestate",
+  "role": "Real Estate Agent",
+  "location": {
+    "city": "Allahabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Property Valuation",
+    "Due Diligence",
+    "Market Research",
+    "Property Management",
+    "Client Relationship Management",
+    "Lease Administration",
+    "Financial Modeling",
+    "Real Estate Law"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Looking for Real Estate Agent at ATS Infrastructure",
+    "description": "ATS Infrastructure has an exciting opening for a Real Estate Agent at our Allahabad office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout ATS Infrastructure:\nATS Infrastructure is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Provide advisory services on property investment and market trends\n• Maintain a pipeline of qualified leads using CRM software\n• Prepare presentations and proposals for institutional clients\n• Achieve monthly and quarterly sales targets\n• Manage RERA documentation and compliance requirements\n• Conduct market research and provide competitive analysis\n• Coordinate with legal teams for documentation and title verification\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 1-3 years of relevant experience\n• Proficiency in Property Valuation\n• Proficiency in Due Diligence\n• Proficiency in Market Research\n• Proficiency in Property Management\n• Proficiency in Client Relationship Management\n• Proficiency in Lease Administration\n• Proficiency in Financial Modeling\n• Proficiency in Real Estate Law\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Annual performance appraisal\n• Life and accident insurance\n• Professional development and training programs\n• Modern office with recreational facilities\n• Transportation and conveyance allowance\n• International travel opportunities for senior roles\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Allahabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with ATS Infrastructure!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "ATS Infrastructure",
+      "value": "701-0-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "ATS Infrastructure",
+      "sameAs": "https://www.google.com/search?q=ATS%20Infrastructure",
+      "logo": "https://logo.clearbit.com/atsinfrastructure.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "ATS Infrastructure Office",
+        "addressLocality": "Allahabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "Property Valuation, Due Diligence, Market Research, Property Management, Client Relationship Management, Lease Administration, Financial Modeling, Real Estate Law",
+    "responsibilities": "Provide advisory services on property investment and market trends. Maintain a pipeline of qualified leads using CRM software. Prepare presentations and proposals for institutional clients. Achieve monthly and quarterly sales targets. Manage RERA documentation and compliance requirements. Conduct market research and provide competitive analysis. Coordinate with legal teams for documentation and title verification",
+    "benefits": "Annual performance appraisal. Life and accident insurance. Professional development and training programs. Modern office with recreational facilities. Transportation and conveyance allowance. International travel opportunities for senior roles",
+    "industry": "realestate",
+    "occupationalCategory": "Real Estate Agent",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual performance appraisal, Life and accident insurance, Professional development and training programs, Modern office with recreational facilities, Transportation and conveyance allowance, International travel opportunities for senior roles"
+  },
+  "meta": {
+    "description": "ATS Infrastructure has an exciting opening for a Real Estate Agent at our Allahabad office. Join a company that values innovation, collaboration, and continuous",
+    "keywords": "Real Estate Agent, ATS Infrastructure, jobs in Allahabad, Uttar Pradesh jobs, realestate jobs India, Property Valuation, Due Diligence, Market Research, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T05:02:27.587Z",
+  "page": 175
+}
