@@ -1,0 +1,93 @@
+{
+  "slug": "unisys-india-software-engineer-delhi-2026-05-24-0",
+  "title": "Immediate Requirement Software Engineer at Unisys India",
+  "company": "Unisys India",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Docker",
+    "JavaScript",
+    "AWS",
+    "SQL",
+    "Python",
+    "React",
+    "TypeScript",
+    "Microservices"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Immediate Requirement Software Engineer at Unisys India",
+    "description": "An exciting career opportunity awaits you at Unisys India. We are on the lookout for a dedicated Software Engineer to strengthen our Delhi-based team.\n\nAbout Unisys India:\nUnisys India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Ensure code security and follow best practices for data protection\n• Participate in on-call rotation for production support\n• Design, develop and maintain scalable software applications\n• Implement new features based on product requirements\n• Write clean, maintainable, and well-documented code\n• Collaborate with cross-functional teams including product, design, and QA\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 12-20 years of relevant experience\n• Proficiency in Docker\n• Proficiency in JavaScript\n• Proficiency in AWS\n• Proficiency in SQL\n• Proficiency in Python\n• Proficiency in React\n• Proficiency in TypeScript\n• Proficiency in Microservices\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Annual performance appraisal\n• Recognition and rewards programs\n• Provident Fund and Gratuity as per company policy\n• Meal coupons and food allowance\n• Work-from-home flexibility\n• Annual paid leaves and casual leaves\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Delhi, Delhi, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Unisys India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Unisys India",
+      "value": "65-0-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Unisys India",
+      "sameAs": "https://www.google.com/search?q=Unisys%20India",
+      "logo": "https://logo.clearbit.com/unisysindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Unisys India Office",
+        "addressLocality": "Delhi",
+        "addressRegion": "Delhi",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "Docker, JavaScript, AWS, SQL, Python, React, TypeScript, Microservices",
+    "responsibilities": "Work with agile methodologies including daily stand-ups and sprint planning. Ensure code security and follow best practices for data protection. Participate in on-call rotation for production support. Design, develop and maintain scalable software applications. Implement new features based on product requirements. Write clean, maintainable, and well-documented code. Collaborate with cross-functional teams including product, design, and QA",
+    "benefits": "Annual performance appraisal. Recognition and rewards programs. Provident Fund and Gratuity as per company policy. Meal coupons and food allowance. Work-from-home flexibility. Annual paid leaves and casual leaves",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual performance appraisal, Recognition and rewards programs, Provident Fund and Gratuity as per company policy, Meal coupons and food allowance, Work-from-home flexibility, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Unisys India. We are on the lookout for a dedicated Software Engineer to strengthen our Delhi-based team.",
+    "keywords": "Software Engineer, Unisys India, jobs in Delhi, Delhi jobs, technology jobs India, Docker, JavaScript, AWS, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:43:05.175Z",
+  "page": 16
+}
