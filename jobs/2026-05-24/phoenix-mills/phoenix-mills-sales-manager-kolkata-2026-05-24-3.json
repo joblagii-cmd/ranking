@@ -1,0 +1,94 @@
+{
+  "slug": "phoenix-mills-sales-manager-kolkata-2026-05-24-3",
+  "title": "Sales Manager Vacancy at Phoenix Mills - 2026 Batch",
+  "company": "Phoenix Mills",
+  "industry": "realestate",
+  "role": "Sales Manager",
+  "location": {
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "RERA Compliance",
+    "Financial Modeling",
+    "Sales Techniques",
+    "Real Estate Law",
+    "Contract Management",
+    "Portfolio Management",
+    "CRM Software",
+    "Property Valuation"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Sales Manager Vacancy at Phoenix Mills - 2026 Batch",
+    "description": "Phoenix Mills, one of India's leading organizations, is hiring a Sales Manager for our Kolkata operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Phoenix Mills:\nPhoenix Mills is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with architects, contractors, and project teams\n• Conduct market research and provide competitive analysis\n• Liaise with banks and NBFCs for home loan assistance to customers\n• Coordinate with legal teams for documentation and title verification\n• Maintain a pipeline of qualified leads using CRM software\n• Conduct site visits and property presentations for clients\n• Achieve monthly and quarterly sales targets\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 0-1 years of relevant experience\n• Proficiency in RERA Compliance\n• Proficiency in Financial Modeling\n• Proficiency in Sales Techniques\n• Proficiency in Real Estate Law\n• Proficiency in Contract Management\n• Proficiency in Portfolio Management\n• Proficiency in CRM Software\n• Proficiency in Property Valuation\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• Competitive salary with performance-linked incentives\n• Work-from-home flexibility\n• Referral bonus program\n• Recognition and rewards programs\n• Learning & development budget\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Kolkata, West Bengal, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Phoenix Mills!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Phoenix Mills",
+      "value": "736-3-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Phoenix Mills",
+      "sameAs": "https://www.google.com/search?q=Phoenix%20Mills",
+      "logo": "https://logo.clearbit.com/phoenixmills.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Phoenix Mills Office",
+        "addressLocality": "Kolkata",
+        "addressRegion": "West Bengal",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "RERA Compliance, Financial Modeling, Sales Techniques, Real Estate Law, Contract Management, Portfolio Management, CRM Software, Property Valuation",
+    "responsibilities": "Coordinate with architects, contractors, and project teams. Conduct market research and provide competitive analysis. Liaise with banks and NBFCs for home loan assistance to customers. Coordinate with legal teams for documentation and title verification. Maintain a pipeline of qualified leads using CRM software. Conduct site visits and property presentations for clients. Achieve monthly and quarterly sales targets",
+    "benefits": "Comprehensive health insurance for self and family. Competitive salary with performance-linked incentives. Work-from-home flexibility. Referral bonus program. Recognition and rewards programs. Learning & development budget",
+    "industry": "realestate",
+    "occupationalCategory": "Sales Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, Competitive salary with performance-linked incentives, Work-from-home flexibility, Referral bonus program, Recognition and rewards programs, Learning & development budget"
+  },
+  "meta": {
+    "description": "Phoenix Mills, one of India's leading organizations, is hiring a Sales Manager for our Kolkata operations. We offer a competitive salary package along with worl",
+    "keywords": "Sales Manager, Phoenix Mills, jobs in Kolkata, West Bengal jobs, realestate jobs India, RERA Compliance, Financial Modeling, Sales Techniques, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T05:03:27.995Z",
+  "page": 183
+}

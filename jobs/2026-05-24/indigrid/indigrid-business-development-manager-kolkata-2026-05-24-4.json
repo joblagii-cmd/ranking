@@ -1,0 +1,93 @@
+{
+  "slug": "indigrid-business-development-manager-kolkata-2026-05-24-4",
+  "title": "Junior Business Development Manager at IndiGrid",
+  "company": "IndiGrid",
+  "industry": "realestate",
+  "role": "Business Development Manager",
+  "location": {
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "MS Office",
+    "Title Search",
+    "Sales Techniques",
+    "Lease Administration",
+    "Financial Modeling",
+    "Project Management",
+    "Market Research",
+    "AutoCAD"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Junior Business Development Manager at IndiGrid",
+    "description": "IndiGrid, one of India's leading organizations, is hiring a Business Development Manager for our Kolkata operations. We offer a competitive salary package along with world-class benefits.\n\nAbout IndiGrid:\nIndiGrid is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Build relationships with channel partners and brokers\n• Source and close property deals with prospective buyers and investors\n• Manage relationships with existing customers post-purchase\n• Conduct land acquisition due diligence and feasibility studies\n• Maintain a pipeline of qualified leads using CRM software\n• Coordinate with legal teams for documentation and title verification\n• Prepare presentations and proposals for institutional clients\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 0-1 years of relevant experience\n• Proficiency in MS Office\n• Proficiency in Title Search\n• Proficiency in Sales Techniques\n• Proficiency in Lease Administration\n• Proficiency in Financial Modeling\n• Proficiency in Project Management\n• Proficiency in Market Research\n• Proficiency in AutoCAD\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Modern office with recreational facilities\n• Competitive salary with performance-linked incentives\n• Transportation and conveyance allowance\n• Flexible working hours\n• Comprehensive health insurance for self and family\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Kolkata, West Bengal, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with IndiGrid!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "IndiGrid",
+      "value": "735-4-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "IndiGrid",
+      "sameAs": "https://www.google.com/search?q=IndiGrid",
+      "logo": "https://logo.clearbit.com/indigrid.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "IndiGrid Office",
+        "addressLocality": "Kolkata",
+        "addressRegion": "West Bengal",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "MS Office, Title Search, Sales Techniques, Lease Administration, Financial Modeling, Project Management, Market Research, AutoCAD",
+    "responsibilities": "Build relationships with channel partners and brokers. Source and close property deals with prospective buyers and investors. Manage relationships with existing customers post-purchase. Conduct land acquisition due diligence and feasibility studies. Maintain a pipeline of qualified leads using CRM software. Coordinate with legal teams for documentation and title verification. Prepare presentations and proposals for institutional clients",
+    "benefits": "Provident Fund and Gratuity as per company policy. Modern office with recreational facilities. Competitive salary with performance-linked incentives. Transportation and conveyance allowance. Flexible working hours. Comprehensive health insurance for self and family",
+    "industry": "realestate",
+    "occupationalCategory": "Business Development Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Modern office with recreational facilities, Competitive salary with performance-linked incentives, Transportation and conveyance allowance, Flexible working hours, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "IndiGrid, one of India's leading organizations, is hiring a Business Development Manager for our Kolkata operations. We offer a competitive salary package along",
+    "keywords": "Business Development Manager, IndiGrid, jobs in Kolkata, West Bengal jobs, realestate jobs India, MS Office, Title Search, Sales Techniques, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T05:03:27.995Z",
+  "page": 183
+}
