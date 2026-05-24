@@ -1,0 +1,93 @@
+{
+  "slug": "symbiosis-hospital-radiologist-jabalpur-2026-05-24-4",
+  "title": "Entry-Level Radiologist at Symbiosis Hospital",
+  "company": "Symbiosis Hospital",
+  "industry": "healthcare",
+  "role": "Radiologist",
+  "location": {
+    "city": "Jabalpur",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "BLS/ACLS",
+    "CPT Codes",
+    "HIPAA Compliance",
+    "Clinical Research",
+    "NABH Standards",
+    "Health Informatics",
+    "Telemedicine",
+    "Medical Ethics"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Entry-Level Radiologist at Symbiosis Hospital",
+    "description": "An exciting career opportunity awaits you at Symbiosis Hospital. We are on the lookout for a dedicated Radiologist to strengthen our Jabalpur-based team.\n\nAbout Symbiosis Hospital:\nSymbiosis Hospital is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Educate patients and families on health management and disease prevention\n• Provide high-quality patient care and maintain patient records\n• Respond to medical emergencies and provide immediate care\n• Conduct routine health assessments and screenings\n• Diagnose and treat medical conditions following established protocols\n• Administer medications and treatments as prescribed\n• Collaborate with pharmaceutical representatives and medical suppliers\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 12-20 years of relevant experience\n• Proficiency in BLS/ACLS\n• Proficiency in CPT Codes\n• Proficiency in HIPAA Compliance\n• Proficiency in Clinical Research\n• Proficiency in NABH Standards\n• Proficiency in Health Informatics\n• Proficiency in Telemedicine\n• Proficiency in Medical Ethics\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Learning & development budget\n• Company-sponsored certifications\n• Flexible working hours\n• Mobile and internet reimbursement\n• Comprehensive health insurance for self and family\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Jabalpur, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Symbiosis Hospital!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Symbiosis Hospital",
+      "value": "289-4-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Symbiosis Hospital",
+      "sameAs": "https://www.google.com/search?q=Symbiosis%20Hospital",
+      "logo": "https://logo.clearbit.com/symbiosishospital.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Symbiosis Hospital Office",
+        "addressLocality": "Jabalpur",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "BLS/ACLS, CPT Codes, HIPAA Compliance, Clinical Research, NABH Standards, Health Informatics, Telemedicine, Medical Ethics",
+    "responsibilities": "Educate patients and families on health management and disease prevention. Provide high-quality patient care and maintain patient records. Respond to medical emergencies and provide immediate care. Conduct routine health assessments and screenings. Diagnose and treat medical conditions following established protocols. Administer medications and treatments as prescribed. Collaborate with pharmaceutical representatives and medical suppliers",
+    "benefits": "Provident Fund and Gratuity as per company policy. Learning & development budget. Company-sponsored certifications. Flexible working hours. Mobile and internet reimbursement. Comprehensive health insurance for self and family",
+    "industry": "healthcare",
+    "occupationalCategory": "Radiologist",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Learning & development budget, Company-sponsored certifications, Flexible working hours, Mobile and internet reimbursement, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Symbiosis Hospital. We are on the lookout for a dedicated Radiologist to strengthen our Jabalpur-based team.",
+    "keywords": "Radiologist, Symbiosis Hospital, jobs in Jabalpur, Madhya Pradesh jobs, healthcare jobs India, BLS/ACLS, CPT Codes, HIPAA Compliance, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:49:51.587Z",
+  "page": 72
+}
