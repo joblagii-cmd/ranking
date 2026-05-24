@@ -1,0 +1,93 @@
+{
+  "slug": "dsv-india-warehouse-manager-mumbai-2026-05-24-2",
+  "title": "DSV India is Hiring: Warehouse Manager (Mid-Level)",
+  "company": "DSV India",
+  "industry": "logistics",
+  "role": "Warehouse Manager",
+  "location": {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "WMS",
+    "Freight Forwarding",
+    "Last Mile Delivery",
+    "Vendor Management",
+    "INCOTERMS",
+    "Data Analytics",
+    "TMS",
+    "Fleet Management"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "DSV India is Hiring: Warehouse Manager (Mid-Level)",
+    "description": "DSV India invites applications from qualified candidates for the position of Warehouse Manager at our Mumbai location. This role offers excellent career advancement prospects.\n\nAbout DSV India:\nDSV India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure proper handling, packaging, and labeling of goods\n• Oversee end-to-end logistics operations for timely delivery\n• Manage reverse logistics and return merchandise authorization\n• Optimize delivery routes to reduce cost and improve efficiency\n• Track shipments in real-time and resolve delivery exceptions\n• Handle customs clearance for import and export shipments\n• Manage relationships with third-party logistics providers\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 0-1 years of relevant experience\n• Proficiency in WMS\n• Proficiency in Freight Forwarding\n• Proficiency in Last Mile Delivery\n• Proficiency in Vendor Management\n• Proficiency in INCOTERMS\n• Proficiency in Data Analytics\n• Proficiency in TMS\n• Proficiency in Fleet Management\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• Life and accident insurance\n• Competitive salary with performance-linked incentives\n• Recognition and rewards programs\n• Professional development and training programs\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Mumbai, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with DSV India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "DSV India",
+      "value": "811-2-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "DSV India",
+      "sameAs": "https://www.google.com/search?q=DSV%20India",
+      "logo": "https://logo.clearbit.com/dsvindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "DSV India Office",
+        "addressLocality": "Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "WMS, Freight Forwarding, Last Mile Delivery, Vendor Management, INCOTERMS, Data Analytics, TMS, Fleet Management",
+    "responsibilities": "Ensure proper handling, packaging, and labeling of goods. Oversee end-to-end logistics operations for timely delivery. Manage reverse logistics and return merchandise authorization. Optimize delivery routes to reduce cost and improve efficiency. Track shipments in real-time and resolve delivery exceptions. Handle customs clearance for import and export shipments. Manage relationships with third-party logistics providers",
+    "benefits": "Comprehensive health insurance for self and family. Life and accident insurance. Competitive salary with performance-linked incentives. Recognition and rewards programs. Professional development and training programs. Provident Fund and Gratuity as per company policy",
+    "industry": "logistics",
+    "occupationalCategory": "Warehouse Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, Life and accident insurance, Competitive salary with performance-linked incentives, Recognition and rewards programs, Professional development and training programs, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "DSV India invites applications from qualified candidates for the position of Warehouse Manager at our Mumbai location. This role offers excellent career advance",
+    "keywords": "Warehouse Manager, DSV India, jobs in Mumbai, Maharashtra jobs, logistics jobs India, WMS, Freight Forwarding, Last Mile Delivery, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T05:05:54.105Z",
+  "page": 202
+}
