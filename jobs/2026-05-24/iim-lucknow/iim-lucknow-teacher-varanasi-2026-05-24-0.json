@@ -1,0 +1,94 @@
+{
+  "slug": "iim-lucknow-teacher-varanasi-2026-05-24-0",
+  "title": "Vacancy for Teacher at IIM Lucknow",
+  "company": "IIM Lucknow",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Zoom/Teams",
+    "Curriculum Development",
+    "Lesson Planning",
+    "Special Education",
+    "Educational Technology",
+    "Child Psychology",
+    "MS Office",
+    "IB Curriculum"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Vacancy for Teacher at IIM Lucknow",
+    "description": "IIM Lucknow, one of India's leading organizations, is hiring a Teacher for our Varanasi operations. We offer a competitive salary package along with world-class benefits.\n\nAbout IIM Lucknow:\nIIM Lucknow is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Support students with special educational needs\n• Coordinate with academic counselors for student career guidance\n• Develop and deliver engaging lesson plans for students\n• Create curriculum-aligned learning materials and assessments\n• Conduct doubt-clearing sessions and remedial classes for weak students\n• Maintain student records and prepare progress reports\n• Design formative and summative assessments aligned to learning objectives\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 3-6 years of relevant experience\n• Proficiency in Zoom/Teams\n• Proficiency in Curriculum Development\n• Proficiency in Lesson Planning\n• Proficiency in Special Education\n• Proficiency in Educational Technology\n• Proficiency in Child Psychology\n• Proficiency in MS Office\n• Proficiency in IB Curriculum\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Learning & development budget\n• Annual performance appraisal\n• Meal coupons and food allowance\n• Annual paid leaves and casual leaves\n• Recognition and rewards programs\n• Work-from-home flexibility\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Varanasi, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with IIM Lucknow!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "IIM Lucknow",
+      "value": "524-0-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "IIM Lucknow",
+      "sameAs": "https://www.google.com/search?q=IIM%20Lucknow",
+      "logo": "https://logo.clearbit.com/iimlucknow.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "IIM Lucknow Office",
+        "addressLocality": "Varanasi",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "Zoom/Teams, Curriculum Development, Lesson Planning, Special Education, Educational Technology, Child Psychology, MS Office, IB Curriculum",
+    "responsibilities": "Support students with special educational needs. Coordinate with academic counselors for student career guidance. Develop and deliver engaging lesson plans for students. Create curriculum-aligned learning materials and assessments. Conduct doubt-clearing sessions and remedial classes for weak students. Maintain student records and prepare progress reports. Design formative and summative assessments aligned to learning objectives",
+    "benefits": "Learning & development budget. Annual performance appraisal. Meal coupons and food allowance. Annual paid leaves and casual leaves. Recognition and rewards programs. Work-from-home flexibility",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Learning & development budget, Annual performance appraisal, Meal coupons and food allowance, Annual paid leaves and casual leaves, Recognition and rewards programs, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "IIM Lucknow, one of India's leading organizations, is hiring a Teacher for our Varanasi operations. We offer a competitive salary package along with world-class",
+    "keywords": "Teacher, IIM Lucknow, jobs in Varanasi, Uttar Pradesh jobs, education jobs India, Zoom/Teams, Curriculum Development, Lesson Planning, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:56:53.002Z",
+  "page": 130
+}
