@@ -1,0 +1,93 @@
+{
+  "slug": "british-council-india-teacher-noida-2026-05-24-0",
+  "title": "Job Opening Teacher at British Council India",
+  "company": "British Council India",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "MS Office",
+    "Communication Skills",
+    "Pedagogy",
+    "Bloom's Taxonomy",
+    "Special Education",
+    "Classroom Management",
+    "Student Assessment",
+    "Zoom/Teams"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Job Opening Teacher at British Council India",
+    "description": "Join the British Council India family as a Teacher in Noida. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout British Council India:\nBritish Council India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Conduct doubt-clearing sessions and remedial classes for weak students\n• Participate in teacher training and professional development programs\n• Coordinate with academic counselors for student career guidance\n• Develop and deliver engaging lesson plans for students\n• Maintain student records and prepare progress reports\n• Utilize technology and digital tools to enhance learning outcomes\n• Conduct parent-teacher meetings and update parents on student performance\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 3-6 years of relevant experience\n• Proficiency in MS Office\n• Proficiency in Communication Skills\n• Proficiency in Pedagogy\n• Proficiency in Bloom's Taxonomy\n• Proficiency in Special Education\n• Proficiency in Classroom Management\n• Proficiency in Student Assessment\n• Proficiency in Zoom/Teams\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Mobile and internet reimbursement\n• Modern office with recreational facilities\n• International travel opportunities for senior roles\n• Annual performance appraisal\n• Professional development and training programs\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Noida, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with British Council India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "British Council India",
+      "value": "556-0-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "British Council India",
+      "sameAs": "https://www.google.com/search?q=British%20Council%20India",
+      "logo": "https://logo.clearbit.com/britishcouncilindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "British Council India Office",
+        "addressLocality": "Noida",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "MS Office, Communication Skills, Pedagogy, Bloom's Taxonomy, Special Education, Classroom Management, Student Assessment, Zoom/Teams",
+    "responsibilities": "Conduct doubt-clearing sessions and remedial classes for weak students. Participate in teacher training and professional development programs. Coordinate with academic counselors for student career guidance. Develop and deliver engaging lesson plans for students. Maintain student records and prepare progress reports. Utilize technology and digital tools to enhance learning outcomes. Conduct parent-teacher meetings and update parents on student performance",
+    "benefits": "Provident Fund and Gratuity as per company policy. Mobile and internet reimbursement. Modern office with recreational facilities. International travel opportunities for senior roles. Annual performance appraisal. Professional development and training programs",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Mobile and internet reimbursement, Modern office with recreational facilities, International travel opportunities for senior roles, Annual performance appraisal, Professional development and training programs"
+  },
+  "meta": {
+    "description": "Join the British Council India family as a Teacher in Noida. We believe in empowering our employees with the tools, training, and environment they need to succe",
+    "keywords": "Teacher, British Council India, jobs in Noida, Uttar Pradesh jobs, education jobs India, MS Office, Communication Skills, Pedagogy, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:57:51.238Z",
+  "page": 138
+}
