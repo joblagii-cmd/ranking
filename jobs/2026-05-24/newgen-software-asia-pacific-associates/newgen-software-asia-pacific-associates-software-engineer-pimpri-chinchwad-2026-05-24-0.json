@@ -1,0 +1,93 @@
+{
+  "slug": "newgen-software-asia-pacific-associates-software-engineer-pimpri-chinchwad-2026-05-24-0",
+  "title": "Now Hiring Software Engineer at Newgen Software Asia Pacific Associates",
+  "company": "Newgen Software Asia Pacific Associates",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Pimpri-Chinchwad",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Rust",
+    "TypeScript",
+    "Docker",
+    "Node.js",
+    "React",
+    "Git",
+    "Java",
+    "Machine Learning"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Now Hiring Software Engineer at Newgen Software Asia Pacific Associates",
+    "description": "Are you a skilled Software Engineer looking for your next big career move? Newgen Software Asia Pacific Associates in Pimpri-Chinchwad offers you the perfect platform to grow professionally and personally.\n\nAbout Newgen Software Asia Pacific Associates:\nNewgen Software Asia Pacific Associates is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Integrate third-party APIs and services\n• Implement new features based on product requirements\n• Design, develop and maintain scalable software applications\n• Write clean, maintainable, and well-documented code\n• Ensure code security and follow best practices for data protection\n• Participate in code reviews and contribute to technical discussions\n• Mentor junior developers and conduct knowledge-sharing sessions\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 12-20 years of relevant experience\n• Proficiency in Rust\n• Proficiency in TypeScript\n• Proficiency in Docker\n• Proficiency in Node.js\n• Proficiency in React\n• Proficiency in Git\n• Proficiency in Java\n• Proficiency in Machine Learning\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Maternity and paternity leave\n• Flexible working hours\n• Annual performance appraisal\n• Annual paid leaves and casual leaves\n• Company-sponsored certifications\n• Learning & development budget\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Pimpri-Chinchwad, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Newgen Software Asia Pacific Associates!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Newgen Software Asia Pacific Associates",
+      "value": "2839-0-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Newgen Software Asia Pacific Associates",
+      "sameAs": "https://www.google.com/search?q=Newgen%20Software%20Asia%20Pacific%20Associates",
+      "logo": "https://logo.clearbit.com/newgensoftwareasiapacificassociates.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Newgen Software Asia Pacific Associates Office",
+        "addressLocality": "Pimpri-Chinchwad",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "Rust, TypeScript, Docker, Node.js, React, Git, Java, Machine Learning",
+    "responsibilities": "Integrate third-party APIs and services. Implement new features based on product requirements. Design, develop and maintain scalable software applications. Write clean, maintainable, and well-documented code. Ensure code security and follow best practices for data protection. Participate in code reviews and contribute to technical discussions. Mentor junior developers and conduct knowledge-sharing sessions",
+    "benefits": "Maternity and paternity leave. Flexible working hours. Annual performance appraisal. Annual paid leaves and casual leaves. Company-sponsored certifications. Learning & development budget",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Maternity and paternity leave, Flexible working hours, Annual performance appraisal, Annual paid leaves and casual leaves, Company-sponsored certifications, Learning & development budget"
+  },
+  "meta": {
+    "description": "Are you a skilled Software Engineer looking for your next big career move? Newgen Software Asia Pacific Associates in Pimpri-Chinchwad offers you the perfect pl",
+    "keywords": "Software Engineer, Newgen Software Asia Pacific Associates, jobs in Pimpri-Chinchwad, Maharashtra jobs, technology jobs India, Rust, TypeScript, Docker, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T11:59:27.922Z",
+  "page": 719
+}

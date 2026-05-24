@@ -1,0 +1,94 @@
+{
+  "slug": "newgen-software-asia-pacific-associates-frontend-developer-vadodara-2026-05-24-4",
+  "title": "Principal Frontend Developer at Newgen Software Asia Pacific Associates",
+  "company": "Newgen Software Asia Pacific Associates",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Kubernetes",
+    "Docker",
+    "Python",
+    "CI/CD",
+    "Git",
+    "JavaScript",
+    "REST APIs",
+    "SQL"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Principal Frontend Developer at Newgen Software Asia Pacific Associates",
+    "description": "Are you a skilled Frontend Developer looking for your next big career move? Newgen Software Asia Pacific Associates in Vadodara offers you the perfect platform to grow professionally and personally.\n\nAbout Newgen Software Asia Pacific Associates:\nNewgen Software Asia Pacific Associates is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in on-call rotation for production support\n• Optimize application performance and ensure high availability\n• Integrate third-party APIs and services\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Ensure code security and follow best practices for data protection\n• Implement new features based on product requirements\n• Write and execute unit tests and integration tests\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 0-1 years of relevant experience\n• Proficiency in Kubernetes\n• Proficiency in Docker\n• Proficiency in Python\n• Proficiency in CI/CD\n• Proficiency in Git\n• Proficiency in JavaScript\n• Proficiency in REST APIs\n• Proficiency in SQL\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Life and accident insurance\n• Annual performance appraisal\n• Modern office with recreational facilities\n• Referral bonus program\n• Comprehensive health insurance for self and family\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Vadodara, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Newgen Software Asia Pacific Associates!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Newgen Software Asia Pacific Associates",
+      "value": "2839-4-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Newgen Software Asia Pacific Associates",
+      "sameAs": "https://www.google.com/search?q=Newgen%20Software%20Asia%20Pacific%20Associates",
+      "logo": "https://logo.clearbit.com/newgensoftwareasiapacificassociates.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Newgen Software Asia Pacific Associates Office",
+        "addressLocality": "Vadodara",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "Kubernetes, Docker, Python, CI/CD, Git, JavaScript, REST APIs, SQL",
+    "responsibilities": "Participate in on-call rotation for production support. Optimize application performance and ensure high availability. Integrate third-party APIs and services. Troubleshoot, debug, and resolve software defects and performance issues. Ensure code security and follow best practices for data protection. Implement new features based on product requirements. Write and execute unit tests and integration tests",
+    "benefits": "Competitive salary with performance-linked incentives. Life and accident insurance. Annual performance appraisal. Modern office with recreational facilities. Referral bonus program. Comprehensive health insurance for self and family",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Life and accident insurance, Annual performance appraisal, Modern office with recreational facilities, Referral bonus program, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "Are you a skilled Frontend Developer looking for your next big career move? Newgen Software Asia Pacific Associates in Vadodara offers you the perfect platform ",
+    "keywords": "Frontend Developer, Newgen Software Asia Pacific Associates, jobs in Vadodara, Gujarat jobs, technology jobs India, Kubernetes, Docker, Python, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T11:59:27.923Z",
+  "page": 719
+}

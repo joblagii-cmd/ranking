@@ -1,0 +1,94 @@
+{
+  "slug": "nucleus-software-international-enterprises-backend-developer-patna-2026-05-24-3",
+  "title": "Backend Developer Vacancy at Nucleus Software International Enterprises - 2026 Batch",
+  "company": "Nucleus Software International Enterprises",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Patna",
+    "state": "Bihar",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Microservices",
+    "Rust",
+    "Git",
+    "Machine Learning",
+    "TensorFlow",
+    "Java",
+    "AWS",
+    "SQL"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Nucleus Software International Enterprises - 2026 Batch",
+    "description": "Are you a skilled Backend Developer looking for your next big career move? Nucleus Software International Enterprises in Patna offers you the perfect platform to grow professionally and personally.\n\nAbout Nucleus Software International Enterprises:\nNucleus Software International Enterprises is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in on-call rotation for production support\n• Design, develop and maintain scalable software applications\n• Write and execute unit tests and integration tests\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in code reviews and contribute to technical discussions\n• Work with agile methodologies including daily stand-ups and sprint planning\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 3-6 years of relevant experience\n• Proficiency in Microservices\n• Proficiency in Rust\n• Proficiency in Git\n• Proficiency in Machine Learning\n• Proficiency in TensorFlow\n• Proficiency in Java\n• Proficiency in AWS\n• Proficiency in SQL\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Flexible working hours\n• Recognition and rewards programs\n• Transportation and conveyance allowance\n• Life and accident insurance\n• Work-from-home flexibility\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Patna, Bihar, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Nucleus Software International Enterprises!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Nucleus Software International Enterprises",
+      "value": "2838-3-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Nucleus Software International Enterprises",
+      "sameAs": "https://www.google.com/search?q=Nucleus%20Software%20International%20Enterprises",
+      "logo": "https://logo.clearbit.com/nucleussoftwareinternationalenterprises.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Nucleus Software International Enterprises Office",
+        "addressLocality": "Patna",
+        "addressRegion": "Bihar",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "Microservices, Rust, Git, Machine Learning, TensorFlow, Java, AWS, SQL",
+    "responsibilities": "Participate in on-call rotation for production support. Design, develop and maintain scalable software applications. Write and execute unit tests and integration tests. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Collaborate with cross-functional teams including product, design, and QA. Participate in code reviews and contribute to technical discussions. Work with agile methodologies including daily stand-ups and sprint planning",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Flexible working hours. Recognition and rewards programs. Transportation and conveyance allowance. Life and accident insurance. Work-from-home flexibility",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Flexible working hours, Recognition and rewards programs, Transportation and conveyance allowance, Life and accident insurance, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "Are you a skilled Backend Developer looking for your next big career move? Nucleus Software International Enterprises in Patna offers you the perfect platform t",
+    "keywords": "Backend Developer, Nucleus Software International Enterprises, jobs in Patna, Bihar jobs, technology jobs India, Microservices, Rust, Git, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T11:59:27.922Z",
+  "page": 719
+}
