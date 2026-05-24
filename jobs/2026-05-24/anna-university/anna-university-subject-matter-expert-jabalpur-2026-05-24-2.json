@@ -1,0 +1,94 @@
+{
+  "slug": "anna-university-subject-matter-expert-jabalpur-2026-05-24-2",
+  "title": "Anna University is Hiring: Subject Matter Expert (Lead)",
+  "company": "Anna University",
+  "industry": "education",
+  "role": "Subject Matter Expert",
+  "location": {
+    "city": "Jabalpur",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Communication Skills",
+    "MS Office",
+    "E-learning",
+    "Data Analysis",
+    "LMS Platforms",
+    "Pedagogy",
+    "Child Psychology",
+    "Special Education"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Anna University is Hiring: Subject Matter Expert (Lead)",
+    "description": "An exciting career opportunity awaits you at Anna University. We are on the lookout for a dedicated Subject Matter Expert to strengthen our Jabalpur-based team.\n\nAbout Anna University:\nAnna University is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Monitor student progress and provide timely feedback\n• Create curriculum-aligned learning materials and assessments\n• Maintain student records and prepare progress reports\n• Maintain classroom discipline and create a positive learning environment\n• Collaborate with faculty on curriculum development initiatives\n• Develop and deliver engaging lesson plans for students\n• Participate in school events, workshops, and training programs\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 0-1 years of relevant experience\n• Proficiency in Communication Skills\n• Proficiency in MS Office\n• Proficiency in E-learning\n• Proficiency in Data Analysis\n• Proficiency in LMS Platforms\n• Proficiency in Pedagogy\n• Proficiency in Child Psychology\n• Proficiency in Special Education\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Competitive salary with performance-linked incentives\n• Learning & development budget\n• Life and accident insurance\n• Maternity and paternity leave\n• International travel opportunities for senior roles\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Jabalpur, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Anna University!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Anna University",
+      "value": "540-2-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Anna University",
+      "sameAs": "https://www.google.com/search?q=Anna%20University",
+      "logo": "https://logo.clearbit.com/annauniversity.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Anna University Office",
+        "addressLocality": "Jabalpur",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "Communication Skills, MS Office, E-learning, Data Analysis, LMS Platforms, Pedagogy, Child Psychology, Special Education",
+    "responsibilities": "Monitor student progress and provide timely feedback. Create curriculum-aligned learning materials and assessments. Maintain student records and prepare progress reports. Maintain classroom discipline and create a positive learning environment. Collaborate with faculty on curriculum development initiatives. Develop and deliver engaging lesson plans for students. Participate in school events, workshops, and training programs",
+    "benefits": "Transportation and conveyance allowance. Competitive salary with performance-linked incentives. Learning & development budget. Life and accident insurance. Maternity and paternity leave. International travel opportunities for senior roles",
+    "industry": "education",
+    "occupationalCategory": "Subject Matter Expert",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Competitive salary with performance-linked incentives, Learning & development budget, Life and accident insurance, Maternity and paternity leave, International travel opportunities for senior roles"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Anna University. We are on the lookout for a dedicated Subject Matter Expert to strengthen our Jabalpur-based team.",
+    "keywords": "Subject Matter Expert, Anna University, jobs in Jabalpur, Madhya Pradesh jobs, education jobs India, Communication Skills, MS Office, E-learning, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:57:22.604Z",
+  "page": 134
+}
