@@ -1,0 +1,93 @@
+{
+  "slug": "aif-senior-teacher-jaipur-2026-05-24-1",
+  "title": "Senior Teacher - AIF - Work From Home Available",
+  "company": "AIF",
+  "industry": "education",
+  "role": "Senior Teacher",
+  "location": {
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Data Analysis",
+    "Content Creation",
+    "IB Curriculum",
+    "Research Skills",
+    "E-learning",
+    "Zoom/Teams",
+    "Communication Skills",
+    "Lesson Planning"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Teacher - AIF - Work From Home Available",
+    "description": "AIF invites applications from qualified candidates for the position of Senior Teacher at our Jaipur location. This role offers excellent career advancement prospects.\n\nAbout AIF:\nAIF is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with academic counselors for student career guidance\n• Participate in school events, workshops, and training programs\n• Support students with special educational needs\n• Conduct doubt-clearing sessions and remedial classes for weak students\n• Maintain classroom discipline and create a positive learning environment\n• Design formative and summative assessments aligned to learning objectives\n• Collaborate with faculty on curriculum development initiatives\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 10-15 years of relevant experience\n• Proficiency in Data Analysis\n• Proficiency in Content Creation\n• Proficiency in IB Curriculum\n• Proficiency in Research Skills\n• Proficiency in E-learning\n• Proficiency in Zoom/Teams\n• Proficiency in Communication Skills\n• Proficiency in Lesson Planning\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Professional development and training programs\n• Annual paid leaves and casual leaves\n• Flexible working hours\n• Maternity and paternity leave\n• Modern office with recreational facilities\n• Annual performance appraisal\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Jaipur, Rajasthan, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with AIF!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "AIF",
+      "value": "575-1-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "AIF",
+      "sameAs": "https://www.google.com/search?q=AIF",
+      "logo": "https://logo.clearbit.com/aif.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "AIF Office",
+        "addressLocality": "Jaipur",
+        "addressRegion": "Rajasthan",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "Data Analysis, Content Creation, IB Curriculum, Research Skills, E-learning, Zoom/Teams, Communication Skills, Lesson Planning",
+    "responsibilities": "Coordinate with academic counselors for student career guidance. Participate in school events, workshops, and training programs. Support students with special educational needs. Conduct doubt-clearing sessions and remedial classes for weak students. Maintain classroom discipline and create a positive learning environment. Design formative and summative assessments aligned to learning objectives. Collaborate with faculty on curriculum development initiatives",
+    "benefits": "Professional development and training programs. Annual paid leaves and casual leaves. Flexible working hours. Maternity and paternity leave. Modern office with recreational facilities. Annual performance appraisal",
+    "industry": "education",
+    "occupationalCategory": "Senior Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Annual paid leaves and casual leaves, Flexible working hours, Maternity and paternity leave, Modern office with recreational facilities, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "AIF invites applications from qualified candidates for the position of Senior Teacher at our Jaipur location. This role offers excellent career advancement pros",
+    "keywords": "Senior Teacher, AIF, jobs in Jaipur, Rajasthan jobs, education jobs India, Data Analysis, Content Creation, IB Curriculum, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:58:27.569Z",
+  "page": 143
+}

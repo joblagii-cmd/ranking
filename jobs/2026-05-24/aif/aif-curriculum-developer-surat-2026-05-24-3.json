@@ -1,0 +1,93 @@
+{
+  "slug": "aif-curriculum-developer-surat-2026-05-24-3",
+  "title": "Curriculum Developer Vacancy at AIF - 2026 Batch",
+  "company": "AIF",
+  "industry": "education",
+  "role": "Curriculum Developer",
+  "location": {
+    "city": "Surat",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Educational Technology",
+    "Special Education",
+    "Data Analysis",
+    "Curriculum Development",
+    "CBSE/ICSE Standards",
+    "Student Assessment",
+    "Pedagogy",
+    "IB Curriculum"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Curriculum Developer Vacancy at AIF - 2026 Batch",
+    "description": "AIF invites applications from qualified candidates for the position of Curriculum Developer at our Surat location. This role offers excellent career advancement prospects.\n\nAbout AIF:\nAIF is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Develop and deliver engaging lesson plans for students\n• Maintain classroom discipline and create a positive learning environment\n• Support students with special educational needs\n• Create curriculum-aligned learning materials and assessments\n• Monitor student progress and provide timely feedback\n• Contribute to school newsletter, blogs, and other publications\n• Conduct parent-teacher meetings and update parents on student performance\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 1-3 years of relevant experience\n• Proficiency in Educational Technology\n• Proficiency in Special Education\n• Proficiency in Data Analysis\n• Proficiency in Curriculum Development\n• Proficiency in CBSE/ICSE Standards\n• Proficiency in Student Assessment\n• Proficiency in Pedagogy\n• Proficiency in IB Curriculum\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Recognition and rewards programs\n• Referral bonus program\n• Company-sponsored certifications\n• International travel opportunities for senior roles\n• Maternity and paternity leave\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Surat, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with AIF!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "AIF",
+      "value": "575-3-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "AIF",
+      "sameAs": "https://www.google.com/search?q=AIF",
+      "logo": "https://logo.clearbit.com/aif.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "AIF Office",
+        "addressLocality": "Surat",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Educational Technology, Special Education, Data Analysis, Curriculum Development, CBSE/ICSE Standards, Student Assessment, Pedagogy, IB Curriculum",
+    "responsibilities": "Develop and deliver engaging lesson plans for students. Maintain classroom discipline and create a positive learning environment. Support students with special educational needs. Create curriculum-aligned learning materials and assessments. Monitor student progress and provide timely feedback. Contribute to school newsletter, blogs, and other publications. Conduct parent-teacher meetings and update parents on student performance",
+    "benefits": "Work-from-home flexibility. Recognition and rewards programs. Referral bonus program. Company-sponsored certifications. International travel opportunities for senior roles. Maternity and paternity leave",
+    "industry": "education",
+    "occupationalCategory": "Curriculum Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Recognition and rewards programs, Referral bonus program, Company-sponsored certifications, International travel opportunities for senior roles, Maternity and paternity leave"
+  },
+  "meta": {
+    "description": "AIF invites applications from qualified candidates for the position of Curriculum Developer at our Surat location. This role offers excellent career advancement",
+    "keywords": "Curriculum Developer, AIF, jobs in Surat, Gujarat jobs, education jobs India, Educational Technology, Special Education, Data Analysis, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:58:27.569Z",
+  "page": 143
+}
