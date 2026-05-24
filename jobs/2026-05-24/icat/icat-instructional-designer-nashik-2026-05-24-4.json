@@ -1,0 +1,94 @@
+{
+  "slug": "icat-instructional-designer-nashik-2026-05-24-4",
+  "title": "Lead Instructional Designer at ICAT",
+  "company": "ICAT",
+  "industry": "education",
+  "role": "Instructional Designer",
+  "location": {
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Curriculum Development",
+    "Communication Skills",
+    "Student Assessment",
+    "Data Analysis",
+    "MS Office",
+    "Lesson Planning",
+    "Educational Technology",
+    "Bloom's Taxonomy"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Lead Instructional Designer at ICAT",
+    "description": "ICAT, one of India's leading organizations, is hiring a Instructional Designer for our Nashik operations. We offer a competitive salary package along with world-class benefits.\n\nAbout ICAT:\nICAT is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Conduct doubt-clearing sessions and remedial classes for weak students\n• Conduct parent-teacher meetings and update parents on student performance\n• Design formative and summative assessments aligned to learning objectives\n• Maintain student records and prepare progress reports\n• Coordinate with academic counselors for student career guidance\n• Maintain classroom discipline and create a positive learning environment\n• Participate in teacher training and professional development programs\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 3-6 years of relevant experience\n• Proficiency in Curriculum Development\n• Proficiency in Communication Skills\n• Proficiency in Student Assessment\n• Proficiency in Data Analysis\n• Proficiency in MS Office\n• Proficiency in Lesson Planning\n• Proficiency in Educational Technology\n• Proficiency in Bloom's Taxonomy\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Maternity and paternity leave\n• Annual paid leaves and casual leaves\n• Flexible working hours\n• Recognition and rewards programs\n• Work-from-home flexibility\n• Mobile and internet reimbursement\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Nashik, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with ICAT!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "ICAT",
+      "value": "515-4-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "ICAT",
+      "sameAs": "https://www.google.com/search?q=ICAT",
+      "logo": "https://logo.clearbit.com/icat.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "ICAT Office",
+        "addressLocality": "Nashik",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "Curriculum Development, Communication Skills, Student Assessment, Data Analysis, MS Office, Lesson Planning, Educational Technology, Bloom's Taxonomy",
+    "responsibilities": "Conduct doubt-clearing sessions and remedial classes for weak students. Conduct parent-teacher meetings and update parents on student performance. Design formative and summative assessments aligned to learning objectives. Maintain student records and prepare progress reports. Coordinate with academic counselors for student career guidance. Maintain classroom discipline and create a positive learning environment. Participate in teacher training and professional development programs",
+    "benefits": "Maternity and paternity leave. Annual paid leaves and casual leaves. Flexible working hours. Recognition and rewards programs. Work-from-home flexibility. Mobile and internet reimbursement",
+    "industry": "education",
+    "occupationalCategory": "Instructional Designer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Maternity and paternity leave, Annual paid leaves and casual leaves, Flexible working hours, Recognition and rewards programs, Work-from-home flexibility, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "ICAT, one of India's leading organizations, is hiring a Instructional Designer for our Nashik operations. We offer a competitive salary package along with world",
+    "keywords": "Instructional Designer, ICAT, jobs in Nashik, Maharashtra jobs, education jobs India, Curriculum Development, Communication Skills, Student Assessment, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:56:37.925Z",
+  "page": 128
+}
