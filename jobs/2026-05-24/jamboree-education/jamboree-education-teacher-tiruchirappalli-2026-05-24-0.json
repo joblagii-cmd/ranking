@@ -1,0 +1,94 @@
+{
+  "slug": "jamboree-education-teacher-tiruchirappalli-2026-05-24-0",
+  "title": "Job Opening Teacher at Jamboree Education",
+  "company": "Jamboree Education",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "IB Curriculum",
+    "MS Office",
+    "Pedagogy",
+    "Curriculum Development",
+    "Bloom's Taxonomy",
+    "Student Assessment",
+    "LMS Platforms",
+    "Data Analysis"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Job Opening Teacher at Jamboree Education",
+    "description": "Join the Jamboree Education family as a Teacher in Tiruchirappalli. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Jamboree Education:\nJamboree Education is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Maintain student records and prepare progress reports\n• Design formative and summative assessments aligned to learning objectives\n• Contribute to school newsletter, blogs, and other publications\n• Coordinate with academic counselors for student career guidance\n• Participate in school events, workshops, and training programs\n• Monitor student progress and provide timely feedback\n• Conduct parent-teacher meetings and update parents on student performance\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 12-20 years of relevant experience\n• Proficiency in IB Curriculum\n• Proficiency in MS Office\n• Proficiency in Pedagogy\n• Proficiency in Curriculum Development\n• Proficiency in Bloom's Taxonomy\n• Proficiency in Student Assessment\n• Proficiency in LMS Platforms\n• Proficiency in Data Analysis\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• Professional development and training programs\n• Annual performance appraisal\n• Annual paid leaves and casual leaves\n• Meal coupons and food allowance\n• Work-from-home flexibility\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Tiruchirappalli, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Jamboree Education!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Jamboree Education",
+      "value": "559-0-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Jamboree Education",
+      "sameAs": "https://www.google.com/search?q=Jamboree%20Education",
+      "logo": "https://logo.clearbit.com/jamboreeeducation.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Jamboree Education Office",
+        "addressLocality": "Tiruchirappalli",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "IB Curriculum, MS Office, Pedagogy, Curriculum Development, Bloom's Taxonomy, Student Assessment, LMS Platforms, Data Analysis",
+    "responsibilities": "Maintain student records and prepare progress reports. Design formative and summative assessments aligned to learning objectives. Contribute to school newsletter, blogs, and other publications. Coordinate with academic counselors for student career guidance. Participate in school events, workshops, and training programs. Monitor student progress and provide timely feedback. Conduct parent-teacher meetings and update parents on student performance",
+    "benefits": "Comprehensive health insurance for self and family. Professional development and training programs. Annual performance appraisal. Annual paid leaves and casual leaves. Meal coupons and food allowance. Work-from-home flexibility",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, Professional development and training programs, Annual performance appraisal, Annual paid leaves and casual leaves, Meal coupons and food allowance, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "Join the Jamboree Education family as a Teacher in Tiruchirappalli. We believe in empowering our employees with the tools, training, and environment they need t",
+    "keywords": "Teacher, Jamboree Education, jobs in Tiruchirappalli, Tamil Nadu jobs, education jobs India, IB Curriculum, MS Office, Pedagogy, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:57:58.383Z",
+  "page": 139
+}

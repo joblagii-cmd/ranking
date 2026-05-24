@@ -1,0 +1,93 @@
+{
+  "slug": "idp-education-india-teacher-mysuru-2026-05-24-0",
+  "title": "Job Opening Teacher at IDP Education India",
+  "company": "IDP Education India",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Educational Technology",
+    "Bloom's Taxonomy",
+    "Student Assessment",
+    "Content Creation",
+    "Data Analysis",
+    "Communication Skills",
+    "Child Psychology",
+    "Pedagogy"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Job Opening Teacher at IDP Education India",
+    "description": "Join the IDP Education India family as a Teacher in Mysuru. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout IDP Education India:\nIDP Education India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in school events, workshops, and training programs\n• Develop and deliver engaging lesson plans for students\n• Participate in teacher training and professional development programs\n• Create curriculum-aligned learning materials and assessments\n• Design formative and summative assessments aligned to learning objectives\n• Contribute to school newsletter, blogs, and other publications\n• Monitor student progress and provide timely feedback\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 0-1 years of relevant experience\n• Proficiency in Educational Technology\n• Proficiency in Bloom's Taxonomy\n• Proficiency in Student Assessment\n• Proficiency in Content Creation\n• Proficiency in Data Analysis\n• Proficiency in Communication Skills\n• Proficiency in Child Psychology\n• Proficiency in Pedagogy\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Life and accident insurance\n• International travel opportunities for senior roles\n• Mobile and internet reimbursement\n• Modern office with recreational facilities\n• Professional development and training programs\n• Recognition and rewards programs\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Mysuru, Karnataka, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with IDP Education India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "IDP Education India",
+      "value": "558-0-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "IDP Education India",
+      "sameAs": "https://www.google.com/search?q=IDP%20Education%20India",
+      "logo": "https://logo.clearbit.com/idpeducationindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "IDP Education India Office",
+        "addressLocality": "Mysuru",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "Educational Technology, Bloom's Taxonomy, Student Assessment, Content Creation, Data Analysis, Communication Skills, Child Psychology, Pedagogy",
+    "responsibilities": "Participate in school events, workshops, and training programs. Develop and deliver engaging lesson plans for students. Participate in teacher training and professional development programs. Create curriculum-aligned learning materials and assessments. Design formative and summative assessments aligned to learning objectives. Contribute to school newsletter, blogs, and other publications. Monitor student progress and provide timely feedback",
+    "benefits": "Life and accident insurance. International travel opportunities for senior roles. Mobile and internet reimbursement. Modern office with recreational facilities. Professional development and training programs. Recognition and rewards programs",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, International travel opportunities for senior roles, Mobile and internet reimbursement, Modern office with recreational facilities, Professional development and training programs, Recognition and rewards programs"
+  },
+  "meta": {
+    "description": "Join the IDP Education India family as a Teacher in Mysuru. We believe in empowering our employees with the tools, training, and environment they need to succee",
+    "keywords": "Teacher, IDP Education India, jobs in Mysuru, Karnataka jobs, education jobs India, Educational Technology, Bloom's Taxonomy, Student Assessment, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:57:58.382Z",
+  "page": 139
+}
