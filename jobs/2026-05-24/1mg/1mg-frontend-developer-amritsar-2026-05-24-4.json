@@ -1,0 +1,94 @@
+{
+  "slug": "1mg-frontend-developer-amritsar-2026-05-24-4",
+  "title": "Senior Frontend Developer at 1mg",
+  "company": "1mg",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Amritsar",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Microservices",
+    "TypeScript",
+    "Git",
+    "JavaScript",
+    "Kubernetes",
+    "Docker",
+    "MongoDB",
+    "React"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Frontend Developer at 1mg",
+    "description": "1mg invites applications from qualified candidates for the position of Frontend Developer at our Amritsar location. This role offers excellent career advancement prospects.\n\nAbout 1mg:\n1mg is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure code security and follow best practices for data protection\n• Participate in code reviews and contribute to technical discussions\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Participate in on-call rotation for production support\n• Write clean, maintainable, and well-documented code\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Collaborate with cross-functional teams including product, design, and QA\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 0-1 years of relevant experience\n• Proficiency in Microservices\n• Proficiency in TypeScript\n• Proficiency in Git\n• Proficiency in JavaScript\n• Proficiency in Kubernetes\n• Proficiency in Docker\n• Proficiency in MongoDB\n• Proficiency in React\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• International travel opportunities for senior roles\n• Referral bonus program\n• Professional development and training programs\n• Company-sponsored certifications\n• Learning & development budget\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Amritsar, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with 1mg!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "1mg",
+      "value": "113-4-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "1mg",
+      "sameAs": "https://www.google.com/search?q=1mg",
+      "logo": "https://logo.clearbit.com/1mg.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1mg Office",
+        "addressLocality": "Amritsar",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "Microservices, TypeScript, Git, JavaScript, Kubernetes, Docker, MongoDB, React",
+    "responsibilities": "Ensure code security and follow best practices for data protection. Participate in code reviews and contribute to technical discussions. Work with agile methodologies including daily stand-ups and sprint planning. Participate in on-call rotation for production support. Write clean, maintainable, and well-documented code. Troubleshoot, debug, and resolve software defects and performance issues. Collaborate with cross-functional teams including product, design, and QA",
+    "benefits": "Annual paid leaves and casual leaves. International travel opportunities for senior roles. Referral bonus program. Professional development and training programs. Company-sponsored certifications. Learning & development budget",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, International travel opportunities for senior roles, Referral bonus program, Professional development and training programs, Company-sponsored certifications, Learning & development budget"
+  },
+  "meta": {
+    "description": "1mg invites applications from qualified candidates for the position of Frontend Developer at our Amritsar location. This role offers excellent career advancemen",
+    "keywords": "Frontend Developer, 1mg, jobs in Amritsar, Punjab jobs, technology jobs India, Microservices, TypeScript, Git, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:44:33.726Z",
+  "page": 28
+}

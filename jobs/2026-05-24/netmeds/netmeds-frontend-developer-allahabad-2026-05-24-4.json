@@ -1,0 +1,93 @@
+{
+  "slug": "netmeds-frontend-developer-allahabad-2026-05-24-4",
+  "title": "Senior Frontend Developer at Netmeds",
+  "company": "Netmeds",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Allahabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "SQL",
+    "JavaScript",
+    "MongoDB",
+    "AWS",
+    "Go",
+    "Python",
+    "TensorFlow",
+    "Agile/Scrum"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Frontend Developer at Netmeds",
+    "description": "Netmeds invites applications from qualified candidates for the position of Frontend Developer at our Allahabad location. This role offers excellent career advancement prospects.\n\nAbout Netmeds:\nNetmeds is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Ensure code security and follow best practices for data protection\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Participate in code reviews and contribute to technical discussions\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in on-call rotation for production support\n• Write clean, maintainable, and well-documented code\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 10-15 years of relevant experience\n• Proficiency in SQL\n• Proficiency in JavaScript\n• Proficiency in MongoDB\n• Proficiency in AWS\n• Proficiency in Go\n• Proficiency in Python\n• Proficiency in TensorFlow\n• Proficiency in Agile/Scrum\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Learning & development budget\n• Work-from-home flexibility\n• Competitive salary with performance-linked incentives\n• Transportation and conveyance allowance\n• Mobile and internet reimbursement\n• Meal coupons and food allowance\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Allahabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Netmeds!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Netmeds",
+      "value": "115-4-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Netmeds",
+      "sameAs": "https://www.google.com/search?q=Netmeds",
+      "logo": "https://logo.clearbit.com/netmeds.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Netmeds Office",
+        "addressLocality": "Allahabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "SQL, JavaScript, MongoDB, AWS, Go, Python, TensorFlow, Agile/Scrum",
+    "responsibilities": "Mentor junior developers and conduct knowledge-sharing sessions. Ensure code security and follow best practices for data protection. Work with agile methodologies including daily stand-ups and sprint planning. Participate in code reviews and contribute to technical discussions. Collaborate with cross-functional teams including product, design, and QA. Participate in on-call rotation for production support. Write clean, maintainable, and well-documented code",
+    "benefits": "Learning & development budget. Work-from-home flexibility. Competitive salary with performance-linked incentives. Transportation and conveyance allowance. Mobile and internet reimbursement. Meal coupons and food allowance",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Learning & development budget, Work-from-home flexibility, Competitive salary with performance-linked incentives, Transportation and conveyance allowance, Mobile and internet reimbursement, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "Netmeds invites applications from qualified candidates for the position of Frontend Developer at our Allahabad location. This role offers excellent career advan",
+    "keywords": "Frontend Developer, Netmeds, jobs in Allahabad, Uttar Pradesh jobs, technology jobs India, SQL, JavaScript, MongoDB, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:44:33.726Z",
+  "page": 28
+}
