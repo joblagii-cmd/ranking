@@ -1,0 +1,93 @@
+{
+  "slug": "federal-bank-credit-analyst-noida-2026-05-24-2",
+  "title": "Federal Bank is Hiring: Credit Analyst (Senior)",
+  "company": "Federal Bank",
+  "industry": "finance",
+  "role": "Credit Analyst",
+  "location": {
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "SQL",
+    "Risk Management",
+    "Power BI",
+    "VBA",
+    "Financial Modeling",
+    "Credit Analysis",
+    "Due Diligence",
+    "MS Excel"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Federal Bank is Hiring: Credit Analyst (Senior)",
+    "description": "Grow your career with Federal Bank! We are hiring a Credit Analyst for our Noida team. Be part of a workplace that celebrates innovation, diversity, and performance.\n\nAbout Federal Bank:\nFederal Bank is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Develop financial models and projections for business planning\n• Manage credit risk assessment and loan appraisal processes\n• Maintain general ledger and ensure accurate bookkeeping\n• Prepare MIS reports for senior management review\n• Ensure compliance with tax regulations and statutory requirements\n• Manage accounts payable and accounts receivable functions\n• Liaise with banks, regulators, and financial institutions\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 10-15 years of relevant experience\n• Proficiency in SQL\n• Proficiency in Risk Management\n• Proficiency in Power BI\n• Proficiency in VBA\n• Proficiency in Financial Modeling\n• Proficiency in Credit Analysis\n• Proficiency in Due Diligence\n• Proficiency in MS Excel\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Flexible working hours\n• Annual paid leaves and casual leaves\n• Employee stock options (ESOPs) for eligible roles\n• Competitive salary with performance-linked incentives\n• Learning & development budget\n• Company-sponsored certifications\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Noida, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Federal Bank!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Federal Bank",
+      "value": "138-2-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Federal Bank",
+      "sameAs": "https://www.google.com/search?q=Federal%20Bank",
+      "logo": "https://logo.clearbit.com/federalbank.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Federal Bank Office",
+        "addressLocality": "Noida",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "SQL, Risk Management, Power BI, VBA, Financial Modeling, Credit Analysis, Due Diligence, MS Excel",
+    "responsibilities": "Develop financial models and projections for business planning. Manage credit risk assessment and loan appraisal processes. Maintain general ledger and ensure accurate bookkeeping. Prepare MIS reports for senior management review. Ensure compliance with tax regulations and statutory requirements. Manage accounts payable and accounts receivable functions. Liaise with banks, regulators, and financial institutions",
+    "benefits": "Flexible working hours. Annual paid leaves and casual leaves. Employee stock options (ESOPs) for eligible roles. Competitive salary with performance-linked incentives. Learning & development budget. Company-sponsored certifications",
+    "industry": "finance",
+    "occupationalCategory": "Credit Analyst",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, Annual paid leaves and casual leaves, Employee stock options (ESOPs) for eligible roles, Competitive salary with performance-linked incentives, Learning & development budget, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "Grow your career with Federal Bank! We are hiring a Credit Analyst for our Noida team. Be part of a workplace that celebrates innovation, diversity, and perform",
+    "keywords": "Credit Analyst, Federal Bank, jobs in Noida, Uttar Pradesh jobs, finance jobs India, SQL, Risk Management, Power BI, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:45:18.130Z",
+  "page": 34
+}
