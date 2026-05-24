@@ -1,0 +1,94 @@
+{
+  "slug": "astrazeneca-india-medical-officer-pune-2026-05-24-0",
+  "title": "Now Hiring Medical Officer at AstraZeneca India",
+  "company": "AstraZeneca India",
+  "industry": "healthcare",
+  "role": "Medical Officer",
+  "location": {
+    "city": "Pune",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "BLS/ACLS",
+    "EMR/EHR",
+    "Medical Terminology",
+    "Surgical Procedures",
+    "Health Informatics",
+    "Telemedicine",
+    "Medical Ethics",
+    "Clinical Documentation"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Now Hiring Medical Officer at AstraZeneca India",
+    "description": "AstraZeneca India has an exciting opening for a Medical Officer at our Pune office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout AstraZeneca India:\nAstraZeneca India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Provide high-quality patient care and maintain patient records\n• Conduct routine health assessments and screenings\n• Collaborate with pharmaceutical representatives and medical suppliers\n• Monitor patient progress and adjust treatment plans accordingly\n• Respond to medical emergencies and provide immediate care\n• Maintain accurate clinical documentation in electronic health records\n• Educate patients and families on health management and disease prevention\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 12-20 years of relevant experience\n• Proficiency in BLS/ACLS\n• Proficiency in EMR/EHR\n• Proficiency in Medical Terminology\n• Proficiency in Surgical Procedures\n• Proficiency in Health Informatics\n• Proficiency in Telemedicine\n• Proficiency in Medical Ethics\n• Proficiency in Clinical Documentation\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Meal coupons and food allowance\n• Comprehensive health insurance for self and family\n• Mobile and internet reimbursement\n• Employee stock options (ESOPs) for eligible roles\n• Life and accident insurance\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Pune, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with AstraZeneca India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "AstraZeneca India",
+      "value": "240-0-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "AstraZeneca India",
+      "sameAs": "https://www.google.com/search?q=AstraZeneca%20India",
+      "logo": "https://logo.clearbit.com/astrazenecaindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "AstraZeneca India Office",
+        "addressLocality": "Pune",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "BLS/ACLS, EMR/EHR, Medical Terminology, Surgical Procedures, Health Informatics, Telemedicine, Medical Ethics, Clinical Documentation",
+    "responsibilities": "Provide high-quality patient care and maintain patient records. Conduct routine health assessments and screenings. Collaborate with pharmaceutical representatives and medical suppliers. Monitor patient progress and adjust treatment plans accordingly. Respond to medical emergencies and provide immediate care. Maintain accurate clinical documentation in electronic health records. Educate patients and families on health management and disease prevention",
+    "benefits": "Provident Fund and Gratuity as per company policy. Meal coupons and food allowance. Comprehensive health insurance for self and family. Mobile and internet reimbursement. Employee stock options (ESOPs) for eligible roles. Life and accident insurance",
+    "industry": "healthcare",
+    "occupationalCategory": "Medical Officer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Meal coupons and food allowance, Comprehensive health insurance for self and family, Mobile and internet reimbursement, Employee stock options (ESOPs) for eligible roles, Life and accident insurance"
+  },
+  "meta": {
+    "description": "AstraZeneca India has an exciting opening for a Medical Officer at our Pune office. Join a company that values innovation, collaboration, and continuous learnin",
+    "keywords": "Medical Officer, AstraZeneca India, jobs in Pune, Maharashtra jobs, healthcare jobs India, BLS/ACLS, EMR/EHR, Medical Terminology, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:48:17.888Z",
+  "page": 59
+}

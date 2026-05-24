@@ -1,0 +1,93 @@
+{
+  "slug": "glaxosmithkline-india-surgeon-pune-2026-05-24-3",
+  "title": "Surgeon Vacancy at GlaxoSmithKline India - 2026 Batch",
+  "company": "GlaxoSmithKline India",
+  "industry": "healthcare",
+  "role": "Surgeon",
+  "location": {
+    "city": "Pune",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Infection Control",
+    "NABH Standards",
+    "HIPAA Compliance",
+    "Surgical Procedures",
+    "Clinical Documentation",
+    "Telemedicine",
+    "ICU Management",
+    "Patient Care"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Surgeon Vacancy at GlaxoSmithKline India - 2026 Batch",
+    "description": "GlaxoSmithKline India has an exciting opening for a Surgeon at our Pune office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout GlaxoSmithKline India:\nGlaxoSmithKline India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Conduct routine health assessments and screenings\n• Educate patients and families on health management and disease prevention\n• Ensure patient privacy and maintain confidentiality\n• Maintain sterile environments and follow infection control protocols\n• Respond to medical emergencies and provide immediate care\n• Monitor patient progress and adjust treatment plans accordingly\n• Maintain accurate clinical documentation in electronic health records\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 12-20 years of relevant experience\n• Proficiency in Infection Control\n• Proficiency in NABH Standards\n• Proficiency in HIPAA Compliance\n• Proficiency in Surgical Procedures\n• Proficiency in Clinical Documentation\n• Proficiency in Telemedicine\n• Proficiency in ICU Management\n• Proficiency in Patient Care\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Flexible working hours\n• Transportation and conveyance allowance\n• Mobile and internet reimbursement\n• Referral bonus program\n• Company-sponsored certifications\n• Annual paid leaves and casual leaves\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Pune, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with GlaxoSmithKline India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "GlaxoSmithKline India",
+      "value": "237-3-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "GlaxoSmithKline India",
+      "sameAs": "https://www.google.com/search?q=GlaxoSmithKline%20India",
+      "logo": "https://logo.clearbit.com/glaxosmithklineindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "GlaxoSmithKline India Office",
+        "addressLocality": "Pune",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "Infection Control, NABH Standards, HIPAA Compliance, Surgical Procedures, Clinical Documentation, Telemedicine, ICU Management, Patient Care",
+    "responsibilities": "Conduct routine health assessments and screenings. Educate patients and families on health management and disease prevention. Ensure patient privacy and maintain confidentiality. Maintain sterile environments and follow infection control protocols. Respond to medical emergencies and provide immediate care. Monitor patient progress and adjust treatment plans accordingly. Maintain accurate clinical documentation in electronic health records",
+    "benefits": "Flexible working hours. Transportation and conveyance allowance. Mobile and internet reimbursement. Referral bonus program. Company-sponsored certifications. Annual paid leaves and casual leaves",
+    "industry": "healthcare",
+    "occupationalCategory": "Surgeon",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, Transportation and conveyance allowance, Mobile and internet reimbursement, Referral bonus program, Company-sponsored certifications, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "GlaxoSmithKline India has an exciting opening for a Surgeon at our Pune office. Join a company that values innovation, collaboration, and continuous learning.",
+    "keywords": "Surgeon, GlaxoSmithKline India, jobs in Pune, Maharashtra jobs, healthcare jobs India, Infection Control, NABH Standards, HIPAA Compliance, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:48:17.887Z",
+  "page": 59
+}

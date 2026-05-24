@@ -1,0 +1,94 @@
+{
+  "slug": "glaxosmithkline-india-radiologist-pune-2026-05-24-4",
+  "title": "Principal Radiologist at GlaxoSmithKline India",
+  "company": "GlaxoSmithKline India",
+  "industry": "healthcare",
+  "role": "Radiologist",
+  "location": {
+    "city": "Pune",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "BLS/ACLS",
+    "Patient Care",
+    "Medical Terminology",
+    "Clinical Documentation",
+    "Clinical Research",
+    "NABH Standards",
+    "CPT Codes",
+    "Infection Control"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Principal Radiologist at GlaxoSmithKline India",
+    "description": "GlaxoSmithKline India has an exciting opening for a Radiologist at our Pune office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout GlaxoSmithKline India:\nGlaxoSmithKline India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Diagnose and treat medical conditions following established protocols\n• Monitor patient progress and adjust treatment plans accordingly\n• Maintain sterile environments and follow infection control protocols\n• Participate in quality improvement initiatives and clinical audits\n• Administer medications and treatments as prescribed\n• Respond to medical emergencies and provide immediate care\n• Adhere to NABH/JCI accreditation standards\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 10-15 years of relevant experience\n• Proficiency in BLS/ACLS\n• Proficiency in Patient Care\n• Proficiency in Medical Terminology\n• Proficiency in Clinical Documentation\n• Proficiency in Clinical Research\n• Proficiency in NABH Standards\n• Proficiency in CPT Codes\n• Proficiency in Infection Control\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Comprehensive health insurance for self and family\n• Company-sponsored certifications\n• Referral bonus program\n• Flexible working hours\n• Learning & development budget\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Pune, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with GlaxoSmithKline India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "GlaxoSmithKline India",
+      "value": "237-4-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "GlaxoSmithKline India",
+      "sameAs": "https://www.google.com/search?q=GlaxoSmithKline%20India",
+      "logo": "https://logo.clearbit.com/glaxosmithklineindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "GlaxoSmithKline India Office",
+        "addressLocality": "Pune",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "BLS/ACLS, Patient Care, Medical Terminology, Clinical Documentation, Clinical Research, NABH Standards, CPT Codes, Infection Control",
+    "responsibilities": "Diagnose and treat medical conditions following established protocols. Monitor patient progress and adjust treatment plans accordingly. Maintain sterile environments and follow infection control protocols. Participate in quality improvement initiatives and clinical audits. Administer medications and treatments as prescribed. Respond to medical emergencies and provide immediate care. Adhere to NABH/JCI accreditation standards",
+    "benefits": "Provident Fund and Gratuity as per company policy. Comprehensive health insurance for self and family. Company-sponsored certifications. Referral bonus program. Flexible working hours. Learning & development budget",
+    "industry": "healthcare",
+    "occupationalCategory": "Radiologist",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Comprehensive health insurance for self and family, Company-sponsored certifications, Referral bonus program, Flexible working hours, Learning & development budget"
+  },
+  "meta": {
+    "description": "GlaxoSmithKline India has an exciting opening for a Radiologist at our Pune office. Join a company that values innovation, collaboration, and continuous learnin",
+    "keywords": "Radiologist, GlaxoSmithKline India, jobs in Pune, Maharashtra jobs, healthcare jobs India, BLS/ACLS, Patient Care, Medical Terminology, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:48:17.887Z",
+  "page": 59
+}

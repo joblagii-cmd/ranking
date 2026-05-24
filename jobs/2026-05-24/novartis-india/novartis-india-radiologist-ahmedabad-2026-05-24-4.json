@@ -1,0 +1,93 @@
+{
+  "slug": "novartis-india-radiologist-ahmedabad-2026-05-24-4",
+  "title": "Principal Radiologist at Novartis India",
+  "company": "Novartis India",
+  "industry": "healthcare",
+  "role": "Radiologist",
+  "location": {
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Medical Coding",
+    "Infection Control",
+    "Patient Care",
+    "CPT Codes",
+    "Clinical Research",
+    "Telemedicine",
+    "NABH Standards",
+    "Diagnostic Skills"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Principal Radiologist at Novartis India",
+    "description": "Novartis India has an exciting opening for a Radiologist at our Ahmedabad office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Novartis India:\nNovartis India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Respond to medical emergencies and provide immediate care\n• Administer medications and treatments as prescribed\n• Attend continuing medical education programs and training\n• Collaborate with pharmaceutical representatives and medical suppliers\n• Educate patients and families on health management and disease prevention\n• Adhere to NABH/JCI accreditation standards\n• Maintain sterile environments and follow infection control protocols\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 6-10 years of relevant experience\n• Proficiency in Medical Coding\n• Proficiency in Infection Control\n• Proficiency in Patient Care\n• Proficiency in CPT Codes\n• Proficiency in Clinical Research\n• Proficiency in Telemedicine\n• Proficiency in NABH Standards\n• Proficiency in Diagnostic Skills\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Referral bonus program\n• Annual paid leaves and casual leaves\n• Mobile and internet reimbursement\n• Life and accident insurance\n• Annual performance appraisal\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Ahmedabad, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Novartis India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Novartis India",
+      "value": "238-4-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Novartis India",
+      "sameAs": "https://www.google.com/search?q=Novartis%20India",
+      "logo": "https://logo.clearbit.com/novartisindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Novartis India Office",
+        "addressLocality": "Ahmedabad",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "Medical Coding, Infection Control, Patient Care, CPT Codes, Clinical Research, Telemedicine, NABH Standards, Diagnostic Skills",
+    "responsibilities": "Respond to medical emergencies and provide immediate care. Administer medications and treatments as prescribed. Attend continuing medical education programs and training. Collaborate with pharmaceutical representatives and medical suppliers. Educate patients and families on health management and disease prevention. Adhere to NABH/JCI accreditation standards. Maintain sterile environments and follow infection control protocols",
+    "benefits": "Referral bonus program. Annual paid leaves and casual leaves. Mobile and internet reimbursement. Life and accident insurance. Annual performance appraisal. Provident Fund and Gratuity as per company policy",
+    "industry": "healthcare",
+    "occupationalCategory": "Radiologist",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Referral bonus program, Annual paid leaves and casual leaves, Mobile and internet reimbursement, Life and accident insurance, Annual performance appraisal, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "Novartis India has an exciting opening for a Radiologist at our Ahmedabad office. Join a company that values innovation, collaboration, and continuous learning.",
+    "keywords": "Radiologist, Novartis India, jobs in Ahmedabad, Gujarat jobs, healthcare jobs India, Medical Coding, Infection Control, Patient Care, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:48:17.887Z",
+  "page": 59
+}

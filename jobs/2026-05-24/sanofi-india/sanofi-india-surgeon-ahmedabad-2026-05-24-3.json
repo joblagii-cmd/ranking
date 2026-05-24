@@ -1,0 +1,93 @@
+{
+  "slug": "sanofi-india-surgeon-ahmedabad-2026-05-24-3",
+  "title": "Surgeon Vacancy at Sanofi India - 2026 Batch",
+  "company": "Sanofi India",
+  "industry": "healthcare",
+  "role": "Surgeon",
+  "location": {
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Diagnostic Skills",
+    "ICD-10",
+    "Medical Coding",
+    "Infection Control",
+    "Health Informatics",
+    "NABH Standards",
+    "EMR/EHR",
+    "Clinical Documentation"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Surgeon Vacancy at Sanofi India - 2026 Batch",
+    "description": "Sanofi India has an exciting opening for a Surgeon at our Ahmedabad office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Sanofi India:\nSanofi India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Respond to medical emergencies and provide immediate care\n• Attend continuing medical education programs and training\n• Collaborate with pharmaceutical representatives and medical suppliers\n• Conduct routine health assessments and screenings\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Administer medications and treatments as prescribed\n• Diagnose and treat medical conditions following established protocols\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 6-10 years of relevant experience\n• Proficiency in Diagnostic Skills\n• Proficiency in ICD-10\n• Proficiency in Medical Coding\n• Proficiency in Infection Control\n• Proficiency in Health Informatics\n• Proficiency in NABH Standards\n• Proficiency in EMR/EHR\n• Proficiency in Clinical Documentation\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Meal coupons and food allowance\n• International travel opportunities for senior roles\n• Employee stock options (ESOPs) for eligible roles\n• Work-from-home flexibility\n• Mobile and internet reimbursement\n• Comprehensive health insurance for self and family\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Ahmedabad, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Sanofi India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Sanofi India",
+      "value": "239-3-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Sanofi India",
+      "sameAs": "https://www.google.com/search?q=Sanofi%20India",
+      "logo": "https://logo.clearbit.com/sanofiindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Sanofi India Office",
+        "addressLocality": "Ahmedabad",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "Diagnostic Skills, ICD-10, Medical Coding, Infection Control, Health Informatics, NABH Standards, EMR/EHR, Clinical Documentation",
+    "responsibilities": "Respond to medical emergencies and provide immediate care. Attend continuing medical education programs and training. Collaborate with pharmaceutical representatives and medical suppliers. Conduct routine health assessments and screenings. Coordinate with multidisciplinary teams for comprehensive patient management. Administer medications and treatments as prescribed. Diagnose and treat medical conditions following established protocols",
+    "benefits": "Meal coupons and food allowance. International travel opportunities for senior roles. Employee stock options (ESOPs) for eligible roles. Work-from-home flexibility. Mobile and internet reimbursement. Comprehensive health insurance for self and family",
+    "industry": "healthcare",
+    "occupationalCategory": "Surgeon",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Meal coupons and food allowance, International travel opportunities for senior roles, Employee stock options (ESOPs) for eligible roles, Work-from-home flexibility, Mobile and internet reimbursement, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "Sanofi India has an exciting opening for a Surgeon at our Ahmedabad office. Join a company that values innovation, collaboration, and continuous learning.",
+    "keywords": "Surgeon, Sanofi India, jobs in Ahmedabad, Gujarat jobs, healthcare jobs India, Diagnostic Skills, ICD-10, Medical Coding, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:48:17.887Z",
+  "page": 59
+}
