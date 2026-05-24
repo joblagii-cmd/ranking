@@ -1,0 +1,93 @@
+{
+  "slug": "narayana-health-surgeon-gurgaon-2026-05-24-3",
+  "title": "Surgeon Vacancy at Narayana Health - 2026 Batch",
+  "company": "Narayana Health",
+  "industry": "healthcare",
+  "role": "Surgeon",
+  "location": {
+    "city": "Gurgaon",
+    "state": "Haryana",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "BLS/ACLS",
+    "EMR/EHR",
+    "Surgical Procedures",
+    "Medical Terminology",
+    "Telemedicine",
+    "ICU Management",
+    "Wound Care",
+    "Patient Care"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Surgeon Vacancy at Narayana Health - 2026 Batch",
+    "description": "Narayana Health has an exciting opening for a Surgeon at our Gurgaon office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Narayana Health:\nNarayana Health is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Educate patients and families on health management and disease prevention\n• Maintain sterile environments and follow infection control protocols\n• Maintain accurate clinical documentation in electronic health records\n• Adhere to NABH/JCI accreditation standards\n• Respond to medical emergencies and provide immediate care\n• Collaborate with pharmaceutical representatives and medical suppliers\n• Administer medications and treatments as prescribed\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 0-1 years of relevant experience\n• Proficiency in BLS/ACLS\n• Proficiency in EMR/EHR\n• Proficiency in Surgical Procedures\n• Proficiency in Medical Terminology\n• Proficiency in Telemedicine\n• Proficiency in ICU Management\n• Proficiency in Wound Care\n• Proficiency in Patient Care\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Modern office with recreational facilities\n• Referral bonus program\n• International travel opportunities for senior roles\n• Employee stock options (ESOPs) for eligible roles\n• Work-from-home flexibility\n• Annual performance appraisal\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Gurgaon, Haryana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Narayana Health!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Narayana Health",
+      "value": "220-3-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Narayana Health",
+      "sameAs": "https://www.google.com/search?q=Narayana%20Health",
+      "logo": "https://logo.clearbit.com/narayanahealth.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Narayana Health Office",
+        "addressLocality": "Gurgaon",
+        "addressRegion": "Haryana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "BLS/ACLS, EMR/EHR, Surgical Procedures, Medical Terminology, Telemedicine, ICU Management, Wound Care, Patient Care",
+    "responsibilities": "Educate patients and families on health management and disease prevention. Maintain sterile environments and follow infection control protocols. Maintain accurate clinical documentation in electronic health records. Adhere to NABH/JCI accreditation standards. Respond to medical emergencies and provide immediate care. Collaborate with pharmaceutical representatives and medical suppliers. Administer medications and treatments as prescribed",
+    "benefits": "Modern office with recreational facilities. Referral bonus program. International travel opportunities for senior roles. Employee stock options (ESOPs) for eligible roles. Work-from-home flexibility. Annual performance appraisal",
+    "industry": "healthcare",
+    "occupationalCategory": "Surgeon",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Modern office with recreational facilities, Referral bonus program, International travel opportunities for senior roles, Employee stock options (ESOPs) for eligible roles, Work-from-home flexibility, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "Narayana Health has an exciting opening for a Surgeon at our Gurgaon office. Join a company that values innovation, collaboration, and continuous learning.",
+    "keywords": "Surgeon, Narayana Health, jobs in Gurgaon, Haryana jobs, healthcare jobs India, BLS/ACLS, EMR/EHR, Surgical Procedures, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:47:43.241Z",
+  "page": 54
+}

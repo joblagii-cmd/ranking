@@ -1,0 +1,93 @@
+{
+  "slug": "manipal-hospitals-surgeon-gurgaon-2026-05-24-3",
+  "title": "Surgeon Vacancy at Manipal Hospitals - 2026 Batch",
+  "company": "Manipal Hospitals",
+  "industry": "healthcare",
+  "role": "Surgeon",
+  "location": {
+    "city": "Gurgaon",
+    "state": "Haryana",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Medical Coding",
+    "EMR/EHR",
+    "NABH Standards",
+    "BLS/ACLS",
+    "Infection Control",
+    "Medical Ethics",
+    "Pharmacovigilance",
+    "Medical Terminology"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Surgeon Vacancy at Manipal Hospitals - 2026 Batch",
+    "description": "Manipal Hospitals has an exciting opening for a Surgeon at our Gurgaon office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Manipal Hospitals:\nManipal Hospitals is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Respond to medical emergencies and provide immediate care\n• Diagnose and treat medical conditions following established protocols\n• Monitor patient progress and adjust treatment plans accordingly\n• Attend continuing medical education programs and training\n• Provide high-quality patient care and maintain patient records\n• Administer medications and treatments as prescribed\n• Coordinate with multidisciplinary teams for comprehensive patient management\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 1-3 years of relevant experience\n• Proficiency in Medical Coding\n• Proficiency in EMR/EHR\n• Proficiency in NABH Standards\n• Proficiency in BLS/ACLS\n• Proficiency in Infection Control\n• Proficiency in Medical Ethics\n• Proficiency in Pharmacovigilance\n• Proficiency in Medical Terminology\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Flexible working hours\n• Transportation and conveyance allowance\n• Professional development and training programs\n• International travel opportunities for senior roles\n• Company-sponsored certifications\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Gurgaon, Haryana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Manipal Hospitals!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Manipal Hospitals",
+      "value": "219-3-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Manipal Hospitals",
+      "sameAs": "https://www.google.com/search?q=Manipal%20Hospitals",
+      "logo": "https://logo.clearbit.com/manipalhospitals.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Manipal Hospitals Office",
+        "addressLocality": "Gurgaon",
+        "addressRegion": "Haryana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "Medical Coding, EMR/EHR, NABH Standards, BLS/ACLS, Infection Control, Medical Ethics, Pharmacovigilance, Medical Terminology",
+    "responsibilities": "Respond to medical emergencies and provide immediate care. Diagnose and treat medical conditions following established protocols. Monitor patient progress and adjust treatment plans accordingly. Attend continuing medical education programs and training. Provide high-quality patient care and maintain patient records. Administer medications and treatments as prescribed. Coordinate with multidisciplinary teams for comprehensive patient management",
+    "benefits": "Flexible working hours. Transportation and conveyance allowance. Professional development and training programs. International travel opportunities for senior roles. Company-sponsored certifications. Employee stock options (ESOPs) for eligible roles",
+    "industry": "healthcare",
+    "occupationalCategory": "Surgeon",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, Transportation and conveyance allowance, Professional development and training programs, International travel opportunities for senior roles, Company-sponsored certifications, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "Manipal Hospitals has an exciting opening for a Surgeon at our Gurgaon office. Join a company that values innovation, collaboration, and continuous learning.",
+    "keywords": "Surgeon, Manipal Hospitals, jobs in Gurgaon, Haryana jobs, healthcare jobs India, Medical Coding, EMR/EHR, NABH Standards, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:47:43.241Z",
+  "page": 54
+}

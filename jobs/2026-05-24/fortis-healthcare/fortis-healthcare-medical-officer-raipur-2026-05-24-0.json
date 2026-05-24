@@ -1,0 +1,93 @@
+{
+  "slug": "fortis-healthcare-medical-officer-raipur-2026-05-24-0",
+  "title": "Career Opportunity Medical Officer at Fortis Healthcare",
+  "company": "Fortis Healthcare",
+  "industry": "healthcare",
+  "role": "Medical Officer",
+  "location": {
+    "city": "Raipur",
+    "state": "Chhattisgarh",
+    "region": "Central India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Pharmacovigilance",
+    "NABH Standards",
+    "Clinical Documentation",
+    "Infection Control",
+    "Health Informatics",
+    "Surgical Procedures",
+    "BLS/ACLS",
+    "Clinical Research"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Career Opportunity Medical Officer at Fortis Healthcare",
+    "description": "We at Fortis Healthcare are looking for an experienced Medical Officer based out of Raipur. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout Fortis Healthcare:\nFortis Healthcare is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Provide high-quality patient care and maintain patient records\n• Diagnose and treat medical conditions following established protocols\n• Maintain sterile environments and follow infection control protocols\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Respond to medical emergencies and provide immediate care\n• Adhere to NABH/JCI accreditation standards\n• Conduct routine health assessments and screenings\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 1-3 years of relevant experience\n• Proficiency in Pharmacovigilance\n• Proficiency in NABH Standards\n• Proficiency in Clinical Documentation\n• Proficiency in Infection Control\n• Proficiency in Health Informatics\n• Proficiency in Surgical Procedures\n• Proficiency in BLS/ACLS\n• Proficiency in Clinical Research\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Professional development and training programs\n• Competitive salary with performance-linked incentives\n• International travel opportunities for senior roles\n• Work-from-home flexibility\n• Flexible working hours\n• Life and accident insurance\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Raipur, Chhattisgarh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Fortis Healthcare!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Fortis Healthcare",
+      "value": "217-0-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Fortis Healthcare",
+      "sameAs": "https://www.google.com/search?q=Fortis%20Healthcare",
+      "logo": "https://logo.clearbit.com/fortishealthcare.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Fortis Healthcare Office",
+        "addressLocality": "Raipur",
+        "addressRegion": "Chhattisgarh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "Pharmacovigilance, NABH Standards, Clinical Documentation, Infection Control, Health Informatics, Surgical Procedures, BLS/ACLS, Clinical Research",
+    "responsibilities": "Provide high-quality patient care and maintain patient records. Diagnose and treat medical conditions following established protocols. Maintain sterile environments and follow infection control protocols. Coordinate with multidisciplinary teams for comprehensive patient management. Respond to medical emergencies and provide immediate care. Adhere to NABH/JCI accreditation standards. Conduct routine health assessments and screenings",
+    "benefits": "Professional development and training programs. Competitive salary with performance-linked incentives. International travel opportunities for senior roles. Work-from-home flexibility. Flexible working hours. Life and accident insurance",
+    "industry": "healthcare",
+    "occupationalCategory": "Medical Officer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Competitive salary with performance-linked incentives, International travel opportunities for senior roles, Work-from-home flexibility, Flexible working hours, Life and accident insurance"
+  },
+  "meta": {
+    "description": "We at Fortis Healthcare are looking for an experienced Medical Officer based out of Raipur. If you are a result-oriented professional with a passion for excelle",
+    "keywords": "Medical Officer, Fortis Healthcare, jobs in Raipur, Chhattisgarh jobs, healthcare jobs India, Pharmacovigilance, NABH Standards, Clinical Documentation, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:47:43.240Z",
+  "page": 54
+}
