@@ -1,0 +1,93 @@
+{
+  "slug": "tata-consultancy-services-full-stack-developer-indore-2026-05-24-2",
+  "title": "Tata Consultancy Services is Hiring: Full Stack Developer (Junior)",
+  "company": "Tata Consultancy Services",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "CI/CD",
+    "Microservices",
+    "Machine Learning",
+    "Python",
+    "React",
+    "SQL",
+    "Go",
+    "Agile/Scrum"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Tata Consultancy Services is Hiring: Full Stack Developer (Junior)",
+    "description": "Tata Consultancy Services has an exciting opening for a Full Stack Developer at our Indore office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Tata Consultancy Services:\nTata Consultancy Services is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Contribute to system architecture and technical design decisions\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in code reviews and contribute to technical discussions\n• Participate in on-call rotation for production support\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 6-10 years of relevant experience\n• Proficiency in CI/CD\n• Proficiency in Microservices\n• Proficiency in Machine Learning\n• Proficiency in Python\n• Proficiency in React\n• Proficiency in SQL\n• Proficiency in Go\n• Proficiency in Agile/Scrum\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• Modern office with recreational facilities\n• Transportation and conveyance allowance\n• Mobile and internet reimbursement\n• Company-sponsored certifications\n• Learning & development budget\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Indore, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Tata Consultancy Services!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Tata Consultancy Services",
+      "value": "1-2-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Tata Consultancy Services",
+      "sameAs": "https://www.google.com/search?q=Tata%20Consultancy%20Services",
+      "logo": "https://logo.clearbit.com/tataconsultancyservices.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Tata Consultancy Services Office",
+        "addressLocality": "Indore",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "CI/CD, Microservices, Machine Learning, Python, React, SQL, Go, Agile/Scrum",
+    "responsibilities": "Troubleshoot, debug, and resolve software defects and performance issues. Mentor junior developers and conduct knowledge-sharing sessions. Contribute to system architecture and technical design decisions. Collaborate with cross-functional teams including product, design, and QA. Participate in code reviews and contribute to technical discussions. Participate in on-call rotation for production support. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP",
+    "benefits": "Comprehensive health insurance for self and family. Modern office with recreational facilities. Transportation and conveyance allowance. Mobile and internet reimbursement. Company-sponsored certifications. Learning & development budget",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, Modern office with recreational facilities, Transportation and conveyance allowance, Mobile and internet reimbursement, Company-sponsored certifications, Learning & development budget"
+  },
+  "meta": {
+    "description": "Tata Consultancy Services has an exciting opening for a Full Stack Developer at our Indore office. Join a company that values innovation, collaboration, and con",
+    "keywords": "Full Stack Developer, Tata Consultancy Services, jobs in Indore, Madhya Pradesh jobs, technology jobs India, CI/CD, Microservices, Machine Learning, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:41:07.348Z",
+  "page": 0
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "infosys-backend-developer-thane-2026-05-24-3",
+  "title": "Backend Developer Vacancy at Infosys - 2026 Batch",
+  "company": "Infosys",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Thane",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Rust",
+    "CI/CD",
+    "MongoDB",
+    "JavaScript",
+    "Agile/Scrum",
+    "React",
+    "Kubernetes",
+    "Java"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Infosys - 2026 Batch",
+    "description": "Infosys has an exciting opening for a Backend Developer at our Thane office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Infosys:\nInfosys is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Integrate third-party APIs and services\n• Contribute to system architecture and technical design decisions\n• Participate in on-call rotation for production support\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Optimize application performance and ensure high availability\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 0-1 years of relevant experience\n• Proficiency in Rust\n• Proficiency in CI/CD\n• Proficiency in MongoDB\n• Proficiency in JavaScript\n• Proficiency in Agile/Scrum\n• Proficiency in React\n• Proficiency in Kubernetes\n• Proficiency in Java\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Mobile and internet reimbursement\n• Work-from-home flexibility\n• International travel opportunities for senior roles\n• Competitive salary with performance-linked incentives\n• Flexible working hours\n• Comprehensive health insurance for self and family\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Thane, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Infosys!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Infosys",
+      "value": "2-3-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Infosys",
+      "sameAs": "https://www.google.com/search?q=Infosys",
+      "logo": "https://logo.clearbit.com/infosys.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Infosys Office",
+        "addressLocality": "Thane",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "Rust, CI/CD, MongoDB, JavaScript, Agile/Scrum, React, Kubernetes, Java",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Integrate third-party APIs and services. Contribute to system architecture and technical design decisions. Participate in on-call rotation for production support. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Troubleshoot, debug, and resolve software defects and performance issues. Optimize application performance and ensure high availability",
+    "benefits": "Mobile and internet reimbursement. Work-from-home flexibility. International travel opportunities for senior roles. Competitive salary with performance-linked incentives. Flexible working hours. Comprehensive health insurance for self and family",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Mobile and internet reimbursement, Work-from-home flexibility, International travel opportunities for senior roles, Competitive salary with performance-linked incentives, Flexible working hours, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "Infosys has an exciting opening for a Backend Developer at our Thane office. Join a company that values innovation, collaboration, and continuous learning.",
+    "keywords": "Backend Developer, Infosys, jobs in Thane, Maharashtra jobs, technology jobs India, Rust, CI/CD, MongoDB, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:41:07.348Z",
+  "page": 0
+}

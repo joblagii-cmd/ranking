@@ -1,0 +1,93 @@
+{
+  "slug": "hcl-technologies-software-engineer-thane-2026-05-24-0",
+  "title": "Urgent Opening Software Engineer at HCL Technologies",
+  "company": "HCL Technologies",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Thane",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "MongoDB",
+    "Machine Learning",
+    "Docker",
+    "Node.js",
+    "SQL"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Urgent Opening Software Engineer at HCL Technologies",
+    "description": "HCL Technologies has an exciting opening for a Software Engineer at our Thane office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout HCL Technologies:\nHCL Technologies is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Integrate third-party APIs and services\n• Contribute to system architecture and technical design decisions\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Ensure code security and follow best practices for data protection\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Optimize application performance and ensure high availability\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 3-6 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in TypeScript\n• Proficiency in React\n• Proficiency in MongoDB\n• Proficiency in Machine Learning\n• Proficiency in Docker\n• Proficiency in Node.js\n• Proficiency in SQL\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Professional development and training programs\n• Annual paid leaves and casual leaves\n• Work-from-home flexibility\n• Competitive salary with performance-linked incentives\n• Annual performance appraisal\n• Recognition and rewards programs\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Thane, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with HCL Technologies!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "HCL Technologies",
+      "value": "4-0-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "HCL Technologies",
+      "sameAs": "https://www.google.com/search?q=HCL%20Technologies",
+      "logo": "https://logo.clearbit.com/hcltechnologies.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "HCL Technologies Office",
+        "addressLocality": "Thane",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "JavaScript, TypeScript, React, MongoDB, Machine Learning, Docker, Node.js, SQL",
+    "responsibilities": "Integrate third-party APIs and services. Contribute to system architecture and technical design decisions. Work with agile methodologies including daily stand-ups and sprint planning. Ensure code security and follow best practices for data protection. Mentor junior developers and conduct knowledge-sharing sessions. Optimize application performance and ensure high availability. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP",
+    "benefits": "Professional development and training programs. Annual paid leaves and casual leaves. Work-from-home flexibility. Competitive salary with performance-linked incentives. Annual performance appraisal. Recognition and rewards programs",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Annual paid leaves and casual leaves, Work-from-home flexibility, Competitive salary with performance-linked incentives, Annual performance appraisal, Recognition and rewards programs"
+  },
+  "meta": {
+    "description": "HCL Technologies has an exciting opening for a Software Engineer at our Thane office. Join a company that values innovation, collaboration, and continuous learn",
+    "keywords": "Software Engineer, HCL Technologies, jobs in Thane, Maharashtra jobs, technology jobs India, JavaScript, TypeScript, React, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:41:07.349Z",
+  "page": 0
+}

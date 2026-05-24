@@ -1,0 +1,93 @@
+{
+  "slug": "tata-consultancy-services-frontend-developer-thane-2026-05-24-4",
+  "title": "Junior Frontend Developer at Tata Consultancy Services",
+  "company": "Tata Consultancy Services",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Thane",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "JavaScript",
+    "REST APIs",
+    "React",
+    "Agile/Scrum",
+    "Rust",
+    "Kubernetes",
+    "TensorFlow",
+    "Docker"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Junior Frontend Developer at Tata Consultancy Services",
+    "description": "Tata Consultancy Services has an exciting opening for a Frontend Developer at our Thane office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Tata Consultancy Services:\nTata Consultancy Services is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Collaborate with cross-functional teams including product, design, and QA\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Ensure code security and follow best practices for data protection\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Write clean, maintainable, and well-documented code\n• Contribute to system architecture and technical design decisions\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 0-1 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in REST APIs\n• Proficiency in React\n• Proficiency in Agile/Scrum\n• Proficiency in Rust\n• Proficiency in Kubernetes\n• Proficiency in TensorFlow\n• Proficiency in Docker\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Flexible working hours\n• Recognition and rewards programs\n• Learning & development budget\n• Annual paid leaves and casual leaves\n• Employee stock options (ESOPs) for eligible roles\n• Company-sponsored certifications\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Thane, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Tata Consultancy Services!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Tata Consultancy Services",
+      "value": "1-4-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Tata Consultancy Services",
+      "sameAs": "https://www.google.com/search?q=Tata%20Consultancy%20Services",
+      "logo": "https://logo.clearbit.com/tataconsultancyservices.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Tata Consultancy Services Office",
+        "addressLocality": "Thane",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "JavaScript, REST APIs, React, Agile/Scrum, Rust, Kubernetes, TensorFlow, Docker",
+    "responsibilities": "Design, develop and maintain scalable software applications. Collaborate with cross-functional teams including product, design, and QA. Work with agile methodologies including daily stand-ups and sprint planning. Ensure code security and follow best practices for data protection. Troubleshoot, debug, and resolve software defects and performance issues. Write clean, maintainable, and well-documented code. Contribute to system architecture and technical design decisions",
+    "benefits": "Flexible working hours. Recognition and rewards programs. Learning & development budget. Annual paid leaves and casual leaves. Employee stock options (ESOPs) for eligible roles. Company-sponsored certifications",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, Recognition and rewards programs, Learning & development budget, Annual paid leaves and casual leaves, Employee stock options (ESOPs) for eligible roles, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "Tata Consultancy Services has an exciting opening for a Frontend Developer at our Thane office. Join a company that values innovation, collaboration, and contin",
+    "keywords": "Frontend Developer, Tata Consultancy Services, jobs in Thane, Maharashtra jobs, technology jobs India, JavaScript, REST APIs, React, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:41:07.348Z",
+  "page": 0
+}
