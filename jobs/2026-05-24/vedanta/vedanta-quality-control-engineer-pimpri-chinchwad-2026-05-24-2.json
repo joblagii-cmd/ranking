@@ -1,0 +1,93 @@
+{
+  "slug": "vedanta-quality-control-engineer-pimpri-chinchwad-2026-05-24-2",
+  "title": "Vedanta is Hiring: Quality Control Engineer (Mid-Level)",
+  "company": "Vedanta",
+  "industry": "manufacturing",
+  "role": "Quality Control Engineer",
+  "location": {
+    "city": "Pimpri-Chinchwad",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Lean Manufacturing",
+    "Project Management",
+    "SAP MM/PP",
+    "GD&T",
+    "Statistical Process Control",
+    "Kaizen",
+    "TPM",
+    "PPAP"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Vedanta is Hiring: Quality Control Engineer (Mid-Level)",
+    "description": "Vedanta is actively seeking a talented and motivated Quality Control Engineer to join our dynamic team in Pimpri-Chinchwad. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout Vedanta:\nVedanta is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Implement lean manufacturing and continuous improvement initiatives\n• Ensure product quality meets internal and customer specifications\n• Manage supplier quality audits and vendor development\n• Oversee daily production operations to meet output targets\n• Manage raw material procurement and inventory levels\n• Conduct root cause analysis for quality rejections and defects\n• Prepare production cost analysis and efficiency reports\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 0-1 years of relevant experience\n• Proficiency in Lean Manufacturing\n• Proficiency in Project Management\n• Proficiency in SAP MM/PP\n• Proficiency in GD&T\n• Proficiency in Statistical Process Control\n• Proficiency in Kaizen\n• Proficiency in TPM\n• Proficiency in PPAP\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Learning & development budget\n• Annual paid leaves and casual leaves\n• Competitive salary with performance-linked incentives\n• Recognition and rewards programs\n• Employee stock options (ESOPs) for eligible roles\n• Meal coupons and food allowance\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Pimpri-Chinchwad, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Vedanta!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Vedanta",
+      "value": "423-2-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Vedanta",
+      "sameAs": "https://www.google.com/search?q=Vedanta",
+      "logo": "https://logo.clearbit.com/vedanta.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Vedanta Office",
+        "addressLocality": "Pimpri-Chinchwad",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "Lean Manufacturing, Project Management, SAP MM/PP, GD&T, Statistical Process Control, Kaizen, TPM, PPAP",
+    "responsibilities": "Implement lean manufacturing and continuous improvement initiatives. Ensure product quality meets internal and customer specifications. Manage supplier quality audits and vendor development. Oversee daily production operations to meet output targets. Manage raw material procurement and inventory levels. Conduct root cause analysis for quality rejections and defects. Prepare production cost analysis and efficiency reports",
+    "benefits": "Learning & development budget. Annual paid leaves and casual leaves. Competitive salary with performance-linked incentives. Recognition and rewards programs. Employee stock options (ESOPs) for eligible roles. Meal coupons and food allowance",
+    "industry": "manufacturing",
+    "occupationalCategory": "Quality Control Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Learning & development budget, Annual paid leaves and casual leaves, Competitive salary with performance-linked incentives, Recognition and rewards programs, Employee stock options (ESOPs) for eligible roles, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "Vedanta is actively seeking a talented and motivated Quality Control Engineer to join our dynamic team in Pimpri-Chinchwad. This is an excellent opportunity for",
+    "keywords": "Quality Control Engineer, Vedanta, jobs in Pimpri-Chinchwad, Maharashtra jobs, manufacturing jobs India, Lean Manufacturing, Project Management, SAP MM/PP, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:53:50.933Z",
+  "page": 105
+}
