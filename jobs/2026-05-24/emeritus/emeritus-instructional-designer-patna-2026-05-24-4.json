@@ -1,0 +1,94 @@
+{
+  "slug": "emeritus-instructional-designer-patna-2026-05-24-4",
+  "title": "Senior Instructional Designer at Emeritus",
+  "company": "Emeritus",
+  "industry": "education",
+  "role": "Instructional Designer",
+  "location": {
+    "city": "Patna",
+    "state": "Bihar",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Zoom/Teams",
+    "Lesson Planning",
+    "Pedagogy",
+    "E-learning",
+    "IB Curriculum",
+    "Classroom Management",
+    "Special Education",
+    "Data Analysis"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Instructional Designer at Emeritus",
+    "description": "Emeritus, one of India's leading organizations, is hiring a Instructional Designer for our Patna operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Emeritus:\nEmeritus is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Maintain classroom discipline and create a positive learning environment\n• Utilize technology and digital tools to enhance learning outcomes\n• Collaborate with faculty on curriculum development initiatives\n• Monitor student progress and provide timely feedback\n• Create curriculum-aligned learning materials and assessments\n• Design formative and summative assessments aligned to learning objectives\n• Conduct parent-teacher meetings and update parents on student performance\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 12-20 years of relevant experience\n• Proficiency in Zoom/Teams\n• Proficiency in Lesson Planning\n• Proficiency in Pedagogy\n• Proficiency in E-learning\n• Proficiency in IB Curriculum\n• Proficiency in Classroom Management\n• Proficiency in Special Education\n• Proficiency in Data Analysis\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Learning & development budget\n• Competitive salary with performance-linked incentives\n• Modern office with recreational facilities\n• Life and accident insurance\n• Employee stock options (ESOPs) for eligible roles\n• Transportation and conveyance allowance\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Patna, Bihar, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Emeritus!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Emeritus",
+      "value": "507-4-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Emeritus",
+      "sameAs": "https://www.google.com/search?q=Emeritus",
+      "logo": "https://logo.clearbit.com/emeritus.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Emeritus Office",
+        "addressLocality": "Patna",
+        "addressRegion": "Bihar",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "Zoom/Teams, Lesson Planning, Pedagogy, E-learning, IB Curriculum, Classroom Management, Special Education, Data Analysis",
+    "responsibilities": "Maintain classroom discipline and create a positive learning environment. Utilize technology and digital tools to enhance learning outcomes. Collaborate with faculty on curriculum development initiatives. Monitor student progress and provide timely feedback. Create curriculum-aligned learning materials and assessments. Design formative and summative assessments aligned to learning objectives. Conduct parent-teacher meetings and update parents on student performance",
+    "benefits": "Learning & development budget. Competitive salary with performance-linked incentives. Modern office with recreational facilities. Life and accident insurance. Employee stock options (ESOPs) for eligible roles. Transportation and conveyance allowance",
+    "industry": "education",
+    "occupationalCategory": "Instructional Designer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Learning & development budget, Competitive salary with performance-linked incentives, Modern office with recreational facilities, Life and accident insurance, Employee stock options (ESOPs) for eligible roles, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "Emeritus, one of India's leading organizations, is hiring a Instructional Designer for our Patna operations. We offer a competitive salary package along with wo",
+    "keywords": "Instructional Designer, Emeritus, jobs in Patna, Bihar jobs, education jobs India, Zoom/Teams, Lesson Planning, Pedagogy, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:56:22.961Z",
+  "page": 126
+}
