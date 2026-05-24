@@ -1,0 +1,93 @@
+{
+  "slug": "vit-university-teacher-dhanbad-2026-05-24-0",
+  "title": "Vacancy for Teacher at VIT University",
+  "company": "VIT University",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Dhanbad",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Data Analysis",
+    "LMS Platforms",
+    "Bloom's Taxonomy",
+    "Lesson Planning",
+    "Communication Skills",
+    "CBSE/ICSE Standards",
+    "Zoom/Teams",
+    "Special Education"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Vacancy for Teacher at VIT University",
+    "description": "An exciting career opportunity awaits you at VIT University. We are on the lookout for a dedicated Teacher to strengthen our Dhanbad-based team.\n\nAbout VIT University:\nVIT University is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design formative and summative assessments aligned to learning objectives\n• Monitor student progress and provide timely feedback\n• Participate in school events, workshops, and training programs\n• Participate in teacher training and professional development programs\n• Contribute to school newsletter, blogs, and other publications\n• Utilize technology and digital tools to enhance learning outcomes\n• Develop and deliver engaging lesson plans for students\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 3-6 years of relevant experience\n• Proficiency in Data Analysis\n• Proficiency in LMS Platforms\n• Proficiency in Bloom's Taxonomy\n• Proficiency in Lesson Planning\n• Proficiency in Communication Skills\n• Proficiency in CBSE/ICSE Standards\n• Proficiency in Zoom/Teams\n• Proficiency in Special Education\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• International travel opportunities for senior roles\n• Company-sponsored certifications\n• Mobile and internet reimbursement\n• Work-from-home flexibility\n• Comprehensive health insurance for self and family\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Dhanbad, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with VIT University!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "VIT University",
+      "value": "530-0-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "VIT University",
+      "sameAs": "https://www.google.com/search?q=VIT%20University",
+      "logo": "https://logo.clearbit.com/vituniversity.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "VIT University Office",
+        "addressLocality": "Dhanbad",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "Data Analysis, LMS Platforms, Bloom's Taxonomy, Lesson Planning, Communication Skills, CBSE/ICSE Standards, Zoom/Teams, Special Education",
+    "responsibilities": "Design formative and summative assessments aligned to learning objectives. Monitor student progress and provide timely feedback. Participate in school events, workshops, and training programs. Participate in teacher training and professional development programs. Contribute to school newsletter, blogs, and other publications. Utilize technology and digital tools to enhance learning outcomes. Develop and deliver engaging lesson plans for students",
+    "benefits": "Annual paid leaves and casual leaves. International travel opportunities for senior roles. Company-sponsored certifications. Mobile and internet reimbursement. Work-from-home flexibility. Comprehensive health insurance for self and family",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, International travel opportunities for senior roles, Company-sponsored certifications, Mobile and internet reimbursement, Work-from-home flexibility, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at VIT University. We are on the lookout for a dedicated Teacher to strengthen our Dhanbad-based team.",
+    "keywords": "Teacher, VIT University, jobs in Dhanbad, Jharkhand jobs, education jobs India, Data Analysis, LMS Platforms, Bloom's Taxonomy, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:57:07.727Z",
+  "page": 132
+}

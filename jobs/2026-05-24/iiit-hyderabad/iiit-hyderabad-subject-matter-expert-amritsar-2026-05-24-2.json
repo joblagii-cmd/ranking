@@ -1,0 +1,93 @@
+{
+  "slug": "iiit-hyderabad-subject-matter-expert-amritsar-2026-05-24-2",
+  "title": "IIIT Hyderabad is Hiring: Subject Matter Expert (Lead)",
+  "company": "IIIT Hyderabad",
+  "industry": "education",
+  "role": "Subject Matter Expert",
+  "location": {
+    "city": "Amritsar",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Special Education",
+    "Pedagogy",
+    "Zoom/Teams",
+    "Curriculum Development",
+    "IB Curriculum",
+    "Mentoring",
+    "LMS Platforms",
+    "Data Analysis"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "IIIT Hyderabad is Hiring: Subject Matter Expert (Lead)",
+    "description": "An exciting career opportunity awaits you at IIIT Hyderabad. We are on the lookout for a dedicated Subject Matter Expert to strengthen our Amritsar-based team.\n\nAbout IIIT Hyderabad:\nIIIT Hyderabad is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Conduct doubt-clearing sessions and remedial classes for weak students\n• Utilize technology and digital tools to enhance learning outcomes\n• Participate in school events, workshops, and training programs\n• Maintain classroom discipline and create a positive learning environment\n• Collaborate with faculty on curriculum development initiatives\n• Design formative and summative assessments aligned to learning objectives\n• Conduct parent-teacher meetings and update parents on student performance\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 1-3 years of relevant experience\n• Proficiency in Special Education\n• Proficiency in Pedagogy\n• Proficiency in Zoom/Teams\n• Proficiency in Curriculum Development\n• Proficiency in IB Curriculum\n• Proficiency in Mentoring\n• Proficiency in LMS Platforms\n• Proficiency in Data Analysis\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Learning & development budget\n• Competitive salary with performance-linked incentives\n• Annual paid leaves and casual leaves\n• Mobile and internet reimbursement\n• Life and accident insurance\n• Work-from-home flexibility\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Amritsar, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with IIIT Hyderabad!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "IIIT Hyderabad",
+      "value": "529-2-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "IIIT Hyderabad",
+      "sameAs": "https://www.google.com/search?q=IIIT%20Hyderabad",
+      "logo": "https://logo.clearbit.com/iiithyderabad.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "IIIT Hyderabad Office",
+        "addressLocality": "Amritsar",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "Special Education, Pedagogy, Zoom/Teams, Curriculum Development, IB Curriculum, Mentoring, LMS Platforms, Data Analysis",
+    "responsibilities": "Conduct doubt-clearing sessions and remedial classes for weak students. Utilize technology and digital tools to enhance learning outcomes. Participate in school events, workshops, and training programs. Maintain classroom discipline and create a positive learning environment. Collaborate with faculty on curriculum development initiatives. Design formative and summative assessments aligned to learning objectives. Conduct parent-teacher meetings and update parents on student performance",
+    "benefits": "Learning & development budget. Competitive salary with performance-linked incentives. Annual paid leaves and casual leaves. Mobile and internet reimbursement. Life and accident insurance. Work-from-home flexibility",
+    "industry": "education",
+    "occupationalCategory": "Subject Matter Expert",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Learning & development budget, Competitive salary with performance-linked incentives, Annual paid leaves and casual leaves, Mobile and internet reimbursement, Life and accident insurance, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at IIIT Hyderabad. We are on the lookout for a dedicated Subject Matter Expert to strengthen our Amritsar-based team.",
+    "keywords": "Subject Matter Expert, IIIT Hyderabad, jobs in Amritsar, Punjab jobs, education jobs India, Special Education, Pedagogy, Zoom/Teams, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:57:07.727Z",
+  "page": 132
+}

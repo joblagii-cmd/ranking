@@ -1,0 +1,93 @@
+{
+  "slug": "manipal-university-teacher-amritsar-2026-05-24-0",
+  "title": "Vacancy for Teacher at Manipal University",
+  "company": "Manipal University",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Amritsar",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Zoom/Teams",
+    "IB Curriculum",
+    "Data Analysis",
+    "Educational Technology",
+    "Bloom's Taxonomy",
+    "Pedagogy",
+    "Curriculum Development",
+    "Special Education"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Vacancy for Teacher at Manipal University",
+    "description": "An exciting career opportunity awaits you at Manipal University. We are on the lookout for a dedicated Teacher to strengthen our Amritsar-based team.\n\nAbout Manipal University:\nManipal University is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in teacher training and professional development programs\n• Design formative and summative assessments aligned to learning objectives\n• Conduct doubt-clearing sessions and remedial classes for weak students\n• Develop and deliver engaging lesson plans for students\n• Create curriculum-aligned learning materials and assessments\n• Support students with special educational needs\n• Coordinate with academic counselors for student career guidance\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 0-1 years of relevant experience\n• Proficiency in Zoom/Teams\n• Proficiency in IB Curriculum\n• Proficiency in Data Analysis\n• Proficiency in Educational Technology\n• Proficiency in Bloom's Taxonomy\n• Proficiency in Pedagogy\n• Proficiency in Curriculum Development\n• Proficiency in Special Education\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Life and accident insurance\n• Professional development and training programs\n• Transportation and conveyance allowance\n• Mobile and internet reimbursement\n• International travel opportunities for senior roles\n• Flexible working hours\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Amritsar, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Manipal University!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Manipal University",
+      "value": "531-0-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Manipal University",
+      "sameAs": "https://www.google.com/search?q=Manipal%20University",
+      "logo": "https://logo.clearbit.com/manipaluniversity.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Manipal University Office",
+        "addressLocality": "Amritsar",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "Zoom/Teams, IB Curriculum, Data Analysis, Educational Technology, Bloom's Taxonomy, Pedagogy, Curriculum Development, Special Education",
+    "responsibilities": "Participate in teacher training and professional development programs. Design formative and summative assessments aligned to learning objectives. Conduct doubt-clearing sessions and remedial classes for weak students. Develop and deliver engaging lesson plans for students. Create curriculum-aligned learning materials and assessments. Support students with special educational needs. Coordinate with academic counselors for student career guidance",
+    "benefits": "Life and accident insurance. Professional development and training programs. Transportation and conveyance allowance. Mobile and internet reimbursement. International travel opportunities for senior roles. Flexible working hours",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Professional development and training programs, Transportation and conveyance allowance, Mobile and internet reimbursement, International travel opportunities for senior roles, Flexible working hours"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Manipal University. We are on the lookout for a dedicated Teacher to strengthen our Amritsar-based team.",
+    "keywords": "Teacher, Manipal University, jobs in Amritsar, Punjab jobs, education jobs India, Zoom/Teams, IB Curriculum, Data Analysis, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:57:07.727Z",
+  "page": 132
+}
