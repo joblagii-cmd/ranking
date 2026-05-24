@@ -1,0 +1,94 @@
+{
+  "slug": "shroff-eye-centre-surgeon-ranchi-2026-05-24-3",
+  "title": "Surgeon Vacancy at Shroff Eye Centre - 2026 Batch",
+  "company": "Shroff Eye Centre",
+  "industry": "healthcare",
+  "role": "Surgeon",
+  "location": {
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Infection Control",
+    "Surgical Procedures",
+    "ICD-10",
+    "Medical Coding",
+    "Telemedicine",
+    "HIPAA Compliance",
+    "BLS/ACLS",
+    "Health Informatics"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Surgeon Vacancy at Shroff Eye Centre - 2026 Batch",
+    "description": "Shroff Eye Centre, one of India's leading organizations, is hiring a Surgeon for our Ranchi operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Shroff Eye Centre:\nShroff Eye Centre is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Maintain sterile environments and follow infection control protocols\n• Monitor patient progress and adjust treatment plans accordingly\n• Respond to medical emergencies and provide immediate care\n• Administer medications and treatments as prescribed\n• Collaborate with pharmaceutical representatives and medical suppliers\n• Adhere to NABH/JCI accreditation standards\n• Coordinate with multidisciplinary teams for comprehensive patient management\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 0-1 years of relevant experience\n• Proficiency in Infection Control\n• Proficiency in Surgical Procedures\n• Proficiency in ICD-10\n• Proficiency in Medical Coding\n• Proficiency in Telemedicine\n• Proficiency in HIPAA Compliance\n• Proficiency in BLS/ACLS\n• Proficiency in Health Informatics\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Flexible working hours\n• Annual paid leaves and casual leaves\n• Provident Fund and Gratuity as per company policy\n• Comprehensive health insurance for self and family\n• Annual performance appraisal\n• Professional development and training programs\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Ranchi, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Shroff Eye Centre!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Shroff Eye Centre",
+      "value": "284-3-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Shroff Eye Centre",
+      "sameAs": "https://www.google.com/search?q=Shroff%20Eye%20Centre",
+      "logo": "https://logo.clearbit.com/shroffeyecentre.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Shroff Eye Centre Office",
+        "addressLocality": "Ranchi",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Infection Control, Surgical Procedures, ICD-10, Medical Coding, Telemedicine, HIPAA Compliance, BLS/ACLS, Health Informatics",
+    "responsibilities": "Maintain sterile environments and follow infection control protocols. Monitor patient progress and adjust treatment plans accordingly. Respond to medical emergencies and provide immediate care. Administer medications and treatments as prescribed. Collaborate with pharmaceutical representatives and medical suppliers. Adhere to NABH/JCI accreditation standards. Coordinate with multidisciplinary teams for comprehensive patient management",
+    "benefits": "Flexible working hours. Annual paid leaves and casual leaves. Provident Fund and Gratuity as per company policy. Comprehensive health insurance for self and family. Annual performance appraisal. Professional development and training programs",
+    "industry": "healthcare",
+    "occupationalCategory": "Surgeon",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, Annual paid leaves and casual leaves, Provident Fund and Gratuity as per company policy, Comprehensive health insurance for self and family, Annual performance appraisal, Professional development and training programs"
+  },
+  "meta": {
+    "description": "Shroff Eye Centre, one of India's leading organizations, is hiring a Surgeon for our Ranchi operations. We offer a competitive salary package along with world-c",
+    "keywords": "Surgeon, Shroff Eye Centre, jobs in Ranchi, Jharkhand jobs, healthcare jobs India, Infection Control, Surgical Procedures, ICD-10, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:49:37.364Z",
+  "page": 70
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "sankara-nethralaya-senior-doctor-amritsar-2026-05-24-1",
+  "title": "Senior Doctor - Sankara Nethralaya - Apply Now",
+  "company": "Sankara Nethralaya",
+  "industry": "healthcare",
+  "role": "Senior Doctor",
+  "location": {
+    "city": "Amritsar",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Pharmacovigilance",
+    "Patient Care",
+    "Telemedicine",
+    "Clinical Documentation",
+    "NABH Standards",
+    "Clinical Research",
+    "Diagnostic Skills",
+    "EMR/EHR"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Doctor - Sankara Nethralaya - Apply Now",
+    "description": "Sankara Nethralaya, one of India's leading organizations, is hiring a Senior Doctor for our Amritsar operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Sankara Nethralaya:\nSankara Nethralaya is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Administer medications and treatments as prescribed\n• Diagnose and treat medical conditions following established protocols\n• Maintain sterile environments and follow infection control protocols\n• Respond to medical emergencies and provide immediate care\n• Provide high-quality patient care and maintain patient records\n• Educate patients and families on health management and disease prevention\n• Collaborate with pharmaceutical representatives and medical suppliers\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 0-1 years of relevant experience\n• Proficiency in Pharmacovigilance\n• Proficiency in Patient Care\n• Proficiency in Telemedicine\n• Proficiency in Clinical Documentation\n• Proficiency in NABH Standards\n• Proficiency in Clinical Research\n• Proficiency in Diagnostic Skills\n• Proficiency in EMR/EHR\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Modern office with recreational facilities\n• Annual paid leaves and casual leaves\n• Referral bonus program\n• Company-sponsored certifications\n• Transportation and conveyance allowance\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Amritsar, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Sankara Nethralaya!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Sankara Nethralaya",
+      "value": "281-1-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Sankara Nethralaya",
+      "sameAs": "https://www.google.com/search?q=Sankara%20Nethralaya",
+      "logo": "https://logo.clearbit.com/sankaranethralaya.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Sankara Nethralaya Office",
+        "addressLocality": "Amritsar",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "Pharmacovigilance, Patient Care, Telemedicine, Clinical Documentation, NABH Standards, Clinical Research, Diagnostic Skills, EMR/EHR",
+    "responsibilities": "Administer medications and treatments as prescribed. Diagnose and treat medical conditions following established protocols. Maintain sterile environments and follow infection control protocols. Respond to medical emergencies and provide immediate care. Provide high-quality patient care and maintain patient records. Educate patients and families on health management and disease prevention. Collaborate with pharmaceutical representatives and medical suppliers",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Modern office with recreational facilities. Annual paid leaves and casual leaves. Referral bonus program. Company-sponsored certifications. Transportation and conveyance allowance",
+    "industry": "healthcare",
+    "occupationalCategory": "Senior Doctor",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Modern office with recreational facilities, Annual paid leaves and casual leaves, Referral bonus program, Company-sponsored certifications, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "Sankara Nethralaya, one of India's leading organizations, is hiring a Senior Doctor for our Amritsar operations. We offer a competitive salary package along wit",
+    "keywords": "Senior Doctor, Sankara Nethralaya, jobs in Amritsar, Punjab jobs, healthcare jobs India, Pharmacovigilance, Patient Care, Telemedicine, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:49:37.363Z",
+  "page": 70
+}
