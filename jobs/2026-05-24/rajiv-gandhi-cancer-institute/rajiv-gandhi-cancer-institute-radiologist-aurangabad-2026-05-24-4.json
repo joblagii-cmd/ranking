@@ -1,0 +1,93 @@
+{
+  "slug": "rajiv-gandhi-cancer-institute-radiologist-aurangabad-2026-05-24-4",
+  "title": "Entry-Level Radiologist at Rajiv Gandhi Cancer Institute",
+  "company": "Rajiv Gandhi Cancer Institute",
+  "industry": "healthcare",
+  "role": "Radiologist",
+  "location": {
+    "city": "Aurangabad",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Telemedicine",
+    "BLS/ACLS",
+    "Diagnostic Skills",
+    "EMR/EHR",
+    "NABH Standards",
+    "Medical Coding",
+    "Infection Control",
+    "Pharmacovigilance"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Entry-Level Radiologist at Rajiv Gandhi Cancer Institute",
+    "description": "Rajiv Gandhi Cancer Institute, one of India's leading organizations, is hiring a Radiologist for our Aurangabad operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Rajiv Gandhi Cancer Institute:\nRajiv Gandhi Cancer Institute is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Maintain sterile environments and follow infection control protocols\n• Monitor patient progress and adjust treatment plans accordingly\n• Collaborate with pharmaceutical representatives and medical suppliers\n• Administer medications and treatments as prescribed\n• Attend continuing medical education programs and training\n• Educate patients and families on health management and disease prevention\n• Provide high-quality patient care and maintain patient records\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 6-10 years of relevant experience\n• Proficiency in Telemedicine\n• Proficiency in BLS/ACLS\n• Proficiency in Diagnostic Skills\n• Proficiency in EMR/EHR\n• Proficiency in NABH Standards\n• Proficiency in Medical Coding\n• Proficiency in Infection Control\n• Proficiency in Pharmacovigilance\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Meal coupons and food allowance\n• Recognition and rewards programs\n• Flexible working hours\n• Modern office with recreational facilities\n• Mobile and internet reimbursement\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Aurangabad, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Rajiv Gandhi Cancer Institute!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Rajiv Gandhi Cancer Institute",
+      "value": "275-4-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Rajiv Gandhi Cancer Institute",
+      "sameAs": "https://www.google.com/search?q=Rajiv%20Gandhi%20Cancer%20Institute",
+      "logo": "https://logo.clearbit.com/rajivgandhicancerinstitute.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Rajiv Gandhi Cancer Institute Office",
+        "addressLocality": "Aurangabad",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "Telemedicine, BLS/ACLS, Diagnostic Skills, EMR/EHR, NABH Standards, Medical Coding, Infection Control, Pharmacovigilance",
+    "responsibilities": "Maintain sterile environments and follow infection control protocols. Monitor patient progress and adjust treatment plans accordingly. Collaborate with pharmaceutical representatives and medical suppliers. Administer medications and treatments as prescribed. Attend continuing medical education programs and training. Educate patients and families on health management and disease prevention. Provide high-quality patient care and maintain patient records",
+    "benefits": "Transportation and conveyance allowance. Meal coupons and food allowance. Recognition and rewards programs. Flexible working hours. Modern office with recreational facilities. Mobile and internet reimbursement",
+    "industry": "healthcare",
+    "occupationalCategory": "Radiologist",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Meal coupons and food allowance, Recognition and rewards programs, Flexible working hours, Modern office with recreational facilities, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "Rajiv Gandhi Cancer Institute, one of India's leading organizations, is hiring a Radiologist for our Aurangabad operations. We offer a competitive salary packag",
+    "keywords": "Radiologist, Rajiv Gandhi Cancer Institute, jobs in Aurangabad, Maharashtra jobs, healthcare jobs India, Telemedicine, BLS/ACLS, Diagnostic Skills, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:49:22.970Z",
+  "page": 68
+}

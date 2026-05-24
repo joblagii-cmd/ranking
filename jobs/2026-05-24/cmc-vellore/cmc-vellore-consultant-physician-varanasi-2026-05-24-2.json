@@ -1,0 +1,93 @@
+{
+  "slug": "cmc-vellore-consultant-physician-varanasi-2026-05-24-2",
+  "title": "CMC Vellore is Hiring: Consultant Physician (Entry-Level)",
+  "company": "CMC Vellore",
+  "industry": "healthcare",
+  "role": "Consultant Physician",
+  "location": {
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "ICU Management",
+    "Medical Coding",
+    "ICD-10",
+    "Clinical Research",
+    "Infection Control",
+    "Medical Ethics",
+    "BLS/ACLS",
+    "EMR/EHR"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "CMC Vellore is Hiring: Consultant Physician (Entry-Level)",
+    "description": "CMC Vellore, one of India's leading organizations, is hiring a Consultant Physician for our Varanasi operations. We offer a competitive salary package along with world-class benefits.\n\nAbout CMC Vellore:\nCMC Vellore is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Ensure patient privacy and maintain confidentiality\n• Maintain accurate clinical documentation in electronic health records\n• Attend continuing medical education programs and training\n• Provide high-quality patient care and maintain patient records\n• Administer medications and treatments as prescribed\n• Collaborate with pharmaceutical representatives and medical suppliers\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 3-6 years of relevant experience\n• Proficiency in ICU Management\n• Proficiency in Medical Coding\n• Proficiency in ICD-10\n• Proficiency in Clinical Research\n• Proficiency in Infection Control\n• Proficiency in Medical Ethics\n• Proficiency in BLS/ACLS\n• Proficiency in EMR/EHR\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• Maternity and paternity leave\n• Referral bonus program\n• Recognition and rewards programs\n• Employee stock options (ESOPs) for eligible roles\n• Professional development and training programs\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Varanasi, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with CMC Vellore!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "CMC Vellore",
+      "value": "273-2-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "CMC Vellore",
+      "sameAs": "https://www.google.com/search?q=CMC%20Vellore",
+      "logo": "https://logo.clearbit.com/cmcvellore.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "CMC Vellore Office",
+        "addressLocality": "Varanasi",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "ICU Management, Medical Coding, ICD-10, Clinical Research, Infection Control, Medical Ethics, BLS/ACLS, EMR/EHR",
+    "responsibilities": "Coordinate with multidisciplinary teams for comprehensive patient management. Ensure patient privacy and maintain confidentiality. Maintain accurate clinical documentation in electronic health records. Attend continuing medical education programs and training. Provide high-quality patient care and maintain patient records. Administer medications and treatments as prescribed. Collaborate with pharmaceutical representatives and medical suppliers",
+    "benefits": "Comprehensive health insurance for self and family. Maternity and paternity leave. Referral bonus program. Recognition and rewards programs. Employee stock options (ESOPs) for eligible roles. Professional development and training programs",
+    "industry": "healthcare",
+    "occupationalCategory": "Consultant Physician",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, Maternity and paternity leave, Referral bonus program, Recognition and rewards programs, Employee stock options (ESOPs) for eligible roles, Professional development and training programs"
+  },
+  "meta": {
+    "description": "CMC Vellore, one of India's leading organizations, is hiring a Consultant Physician for our Varanasi operations. We offer a competitive salary package along wit",
+    "keywords": "Consultant Physician, CMC Vellore, jobs in Varanasi, Uttar Pradesh jobs, healthcare jobs India, ICU Management, Medical Coding, ICD-10, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:49:22.969Z",
+  "page": 68
+}
