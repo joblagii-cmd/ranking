@@ -1,0 +1,94 @@
+{
+  "slug": "sfc-group-fleet-manager-ahmedabad-2026-05-24-4",
+  "title": "Senior Fleet Manager at SFC Group",
+  "company": "SFC Group",
+  "industry": "logistics",
+  "role": "Fleet Manager",
+  "location": {
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Cold Chain Logistics",
+    "MS Excel",
+    "Supply Chain Management",
+    "SAP SCM",
+    "ERP Systems",
+    "3PL Management",
+    "Customs Clearance",
+    "WMS"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Fleet Manager at SFC Group",
+    "description": "SFC Group invites applications from qualified candidates for the position of Fleet Manager at our Ahmedabad location. This role offers excellent career advancement prospects.\n\nAbout SFC Group:\nSFC Group is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Implement warehouse management systems (WMS) and track KPIs\n• Manage reverse logistics and return merchandise authorization\n• Implement cost-saving initiatives in transportation and warehousing\n• Oversee end-to-end logistics operations for timely delivery\n• Coordinate with customer service teams to resolve delivery issues\n• Manage relationships with third-party logistics providers\n• Conduct periodic vendor audits and evaluate logistics partners\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 12-20 years of relevant experience\n• Proficiency in Cold Chain Logistics\n• Proficiency in MS Excel\n• Proficiency in Supply Chain Management\n• Proficiency in SAP SCM\n• Proficiency in ERP Systems\n• Proficiency in 3PL Management\n• Proficiency in Customs Clearance\n• Proficiency in WMS\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Learning & development budget\n• Annual paid leaves and casual leaves\n• Competitive salary with performance-linked incentives\n• Flexible working hours\n• Modern office with recreational facilities\n• Work-from-home flexibility\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Ahmedabad, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with SFC Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "SFC Group",
+      "value": "821-4-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "SFC Group",
+      "sameAs": "https://www.google.com/search?q=SFC%20Group",
+      "logo": "https://logo.clearbit.com/sfcgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "SFC Group Office",
+        "addressLocality": "Ahmedabad",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Cold Chain Logistics, MS Excel, Supply Chain Management, SAP SCM, ERP Systems, 3PL Management, Customs Clearance, WMS",
+    "responsibilities": "Implement warehouse management systems (WMS) and track KPIs. Manage reverse logistics and return merchandise authorization. Implement cost-saving initiatives in transportation and warehousing. Oversee end-to-end logistics operations for timely delivery. Coordinate with customer service teams to resolve delivery issues. Manage relationships with third-party logistics providers. Conduct periodic vendor audits and evaluate logistics partners",
+    "benefits": "Learning & development budget. Annual paid leaves and casual leaves. Competitive salary with performance-linked incentives. Flexible working hours. Modern office with recreational facilities. Work-from-home flexibility",
+    "industry": "logistics",
+    "occupationalCategory": "Fleet Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Learning & development budget, Annual paid leaves and casual leaves, Competitive salary with performance-linked incentives, Flexible working hours, Modern office with recreational facilities, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "SFC Group invites applications from qualified candidates for the position of Fleet Manager at our Ahmedabad location. This role offers excellent career advancem",
+    "keywords": "Fleet Manager, SFC Group, jobs in Ahmedabad, Gujarat jobs, logistics jobs India, Cold Chain Logistics, MS Excel, Supply Chain Management, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T05:06:17.292Z",
+  "page": 205
+}
