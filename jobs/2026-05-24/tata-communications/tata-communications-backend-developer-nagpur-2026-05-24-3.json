@@ -1,0 +1,94 @@
+{
+  "slug": "tata-communications-backend-developer-nagpur-2026-05-24-3",
+  "title": "Backend Developer Vacancy at Tata Communications - 2026 Batch",
+  "company": "Tata Communications",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "JavaScript",
+    "React",
+    "Agile/Scrum",
+    "AWS",
+    "TypeScript",
+    "Rust",
+    "Kubernetes",
+    "MongoDB"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Tata Communications - 2026 Batch",
+    "description": "Join the Tata Communications family as a Backend Developer in Nagpur. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Tata Communications:\nTata Communications is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Optimize application performance and ensure high availability\n• Design, develop and maintain scalable software applications\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Write and execute unit tests and integration tests\n• Implement new features based on product requirements\n• Contribute to system architecture and technical design decisions\n• Ensure code security and follow best practices for data protection\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 1-3 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in React\n• Proficiency in Agile/Scrum\n• Proficiency in AWS\n• Proficiency in TypeScript\n• Proficiency in Rust\n• Proficiency in Kubernetes\n• Proficiency in MongoDB\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Professional development and training programs\n• Learning & development budget\n• Mobile and internet reimbursement\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Maternity and paternity leave\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Nagpur, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Tata Communications!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Tata Communications",
+      "value": "81-3-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Tata Communications",
+      "sameAs": "https://www.google.com/search?q=Tata%20Communications",
+      "logo": "https://logo.clearbit.com/tatacommunications.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Tata Communications Office",
+        "addressLocality": "Nagpur",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "JavaScript, React, Agile/Scrum, AWS, TypeScript, Rust, Kubernetes, MongoDB",
+    "responsibilities": "Optimize application performance and ensure high availability. Design, develop and maintain scalable software applications. Mentor junior developers and conduct knowledge-sharing sessions. Write and execute unit tests and integration tests. Implement new features based on product requirements. Contribute to system architecture and technical design decisions. Ensure code security and follow best practices for data protection",
+    "benefits": "Professional development and training programs. Learning & development budget. Mobile and internet reimbursement. Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Maternity and paternity leave",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Learning & development budget, Mobile and internet reimbursement, Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Maternity and paternity leave"
+  },
+  "meta": {
+    "description": "Join the Tata Communications family as a Backend Developer in Nagpur. We believe in empowering our employees with the tools, training, and environment they need",
+    "keywords": "Backend Developer, Tata Communications, jobs in Nagpur, Maharashtra jobs, technology jobs India, JavaScript, React, Agile/Scrum, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:43:34.729Z",
+  "page": 20
+}

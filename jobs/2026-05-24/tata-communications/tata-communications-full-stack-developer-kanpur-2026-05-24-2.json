@@ -1,0 +1,93 @@
+{
+  "slug": "tata-communications-full-stack-developer-kanpur-2026-05-24-2",
+  "title": "Tata Communications is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "Tata Communications",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "TensorFlow",
+    "Kubernetes",
+    "CI/CD",
+    "Python",
+    "TypeScript",
+    "MongoDB",
+    "AWS",
+    "Java"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Tata Communications is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "Join the Tata Communications family as a Full Stack Developer in Kanpur. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Tata Communications:\nTata Communications is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write clean, maintainable, and well-documented code\n• Write and execute unit tests and integration tests\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Implement new features based on product requirements\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Participate in on-call rotation for production support\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 3-6 years of relevant experience\n• Proficiency in TensorFlow\n• Proficiency in Kubernetes\n• Proficiency in CI/CD\n• Proficiency in Python\n• Proficiency in TypeScript\n• Proficiency in MongoDB\n• Proficiency in AWS\n• Proficiency in Java\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Referral bonus program\n• Flexible working hours\n• Meal coupons and food allowance\n• Maternity and paternity leave\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Kanpur, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Tata Communications!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Tata Communications",
+      "value": "81-2-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Tata Communications",
+      "sameAs": "https://www.google.com/search?q=Tata%20Communications",
+      "logo": "https://logo.clearbit.com/tatacommunications.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Tata Communications Office",
+        "addressLocality": "Kanpur",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "TensorFlow, Kubernetes, CI/CD, Python, TypeScript, MongoDB, AWS, Java",
+    "responsibilities": "Write clean, maintainable, and well-documented code. Write and execute unit tests and integration tests. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Mentor junior developers and conduct knowledge-sharing sessions. Implement new features based on product requirements. Work with agile methodologies including daily stand-ups and sprint planning. Participate in on-call rotation for production support",
+    "benefits": "Competitive salary with performance-linked incentives. Referral bonus program. Flexible working hours. Meal coupons and food allowance. Maternity and paternity leave. Employee stock options (ESOPs) for eligible roles",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Referral bonus program, Flexible working hours, Meal coupons and food allowance, Maternity and paternity leave, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "Join the Tata Communications family as a Full Stack Developer in Kanpur. We believe in empowering our employees with the tools, training, and environment they n",
+    "keywords": "Full Stack Developer, Tata Communications, jobs in Kanpur, Uttar Pradesh jobs, technology jobs India, TensorFlow, Kubernetes, CI/CD, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:43:34.729Z",
+  "page": 20
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "bsnl-senior-software-engineer-nagpur-2026-05-24-1",
+  "title": "Senior Software Engineer - BSNL - Experienced Professionals",
+  "company": "BSNL",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "SQL",
+    "Kubernetes",
+    "Go",
+    "CI/CD",
+    "Python",
+    "TensorFlow",
+    "Java",
+    "MongoDB"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - BSNL - Experienced Professionals",
+    "description": "Join the BSNL family as a Senior Software Engineer in Nagpur. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout BSNL:\nBSNL is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Collaborate with cross-functional teams including product, design, and QA\n• Ensure code security and follow best practices for data protection\n• Design, develop and maintain scalable software applications\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Optimize application performance and ensure high availability\n• Troubleshoot, debug, and resolve software defects and performance issues\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 3-6 years of relevant experience\n• Proficiency in SQL\n• Proficiency in Kubernetes\n• Proficiency in Go\n• Proficiency in CI/CD\n• Proficiency in Python\n• Proficiency in TensorFlow\n• Proficiency in Java\n• Proficiency in MongoDB\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Referral bonus program\n• Transportation and conveyance allowance\n• Learning & development budget\n• International travel opportunities for senior roles\n• Provident Fund and Gratuity as per company policy\n• Company-sponsored certifications\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Nagpur, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with BSNL!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "BSNL",
+      "value": "82-1-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "BSNL",
+      "sameAs": "https://www.google.com/search?q=BSNL",
+      "logo": "https://logo.clearbit.com/bsnl.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "BSNL Office",
+        "addressLocality": "Nagpur",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "SQL, Kubernetes, Go, CI/CD, Python, TensorFlow, Java, MongoDB",
+    "responsibilities": "Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Collaborate with cross-functional teams including product, design, and QA. Ensure code security and follow best practices for data protection. Design, develop and maintain scalable software applications. Work with agile methodologies including daily stand-ups and sprint planning. Optimize application performance and ensure high availability. Troubleshoot, debug, and resolve software defects and performance issues",
+    "benefits": "Referral bonus program. Transportation and conveyance allowance. Learning & development budget. International travel opportunities for senior roles. Provident Fund and Gratuity as per company policy. Company-sponsored certifications",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Referral bonus program, Transportation and conveyance allowance, Learning & development budget, International travel opportunities for senior roles, Provident Fund and Gratuity as per company policy, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "Join the BSNL family as a Senior Software Engineer in Nagpur. We believe in empowering our employees with the tools, training, and environment they need to succ",
+    "keywords": "Senior Software Engineer, BSNL, jobs in Nagpur, Maharashtra jobs, technology jobs India, SQL, Kubernetes, Go, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:43:34.729Z",
+  "page": 20
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "tata-communications-senior-software-engineer-kanpur-2026-05-24-1",
+  "title": "Senior Software Engineer - Tata Communications - Experienced Professionals",
+  "company": "Tata Communications",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "CI/CD",
+    "Agile/Scrum",
+    "Rust",
+    "Java",
+    "MongoDB",
+    "Docker",
+    "React",
+    "Kubernetes"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Tata Communications - Experienced Professionals",
+    "description": "Join the Tata Communications family as a Senior Software Engineer in Kanpur. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Tata Communications:\nTata Communications is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in on-call rotation for production support\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Contribute to system architecture and technical design decisions\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Design, develop and maintain scalable software applications\n• Integrate third-party APIs and services\n• Write and execute unit tests and integration tests\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 6-10 years of relevant experience\n• Proficiency in CI/CD\n• Proficiency in Agile/Scrum\n• Proficiency in Rust\n• Proficiency in Java\n• Proficiency in MongoDB\n• Proficiency in Docker\n• Proficiency in React\n• Proficiency in Kubernetes\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Competitive salary with performance-linked incentives\n• Learning & development budget\n• Comprehensive health insurance for self and family\n• Modern office with recreational facilities\n• Life and accident insurance\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Kanpur, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Tata Communications!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Tata Communications",
+      "value": "81-1-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Tata Communications",
+      "sameAs": "https://www.google.com/search?q=Tata%20Communications",
+      "logo": "https://logo.clearbit.com/tatacommunications.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Tata Communications Office",
+        "addressLocality": "Kanpur",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "CI/CD, Agile/Scrum, Rust, Java, MongoDB, Docker, React, Kubernetes",
+    "responsibilities": "Participate in on-call rotation for production support. Troubleshoot, debug, and resolve software defects and performance issues. Contribute to system architecture and technical design decisions. Mentor junior developers and conduct knowledge-sharing sessions. Design, develop and maintain scalable software applications. Integrate third-party APIs and services. Write and execute unit tests and integration tests",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Competitive salary with performance-linked incentives. Learning & development budget. Comprehensive health insurance for self and family. Modern office with recreational facilities. Life and accident insurance",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Competitive salary with performance-linked incentives, Learning & development budget, Comprehensive health insurance for self and family, Modern office with recreational facilities, Life and accident insurance"
+  },
+  "meta": {
+    "description": "Join the Tata Communications family as a Senior Software Engineer in Kanpur. We believe in empowering our employees with the tools, training, and environment th",
+    "keywords": "Senior Software Engineer, Tata Communications, jobs in Kanpur, Uttar Pradesh jobs, technology jobs India, CI/CD, Agile/Scrum, Rust, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:43:34.729Z",
+  "page": 20
+}
