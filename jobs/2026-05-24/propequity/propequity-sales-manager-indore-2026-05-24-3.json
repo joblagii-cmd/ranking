@@ -1,0 +1,94 @@
+{
+  "slug": "propequity-sales-manager-indore-2026-05-24-3",
+  "title": "Sales Manager Vacancy at PropEquity - 2026 Batch",
+  "company": "PropEquity",
+  "industry": "realestate",
+  "role": "Sales Manager",
+  "location": {
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Financial Modeling",
+    "Market Research",
+    "Client Relationship Management",
+    "Negotiation Skills",
+    "Sales Techniques",
+    "Due Diligence",
+    "GIS Tools",
+    "MS Office"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Sales Manager Vacancy at PropEquity - 2026 Batch",
+    "description": "PropEquity, one of India's leading organizations, is hiring a Sales Manager for our Indore operations. We offer a competitive salary package along with world-class benefits.\n\nAbout PropEquity:\nPropEquity is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with architects, contractors, and project teams\n• Manage relationships with existing customers post-purchase\n• Manage RERA documentation and compliance requirements\n• Build relationships with channel partners and brokers\n• Prepare presentations and proposals for institutional clients\n• Provide advisory services on property investment and market trends\n• Negotiate pricing, terms, and conditions on behalf of clients\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 6-10 years of relevant experience\n• Proficiency in Financial Modeling\n• Proficiency in Market Research\n• Proficiency in Client Relationship Management\n• Proficiency in Negotiation Skills\n• Proficiency in Sales Techniques\n• Proficiency in Due Diligence\n• Proficiency in GIS Tools\n• Proficiency in MS Office\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Work-from-home flexibility\n• Annual paid leaves and casual leaves\n• Provident Fund and Gratuity as per company policy\n• Company-sponsored certifications\n• Annual performance appraisal\n• International travel opportunities for senior roles\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Indore, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with PropEquity!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "PropEquity",
+      "value": "749-3-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "PropEquity",
+      "sameAs": "https://www.google.com/search?q=PropEquity",
+      "logo": "https://logo.clearbit.com/propequity.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "PropEquity Office",
+        "addressLocality": "Indore",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "Financial Modeling, Market Research, Client Relationship Management, Negotiation Skills, Sales Techniques, Due Diligence, GIS Tools, MS Office",
+    "responsibilities": "Coordinate with architects, contractors, and project teams. Manage relationships with existing customers post-purchase. Manage RERA documentation and compliance requirements. Build relationships with channel partners and brokers. Prepare presentations and proposals for institutional clients. Provide advisory services on property investment and market trends. Negotiate pricing, terms, and conditions on behalf of clients",
+    "benefits": "Work-from-home flexibility. Annual paid leaves and casual leaves. Provident Fund and Gratuity as per company policy. Company-sponsored certifications. Annual performance appraisal. International travel opportunities for senior roles",
+    "industry": "realestate",
+    "occupationalCategory": "Sales Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Annual paid leaves and casual leaves, Provident Fund and Gratuity as per company policy, Company-sponsored certifications, Annual performance appraisal, International travel opportunities for senior roles"
+  },
+  "meta": {
+    "description": "PropEquity, one of India's leading organizations, is hiring a Sales Manager for our Indore operations. We offer a competitive salary package along with world-cl",
+    "keywords": "Sales Manager, PropEquity, jobs in Indore, Madhya Pradesh jobs, realestate jobs India, Financial Modeling, Market Research, Client Relationship Management, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T05:03:58.228Z",
+  "page": 187
+}
