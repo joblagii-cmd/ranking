@@ -1,0 +1,93 @@
+{
+  "slug": "akzo-nobel-india-process-engineer-ludhiana-2026-05-24-3",
+  "title": "Process Engineer Vacancy at Akzo Nobel India - 2026 Batch",
+  "company": "Akzo Nobel India",
+  "industry": "manufacturing",
+  "role": "Process Engineer",
+  "location": {
+    "city": "Ludhiana",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "PLC/SCADA",
+    "SAP MM/PP",
+    "Quality Control",
+    "SolidWorks",
+    "Supply Chain Management",
+    "GD&T",
+    "FMEA",
+    "ERP Systems"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Process Engineer Vacancy at Akzo Nobel India - 2026 Batch",
+    "description": "We at Akzo Nobel India are looking for an experienced Process Engineer based out of Ludhiana. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout Akzo Nobel India:\nAkzo Nobel India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure compliance with safety regulations and factory acts\n• Maintain accurate production records and prepare daily reports\n• Monitor equipment performance and coordinate preventive maintenance\n• Coordinate with design and engineering teams on product improvements\n• Implement 5S, Kaizen, and Six Sigma practices on the shop floor\n• Implement lean manufacturing and continuous improvement initiatives\n• Conduct root cause analysis for quality rejections and defects\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 10-15 years of relevant experience\n• Proficiency in PLC/SCADA\n• Proficiency in SAP MM/PP\n• Proficiency in Quality Control\n• Proficiency in SolidWorks\n• Proficiency in Supply Chain Management\n• Proficiency in GD&T\n• Proficiency in FMEA\n• Proficiency in ERP Systems\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Life and accident insurance\n• Provident Fund and Gratuity as per company policy\n• Flexible working hours\n• Mobile and internet reimbursement\n• Work-from-home flexibility\n• Maternity and paternity leave\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Ludhiana, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Akzo Nobel India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Akzo Nobel India",
+      "value": "429-3-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Akzo Nobel India",
+      "sameAs": "https://www.google.com/search?q=Akzo%20Nobel%20India",
+      "logo": "https://logo.clearbit.com/akzonobelindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Akzo Nobel India Office",
+        "addressLocality": "Ludhiana",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "PLC/SCADA, SAP MM/PP, Quality Control, SolidWorks, Supply Chain Management, GD&T, FMEA, ERP Systems",
+    "responsibilities": "Ensure compliance with safety regulations and factory acts. Maintain accurate production records and prepare daily reports. Monitor equipment performance and coordinate preventive maintenance. Coordinate with design and engineering teams on product improvements. Implement 5S, Kaizen, and Six Sigma practices on the shop floor. Implement lean manufacturing and continuous improvement initiatives. Conduct root cause analysis for quality rejections and defects",
+    "benefits": "Life and accident insurance. Provident Fund and Gratuity as per company policy. Flexible working hours. Mobile and internet reimbursement. Work-from-home flexibility. Maternity and paternity leave",
+    "industry": "manufacturing",
+    "occupationalCategory": "Process Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Provident Fund and Gratuity as per company policy, Flexible working hours, Mobile and internet reimbursement, Work-from-home flexibility, Maternity and paternity leave"
+  },
+  "meta": {
+    "description": "We at Akzo Nobel India are looking for an experienced Process Engineer based out of Ludhiana. If you are a result-oriented professional with a passion for excel",
+    "keywords": "Process Engineer, Akzo Nobel India, jobs in Ludhiana, Punjab jobs, manufacturing jobs India, PLC/SCADA, SAP MM/PP, Quality Control, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:54:05.792Z",
+  "page": 107
+}
