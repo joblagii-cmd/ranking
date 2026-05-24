@@ -1,0 +1,94 @@
+{
+  "slug": "havells-india-plant-manager-aurangabad-2026-05-24-4",
+  "title": "Mid-Level Plant Manager at Havells India",
+  "company": "Havells India",
+  "industry": "manufacturing",
+  "role": "Plant Manager",
+  "location": {
+    "city": "Aurangabad",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "SAP MM/PP",
+    "Lean Manufacturing",
+    "APQP",
+    "Quality Control",
+    "AutoCAD",
+    "TPM",
+    "Project Management",
+    "Six Sigma"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Plant Manager at Havells India",
+    "description": "We at Havells India are looking for an experienced Plant Manager based out of Aurangabad. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout Havells India:\nHavells India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Oversee daily production operations to meet output targets\n• Coordinate with design and engineering teams on product improvements\n• Conduct root cause analysis for quality rejections and defects\n• Implement 5S, Kaizen, and Six Sigma practices on the shop floor\n• Coordinate with logistics for dispatching finished goods\n• Prepare production cost analysis and efficiency reports\n• Manage supplier quality audits and vendor development\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 3-6 years of relevant experience\n• Proficiency in SAP MM/PP\n• Proficiency in Lean Manufacturing\n• Proficiency in APQP\n• Proficiency in Quality Control\n• Proficiency in AutoCAD\n• Proficiency in TPM\n• Proficiency in Project Management\n• Proficiency in Six Sigma\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Modern office with recreational facilities\n• Provident Fund and Gratuity as per company policy\n• Mobile and internet reimbursement\n• International travel opportunities for senior roles\n• Referral bonus program\n• Company-sponsored certifications\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Aurangabad, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Havells India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Havells India",
+      "value": "441-4-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Havells India",
+      "sameAs": "https://www.google.com/search?q=Havells%20India",
+      "logo": "https://logo.clearbit.com/havellsindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Havells India Office",
+        "addressLocality": "Aurangabad",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "SAP MM/PP, Lean Manufacturing, APQP, Quality Control, AutoCAD, TPM, Project Management, Six Sigma",
+    "responsibilities": "Oversee daily production operations to meet output targets. Coordinate with design and engineering teams on product improvements. Conduct root cause analysis for quality rejections and defects. Implement 5S, Kaizen, and Six Sigma practices on the shop floor. Coordinate with logistics for dispatching finished goods. Prepare production cost analysis and efficiency reports. Manage supplier quality audits and vendor development",
+    "benefits": "Modern office with recreational facilities. Provident Fund and Gratuity as per company policy. Mobile and internet reimbursement. International travel opportunities for senior roles. Referral bonus program. Company-sponsored certifications",
+    "industry": "manufacturing",
+    "occupationalCategory": "Plant Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Modern office with recreational facilities, Provident Fund and Gratuity as per company policy, Mobile and internet reimbursement, International travel opportunities for senior roles, Referral bonus program, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "We at Havells India are looking for an experienced Plant Manager based out of Aurangabad. If you are a result-oriented professional with a passion for excellenc",
+    "keywords": "Plant Manager, Havells India, jobs in Aurangabad, Maharashtra jobs, manufacturing jobs India, SAP MM/PP, Lean Manufacturing, APQP, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:54:27.562Z",
+  "page": 110
+}
