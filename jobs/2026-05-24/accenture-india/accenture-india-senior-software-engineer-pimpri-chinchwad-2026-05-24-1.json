@@ -1,0 +1,94 @@
+{
+  "slug": "accenture-india-senior-software-engineer-pimpri-chinchwad-2026-05-24-1",
+  "title": "Senior Software Engineer - Accenture India - Multiple Openings",
+  "company": "Accenture India",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Pimpri-Chinchwad",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Agile/Scrum",
+    "Kubernetes",
+    "AWS",
+    "JavaScript",
+    "Git",
+    "TypeScript",
+    "Rust",
+    "Go"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Accenture India - Multiple Openings",
+    "description": "Accenture India has an exciting opening for a Senior Software Engineer at our Pimpri-Chinchwad office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Accenture India:\nAccenture India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in code reviews and contribute to technical discussions\n• Design, develop and maintain scalable software applications\n• Participate in on-call rotation for production support\n• Integrate third-party APIs and services\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Contribute to system architecture and technical design decisions\n• Work with agile methodologies including daily stand-ups and sprint planning\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 6-10 years of relevant experience\n• Proficiency in Agile/Scrum\n• Proficiency in Kubernetes\n• Proficiency in AWS\n• Proficiency in JavaScript\n• Proficiency in Git\n• Proficiency in TypeScript\n• Proficiency in Rust\n• Proficiency in Go\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Meal coupons and food allowance\n• Provident Fund and Gratuity as per company policy\n• Referral bonus program\n• International travel opportunities for senior roles\n• Annual performance appraisal\n• Modern office with recreational facilities\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Pimpri-Chinchwad, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Accenture India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Accenture India",
+      "value": "7-1-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Accenture India",
+      "sameAs": "https://www.google.com/search?q=Accenture%20India",
+      "logo": "https://logo.clearbit.com/accentureindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Accenture India Office",
+        "addressLocality": "Pimpri-Chinchwad",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "Agile/Scrum, Kubernetes, AWS, JavaScript, Git, TypeScript, Rust, Go",
+    "responsibilities": "Participate in code reviews and contribute to technical discussions. Design, develop and maintain scalable software applications. Participate in on-call rotation for production support. Integrate third-party APIs and services. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Contribute to system architecture and technical design decisions. Work with agile methodologies including daily stand-ups and sprint planning",
+    "benefits": "Meal coupons and food allowance. Provident Fund and Gratuity as per company policy. Referral bonus program. International travel opportunities for senior roles. Annual performance appraisal. Modern office with recreational facilities",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Meal coupons and food allowance, Provident Fund and Gratuity as per company policy, Referral bonus program, International travel opportunities for senior roles, Annual performance appraisal, Modern office with recreational facilities"
+  },
+  "meta": {
+    "description": "Accenture India has an exciting opening for a Senior Software Engineer at our Pimpri-Chinchwad office. Join a company that values innovation, collaboration, and",
+    "keywords": "Senior Software Engineer, Accenture India, jobs in Pimpri-Chinchwad, Maharashtra jobs, technology jobs India, Agile/Scrum, Kubernetes, AWS, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:41:14.973Z",
+  "page": 1
+}

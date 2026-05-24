@@ -1,0 +1,94 @@
+{
+  "slug": "ibm-india-full-stack-developer-patna-2026-05-24-2",
+  "title": "IBM India is Hiring: Full Stack Developer (Junior)",
+  "company": "IBM India",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Patna",
+    "state": "Bihar",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Node.js",
+    "Docker",
+    "TypeScript",
+    "Machine Learning",
+    "Kubernetes",
+    "SQL",
+    "React",
+    "Git"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "IBM India is Hiring: Full Stack Developer (Junior)",
+    "description": "IBM India has an exciting opening for a Full Stack Developer at our Patna office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout IBM India:\nIBM India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write and execute unit tests and integration tests\n• Optimize application performance and ensure high availability\n• Collaborate with cross-functional teams including product, design, and QA\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Participate in code reviews and contribute to technical discussions\n• Contribute to system architecture and technical design decisions\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 1-3 years of relevant experience\n• Proficiency in Node.js\n• Proficiency in Docker\n• Proficiency in TypeScript\n• Proficiency in Machine Learning\n• Proficiency in Kubernetes\n• Proficiency in SQL\n• Proficiency in React\n• Proficiency in Git\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Referral bonus program\n• Comprehensive health insurance for self and family\n• International travel opportunities for senior roles\n• Meal coupons and food allowance\n• Learning & development budget\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Patna, Bihar, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with IBM India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "IBM India",
+      "value": "8-2-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "IBM India",
+      "sameAs": "https://www.google.com/search?q=IBM%20India",
+      "logo": "https://logo.clearbit.com/ibmindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "IBM India Office",
+        "addressLocality": "Patna",
+        "addressRegion": "Bihar",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "Node.js, Docker, TypeScript, Machine Learning, Kubernetes, SQL, React, Git",
+    "responsibilities": "Write and execute unit tests and integration tests. Optimize application performance and ensure high availability. Collaborate with cross-functional teams including product, design, and QA. Mentor junior developers and conduct knowledge-sharing sessions. Work with agile methodologies including daily stand-ups and sprint planning. Participate in code reviews and contribute to technical discussions. Contribute to system architecture and technical design decisions",
+    "benefits": "Provident Fund and Gratuity as per company policy. Referral bonus program. Comprehensive health insurance for self and family. International travel opportunities for senior roles. Meal coupons and food allowance. Learning & development budget",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Referral bonus program, Comprehensive health insurance for self and family, International travel opportunities for senior roles, Meal coupons and food allowance, Learning & development budget"
+  },
+  "meta": {
+    "description": "IBM India has an exciting opening for a Full Stack Developer at our Patna office. Join a company that values innovation, collaboration, and continuous learning.",
+    "keywords": "Full Stack Developer, IBM India, jobs in Patna, Bihar jobs, technology jobs India, Node.js, Docker, TypeScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:41:14.973Z",
+  "page": 1
+}
