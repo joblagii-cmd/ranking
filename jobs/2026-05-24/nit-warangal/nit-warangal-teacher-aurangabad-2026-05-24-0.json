@@ -1,0 +1,94 @@
+{
+  "slug": "nit-warangal-teacher-aurangabad-2026-05-24-0",
+  "title": "Vacancy for Teacher at NIT Warangal",
+  "company": "NIT Warangal",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Aurangabad",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Pedagogy",
+    "Lesson Planning",
+    "Communication Skills",
+    "Data Analysis",
+    "Mentoring",
+    "E-learning",
+    "Curriculum Development",
+    "Classroom Management"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Vacancy for Teacher at NIT Warangal",
+    "description": "An exciting career opportunity awaits you at NIT Warangal. We are on the lookout for a dedicated Teacher to strengthen our Aurangabad-based team.\n\nAbout NIT Warangal:\nNIT Warangal is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Develop and deliver engaging lesson plans for students\n• Create curriculum-aligned learning materials and assessments\n• Conduct doubt-clearing sessions and remedial classes for weak students\n• Contribute to school newsletter, blogs, and other publications\n• Support students with special educational needs\n• Utilize technology and digital tools to enhance learning outcomes\n• Participate in teacher training and professional development programs\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 10-15 years of relevant experience\n• Proficiency in Pedagogy\n• Proficiency in Lesson Planning\n• Proficiency in Communication Skills\n• Proficiency in Data Analysis\n• Proficiency in Mentoring\n• Proficiency in E-learning\n• Proficiency in Curriculum Development\n• Proficiency in Classroom Management\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• International travel opportunities for senior roles\n• Life and accident insurance\n• Comprehensive health insurance for self and family\n• Company-sponsored certifications\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Aurangabad, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with NIT Warangal!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "NIT Warangal",
+      "value": "528-0-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "NIT Warangal",
+      "sameAs": "https://www.google.com/search?q=NIT%20Warangal",
+      "logo": "https://logo.clearbit.com/nitwarangal.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "NIT Warangal Office",
+        "addressLocality": "Aurangabad",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "Pedagogy, Lesson Planning, Communication Skills, Data Analysis, Mentoring, E-learning, Curriculum Development, Classroom Management",
+    "responsibilities": "Develop and deliver engaging lesson plans for students. Create curriculum-aligned learning materials and assessments. Conduct doubt-clearing sessions and remedial classes for weak students. Contribute to school newsletter, blogs, and other publications. Support students with special educational needs. Utilize technology and digital tools to enhance learning outcomes. Participate in teacher training and professional development programs",
+    "benefits": "Provident Fund and Gratuity as per company policy. International travel opportunities for senior roles. Life and accident insurance. Comprehensive health insurance for self and family. Company-sponsored certifications. Employee stock options (ESOPs) for eligible roles",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, International travel opportunities for senior roles, Life and accident insurance, Comprehensive health insurance for self and family, Company-sponsored certifications, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at NIT Warangal. We are on the lookout for a dedicated Teacher to strengthen our Aurangabad-based team.",
+    "keywords": "Teacher, NIT Warangal, jobs in Aurangabad, Maharashtra jobs, education jobs India, Pedagogy, Lesson Planning, Communication Skills, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:57:00.353Z",
+  "page": 131
+}
