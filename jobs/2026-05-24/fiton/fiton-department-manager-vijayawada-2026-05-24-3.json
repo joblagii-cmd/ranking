@@ -1,0 +1,94 @@
+{
+  "slug": "fiton-department-manager-vijayawada-2026-05-24-3",
+  "title": "Department Manager Vacancy at FitOn - 2026 Batch",
+  "company": "FitOn",
+  "industry": "retail",
+  "role": "Department Manager",
+  "location": {
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "MS Excel",
+    "POS Systems",
+    "Omnichannel Retail",
+    "Planogram",
+    "E-commerce Integration",
+    "Visual Merchandising",
+    "Supply Chain",
+    "Sales Techniques"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Department Manager Vacancy at FitOn - 2026 Batch",
+    "description": "If you're a passionate Department Manager with drive and ambition, FitOn in Vijayawada is the place for you. We're growing fast and need talented people to grow with us.\n\nAbout FitOn:\nFitOn is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Manage store operations to ensure smooth daily functioning\n• Assist in recruiting, onboarding, and performance management of staff\n• Manage shrinkage and reduce stock discrepancies\n• Achieve sales targets and improve store performance metrics\n• Monitor inventory levels and coordinate replenishment activities\n• Conduct regular stock audits and prevent pilferage\n• Implement promotional activities and in-store campaigns\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 12-20 years of relevant experience\n• Proficiency in MS Excel\n• Proficiency in POS Systems\n• Proficiency in Omnichannel Retail\n• Proficiency in Planogram\n• Proficiency in E-commerce Integration\n• Proficiency in Visual Merchandising\n• Proficiency in Supply Chain\n• Proficiency in Sales Techniques\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Meal coupons and food allowance\n• Comprehensive health insurance for self and family\n• Annual paid leaves and casual leaves\n• Flexible working hours\n• Maternity and paternity leave\n• Recognition and rewards programs\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Vijayawada, Andhra Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with FitOn!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "FitOn",
+      "value": "625-3-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "FitOn",
+      "sameAs": "https://www.google.com/search?q=FitOn",
+      "logo": "https://logo.clearbit.com/fiton.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "FitOn Office",
+        "addressLocality": "Vijayawada",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "MS Excel, POS Systems, Omnichannel Retail, Planogram, E-commerce Integration, Visual Merchandising, Supply Chain, Sales Techniques",
+    "responsibilities": "Manage store operations to ensure smooth daily functioning. Assist in recruiting, onboarding, and performance management of staff. Manage shrinkage and reduce stock discrepancies. Achieve sales targets and improve store performance metrics. Monitor inventory levels and coordinate replenishment activities. Conduct regular stock audits and prevent pilferage. Implement promotional activities and in-store campaigns",
+    "benefits": "Meal coupons and food allowance. Comprehensive health insurance for self and family. Annual paid leaves and casual leaves. Flexible working hours. Maternity and paternity leave. Recognition and rewards programs",
+    "industry": "retail",
+    "occupationalCategory": "Department Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Meal coupons and food allowance, Comprehensive health insurance for self and family, Annual paid leaves and casual leaves, Flexible working hours, Maternity and paternity leave, Recognition and rewards programs"
+  },
+  "meta": {
+    "description": "If you're a passionate Department Manager with drive and ambition, FitOn in Vijayawada is the place for you. We're growing fast and need talented people to grow",
+    "keywords": "Department Manager, FitOn, jobs in Vijayawada, Andhra Pradesh jobs, retail jobs India, MS Excel, POS Systems, Omnichannel Retail, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T05:00:01.682Z",
+  "page": 156
+}
