@@ -1,0 +1,93 @@
+{
+  "slug": "zoho-corporation-full-stack-developer-srinagar-2026-05-24-2",
+  "title": "Zoho Corporation is Hiring: Full Stack Developer (Junior)",
+  "company": "Zoho Corporation",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Srinagar",
+    "state": "Jammu & Kashmir",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "REST APIs",
+    "React",
+    "JavaScript",
+    "Kubernetes",
+    "CI/CD",
+    "Machine Learning",
+    "Git",
+    "Java"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Zoho Corporation is Hiring: Full Stack Developer (Junior)",
+    "description": "Are you a skilled Full Stack Developer looking for your next big career move? Zoho Corporation in Srinagar offers you the perfect platform to grow professionally and personally.\n\nAbout Zoho Corporation:\nZoho Corporation is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Implement new features based on product requirements\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in code reviews and contribute to technical discussions\n• Write and execute unit tests and integration tests\n• Write clean, maintainable, and well-documented code\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 0-1 years of relevant experience\n• Proficiency in REST APIs\n• Proficiency in React\n• Proficiency in JavaScript\n• Proficiency in Kubernetes\n• Proficiency in CI/CD\n• Proficiency in Machine Learning\n• Proficiency in Git\n• Proficiency in Java\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Professional development and training programs\n• Annual paid leaves and casual leaves\n• Referral bonus program\n• Provident Fund and Gratuity as per company policy\n• International travel opportunities for senior roles\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Srinagar, Jammu & Kashmir, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Zoho Corporation!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Zoho Corporation",
+      "value": "25-2-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Zoho Corporation",
+      "sameAs": "https://www.google.com/search?q=Zoho%20Corporation",
+      "logo": "https://logo.clearbit.com/zohocorporation.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Zoho Corporation Office",
+        "addressLocality": "Srinagar",
+        "addressRegion": "Jammu & Kashmir",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "REST APIs, React, JavaScript, Kubernetes, CI/CD, Machine Learning, Git, Java",
+    "responsibilities": "Work with agile methodologies including daily stand-ups and sprint planning. Implement new features based on product requirements. Troubleshoot, debug, and resolve software defects and performance issues. Collaborate with cross-functional teams including product, design, and QA. Participate in code reviews and contribute to technical discussions. Write and execute unit tests and integration tests. Write clean, maintainable, and well-documented code",
+    "benefits": "Professional development and training programs. Annual paid leaves and casual leaves. Referral bonus program. Provident Fund and Gratuity as per company policy. International travel opportunities for senior roles. Employee stock options (ESOPs) for eligible roles",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Annual paid leaves and casual leaves, Referral bonus program, Provident Fund and Gratuity as per company policy, International travel opportunities for senior roles, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "Are you a skilled Full Stack Developer looking for your next big career move? Zoho Corporation in Srinagar offers you the perfect platform to grow professionall",
+    "keywords": "Full Stack Developer, Zoho Corporation, jobs in Srinagar, Jammu & Kashmir jobs, technology jobs India, REST APIs, React, JavaScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:41:51.848Z",
+  "page": 6
+}
