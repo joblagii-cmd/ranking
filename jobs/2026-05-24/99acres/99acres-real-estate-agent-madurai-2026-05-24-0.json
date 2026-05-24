@@ -1,0 +1,94 @@
+{
+  "slug": "99acres-real-estate-agent-madurai-2026-05-24-0",
+  "title": "Looking for Real Estate Agent at 99acres",
+  "company": "99acres",
+  "industry": "realestate",
+  "role": "Real Estate Agent",
+  "location": {
+    "city": "Madurai",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Property Valuation",
+    "Investment Analysis",
+    "Sales Techniques",
+    "Market Research",
+    "Real Estate Law",
+    "MS Office",
+    "Lease Administration",
+    "AutoCAD"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Looking for Real Estate Agent at 99acres",
+    "description": "99acres has an exciting opening for a Real Estate Agent at our Madurai office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout 99acres:\n99acres is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Manage RERA documentation and compliance requirements\n• Liaise with banks and NBFCs for home loan assistance to customers\n• Build relationships with channel partners and brokers\n• Provide advisory services on property investment and market trends\n• Negotiate pricing, terms, and conditions on behalf of clients\n• Coordinate with architects, contractors, and project teams\n• Maintain a pipeline of qualified leads using CRM software\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 10-15 years of relevant experience\n• Proficiency in Property Valuation\n• Proficiency in Investment Analysis\n• Proficiency in Sales Techniques\n• Proficiency in Market Research\n• Proficiency in Real Estate Law\n• Proficiency in MS Office\n• Proficiency in Lease Administration\n• Proficiency in AutoCAD\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Company-sponsored certifications\n• Competitive salary with performance-linked incentives\n• Flexible working hours\n• Modern office with recreational facilities\n• Referral bonus program\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Madurai, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with 99acres!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "99acres",
+      "value": "714-0-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "99acres",
+      "sameAs": "https://www.google.com/search?q=99acres",
+      "logo": "https://logo.clearbit.com/99acres.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "99acres Office",
+        "addressLocality": "Madurai",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "Property Valuation, Investment Analysis, Sales Techniques, Market Research, Real Estate Law, MS Office, Lease Administration, AutoCAD",
+    "responsibilities": "Manage RERA documentation and compliance requirements. Liaise with banks and NBFCs for home loan assistance to customers. Build relationships with channel partners and brokers. Provide advisory services on property investment and market trends. Negotiate pricing, terms, and conditions on behalf of clients. Coordinate with architects, contractors, and project teams. Maintain a pipeline of qualified leads using CRM software",
+    "benefits": "Annual paid leaves and casual leaves. Company-sponsored certifications. Competitive salary with performance-linked incentives. Flexible working hours. Modern office with recreational facilities. Referral bonus program",
+    "industry": "realestate",
+    "occupationalCategory": "Real Estate Agent",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Company-sponsored certifications, Competitive salary with performance-linked incentives, Flexible working hours, Modern office with recreational facilities, Referral bonus program"
+  },
+  "meta": {
+    "description": "99acres has an exciting opening for a Real Estate Agent at our Madurai office. Join a company that values innovation, collaboration, and continuous learning.",
+    "keywords": "Real Estate Agent, 99acres, jobs in Madurai, Tamil Nadu jobs, realestate jobs India, Property Valuation, Investment Analysis, Sales Techniques, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T05:02:50.479Z",
+  "page": 178
+}
