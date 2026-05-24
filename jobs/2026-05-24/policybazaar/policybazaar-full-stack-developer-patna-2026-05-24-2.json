@@ -1,0 +1,93 @@
+{
+  "slug": "policybazaar-full-stack-developer-patna-2026-05-24-2",
+  "title": "PolicyBazaar is Hiring: Full Stack Developer (Senior)",
+  "company": "PolicyBazaar",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Patna",
+    "state": "Bihar",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "React",
+    "Java",
+    "Microservices",
+    "Rust",
+    "Machine Learning",
+    "MongoDB",
+    "Docker",
+    "Python"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "PolicyBazaar is Hiring: Full Stack Developer (Senior)",
+    "description": "Join the PolicyBazaar family as a Full Stack Developer in Patna. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout PolicyBazaar:\nPolicyBazaar is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Collaborate with cross-functional teams including product, design, and QA\n• Contribute to system architecture and technical design decisions\n• Implement new features based on product requirements\n• Optimize application performance and ensure high availability\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 6-10 years of relevant experience\n• Proficiency in React\n• Proficiency in Java\n• Proficiency in Microservices\n• Proficiency in Rust\n• Proficiency in Machine Learning\n• Proficiency in MongoDB\n• Proficiency in Docker\n• Proficiency in Python\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Employee stock options (ESOPs) for eligible roles\n• Annual paid leaves and casual leaves\n• Life and accident insurance\n• Transportation and conveyance allowance\n• Meal coupons and food allowance\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Patna, Bihar, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with PolicyBazaar!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "PolicyBazaar",
+      "value": "91-2-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "PolicyBazaar",
+      "sameAs": "https://www.google.com/search?q=PolicyBazaar",
+      "logo": "https://logo.clearbit.com/policybazaar.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "PolicyBazaar Office",
+        "addressLocality": "Patna",
+        "addressRegion": "Bihar",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "React, Java, Microservices, Rust, Machine Learning, MongoDB, Docker, Python",
+    "responsibilities": "Troubleshoot, debug, and resolve software defects and performance issues. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Work with agile methodologies including daily stand-ups and sprint planning. Collaborate with cross-functional teams including product, design, and QA. Contribute to system architecture and technical design decisions. Implement new features based on product requirements. Optimize application performance and ensure high availability",
+    "benefits": "Competitive salary with performance-linked incentives. Employee stock options (ESOPs) for eligible roles. Annual paid leaves and casual leaves. Life and accident insurance. Transportation and conveyance allowance. Meal coupons and food allowance",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Employee stock options (ESOPs) for eligible roles, Annual paid leaves and casual leaves, Life and accident insurance, Transportation and conveyance allowance, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "Join the PolicyBazaar family as a Full Stack Developer in Patna. We believe in empowering our employees with the tools, training, and environment they need to s",
+    "keywords": "Full Stack Developer, PolicyBazaar, jobs in Patna, Bihar jobs, technology jobs India, React, Java, Microservices, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:43:49.660Z",
+  "page": 22
+}

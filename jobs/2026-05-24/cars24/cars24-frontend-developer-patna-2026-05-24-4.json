@@ -1,0 +1,93 @@
+{
+  "slug": "cars24-frontend-developer-patna-2026-05-24-4",
+  "title": "Senior Frontend Developer at Cars24",
+  "company": "Cars24",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Patna",
+    "state": "Bihar",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Java",
+    "Agile/Scrum",
+    "AWS",
+    "JavaScript",
+    "React",
+    "TypeScript",
+    "Machine Learning",
+    "Rust"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Frontend Developer at Cars24",
+    "description": "Join the Cars24 family as a Frontend Developer in Patna. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Cars24:\nCars24 is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure code security and follow best practices for data protection\n• Participate in code reviews and contribute to technical discussions\n• Write and execute unit tests and integration tests\n• Write clean, maintainable, and well-documented code\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Optimize application performance and ensure high availability\n• Participate in on-call rotation for production support\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 3-6 years of relevant experience\n• Proficiency in Java\n• Proficiency in Agile/Scrum\n• Proficiency in AWS\n• Proficiency in JavaScript\n• Proficiency in React\n• Proficiency in TypeScript\n• Proficiency in Machine Learning\n• Proficiency in Rust\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Annual performance appraisal\n• Annual paid leaves and casual leaves\n• Flexible working hours\n• Mobile and internet reimbursement\n• Work-from-home flexibility\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Patna, Bihar, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Cars24!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Cars24",
+      "value": "90-4-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Cars24",
+      "sameAs": "https://www.google.com/search?q=Cars24",
+      "logo": "https://logo.clearbit.com/cars24.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Cars24 Office",
+        "addressLocality": "Patna",
+        "addressRegion": "Bihar",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "Java, Agile/Scrum, AWS, JavaScript, React, TypeScript, Machine Learning, Rust",
+    "responsibilities": "Ensure code security and follow best practices for data protection. Participate in code reviews and contribute to technical discussions. Write and execute unit tests and integration tests. Write clean, maintainable, and well-documented code. Troubleshoot, debug, and resolve software defects and performance issues. Optimize application performance and ensure high availability. Participate in on-call rotation for production support",
+    "benefits": "Provident Fund and Gratuity as per company policy. Annual performance appraisal. Annual paid leaves and casual leaves. Flexible working hours. Mobile and internet reimbursement. Work-from-home flexibility",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Annual performance appraisal, Annual paid leaves and casual leaves, Flexible working hours, Mobile and internet reimbursement, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "Join the Cars24 family as a Frontend Developer in Patna. We believe in empowering our employees with the tools, training, and environment they need to succeed.",
+    "keywords": "Frontend Developer, Cars24, jobs in Patna, Bihar jobs, technology jobs India, Java, Agile/Scrum, AWS, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:43:49.658Z",
+  "page": 22
+}
