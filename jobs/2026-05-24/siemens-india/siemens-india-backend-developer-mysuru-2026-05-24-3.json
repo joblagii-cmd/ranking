@@ -1,0 +1,93 @@
+{
+  "slug": "siemens-india-backend-developer-mysuru-2026-05-24-3",
+  "title": "Backend Developer Vacancy at Siemens India - 2026 Batch",
+  "company": "Siemens India",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Machine Learning",
+    "Docker",
+    "AWS",
+    "Rust",
+    "MongoDB",
+    "CI/CD",
+    "Node.js",
+    "Agile/Scrum"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Siemens India - 2026 Batch",
+    "description": "An exciting career opportunity awaits you at Siemens India. We are on the lookout for a dedicated Backend Developer to strengthen our Mysuru-based team.\n\nAbout Siemens India:\nSiemens India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Implement new features based on product requirements\n• Optimize application performance and ensure high availability\n• Design, develop and maintain scalable software applications\n• Ensure code security and follow best practices for data protection\n• Write and execute unit tests and integration tests\n• Write clean, maintainable, and well-documented code\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 10-15 years of relevant experience\n• Proficiency in Machine Learning\n• Proficiency in Docker\n• Proficiency in AWS\n• Proficiency in Rust\n• Proficiency in MongoDB\n• Proficiency in CI/CD\n• Proficiency in Node.js\n• Proficiency in Agile/Scrum\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Employee stock options (ESOPs) for eligible roles\n• Comprehensive health insurance for self and family\n• Annual performance appraisal\n• Referral bonus program\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Mysuru, Karnataka, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Siemens India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Siemens India",
+      "value": "57-3-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Siemens India",
+      "sameAs": "https://www.google.com/search?q=Siemens%20India",
+      "logo": "https://logo.clearbit.com/siemensindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Siemens India Office",
+        "addressLocality": "Mysuru",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "Machine Learning, Docker, AWS, Rust, MongoDB, CI/CD, Node.js, Agile/Scrum",
+    "responsibilities": "Mentor junior developers and conduct knowledge-sharing sessions. Implement new features based on product requirements. Optimize application performance and ensure high availability. Design, develop and maintain scalable software applications. Ensure code security and follow best practices for data protection. Write and execute unit tests and integration tests. Write clean, maintainable, and well-documented code",
+    "benefits": "Competitive salary with performance-linked incentives. Employee stock options (ESOPs) for eligible roles. Comprehensive health insurance for self and family. Annual performance appraisal. Referral bonus program. Provident Fund and Gratuity as per company policy",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Employee stock options (ESOPs) for eligible roles, Comprehensive health insurance for self and family, Annual performance appraisal, Referral bonus program, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Siemens India. We are on the lookout for a dedicated Backend Developer to strengthen our Mysuru-based team.",
+    "keywords": "Backend Developer, Siemens India, jobs in Mysuru, Karnataka jobs, technology jobs India, Machine Learning, Docker, AWS, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:42:50.376Z",
+  "page": 14
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "siemens-india-senior-software-engineer-mysuru-2026-05-24-1",
+  "title": "Senior Software Engineer - Siemens India - Experienced Professionals",
+  "company": "Siemens India",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Rust",
+    "JavaScript",
+    "SQL",
+    "Kubernetes",
+    "AWS",
+    "Python",
+    "Microservices",
+    "TensorFlow"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Siemens India - Experienced Professionals",
+    "description": "An exciting career opportunity awaits you at Siemens India. We are on the lookout for a dedicated Senior Software Engineer to strengthen our Mysuru-based team.\n\nAbout Siemens India:\nSiemens India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Participate in on-call rotation for production support\n• Write clean, maintainable, and well-documented code\n• Participate in code reviews and contribute to technical discussions\n• Ensure code security and follow best practices for data protection\n• Integrate third-party APIs and services\n• Work with agile methodologies including daily stand-ups and sprint planning\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 1-3 years of relevant experience\n• Proficiency in Rust\n• Proficiency in JavaScript\n• Proficiency in SQL\n• Proficiency in Kubernetes\n• Proficiency in AWS\n• Proficiency in Python\n• Proficiency in Microservices\n• Proficiency in TensorFlow\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Professional development and training programs\n• Annual paid leaves and casual leaves\n• Company-sponsored certifications\n• International travel opportunities for senior roles\n• Employee stock options (ESOPs) for eligible roles\n• Meal coupons and food allowance\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Mysuru, Karnataka, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Siemens India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Siemens India",
+      "value": "57-1-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Siemens India",
+      "sameAs": "https://www.google.com/search?q=Siemens%20India",
+      "logo": "https://logo.clearbit.com/siemensindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Siemens India Office",
+        "addressLocality": "Mysuru",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "Rust, JavaScript, SQL, Kubernetes, AWS, Python, Microservices, TensorFlow",
+    "responsibilities": "Design, develop and maintain scalable software applications. Participate in on-call rotation for production support. Write clean, maintainable, and well-documented code. Participate in code reviews and contribute to technical discussions. Ensure code security and follow best practices for data protection. Integrate third-party APIs and services. Work with agile methodologies including daily stand-ups and sprint planning",
+    "benefits": "Professional development and training programs. Annual paid leaves and casual leaves. Company-sponsored certifications. International travel opportunities for senior roles. Employee stock options (ESOPs) for eligible roles. Meal coupons and food allowance",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Annual paid leaves and casual leaves, Company-sponsored certifications, International travel opportunities for senior roles, Employee stock options (ESOPs) for eligible roles, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Siemens India. We are on the lookout for a dedicated Senior Software Engineer to strengthen our Mysuru-based team.",
+    "keywords": "Senior Software Engineer, Siemens India, jobs in Mysuru, Karnataka jobs, technology jobs India, Rust, JavaScript, SQL, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:42:50.376Z",
+  "page": 14
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "abb-india-software-engineer-mysuru-2026-05-24-0",
+  "title": "Immediate Requirement Software Engineer at ABB India",
+  "company": "ABB India",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "TensorFlow",
+    "Machine Learning",
+    "Kubernetes",
+    "Docker",
+    "REST APIs",
+    "SQL",
+    "AWS",
+    "Node.js"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Immediate Requirement Software Engineer at ABB India",
+    "description": "ABB India, one of India's leading organizations, is hiring a Software Engineer for our Mysuru operations. We offer a competitive salary package along with world-class benefits.\n\nAbout ABB India:\nABB India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Participate in code reviews and contribute to technical discussions\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Design, develop and maintain scalable software applications\n• Write and execute unit tests and integration tests\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 1-3 years of relevant experience\n• Proficiency in TensorFlow\n• Proficiency in Machine Learning\n• Proficiency in Kubernetes\n• Proficiency in Docker\n• Proficiency in REST APIs\n• Proficiency in SQL\n• Proficiency in AWS\n• Proficiency in Node.js\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Meal coupons and food allowance\n• Transportation and conveyance allowance\n• Work-from-home flexibility\n• Recognition and rewards programs\n• Referral bonus program\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Mysuru, Karnataka, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with ABB India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "ABB India",
+      "value": "58-0-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "ABB India",
+      "sameAs": "https://www.google.com/search?q=ABB%20India",
+      "logo": "https://logo.clearbit.com/abbindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "ABB India Office",
+        "addressLocality": "Mysuru",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "TensorFlow, Machine Learning, Kubernetes, Docker, REST APIs, SQL, AWS, Node.js",
+    "responsibilities": "Mentor junior developers and conduct knowledge-sharing sessions. Work with agile methodologies including daily stand-ups and sprint planning. Participate in code reviews and contribute to technical discussions. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Troubleshoot, debug, and resolve software defects and performance issues. Design, develop and maintain scalable software applications. Write and execute unit tests and integration tests",
+    "benefits": "Competitive salary with performance-linked incentives. Meal coupons and food allowance. Transportation and conveyance allowance. Work-from-home flexibility. Recognition and rewards programs. Referral bonus program",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Meal coupons and food allowance, Transportation and conveyance allowance, Work-from-home flexibility, Recognition and rewards programs, Referral bonus program"
+  },
+  "meta": {
+    "description": "ABB India, one of India's leading organizations, is hiring a Software Engineer for our Mysuru operations. We offer a competitive salary package along with world",
+    "keywords": "Software Engineer, ABB India, jobs in Mysuru, Karnataka jobs, technology jobs India, TensorFlow, Machine Learning, Kubernetes, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:42:50.376Z",
+  "page": 14
+}
