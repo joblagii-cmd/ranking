@@ -1,0 +1,94 @@
+{
+  "slug": "srm-university-subject-matter-expert-ranchi-2026-05-24-2",
+  "title": "SRM University is Hiring: Subject Matter Expert (Lead)",
+  "company": "SRM University",
+  "industry": "education",
+  "role": "Subject Matter Expert",
+  "location": {
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Classroom Management",
+    "Special Education",
+    "Research Skills",
+    "Child Psychology",
+    "Educational Technology",
+    "IB Curriculum",
+    "Mentoring",
+    "Bloom's Taxonomy"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "SRM University is Hiring: Subject Matter Expert (Lead)",
+    "description": "An exciting career opportunity awaits you at SRM University. We are on the lookout for a dedicated Subject Matter Expert to strengthen our Ranchi-based team.\n\nAbout SRM University:\nSRM University is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Monitor student progress and provide timely feedback\n• Conduct parent-teacher meetings and update parents on student performance\n• Maintain student records and prepare progress reports\n• Design formative and summative assessments aligned to learning objectives\n• Create curriculum-aligned learning materials and assessments\n• Maintain classroom discipline and create a positive learning environment\n• Collaborate with faculty on curriculum development initiatives\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 0-1 years of relevant experience\n• Proficiency in Classroom Management\n• Proficiency in Special Education\n• Proficiency in Research Skills\n• Proficiency in Child Psychology\n• Proficiency in Educational Technology\n• Proficiency in IB Curriculum\n• Proficiency in Mentoring\n• Proficiency in Bloom's Taxonomy\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Mobile and internet reimbursement\n• Provident Fund and Gratuity as per company policy\n• Transportation and conveyance allowance\n• Comprehensive health insurance for self and family\n• Professional development and training programs\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Ranchi, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with SRM University!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "SRM University",
+      "value": "535-2-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "SRM University",
+      "sameAs": "https://www.google.com/search?q=SRM%20University",
+      "logo": "https://logo.clearbit.com/srmuniversity.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "SRM University Office",
+        "addressLocality": "Ranchi",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "Classroom Management, Special Education, Research Skills, Child Psychology, Educational Technology, IB Curriculum, Mentoring, Bloom's Taxonomy",
+    "responsibilities": "Monitor student progress and provide timely feedback. Conduct parent-teacher meetings and update parents on student performance. Maintain student records and prepare progress reports. Design formative and summative assessments aligned to learning objectives. Create curriculum-aligned learning materials and assessments. Maintain classroom discipline and create a positive learning environment. Collaborate with faculty on curriculum development initiatives",
+    "benefits": "Annual paid leaves and casual leaves. Mobile and internet reimbursement. Provident Fund and Gratuity as per company policy. Transportation and conveyance allowance. Comprehensive health insurance for self and family. Professional development and training programs",
+    "industry": "education",
+    "occupationalCategory": "Subject Matter Expert",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Mobile and internet reimbursement, Provident Fund and Gratuity as per company policy, Transportation and conveyance allowance, Comprehensive health insurance for self and family, Professional development and training programs"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at SRM University. We are on the lookout for a dedicated Subject Matter Expert to strengthen our Ranchi-based team.",
+    "keywords": "Subject Matter Expert, SRM University, jobs in Ranchi, Jharkhand jobs, education jobs India, Classroom Management, Special Education, Research Skills, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:57:15.284Z",
+  "page": 133
+}
