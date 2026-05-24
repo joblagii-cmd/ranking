@@ -1,0 +1,94 @@
+{
+  "slug": "indifi-technologies-frontend-developer-ludhiana-2026-05-24-4",
+  "title": "Senior Frontend Developer at Indifi Technologies",
+  "company": "Indifi Technologies",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Ludhiana",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "SQL",
+    "JavaScript",
+    "CI/CD",
+    "MongoDB",
+    "TensorFlow",
+    "Python",
+    "AWS",
+    "Agile/Scrum"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Frontend Developer at Indifi Technologies",
+    "description": "Join the Indifi Technologies family as a Frontend Developer in Ludhiana. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Indifi Technologies:\nIndifi Technologies is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in code reviews and contribute to technical discussions\n• Optimize application performance and ensure high availability\n• Ensure code security and follow best practices for data protection\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Collaborate with cross-functional teams including product, design, and QA\n• Write clean, maintainable, and well-documented code\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 3-6 years of relevant experience\n• Proficiency in SQL\n• Proficiency in JavaScript\n• Proficiency in CI/CD\n• Proficiency in MongoDB\n• Proficiency in TensorFlow\n• Proficiency in Python\n• Proficiency in AWS\n• Proficiency in Agile/Scrum\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Employee stock options (ESOPs) for eligible roles\n• Learning & development budget\n• Annual performance appraisal\n• Provident Fund and Gratuity as per company policy\n• Work-from-home flexibility\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Ludhiana, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Indifi Technologies!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Indifi Technologies",
+      "value": "95-4-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Indifi Technologies",
+      "sameAs": "https://www.google.com/search?q=Indifi%20Technologies",
+      "logo": "https://logo.clearbit.com/indifitechnologies.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Indifi Technologies Office",
+        "addressLocality": "Ludhiana",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "SQL, JavaScript, CI/CD, MongoDB, TensorFlow, Python, AWS, Agile/Scrum",
+    "responsibilities": "Participate in code reviews and contribute to technical discussions. Optimize application performance and ensure high availability. Ensure code security and follow best practices for data protection. Work with agile methodologies including daily stand-ups and sprint planning. Collaborate with cross-functional teams including product, design, and QA. Write clean, maintainable, and well-documented code. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP",
+    "benefits": "Transportation and conveyance allowance. Employee stock options (ESOPs) for eligible roles. Learning & development budget. Annual performance appraisal. Provident Fund and Gratuity as per company policy. Work-from-home flexibility",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Employee stock options (ESOPs) for eligible roles, Learning & development budget, Annual performance appraisal, Provident Fund and Gratuity as per company policy, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "Join the Indifi Technologies family as a Frontend Developer in Ludhiana. We believe in empowering our employees with the tools, training, and environment they n",
+    "keywords": "Frontend Developer, Indifi Technologies, jobs in Ludhiana, Punjab jobs, technology jobs India, SQL, JavaScript, CI/CD, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:43:57.286Z",
+  "page": 23
+}
