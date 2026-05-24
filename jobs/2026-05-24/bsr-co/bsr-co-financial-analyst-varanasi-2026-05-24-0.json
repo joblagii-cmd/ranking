@@ -1,0 +1,94 @@
+{
+  "slug": "bsr-co-financial-analyst-varanasi-2026-05-24-0",
+  "title": "Job Opening Financial Analyst at BSR & Co",
+  "company": "BSR & Co",
+  "industry": "finance",
+  "role": "Financial Analyst",
+  "location": {
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "GST",
+    "Credit Analysis",
+    "MS Excel",
+    "Budgeting",
+    "Forecasting",
+    "IFRS",
+    "SQL",
+    "VBA"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Job Opening Financial Analyst at BSR & Co",
+    "description": "BSR & Co is actively seeking a talented and motivated Financial Analyst to join our dynamic team in Varanasi. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout BSR & Co:\nBSR & Co is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Prepare and analyze financial statements, reports, and budgets\n• Maintain general ledger and ensure accurate bookkeeping\n• Process payroll and manage employee reimbursements\n• Ensure compliance with tax regulations and statutory requirements\n• Implement and maintain internal controls and audit procedures\n• Prepare annual reports and investor presentations\n• Prepare MIS reports for senior management review\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 0-1 years of relevant experience\n• Proficiency in GST\n• Proficiency in Credit Analysis\n• Proficiency in MS Excel\n• Proficiency in Budgeting\n• Proficiency in Forecasting\n• Proficiency in IFRS\n• Proficiency in SQL\n• Proficiency in VBA\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Life and accident insurance\n• Maternity and paternity leave\n• Flexible working hours\n• Annual performance appraisal\n• Transportation and conveyance allowance\n• Company-sponsored certifications\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Varanasi, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with BSR & Co!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "BSR & Co",
+      "value": "191-0-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "BSR & Co",
+      "sameAs": "https://www.google.com/search?q=BSR%20%26%20Co",
+      "logo": "https://logo.clearbit.com/bsrco.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "BSR & Co Office",
+        "addressLocality": "Varanasi",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "GST, Credit Analysis, MS Excel, Budgeting, Forecasting, IFRS, SQL, VBA",
+    "responsibilities": "Prepare and analyze financial statements, reports, and budgets. Maintain general ledger and ensure accurate bookkeeping. Process payroll and manage employee reimbursements. Ensure compliance with tax regulations and statutory requirements. Implement and maintain internal controls and audit procedures. Prepare annual reports and investor presentations. Prepare MIS reports for senior management review",
+    "benefits": "Life and accident insurance. Maternity and paternity leave. Flexible working hours. Annual performance appraisal. Transportation and conveyance allowance. Company-sponsored certifications",
+    "industry": "finance",
+    "occupationalCategory": "Financial Analyst",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Maternity and paternity leave, Flexible working hours, Annual performance appraisal, Transportation and conveyance allowance, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "BSR & Co is actively seeking a talented and motivated Financial Analyst to join our dynamic team in Varanasi. This is an excellent opportunity for professionals",
+    "keywords": "Financial Analyst, BSR & Co, jobs in Varanasi, Uttar Pradesh jobs, finance jobs India, GST, Credit Analysis, MS Excel, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:46:52.665Z",
+  "page": 47
+}
