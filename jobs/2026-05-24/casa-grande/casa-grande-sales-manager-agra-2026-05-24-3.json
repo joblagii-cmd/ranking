@@ -1,0 +1,93 @@
+{
+  "slug": "casa-grande-sales-manager-agra-2026-05-24-3",
+  "title": "Sales Manager Vacancy at Casa Grande - 2026 Batch",
+  "company": "Casa Grande",
+  "industry": "realestate",
+  "role": "Sales Manager",
+  "location": {
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Property Valuation",
+    "Investment Analysis",
+    "Real Estate Law",
+    "Financial Modeling",
+    "AutoCAD",
+    "CRM Software",
+    "MS Office",
+    "Client Relationship Management"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Sales Manager Vacancy at Casa Grande - 2026 Batch",
+    "description": "An exciting career opportunity awaits you at Casa Grande. We are on the lookout for a dedicated Sales Manager to strengthen our Agra-based team.\n\nAbout Casa Grande:\nCasa Grande is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Conduct land acquisition due diligence and feasibility studies\n• Conduct market research and provide competitive analysis\n• Liaise with banks and NBFCs for home loan assistance to customers\n• Build relationships with channel partners and brokers\n• Achieve monthly and quarterly sales targets\n• Coordinate with architects, contractors, and project teams\n• Manage relationships with existing customers post-purchase\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 10-15 years of relevant experience\n• Proficiency in Property Valuation\n• Proficiency in Investment Analysis\n• Proficiency in Real Estate Law\n• Proficiency in Financial Modeling\n• Proficiency in AutoCAD\n• Proficiency in CRM Software\n• Proficiency in MS Office\n• Proficiency in Client Relationship Management\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Referral bonus program\n• Professional development and training programs\n• Work-from-home flexibility\n• Transportation and conveyance allowance\n• Flexible working hours\n• Annual paid leaves and casual leaves\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Agra, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Casa Grande!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Casa Grande",
+      "value": "764-3-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Casa Grande",
+      "sameAs": "https://www.google.com/search?q=Casa%20Grande",
+      "logo": "https://logo.clearbit.com/casagrande.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Casa Grande Office",
+        "addressLocality": "Agra",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "Property Valuation, Investment Analysis, Real Estate Law, Financial Modeling, AutoCAD, CRM Software, MS Office, Client Relationship Management",
+    "responsibilities": "Conduct land acquisition due diligence and feasibility studies. Conduct market research and provide competitive analysis. Liaise with banks and NBFCs for home loan assistance to customers. Build relationships with channel partners and brokers. Achieve monthly and quarterly sales targets. Coordinate with architects, contractors, and project teams. Manage relationships with existing customers post-purchase",
+    "benefits": "Referral bonus program. Professional development and training programs. Work-from-home flexibility. Transportation and conveyance allowance. Flexible working hours. Annual paid leaves and casual leaves",
+    "industry": "realestate",
+    "occupationalCategory": "Sales Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Referral bonus program, Professional development and training programs, Work-from-home flexibility, Transportation and conveyance allowance, Flexible working hours, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Casa Grande. We are on the lookout for a dedicated Sales Manager to strengthen our Agra-based team.",
+    "keywords": "Sales Manager, Casa Grande, jobs in Agra, Uttar Pradesh jobs, realestate jobs India, Property Valuation, Investment Analysis, Real Estate Law, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T05:04:20.878Z",
+  "page": 190
+}
