@@ -1,0 +1,93 @@
+{
+  "slug": "jsw-steel-plant-manager-bengaluru-2026-05-24-4",
+  "title": "Mid-Level Plant Manager at JSW Steel",
+  "company": "JSW Steel",
+  "industry": "manufacturing",
+  "role": "Plant Manager",
+  "location": {
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Statistical Process Control",
+    "AutoCAD",
+    "SolidWorks",
+    "5S",
+    "Quality Control",
+    "SAP MM/PP",
+    "TPM",
+    "Root Cause Analysis"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Plant Manager at JSW Steel",
+    "description": "If you're a passionate Plant Manager with drive and ambition, JSW Steel in Bengaluru is the place for you. We're growing fast and need talented people to grow with us.\n\nAbout JSW Steel:\nJSW Steel is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Manage raw material procurement and inventory levels\n• Oversee daily production operations to meet output targets\n• Implement 5S, Kaizen, and Six Sigma practices on the shop floor\n• Prepare production cost analysis and efficiency reports\n• Conduct root cause analysis for quality rejections and defects\n• Manage supplier quality audits and vendor development\n• Ensure product quality meets internal and customer specifications\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 6-10 years of relevant experience\n• Proficiency in Statistical Process Control\n• Proficiency in AutoCAD\n• Proficiency in SolidWorks\n• Proficiency in 5S\n• Proficiency in Quality Control\n• Proficiency in SAP MM/PP\n• Proficiency in TPM\n• Proficiency in Root Cause Analysis\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Company-sponsored certifications\n• Learning & development budget\n• Professional development and training programs\n• Annual performance appraisal\n• Referral bonus program\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Bengaluru, Karnataka, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with JSW Steel!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "JSW Steel",
+      "value": "397-4-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "JSW Steel",
+      "sameAs": "https://www.google.com/search?q=JSW%20Steel",
+      "logo": "https://logo.clearbit.com/jswsteel.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "JSW Steel Office",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "Statistical Process Control, AutoCAD, SolidWorks, 5S, Quality Control, SAP MM/PP, TPM, Root Cause Analysis",
+    "responsibilities": "Manage raw material procurement and inventory levels. Oversee daily production operations to meet output targets. Implement 5S, Kaizen, and Six Sigma practices on the shop floor. Prepare production cost analysis and efficiency reports. Conduct root cause analysis for quality rejections and defects. Manage supplier quality audits and vendor development. Ensure product quality meets internal and customer specifications",
+    "benefits": "International travel opportunities for senior roles. Company-sponsored certifications. Learning & development budget. Professional development and training programs. Annual performance appraisal. Referral bonus program",
+    "industry": "manufacturing",
+    "occupationalCategory": "Plant Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Company-sponsored certifications, Learning & development budget, Professional development and training programs, Annual performance appraisal, Referral bonus program"
+  },
+  "meta": {
+    "description": "If you're a passionate Plant Manager with drive and ambition, JSW Steel in Bengaluru is the place for you. We're growing fast and need talented people to grow w",
+    "keywords": "Plant Manager, JSW Steel, jobs in Bengaluru, Karnataka jobs, manufacturing jobs India, Statistical Process Control, AutoCAD, SolidWorks, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:53:06.447Z",
+  "page": 99
+}

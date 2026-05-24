@@ -1,0 +1,93 @@
+{
+  "slug": "rinl-manufacturing-engineer-hyderabad-2026-05-24-1",
+  "title": "Manufacturing Engineer - RINL - Freshers Welcome",
+  "company": "RINL",
+  "industry": "manufacturing",
+  "role": "Manufacturing Engineer",
+  "location": {
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "APQP",
+    "Project Management",
+    "5S",
+    "SAP MM/PP",
+    "Root Cause Analysis",
+    "GD&T",
+    "PLC/SCADA",
+    "ERP Systems"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Manufacturing Engineer - RINL - Freshers Welcome",
+    "description": "If you're a passionate Manufacturing Engineer with drive and ambition, RINL in Hyderabad is the place for you. We're growing fast and need talented people to grow with us.\n\nAbout RINL:\nRINL is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Conduct root cause analysis for quality rejections and defects\n• Implement lean manufacturing and continuous improvement initiatives\n• Implement 5S, Kaizen, and Six Sigma practices on the shop floor\n• Maintain accurate production records and prepare daily reports\n• Ensure environmental compliance and waste management\n• Oversee daily production operations to meet output targets\n• Ensure product quality meets internal and customer specifications\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 6-10 years of relevant experience\n• Proficiency in APQP\n• Proficiency in Project Management\n• Proficiency in 5S\n• Proficiency in SAP MM/PP\n• Proficiency in Root Cause Analysis\n• Proficiency in GD&T\n• Proficiency in PLC/SCADA\n• Proficiency in ERP Systems\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Meal coupons and food allowance\n• Learning & development budget\n• Provident Fund and Gratuity as per company policy\n• Professional development and training programs\n• Work-from-home flexibility\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Hyderabad, Telangana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with RINL!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "RINL",
+      "value": "400-1-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "RINL",
+      "sameAs": "https://www.google.com/search?q=RINL",
+      "logo": "https://logo.clearbit.com/rinl.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "RINL Office",
+        "addressLocality": "Hyderabad",
+        "addressRegion": "Telangana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "APQP, Project Management, 5S, SAP MM/PP, Root Cause Analysis, GD&T, PLC/SCADA, ERP Systems",
+    "responsibilities": "Conduct root cause analysis for quality rejections and defects. Implement lean manufacturing and continuous improvement initiatives. Implement 5S, Kaizen, and Six Sigma practices on the shop floor. Maintain accurate production records and prepare daily reports. Ensure environmental compliance and waste management. Oversee daily production operations to meet output targets. Ensure product quality meets internal and customer specifications",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Meal coupons and food allowance. Learning & development budget. Provident Fund and Gratuity as per company policy. Professional development and training programs. Work-from-home flexibility",
+    "industry": "manufacturing",
+    "occupationalCategory": "Manufacturing Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Meal coupons and food allowance, Learning & development budget, Provident Fund and Gratuity as per company policy, Professional development and training programs, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "If you're a passionate Manufacturing Engineer with drive and ambition, RINL in Hyderabad is the place for you. We're growing fast and need talented people to gr",
+    "keywords": "Manufacturing Engineer, RINL, jobs in Hyderabad, Telangana jobs, manufacturing jobs India, APQP, Project Management, 5S, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:53:06.448Z",
+  "page": 99
+}
