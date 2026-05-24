@@ -1,0 +1,93 @@
+{
+  "slug": "breach-candy-hospital-radiologist-amritsar-2026-05-24-4",
+  "title": "Entry-Level Radiologist at Breach Candy Hospital",
+  "company": "Breach Candy Hospital",
+  "industry": "healthcare",
+  "role": "Radiologist",
+  "location": {
+    "city": "Amritsar",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "NABH Standards",
+    "Medical Coding",
+    "Medical Ethics",
+    "EMR/EHR",
+    "Diagnostic Skills",
+    "Telemedicine",
+    "Clinical Documentation",
+    "Health Informatics"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Entry-Level Radiologist at Breach Candy Hospital",
+    "description": "Breach Candy Hospital, one of India's leading organizations, is hiring a Radiologist for our Amritsar operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Breach Candy Hospital:\nBreach Candy Hospital is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Conduct routine health assessments and screenings\n• Educate patients and families on health management and disease prevention\n• Ensure patient privacy and maintain confidentiality\n• Collaborate with pharmaceutical representatives and medical suppliers\n• Respond to medical emergencies and provide immediate care\n• Maintain accurate clinical documentation in electronic health records\n• Monitor patient progress and adjust treatment plans accordingly\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 12-20 years of relevant experience\n• Proficiency in NABH Standards\n• Proficiency in Medical Coding\n• Proficiency in Medical Ethics\n• Proficiency in EMR/EHR\n• Proficiency in Diagnostic Skills\n• Proficiency in Telemedicine\n• Proficiency in Clinical Documentation\n• Proficiency in Health Informatics\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Life and accident insurance\n• Employee stock options (ESOPs) for eligible roles\n• Annual performance appraisal\n• Maternity and paternity leave\n• Recognition and rewards programs\n• Professional development and training programs\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Amritsar, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Breach Candy Hospital!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Breach Candy Hospital",
+      "value": "279-4-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Breach Candy Hospital",
+      "sameAs": "https://www.google.com/search?q=Breach%20Candy%20Hospital",
+      "logo": "https://logo.clearbit.com/breachcandyhospital.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Breach Candy Hospital Office",
+        "addressLocality": "Amritsar",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "NABH Standards, Medical Coding, Medical Ethics, EMR/EHR, Diagnostic Skills, Telemedicine, Clinical Documentation, Health Informatics",
+    "responsibilities": "Conduct routine health assessments and screenings. Educate patients and families on health management and disease prevention. Ensure patient privacy and maintain confidentiality. Collaborate with pharmaceutical representatives and medical suppliers. Respond to medical emergencies and provide immediate care. Maintain accurate clinical documentation in electronic health records. Monitor patient progress and adjust treatment plans accordingly",
+    "benefits": "Life and accident insurance. Employee stock options (ESOPs) for eligible roles. Annual performance appraisal. Maternity and paternity leave. Recognition and rewards programs. Professional development and training programs",
+    "industry": "healthcare",
+    "occupationalCategory": "Radiologist",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Employee stock options (ESOPs) for eligible roles, Annual performance appraisal, Maternity and paternity leave, Recognition and rewards programs, Professional development and training programs"
+  },
+  "meta": {
+    "description": "Breach Candy Hospital, one of India's leading organizations, is hiring a Radiologist for our Amritsar operations. We offer a competitive salary package along wi",
+    "keywords": "Radiologist, Breach Candy Hospital, jobs in Amritsar, Punjab jobs, healthcare jobs India, NABH Standards, Medical Coding, Medical Ethics, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:49:30.209Z",
+  "page": 69
+}
