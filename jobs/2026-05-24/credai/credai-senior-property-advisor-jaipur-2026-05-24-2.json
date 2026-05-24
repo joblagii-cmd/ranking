@@ -1,0 +1,93 @@
+{
+  "slug": "credai-senior-property-advisor-jaipur-2026-05-24-2",
+  "title": "CREDAI is Hiring: Senior Property Advisor (Junior)",
+  "company": "CREDAI",
+  "industry": "realestate",
+  "role": "Senior Property Advisor",
+  "location": {
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Lease Administration",
+    "Title Search",
+    "Portfolio Management",
+    "AutoCAD",
+    "Due Diligence",
+    "MS Office",
+    "Sales Techniques",
+    "Property Management"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "CREDAI is Hiring: Senior Property Advisor (Junior)",
+    "description": "CREDAI, one of India's leading organizations, is hiring a Senior Property Advisor for our Jaipur operations. We offer a competitive salary package along with world-class benefits.\n\nAbout CREDAI:\nCREDAI is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Provide advisory services on property investment and market trends\n• Achieve monthly and quarterly sales targets\n• Coordinate with architects, contractors, and project teams\n• Conduct market research and provide competitive analysis\n• Source and close property deals with prospective buyers and investors\n• Liaise with banks and NBFCs for home loan assistance to customers\n• Conduct site visits and property presentations for clients\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 1-3 years of relevant experience\n• Proficiency in Lease Administration\n• Proficiency in Title Search\n• Proficiency in Portfolio Management\n• Proficiency in AutoCAD\n• Proficiency in Due Diligence\n• Proficiency in MS Office\n• Proficiency in Sales Techniques\n• Proficiency in Property Management\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Referral bonus program\n• Work-from-home flexibility\n• Company-sponsored certifications\n• Transportation and conveyance allowance\n• Life and accident insurance\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Jaipur, Rajasthan, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with CREDAI!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "CREDAI",
+      "value": "741-2-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "CREDAI",
+      "sameAs": "https://www.google.com/search?q=CREDAI",
+      "logo": "https://logo.clearbit.com/credai.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "CREDAI Office",
+        "addressLocality": "Jaipur",
+        "addressRegion": "Rajasthan",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "Lease Administration, Title Search, Portfolio Management, AutoCAD, Due Diligence, MS Office, Sales Techniques, Property Management",
+    "responsibilities": "Provide advisory services on property investment and market trends. Achieve monthly and quarterly sales targets. Coordinate with architects, contractors, and project teams. Conduct market research and provide competitive analysis. Source and close property deals with prospective buyers and investors. Liaise with banks and NBFCs for home loan assistance to customers. Conduct site visits and property presentations for clients",
+    "benefits": "Annual paid leaves and casual leaves. Referral bonus program. Work-from-home flexibility. Company-sponsored certifications. Transportation and conveyance allowance. Life and accident insurance",
+    "industry": "realestate",
+    "occupationalCategory": "Senior Property Advisor",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Referral bonus program, Work-from-home flexibility, Company-sponsored certifications, Transportation and conveyance allowance, Life and accident insurance"
+  },
+  "meta": {
+    "description": "CREDAI, one of India's leading organizations, is hiring a Senior Property Advisor for our Jaipur operations. We offer a competitive salary package along with wo",
+    "keywords": "Senior Property Advisor, CREDAI, jobs in Jaipur, Rajasthan jobs, realestate jobs India, Lease Administration, Title Search, Portfolio Management, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T05:03:43.269Z",
+  "page": 185
+}

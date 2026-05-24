@@ -1,0 +1,93 @@
+{
+  "slug": "nhb-real-estate-agent-surat-2026-05-24-0",
+  "title": "Urgent Opening Real Estate Agent at NHB",
+  "company": "NHB",
+  "industry": "realestate",
+  "role": "Real Estate Agent",
+  "location": {
+    "city": "Surat",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "AutoCAD",
+    "Market Research",
+    "CRM Software",
+    "Portfolio Management",
+    "Lease Administration",
+    "Title Search",
+    "Investment Analysis",
+    "Contract Management"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Urgent Opening Real Estate Agent at NHB",
+    "description": "NHB, one of India's leading organizations, is hiring a Real Estate Agent for our Surat operations. We offer a competitive salary package along with world-class benefits.\n\nAbout NHB:\nNHB is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Liaise with banks and NBFCs for home loan assistance to customers\n• Coordinate with legal teams for documentation and title verification\n• Conduct site visits and property presentations for clients\n• Maintain a pipeline of qualified leads using CRM software\n• Achieve monthly and quarterly sales targets\n• Manage relationships with existing customers post-purchase\n• Conduct land acquisition due diligence and feasibility studies\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 0-1 years of relevant experience\n• Proficiency in AutoCAD\n• Proficiency in Market Research\n• Proficiency in CRM Software\n• Proficiency in Portfolio Management\n• Proficiency in Lease Administration\n• Proficiency in Title Search\n• Proficiency in Investment Analysis\n• Proficiency in Contract Management\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Maternity and paternity leave\n• Professional development and training programs\n• Recognition and rewards programs\n• Learning & development budget\n• Company-sponsored certifications\n• Meal coupons and food allowance\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Surat, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with NHB!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "NHB",
+      "value": "744-0-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "NHB",
+      "sameAs": "https://www.google.com/search?q=NHB",
+      "logo": "https://logo.clearbit.com/nhb.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "NHB Office",
+        "addressLocality": "Surat",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "AutoCAD, Market Research, CRM Software, Portfolio Management, Lease Administration, Title Search, Investment Analysis, Contract Management",
+    "responsibilities": "Liaise with banks and NBFCs for home loan assistance to customers. Coordinate with legal teams for documentation and title verification. Conduct site visits and property presentations for clients. Maintain a pipeline of qualified leads using CRM software. Achieve monthly and quarterly sales targets. Manage relationships with existing customers post-purchase. Conduct land acquisition due diligence and feasibility studies",
+    "benefits": "Maternity and paternity leave. Professional development and training programs. Recognition and rewards programs. Learning & development budget. Company-sponsored certifications. Meal coupons and food allowance",
+    "industry": "realestate",
+    "occupationalCategory": "Real Estate Agent",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Maternity and paternity leave, Professional development and training programs, Recognition and rewards programs, Learning & development budget, Company-sponsored certifications, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "NHB, one of India's leading organizations, is hiring a Real Estate Agent for our Surat operations. We offer a competitive salary package along with world-class ",
+    "keywords": "Real Estate Agent, NHB, jobs in Surat, Gujarat jobs, realestate jobs India, AutoCAD, Market Research, CRM Software, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T05:03:43.270Z",
+  "page": 185
+}

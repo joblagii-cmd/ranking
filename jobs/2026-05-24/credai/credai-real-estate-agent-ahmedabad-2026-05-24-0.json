@@ -1,0 +1,94 @@
+{
+  "slug": "credai-real-estate-agent-ahmedabad-2026-05-24-0",
+  "title": "Urgent Opening Real Estate Agent at CREDAI",
+  "company": "CREDAI",
+  "industry": "realestate",
+  "role": "Real Estate Agent",
+  "location": {
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Negotiation Skills",
+    "Property Valuation",
+    "Contract Management",
+    "Sales Techniques",
+    "Investment Analysis",
+    "GIS Tools",
+    "CRM Software",
+    "RERA Compliance"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Urgent Opening Real Estate Agent at CREDAI",
+    "description": "CREDAI, one of India's leading organizations, is hiring a Real Estate Agent for our Ahmedabad operations. We offer a competitive salary package along with world-class benefits.\n\nAbout CREDAI:\nCREDAI is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Conduct land acquisition due diligence and feasibility studies\n• Liaise with banks and NBFCs for home loan assistance to customers\n• Build relationships with channel partners and brokers\n• Prepare presentations and proposals for institutional clients\n• Coordinate with legal teams for documentation and title verification\n• Provide advisory services on property investment and market trends\n• Manage RERA documentation and compliance requirements\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 6-10 years of relevant experience\n• Proficiency in Negotiation Skills\n• Proficiency in Property Valuation\n• Proficiency in Contract Management\n• Proficiency in Sales Techniques\n• Proficiency in Investment Analysis\n• Proficiency in GIS Tools\n• Proficiency in CRM Software\n• Proficiency in RERA Compliance\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Comprehensive health insurance for self and family\n• Meal coupons and food allowance\n• Company-sponsored certifications\n• Mobile and internet reimbursement\n• Referral bonus program\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Ahmedabad, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with CREDAI!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "CREDAI",
+      "value": "741-0-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "CREDAI",
+      "sameAs": "https://www.google.com/search?q=CREDAI",
+      "logo": "https://logo.clearbit.com/credai.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "CREDAI Office",
+        "addressLocality": "Ahmedabad",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "Negotiation Skills, Property Valuation, Contract Management, Sales Techniques, Investment Analysis, GIS Tools, CRM Software, RERA Compliance",
+    "responsibilities": "Conduct land acquisition due diligence and feasibility studies. Liaise with banks and NBFCs for home loan assistance to customers. Build relationships with channel partners and brokers. Prepare presentations and proposals for institutional clients. Coordinate with legal teams for documentation and title verification. Provide advisory services on property investment and market trends. Manage RERA documentation and compliance requirements",
+    "benefits": "Provident Fund and Gratuity as per company policy. Comprehensive health insurance for self and family. Meal coupons and food allowance. Company-sponsored certifications. Mobile and internet reimbursement. Referral bonus program",
+    "industry": "realestate",
+    "occupationalCategory": "Real Estate Agent",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Comprehensive health insurance for self and family, Meal coupons and food allowance, Company-sponsored certifications, Mobile and internet reimbursement, Referral bonus program"
+  },
+  "meta": {
+    "description": "CREDAI, one of India's leading organizations, is hiring a Real Estate Agent for our Ahmedabad operations. We offer a competitive salary package along with world",
+    "keywords": "Real Estate Agent, CREDAI, jobs in Ahmedabad, Gujarat jobs, realestate jobs India, Negotiation Skills, Property Valuation, Contract Management, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T05:03:43.269Z",
+  "page": 185
+}

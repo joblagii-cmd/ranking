@@ -1,0 +1,93 @@
+{
+  "slug": "naredco-sales-manager-surat-2026-05-24-3",
+  "title": "Sales Manager Vacancy at NAREDCO - 2026 Batch",
+  "company": "NAREDCO",
+  "industry": "realestate",
+  "role": "Sales Manager",
+  "location": {
+    "city": "Surat",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Property Valuation",
+    "Title Search",
+    "Project Management",
+    "Market Research",
+    "Investment Analysis",
+    "Lease Administration",
+    "CRM Software",
+    "Negotiation Skills"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Sales Manager Vacancy at NAREDCO - 2026 Batch",
+    "description": "NAREDCO, one of India's leading organizations, is hiring a Sales Manager for our Surat operations. We offer a competitive salary package along with world-class benefits.\n\nAbout NAREDCO:\nNAREDCO is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Conduct site visits and property presentations for clients\n• Coordinate with architects, contractors, and project teams\n• Achieve monthly and quarterly sales targets\n• Manage RERA documentation and compliance requirements\n• Conduct market research and provide competitive analysis\n• Coordinate with legal teams for documentation and title verification\n• Source and close property deals with prospective buyers and investors\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 12-20 years of relevant experience\n• Proficiency in Property Valuation\n• Proficiency in Title Search\n• Proficiency in Project Management\n• Proficiency in Market Research\n• Proficiency in Investment Analysis\n• Proficiency in Lease Administration\n• Proficiency in CRM Software\n• Proficiency in Negotiation Skills\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Comprehensive health insurance for self and family\n• Modern office with recreational facilities\n• Maternity and paternity leave\n• Annual performance appraisal\n• Mobile and internet reimbursement\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Surat, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with NAREDCO!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "NAREDCO",
+      "value": "742-3-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "NAREDCO",
+      "sameAs": "https://www.google.com/search?q=NAREDCO",
+      "logo": "https://logo.clearbit.com/naredco.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "NAREDCO Office",
+        "addressLocality": "Surat",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Property Valuation, Title Search, Project Management, Market Research, Investment Analysis, Lease Administration, CRM Software, Negotiation Skills",
+    "responsibilities": "Conduct site visits and property presentations for clients. Coordinate with architects, contractors, and project teams. Achieve monthly and quarterly sales targets. Manage RERA documentation and compliance requirements. Conduct market research and provide competitive analysis. Coordinate with legal teams for documentation and title verification. Source and close property deals with prospective buyers and investors",
+    "benefits": "Work-from-home flexibility. Comprehensive health insurance for self and family. Modern office with recreational facilities. Maternity and paternity leave. Annual performance appraisal. Mobile and internet reimbursement",
+    "industry": "realestate",
+    "occupationalCategory": "Sales Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Comprehensive health insurance for self and family, Modern office with recreational facilities, Maternity and paternity leave, Annual performance appraisal, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "NAREDCO, one of India's leading organizations, is hiring a Sales Manager for our Surat operations. We offer a competitive salary package along with world-class ",
+    "keywords": "Sales Manager, NAREDCO, jobs in Surat, Gujarat jobs, realestate jobs India, Property Valuation, Title Search, Project Management, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T05:03:43.269Z",
+  "page": 185
+}
