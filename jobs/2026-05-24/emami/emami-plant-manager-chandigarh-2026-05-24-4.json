@@ -1,0 +1,93 @@
+{
+  "slug": "emami-plant-manager-chandigarh-2026-05-24-4",
+  "title": "Senior Plant Manager at Emami",
+  "company": "Emami",
+  "industry": "manufacturing",
+  "role": "Plant Manager",
+  "location": {
+    "city": "Chandigarh",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "TPM",
+    "Lean Manufacturing",
+    "Six Sigma",
+    "PLC/SCADA",
+    "Root Cause Analysis",
+    "Supply Chain Management",
+    "Quality Control",
+    "Kaizen"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Plant Manager at Emami",
+    "description": "Emami has an exciting opening for a Plant Manager at our Chandigarh office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Emami:\nEmami is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Monitor equipment performance and coordinate preventive maintenance\n• Conduct root cause analysis for quality rejections and defects\n• Coordinate with logistics for dispatching finished goods\n• Coordinate with design and engineering teams on product improvements\n• Implement lean manufacturing and continuous improvement initiatives\n• Train and supervise shop floor workers and supervisors\n• Manage supplier quality audits and vendor development\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 6-10 years of relevant experience\n• Proficiency in TPM\n• Proficiency in Lean Manufacturing\n• Proficiency in Six Sigma\n• Proficiency in PLC/SCADA\n• Proficiency in Root Cause Analysis\n• Proficiency in Supply Chain Management\n• Proficiency in Quality Control\n• Proficiency in Kaizen\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Modern office with recreational facilities\n• Professional development and training programs\n• Learning & development budget\n• Flexible working hours\n• Company-sponsored certifications\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Chandigarh, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Emami!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Emami",
+      "value": "466-4-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Emami",
+      "sameAs": "https://www.google.com/search?q=Emami",
+      "logo": "https://logo.clearbit.com/emami.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Emami Office",
+        "addressLocality": "Chandigarh",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "TPM, Lean Manufacturing, Six Sigma, PLC/SCADA, Root Cause Analysis, Supply Chain Management, Quality Control, Kaizen",
+    "responsibilities": "Monitor equipment performance and coordinate preventive maintenance. Conduct root cause analysis for quality rejections and defects. Coordinate with logistics for dispatching finished goods. Coordinate with design and engineering teams on product improvements. Implement lean manufacturing and continuous improvement initiatives. Train and supervise shop floor workers and supervisors. Manage supplier quality audits and vendor development",
+    "benefits": "Modern office with recreational facilities. Professional development and training programs. Learning & development budget. Flexible working hours. Company-sponsored certifications. Employee stock options (ESOPs) for eligible roles",
+    "industry": "manufacturing",
+    "occupationalCategory": "Plant Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Modern office with recreational facilities, Professional development and training programs, Learning & development budget, Flexible working hours, Company-sponsored certifications, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "Emami has an exciting opening for a Plant Manager at our Chandigarh office. Join a company that values innovation, collaboration, and continuous learning.",
+    "keywords": "Plant Manager, Emami, jobs in Chandigarh, Punjab jobs, manufacturing jobs India, TPM, Lean Manufacturing, Six Sigma, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:55:10.433Z",
+  "page": 116
+}

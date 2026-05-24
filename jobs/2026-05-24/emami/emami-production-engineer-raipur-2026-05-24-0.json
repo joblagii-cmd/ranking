@@ -1,0 +1,94 @@
+{
+  "slug": "emami-production-engineer-raipur-2026-05-24-0",
+  "title": "Opening for Production Engineer at Emami",
+  "company": "Emami",
+  "industry": "manufacturing",
+  "role": "Production Engineer",
+  "location": {
+    "city": "Raipur",
+    "state": "Chhattisgarh",
+    "region": "Central India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "APQP",
+    "TPM",
+    "Kaizen",
+    "Supply Chain Management",
+    "5S",
+    "FMEA",
+    "PLC/SCADA",
+    "Root Cause Analysis"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Opening for Production Engineer at Emami",
+    "description": "Emami has an exciting opening for a Production Engineer at our Raipur office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Emami:\nEmami is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure compliance with safety regulations and factory acts\n• Maintain accurate production records and prepare daily reports\n• Monitor equipment performance and coordinate preventive maintenance\n• Implement lean manufacturing and continuous improvement initiatives\n• Conduct root cause analysis for quality rejections and defects\n• Coordinate with logistics for dispatching finished goods\n• Ensure product quality meets internal and customer specifications\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 3-6 years of relevant experience\n• Proficiency in APQP\n• Proficiency in TPM\n• Proficiency in Kaizen\n• Proficiency in Supply Chain Management\n• Proficiency in 5S\n• Proficiency in FMEA\n• Proficiency in PLC/SCADA\n• Proficiency in Root Cause Analysis\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Work-from-home flexibility\n• Learning & development budget\n• Maternity and paternity leave\n• Recognition and rewards programs\n• Competitive salary with performance-linked incentives\n• Referral bonus program\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Raipur, Chhattisgarh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Emami!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Emami",
+      "value": "466-0-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Emami",
+      "sameAs": "https://www.google.com/search?q=Emami",
+      "logo": "https://logo.clearbit.com/emami.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Emami Office",
+        "addressLocality": "Raipur",
+        "addressRegion": "Chhattisgarh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "APQP, TPM, Kaizen, Supply Chain Management, 5S, FMEA, PLC/SCADA, Root Cause Analysis",
+    "responsibilities": "Ensure compliance with safety regulations and factory acts. Maintain accurate production records and prepare daily reports. Monitor equipment performance and coordinate preventive maintenance. Implement lean manufacturing and continuous improvement initiatives. Conduct root cause analysis for quality rejections and defects. Coordinate with logistics for dispatching finished goods. Ensure product quality meets internal and customer specifications",
+    "benefits": "Work-from-home flexibility. Learning & development budget. Maternity and paternity leave. Recognition and rewards programs. Competitive salary with performance-linked incentives. Referral bonus program",
+    "industry": "manufacturing",
+    "occupationalCategory": "Production Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Learning & development budget, Maternity and paternity leave, Recognition and rewards programs, Competitive salary with performance-linked incentives, Referral bonus program"
+  },
+  "meta": {
+    "description": "Emami has an exciting opening for a Production Engineer at our Raipur office. Join a company that values innovation, collaboration, and continuous learning.",
+    "keywords": "Production Engineer, Emami, jobs in Raipur, Chhattisgarh jobs, manufacturing jobs India, APQP, TPM, Kaizen, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:55:10.433Z",
+  "page": 116
+}
