@@ -1,0 +1,93 @@
+{
+  "slug": "my-home-group-property-consultant-gwalior-2026-05-24-1",
+  "title": "Property Consultant - My Home Group - Immediate Joiners Preferred",
+  "company": "My Home Group",
+  "industry": "realestate",
+  "role": "Property Consultant",
+  "location": {
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Lease Administration",
+    "Real Estate Law",
+    "GIS Tools",
+    "CRM Software",
+    "Negotiation Skills",
+    "Title Search",
+    "Client Relationship Management",
+    "Portfolio Management"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Property Consultant - My Home Group - Immediate Joiners Preferred",
+    "description": "My Home Group has an exciting opening for a Property Consultant at our Gwalior office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout My Home Group:\nMy Home Group is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Manage relationships with existing customers post-purchase\n• Build relationships with channel partners and brokers\n• Coordinate with architects, contractors, and project teams\n• Liaise with banks and NBFCs for home loan assistance to customers\n• Achieve monthly and quarterly sales targets\n• Conduct market research and provide competitive analysis\n• Conduct site visits and property presentations for clients\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 3-6 years of relevant experience\n• Proficiency in Lease Administration\n• Proficiency in Real Estate Law\n• Proficiency in GIS Tools\n• Proficiency in CRM Software\n• Proficiency in Negotiation Skills\n• Proficiency in Title Search\n• Proficiency in Client Relationship Management\n• Proficiency in Portfolio Management\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Employee stock options (ESOPs) for eligible roles\n• International travel opportunities for senior roles\n• Learning & development budget\n• Modern office with recreational facilities\n• Annual paid leaves and casual leaves\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Gwalior, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with My Home Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "My Home Group",
+      "value": "709-1-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "My Home Group",
+      "sameAs": "https://www.google.com/search?q=My%20Home%20Group",
+      "logo": "https://logo.clearbit.com/myhomegroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "My Home Group Office",
+        "addressLocality": "Gwalior",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "Lease Administration, Real Estate Law, GIS Tools, CRM Software, Negotiation Skills, Title Search, Client Relationship Management, Portfolio Management",
+    "responsibilities": "Manage relationships with existing customers post-purchase. Build relationships with channel partners and brokers. Coordinate with architects, contractors, and project teams. Liaise with banks and NBFCs for home loan assistance to customers. Achieve monthly and quarterly sales targets. Conduct market research and provide competitive analysis. Conduct site visits and property presentations for clients",
+    "benefits": "Transportation and conveyance allowance. Employee stock options (ESOPs) for eligible roles. International travel opportunities for senior roles. Learning & development budget. Modern office with recreational facilities. Annual paid leaves and casual leaves",
+    "industry": "realestate",
+    "occupationalCategory": "Property Consultant",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Employee stock options (ESOPs) for eligible roles, International travel opportunities for senior roles, Learning & development budget, Modern office with recreational facilities, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "My Home Group has an exciting opening for a Property Consultant at our Gwalior office. Join a company that values innovation, collaboration, and continuous lear",
+    "keywords": "Property Consultant, My Home Group, jobs in Gwalior, Madhya Pradesh jobs, realestate jobs India, Lease Administration, Real Estate Law, GIS Tools, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T05:02:43.169Z",
+  "page": 177
+}
