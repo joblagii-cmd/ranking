@@ -1,0 +1,94 @@
+{
+  "slug": "dlf-senior-property-advisor-agra-2026-05-24-2",
+  "title": "DLF is Hiring: Senior Property Advisor (Entry-Level)",
+  "company": "DLF",
+  "industry": "realestate",
+  "role": "Senior Property Advisor",
+  "location": {
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "CRM Software",
+    "Property Valuation",
+    "Sales Techniques",
+    "RERA Compliance",
+    "Market Research",
+    "Property Management",
+    "Portfolio Management",
+    "Contract Management"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "DLF is Hiring: Senior Property Advisor (Entry-Level)",
+    "description": "We at DLF are looking for an experienced Senior Property Advisor based out of Agra. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout DLF:\nDLF is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Achieve monthly and quarterly sales targets\n• Negotiate pricing, terms, and conditions on behalf of clients\n• Build relationships with channel partners and brokers\n• Liaise with banks and NBFCs for home loan assistance to customers\n• Manage relationships with existing customers post-purchase\n• Source and close property deals with prospective buyers and investors\n• Conduct market research and provide competitive analysis\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 6-10 years of relevant experience\n• Proficiency in CRM Software\n• Proficiency in Property Valuation\n• Proficiency in Sales Techniques\n• Proficiency in RERA Compliance\n• Proficiency in Market Research\n• Proficiency in Property Management\n• Proficiency in Portfolio Management\n• Proficiency in Contract Management\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Flexible working hours\n• International travel opportunities for senior roles\n• Mobile and internet reimbursement\n• Work-from-home flexibility\n• Meal coupons and food allowance\n• Referral bonus program\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Agra, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with DLF!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "DLF",
+      "value": "681-2-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "DLF",
+      "sameAs": "https://www.google.com/search?q=DLF",
+      "logo": "https://logo.clearbit.com/dlf.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "DLF Office",
+        "addressLocality": "Agra",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "CRM Software, Property Valuation, Sales Techniques, RERA Compliance, Market Research, Property Management, Portfolio Management, Contract Management",
+    "responsibilities": "Achieve monthly and quarterly sales targets. Negotiate pricing, terms, and conditions on behalf of clients. Build relationships with channel partners and brokers. Liaise with banks and NBFCs for home loan assistance to customers. Manage relationships with existing customers post-purchase. Source and close property deals with prospective buyers and investors. Conduct market research and provide competitive analysis",
+    "benefits": "Flexible working hours. International travel opportunities for senior roles. Mobile and internet reimbursement. Work-from-home flexibility. Meal coupons and food allowance. Referral bonus program",
+    "industry": "realestate",
+    "occupationalCategory": "Senior Property Advisor",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, International travel opportunities for senior roles, Mobile and internet reimbursement, Work-from-home flexibility, Meal coupons and food allowance, Referral bonus program"
+  },
+  "meta": {
+    "description": "We at DLF are looking for an experienced Senior Property Advisor based out of Agra. If you are a result-oriented professional with a passion for excellence, we ",
+    "keywords": "Senior Property Advisor, DLF, jobs in Agra, Uttar Pradesh jobs, realestate jobs India, CRM Software, Property Valuation, Sales Techniques, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T05:01:48.951Z",
+  "page": 170
+}
