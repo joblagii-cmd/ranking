@@ -1,0 +1,94 @@
+{
+  "slug": "jones-lang-lasalle-property-consultant-kanpur-2026-05-24-1",
+  "title": "Property Consultant - Jones Lang LaSalle - Multiple Openings",
+  "company": "Jones Lang LaSalle",
+  "industry": "realestate",
+  "role": "Property Consultant",
+  "location": {
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Property Management",
+    "Project Management",
+    "RERA Compliance",
+    "Property Valuation",
+    "Due Diligence",
+    "Lease Administration",
+    "Negotiation Skills",
+    "Real Estate Law"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Property Consultant - Jones Lang LaSalle - Multiple Openings",
+    "description": "Jones Lang LaSalle, one of India's leading organizations, is hiring a Property Consultant for our Kanpur operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Jones Lang LaSalle:\nJones Lang LaSalle is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with legal teams for documentation and title verification\n• Provide advisory services on property investment and market trends\n• Liaise with banks and NBFCs for home loan assistance to customers\n• Achieve monthly and quarterly sales targets\n• Maintain a pipeline of qualified leads using CRM software\n• Prepare presentations and proposals for institutional clients\n• Negotiate pricing, terms, and conditions on behalf of clients\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 6-10 years of relevant experience\n• Proficiency in Property Management\n• Proficiency in Project Management\n• Proficiency in RERA Compliance\n• Proficiency in Property Valuation\n• Proficiency in Due Diligence\n• Proficiency in Lease Administration\n• Proficiency in Negotiation Skills\n• Proficiency in Real Estate Law\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• International travel opportunities for senior roles\n• Flexible working hours\n• Recognition and rewards programs\n• Competitive salary with performance-linked incentives\n• Referral bonus program\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Kanpur, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Jones Lang LaSalle!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Jones Lang LaSalle",
+      "value": "746-1-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Jones Lang LaSalle",
+      "sameAs": "https://www.google.com/search?q=Jones%20Lang%20LaSalle",
+      "logo": "https://logo.clearbit.com/joneslanglasalle.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Jones Lang LaSalle Office",
+        "addressLocality": "Kanpur",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "Property Management, Project Management, RERA Compliance, Property Valuation, Due Diligence, Lease Administration, Negotiation Skills, Real Estate Law",
+    "responsibilities": "Coordinate with legal teams for documentation and title verification. Provide advisory services on property investment and market trends. Liaise with banks and NBFCs for home loan assistance to customers. Achieve monthly and quarterly sales targets. Maintain a pipeline of qualified leads using CRM software. Prepare presentations and proposals for institutional clients. Negotiate pricing, terms, and conditions on behalf of clients",
+    "benefits": "Transportation and conveyance allowance. International travel opportunities for senior roles. Flexible working hours. Recognition and rewards programs. Competitive salary with performance-linked incentives. Referral bonus program",
+    "industry": "realestate",
+    "occupationalCategory": "Property Consultant",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, International travel opportunities for senior roles, Flexible working hours, Recognition and rewards programs, Competitive salary with performance-linked incentives, Referral bonus program"
+  },
+  "meta": {
+    "description": "Jones Lang LaSalle, one of India's leading organizations, is hiring a Property Consultant for our Kanpur operations. We offer a competitive salary package along",
+    "keywords": "Property Consultant, Jones Lang LaSalle, jobs in Kanpur, Uttar Pradesh jobs, realestate jobs India, Property Management, Project Management, RERA Compliance, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T05:03:50.766Z",
+  "page": 186
+}
