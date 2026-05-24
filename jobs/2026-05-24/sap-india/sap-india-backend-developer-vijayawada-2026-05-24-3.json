@@ -1,0 +1,93 @@
+{
+  "slug": "sap-india-backend-developer-vijayawada-2026-05-24-3",
+  "title": "Backend Developer Vacancy at SAP India - 2026 Batch",
+  "company": "SAP India",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "AWS",
+    "Node.js",
+    "React",
+    "Git",
+    "CI/CD",
+    "Microservices",
+    "Kubernetes",
+    "TensorFlow"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at SAP India - 2026 Batch",
+    "description": "SAP India, one of India's leading organizations, is hiring a Backend Developer for our Vijayawada operations. We offer a competitive salary package along with world-class benefits.\n\nAbout SAP India:\nSAP India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure code security and follow best practices for data protection\n• Contribute to system architecture and technical design decisions\n• Integrate third-party APIs and services\n• Implement new features based on product requirements\n• Participate in code reviews and contribute to technical discussions\n• Design, develop and maintain scalable software applications\n• Write clean, maintainable, and well-documented code\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 3-6 years of relevant experience\n• Proficiency in AWS\n• Proficiency in Node.js\n• Proficiency in React\n• Proficiency in Git\n• Proficiency in CI/CD\n• Proficiency in Microservices\n• Proficiency in Kubernetes\n• Proficiency in TensorFlow\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Work-from-home flexibility\n• Meal coupons and food allowance\n• Recognition and rewards programs\n• Comprehensive health insurance for self and family\n• Maternity and paternity leave\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Vijayawada, Andhra Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with SAP India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "SAP India",
+      "value": "43-3-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "SAP India",
+      "sameAs": "https://www.google.com/search?q=SAP%20India",
+      "logo": "https://logo.clearbit.com/sapindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "SAP India Office",
+        "addressLocality": "Vijayawada",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "AWS, Node.js, React, Git, CI/CD, Microservices, Kubernetes, TensorFlow",
+    "responsibilities": "Ensure code security and follow best practices for data protection. Contribute to system architecture and technical design decisions. Integrate third-party APIs and services. Implement new features based on product requirements. Participate in code reviews and contribute to technical discussions. Design, develop and maintain scalable software applications. Write clean, maintainable, and well-documented code",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Work-from-home flexibility. Meal coupons and food allowance. Recognition and rewards programs. Comprehensive health insurance for self and family. Maternity and paternity leave",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Work-from-home flexibility, Meal coupons and food allowance, Recognition and rewards programs, Comprehensive health insurance for self and family, Maternity and paternity leave"
+  },
+  "meta": {
+    "description": "SAP India, one of India's leading organizations, is hiring a Backend Developer for our Vijayawada operations. We offer a competitive salary package along with w",
+    "keywords": "Backend Developer, SAP India, jobs in Vijayawada, Andhra Pradesh jobs, technology jobs India, AWS, Node.js, React, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:42:21.078Z",
+  "page": 10
+}
