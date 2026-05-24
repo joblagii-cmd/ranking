@@ -1,0 +1,94 @@
+{
+  "slug": "vodafone-idea-software-engineer-indore-2026-05-24-0",
+  "title": "Immediate Requirement Software Engineer at Vodafone Idea",
+  "company": "Vodafone Idea",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "JavaScript",
+    "Rust",
+    "Kubernetes",
+    "Python",
+    "MongoDB",
+    "Microservices",
+    "AWS",
+    "Java"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Immediate Requirement Software Engineer at Vodafone Idea",
+    "description": "Join the Vodafone Idea family as a Software Engineer in Indore. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Vodafone Idea:\nVodafone Idea is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in code reviews and contribute to technical discussions\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Participate in on-call rotation for production support\n• Integrate third-party APIs and services\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Implement new features based on product requirements\n• Troubleshoot, debug, and resolve software defects and performance issues\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 0-1 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Rust\n• Proficiency in Kubernetes\n• Proficiency in Python\n• Proficiency in MongoDB\n• Proficiency in Microservices\n• Proficiency in AWS\n• Proficiency in Java\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Life and accident insurance\n• Meal coupons and food allowance\n• International travel opportunities for senior roles\n• Learning & development budget\n• Provident Fund and Gratuity as per company policy\n• Annual paid leaves and casual leaves\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Indore, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Vodafone Idea!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Vodafone Idea",
+      "value": "85-0-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Vodafone Idea",
+      "sameAs": "https://www.google.com/search?q=Vodafone%20Idea",
+      "logo": "https://logo.clearbit.com/vodafoneidea.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Vodafone Idea Office",
+        "addressLocality": "Indore",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "JavaScript, Rust, Kubernetes, Python, MongoDB, Microservices, AWS, Java",
+    "responsibilities": "Participate in code reviews and contribute to technical discussions. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Participate in on-call rotation for production support. Integrate third-party APIs and services. Mentor junior developers and conduct knowledge-sharing sessions. Implement new features based on product requirements. Troubleshoot, debug, and resolve software defects and performance issues",
+    "benefits": "Life and accident insurance. Meal coupons and food allowance. International travel opportunities for senior roles. Learning & development budget. Provident Fund and Gratuity as per company policy. Annual paid leaves and casual leaves",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Meal coupons and food allowance, International travel opportunities for senior roles, Learning & development budget, Provident Fund and Gratuity as per company policy, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "Join the Vodafone Idea family as a Software Engineer in Indore. We believe in empowering our employees with the tools, training, and environment they need to su",
+    "keywords": "Software Engineer, Vodafone Idea, jobs in Indore, Madhya Pradesh jobs, technology jobs India, JavaScript, Rust, Kubernetes, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:43:42.448Z",
+  "page": 21
+}
