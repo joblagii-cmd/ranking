@@ -1,0 +1,94 @@
+{
+  "slug": "hdfc-ergo-financial-analyst-pune-2026-05-24-0",
+  "title": "Vacancy for Financial Analyst at HDFC Ergo",
+  "company": "HDFC Ergo",
+  "industry": "finance",
+  "role": "Financial Analyst",
+  "location": {
+    "city": "Pune",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Forecasting",
+    "Python for Finance",
+    "Ind AS",
+    "Due Diligence",
+    "IFRS",
+    "Power BI",
+    "QuickBooks",
+    "GST"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Vacancy for Financial Analyst at HDFC Ergo",
+    "description": "If you're a passionate Financial Analyst with drive and ambition, HDFC Ergo in Pune is the place for you. We're growing fast and need talented people to grow with us.\n\nAbout HDFC Ergo:\nHDFC Ergo is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Prepare and analyze financial statements, reports, and budgets\n• Develop financial models and projections for business planning\n• Manage accounts payable and accounts receivable functions\n• Ensure compliance with tax regulations and statutory requirements\n• Monitor financial performance against targets and provide variance analysis\n• Conduct due diligence for mergers, acquisitions, and investments\n• Prepare annual reports and investor presentations\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 10-15 years of relevant experience\n• Proficiency in Forecasting\n• Proficiency in Python for Finance\n• Proficiency in Ind AS\n• Proficiency in Due Diligence\n• Proficiency in IFRS\n• Proficiency in Power BI\n• Proficiency in QuickBooks\n• Proficiency in GST\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Referral bonus program\n• International travel opportunities for senior roles\n• Life and accident insurance\n• Company-sponsored certifications\n• Comprehensive health insurance for self and family\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Pune, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with HDFC Ergo!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "HDFC Ergo",
+      "value": "156-0-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "HDFC Ergo",
+      "sameAs": "https://www.google.com/search?q=HDFC%20Ergo",
+      "logo": "https://logo.clearbit.com/hdfcergo.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "HDFC Ergo Office",
+        "addressLocality": "Pune",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "Forecasting, Python for Finance, Ind AS, Due Diligence, IFRS, Power BI, QuickBooks, GST",
+    "responsibilities": "Prepare and analyze financial statements, reports, and budgets. Develop financial models and projections for business planning. Manage accounts payable and accounts receivable functions. Ensure compliance with tax regulations and statutory requirements. Monitor financial performance against targets and provide variance analysis. Conduct due diligence for mergers, acquisitions, and investments. Prepare annual reports and investor presentations",
+    "benefits": "Competitive salary with performance-linked incentives. Referral bonus program. International travel opportunities for senior roles. Life and accident insurance. Company-sponsored certifications. Comprehensive health insurance for self and family",
+    "industry": "finance",
+    "occupationalCategory": "Financial Analyst",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Referral bonus program, International travel opportunities for senior roles, Life and accident insurance, Company-sponsored certifications, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "If you're a passionate Financial Analyst with drive and ambition, HDFC Ergo in Pune is the place for you. We're growing fast and need talented people to grow wi",
+    "keywords": "Financial Analyst, HDFC Ergo, jobs in Pune, Maharashtra jobs, finance jobs India, Forecasting, Python for Finance, Ind AS, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:45:47.473Z",
+  "page": 38
+}
