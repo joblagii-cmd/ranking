@@ -1,0 +1,93 @@
+{
+  "slug": "sahyadri-hospitals-medical-officer-ranchi-2026-05-24-0",
+  "title": "Hiring Medical Officer at Sahyadri Hospitals",
+  "company": "Sahyadri Hospitals",
+  "industry": "healthcare",
+  "role": "Medical Officer",
+  "location": {
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "ICD-10",
+    "EMR/EHR",
+    "Telemedicine",
+    "Medical Ethics",
+    "Patient Care",
+    "CPT Codes",
+    "Health Informatics",
+    "Infection Control"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Hiring Medical Officer at Sahyadri Hospitals",
+    "description": "Sahyadri Hospitals, one of India's leading organizations, is hiring a Medical Officer for our Ranchi operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Sahyadri Hospitals:\nSahyadri Hospitals is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Administer medications and treatments as prescribed\n• Educate patients and families on health management and disease prevention\n• Collaborate with pharmaceutical representatives and medical suppliers\n• Conduct routine health assessments and screenings\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Monitor patient progress and adjust treatment plans accordingly\n• Diagnose and treat medical conditions following established protocols\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 0-1 years of relevant experience\n• Proficiency in ICD-10\n• Proficiency in EMR/EHR\n• Proficiency in Telemedicine\n• Proficiency in Medical Ethics\n• Proficiency in Patient Care\n• Proficiency in CPT Codes\n• Proficiency in Health Informatics\n• Proficiency in Infection Control\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Provident Fund and Gratuity as per company policy\n• Recognition and rewards programs\n• Professional development and training programs\n• Work-from-home flexibility\n• Learning & development budget\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Ranchi, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Sahyadri Hospitals!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Sahyadri Hospitals",
+      "value": "287-0-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Sahyadri Hospitals",
+      "sameAs": "https://www.google.com/search?q=Sahyadri%20Hospitals",
+      "logo": "https://logo.clearbit.com/sahyadrihospitals.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Sahyadri Hospitals Office",
+        "addressLocality": "Ranchi",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "ICD-10, EMR/EHR, Telemedicine, Medical Ethics, Patient Care, CPT Codes, Health Informatics, Infection Control",
+    "responsibilities": "Administer medications and treatments as prescribed. Educate patients and families on health management and disease prevention. Collaborate with pharmaceutical representatives and medical suppliers. Conduct routine health assessments and screenings. Coordinate with multidisciplinary teams for comprehensive patient management. Monitor patient progress and adjust treatment plans accordingly. Diagnose and treat medical conditions following established protocols",
+    "benefits": "Annual paid leaves and casual leaves. Provident Fund and Gratuity as per company policy. Recognition and rewards programs. Professional development and training programs. Work-from-home flexibility. Learning & development budget",
+    "industry": "healthcare",
+    "occupationalCategory": "Medical Officer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Provident Fund and Gratuity as per company policy, Recognition and rewards programs, Professional development and training programs, Work-from-home flexibility, Learning & development budget"
+  },
+  "meta": {
+    "description": "Sahyadri Hospitals, one of India's leading organizations, is hiring a Medical Officer for our Ranchi operations. We offer a competitive salary package along wit",
+    "keywords": "Medical Officer, Sahyadri Hospitals, jobs in Ranchi, Jharkhand jobs, healthcare jobs India, ICD-10, EMR/EHR, Telemedicine, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:49:44.341Z",
+  "page": 71
+}
