@@ -1,0 +1,93 @@
+{
+  "slug": "itc-limited-plant-manager-gwalior-2026-05-24-4",
+  "title": "Senior Plant Manager at ITC Limited",
+  "company": "ITC Limited",
+  "industry": "manufacturing",
+  "role": "Plant Manager",
+  "location": {
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "AutoCAD",
+    "GD&T",
+    "APQP",
+    "SolidWorks",
+    "5S",
+    "Project Management",
+    "Supply Chain Management",
+    "Quality Control"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Plant Manager at ITC Limited",
+    "description": "ITC Limited has an exciting opening for a Plant Manager at our Gwalior office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout ITC Limited:\nITC Limited is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Manage supplier quality audits and vendor development\n• Oversee daily production operations to meet output targets\n• Coordinate with design and engineering teams on product improvements\n• Train and supervise shop floor workers and supervisors\n• Ensure product quality meets internal and customer specifications\n• Implement lean manufacturing and continuous improvement initiatives\n• Monitor equipment performance and coordinate preventive maintenance\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 6-10 years of relevant experience\n• Proficiency in AutoCAD\n• Proficiency in GD&T\n• Proficiency in APQP\n• Proficiency in SolidWorks\n• Proficiency in 5S\n• Proficiency in Project Management\n• Proficiency in Supply Chain Management\n• Proficiency in Quality Control\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Modern office with recreational facilities\n• Referral bonus program\n• Company-sponsored certifications\n• Mobile and internet reimbursement\n• Learning & development budget\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Gwalior, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with ITC Limited!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "ITC Limited",
+      "value": "456-4-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "ITC Limited",
+      "sameAs": "https://www.google.com/search?q=ITC%20Limited",
+      "logo": "https://logo.clearbit.com/itclimited.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "ITC Limited Office",
+        "addressLocality": "Gwalior",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "AutoCAD, GD&T, APQP, SolidWorks, 5S, Project Management, Supply Chain Management, Quality Control",
+    "responsibilities": "Manage supplier quality audits and vendor development. Oversee daily production operations to meet output targets. Coordinate with design and engineering teams on product improvements. Train and supervise shop floor workers and supervisors. Ensure product quality meets internal and customer specifications. Implement lean manufacturing and continuous improvement initiatives. Monitor equipment performance and coordinate preventive maintenance",
+    "benefits": "Competitive salary with performance-linked incentives. Modern office with recreational facilities. Referral bonus program. Company-sponsored certifications. Mobile and internet reimbursement. Learning & development budget",
+    "industry": "manufacturing",
+    "occupationalCategory": "Plant Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Modern office with recreational facilities, Referral bonus program, Company-sponsored certifications, Mobile and internet reimbursement, Learning & development budget"
+  },
+  "meta": {
+    "description": "ITC Limited has an exciting opening for a Plant Manager at our Gwalior office. Join a company that values innovation, collaboration, and continuous learning.",
+    "keywords": "Plant Manager, ITC Limited, jobs in Gwalior, Madhya Pradesh jobs, manufacturing jobs India, AutoCAD, GD&T, APQP, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:54:48.873Z",
+  "page": 113
+}
