@@ -1,0 +1,94 @@
+{
+  "slug": "pearson-india-teacher-jabalpur-2026-05-24-0",
+  "title": "Job Opening Teacher at Pearson India",
+  "company": "Pearson India",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Jabalpur",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Special Education",
+    "Communication Skills",
+    "E-learning",
+    "Classroom Management",
+    "Bloom's Taxonomy",
+    "LMS Platforms",
+    "Pedagogy",
+    "Content Creation"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Job Opening Teacher at Pearson India",
+    "description": "An exciting career opportunity awaits you at Pearson India. We are on the lookout for a dedicated Teacher to strengthen our Jabalpur-based team.\n\nAbout Pearson India:\nPearson India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Utilize technology and digital tools to enhance learning outcomes\n• Develop and deliver engaging lesson plans for students\n• Maintain student records and prepare progress reports\n• Create curriculum-aligned learning materials and assessments\n• Contribute to school newsletter, blogs, and other publications\n• Collaborate with faculty on curriculum development initiatives\n• Maintain classroom discipline and create a positive learning environment\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 1-3 years of relevant experience\n• Proficiency in Special Education\n• Proficiency in Communication Skills\n• Proficiency in E-learning\n• Proficiency in Classroom Management\n• Proficiency in Bloom's Taxonomy\n• Proficiency in LMS Platforms\n• Proficiency in Pedagogy\n• Proficiency in Content Creation\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Recognition and rewards programs\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Employee stock options (ESOPs) for eligible roles\n• Annual performance appraisal\n• Modern office with recreational facilities\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Jabalpur, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Pearson India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Pearson India",
+      "value": "541-0-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Pearson India",
+      "sameAs": "https://www.google.com/search?q=Pearson%20India",
+      "logo": "https://logo.clearbit.com/pearsonindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Pearson India Office",
+        "addressLocality": "Jabalpur",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "Special Education, Communication Skills, E-learning, Classroom Management, Bloom's Taxonomy, LMS Platforms, Pedagogy, Content Creation",
+    "responsibilities": "Utilize technology and digital tools to enhance learning outcomes. Develop and deliver engaging lesson plans for students. Maintain student records and prepare progress reports. Create curriculum-aligned learning materials and assessments. Contribute to school newsletter, blogs, and other publications. Collaborate with faculty on curriculum development initiatives. Maintain classroom discipline and create a positive learning environment",
+    "benefits": "Recognition and rewards programs. Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Employee stock options (ESOPs) for eligible roles. Annual performance appraisal. Modern office with recreational facilities",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Recognition and rewards programs, Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Employee stock options (ESOPs) for eligible roles, Annual performance appraisal, Modern office with recreational facilities"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Pearson India. We are on the lookout for a dedicated Teacher to strengthen our Jabalpur-based team.",
+    "keywords": "Teacher, Pearson India, jobs in Jabalpur, Madhya Pradesh jobs, education jobs India, Special Education, Communication Skills, E-learning, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:57:29.714Z",
+  "page": 135
+}

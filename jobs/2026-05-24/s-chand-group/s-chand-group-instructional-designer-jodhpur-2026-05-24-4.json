@@ -1,0 +1,93 @@
+{
+  "slug": "s-chand-group-instructional-designer-jodhpur-2026-05-24-4",
+  "title": "Lead Instructional Designer at S.Chand Group",
+  "company": "S.Chand Group",
+  "industry": "education",
+  "role": "Instructional Designer",
+  "location": {
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Bloom's Taxonomy",
+    "Pedagogy",
+    "Curriculum Development",
+    "Lesson Planning",
+    "Classroom Management",
+    "E-learning",
+    "Special Education",
+    "Data Analysis"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Lead Instructional Designer at S.Chand Group",
+    "description": "An exciting career opportunity awaits you at S.Chand Group. We are on the lookout for a dedicated Instructional Designer to strengthen our Jodhpur-based team.\n\nAbout S.Chand Group:\nS.Chand Group is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Maintain student records and prepare progress reports\n• Design formative and summative assessments aligned to learning objectives\n• Participate in teacher training and professional development programs\n• Conduct parent-teacher meetings and update parents on student performance\n• Monitor student progress and provide timely feedback\n• Create curriculum-aligned learning materials and assessments\n• Conduct doubt-clearing sessions and remedial classes for weak students\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 0-1 years of relevant experience\n• Proficiency in Bloom's Taxonomy\n• Proficiency in Pedagogy\n• Proficiency in Curriculum Development\n• Proficiency in Lesson Planning\n• Proficiency in Classroom Management\n• Proficiency in E-learning\n• Proficiency in Special Education\n• Proficiency in Data Analysis\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Maternity and paternity leave\n• Comprehensive health insurance for self and family\n• Recognition and rewards programs\n• Annual performance appraisal\n• Flexible working hours\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Jodhpur, Rajasthan, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with S.Chand Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "S.Chand Group",
+      "value": "543-4-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "S.Chand Group",
+      "sameAs": "https://www.google.com/search?q=S.Chand%20Group",
+      "logo": "https://logo.clearbit.com/schandgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "S.Chand Group Office",
+        "addressLocality": "Jodhpur",
+        "addressRegion": "Rajasthan",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Bloom's Taxonomy, Pedagogy, Curriculum Development, Lesson Planning, Classroom Management, E-learning, Special Education, Data Analysis",
+    "responsibilities": "Maintain student records and prepare progress reports. Design formative and summative assessments aligned to learning objectives. Participate in teacher training and professional development programs. Conduct parent-teacher meetings and update parents on student performance. Monitor student progress and provide timely feedback. Create curriculum-aligned learning materials and assessments. Conduct doubt-clearing sessions and remedial classes for weak students",
+    "benefits": "Transportation and conveyance allowance. Maternity and paternity leave. Comprehensive health insurance for self and family. Recognition and rewards programs. Annual performance appraisal. Flexible working hours",
+    "industry": "education",
+    "occupationalCategory": "Instructional Designer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Maternity and paternity leave, Comprehensive health insurance for self and family, Recognition and rewards programs, Annual performance appraisal, Flexible working hours"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at S.Chand Group. We are on the lookout for a dedicated Instructional Designer to strengthen our Jodhpur-based team.",
+    "keywords": "Instructional Designer, S.Chand Group, jobs in Jodhpur, Rajasthan jobs, education jobs India, Bloom's Taxonomy, Pedagogy, Curriculum Development, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:57:29.714Z",
+  "page": 135
+}
