@@ -1,0 +1,93 @@
+{
+  "slug": "testbook-instructional-designer-thane-2026-05-24-4",
+  "title": "Principal Instructional Designer at Testbook",
+  "company": "Testbook",
+  "industry": "education",
+  "role": "Instructional Designer",
+  "location": {
+    "city": "Thane",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Student Assessment",
+    "Data Analysis",
+    "E-learning",
+    "Lesson Planning",
+    "Communication Skills",
+    "Educational Technology",
+    "CBSE/ICSE Standards",
+    "Mentoring"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Principal Instructional Designer at Testbook",
+    "description": "Testbook invites applications from qualified candidates for the position of Instructional Designer at our Thane location. This role offers excellent career advancement prospects.\n\nAbout Testbook:\nTestbook is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Conduct parent-teacher meetings and update parents on student performance\n• Contribute to school newsletter, blogs, and other publications\n• Coordinate with academic counselors for student career guidance\n• Create curriculum-aligned learning materials and assessments\n• Develop and deliver engaging lesson plans for students\n• Design formative and summative assessments aligned to learning objectives\n• Monitor student progress and provide timely feedback\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 6-10 years of relevant experience\n• Proficiency in Student Assessment\n• Proficiency in Data Analysis\n• Proficiency in E-learning\n• Proficiency in Lesson Planning\n• Proficiency in Communication Skills\n• Proficiency in Educational Technology\n• Proficiency in CBSE/ICSE Standards\n• Proficiency in Mentoring\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Company-sponsored certifications\n• Flexible working hours\n• Annual performance appraisal\n• Comprehensive health insurance for self and family\n• Provident Fund and Gratuity as per company policy\n• Professional development and training programs\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Thane, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Testbook!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Testbook",
+      "value": "583-4-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Testbook",
+      "sameAs": "https://www.google.com/search?q=Testbook",
+      "logo": "https://logo.clearbit.com/testbook.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Testbook Office",
+        "addressLocality": "Thane",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "Student Assessment, Data Analysis, E-learning, Lesson Planning, Communication Skills, Educational Technology, CBSE/ICSE Standards, Mentoring",
+    "responsibilities": "Conduct parent-teacher meetings and update parents on student performance. Contribute to school newsletter, blogs, and other publications. Coordinate with academic counselors for student career guidance. Create curriculum-aligned learning materials and assessments. Develop and deliver engaging lesson plans for students. Design formative and summative assessments aligned to learning objectives. Monitor student progress and provide timely feedback",
+    "benefits": "Company-sponsored certifications. Flexible working hours. Annual performance appraisal. Comprehensive health insurance for self and family. Provident Fund and Gratuity as per company policy. Professional development and training programs",
+    "industry": "education",
+    "occupationalCategory": "Instructional Designer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Company-sponsored certifications, Flexible working hours, Annual performance appraisal, Comprehensive health insurance for self and family, Provident Fund and Gratuity as per company policy, Professional development and training programs"
+  },
+  "meta": {
+    "description": "Testbook invites applications from qualified candidates for the position of Instructional Designer at our Thane location. This role offers excellent career adva",
+    "keywords": "Instructional Designer, Testbook, jobs in Thane, Maharashtra jobs, education jobs India, Student Assessment, Data Analysis, E-learning, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:58:41.807Z",
+  "page": 145
+}
