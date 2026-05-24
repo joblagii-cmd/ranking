@@ -1,0 +1,93 @@
+{
+  "slug": "tvs-motor-plant-manager-surat-2026-05-24-4",
+  "title": "Mid-Level Plant Manager at TVS Motor",
+  "company": "TVS Motor",
+  "industry": "manufacturing",
+  "role": "Plant Manager",
+  "location": {
+    "city": "Surat",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "APQP",
+    "ISO 9001",
+    "AutoCAD",
+    "ERP Systems",
+    "Six Sigma",
+    "PLC/SCADA",
+    "Statistical Process Control",
+    "TPM"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Plant Manager at TVS Motor",
+    "description": "TVS Motor is actively seeking a talented and motivated Plant Manager to join our dynamic team in Surat. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout TVS Motor:\nTVS Motor is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Maintain accurate production records and prepare daily reports\n• Conduct root cause analysis for quality rejections and defects\n• Coordinate with design and engineering teams on product improvements\n• Monitor equipment performance and coordinate preventive maintenance\n• Ensure compliance with safety regulations and factory acts\n• Coordinate with logistics for dispatching finished goods\n• Implement lean manufacturing and continuous improvement initiatives\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 6-10 years of relevant experience\n• Proficiency in APQP\n• Proficiency in ISO 9001\n• Proficiency in AutoCAD\n• Proficiency in ERP Systems\n• Proficiency in Six Sigma\n• Proficiency in PLC/SCADA\n• Proficiency in Statistical Process Control\n• Proficiency in TPM\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Provident Fund and Gratuity as per company policy\n• Maternity and paternity leave\n• Learning & development budget\n• Mobile and internet reimbursement\n• Meal coupons and food allowance\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Surat, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with TVS Motor!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "TVS Motor",
+      "value": "408-4-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "TVS Motor",
+      "sameAs": "https://www.google.com/search?q=TVS%20Motor",
+      "logo": "https://logo.clearbit.com/tvsmotor.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "TVS Motor Office",
+        "addressLocality": "Surat",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "APQP, ISO 9001, AutoCAD, ERP Systems, Six Sigma, PLC/SCADA, Statistical Process Control, TPM",
+    "responsibilities": "Maintain accurate production records and prepare daily reports. Conduct root cause analysis for quality rejections and defects. Coordinate with design and engineering teams on product improvements. Monitor equipment performance and coordinate preventive maintenance. Ensure compliance with safety regulations and factory acts. Coordinate with logistics for dispatching finished goods. Implement lean manufacturing and continuous improvement initiatives",
+    "benefits": "Annual paid leaves and casual leaves. Provident Fund and Gratuity as per company policy. Maternity and paternity leave. Learning & development budget. Mobile and internet reimbursement. Meal coupons and food allowance",
+    "industry": "manufacturing",
+    "occupationalCategory": "Plant Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Provident Fund and Gratuity as per company policy, Maternity and paternity leave, Learning & development budget, Mobile and internet reimbursement, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "TVS Motor is actively seeking a talented and motivated Plant Manager to join our dynamic team in Surat. This is an excellent opportunity for professionals who a",
+    "keywords": "Plant Manager, TVS Motor, jobs in Surat, Gujarat jobs, manufacturing jobs India, APQP, ISO 9001, AutoCAD, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:53:21.246Z",
+  "page": 101
+}
