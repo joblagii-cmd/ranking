@@ -1,0 +1,93 @@
+{
+  "slug": "tci-express-logistics-manager-navi mumbai-2026-05-24-0",
+  "title": "Walk-in Drive Logistics Manager at TCI Express",
+  "company": "TCI Express",
+  "industry": "logistics",
+  "role": "Logistics Manager",
+  "location": {
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Data Analytics",
+    "TMS",
+    "SAP SCM",
+    "Reverse Logistics",
+    "INCOTERMS",
+    "3PL Management",
+    "KPI Monitoring",
+    "GPS Tracking Systems"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Walk-in Drive Logistics Manager at TCI Express",
+    "description": "An exciting career opportunity awaits you at TCI Express. We are on the lookout for a dedicated Logistics Manager to strengthen our Navi Mumbai-based team.\n\nAbout TCI Express:\nTCI Express is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure proper handling, packaging, and labeling of goods\n• Optimize delivery routes to reduce cost and improve efficiency\n• Manage a fleet of vehicles and coordinate with drivers\n• Implement warehouse management systems (WMS) and track KPIs\n• Track shipments in real-time and resolve delivery exceptions\n• Implement cost-saving initiatives in transportation and warehousing\n• Manage relationships with third-party logistics providers\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 10-15 years of relevant experience\n• Proficiency in Data Analytics\n• Proficiency in TMS\n• Proficiency in SAP SCM\n• Proficiency in Reverse Logistics\n• Proficiency in INCOTERMS\n• Proficiency in 3PL Management\n• Proficiency in KPI Monitoring\n• Proficiency in GPS Tracking Systems\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Maternity and paternity leave\n• Competitive salary with performance-linked incentives\n• Learning & development budget\n• Work-from-home flexibility\n• Life and accident insurance\n• Annual performance appraisal\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Navi Mumbai, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with TCI Express!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "TCI Express",
+      "value": "783-0-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "TCI Express",
+      "sameAs": "https://www.google.com/search?q=TCI%20Express",
+      "logo": "https://logo.clearbit.com/tciexpress.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "TCI Express Office",
+        "addressLocality": "Navi Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "Data Analytics, TMS, SAP SCM, Reverse Logistics, INCOTERMS, 3PL Management, KPI Monitoring, GPS Tracking Systems",
+    "responsibilities": "Ensure proper handling, packaging, and labeling of goods. Optimize delivery routes to reduce cost and improve efficiency. Manage a fleet of vehicles and coordinate with drivers. Implement warehouse management systems (WMS) and track KPIs. Track shipments in real-time and resolve delivery exceptions. Implement cost-saving initiatives in transportation and warehousing. Manage relationships with third-party logistics providers",
+    "benefits": "Maternity and paternity leave. Competitive salary with performance-linked incentives. Learning & development budget. Work-from-home flexibility. Life and accident insurance. Annual performance appraisal",
+    "industry": "logistics",
+    "occupationalCategory": "Logistics Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Maternity and paternity leave, Competitive salary with performance-linked incentives, Learning & development budget, Work-from-home flexibility, Life and accident insurance, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at TCI Express. We are on the lookout for a dedicated Logistics Manager to strengthen our Navi Mumbai-based team.",
+    "keywords": "Logistics Manager, TCI Express, jobs in Navi Mumbai, Maharashtra jobs, logistics jobs India, Data Analytics, TMS, SAP SCM, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T05:04:59.524Z",
+  "page": 195
+}
