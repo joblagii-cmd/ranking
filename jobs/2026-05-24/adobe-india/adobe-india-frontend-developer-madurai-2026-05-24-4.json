@@ -1,0 +1,93 @@
+{
+  "slug": "adobe-india-frontend-developer-madurai-2026-05-24-4",
+  "title": "Mid-Level Frontend Developer at Adobe India",
+  "company": "Adobe India",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Madurai",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Kubernetes",
+    "React",
+    "Machine Learning",
+    "Docker",
+    "TensorFlow",
+    "Agile/Scrum",
+    "Microservices",
+    "Java"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Frontend Developer at Adobe India",
+    "description": "Adobe India, one of India's leading organizations, is hiring a Frontend Developer for our Madurai operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Adobe India:\nAdobe India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write and execute unit tests and integration tests\n• Optimize application performance and ensure high availability\n• Integrate third-party APIs and services\n• Design, develop and maintain scalable software applications\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Write clean, maintainable, and well-documented code\n• Mentor junior developers and conduct knowledge-sharing sessions\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 12-20 years of relevant experience\n• Proficiency in Kubernetes\n• Proficiency in React\n• Proficiency in Machine Learning\n• Proficiency in Docker\n• Proficiency in TensorFlow\n• Proficiency in Agile/Scrum\n• Proficiency in Microservices\n• Proficiency in Java\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Learning & development budget\n• Meal coupons and food allowance\n• Comprehensive health insurance for self and family\n• Provident Fund and Gratuity as per company policy\n• Mobile and internet reimbursement\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Madurai, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Adobe India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Adobe India",
+      "value": "45-4-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Adobe India",
+      "sameAs": "https://www.google.com/search?q=Adobe%20India",
+      "logo": "https://logo.clearbit.com/adobeindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Adobe India Office",
+        "addressLocality": "Madurai",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "Kubernetes, React, Machine Learning, Docker, TensorFlow, Agile/Scrum, Microservices, Java",
+    "responsibilities": "Write and execute unit tests and integration tests. Optimize application performance and ensure high availability. Integrate third-party APIs and services. Design, develop and maintain scalable software applications. Work with agile methodologies including daily stand-ups and sprint planning. Write clean, maintainable, and well-documented code. Mentor junior developers and conduct knowledge-sharing sessions",
+    "benefits": "Work-from-home flexibility. Learning & development budget. Meal coupons and food allowance. Comprehensive health insurance for self and family. Provident Fund and Gratuity as per company policy. Mobile and internet reimbursement",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Learning & development budget, Meal coupons and food allowance, Comprehensive health insurance for self and family, Provident Fund and Gratuity as per company policy, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "Adobe India, one of India's leading organizations, is hiring a Frontend Developer for our Madurai operations. We offer a competitive salary package along with w",
+    "keywords": "Frontend Developer, Adobe India, jobs in Madurai, Tamil Nadu jobs, technology jobs India, Kubernetes, React, Machine Learning, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:42:28.497Z",
+  "page": 11
+}

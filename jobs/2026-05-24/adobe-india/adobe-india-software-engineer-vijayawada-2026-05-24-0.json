@@ -1,0 +1,94 @@
+{
+  "slug": "adobe-india-software-engineer-vijayawada-2026-05-24-0",
+  "title": "Walk-in Drive Software Engineer at Adobe India",
+  "company": "Adobe India",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "SQL",
+    "Kubernetes",
+    "Agile/Scrum",
+    "Docker",
+    "AWS",
+    "React",
+    "Go",
+    "REST APIs"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Walk-in Drive Software Engineer at Adobe India",
+    "description": "Adobe India, one of India's leading organizations, is hiring a Software Engineer for our Vijayawada operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Adobe India:\nAdobe India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure code security and follow best practices for data protection\n• Design, develop and maintain scalable software applications\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Write clean, maintainable, and well-documented code\n• Integrate third-party APIs and services\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Implement new features based on product requirements\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 6-10 years of relevant experience\n• Proficiency in SQL\n• Proficiency in Kubernetes\n• Proficiency in Agile/Scrum\n• Proficiency in Docker\n• Proficiency in AWS\n• Proficiency in React\n• Proficiency in Go\n• Proficiency in REST APIs\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Annual performance appraisal\n• Competitive salary with performance-linked incentives\n• Maternity and paternity leave\n• Modern office with recreational facilities\n• Learning & development budget\n• Mobile and internet reimbursement\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Vijayawada, Andhra Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Adobe India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Adobe India",
+      "value": "45-0-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Adobe India",
+      "sameAs": "https://www.google.com/search?q=Adobe%20India",
+      "logo": "https://logo.clearbit.com/adobeindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Adobe India Office",
+        "addressLocality": "Vijayawada",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "SQL, Kubernetes, Agile/Scrum, Docker, AWS, React, Go, REST APIs",
+    "responsibilities": "Ensure code security and follow best practices for data protection. Design, develop and maintain scalable software applications. Mentor junior developers and conduct knowledge-sharing sessions. Write clean, maintainable, and well-documented code. Integrate third-party APIs and services. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Implement new features based on product requirements",
+    "benefits": "Annual performance appraisal. Competitive salary with performance-linked incentives. Maternity and paternity leave. Modern office with recreational facilities. Learning & development budget. Mobile and internet reimbursement",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual performance appraisal, Competitive salary with performance-linked incentives, Maternity and paternity leave, Modern office with recreational facilities, Learning & development budget, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "Adobe India, one of India's leading organizations, is hiring a Software Engineer for our Vijayawada operations. We offer a competitive salary package along with",
+    "keywords": "Software Engineer, Adobe India, jobs in Vijayawada, Andhra Pradesh jobs, technology jobs India, SQL, Kubernetes, Agile/Scrum, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:42:28.497Z",
+  "page": 11
+}
