@@ -1,0 +1,93 @@
+{
+  "slug": "hdfc-bank-financial-analyst-gwalior-2026-05-24-0",
+  "title": "Opening for Financial Analyst at HDFC Bank",
+  "company": "HDFC Bank",
+  "industry": "finance",
+  "role": "Financial Analyst",
+  "location": {
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Financial Modeling",
+    "GST",
+    "MS Excel",
+    "Tally",
+    "Budgeting",
+    "Financial Reporting",
+    "SQL",
+    "Income Tax"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Opening for Financial Analyst at HDFC Bank",
+    "description": "HDFC Bank invites applications from qualified candidates for the position of Financial Analyst at our Gwalior location. This role offers excellent career advancement prospects.\n\nAbout HDFC Bank:\nHDFC Bank is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Implement and maintain internal controls and audit procedures\n• Conduct due diligence for mergers, acquisitions, and investments\n• Liaise with banks, regulators, and financial institutions\n• Manage credit risk assessment and loan appraisal processes\n• Process payroll and manage employee reimbursements\n• Ensure compliance with tax regulations and statutory requirements\n• Prepare MIS reports for senior management review\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 1-3 years of relevant experience\n• Proficiency in Financial Modeling\n• Proficiency in GST\n• Proficiency in MS Excel\n• Proficiency in Tally\n• Proficiency in Budgeting\n• Proficiency in Financial Reporting\n• Proficiency in SQL\n• Proficiency in Income Tax\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• International travel opportunities for senior roles\n• Modern office with recreational facilities\n• Recognition and rewards programs\n• Learning & development budget\n• Competitive salary with performance-linked incentives\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Gwalior, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with HDFC Bank!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "HDFC Bank",
+      "value": "127-0-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "HDFC Bank",
+      "sameAs": "https://www.google.com/search?q=HDFC%20Bank",
+      "logo": "https://logo.clearbit.com/hdfcbank.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "HDFC Bank Office",
+        "addressLocality": "Gwalior",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Financial Modeling, GST, MS Excel, Tally, Budgeting, Financial Reporting, SQL, Income Tax",
+    "responsibilities": "Implement and maintain internal controls and audit procedures. Conduct due diligence for mergers, acquisitions, and investments. Liaise with banks, regulators, and financial institutions. Manage credit risk assessment and loan appraisal processes. Process payroll and manage employee reimbursements. Ensure compliance with tax regulations and statutory requirements. Prepare MIS reports for senior management review",
+    "benefits": "Comprehensive health insurance for self and family. International travel opportunities for senior roles. Modern office with recreational facilities. Recognition and rewards programs. Learning & development budget. Competitive salary with performance-linked incentives",
+    "industry": "finance",
+    "occupationalCategory": "Financial Analyst",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, International travel opportunities for senior roles, Modern office with recreational facilities, Recognition and rewards programs, Learning & development budget, Competitive salary with performance-linked incentives"
+  },
+  "meta": {
+    "description": "HDFC Bank invites applications from qualified candidates for the position of Financial Analyst at our Gwalior location. This role offers excellent career advanc",
+    "keywords": "Financial Analyst, HDFC Bank, jobs in Gwalior, Madhya Pradesh jobs, finance jobs India, Financial Modeling, GST, MS Excel, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:44:56.244Z",
+  "page": 31
+}
