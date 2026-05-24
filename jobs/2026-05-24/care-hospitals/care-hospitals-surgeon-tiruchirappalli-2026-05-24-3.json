@@ -1,0 +1,93 @@
+{
+  "slug": "care-hospitals-surgeon-tiruchirappalli-2026-05-24-3",
+  "title": "Surgeon Vacancy at Care Hospitals - 2026 Batch",
+  "company": "Care Hospitals",
+  "industry": "healthcare",
+  "role": "Surgeon",
+  "location": {
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Medical Terminology",
+    "Patient Care",
+    "Wound Care",
+    "Health Informatics",
+    "Telemedicine",
+    "Infection Control",
+    "Clinical Documentation",
+    "Medical Ethics"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Surgeon Vacancy at Care Hospitals - 2026 Batch",
+    "description": "Care Hospitals has an exciting opening for a Surgeon at our Tiruchirappalli office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Care Hospitals:\nCare Hospitals is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Administer medications and treatments as prescribed\n• Ensure patient privacy and maintain confidentiality\n• Educate patients and families on health management and disease prevention\n• Attend continuing medical education programs and training\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Adhere to NABH/JCI accreditation standards\n• Diagnose and treat medical conditions following established protocols\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 3-6 years of relevant experience\n• Proficiency in Medical Terminology\n• Proficiency in Patient Care\n• Proficiency in Wound Care\n• Proficiency in Health Informatics\n• Proficiency in Telemedicine\n• Proficiency in Infection Control\n• Proficiency in Clinical Documentation\n• Proficiency in Medical Ethics\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Comprehensive health insurance for self and family\n• Flexible working hours\n• Employee stock options (ESOPs) for eligible roles\n• Annual performance appraisal\n• Learning & development budget\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Tiruchirappalli, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Care Hospitals!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Care Hospitals",
+      "value": "224-3-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Care Hospitals",
+      "sameAs": "https://www.google.com/search?q=Care%20Hospitals",
+      "logo": "https://logo.clearbit.com/carehospitals.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Care Hospitals Office",
+        "addressLocality": "Tiruchirappalli",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "Medical Terminology, Patient Care, Wound Care, Health Informatics, Telemedicine, Infection Control, Clinical Documentation, Medical Ethics",
+    "responsibilities": "Administer medications and treatments as prescribed. Ensure patient privacy and maintain confidentiality. Educate patients and families on health management and disease prevention. Attend continuing medical education programs and training. Coordinate with multidisciplinary teams for comprehensive patient management. Adhere to NABH/JCI accreditation standards. Diagnose and treat medical conditions following established protocols",
+    "benefits": "Transportation and conveyance allowance. Comprehensive health insurance for self and family. Flexible working hours. Employee stock options (ESOPs) for eligible roles. Annual performance appraisal. Learning & development budget",
+    "industry": "healthcare",
+    "occupationalCategory": "Surgeon",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Comprehensive health insurance for self and family, Flexible working hours, Employee stock options (ESOPs) for eligible roles, Annual performance appraisal, Learning & development budget"
+  },
+  "meta": {
+    "description": "Care Hospitals has an exciting opening for a Surgeon at our Tiruchirappalli office. Join a company that values innovation, collaboration, and continuous learnin",
+    "keywords": "Surgeon, Care Hospitals, jobs in Tiruchirappalli, Tamil Nadu jobs, healthcare jobs India, Medical Terminology, Patient Care, Wound Care, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:47:50.580Z",
+  "page": 55
+}

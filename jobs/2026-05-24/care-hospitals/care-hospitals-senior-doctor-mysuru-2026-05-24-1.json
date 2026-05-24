@@ -1,0 +1,94 @@
+{
+  "slug": "care-hospitals-senior-doctor-mysuru-2026-05-24-1",
+  "title": "Senior Doctor - Care Hospitals - Work From Home Available",
+  "company": "Care Hospitals",
+  "industry": "healthcare",
+  "role": "Senior Doctor",
+  "location": {
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "HIPAA Compliance",
+    "BLS/ACLS",
+    "Clinical Documentation",
+    "Patient Care",
+    "ICU Management",
+    "Health Informatics",
+    "Clinical Research",
+    "NABH Standards"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Doctor - Care Hospitals - Work From Home Available",
+    "description": "Care Hospitals has an exciting opening for a Senior Doctor at our Mysuru office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Care Hospitals:\nCare Hospitals is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Administer medications and treatments as prescribed\n• Adhere to NABH/JCI accreditation standards\n• Respond to medical emergencies and provide immediate care\n• Diagnose and treat medical conditions following established protocols\n• Participate in quality improvement initiatives and clinical audits\n• Collaborate with pharmaceutical representatives and medical suppliers\n• Maintain sterile environments and follow infection control protocols\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 10-15 years of relevant experience\n• Proficiency in HIPAA Compliance\n• Proficiency in BLS/ACLS\n• Proficiency in Clinical Documentation\n• Proficiency in Patient Care\n• Proficiency in ICU Management\n• Proficiency in Health Informatics\n• Proficiency in Clinical Research\n• Proficiency in NABH Standards\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Comprehensive health insurance for self and family\n• Referral bonus program\n• Life and accident insurance\n• Competitive salary with performance-linked incentives\n• Flexible working hours\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Mysuru, Karnataka, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Care Hospitals!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Care Hospitals",
+      "value": "224-1-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Care Hospitals",
+      "sameAs": "https://www.google.com/search?q=Care%20Hospitals",
+      "logo": "https://logo.clearbit.com/carehospitals.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Care Hospitals Office",
+        "addressLocality": "Mysuru",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "HIPAA Compliance, BLS/ACLS, Clinical Documentation, Patient Care, ICU Management, Health Informatics, Clinical Research, NABH Standards",
+    "responsibilities": "Administer medications and treatments as prescribed. Adhere to NABH/JCI accreditation standards. Respond to medical emergencies and provide immediate care. Diagnose and treat medical conditions following established protocols. Participate in quality improvement initiatives and clinical audits. Collaborate with pharmaceutical representatives and medical suppliers. Maintain sterile environments and follow infection control protocols",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Comprehensive health insurance for self and family. Referral bonus program. Life and accident insurance. Competitive salary with performance-linked incentives. Flexible working hours",
+    "industry": "healthcare",
+    "occupationalCategory": "Senior Doctor",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Comprehensive health insurance for self and family, Referral bonus program, Life and accident insurance, Competitive salary with performance-linked incentives, Flexible working hours"
+  },
+  "meta": {
+    "description": "Care Hospitals has an exciting opening for a Senior Doctor at our Mysuru office. Join a company that values innovation, collaboration, and continuous learning.",
+    "keywords": "Senior Doctor, Care Hospitals, jobs in Mysuru, Karnataka jobs, healthcare jobs India, HIPAA Compliance, BLS/ACLS, Clinical Documentation, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:47:50.579Z",
+  "page": 55
+}
