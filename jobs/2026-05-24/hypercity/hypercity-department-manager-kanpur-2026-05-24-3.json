@@ -1,0 +1,93 @@
+{
+  "slug": "hypercity-department-manager-kanpur-2026-05-24-3",
+  "title": "Department Manager Vacancy at Hypercity - 2026 Batch",
+  "company": "Hypercity",
+  "industry": "retail",
+  "role": "Department Manager",
+  "location": {
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "SAP Retail",
+    "Customer Service",
+    "E-commerce Integration",
+    "Loss Prevention",
+    "MS Excel",
+    "Retail Operations",
+    "Sales Techniques",
+    "Planogram"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Department Manager Vacancy at Hypercity - 2026 Batch",
+    "description": "Hypercity is actively seeking a talented and motivated Department Manager to join our dynamic team in Kanpur. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout Hypercity:\nHypercity is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Monitor inventory levels and coordinate replenishment activities\n• Assist in recruiting, onboarding, and performance management of staff\n• Build relationships with regular customers to drive loyalty\n• Maintain high standards of store hygiene and cleanliness\n• Handle customer queries, complaints, and escalations effectively\n• Ensure visual merchandising standards are maintained at all times\n• Achieve sales targets and improve store performance metrics\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 12-20 years of relevant experience\n• Proficiency in SAP Retail\n• Proficiency in Customer Service\n• Proficiency in E-commerce Integration\n• Proficiency in Loss Prevention\n• Proficiency in MS Excel\n• Proficiency in Retail Operations\n• Proficiency in Sales Techniques\n• Proficiency in Planogram\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Professional development and training programs\n• Work-from-home flexibility\n• Flexible working hours\n• Employee stock options (ESOPs) for eligible roles\n• Annual paid leaves and casual leaves\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Kanpur, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Hypercity!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Hypercity",
+      "value": "662-3-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Hypercity",
+      "sameAs": "https://www.google.com/search?q=Hypercity",
+      "logo": "https://logo.clearbit.com/hypercity.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Hypercity Office",
+        "addressLocality": "Kanpur",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "SAP Retail, Customer Service, E-commerce Integration, Loss Prevention, MS Excel, Retail Operations, Sales Techniques, Planogram",
+    "responsibilities": "Monitor inventory levels and coordinate replenishment activities. Assist in recruiting, onboarding, and performance management of staff. Build relationships with regular customers to drive loyalty. Maintain high standards of store hygiene and cleanliness. Handle customer queries, complaints, and escalations effectively. Ensure visual merchandising standards are maintained at all times. Achieve sales targets and improve store performance metrics",
+    "benefits": "Professional development and training programs. Work-from-home flexibility. Flexible working hours. Employee stock options (ESOPs) for eligible roles. Annual paid leaves and casual leaves. Provident Fund and Gratuity as per company policy",
+    "industry": "retail",
+    "occupationalCategory": "Department Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Work-from-home flexibility, Flexible working hours, Employee stock options (ESOPs) for eligible roles, Annual paid leaves and casual leaves, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "Hypercity is actively seeking a talented and motivated Department Manager to join our dynamic team in Kanpur. This is an excellent opportunity for professionals",
+    "keywords": "Department Manager, Hypercity, jobs in Kanpur, Uttar Pradesh jobs, retail jobs India, SAP Retail, Customer Service, E-commerce Integration, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T05:01:10.832Z",
+  "page": 165
+}

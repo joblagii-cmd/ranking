@@ -1,0 +1,93 @@
+{
+  "slug": "hypercity-store-manager-lucknow-2026-05-24-0",
+  "title": "Hiring Store Manager at Hypercity",
+  "company": "Hypercity",
+  "industry": "retail",
+  "role": "Store Manager",
+  "location": {
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Visual Merchandising",
+    "Planogram",
+    "Category Management",
+    "POS Systems",
+    "Inventory Management",
+    "Loss Prevention",
+    "Shrinkage Control",
+    "Team Leadership"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Hiring Store Manager at Hypercity",
+    "description": "Hypercity is actively seeking a talented and motivated Store Manager to join our dynamic team in Lucknow. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout Hypercity:\nHypercity is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure compliance with company policies and retail regulations\n• Assist in recruiting, onboarding, and performance management of staff\n• Maintain high standards of store hygiene and cleanliness\n• Handle customer queries, complaints, and escalations effectively\n• Monitor inventory levels and coordinate replenishment activities\n• Prepare daily sales reports and share insights with management\n• Train and motivate the sales team to deliver excellent service\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 6-10 years of relevant experience\n• Proficiency in Visual Merchandising\n• Proficiency in Planogram\n• Proficiency in Category Management\n• Proficiency in POS Systems\n• Proficiency in Inventory Management\n• Proficiency in Loss Prevention\n• Proficiency in Shrinkage Control\n• Proficiency in Team Leadership\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Modern office with recreational facilities\n• Professional development and training programs\n• Annual paid leaves and casual leaves\n• Mobile and internet reimbursement\n• Recognition and rewards programs\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Lucknow, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Hypercity!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Hypercity",
+      "value": "662-0-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Hypercity",
+      "sameAs": "https://www.google.com/search?q=Hypercity",
+      "logo": "https://logo.clearbit.com/hypercity.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Hypercity Office",
+        "addressLocality": "Lucknow",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "Visual Merchandising, Planogram, Category Management, POS Systems, Inventory Management, Loss Prevention, Shrinkage Control, Team Leadership",
+    "responsibilities": "Ensure compliance with company policies and retail regulations. Assist in recruiting, onboarding, and performance management of staff. Maintain high standards of store hygiene and cleanliness. Handle customer queries, complaints, and escalations effectively. Monitor inventory levels and coordinate replenishment activities. Prepare daily sales reports and share insights with management. Train and motivate the sales team to deliver excellent service",
+    "benefits": "Modern office with recreational facilities. Professional development and training programs. Annual paid leaves and casual leaves. Mobile and internet reimbursement. Recognition and rewards programs. Provident Fund and Gratuity as per company policy",
+    "industry": "retail",
+    "occupationalCategory": "Store Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Modern office with recreational facilities, Professional development and training programs, Annual paid leaves and casual leaves, Mobile and internet reimbursement, Recognition and rewards programs, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "Hypercity is actively seeking a talented and motivated Store Manager to join our dynamic team in Lucknow. This is an excellent opportunity for professionals who",
+    "keywords": "Store Manager, Hypercity, jobs in Lucknow, Uttar Pradesh jobs, retail jobs India, Visual Merchandising, Planogram, Category Management, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T05:01:10.832Z",
+  "page": 165
+}
