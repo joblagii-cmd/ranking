@@ -1,0 +1,94 @@
+{
+  "slug": "nerolac-select-department-manager-patna-2026-05-24-3",
+  "title": "Department Manager Vacancy at Nerolac Select - 2026 Batch",
+  "company": "Nerolac Select",
+  "industry": "retail",
+  "role": "Department Manager",
+  "location": {
+    "city": "Patna",
+    "state": "Bihar",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "KPI Management",
+    "Retail Operations",
+    "SAP Retail",
+    "Loss Prevention",
+    "Category Management",
+    "Sales Techniques",
+    "Omnichannel Retail",
+    "CRM"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Department Manager Vacancy at Nerolac Select - 2026 Batch",
+    "description": "We at Nerolac Select are looking for an experienced Department Manager based out of Patna. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout Nerolac Select:\nNerolac Select is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Manage shrinkage and reduce stock discrepancies\n• Ensure compliance with company policies and retail regulations\n• Ensure visual merchandising standards are maintained at all times\n• Achieve sales targets and improve store performance metrics\n• Train and motivate the sales team to deliver excellent service\n• Handle customer queries, complaints, and escalations effectively\n• Monitor inventory levels and coordinate replenishment activities\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 12-20 years of relevant experience\n• Proficiency in KPI Management\n• Proficiency in Retail Operations\n• Proficiency in SAP Retail\n• Proficiency in Loss Prevention\n• Proficiency in Category Management\n• Proficiency in Sales Techniques\n• Proficiency in Omnichannel Retail\n• Proficiency in CRM\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Recognition and rewards programs\n• International travel opportunities for senior roles\n• Referral bonus program\n• Mobile and internet reimbursement\n• Provident Fund and Gratuity as per company policy\n• Comprehensive health insurance for self and family\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Patna, Bihar, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Nerolac Select!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Nerolac Select",
+      "value": "673-3-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Nerolac Select",
+      "sameAs": "https://www.google.com/search?q=Nerolac%20Select",
+      "logo": "https://logo.clearbit.com/nerolacselect.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Nerolac Select Office",
+        "addressLocality": "Patna",
+        "addressRegion": "Bihar",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "KPI Management, Retail Operations, SAP Retail, Loss Prevention, Category Management, Sales Techniques, Omnichannel Retail, CRM",
+    "responsibilities": "Manage shrinkage and reduce stock discrepancies. Ensure compliance with company policies and retail regulations. Ensure visual merchandising standards are maintained at all times. Achieve sales targets and improve store performance metrics. Train and motivate the sales team to deliver excellent service. Handle customer queries, complaints, and escalations effectively. Monitor inventory levels and coordinate replenishment activities",
+    "benefits": "Recognition and rewards programs. International travel opportunities for senior roles. Referral bonus program. Mobile and internet reimbursement. Provident Fund and Gratuity as per company policy. Comprehensive health insurance for self and family",
+    "industry": "retail",
+    "occupationalCategory": "Department Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Recognition and rewards programs, International travel opportunities for senior roles, Referral bonus program, Mobile and internet reimbursement, Provident Fund and Gratuity as per company policy, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "We at Nerolac Select are looking for an experienced Department Manager based out of Patna. If you are a result-oriented professional with a passion for excellen",
+    "keywords": "Department Manager, Nerolac Select, jobs in Patna, Bihar jobs, retail jobs India, KPI Management, Retail Operations, SAP Retail, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T05:01:33.702Z",
+  "page": 168
+}
