@@ -1,0 +1,93 @@
+{
+  "slug": "ninjacart-frontend-developer-varanasi-2026-05-24-4",
+  "title": "Senior Frontend Developer at Ninjacart",
+  "company": "Ninjacart",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "MongoDB",
+    "TypeScript",
+    "AWS",
+    "Git",
+    "Python",
+    "Go",
+    "Kubernetes",
+    "Java"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Frontend Developer at Ninjacart",
+    "description": "Ninjacart invites applications from qualified candidates for the position of Frontend Developer at our Varanasi location. This role offers excellent career advancement prospects.\n\nAbout Ninjacart:\nNinjacart is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in code reviews and contribute to technical discussions\n• Participate in on-call rotation for production support\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Implement new features based on product requirements\n• Ensure code security and follow best practices for data protection\n• Write clean, maintainable, and well-documented code\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 3-6 years of relevant experience\n• Proficiency in MongoDB\n• Proficiency in TypeScript\n• Proficiency in AWS\n• Proficiency in Git\n• Proficiency in Python\n• Proficiency in Go\n• Proficiency in Kubernetes\n• Proficiency in Java\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Competitive salary with performance-linked incentives\n• Flexible working hours\n• Recognition and rewards programs\n• Comprehensive health insurance for self and family\n• Mobile and internet reimbursement\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Varanasi, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Ninjacart!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Ninjacart",
+      "value": "106-4-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Ninjacart",
+      "sameAs": "https://www.google.com/search?q=Ninjacart",
+      "logo": "https://logo.clearbit.com/ninjacart.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Ninjacart Office",
+        "addressLocality": "Varanasi",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "MongoDB, TypeScript, AWS, Git, Python, Go, Kubernetes, Java",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Participate in code reviews and contribute to technical discussions. Participate in on-call rotation for production support. Work with agile methodologies including daily stand-ups and sprint planning. Implement new features based on product requirements. Ensure code security and follow best practices for data protection. Write clean, maintainable, and well-documented code",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Competitive salary with performance-linked incentives. Flexible working hours. Recognition and rewards programs. Comprehensive health insurance for self and family. Mobile and internet reimbursement",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Competitive salary with performance-linked incentives, Flexible working hours, Recognition and rewards programs, Comprehensive health insurance for self and family, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "Ninjacart invites applications from qualified candidates for the position of Frontend Developer at our Varanasi location. This role offers excellent career adva",
+    "keywords": "Frontend Developer, Ninjacart, jobs in Varanasi, Uttar Pradesh jobs, technology jobs India, MongoDB, TypeScript, AWS, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:44:19.205Z",
+  "page": 26
+}
