@@ -1,0 +1,94 @@
+{
+  "slug": "grofers-full-stack-developer-faridabad-2026-05-24-2",
+  "title": "Grofers is Hiring: Full Stack Developer (Senior)",
+  "company": "Grofers",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Faridabad",
+    "state": "Haryana",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Node.js",
+    "Kubernetes",
+    "Rust",
+    "Microservices",
+    "JavaScript",
+    "MongoDB",
+    "Docker",
+    "Python"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Grofers is Hiring: Full Stack Developer (Senior)",
+    "description": "Grofers invites applications from qualified candidates for the position of Full Stack Developer at our Faridabad location. This role offers excellent career advancement prospects.\n\nAbout Grofers:\nGrofers is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write and execute unit tests and integration tests\n• Participate in code reviews and contribute to technical discussions\n• Write clean, maintainable, and well-documented code\n• Collaborate with cross-functional teams including product, design, and QA\n• Design, develop and maintain scalable software applications\n• Optimize application performance and ensure high availability\n• Contribute to system architecture and technical design decisions\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 6-10 years of relevant experience\n• Proficiency in Node.js\n• Proficiency in Kubernetes\n• Proficiency in Rust\n• Proficiency in Microservices\n• Proficiency in JavaScript\n• Proficiency in MongoDB\n• Proficiency in Docker\n• Proficiency in Python\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Learning & development budget\n• Modern office with recreational facilities\n• Maternity and paternity leave\n• Employee stock options (ESOPs) for eligible roles\n• Meal coupons and food allowance\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Faridabad, Haryana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Grofers!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Grofers",
+      "value": "102-2-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Grofers",
+      "sameAs": "https://www.google.com/search?q=Grofers",
+      "logo": "https://logo.clearbit.com/grofers.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Grofers Office",
+        "addressLocality": "Faridabad",
+        "addressRegion": "Haryana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Node.js, Kubernetes, Rust, Microservices, JavaScript, MongoDB, Docker, Python",
+    "responsibilities": "Write and execute unit tests and integration tests. Participate in code reviews and contribute to technical discussions. Write clean, maintainable, and well-documented code. Collaborate with cross-functional teams including product, design, and QA. Design, develop and maintain scalable software applications. Optimize application performance and ensure high availability. Contribute to system architecture and technical design decisions",
+    "benefits": "Competitive salary with performance-linked incentives. Learning & development budget. Modern office with recreational facilities. Maternity and paternity leave. Employee stock options (ESOPs) for eligible roles. Meal coupons and food allowance",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Learning & development budget, Modern office with recreational facilities, Maternity and paternity leave, Employee stock options (ESOPs) for eligible roles, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "Grofers invites applications from qualified candidates for the position of Full Stack Developer at our Faridabad location. This role offers excellent career adv",
+    "keywords": "Full Stack Developer, Grofers, jobs in Faridabad, Haryana jobs, technology jobs India, Node.js, Kubernetes, Rust, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:44:11.872Z",
+  "page": 25
+}

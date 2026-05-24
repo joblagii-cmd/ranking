@@ -1,0 +1,94 @@
+{
+  "slug": "milkbasket-senior-software-engineer-meerut-2026-05-24-1",
+  "title": "Senior Software Engineer - Milkbasket - Top MNC",
+  "company": "Milkbasket",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Java",
+    "Node.js",
+    "TypeScript",
+    "Machine Learning",
+    "Python",
+    "Go",
+    "Agile/Scrum",
+    "Rust"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Milkbasket - Top MNC",
+    "description": "Milkbasket invites applications from qualified candidates for the position of Senior Software Engineer at our Meerut location. This role offers excellent career advancement prospects.\n\nAbout Milkbasket:\nMilkbasket is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Optimize application performance and ensure high availability\n• Write clean, maintainable, and well-documented code\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Integrate third-party APIs and services\n• Ensure code security and follow best practices for data protection\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 1-3 years of relevant experience\n• Proficiency in Java\n• Proficiency in Node.js\n• Proficiency in TypeScript\n• Proficiency in Machine Learning\n• Proficiency in Python\n• Proficiency in Go\n• Proficiency in Agile/Scrum\n• Proficiency in Rust\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Learning & development budget\n• Professional development and training programs\n• Recognition and rewards programs\n• International travel opportunities for senior roles\n• Work-from-home flexibility\n• Referral bonus program\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Meerut, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Milkbasket!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Milkbasket",
+      "value": "104-1-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Milkbasket",
+      "sameAs": "https://www.google.com/search?q=Milkbasket",
+      "logo": "https://logo.clearbit.com/milkbasket.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Milkbasket Office",
+        "addressLocality": "Meerut",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "Java, Node.js, TypeScript, Machine Learning, Python, Go, Agile/Scrum, Rust",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Troubleshoot, debug, and resolve software defects and performance issues. Optimize application performance and ensure high availability. Write clean, maintainable, and well-documented code. Work with agile methodologies including daily stand-ups and sprint planning. Integrate third-party APIs and services. Ensure code security and follow best practices for data protection",
+    "benefits": "Learning & development budget. Professional development and training programs. Recognition and rewards programs. International travel opportunities for senior roles. Work-from-home flexibility. Referral bonus program",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Learning & development budget, Professional development and training programs, Recognition and rewards programs, International travel opportunities for senior roles, Work-from-home flexibility, Referral bonus program"
+  },
+  "meta": {
+    "description": "Milkbasket invites applications from qualified candidates for the position of Senior Software Engineer at our Meerut location. This role offers excellent career",
+    "keywords": "Senior Software Engineer, Milkbasket, jobs in Meerut, Uttar Pradesh jobs, technology jobs India, Java, Node.js, TypeScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:44:11.872Z",
+  "page": 25
+}

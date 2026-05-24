@@ -1,0 +1,94 @@
+{
+  "slug": "dunzo-backend-developer-meerut-2026-05-24-3",
+  "title": "Backend Developer Vacancy at Dunzo - 2026 Batch",
+  "company": "Dunzo",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "AWS",
+    "Docker",
+    "JavaScript",
+    "Java",
+    "Agile/Scrum",
+    "React",
+    "Kubernetes",
+    "Go"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Dunzo - 2026 Batch",
+    "description": "Dunzo invites applications from qualified candidates for the position of Backend Developer at our Meerut location. This role offers excellent career advancement prospects.\n\nAbout Dunzo:\nDunzo is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Participate in on-call rotation for production support\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Ensure code security and follow best practices for data protection\n• Design, develop and maintain scalable software applications\n• Write and execute unit tests and integration tests\n• Optimize application performance and ensure high availability\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 0-1 years of relevant experience\n• Proficiency in AWS\n• Proficiency in Docker\n• Proficiency in JavaScript\n• Proficiency in Java\n• Proficiency in Agile/Scrum\n• Proficiency in React\n• Proficiency in Kubernetes\n• Proficiency in Go\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Flexible working hours\n• Mobile and internet reimbursement\n• Referral bonus program\n• Recognition and rewards programs\n• Professional development and training programs\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Meerut, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Dunzo!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Dunzo",
+      "value": "103-3-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Dunzo",
+      "sameAs": "https://www.google.com/search?q=Dunzo",
+      "logo": "https://logo.clearbit.com/dunzo.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Dunzo Office",
+        "addressLocality": "Meerut",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "AWS, Docker, JavaScript, Java, Agile/Scrum, React, Kubernetes, Go",
+    "responsibilities": "Work with agile methodologies including daily stand-ups and sprint planning. Participate in on-call rotation for production support. Troubleshoot, debug, and resolve software defects and performance issues. Ensure code security and follow best practices for data protection. Design, develop and maintain scalable software applications. Write and execute unit tests and integration tests. Optimize application performance and ensure high availability",
+    "benefits": "Competitive salary with performance-linked incentives. Flexible working hours. Mobile and internet reimbursement. Referral bonus program. Recognition and rewards programs. Professional development and training programs",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Flexible working hours, Mobile and internet reimbursement, Referral bonus program, Recognition and rewards programs, Professional development and training programs"
+  },
+  "meta": {
+    "description": "Dunzo invites applications from qualified candidates for the position of Backend Developer at our Meerut location. This role offers excellent career advancement",
+    "keywords": "Backend Developer, Dunzo, jobs in Meerut, Uttar Pradesh jobs, technology jobs India, AWS, Docker, JavaScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:44:11.872Z",
+  "page": 25
+}
