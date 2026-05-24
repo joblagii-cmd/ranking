@@ -1,0 +1,94 @@
+{
+  "slug": "magicbricks-frontend-developer-faridabad-2026-05-24-4",
+  "title": "Senior Frontend Developer at MagicBricks",
+  "company": "MagicBricks",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Faridabad",
+    "state": "Haryana",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "SQL",
+    "CI/CD",
+    "Docker",
+    "MongoDB",
+    "TypeScript",
+    "Rust",
+    "Microservices",
+    "Machine Learning"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Frontend Developer at MagicBricks",
+    "description": "MagicBricks invites applications from qualified candidates for the position of Frontend Developer at our Faridabad location. This role offers excellent career advancement prospects.\n\nAbout MagicBricks:\nMagicBricks is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure code security and follow best practices for data protection\n• Participate in code reviews and contribute to technical discussions\n• Write clean, maintainable, and well-documented code\n• Write and execute unit tests and integration tests\n• Implement new features based on product requirements\n• Integrate third-party APIs and services\n• Troubleshoot, debug, and resolve software defects and performance issues\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 6-10 years of relevant experience\n• Proficiency in SQL\n• Proficiency in CI/CD\n• Proficiency in Docker\n• Proficiency in MongoDB\n• Proficiency in TypeScript\n• Proficiency in Rust\n• Proficiency in Microservices\n• Proficiency in Machine Learning\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Annual paid leaves and casual leaves\n• Comprehensive health insurance for self and family\n• Referral bonus program\n• Provident Fund and Gratuity as per company policy\n• Professional development and training programs\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Faridabad, Haryana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with MagicBricks!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "MagicBricks",
+      "value": "100-4-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "MagicBricks",
+      "sameAs": "https://www.google.com/search?q=MagicBricks",
+      "logo": "https://logo.clearbit.com/magicbricks.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "MagicBricks Office",
+        "addressLocality": "Faridabad",
+        "addressRegion": "Haryana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "SQL, CI/CD, Docker, MongoDB, TypeScript, Rust, Microservices, Machine Learning",
+    "responsibilities": "Ensure code security and follow best practices for data protection. Participate in code reviews and contribute to technical discussions. Write clean, maintainable, and well-documented code. Write and execute unit tests and integration tests. Implement new features based on product requirements. Integrate third-party APIs and services. Troubleshoot, debug, and resolve software defects and performance issues",
+    "benefits": "Competitive salary with performance-linked incentives. Annual paid leaves and casual leaves. Comprehensive health insurance for self and family. Referral bonus program. Provident Fund and Gratuity as per company policy. Professional development and training programs",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Annual paid leaves and casual leaves, Comprehensive health insurance for self and family, Referral bonus program, Provident Fund and Gratuity as per company policy, Professional development and training programs"
+  },
+  "meta": {
+    "description": "MagicBricks invites applications from qualified candidates for the position of Frontend Developer at our Faridabad location. This role offers excellent career a",
+    "keywords": "Frontend Developer, MagicBricks, jobs in Faridabad, Haryana jobs, technology jobs India, SQL, CI/CD, Docker, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:44:04.477Z",
+  "page": 24
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "nobroker-backend-developer-ludhiana-2026-05-24-3",
+  "title": "Backend Developer Vacancy at NoBroker - 2026 Batch",
+  "company": "NoBroker",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Ludhiana",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "React",
+    "JavaScript",
+    "Git",
+    "Machine Learning",
+    "Agile/Scrum",
+    "TensorFlow",
+    "Node.js",
+    "Python"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at NoBroker - 2026 Batch",
+    "description": "Join the NoBroker family as a Backend Developer in Ludhiana. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout NoBroker:\nNoBroker is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Collaborate with cross-functional teams including product, design, and QA\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Participate in on-call rotation for production support\n• Write and execute unit tests and integration tests\n• Write clean, maintainable, and well-documented code\n• Integrate third-party APIs and services\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 1-3 years of relevant experience\n• Proficiency in React\n• Proficiency in JavaScript\n• Proficiency in Git\n• Proficiency in Machine Learning\n• Proficiency in Agile/Scrum\n• Proficiency in TensorFlow\n• Proficiency in Node.js\n• Proficiency in Python\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Maternity and paternity leave\n• Competitive salary with performance-linked incentives\n• Company-sponsored certifications\n• Transportation and conveyance allowance\n• Referral bonus program\n• Comprehensive health insurance for self and family\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Ludhiana, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with NoBroker!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "NoBroker",
+      "value": "97-3-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "NoBroker",
+      "sameAs": "https://www.google.com/search?q=NoBroker",
+      "logo": "https://logo.clearbit.com/nobroker.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "NoBroker Office",
+        "addressLocality": "Ludhiana",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "React, JavaScript, Git, Machine Learning, Agile/Scrum, TensorFlow, Node.js, Python",
+    "responsibilities": "Design, develop and maintain scalable software applications. Collaborate with cross-functional teams including product, design, and QA. Work with agile methodologies including daily stand-ups and sprint planning. Participate in on-call rotation for production support. Write and execute unit tests and integration tests. Write clean, maintainable, and well-documented code. Integrate third-party APIs and services",
+    "benefits": "Maternity and paternity leave. Competitive salary with performance-linked incentives. Company-sponsored certifications. Transportation and conveyance allowance. Referral bonus program. Comprehensive health insurance for self and family",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Maternity and paternity leave, Competitive salary with performance-linked incentives, Company-sponsored certifications, Transportation and conveyance allowance, Referral bonus program, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "Join the NoBroker family as a Backend Developer in Ludhiana. We believe in empowering our employees with the tools, training, and environment they need to succe",
+    "keywords": "Backend Developer, NoBroker, jobs in Ludhiana, Punjab jobs, technology jobs India, React, JavaScript, Git, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:44:04.474Z",
+  "page": 24
+}
