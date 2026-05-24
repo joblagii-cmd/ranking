@@ -1,0 +1,93 @@
+{
+  "slug": "delhivery-logistics-manager-agra-2026-05-24-0",
+  "title": "Walk-in Drive Logistics Manager at Delhivery",
+  "company": "Delhivery",
+  "industry": "logistics",
+  "role": "Logistics Manager",
+  "location": {
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Freight Forwarding",
+    "Supply Chain Management",
+    "Data Analytics",
+    "SAP SCM",
+    "MS Excel",
+    "Last Mile Delivery",
+    "Vendor Management",
+    "3PL Management"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Walk-in Drive Logistics Manager at Delhivery",
+    "description": "An exciting career opportunity awaits you at Delhivery. We are on the lookout for a dedicated Logistics Manager to strengthen our Agra-based team.\n\nAbout Delhivery:\nDelhivery is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Manage relationships with third-party logistics providers\n• Manage reverse logistics and return merchandise authorization\n• Coordinate with warehousing teams for inbound and outbound operations\n• Implement warehouse management systems (WMS) and track KPIs\n• Ensure compliance with transportation regulations and safety standards\n• Prepare MIS reports on delivery performance and SLA adherence\n• Implement cost-saving initiatives in transportation and warehousing\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 12-20 years of relevant experience\n• Proficiency in Freight Forwarding\n• Proficiency in Supply Chain Management\n• Proficiency in Data Analytics\n• Proficiency in SAP SCM\n• Proficiency in MS Excel\n• Proficiency in Last Mile Delivery\n• Proficiency in Vendor Management\n• Proficiency in 3PL Management\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Company-sponsored certifications\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Provident Fund and Gratuity as per company policy\n• Recognition and rewards programs\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Agra, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Delhivery!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Delhivery",
+      "value": "766-0-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Delhivery",
+      "sameAs": "https://www.google.com/search?q=Delhivery",
+      "logo": "https://logo.clearbit.com/delhivery.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Delhivery Office",
+        "addressLocality": "Agra",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "Freight Forwarding, Supply Chain Management, Data Analytics, SAP SCM, MS Excel, Last Mile Delivery, Vendor Management, 3PL Management",
+    "responsibilities": "Manage relationships with third-party logistics providers. Manage reverse logistics and return merchandise authorization. Coordinate with warehousing teams for inbound and outbound operations. Implement warehouse management systems (WMS) and track KPIs. Ensure compliance with transportation regulations and safety standards. Prepare MIS reports on delivery performance and SLA adherence. Implement cost-saving initiatives in transportation and warehousing",
+    "benefits": "Transportation and conveyance allowance. Company-sponsored certifications. Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Provident Fund and Gratuity as per company policy. Recognition and rewards programs",
+    "industry": "logistics",
+    "occupationalCategory": "Logistics Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Company-sponsored certifications, Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Provident Fund and Gratuity as per company policy, Recognition and rewards programs"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Delhivery. We are on the lookout for a dedicated Logistics Manager to strengthen our Agra-based team.",
+    "keywords": "Logistics Manager, Delhivery, jobs in Agra, Uttar Pradesh jobs, logistics jobs India, Freight Forwarding, Supply Chain Management, Data Analytics, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T05:04:28.520Z",
+  "page": 191
+}

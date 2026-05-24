@@ -1,0 +1,94 @@
+{
+  "slug": "dtdc-fleet-manager-meerut-2026-05-24-4",
+  "title": "Mid-Level Fleet Manager at DTDC",
+  "company": "DTDC",
+  "industry": "logistics",
+  "role": "Fleet Manager",
+  "location": {
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "3PL Management",
+    "Freight Forwarding",
+    "Customs Clearance",
+    "GPS Tracking Systems",
+    "Fleet Management",
+    "KPI Monitoring",
+    "Inventory Management",
+    "Route Optimization"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Fleet Manager at DTDC",
+    "description": "An exciting career opportunity awaits you at DTDC. We are on the lookout for a dedicated Fleet Manager to strengthen our Meerut-based team.\n\nAbout DTDC:\nDTDC is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Manage reverse logistics and return merchandise authorization\n• Implement warehouse management systems (WMS) and track KPIs\n• Track shipments in real-time and resolve delivery exceptions\n• Handle customs clearance for import and export shipments\n• Prepare MIS reports on delivery performance and SLA adherence\n• Oversee end-to-end logistics operations for timely delivery\n• Manage a fleet of vehicles and coordinate with drivers\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 10-15 years of relevant experience\n• Proficiency in 3PL Management\n• Proficiency in Freight Forwarding\n• Proficiency in Customs Clearance\n• Proficiency in GPS Tracking Systems\n• Proficiency in Fleet Management\n• Proficiency in KPI Monitoring\n• Proficiency in Inventory Management\n• Proficiency in Route Optimization\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Provident Fund and Gratuity as per company policy\n• Employee stock options (ESOPs) for eligible roles\n• Work-from-home flexibility\n• Meal coupons and food allowance\n• Flexible working hours\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Meerut, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with DTDC!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "DTDC",
+      "value": "768-4-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "DTDC",
+      "sameAs": "https://www.google.com/search?q=DTDC",
+      "logo": "https://logo.clearbit.com/dtdc.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "DTDC Office",
+        "addressLocality": "Meerut",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "3PL Management, Freight Forwarding, Customs Clearance, GPS Tracking Systems, Fleet Management, KPI Monitoring, Inventory Management, Route Optimization",
+    "responsibilities": "Manage reverse logistics and return merchandise authorization. Implement warehouse management systems (WMS) and track KPIs. Track shipments in real-time and resolve delivery exceptions. Handle customs clearance for import and export shipments. Prepare MIS reports on delivery performance and SLA adherence. Oversee end-to-end logistics operations for timely delivery. Manage a fleet of vehicles and coordinate with drivers",
+    "benefits": "Annual paid leaves and casual leaves. Provident Fund and Gratuity as per company policy. Employee stock options (ESOPs) for eligible roles. Work-from-home flexibility. Meal coupons and food allowance. Flexible working hours",
+    "industry": "logistics",
+    "occupationalCategory": "Fleet Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Provident Fund and Gratuity as per company policy, Employee stock options (ESOPs) for eligible roles, Work-from-home flexibility, Meal coupons and food allowance, Flexible working hours"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at DTDC. We are on the lookout for a dedicated Fleet Manager to strengthen our Meerut-based team.",
+    "keywords": "Fleet Manager, DTDC, jobs in Meerut, Uttar Pradesh jobs, logistics jobs India, 3PL Management, Freight Forwarding, Customs Clearance, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T05:04:28.522Z",
+  "page": 191
+}
