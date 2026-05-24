@@ -1,0 +1,94 @@
+{
+  "slug": "glenmark-pharmaceuticals-surgeon-indore-2026-05-24-3",
+  "title": "Surgeon Vacancy at Glenmark Pharmaceuticals - 2026 Batch",
+  "company": "Glenmark Pharmaceuticals",
+  "industry": "healthcare",
+  "role": "Surgeon",
+  "location": {
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "NABH Standards",
+    "CPT Codes",
+    "Telemedicine",
+    "Pharmacovigilance",
+    "ICU Management",
+    "Clinical Research",
+    "Patient Care",
+    "Clinical Documentation"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Surgeon Vacancy at Glenmark Pharmaceuticals - 2026 Batch",
+    "description": "Are you a skilled Surgeon looking for your next big career move? Glenmark Pharmaceuticals in Indore offers you the perfect platform to grow professionally and personally.\n\nAbout Glenmark Pharmaceuticals:\nGlenmark Pharmaceuticals is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Ensure patient privacy and maintain confidentiality\n• Diagnose and treat medical conditions following established protocols\n• Collaborate with pharmaceutical representatives and medical suppliers\n• Maintain accurate clinical documentation in electronic health records\n• Administer medications and treatments as prescribed\n• Provide high-quality patient care and maintain patient records\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 10-15 years of relevant experience\n• Proficiency in NABH Standards\n• Proficiency in CPT Codes\n• Proficiency in Telemedicine\n• Proficiency in Pharmacovigilance\n• Proficiency in ICU Management\n• Proficiency in Clinical Research\n• Proficiency in Patient Care\n• Proficiency in Clinical Documentation\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Learning & development budget\n• Employee stock options (ESOPs) for eligible roles\n• Meal coupons and food allowance\n• Annual paid leaves and casual leaves\n• Work-from-home flexibility\n• Life and accident insurance\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Indore, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Glenmark Pharmaceuticals!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Glenmark Pharmaceuticals",
+      "value": "249-3-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Glenmark Pharmaceuticals",
+      "sameAs": "https://www.google.com/search?q=Glenmark%20Pharmaceuticals",
+      "logo": "https://logo.clearbit.com/glenmarkpharmaceuticals.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Glenmark Pharmaceuticals Office",
+        "addressLocality": "Indore",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "NABH Standards, CPT Codes, Telemedicine, Pharmacovigilance, ICU Management, Clinical Research, Patient Care, Clinical Documentation",
+    "responsibilities": "Coordinate with multidisciplinary teams for comprehensive patient management. Ensure patient privacy and maintain confidentiality. Diagnose and treat medical conditions following established protocols. Collaborate with pharmaceutical representatives and medical suppliers. Maintain accurate clinical documentation in electronic health records. Administer medications and treatments as prescribed. Provide high-quality patient care and maintain patient records",
+    "benefits": "Learning & development budget. Employee stock options (ESOPs) for eligible roles. Meal coupons and food allowance. Annual paid leaves and casual leaves. Work-from-home flexibility. Life and accident insurance",
+    "industry": "healthcare",
+    "occupationalCategory": "Surgeon",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Learning & development budget, Employee stock options (ESOPs) for eligible roles, Meal coupons and food allowance, Annual paid leaves and casual leaves, Work-from-home flexibility, Life and accident insurance"
+  },
+  "meta": {
+    "description": "Are you a skilled Surgeon looking for your next big career move? Glenmark Pharmaceuticals in Indore offers you the perfect platform to grow professionally and p",
+    "keywords": "Surgeon, Glenmark Pharmaceuticals, jobs in Indore, Madhya Pradesh jobs, healthcare jobs India, NABH Standards, CPT Codes, Telemedicine, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:48:39.669Z",
+  "page": 62
+}
