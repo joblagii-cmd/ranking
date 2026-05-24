@@ -1,0 +1,94 @@
+{
+  "slug": "oliveboard-teacher-indore-2026-05-24-0",
+  "title": "Career Opportunity Teacher at Oliveboard",
+  "company": "Oliveboard",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Curriculum Development",
+    "Content Creation",
+    "Bloom's Taxonomy",
+    "Pedagogy",
+    "E-learning",
+    "Student Assessment",
+    "Communication Skills",
+    "Research Skills"
+  ],
+  "datePosted": "2026-05-24",
+  "validThrough": "2026-06-23",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Career Opportunity Teacher at Oliveboard",
+    "description": "Oliveboard invites applications from qualified candidates for the position of Teacher at our Indore location. This role offers excellent career advancement prospects.\n\nAbout Oliveboard:\nOliveboard is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Support students with special educational needs\n• Maintain classroom discipline and create a positive learning environment\n• Design formative and summative assessments aligned to learning objectives\n• Develop and deliver engaging lesson plans for students\n• Create curriculum-aligned learning materials and assessments\n• Conduct parent-teacher meetings and update parents on student performance\n• Monitor student progress and provide timely feedback\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 0-1 years of relevant experience\n• Proficiency in Curriculum Development\n• Proficiency in Content Creation\n• Proficiency in Bloom's Taxonomy\n• Proficiency in Pedagogy\n• Proficiency in E-learning\n• Proficiency in Student Assessment\n• Proficiency in Communication Skills\n• Proficiency in Research Skills\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• Flexible working hours\n• Modern office with recreational facilities\n• Competitive salary with performance-linked incentives\n• Employee stock options (ESOPs) for eligible roles\n• Learning & development budget\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Indore, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Oliveboard!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Oliveboard",
+      "value": "585-0-20260524"
+    },
+    "datePosted": "2026-05-24",
+    "validThrough": "2026-06-23",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Oliveboard",
+      "sameAs": "https://www.google.com/search?q=Oliveboard",
+      "logo": "https://logo.clearbit.com/oliveboard.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Oliveboard Office",
+        "addressLocality": "Indore",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "Curriculum Development, Content Creation, Bloom's Taxonomy, Pedagogy, E-learning, Student Assessment, Communication Skills, Research Skills",
+    "responsibilities": "Support students with special educational needs. Maintain classroom discipline and create a positive learning environment. Design formative and summative assessments aligned to learning objectives. Develop and deliver engaging lesson plans for students. Create curriculum-aligned learning materials and assessments. Conduct parent-teacher meetings and update parents on student performance. Monitor student progress and provide timely feedback",
+    "benefits": "Comprehensive health insurance for self and family. Flexible working hours. Modern office with recreational facilities. Competitive salary with performance-linked incentives. Employee stock options (ESOPs) for eligible roles. Learning & development budget",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, Flexible working hours, Modern office with recreational facilities, Competitive salary with performance-linked incentives, Employee stock options (ESOPs) for eligible roles, Learning & development budget"
+  },
+  "meta": {
+    "description": "Oliveboard invites applications from qualified candidates for the position of Teacher at our Indore location. This role offers excellent career advancement pros",
+    "keywords": "Teacher, Oliveboard, jobs in Indore, Madhya Pradesh jobs, education jobs India, Curriculum Development, Content Creation, Bloom's Taxonomy, hiring 2026"
+  },
+  "generatedAt": "2026-05-24T04:58:48.908Z",
+  "page": 146
+}
