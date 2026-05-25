@@ -1,0 +1,93 @@
+{
+  "slug": "extramarks-teacher-bhopal-2026-05-25-0",
+  "title": "Vacancy for Teacher at Extramarks",
+  "company": "Extramarks",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Communication Skills",
+    "Classroom Management",
+    "Lesson Planning",
+    "Educational Technology",
+    "Child Psychology",
+    "Content Creation",
+    "Pedagogy",
+    "LMS Platforms"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Vacancy for Teacher at Extramarks",
+    "description": "Extramarks, one of India's leading organizations, is hiring a Teacher for our Bhopal operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Extramarks:\nExtramarks is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Conduct parent-teacher meetings and update parents on student performance\n• Monitor student progress and provide timely feedback\n• Support students with special educational needs\n• Create curriculum-aligned learning materials and assessments\n• Utilize technology and digital tools to enhance learning outcomes\n• Conduct doubt-clearing sessions and remedial classes for weak students\n• Participate in school events, workshops, and training programs\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 0-1 years of relevant experience\n• Proficiency in Communication Skills\n• Proficiency in Classroom Management\n• Proficiency in Lesson Planning\n• Proficiency in Educational Technology\n• Proficiency in Child Psychology\n• Proficiency in Content Creation\n• Proficiency in Pedagogy\n• Proficiency in LMS Platforms\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Mobile and internet reimbursement\n• International travel opportunities for senior roles\n• Life and accident insurance\n• Recognition and rewards programs\n• Learning & development budget\n• Annual paid leaves and casual leaves\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Bhopal, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Extramarks!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Extramarks",
+      "value": "505-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Extramarks",
+      "sameAs": "https://www.google.com/search?q=Extramarks",
+      "logo": "https://logo.clearbit.com/extramarks.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Extramarks Office",
+        "addressLocality": "Bhopal",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "Communication Skills, Classroom Management, Lesson Planning, Educational Technology, Child Psychology, Content Creation, Pedagogy, LMS Platforms",
+    "responsibilities": "Conduct parent-teacher meetings and update parents on student performance. Monitor student progress and provide timely feedback. Support students with special educational needs. Create curriculum-aligned learning materials and assessments. Utilize technology and digital tools to enhance learning outcomes. Conduct doubt-clearing sessions and remedial classes for weak students. Participate in school events, workshops, and training programs",
+    "benefits": "Mobile and internet reimbursement. International travel opportunities for senior roles. Life and accident insurance. Recognition and rewards programs. Learning & development budget. Annual paid leaves and casual leaves",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Mobile and internet reimbursement, International travel opportunities for senior roles, Life and accident insurance, Recognition and rewards programs, Learning & development budget, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "Extramarks, one of India's leading organizations, is hiring a Teacher for our Bhopal operations. We offer a competitive salary package along with world-class be",
+    "keywords": "Teacher, Extramarks, jobs in Bhopal, Madhya Pradesh jobs, education jobs India, Communication Skills, Classroom Management, Lesson Planning, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:34:26.428Z",
+  "page": 126
+}
