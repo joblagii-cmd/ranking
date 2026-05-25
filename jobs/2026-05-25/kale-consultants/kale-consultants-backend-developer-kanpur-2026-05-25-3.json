@@ -1,0 +1,93 @@
+{
+  "slug": "kale-consultants-backend-developer-kanpur-2026-05-25-3",
+  "title": "Backend Developer Vacancy at Kale Consultants - 2026 Batch",
+  "company": "Kale Consultants",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "JavaScript",
+    "Rust",
+    "Kubernetes",
+    "Python",
+    "MongoDB",
+    "Microservices",
+    "AWS",
+    "Java"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Kale Consultants - 2026 Batch",
+    "description": "Join the Kale Consultants family as a Backend Developer in Kanpur. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Kale Consultants:\nKale Consultants is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in code reviews and contribute to technical discussions\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Participate in on-call rotation for production support\n• Integrate third-party APIs and services\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Implement new features based on product requirements\n• Troubleshoot, debug, and resolve software defects and performance issues\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 6-10 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Rust\n• Proficiency in Kubernetes\n• Proficiency in Python\n• Proficiency in MongoDB\n• Proficiency in Microservices\n• Proficiency in AWS\n• Proficiency in Java\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Life and accident insurance\n• Meal coupons and food allowance\n• International travel opportunities for senior roles\n• Learning & development budget\n• Provident Fund and Gratuity as per company policy\n• Annual paid leaves and casual leaves\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Kanpur, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Kale Consultants!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Kale Consultants",
+      "value": "80-3-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Kale Consultants",
+      "sameAs": "https://www.google.com/search?q=Kale%20Consultants",
+      "logo": "https://logo.clearbit.com/kaleconsultants.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Kale Consultants Office",
+        "addressLocality": "Kanpur",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "JavaScript, Rust, Kubernetes, Python, MongoDB, Microservices, AWS, Java",
+    "responsibilities": "Participate in code reviews and contribute to technical discussions. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Participate in on-call rotation for production support. Integrate third-party APIs and services. Mentor junior developers and conduct knowledge-sharing sessions. Implement new features based on product requirements. Troubleshoot, debug, and resolve software defects and performance issues",
+    "benefits": "Life and accident insurance. Meal coupons and food allowance. International travel opportunities for senior roles. Learning & development budget. Provident Fund and Gratuity as per company policy. Annual paid leaves and casual leaves",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Meal coupons and food allowance, International travel opportunities for senior roles, Learning & development budget, Provident Fund and Gratuity as per company policy, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "Join the Kale Consultants family as a Backend Developer in Kanpur. We believe in empowering our employees with the tools, training, and environment they need to",
+    "keywords": "Backend Developer, Kale Consultants, jobs in Kanpur, Uttar Pradesh jobs, technology jobs India, JavaScript, Rust, Kubernetes, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:19:51.513Z",
+  "page": 19
+}
