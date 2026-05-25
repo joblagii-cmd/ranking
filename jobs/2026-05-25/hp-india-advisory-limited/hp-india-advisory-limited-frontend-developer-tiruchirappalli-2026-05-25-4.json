@@ -1,0 +1,93 @@
+{
+  "slug": "hp-india-advisory-limited-frontend-developer-tiruchirappalli-2026-05-25-4",
+  "title": "Principal Frontend Developer at HP India Advisory Limited",
+  "company": "HP India Advisory Limited",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Machine Learning",
+    "Git",
+    "TypeScript",
+    "Java",
+    "React",
+    "REST APIs",
+    "JavaScript",
+    "Kubernetes"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Principal Frontend Developer at HP India Advisory Limited",
+    "description": "HP India Advisory Limited, one of India's leading organizations, is hiring a Frontend Developer for our Tiruchirappalli operations. We offer a competitive salary package along with world-class benefits.\n\nAbout HP India Advisory Limited:\nHP India Advisory Limited is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure code security and follow best practices for data protection\n• Design, develop and maintain scalable software applications\n• Integrate third-party APIs and services\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Optimize application performance and ensure high availability\n• Write and execute unit tests and integration tests\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 6-10 years of relevant experience\n• Proficiency in Machine Learning\n• Proficiency in Git\n• Proficiency in TypeScript\n• Proficiency in Java\n• Proficiency in React\n• Proficiency in REST APIs\n• Proficiency in JavaScript\n• Proficiency in Kubernetes\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Company-sponsored certifications\n• Annual performance appraisal\n• Comprehensive health insurance for self and family\n• Transportation and conveyance allowance\n• Modern office with recreational facilities\n• Maternity and paternity leave\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Tiruchirappalli, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with HP India Advisory Limited!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "HP India Advisory Limited",
+      "value": "972-4-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "HP India Advisory Limited",
+      "sameAs": "https://www.google.com/search?q=HP%20India%20Advisory%20Limited",
+      "logo": "https://logo.clearbit.com/hpindiaadvisorylimited.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "HP India Advisory Limited Office",
+        "addressLocality": "Tiruchirappalli",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "Machine Learning, Git, TypeScript, Java, React, REST APIs, JavaScript, Kubernetes",
+    "responsibilities": "Ensure code security and follow best practices for data protection. Design, develop and maintain scalable software applications. Integrate third-party APIs and services. Mentor junior developers and conduct knowledge-sharing sessions. Optimize application performance and ensure high availability. Write and execute unit tests and integration tests. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP",
+    "benefits": "Company-sponsored certifications. Annual performance appraisal. Comprehensive health insurance for self and family. Transportation and conveyance allowance. Modern office with recreational facilities. Maternity and paternity leave",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Company-sponsored certifications, Annual performance appraisal, Comprehensive health insurance for self and family, Transportation and conveyance allowance, Modern office with recreational facilities, Maternity and paternity leave"
+  },
+  "meta": {
+    "description": "HP India Advisory Limited, one of India's leading organizations, is hiring a Frontend Developer for our Tiruchirappalli operations. We offer a competitive salar",
+    "keywords": "Frontend Developer, HP India Advisory Limited, jobs in Tiruchirappalli, Tamil Nadu jobs, technology jobs India, Machine Learning, Git, TypeScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:49:59.065Z",
+  "page": 242
+}

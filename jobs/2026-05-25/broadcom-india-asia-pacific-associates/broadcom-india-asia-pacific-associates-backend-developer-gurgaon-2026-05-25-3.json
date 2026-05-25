@@ -1,0 +1,93 @@
+{
+  "slug": "broadcom-india-asia-pacific-associates-backend-developer-gurgaon-2026-05-25-3",
+  "title": "Backend Developer Vacancy at Broadcom India Asia Pacific Associates - 2026 Batch",
+  "company": "Broadcom India Asia Pacific Associates",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Gurgaon",
+    "state": "Haryana",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Go",
+    "MongoDB",
+    "Microservices",
+    "AWS",
+    "Machine Learning",
+    "Node.js",
+    "React",
+    "Java"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Broadcom India Asia Pacific Associates - 2026 Batch",
+    "description": "Broadcom India Asia Pacific Associates, one of India's leading organizations, is hiring a Backend Developer for our Gurgaon operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Broadcom India Asia Pacific Associates:\nBroadcom India Asia Pacific Associates is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in on-call rotation for production support\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Implement new features based on product requirements\n• Optimize application performance and ensure high availability\n• Design, develop and maintain scalable software applications\n• Troubleshoot, debug, and resolve software defects and performance issues\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 1-3 years of relevant experience\n• Proficiency in Go\n• Proficiency in MongoDB\n• Proficiency in Microservices\n• Proficiency in AWS\n• Proficiency in Machine Learning\n• Proficiency in Node.js\n• Proficiency in React\n• Proficiency in Java\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Modern office with recreational facilities\n• Professional development and training programs\n• Annual performance appraisal\n• Recognition and rewards programs\n• Meal coupons and food allowance\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Gurgaon, Haryana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Broadcom India Asia Pacific Associates!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Broadcom India Asia Pacific Associates",
+      "value": "969-3-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Broadcom India Asia Pacific Associates",
+      "sameAs": "https://www.google.com/search?q=Broadcom%20India%20Asia%20Pacific%20Associates",
+      "logo": "https://logo.clearbit.com/broadcomindiaasiapacificassociates.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Broadcom India Asia Pacific Associates Office",
+        "addressLocality": "Gurgaon",
+        "addressRegion": "Haryana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "Go, MongoDB, Microservices, AWS, Machine Learning, Node.js, React, Java",
+    "responsibilities": "Participate in on-call rotation for production support. Work with agile methodologies including daily stand-ups and sprint planning. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Implement new features based on product requirements. Optimize application performance and ensure high availability. Design, develop and maintain scalable software applications. Troubleshoot, debug, and resolve software defects and performance issues",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Modern office with recreational facilities. Professional development and training programs. Annual performance appraisal. Recognition and rewards programs. Meal coupons and food allowance",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Modern office with recreational facilities, Professional development and training programs, Annual performance appraisal, Recognition and rewards programs, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "Broadcom India Asia Pacific Associates, one of India's leading organizations, is hiring a Backend Developer for our Gurgaon operations. We offer a competitive s",
+    "keywords": "Backend Developer, Broadcom India Asia Pacific Associates, jobs in Gurgaon, Haryana jobs, technology jobs India, Go, MongoDB, Microservices, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:49:59.065Z",
+  "page": 242
+}

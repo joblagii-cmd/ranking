@@ -1,0 +1,93 @@
+{
+  "slug": "broadcom-india-asia-pacific-associates-software-engineer-chandigarh-2026-05-25-0",
+  "title": "Career Opportunity Software Engineer at Broadcom India Asia Pacific Associates",
+  "company": "Broadcom India Asia Pacific Associates",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Chandigarh",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "SQL",
+    "TypeScript",
+    "Machine Learning",
+    "React",
+    "Python",
+    "REST APIs",
+    "TensorFlow",
+    "AWS"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Career Opportunity Software Engineer at Broadcom India Asia Pacific Associates",
+    "description": "Are you a skilled Software Engineer looking for your next big career move? Broadcom India Asia Pacific Associates in Chandigarh offers you the perfect platform to grow professionally and personally.\n\nAbout Broadcom India Asia Pacific Associates:\nBroadcom India Asia Pacific Associates is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Design, develop and maintain scalable software applications\n• Optimize application performance and ensure high availability\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Write and execute unit tests and integration tests\n• Participate in on-call rotation for production support\n• Mentor junior developers and conduct knowledge-sharing sessions\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 10-15 years of relevant experience\n• Proficiency in SQL\n• Proficiency in TypeScript\n• Proficiency in Machine Learning\n• Proficiency in React\n• Proficiency in Python\n• Proficiency in REST APIs\n• Proficiency in TensorFlow\n• Proficiency in AWS\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Modern office with recreational facilities\n• Company-sponsored certifications\n• International travel opportunities for senior roles\n• Referral bonus program\n• Professional development and training programs\n• Annual paid leaves and casual leaves\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Chandigarh, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Broadcom India Asia Pacific Associates!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Broadcom India Asia Pacific Associates",
+      "value": "969-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Broadcom India Asia Pacific Associates",
+      "sameAs": "https://www.google.com/search?q=Broadcom%20India%20Asia%20Pacific%20Associates",
+      "logo": "https://logo.clearbit.com/broadcomindiaasiapacificassociates.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Broadcom India Asia Pacific Associates Office",
+        "addressLocality": "Chandigarh",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "SQL, TypeScript, Machine Learning, React, Python, REST APIs, TensorFlow, AWS",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Design, develop and maintain scalable software applications. Optimize application performance and ensure high availability. Work with agile methodologies including daily stand-ups and sprint planning. Write and execute unit tests and integration tests. Participate in on-call rotation for production support. Mentor junior developers and conduct knowledge-sharing sessions",
+    "benefits": "Modern office with recreational facilities. Company-sponsored certifications. International travel opportunities for senior roles. Referral bonus program. Professional development and training programs. Annual paid leaves and casual leaves",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Modern office with recreational facilities, Company-sponsored certifications, International travel opportunities for senior roles, Referral bonus program, Professional development and training programs, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "Are you a skilled Software Engineer looking for your next big career move? Broadcom India Asia Pacific Associates in Chandigarh offers you the perfect platform ",
+    "keywords": "Software Engineer, Broadcom India Asia Pacific Associates, jobs in Chandigarh, Punjab jobs, technology jobs India, SQL, TypeScript, Machine Learning, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:49:59.064Z",
+  "page": 242
+}
