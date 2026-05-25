@@ -1,0 +1,93 @@
+{
+  "slug": "quikr-backend-developer-visakhapatnam-2026-05-25-3",
+  "title": "Backend Developer Vacancy at Quikr - 2026 Batch",
+  "company": "Quikr",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Python",
+    "AWS",
+    "REST APIs",
+    "Go",
+    "Machine Learning",
+    "Microservices",
+    "Docker",
+    "React"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Quikr - 2026 Batch",
+    "description": "Join the Quikr family as a Backend Developer in Visakhapatnam. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Quikr:\nQuikr is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure code security and follow best practices for data protection\n• Design, develop and maintain scalable software applications\n• Contribute to system architecture and technical design decisions\n• Write and execute unit tests and integration tests\n• Write clean, maintainable, and well-documented code\n• Optimize application performance and ensure high availability\n• Implement new features based on product requirements\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 0-1 years of relevant experience\n• Proficiency in Python\n• Proficiency in AWS\n• Proficiency in REST APIs\n• Proficiency in Go\n• Proficiency in Machine Learning\n• Proficiency in Microservices\n• Proficiency in Docker\n• Proficiency in React\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Competitive salary with performance-linked incentives\n• Professional development and training programs\n• Referral bonus program\n• Comprehensive health insurance for self and family\n• Learning & development budget\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Visakhapatnam, Andhra Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Quikr!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Quikr",
+      "value": "88-3-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Quikr",
+      "sameAs": "https://www.google.com/search?q=Quikr",
+      "logo": "https://logo.clearbit.com/quikr.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Quikr Office",
+        "addressLocality": "Visakhapatnam",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "Python, AWS, REST APIs, Go, Machine Learning, Microservices, Docker, React",
+    "responsibilities": "Ensure code security and follow best practices for data protection. Design, develop and maintain scalable software applications. Contribute to system architecture and technical design decisions. Write and execute unit tests and integration tests. Write clean, maintainable, and well-documented code. Optimize application performance and ensure high availability. Implement new features based on product requirements",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Competitive salary with performance-linked incentives. Professional development and training programs. Referral bonus program. Comprehensive health insurance for self and family. Learning & development budget",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Competitive salary with performance-linked incentives, Professional development and training programs, Referral bonus program, Comprehensive health insurance for self and family, Learning & development budget"
+  },
+  "meta": {
+    "description": "Join the Quikr family as a Backend Developer in Visakhapatnam. We believe in empowering our employees with the tools, training, and environment they need to suc",
+    "keywords": "Backend Developer, Quikr, jobs in Visakhapatnam, Andhra Pradesh jobs, technology jobs India, Python, AWS, REST APIs, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:20:08.018Z",
+  "page": 21
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "naukri-backend-developer-bhopal-2026-05-25-3",
+  "title": "Backend Developer Vacancy at Naukri - 2026 Batch",
+  "company": "Naukri",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Microservices",
+    "Git",
+    "JavaScript",
+    "Rust",
+    "Python",
+    "CI/CD",
+    "React",
+    "Node.js"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Naukri - 2026 Batch",
+    "description": "Join the Naukri family as a Backend Developer in Bhopal. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Naukri:\nNaukri is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Write and execute unit tests and integration tests\n• Write clean, maintainable, and well-documented code\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Participate in code reviews and contribute to technical discussions\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 3-6 years of relevant experience\n• Proficiency in Microservices\n• Proficiency in Git\n• Proficiency in JavaScript\n• Proficiency in Rust\n• Proficiency in Python\n• Proficiency in CI/CD\n• Proficiency in React\n• Proficiency in Node.js\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Company-sponsored certifications\n• Provident Fund and Gratuity as per company policy\n• Meal coupons and food allowance\n• Recognition and rewards programs\n• Comprehensive health insurance for self and family\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Bhopal, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Naukri!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Naukri",
+      "value": "86-3-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Naukri",
+      "sameAs": "https://www.google.com/search?q=Naukri",
+      "logo": "https://logo.clearbit.com/naukri.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Naukri Office",
+        "addressLocality": "Bhopal",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "Microservices, Git, JavaScript, Rust, Python, CI/CD, React, Node.js",
+    "responsibilities": "Design, develop and maintain scalable software applications. Work with agile methodologies including daily stand-ups and sprint planning. Write and execute unit tests and integration tests. Write clean, maintainable, and well-documented code. Troubleshoot, debug, and resolve software defects and performance issues. Mentor junior developers and conduct knowledge-sharing sessions. Participate in code reviews and contribute to technical discussions",
+    "benefits": "Annual paid leaves and casual leaves. Company-sponsored certifications. Provident Fund and Gratuity as per company policy. Meal coupons and food allowance. Recognition and rewards programs. Comprehensive health insurance for self and family",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Company-sponsored certifications, Provident Fund and Gratuity as per company policy, Meal coupons and food allowance, Recognition and rewards programs, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "Join the Naukri family as a Backend Developer in Bhopal. We believe in empowering our employees with the tools, training, and environment they need to succeed.",
+    "keywords": "Backend Developer, Naukri, jobs in Bhopal, Madhya Pradesh jobs, technology jobs India, Microservices, Git, JavaScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:20:08.016Z",
+  "page": 21
+}
