@@ -1,0 +1,93 @@
+{
+  "slug": "pickrr-logistics-manager-ghaziabad-2026-05-25-0",
+  "title": "Opening for Logistics Manager at Pickrr",
+  "company": "Pickrr",
+  "industry": "logistics",
+  "role": "Logistics Manager",
+  "location": {
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "WMS",
+    "Data Analytics",
+    "Reverse Logistics",
+    "Freight Forwarding",
+    "Fleet Management",
+    "Last Mile Delivery",
+    "Supply Chain Management",
+    "3PL Management"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Opening for Logistics Manager at Pickrr",
+    "description": "Grow your career with Pickrr! We are hiring a Logistics Manager for our Ghaziabad team. Be part of a workplace that celebrates innovation, diversity, and performance.\n\nAbout Pickrr:\nPickrr is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Manage relationships with third-party logistics providers\n• Conduct periodic vendor audits and evaluate logistics partners\n• Coordinate with customer service teams to resolve delivery issues\n• Track shipments in real-time and resolve delivery exceptions\n• Coordinate with warehousing teams for inbound and outbound operations\n• Manage reverse logistics and return merchandise authorization\n• Ensure compliance with transportation regulations and safety standards\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 0-1 years of relevant experience\n• Proficiency in WMS\n• Proficiency in Data Analytics\n• Proficiency in Reverse Logistics\n• Proficiency in Freight Forwarding\n• Proficiency in Fleet Management\n• Proficiency in Last Mile Delivery\n• Proficiency in Supply Chain Management\n• Proficiency in 3PL Management\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Work-from-home flexibility\n• Learning & development budget\n• Employee stock options (ESOPs) for eligible roles\n• Meal coupons and food allowance\n• Flexible working hours\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Ghaziabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Pickrr!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Pickrr",
+      "value": "845-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Pickrr",
+      "sameAs": "https://www.google.com/search?q=Pickrr",
+      "logo": "https://logo.clearbit.com/pickrr.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Pickrr Office",
+        "addressLocality": "Ghaziabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "WMS, Data Analytics, Reverse Logistics, Freight Forwarding, Fleet Management, Last Mile Delivery, Supply Chain Management, 3PL Management",
+    "responsibilities": "Manage relationships with third-party logistics providers. Conduct periodic vendor audits and evaluate logistics partners. Coordinate with customer service teams to resolve delivery issues. Track shipments in real-time and resolve delivery exceptions. Coordinate with warehousing teams for inbound and outbound operations. Manage reverse logistics and return merchandise authorization. Ensure compliance with transportation regulations and safety standards",
+    "benefits": "Transportation and conveyance allowance. Work-from-home flexibility. Learning & development budget. Employee stock options (ESOPs) for eligible roles. Meal coupons and food allowance. Flexible working hours",
+    "industry": "logistics",
+    "occupationalCategory": "Logistics Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Work-from-home flexibility, Learning & development budget, Employee stock options (ESOPs) for eligible roles, Meal coupons and food allowance, Flexible working hours"
+  },
+  "meta": {
+    "description": "Grow your career with Pickrr! We are hiring a Logistics Manager for our Ghaziabad team. Be part of a workplace that celebrates innovation, diversity, and perfor",
+    "keywords": "Logistics Manager, Pickrr, jobs in Ghaziabad, Uttar Pradesh jobs, logistics jobs India, WMS, Data Analytics, Reverse Logistics, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:45:49.088Z",
+  "page": 211
+}
