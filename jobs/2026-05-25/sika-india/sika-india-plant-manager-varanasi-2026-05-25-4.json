@@ -1,0 +1,93 @@
+{
+  "slug": "sika-india-plant-manager-varanasi-2026-05-25-4",
+  "title": "Mid-Level Plant Manager at Sika India",
+  "company": "Sika India",
+  "industry": "manufacturing",
+  "role": "Plant Manager",
+  "location": {
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "AutoCAD",
+    "ISO 9001",
+    "Statistical Process Control",
+    "GD&T",
+    "Six Sigma",
+    "PLC/SCADA",
+    "Project Management",
+    "SAP MM/PP"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Plant Manager at Sika India",
+    "description": "We at Sika India are looking for an experienced Plant Manager based out of Varanasi. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout Sika India:\nSika India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Oversee daily production operations to meet output targets\n• Coordinate with design and engineering teams on product improvements\n• Implement 5S, Kaizen, and Six Sigma practices on the shop floor\n• Train and supervise shop floor workers and supervisors\n• Manage raw material procurement and inventory levels\n• Manage supplier quality audits and vendor development\n• Prepare production cost analysis and efficiency reports\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 10-15 years of relevant experience\n• Proficiency in AutoCAD\n• Proficiency in ISO 9001\n• Proficiency in Statistical Process Control\n• Proficiency in GD&T\n• Proficiency in Six Sigma\n• Proficiency in PLC/SCADA\n• Proficiency in Project Management\n• Proficiency in SAP MM/PP\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Life and accident insurance\n• Recognition and rewards programs\n• Annual paid leaves and casual leaves\n• Maternity and paternity leave\n• Referral bonus program\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Varanasi, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Sika India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Sika India",
+      "value": "439-4-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Sika India",
+      "sameAs": "https://www.google.com/search?q=Sika%20India",
+      "logo": "https://logo.clearbit.com/sikaindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Sika India Office",
+        "addressLocality": "Varanasi",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "AutoCAD, ISO 9001, Statistical Process Control, GD&T, Six Sigma, PLC/SCADA, Project Management, SAP MM/PP",
+    "responsibilities": "Oversee daily production operations to meet output targets. Coordinate with design and engineering teams on product improvements. Implement 5S, Kaizen, and Six Sigma practices on the shop floor. Train and supervise shop floor workers and supervisors. Manage raw material procurement and inventory levels. Manage supplier quality audits and vendor development. Prepare production cost analysis and efficiency reports",
+    "benefits": "Provident Fund and Gratuity as per company policy. Life and accident insurance. Recognition and rewards programs. Annual paid leaves and casual leaves. Maternity and paternity leave. Referral bonus program",
+    "industry": "manufacturing",
+    "occupationalCategory": "Plant Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Life and accident insurance, Recognition and rewards programs, Annual paid leaves and casual leaves, Maternity and paternity leave, Referral bonus program"
+  },
+  "meta": {
+    "description": "We at Sika India are looking for an experienced Plant Manager based out of Varanasi. If you are a result-oriented professional with a passion for excellence, we",
+    "keywords": "Plant Manager, Sika India, jobs in Varanasi, Uttar Pradesh jobs, manufacturing jobs India, AutoCAD, ISO 9001, Statistical Process Control, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:32:10.025Z",
+  "page": 109
+}
