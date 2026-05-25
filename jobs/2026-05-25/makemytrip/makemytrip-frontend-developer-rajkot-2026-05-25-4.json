@@ -1,0 +1,94 @@
+{
+  "slug": "makemytrip-frontend-developer-rajkot-2026-05-25-4",
+  "title": "Junior Frontend Developer at MakeMyTrip",
+  "company": "MakeMyTrip",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "JavaScript",
+    "Python",
+    "Java",
+    "React",
+    "Node.js",
+    "REST APIs",
+    "Rust",
+    "AWS"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Junior Frontend Developer at MakeMyTrip",
+    "description": "Are you a skilled Frontend Developer looking for your next big career move? MakeMyTrip in Rajkot offers you the perfect platform to grow professionally and personally.\n\nAbout MakeMyTrip:\nMakeMyTrip is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Optimize application performance and ensure high availability\n• Design, develop and maintain scalable software applications\n• Contribute to system architecture and technical design decisions\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Ensure code security and follow best practices for data protection\n• Write clean, maintainable, and well-documented code\n• Work with agile methodologies including daily stand-ups and sprint planning\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 3-6 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Python\n• Proficiency in Java\n• Proficiency in React\n• Proficiency in Node.js\n• Proficiency in REST APIs\n• Proficiency in Rust\n• Proficiency in AWS\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Life and accident insurance\n• Maternity and paternity leave\n• Recognition and rewards programs\n• Annual paid leaves and casual leaves\n• Referral bonus program\n• Work-from-home flexibility\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Rajkot, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with MakeMyTrip!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "MakeMyTrip",
+      "value": "21-4-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "MakeMyTrip",
+      "sameAs": "https://www.google.com/search?q=MakeMyTrip",
+      "logo": "https://logo.clearbit.com/makemytrip.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "MakeMyTrip Office",
+        "addressLocality": "Rajkot",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "JavaScript, Python, Java, React, Node.js, REST APIs, Rust, AWS",
+    "responsibilities": "Optimize application performance and ensure high availability. Design, develop and maintain scalable software applications. Contribute to system architecture and technical design decisions. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Ensure code security and follow best practices for data protection. Write clean, maintainable, and well-documented code. Work with agile methodologies including daily stand-ups and sprint planning",
+    "benefits": "Life and accident insurance. Maternity and paternity leave. Recognition and rewards programs. Annual paid leaves and casual leaves. Referral bonus program. Work-from-home flexibility",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Maternity and paternity leave, Recognition and rewards programs, Annual paid leaves and casual leaves, Referral bonus program, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "Are you a skilled Frontend Developer looking for your next big career move? MakeMyTrip in Rajkot offers you the perfect platform to grow professionally and pers",
+    "keywords": "Frontend Developer, MakeMyTrip, jobs in Rajkot, Gujarat jobs, technology jobs India, JavaScript, Python, Java, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:17:51.868Z",
+  "page": 5
+}

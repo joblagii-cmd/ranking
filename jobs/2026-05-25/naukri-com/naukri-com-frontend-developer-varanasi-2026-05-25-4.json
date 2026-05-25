@@ -1,0 +1,93 @@
+{
+  "slug": "naukri-com-frontend-developer-varanasi-2026-05-25-4",
+  "title": "Mid-Level Frontend Developer at Naukri.com",
+  "company": "Naukri.com",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "REST APIs",
+    "Python",
+    "Microservices",
+    "Java",
+    "AWS",
+    "TensorFlow",
+    "Agile/Scrum",
+    "TypeScript"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Frontend Developer at Naukri.com",
+    "description": "Are you a skilled Frontend Developer looking for your next big career move? Naukri.com in Varanasi offers you the perfect platform to grow professionally and personally.\n\nAbout Naukri.com:\nNaukri.com is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Optimize application performance and ensure high availability\n• Design, develop and maintain scalable software applications\n• Integrate third-party APIs and services\n• Ensure code security and follow best practices for data protection\n• Write clean, maintainable, and well-documented code\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 0-1 years of relevant experience\n• Proficiency in REST APIs\n• Proficiency in Python\n• Proficiency in Microservices\n• Proficiency in Java\n• Proficiency in AWS\n• Proficiency in TensorFlow\n• Proficiency in Agile/Scrum\n• Proficiency in TypeScript\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Referral bonus program\n• Employee stock options (ESOPs) for eligible roles\n• Comprehensive health insurance for self and family\n• Annual paid leaves and casual leaves\n• Company-sponsored certifications\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Varanasi, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Naukri.com!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Naukri.com",
+      "value": "23-4-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Naukri.com",
+      "sameAs": "https://www.google.com/search?q=Naukri.com",
+      "logo": "https://logo.clearbit.com/naukricom.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Naukri.com Office",
+        "addressLocality": "Varanasi",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "REST APIs, Python, Microservices, Java, AWS, TensorFlow, Agile/Scrum, TypeScript",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Optimize application performance and ensure high availability. Design, develop and maintain scalable software applications. Integrate third-party APIs and services. Ensure code security and follow best practices for data protection. Write clean, maintainable, and well-documented code. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP",
+    "benefits": "Competitive salary with performance-linked incentives. Referral bonus program. Employee stock options (ESOPs) for eligible roles. Comprehensive health insurance for self and family. Annual paid leaves and casual leaves. Company-sponsored certifications",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Referral bonus program, Employee stock options (ESOPs) for eligible roles, Comprehensive health insurance for self and family, Annual paid leaves and casual leaves, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "Are you a skilled Frontend Developer looking for your next big career move? Naukri.com in Varanasi offers you the perfect platform to grow professionally and pe",
+    "keywords": "Frontend Developer, Naukri.com, jobs in Varanasi, Uttar Pradesh jobs, technology jobs India, REST APIs, Python, Microservices, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:17:51.868Z",
+  "page": 5
+}

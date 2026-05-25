@@ -1,0 +1,93 @@
+{
+  "slug": "makemytrip-senior-software-engineer-meerut-2026-05-25-1",
+  "title": "Senior Software Engineer - MakeMyTrip - Freshers Welcome",
+  "company": "MakeMyTrip",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Python",
+    "JavaScript",
+    "Node.js",
+    "TypeScript",
+    "Go",
+    "CI/CD",
+    "Rust",
+    "Agile/Scrum"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - MakeMyTrip - Freshers Welcome",
+    "description": "Are you a skilled Senior Software Engineer looking for your next big career move? MakeMyTrip in Meerut offers you the perfect platform to grow professionally and personally.\n\nAbout MakeMyTrip:\nMakeMyTrip is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Write clean, maintainable, and well-documented code\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Participate in code reviews and contribute to technical discussions\n• Optimize application performance and ensure high availability\n• Work with agile methodologies including daily stand-ups and sprint planning\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 0-1 years of relevant experience\n• Proficiency in Python\n• Proficiency in JavaScript\n• Proficiency in Node.js\n• Proficiency in TypeScript\n• Proficiency in Go\n• Proficiency in CI/CD\n• Proficiency in Rust\n• Proficiency in Agile/Scrum\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Referral bonus program\n• Competitive salary with performance-linked incentives\n• Annual paid leaves and casual leaves\n• Mobile and internet reimbursement\n• Professional development and training programs\n• Maternity and paternity leave\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Meerut, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with MakeMyTrip!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "MakeMyTrip",
+      "value": "21-1-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "MakeMyTrip",
+      "sameAs": "https://www.google.com/search?q=MakeMyTrip",
+      "logo": "https://logo.clearbit.com/makemytrip.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "MakeMyTrip Office",
+        "addressLocality": "Meerut",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Python, JavaScript, Node.js, TypeScript, Go, CI/CD, Rust, Agile/Scrum",
+    "responsibilities": "Design, develop and maintain scalable software applications. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Write clean, maintainable, and well-documented code. Troubleshoot, debug, and resolve software defects and performance issues. Participate in code reviews and contribute to technical discussions. Optimize application performance and ensure high availability. Work with agile methodologies including daily stand-ups and sprint planning",
+    "benefits": "Referral bonus program. Competitive salary with performance-linked incentives. Annual paid leaves and casual leaves. Mobile and internet reimbursement. Professional development and training programs. Maternity and paternity leave",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Referral bonus program, Competitive salary with performance-linked incentives, Annual paid leaves and casual leaves, Mobile and internet reimbursement, Professional development and training programs, Maternity and paternity leave"
+  },
+  "meta": {
+    "description": "Are you a skilled Senior Software Engineer looking for your next big career move? MakeMyTrip in Meerut offers you the perfect platform to grow professionally an",
+    "keywords": "Senior Software Engineer, MakeMyTrip, jobs in Meerut, Uttar Pradesh jobs, technology jobs India, Python, JavaScript, Node.js, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:17:51.867Z",
+  "page": 5
+}

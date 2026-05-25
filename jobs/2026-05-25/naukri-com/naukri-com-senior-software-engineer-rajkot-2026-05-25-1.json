@@ -1,0 +1,93 @@
+{
+  "slug": "naukri-com-senior-software-engineer-rajkot-2026-05-25-1",
+  "title": "Senior Software Engineer - Naukri.com - Freshers Welcome",
+  "company": "Naukri.com",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "JavaScript",
+    "MongoDB",
+    "Python",
+    "Go",
+    "Rust",
+    "React",
+    "Docker",
+    "AWS"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Naukri.com - Freshers Welcome",
+    "description": "Are you a skilled Senior Software Engineer looking for your next big career move? Naukri.com in Rajkot offers you the perfect platform to grow professionally and personally.\n\nAbout Naukri.com:\nNaukri.com is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Participate in on-call rotation for production support\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Collaborate with cross-functional teams including product, design, and QA\n• Implement new features based on product requirements\n• Write clean, maintainable, and well-documented code\n• Contribute to system architecture and technical design decisions\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 6-10 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in MongoDB\n• Proficiency in Python\n• Proficiency in Go\n• Proficiency in Rust\n• Proficiency in React\n• Proficiency in Docker\n• Proficiency in AWS\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Work-from-home flexibility\n• Provident Fund and Gratuity as per company policy\n• Mobile and internet reimbursement\n• Transportation and conveyance allowance\n• Flexible working hours\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Rajkot, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Naukri.com!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Naukri.com",
+      "value": "23-1-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Naukri.com",
+      "sameAs": "https://www.google.com/search?q=Naukri.com",
+      "logo": "https://logo.clearbit.com/naukricom.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Naukri.com Office",
+        "addressLocality": "Rajkot",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "JavaScript, MongoDB, Python, Go, Rust, React, Docker, AWS",
+    "responsibilities": "Design, develop and maintain scalable software applications. Participate in on-call rotation for production support. Mentor junior developers and conduct knowledge-sharing sessions. Collaborate with cross-functional teams including product, design, and QA. Implement new features based on product requirements. Write clean, maintainable, and well-documented code. Contribute to system architecture and technical design decisions",
+    "benefits": "Annual paid leaves and casual leaves. Work-from-home flexibility. Provident Fund and Gratuity as per company policy. Mobile and internet reimbursement. Transportation and conveyance allowance. Flexible working hours",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Work-from-home flexibility, Provident Fund and Gratuity as per company policy, Mobile and internet reimbursement, Transportation and conveyance allowance, Flexible working hours"
+  },
+  "meta": {
+    "description": "Are you a skilled Senior Software Engineer looking for your next big career move? Naukri.com in Rajkot offers you the perfect platform to grow professionally an",
+    "keywords": "Senior Software Engineer, Naukri.com, jobs in Rajkot, Gujarat jobs, technology jobs India, JavaScript, MongoDB, Python, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:17:51.868Z",
+  "page": 5
+}

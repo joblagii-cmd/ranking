@@ -1,0 +1,93 @@
+{
+  "slug": "indiamart-software-engineer-meerut-2026-05-25-0",
+  "title": "Walk-in Drive Software Engineer at IndiaMart",
+  "company": "IndiaMart",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "TypeScript",
+    "AWS",
+    "Rust",
+    "Machine Learning",
+    "CI/CD",
+    "JavaScript",
+    "Python",
+    "Git"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Walk-in Drive Software Engineer at IndiaMart",
+    "description": "Are you a skilled Software Engineer looking for your next big career move? IndiaMart in Meerut offers you the perfect platform to grow professionally and personally.\n\nAbout IndiaMart:\nIndiaMart is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Implement new features based on product requirements\n• Write clean, maintainable, and well-documented code\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Integrate third-party APIs and services\n• Participate in on-call rotation for production support\n• Design, develop and maintain scalable software applications\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 0-1 years of relevant experience\n• Proficiency in TypeScript\n• Proficiency in AWS\n• Proficiency in Rust\n• Proficiency in Machine Learning\n• Proficiency in CI/CD\n• Proficiency in JavaScript\n• Proficiency in Python\n• Proficiency in Git\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• International travel opportunities for senior roles\n• Annual paid leaves and casual leaves\n• Transportation and conveyance allowance\n• Referral bonus program\n• Company-sponsored certifications\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Meerut, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with IndiaMart!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "IndiaMart",
+      "value": "22-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "IndiaMart",
+      "sameAs": "https://www.google.com/search?q=IndiaMart",
+      "logo": "https://logo.clearbit.com/indiamart.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "IndiaMart Office",
+        "addressLocality": "Meerut",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "TypeScript, AWS, Rust, Machine Learning, CI/CD, JavaScript, Python, Git",
+    "responsibilities": "Troubleshoot, debug, and resolve software defects and performance issues. Implement new features based on product requirements. Write clean, maintainable, and well-documented code. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Integrate third-party APIs and services. Participate in on-call rotation for production support. Design, develop and maintain scalable software applications",
+    "benefits": "Provident Fund and Gratuity as per company policy. International travel opportunities for senior roles. Annual paid leaves and casual leaves. Transportation and conveyance allowance. Referral bonus program. Company-sponsored certifications",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, International travel opportunities for senior roles, Annual paid leaves and casual leaves, Transportation and conveyance allowance, Referral bonus program, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "Are you a skilled Software Engineer looking for your next big career move? IndiaMart in Meerut offers you the perfect platform to grow professionally and person",
+    "keywords": "Software Engineer, IndiaMart, jobs in Meerut, Uttar Pradesh jobs, technology jobs India, TypeScript, AWS, Rust, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:17:51.868Z",
+  "page": 5
+}
