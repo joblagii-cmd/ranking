@@ -1,0 +1,93 @@
+{
+  "slug": "l-t-infotech-backend-developer-dhanbad-2026-05-25-3",
+  "title": "Backend Developer Vacancy at L&T Infotech - 2026 Batch",
+  "company": "L&T Infotech",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Dhanbad",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Java",
+    "JavaScript",
+    "Microservices",
+    "Git",
+    "REST APIs",
+    "Agile/Scrum",
+    "CI/CD",
+    "Machine Learning"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at L&T Infotech - 2026 Batch",
+    "description": "Are you a skilled Backend Developer looking for your next big career move? L&T Infotech in Dhanbad offers you the perfect platform to grow professionally and personally.\n\nAbout L&T Infotech:\nL&T Infotech is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Write clean, maintainable, and well-documented code\n• Ensure code security and follow best practices for data protection\n• Contribute to system architecture and technical design decisions\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Write and execute unit tests and integration tests\n• Collaborate with cross-functional teams including product, design, and QA\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 3-6 years of relevant experience\n• Proficiency in Java\n• Proficiency in JavaScript\n• Proficiency in Microservices\n• Proficiency in Git\n• Proficiency in REST APIs\n• Proficiency in Agile/Scrum\n• Proficiency in CI/CD\n• Proficiency in Machine Learning\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Flexible working hours\n• Mobile and internet reimbursement\n• Provident Fund and Gratuity as per company policy\n• Annual paid leaves and casual leaves\n• Referral bonus program\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Dhanbad, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with L&T Infotech!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "L&T Infotech",
+      "value": "28-3-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "L&T Infotech",
+      "sameAs": "https://www.google.com/search?q=L%26T%20Infotech",
+      "logo": "https://logo.clearbit.com/ltinfotech.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "L&T Infotech Office",
+        "addressLocality": "Dhanbad",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "Java, JavaScript, Microservices, Git, REST APIs, Agile/Scrum, CI/CD, Machine Learning",
+    "responsibilities": "Troubleshoot, debug, and resolve software defects and performance issues. Write clean, maintainable, and well-documented code. Ensure code security and follow best practices for data protection. Contribute to system architecture and technical design decisions. Work with agile methodologies including daily stand-ups and sprint planning. Write and execute unit tests and integration tests. Collaborate with cross-functional teams including product, design, and QA",
+    "benefits": "Transportation and conveyance allowance. Flexible working hours. Mobile and internet reimbursement. Provident Fund and Gratuity as per company policy. Annual paid leaves and casual leaves. Referral bonus program",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Flexible working hours, Mobile and internet reimbursement, Provident Fund and Gratuity as per company policy, Annual paid leaves and casual leaves, Referral bonus program"
+  },
+  "meta": {
+    "description": "Are you a skilled Backend Developer looking for your next big career move? L&T Infotech in Dhanbad offers you the perfect platform to grow professionally and pe",
+    "keywords": "Backend Developer, L&T Infotech, jobs in Dhanbad, Jharkhand jobs, technology jobs India, Java, JavaScript, Microservices, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:18:01.062Z",
+  "page": 6
+}

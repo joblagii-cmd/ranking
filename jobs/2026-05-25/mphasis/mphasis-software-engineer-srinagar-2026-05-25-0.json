@@ -1,0 +1,93 @@
+{
+  "slug": "mphasis-software-engineer-srinagar-2026-05-25-0",
+  "title": "Walk-in Drive Software Engineer at Mphasis",
+  "company": "Mphasis",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Srinagar",
+    "state": "Jammu & Kashmir",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "React",
+    "Docker",
+    "Go",
+    "Java",
+    "Python",
+    "MongoDB",
+    "Microservices",
+    "CI/CD"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Walk-in Drive Software Engineer at Mphasis",
+    "description": "Are you a skilled Software Engineer looking for your next big career move? Mphasis in Srinagar offers you the perfect platform to grow professionally and personally.\n\nAbout Mphasis:\nMphasis is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Contribute to system architecture and technical design decisions\n• Collaborate with cross-functional teams including product, design, and QA\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Participate in code reviews and contribute to technical discussions\n• Write and execute unit tests and integration tests\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Write clean, maintainable, and well-documented code\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 1-3 years of relevant experience\n• Proficiency in React\n• Proficiency in Docker\n• Proficiency in Go\n• Proficiency in Java\n• Proficiency in Python\n• Proficiency in MongoDB\n• Proficiency in Microservices\n• Proficiency in CI/CD\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Annual performance appraisal\n• Recognition and rewards programs\n• Referral bonus program\n• Provident Fund and Gratuity as per company policy\n• Company-sponsored certifications\n• Competitive salary with performance-linked incentives\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Srinagar, Jammu & Kashmir, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Mphasis!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Mphasis",
+      "value": "26-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Mphasis",
+      "sameAs": "https://www.google.com/search?q=Mphasis",
+      "logo": "https://logo.clearbit.com/mphasis.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Mphasis Office",
+        "addressLocality": "Srinagar",
+        "addressRegion": "Jammu & Kashmir",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "React, Docker, Go, Java, Python, MongoDB, Microservices, CI/CD",
+    "responsibilities": "Contribute to system architecture and technical design decisions. Collaborate with cross-functional teams including product, design, and QA. Mentor junior developers and conduct knowledge-sharing sessions. Participate in code reviews and contribute to technical discussions. Write and execute unit tests and integration tests. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Write clean, maintainable, and well-documented code",
+    "benefits": "Annual performance appraisal. Recognition and rewards programs. Referral bonus program. Provident Fund and Gratuity as per company policy. Company-sponsored certifications. Competitive salary with performance-linked incentives",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual performance appraisal, Recognition and rewards programs, Referral bonus program, Provident Fund and Gratuity as per company policy, Company-sponsored certifications, Competitive salary with performance-linked incentives"
+  },
+  "meta": {
+    "description": "Are you a skilled Software Engineer looking for your next big career move? Mphasis in Srinagar offers you the perfect platform to grow professionally and person",
+    "keywords": "Software Engineer, Mphasis, jobs in Srinagar, Jammu & Kashmir jobs, technology jobs India, React, Docker, Go, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:18:01.060Z",
+  "page": 6
+}

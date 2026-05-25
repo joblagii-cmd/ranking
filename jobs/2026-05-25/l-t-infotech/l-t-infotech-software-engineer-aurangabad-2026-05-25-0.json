@@ -1,0 +1,93 @@
+{
+  "slug": "l-t-infotech-software-engineer-aurangabad-2026-05-25-0",
+  "title": "Walk-in Drive Software Engineer at L&T Infotech",
+  "company": "L&T Infotech",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Aurangabad",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "JavaScript",
+    "Node.js",
+    "Python",
+    "Rust",
+    "Java",
+    "MongoDB",
+    "AWS",
+    "SQL"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Walk-in Drive Software Engineer at L&T Infotech",
+    "description": "Are you a skilled Software Engineer looking for your next big career move? L&T Infotech in Aurangabad offers you the perfect platform to grow professionally and personally.\n\nAbout L&T Infotech:\nL&T Infotech is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write clean, maintainable, and well-documented code\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Participate in code reviews and contribute to technical discussions\n• Participate in on-call rotation for production support\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Design, develop and maintain scalable software applications\n• Integrate third-party APIs and services\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 12-20 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Node.js\n• Proficiency in Python\n• Proficiency in Rust\n• Proficiency in Java\n• Proficiency in MongoDB\n• Proficiency in AWS\n• Proficiency in SQL\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Professional development and training programs\n• Employee stock options (ESOPs) for eligible roles\n• Maternity and paternity leave\n• Company-sponsored certifications\n• Meal coupons and food allowance\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Aurangabad, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with L&T Infotech!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "L&T Infotech",
+      "value": "28-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "L&T Infotech",
+      "sameAs": "https://www.google.com/search?q=L%26T%20Infotech",
+      "logo": "https://logo.clearbit.com/ltinfotech.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "L&T Infotech Office",
+        "addressLocality": "Aurangabad",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "JavaScript, Node.js, Python, Rust, Java, MongoDB, AWS, SQL",
+    "responsibilities": "Write clean, maintainable, and well-documented code. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Participate in code reviews and contribute to technical discussions. Participate in on-call rotation for production support. Work with agile methodologies including daily stand-ups and sprint planning. Design, develop and maintain scalable software applications. Integrate third-party APIs and services",
+    "benefits": "Provident Fund and Gratuity as per company policy. Professional development and training programs. Employee stock options (ESOPs) for eligible roles. Maternity and paternity leave. Company-sponsored certifications. Meal coupons and food allowance",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Professional development and training programs, Employee stock options (ESOPs) for eligible roles, Maternity and paternity leave, Company-sponsored certifications, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "Are you a skilled Software Engineer looking for your next big career move? L&T Infotech in Aurangabad offers you the perfect platform to grow professionally and",
+    "keywords": "Software Engineer, L&T Infotech, jobs in Aurangabad, Maharashtra jobs, technology jobs India, JavaScript, Node.js, Python, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:18:01.060Z",
+  "page": 6
+}
