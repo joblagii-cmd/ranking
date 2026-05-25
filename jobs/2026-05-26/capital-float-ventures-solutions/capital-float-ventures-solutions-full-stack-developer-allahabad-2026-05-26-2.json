@@ -1,0 +1,94 @@
+{
+  "slug": "capital-float-ventures-solutions-full-stack-developer-allahabad-2026-05-26-2",
+  "title": "Capital Float Ventures Solutions is Hiring: Full Stack Developer (Principal)",
+  "company": "Capital Float Ventures Solutions",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Allahabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Git",
+    "TypeScript",
+    "JavaScript",
+    "Agile/Scrum",
+    "React",
+    "Go",
+    "TensorFlow",
+    "MongoDB"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Capital Float Ventures Solutions is Hiring: Full Stack Developer (Principal)",
+    "description": "Capital Float Ventures Solutions has an exciting opening for a Full Stack Developer at our Allahabad office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Capital Float Ventures Solutions:\nCapital Float Ventures Solutions is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Write and execute unit tests and integration tests\n• Collaborate with cross-functional teams including product, design, and QA\n• Integrate third-party APIs and services\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Participate in on-call rotation for production support\n• Implement new features based on product requirements\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 6-10 years of relevant experience\n• Proficiency in Git\n• Proficiency in TypeScript\n• Proficiency in JavaScript\n• Proficiency in Agile/Scrum\n• Proficiency in React\n• Proficiency in Go\n• Proficiency in TensorFlow\n• Proficiency in MongoDB\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Comprehensive health insurance for self and family\n• Company-sponsored certifications\n• Professional development and training programs\n• Mobile and internet reimbursement\n• Learning & development budget\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Allahabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Capital Float Ventures Solutions!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Capital Float Ventures Solutions",
+      "value": "4694-2-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Capital Float Ventures Solutions",
+      "sameAs": "https://www.google.com/search?q=Capital%20Float%20Ventures%20Solutions",
+      "logo": "https://logo.clearbit.com/capitalfloatventuressolutions.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Capital Float Ventures Solutions Office",
+        "addressLocality": "Allahabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "Git, TypeScript, JavaScript, Agile/Scrum, React, Go, TensorFlow, MongoDB",
+    "responsibilities": "Work with agile methodologies including daily stand-ups and sprint planning. Write and execute unit tests and integration tests. Collaborate with cross-functional teams including product, design, and QA. Integrate third-party APIs and services. Troubleshoot, debug, and resolve software defects and performance issues. Participate in on-call rotation for production support. Implement new features based on product requirements",
+    "benefits": "Provident Fund and Gratuity as per company policy. Comprehensive health insurance for self and family. Company-sponsored certifications. Professional development and training programs. Mobile and internet reimbursement. Learning & development budget",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Comprehensive health insurance for self and family, Company-sponsored certifications, Professional development and training programs, Mobile and internet reimbursement, Learning & development budget"
+  },
+  "meta": {
+    "description": "Capital Float Ventures Solutions has an exciting opening for a Full Stack Developer at our Allahabad office. Join a company that values innovation, collaboratio",
+    "keywords": "Full Stack Developer, Capital Float Ventures Solutions, jobs in Allahabad, Uttar Pradesh jobs, technology jobs India, Git, TypeScript, JavaScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T22:17:22.898Z",
+  "page": 1337
+}

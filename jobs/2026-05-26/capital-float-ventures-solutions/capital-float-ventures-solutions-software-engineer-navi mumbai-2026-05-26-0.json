@@ -1,0 +1,93 @@
+{
+  "slug": "capital-float-ventures-solutions-software-engineer-navi mumbai-2026-05-26-0",
+  "title": "Now Hiring Software Engineer at Capital Float Ventures Solutions",
+  "company": "Capital Float Ventures Solutions",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "JavaScript",
+    "REST APIs",
+    "Python",
+    "Machine Learning",
+    "CI/CD",
+    "MongoDB",
+    "Java",
+    "React"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Now Hiring Software Engineer at Capital Float Ventures Solutions",
+    "description": "Capital Float Ventures Solutions has an exciting opening for a Software Engineer at our Navi Mumbai office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Capital Float Ventures Solutions:\nCapital Float Ventures Solutions is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Design, develop and maintain scalable software applications\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Write clean, maintainable, and well-documented code\n• Collaborate with cross-functional teams including product, design, and QA\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Work with agile methodologies including daily stand-ups and sprint planning\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 12-20 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in REST APIs\n• Proficiency in Python\n• Proficiency in Machine Learning\n• Proficiency in CI/CD\n• Proficiency in MongoDB\n• Proficiency in Java\n• Proficiency in React\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Provident Fund and Gratuity as per company policy\n• Mobile and internet reimbursement\n• Company-sponsored certifications\n• Modern office with recreational facilities\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Navi Mumbai, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Capital Float Ventures Solutions!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Capital Float Ventures Solutions",
+      "value": "4694-0-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Capital Float Ventures Solutions",
+      "sameAs": "https://www.google.com/search?q=Capital%20Float%20Ventures%20Solutions",
+      "logo": "https://logo.clearbit.com/capitalfloatventuressolutions.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Capital Float Ventures Solutions Office",
+        "addressLocality": "Navi Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "JavaScript, REST APIs, Python, Machine Learning, CI/CD, MongoDB, Java, React",
+    "responsibilities": "Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Design, develop and maintain scalable software applications. Mentor junior developers and conduct knowledge-sharing sessions. Write clean, maintainable, and well-documented code. Collaborate with cross-functional teams including product, design, and QA. Troubleshoot, debug, and resolve software defects and performance issues. Work with agile methodologies including daily stand-ups and sprint planning",
+    "benefits": "Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Provident Fund and Gratuity as per company policy. Mobile and internet reimbursement. Company-sponsored certifications. Modern office with recreational facilities",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Provident Fund and Gratuity as per company policy, Mobile and internet reimbursement, Company-sponsored certifications, Modern office with recreational facilities"
+  },
+  "meta": {
+    "description": "Capital Float Ventures Solutions has an exciting opening for a Software Engineer at our Navi Mumbai office. Join a company that values innovation, collaboration",
+    "keywords": "Software Engineer, Capital Float Ventures Solutions, jobs in Navi Mumbai, Maharashtra jobs, technology jobs India, JavaScript, REST APIs, Python, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T22:17:22.897Z",
+  "page": 1337
+}

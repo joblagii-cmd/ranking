@@ -1,0 +1,93 @@
+{
+  "slug": "capital-float-ventures-solutions-backend-developer-allahabad-2026-05-26-3",
+  "title": "Backend Developer Vacancy at Capital Float Ventures Solutions - 2026 Batch",
+  "company": "Capital Float Ventures Solutions",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Allahabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Git",
+    "React",
+    "Agile/Scrum",
+    "Kubernetes",
+    "Go",
+    "SQL",
+    "Rust",
+    "Python"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Capital Float Ventures Solutions - 2026 Batch",
+    "description": "Capital Float Ventures Solutions has an exciting opening for a Backend Developer at our Allahabad office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Capital Float Ventures Solutions:\nCapital Float Ventures Solutions is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Optimize application performance and ensure high availability\n• Design, develop and maintain scalable software applications\n• Write clean, maintainable, and well-documented code\n• Implement new features based on product requirements\n• Write and execute unit tests and integration tests\n• Ensure code security and follow best practices for data protection\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 3-6 years of relevant experience\n• Proficiency in Git\n• Proficiency in React\n• Proficiency in Agile/Scrum\n• Proficiency in Kubernetes\n• Proficiency in Go\n• Proficiency in SQL\n• Proficiency in Rust\n• Proficiency in Python\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Work-from-home flexibility\n• Company-sponsored certifications\n• Comprehensive health insurance for self and family\n• Recognition and rewards programs\n• Learning & development budget\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Allahabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Capital Float Ventures Solutions!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Capital Float Ventures Solutions",
+      "value": "4694-3-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Capital Float Ventures Solutions",
+      "sameAs": "https://www.google.com/search?q=Capital%20Float%20Ventures%20Solutions",
+      "logo": "https://logo.clearbit.com/capitalfloatventuressolutions.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Capital Float Ventures Solutions Office",
+        "addressLocality": "Allahabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "Git, React, Agile/Scrum, Kubernetes, Go, SQL, Rust, Python",
+    "responsibilities": "Work with agile methodologies including daily stand-ups and sprint planning. Optimize application performance and ensure high availability. Design, develop and maintain scalable software applications. Write clean, maintainable, and well-documented code. Implement new features based on product requirements. Write and execute unit tests and integration tests. Ensure code security and follow best practices for data protection",
+    "benefits": "Competitive salary with performance-linked incentives. Work-from-home flexibility. Company-sponsored certifications. Comprehensive health insurance for self and family. Recognition and rewards programs. Learning & development budget",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Work-from-home flexibility, Company-sponsored certifications, Comprehensive health insurance for self and family, Recognition and rewards programs, Learning & development budget"
+  },
+  "meta": {
+    "description": "Capital Float Ventures Solutions has an exciting opening for a Backend Developer at our Allahabad office. Join a company that values innovation, collaboration, ",
+    "keywords": "Backend Developer, Capital Float Ventures Solutions, jobs in Allahabad, Uttar Pradesh jobs, technology jobs India, Git, React, Agile/Scrum, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T22:17:22.898Z",
+  "page": 1337
+}
