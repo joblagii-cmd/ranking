@@ -1,0 +1,93 @@
+{
+  "slug": "niit-foundation-teacher-mumbai-2026-05-25-0",
+  "title": "Job Opening Teacher at NIIT Foundation",
+  "company": "NIIT Foundation",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "MS Office",
+    "Special Education",
+    "Content Creation",
+    "Data Analysis",
+    "Research Skills",
+    "Mentoring",
+    "E-learning",
+    "Bloom's Taxonomy"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Job Opening Teacher at NIIT Foundation",
+    "description": "Join the NIIT Foundation family as a Teacher in Mumbai. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout NIIT Foundation:\nNIIT Foundation is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Develop and deliver engaging lesson plans for students\n• Design formative and summative assessments aligned to learning objectives\n• Support students with special educational needs\n• Create curriculum-aligned learning materials and assessments\n• Monitor student progress and provide timely feedback\n• Conduct parent-teacher meetings and update parents on student performance\n• Participate in teacher training and professional development programs\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 3-6 years of relevant experience\n• Proficiency in MS Office\n• Proficiency in Special Education\n• Proficiency in Content Creation\n• Proficiency in Data Analysis\n• Proficiency in Research Skills\n• Proficiency in Mentoring\n• Proficiency in E-learning\n• Proficiency in Bloom's Taxonomy\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Learning & development budget\n• Maternity and paternity leave\n• Professional development and training programs\n• Annual paid leaves and casual leaves\n• Referral bonus program\n• Mobile and internet reimbursement\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Mumbai, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with NIIT Foundation!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "NIIT Foundation",
+      "value": "562-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "NIIT Foundation",
+      "sameAs": "https://www.google.com/search?q=NIIT%20Foundation",
+      "logo": "https://logo.clearbit.com/niitfoundation.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "NIIT Foundation Office",
+        "addressLocality": "Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "MS Office, Special Education, Content Creation, Data Analysis, Research Skills, Mentoring, E-learning, Bloom's Taxonomy",
+    "responsibilities": "Develop and deliver engaging lesson plans for students. Design formative and summative assessments aligned to learning objectives. Support students with special educational needs. Create curriculum-aligned learning materials and assessments. Monitor student progress and provide timely feedback. Conduct parent-teacher meetings and update parents on student performance. Participate in teacher training and professional development programs",
+    "benefits": "Learning & development budget. Maternity and paternity leave. Professional development and training programs. Annual paid leaves and casual leaves. Referral bonus program. Mobile and internet reimbursement",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Learning & development budget, Maternity and paternity leave, Professional development and training programs, Annual paid leaves and casual leaves, Referral bonus program, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "Join the NIIT Foundation family as a Teacher in Mumbai. We believe in empowering our employees with the tools, training, and environment they need to succeed.",
+    "keywords": "Teacher, NIIT Foundation, jobs in Mumbai, Maharashtra jobs, education jobs India, MS Office, Special Education, Content Creation, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:36:18.819Z",
+  "page": 140
+}
