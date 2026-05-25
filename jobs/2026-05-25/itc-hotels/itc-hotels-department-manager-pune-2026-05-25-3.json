@@ -1,0 +1,93 @@
+{
+  "slug": "itc-hotels-department-manager-pune-2026-05-25-3",
+  "title": "Department Manager Vacancy at ITC Hotels - 2026 Batch",
+  "company": "ITC Hotels",
+  "industry": "retail",
+  "role": "Department Manager",
+  "location": {
+    "city": "Pune",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "POS Systems",
+    "Inventory Management",
+    "Omnichannel Retail",
+    "Loyalty Programs",
+    "Category Management",
+    "Visual Merchandising",
+    "Planogram",
+    "MS Excel"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Department Manager Vacancy at ITC Hotels - 2026 Batch",
+    "description": "ITC Hotels is actively seeking a talented and motivated Department Manager to join our dynamic team in Pune. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout ITC Hotels:\nITC Hotels is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Prepare daily sales reports and share insights with management\n• Implement promotional activities and in-store campaigns\n• Coordinate with the supply chain team for timely stock delivery\n• Conduct regular stock audits and prevent pilferage\n• Manage store operations to ensure smooth daily functioning\n• Achieve sales targets and improve store performance metrics\n• Build relationships with regular customers to drive loyalty\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 6-10 years of relevant experience\n• Proficiency in POS Systems\n• Proficiency in Inventory Management\n• Proficiency in Omnichannel Retail\n• Proficiency in Loyalty Programs\n• Proficiency in Category Management\n• Proficiency in Visual Merchandising\n• Proficiency in Planogram\n• Proficiency in MS Excel\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Maternity and paternity leave\n• Work-from-home flexibility\n• Mobile and internet reimbursement\n• Modern office with recreational facilities\n• Life and accident insurance\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Pune, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with ITC Hotels!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "ITC Hotels",
+      "value": "654-3-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "ITC Hotels",
+      "sameAs": "https://www.google.com/search?q=ITC%20Hotels",
+      "logo": "https://logo.clearbit.com/itchotels.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "ITC Hotels Office",
+        "addressLocality": "Pune",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "POS Systems, Inventory Management, Omnichannel Retail, Loyalty Programs, Category Management, Visual Merchandising, Planogram, MS Excel",
+    "responsibilities": "Prepare daily sales reports and share insights with management. Implement promotional activities and in-store campaigns. Coordinate with the supply chain team for timely stock delivery. Conduct regular stock audits and prevent pilferage. Manage store operations to ensure smooth daily functioning. Achieve sales targets and improve store performance metrics. Build relationships with regular customers to drive loyalty",
+    "benefits": "Transportation and conveyance allowance. Maternity and paternity leave. Work-from-home flexibility. Mobile and internet reimbursement. Modern office with recreational facilities. Life and accident insurance",
+    "industry": "retail",
+    "occupationalCategory": "Department Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Maternity and paternity leave, Work-from-home flexibility, Mobile and internet reimbursement, Modern office with recreational facilities, Life and accident insurance"
+  },
+  "meta": {
+    "description": "ITC Hotels is actively seeking a talented and motivated Department Manager to join our dynamic team in Pune. This is an excellent opportunity for professionals ",
+    "keywords": "Department Manager, ITC Hotels, jobs in Pune, Maharashtra jobs, retail jobs India, POS Systems, Inventory Management, Omnichannel Retail, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:39:22.857Z",
+  "page": 163
+}
