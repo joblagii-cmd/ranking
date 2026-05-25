@@ -1,0 +1,94 @@
+{
+  "slug": "sap-india-capital-india-software-engineer-madurai-2026-05-25-0",
+  "title": "Career Opportunity Software Engineer at SAP India Capital India",
+  "company": "SAP India Capital India",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Madurai",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "JavaScript",
+    "Java",
+    "Machine Learning",
+    "CI/CD",
+    "Git",
+    "TensorFlow",
+    "TypeScript",
+    "SQL"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Career Opportunity Software Engineer at SAP India Capital India",
+    "description": "Are you a skilled Software Engineer looking for your next big career move? SAP India Capital India in Madurai offers you the perfect platform to grow professionally and personally.\n\nAbout SAP India Capital India:\nSAP India Capital India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Contribute to system architecture and technical design decisions\n• Participate in code reviews and contribute to technical discussions\n• Write and execute unit tests and integration tests\n• Ensure code security and follow best practices for data protection\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Participate in on-call rotation for production support\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 12-20 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Java\n• Proficiency in Machine Learning\n• Proficiency in CI/CD\n• Proficiency in Git\n• Proficiency in TensorFlow\n• Proficiency in TypeScript\n• Proficiency in SQL\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Annual paid leaves and casual leaves\n• Transportation and conveyance allowance\n• Company-sponsored certifications\n• Flexible working hours\n• Maternity and paternity leave\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Madurai, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with SAP India Capital India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "SAP India Capital India",
+      "value": "963-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "SAP India Capital India",
+      "sameAs": "https://www.google.com/search?q=SAP%20India%20Capital%20India",
+      "logo": "https://logo.clearbit.com/sapindiacapitalindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "SAP India Capital India Office",
+        "addressLocality": "Madurai",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "JavaScript, Java, Machine Learning, CI/CD, Git, TensorFlow, TypeScript, SQL",
+    "responsibilities": "Contribute to system architecture and technical design decisions. Participate in code reviews and contribute to technical discussions. Write and execute unit tests and integration tests. Ensure code security and follow best practices for data protection. Mentor junior developers and conduct knowledge-sharing sessions. Work with agile methodologies including daily stand-ups and sprint planning. Participate in on-call rotation for production support",
+    "benefits": "Competitive salary with performance-linked incentives. Annual paid leaves and casual leaves. Transportation and conveyance allowance. Company-sponsored certifications. Flexible working hours. Maternity and paternity leave",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Annual paid leaves and casual leaves, Transportation and conveyance allowance, Company-sponsored certifications, Flexible working hours, Maternity and paternity leave"
+  },
+  "meta": {
+    "description": "Are you a skilled Software Engineer looking for your next big career move? SAP India Capital India in Madurai offers you the perfect platform to grow profession",
+    "keywords": "Software Engineer, SAP India Capital India, jobs in Madurai, Tamil Nadu jobs, technology jobs India, JavaScript, Java, Machine Learning, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:49:42.835Z",
+  "page": 240
+}

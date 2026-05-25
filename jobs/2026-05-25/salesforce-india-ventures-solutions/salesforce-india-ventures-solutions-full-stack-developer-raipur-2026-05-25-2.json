@@ -1,0 +1,93 @@
+{
+  "slug": "salesforce-india-ventures-solutions-full-stack-developer-raipur-2026-05-25-2",
+  "title": "Salesforce India Ventures Solutions is Hiring: Full Stack Developer (Principal)",
+  "company": "Salesforce India Ventures Solutions",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Raipur",
+    "state": "Chhattisgarh",
+    "region": "Central India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "React",
+    "Java",
+    "Python",
+    "TypeScript",
+    "MongoDB",
+    "JavaScript",
+    "Agile/Scrum",
+    "TensorFlow"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Salesforce India Ventures Solutions is Hiring: Full Stack Developer (Principal)",
+    "description": "Are you a skilled Full Stack Developer looking for your next big career move? Salesforce India Ventures Solutions in Raipur offers you the perfect platform to grow professionally and personally.\n\nAbout Salesforce India Ventures Solutions:\nSalesforce India Ventures Solutions is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Implement new features based on product requirements\n• Integrate third-party APIs and services\n• Participate in on-call rotation for production support\n• Participate in code reviews and contribute to technical discussions\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Write and execute unit tests and integration tests\n• Write clean, maintainable, and well-documented code\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 3-6 years of relevant experience\n• Proficiency in React\n• Proficiency in Java\n• Proficiency in Python\n• Proficiency in TypeScript\n• Proficiency in MongoDB\n• Proficiency in JavaScript\n• Proficiency in Agile/Scrum\n• Proficiency in TensorFlow\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Recognition and rewards programs\n• Meal coupons and food allowance\n• Competitive salary with performance-linked incentives\n• Learning & development budget\n• Comprehensive health insurance for self and family\n• Flexible working hours\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Raipur, Chhattisgarh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Salesforce India Ventures Solutions!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Salesforce India Ventures Solutions",
+      "value": "964-2-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Salesforce India Ventures Solutions",
+      "sameAs": "https://www.google.com/search?q=Salesforce%20India%20Ventures%20Solutions",
+      "logo": "https://logo.clearbit.com/salesforceindiaventuressolutions.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Salesforce India Ventures Solutions Office",
+        "addressLocality": "Raipur",
+        "addressRegion": "Chhattisgarh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "React, Java, Python, TypeScript, MongoDB, JavaScript, Agile/Scrum, TensorFlow",
+    "responsibilities": "Implement new features based on product requirements. Integrate third-party APIs and services. Participate in on-call rotation for production support. Participate in code reviews and contribute to technical discussions. Troubleshoot, debug, and resolve software defects and performance issues. Write and execute unit tests and integration tests. Write clean, maintainable, and well-documented code",
+    "benefits": "Recognition and rewards programs. Meal coupons and food allowance. Competitive salary with performance-linked incentives. Learning & development budget. Comprehensive health insurance for self and family. Flexible working hours",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Recognition and rewards programs, Meal coupons and food allowance, Competitive salary with performance-linked incentives, Learning & development budget, Comprehensive health insurance for self and family, Flexible working hours"
+  },
+  "meta": {
+    "description": "Are you a skilled Full Stack Developer looking for your next big career move? Salesforce India Ventures Solutions in Raipur offers you the perfect platform to g",
+    "keywords": "Full Stack Developer, Salesforce India Ventures Solutions, jobs in Raipur, Chhattisgarh jobs, technology jobs India, React, Java, Python, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:49:42.836Z",
+  "page": 240
+}
