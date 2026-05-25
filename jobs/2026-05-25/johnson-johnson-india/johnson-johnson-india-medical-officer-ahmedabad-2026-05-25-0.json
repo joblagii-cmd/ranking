@@ -1,0 +1,94 @@
+{
+  "slug": "johnson-johnson-india-medical-officer-ahmedabad-2026-05-25-0",
+  "title": "Now Hiring Medical Officer at Johnson & Johnson India",
+  "company": "Johnson & Johnson India",
+  "industry": "healthcare",
+  "role": "Medical Officer",
+  "location": {
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "NABH Standards",
+    "Patient Care",
+    "Pharmacovigilance",
+    "Clinical Documentation",
+    "Medical Coding",
+    "Infection Control",
+    "Telemedicine",
+    "BLS/ACLS"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Now Hiring Medical Officer at Johnson & Johnson India",
+    "description": "Johnson & Johnson India has an exciting opening for a Medical Officer at our Ahmedabad office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Johnson & Johnson India:\nJohnson & Johnson India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Provide high-quality patient care and maintain patient records\n• Conduct routine health assessments and screenings\n• Collaborate with pharmaceutical representatives and medical suppliers\n• Administer medications and treatments as prescribed\n• Diagnose and treat medical conditions following established protocols\n• Respond to medical emergencies and provide immediate care\n• Maintain accurate clinical documentation in electronic health records\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 10-15 years of relevant experience\n• Proficiency in NABH Standards\n• Proficiency in Patient Care\n• Proficiency in Pharmacovigilance\n• Proficiency in Clinical Documentation\n• Proficiency in Medical Coding\n• Proficiency in Infection Control\n• Proficiency in Telemedicine\n• Proficiency in BLS/ACLS\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Meal coupons and food allowance\n• Work-from-home flexibility\n• Employee stock options (ESOPs) for eligible roles\n• Flexible working hours\n• Professional development and training programs\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Ahmedabad, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Johnson & Johnson India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Johnson & Johnson India",
+      "value": "241-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Johnson & Johnson India",
+      "sameAs": "https://www.google.com/search?q=Johnson%20%26%20Johnson%20India",
+      "logo": "https://logo.clearbit.com/johnsonjohnsonindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Johnson & Johnson India Office",
+        "addressLocality": "Ahmedabad",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "NABH Standards, Patient Care, Pharmacovigilance, Clinical Documentation, Medical Coding, Infection Control, Telemedicine, BLS/ACLS",
+    "responsibilities": "Provide high-quality patient care and maintain patient records. Conduct routine health assessments and screenings. Collaborate with pharmaceutical representatives and medical suppliers. Administer medications and treatments as prescribed. Diagnose and treat medical conditions following established protocols. Respond to medical emergencies and provide immediate care. Maintain accurate clinical documentation in electronic health records",
+    "benefits": "Transportation and conveyance allowance. Meal coupons and food allowance. Work-from-home flexibility. Employee stock options (ESOPs) for eligible roles. Flexible working hours. Professional development and training programs",
+    "industry": "healthcare",
+    "occupationalCategory": "Medical Officer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Meal coupons and food allowance, Work-from-home flexibility, Employee stock options (ESOPs) for eligible roles, Flexible working hours, Professional development and training programs"
+  },
+  "meta": {
+    "description": "Johnson & Johnson India has an exciting opening for a Medical Officer at our Ahmedabad office. Join a company that values innovation, collaboration, and continu",
+    "keywords": "Medical Officer, Johnson & Johnson India, jobs in Ahmedabad, Gujarat jobs, healthcare jobs India, NABH Standards, Patient Care, Pharmacovigilance, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:25:32.041Z",
+  "page": 60
+}
