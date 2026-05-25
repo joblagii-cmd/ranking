@@ -1,0 +1,94 @@
+{
+  "slug": "cyient-capital-india-full-stack-developer-howrah-2026-05-25-2",
+  "title": "Cyient Capital India is Hiring: Full Stack Developer (Principal)",
+  "company": "Cyient Capital India",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Howrah",
+    "state": "West Bengal",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "AWS",
+    "SQL",
+    "TensorFlow",
+    "Go",
+    "Kubernetes",
+    "React",
+    "TypeScript",
+    "Microservices"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Cyient Capital India is Hiring: Full Stack Developer (Principal)",
+    "description": "Are you a skilled Full Stack Developer looking for your next big career move? Cyient Capital India in Howrah offers you the perfect platform to grow professionally and personally.\n\nAbout Cyient Capital India:\nCyient Capital India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Integrate third-party APIs and services\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Write and execute unit tests and integration tests\n• Participate in on-call rotation for production support\n• Ensure code security and follow best practices for data protection\n• Collaborate with cross-functional teams including product, design, and QA\n• Contribute to system architecture and technical design decisions\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 3-6 years of relevant experience\n• Proficiency in AWS\n• Proficiency in SQL\n• Proficiency in TensorFlow\n• Proficiency in Go\n• Proficiency in Kubernetes\n• Proficiency in React\n• Proficiency in TypeScript\n• Proficiency in Microservices\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Mobile and internet reimbursement\n• Comprehensive health insurance for self and family\n• Life and accident insurance\n• Modern office with recreational facilities\n• Recognition and rewards programs\n• Annual performance appraisal\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Howrah, West Bengal, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Cyient Capital India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Cyient Capital India",
+      "value": "953-2-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Cyient Capital India",
+      "sameAs": "https://www.google.com/search?q=Cyient%20Capital%20India",
+      "logo": "https://logo.clearbit.com/cyientcapitalindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Cyient Capital India Office",
+        "addressLocality": "Howrah",
+        "addressRegion": "West Bengal",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "AWS, SQL, TensorFlow, Go, Kubernetes, React, TypeScript, Microservices",
+    "responsibilities": "Integrate third-party APIs and services. Troubleshoot, debug, and resolve software defects and performance issues. Write and execute unit tests and integration tests. Participate in on-call rotation for production support. Ensure code security and follow best practices for data protection. Collaborate with cross-functional teams including product, design, and QA. Contribute to system architecture and technical design decisions",
+    "benefits": "Mobile and internet reimbursement. Comprehensive health insurance for self and family. Life and accident insurance. Modern office with recreational facilities. Recognition and rewards programs. Annual performance appraisal",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Mobile and internet reimbursement, Comprehensive health insurance for self and family, Life and accident insurance, Modern office with recreational facilities, Recognition and rewards programs, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "Are you a skilled Full Stack Developer looking for your next big career move? Cyient Capital India in Howrah offers you the perfect platform to grow professiona",
+    "keywords": "Full Stack Developer, Cyient Capital India, jobs in Howrah, West Bengal jobs, technology jobs India, AWS, SQL, TensorFlow, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:49:27.309Z",
+  "page": 238
+}

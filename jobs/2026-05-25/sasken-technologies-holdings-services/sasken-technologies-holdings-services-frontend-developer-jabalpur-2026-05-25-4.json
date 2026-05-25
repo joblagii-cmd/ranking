@@ -1,0 +1,94 @@
+{
+  "slug": "sasken-technologies-holdings-services-frontend-developer-jabalpur-2026-05-25-4",
+  "title": "Principal Frontend Developer at Sasken Technologies Holdings Services",
+  "company": "Sasken Technologies Holdings Services",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Jabalpur",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "React",
+    "Node.js",
+    "MongoDB",
+    "Machine Learning",
+    "TensorFlow",
+    "Rust",
+    "TypeScript",
+    "Kubernetes"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Principal Frontend Developer at Sasken Technologies Holdings Services",
+    "description": "Are you a skilled Frontend Developer looking for your next big career move? Sasken Technologies Holdings Services in Jabalpur offers you the perfect platform to grow professionally and personally.\n\nAbout Sasken Technologies Holdings Services:\nSasken Technologies Holdings Services is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Integrate third-party APIs and services\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Design, develop and maintain scalable software applications\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Contribute to system architecture and technical design decisions\n• Write and execute unit tests and integration tests\n• Optimize application performance and ensure high availability\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 10-15 years of relevant experience\n• Proficiency in React\n• Proficiency in Node.js\n• Proficiency in MongoDB\n• Proficiency in Machine Learning\n• Proficiency in TensorFlow\n• Proficiency in Rust\n• Proficiency in TypeScript\n• Proficiency in Kubernetes\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Work-from-home flexibility\n• Company-sponsored certifications\n• Mobile and internet reimbursement\n• Maternity and paternity leave\n• Provident Fund and Gratuity as per company policy\n• Meal coupons and food allowance\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Jabalpur, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Sasken Technologies Holdings Services!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Sasken Technologies Holdings Services",
+      "value": "955-4-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Sasken Technologies Holdings Services",
+      "sameAs": "https://www.google.com/search?q=Sasken%20Technologies%20Holdings%20Services",
+      "logo": "https://logo.clearbit.com/saskentechnologiesholdingsservices.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Sasken Technologies Holdings Services Office",
+        "addressLocality": "Jabalpur",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "React, Node.js, MongoDB, Machine Learning, TensorFlow, Rust, TypeScript, Kubernetes",
+    "responsibilities": "Integrate third-party APIs and services. Work with agile methodologies including daily stand-ups and sprint planning. Design, develop and maintain scalable software applications. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Contribute to system architecture and technical design decisions. Write and execute unit tests and integration tests. Optimize application performance and ensure high availability",
+    "benefits": "Work-from-home flexibility. Company-sponsored certifications. Mobile and internet reimbursement. Maternity and paternity leave. Provident Fund and Gratuity as per company policy. Meal coupons and food allowance",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Company-sponsored certifications, Mobile and internet reimbursement, Maternity and paternity leave, Provident Fund and Gratuity as per company policy, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "Are you a skilled Frontend Developer looking for your next big career move? Sasken Technologies Holdings Services in Jabalpur offers you the perfect platform to",
+    "keywords": "Frontend Developer, Sasken Technologies Holdings Services, jobs in Jabalpur, Madhya Pradesh jobs, technology jobs India, React, Node.js, MongoDB, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:49:27.309Z",
+  "page": 238
+}

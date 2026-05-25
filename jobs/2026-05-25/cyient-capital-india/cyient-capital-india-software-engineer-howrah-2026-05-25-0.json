@@ -1,0 +1,93 @@
+{
+  "slug": "cyient-capital-india-software-engineer-howrah-2026-05-25-0",
+  "title": "Career Opportunity Software Engineer at Cyient Capital India",
+  "company": "Cyient Capital India",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Howrah",
+    "state": "West Bengal",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "JavaScript",
+    "CI/CD",
+    "Docker",
+    "TensorFlow",
+    "Git",
+    "SQL",
+    "MongoDB",
+    "Python"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Career Opportunity Software Engineer at Cyient Capital India",
+    "description": "Are you a skilled Software Engineer looking for your next big career move? Cyient Capital India in Howrah offers you the perfect platform to grow professionally and personally.\n\nAbout Cyient Capital India:\nCyient Capital India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Participate in on-call rotation for production support\n• Implement new features based on product requirements\n• Write clean, maintainable, and well-documented code\n• Collaborate with cross-functional teams including product, design, and QA\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Design, develop and maintain scalable software applications\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 12-20 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in CI/CD\n• Proficiency in Docker\n• Proficiency in TensorFlow\n• Proficiency in Git\n• Proficiency in SQL\n• Proficiency in MongoDB\n• Proficiency in Python\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Provident Fund and Gratuity as per company policy\n• Comprehensive health insurance for self and family\n• Meal coupons and food allowance\n• Transportation and conveyance allowance\n• Competitive salary with performance-linked incentives\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Howrah, West Bengal, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Cyient Capital India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Cyient Capital India",
+      "value": "953-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Cyient Capital India",
+      "sameAs": "https://www.google.com/search?q=Cyient%20Capital%20India",
+      "logo": "https://logo.clearbit.com/cyientcapitalindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Cyient Capital India Office",
+        "addressLocality": "Howrah",
+        "addressRegion": "West Bengal",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "JavaScript, CI/CD, Docker, TensorFlow, Git, SQL, MongoDB, Python",
+    "responsibilities": "Mentor junior developers and conduct knowledge-sharing sessions. Participate in on-call rotation for production support. Implement new features based on product requirements. Write clean, maintainable, and well-documented code. Collaborate with cross-functional teams including product, design, and QA. Troubleshoot, debug, and resolve software defects and performance issues. Design, develop and maintain scalable software applications",
+    "benefits": "International travel opportunities for senior roles. Provident Fund and Gratuity as per company policy. Comprehensive health insurance for self and family. Meal coupons and food allowance. Transportation and conveyance allowance. Competitive salary with performance-linked incentives",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Provident Fund and Gratuity as per company policy, Comprehensive health insurance for self and family, Meal coupons and food allowance, Transportation and conveyance allowance, Competitive salary with performance-linked incentives"
+  },
+  "meta": {
+    "description": "Are you a skilled Software Engineer looking for your next big career move? Cyient Capital India in Howrah offers you the perfect platform to grow professionally",
+    "keywords": "Software Engineer, Cyient Capital India, jobs in Howrah, West Bengal jobs, technology jobs India, JavaScript, CI/CD, Docker, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:49:27.309Z",
+  "page": 238
+}

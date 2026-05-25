@@ -1,0 +1,93 @@
+{
+  "slug": "sasken-technologies-holdings-services-software-engineer-coimbatore-2026-05-25-0",
+  "title": "Career Opportunity Software Engineer at Sasken Technologies Holdings Services",
+  "company": "Sasken Technologies Holdings Services",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "CI/CD",
+    "SQL",
+    "Go",
+    "REST APIs",
+    "React",
+    "Java",
+    "AWS",
+    "Python"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Career Opportunity Software Engineer at Sasken Technologies Holdings Services",
+    "description": "Are you a skilled Software Engineer looking for your next big career move? Sasken Technologies Holdings Services in Coimbatore offers you the perfect platform to grow professionally and personally.\n\nAbout Sasken Technologies Holdings Services:\nSasken Technologies Holdings Services is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write clean, maintainable, and well-documented code\n• Design, develop and maintain scalable software applications\n• Ensure code security and follow best practices for data protection\n• Write and execute unit tests and integration tests\n• Integrate third-party APIs and services\n• Participate in on-call rotation for production support\n• Optimize application performance and ensure high availability\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 3-6 years of relevant experience\n• Proficiency in CI/CD\n• Proficiency in SQL\n• Proficiency in Go\n• Proficiency in REST APIs\n• Proficiency in React\n• Proficiency in Java\n• Proficiency in AWS\n• Proficiency in Python\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Company-sponsored certifications\n• Employee stock options (ESOPs) for eligible roles\n• Modern office with recreational facilities\n• Annual paid leaves and casual leaves\n• Annual performance appraisal\n• Flexible working hours\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Coimbatore, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Sasken Technologies Holdings Services!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Sasken Technologies Holdings Services",
+      "value": "955-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Sasken Technologies Holdings Services",
+      "sameAs": "https://www.google.com/search?q=Sasken%20Technologies%20Holdings%20Services",
+      "logo": "https://logo.clearbit.com/saskentechnologiesholdingsservices.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Sasken Technologies Holdings Services Office",
+        "addressLocality": "Coimbatore",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "CI/CD, SQL, Go, REST APIs, React, Java, AWS, Python",
+    "responsibilities": "Write clean, maintainable, and well-documented code. Design, develop and maintain scalable software applications. Ensure code security and follow best practices for data protection. Write and execute unit tests and integration tests. Integrate third-party APIs and services. Participate in on-call rotation for production support. Optimize application performance and ensure high availability",
+    "benefits": "Company-sponsored certifications. Employee stock options (ESOPs) for eligible roles. Modern office with recreational facilities. Annual paid leaves and casual leaves. Annual performance appraisal. Flexible working hours",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Company-sponsored certifications, Employee stock options (ESOPs) for eligible roles, Modern office with recreational facilities, Annual paid leaves and casual leaves, Annual performance appraisal, Flexible working hours"
+  },
+  "meta": {
+    "description": "Are you a skilled Software Engineer looking for your next big career move? Sasken Technologies Holdings Services in Coimbatore offers you the perfect platform t",
+    "keywords": "Software Engineer, Sasken Technologies Holdings Services, jobs in Coimbatore, Tamil Nadu jobs, technology jobs India, CI/CD, SQL, Go, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:49:27.309Z",
+  "page": 238
+}

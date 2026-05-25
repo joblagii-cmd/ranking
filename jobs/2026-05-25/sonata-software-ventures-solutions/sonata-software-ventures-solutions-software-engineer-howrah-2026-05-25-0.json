@@ -1,0 +1,94 @@
+{
+  "slug": "sonata-software-ventures-solutions-software-engineer-howrah-2026-05-25-0",
+  "title": "Career Opportunity Software Engineer at Sonata Software Ventures Solutions",
+  "company": "Sonata Software Ventures Solutions",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Howrah",
+    "state": "West Bengal",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Rust",
+    "React",
+    "Git",
+    "AWS",
+    "TypeScript",
+    "Python",
+    "CI/CD",
+    "Node.js"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Career Opportunity Software Engineer at Sonata Software Ventures Solutions",
+    "description": "Are you a skilled Software Engineer looking for your next big career move? Sonata Software Ventures Solutions in Howrah offers you the perfect platform to grow professionally and personally.\n\nAbout Sonata Software Ventures Solutions:\nSonata Software Ventures Solutions is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write and execute unit tests and integration tests\n• Optimize application performance and ensure high availability\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Collaborate with cross-functional teams including product, design, and QA\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Participate in code reviews and contribute to technical discussions\n• Ensure code security and follow best practices for data protection\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 6-10 years of relevant experience\n• Proficiency in Rust\n• Proficiency in React\n• Proficiency in Git\n• Proficiency in AWS\n• Proficiency in TypeScript\n• Proficiency in Python\n• Proficiency in CI/CD\n• Proficiency in Node.js\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Provident Fund and Gratuity as per company policy\n• Comprehensive health insurance for self and family\n• Employee stock options (ESOPs) for eligible roles\n• Transportation and conveyance allowance\n• Learning & development budget\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Howrah, West Bengal, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Sonata Software Ventures Solutions!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Sonata Software Ventures Solutions",
+      "value": "954-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Sonata Software Ventures Solutions",
+      "sameAs": "https://www.google.com/search?q=Sonata%20Software%20Ventures%20Solutions",
+      "logo": "https://logo.clearbit.com/sonatasoftwareventuressolutions.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Sonata Software Ventures Solutions Office",
+        "addressLocality": "Howrah",
+        "addressRegion": "West Bengal",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Rust, React, Git, AWS, TypeScript, Python, CI/CD, Node.js",
+    "responsibilities": "Write and execute unit tests and integration tests. Optimize application performance and ensure high availability. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Collaborate with cross-functional teams including product, design, and QA. Work with agile methodologies including daily stand-ups and sprint planning. Participate in code reviews and contribute to technical discussions. Ensure code security and follow best practices for data protection",
+    "benefits": "International travel opportunities for senior roles. Provident Fund and Gratuity as per company policy. Comprehensive health insurance for self and family. Employee stock options (ESOPs) for eligible roles. Transportation and conveyance allowance. Learning & development budget",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Provident Fund and Gratuity as per company policy, Comprehensive health insurance for self and family, Employee stock options (ESOPs) for eligible roles, Transportation and conveyance allowance, Learning & development budget"
+  },
+  "meta": {
+    "description": "Are you a skilled Software Engineer looking for your next big career move? Sonata Software Ventures Solutions in Howrah offers you the perfect platform to grow ",
+    "keywords": "Software Engineer, Sonata Software Ventures Solutions, jobs in Howrah, West Bengal jobs, technology jobs India, Rust, React, Git, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:49:27.309Z",
+  "page": 238
+}
