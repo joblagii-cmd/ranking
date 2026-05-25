@@ -1,0 +1,93 @@
+{
+  "slug": "indraprastha-apollo-radiologist-jodhpur-2026-05-25-4",
+  "title": "Entry-Level Radiologist at Indraprastha Apollo",
+  "company": "Indraprastha Apollo",
+  "industry": "healthcare",
+  "role": "Radiologist",
+  "location": {
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Patient Care",
+    "Medical Terminology",
+    "Pharmacovigilance",
+    "CPT Codes",
+    "Diagnostic Skills",
+    "Medical Ethics",
+    "ICD-10",
+    "Medical Coding"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Entry-Level Radiologist at Indraprastha Apollo",
+    "description": "An exciting career opportunity awaits you at Indraprastha Apollo. We are on the lookout for a dedicated Radiologist to strengthen our Jodhpur-based team.\n\nAbout Indraprastha Apollo:\nIndraprastha Apollo is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Monitor patient progress and adjust treatment plans accordingly\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Diagnose and treat medical conditions following established protocols\n• Attend continuing medical education programs and training\n• Conduct routine health assessments and screenings\n• Educate patients and families on health management and disease prevention\n• Collaborate with pharmaceutical representatives and medical suppliers\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 1-3 years of relevant experience\n• Proficiency in Patient Care\n• Proficiency in Medical Terminology\n• Proficiency in Pharmacovigilance\n• Proficiency in CPT Codes\n• Proficiency in Diagnostic Skills\n• Proficiency in Medical Ethics\n• Proficiency in ICD-10\n• Proficiency in Medical Coding\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Flexible working hours\n• Employee stock options (ESOPs) for eligible roles\n• Recognition and rewards programs\n• Modern office with recreational facilities\n• Comprehensive health insurance for self and family\n• Learning & development budget\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Jodhpur, Rajasthan, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Indraprastha Apollo!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Indraprastha Apollo",
+      "value": "293-4-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Indraprastha Apollo",
+      "sameAs": "https://www.google.com/search?q=Indraprastha%20Apollo",
+      "logo": "https://logo.clearbit.com/indraprasthaapollo.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Indraprastha Apollo Office",
+        "addressLocality": "Jodhpur",
+        "addressRegion": "Rajasthan",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "Patient Care, Medical Terminology, Pharmacovigilance, CPT Codes, Diagnostic Skills, Medical Ethics, ICD-10, Medical Coding",
+    "responsibilities": "Monitor patient progress and adjust treatment plans accordingly. Coordinate with multidisciplinary teams for comprehensive patient management. Diagnose and treat medical conditions following established protocols. Attend continuing medical education programs and training. Conduct routine health assessments and screenings. Educate patients and families on health management and disease prevention. Collaborate with pharmaceutical representatives and medical suppliers",
+    "benefits": "Flexible working hours. Employee stock options (ESOPs) for eligible roles. Recognition and rewards programs. Modern office with recreational facilities. Comprehensive health insurance for self and family. Learning & development budget",
+    "industry": "healthcare",
+    "occupationalCategory": "Radiologist",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, Employee stock options (ESOPs) for eligible roles, Recognition and rewards programs, Modern office with recreational facilities, Comprehensive health insurance for self and family, Learning & development budget"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Indraprastha Apollo. We are on the lookout for a dedicated Radiologist to strengthen our Jodhpur-based team.",
+    "keywords": "Radiologist, Indraprastha Apollo, jobs in Jodhpur, Rajasthan jobs, healthcare jobs India, Patient Care, Medical Terminology, Pharmacovigilance, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:27:20.303Z",
+  "page": 73
+}
