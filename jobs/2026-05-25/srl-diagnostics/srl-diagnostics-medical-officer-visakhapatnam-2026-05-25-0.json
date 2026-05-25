@@ -1,0 +1,93 @@
+{
+  "slug": "srl-diagnostics-medical-officer-visakhapatnam-2026-05-25-0",
+  "title": "Now Hiring Medical Officer at SRL Diagnostics",
+  "company": "SRL Diagnostics",
+  "industry": "healthcare",
+  "role": "Medical Officer",
+  "location": {
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Clinical Research",
+    "ICD-10",
+    "Health Informatics",
+    "HIPAA Compliance",
+    "Wound Care",
+    "CPT Codes",
+    "Pharmacovigilance",
+    "EMR/EHR"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Now Hiring Medical Officer at SRL Diagnostics",
+    "description": "Are you a skilled Medical Officer looking for your next big career move? SRL Diagnostics in Visakhapatnam offers you the perfect platform to grow professionally and personally.\n\nAbout SRL Diagnostics:\nSRL Diagnostics is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Provide high-quality patient care and maintain patient records\n• Diagnose and treat medical conditions following established protocols\n• Maintain accurate clinical documentation in electronic health records\n• Educate patients and families on health management and disease prevention\n• Attend continuing medical education programs and training\n• Respond to medical emergencies and provide immediate care\n• Maintain sterile environments and follow infection control protocols\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 10-15 years of relevant experience\n• Proficiency in Clinical Research\n• Proficiency in ICD-10\n• Proficiency in Health Informatics\n• Proficiency in HIPAA Compliance\n• Proficiency in Wound Care\n• Proficiency in CPT Codes\n• Proficiency in Pharmacovigilance\n• Proficiency in EMR/EHR\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Referral bonus program\n• Recognition and rewards programs\n• International travel opportunities for senior roles\n• Life and accident insurance\n• Annual paid leaves and casual leaves\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Visakhapatnam, Andhra Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with SRL Diagnostics!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "SRL Diagnostics",
+      "value": "257-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "SRL Diagnostics",
+      "sameAs": "https://www.google.com/search?q=SRL%20Diagnostics",
+      "logo": "https://logo.clearbit.com/srldiagnostics.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "SRL Diagnostics Office",
+        "addressLocality": "Visakhapatnam",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Clinical Research, ICD-10, Health Informatics, HIPAA Compliance, Wound Care, CPT Codes, Pharmacovigilance, EMR/EHR",
+    "responsibilities": "Provide high-quality patient care and maintain patient records. Diagnose and treat medical conditions following established protocols. Maintain accurate clinical documentation in electronic health records. Educate patients and families on health management and disease prevention. Attend continuing medical education programs and training. Respond to medical emergencies and provide immediate care. Maintain sterile environments and follow infection control protocols",
+    "benefits": "Competitive salary with performance-linked incentives. Referral bonus program. Recognition and rewards programs. International travel opportunities for senior roles. Life and accident insurance. Annual paid leaves and casual leaves",
+    "industry": "healthcare",
+    "occupationalCategory": "Medical Officer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Referral bonus program, Recognition and rewards programs, International travel opportunities for senior roles, Life and accident insurance, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "Are you a skilled Medical Officer looking for your next big career move? SRL Diagnostics in Visakhapatnam offers you the perfect platform to grow professionally",
+    "keywords": "Medical Officer, SRL Diagnostics, jobs in Visakhapatnam, Andhra Pradesh jobs, healthcare jobs India, Clinical Research, ICD-10, Health Informatics, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:26:05.040Z",
+  "page": 64
+}
