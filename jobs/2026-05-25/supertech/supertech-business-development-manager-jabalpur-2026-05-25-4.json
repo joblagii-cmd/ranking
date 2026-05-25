@@ -1,0 +1,93 @@
+{
+  "slug": "supertech-business-development-manager-jabalpur-2026-05-25-4",
+  "title": "Junior Business Development Manager at Supertech",
+  "company": "Supertech",
+  "industry": "realestate",
+  "role": "Business Development Manager",
+  "location": {
+    "city": "Jabalpur",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Lease Administration",
+    "Real Estate Law",
+    "GIS Tools",
+    "CRM Software",
+    "Negotiation Skills",
+    "Title Search",
+    "Client Relationship Management",
+    "Portfolio Management"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Junior Business Development Manager at Supertech",
+    "description": "Supertech has an exciting opening for a Business Development Manager at our Jabalpur office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Supertech:\nSupertech is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Manage relationships with existing customers post-purchase\n• Build relationships with channel partners and brokers\n• Coordinate with architects, contractors, and project teams\n• Liaise with banks and NBFCs for home loan assistance to customers\n• Achieve monthly and quarterly sales targets\n• Conduct market research and provide competitive analysis\n• Conduct site visits and property presentations for clients\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 12-20 years of relevant experience\n• Proficiency in Lease Administration\n• Proficiency in Real Estate Law\n• Proficiency in GIS Tools\n• Proficiency in CRM Software\n• Proficiency in Negotiation Skills\n• Proficiency in Title Search\n• Proficiency in Client Relationship Management\n• Proficiency in Portfolio Management\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Employee stock options (ESOPs) for eligible roles\n• International travel opportunities for senior roles\n• Learning & development budget\n• Modern office with recreational facilities\n• Annual paid leaves and casual leaves\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Jabalpur, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Supertech!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Supertech",
+      "value": "704-4-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Supertech",
+      "sameAs": "https://www.google.com/search?q=Supertech",
+      "logo": "https://logo.clearbit.com/supertech.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Supertech Office",
+        "addressLocality": "Jabalpur",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "Lease Administration, Real Estate Law, GIS Tools, CRM Software, Negotiation Skills, Title Search, Client Relationship Management, Portfolio Management",
+    "responsibilities": "Manage relationships with existing customers post-purchase. Build relationships with channel partners and brokers. Coordinate with architects, contractors, and project teams. Liaise with banks and NBFCs for home loan assistance to customers. Achieve monthly and quarterly sales targets. Conduct market research and provide competitive analysis. Conduct site visits and property presentations for clients",
+    "benefits": "Transportation and conveyance allowance. Employee stock options (ESOPs) for eligible roles. International travel opportunities for senior roles. Learning & development budget. Modern office with recreational facilities. Annual paid leaves and casual leaves",
+    "industry": "realestate",
+    "occupationalCategory": "Business Development Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Employee stock options (ESOPs) for eligible roles, International travel opportunities for senior roles, Learning & development budget, Modern office with recreational facilities, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "Supertech has an exciting opening for a Business Development Manager at our Jabalpur office. Join a company that values innovation, collaboration, and continuou",
+    "keywords": "Business Development Manager, Supertech, jobs in Jabalpur, Madhya Pradesh jobs, realestate jobs India, Lease Administration, Real Estate Law, GIS Tools, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:40:59.122Z",
+  "page": 175
+}
