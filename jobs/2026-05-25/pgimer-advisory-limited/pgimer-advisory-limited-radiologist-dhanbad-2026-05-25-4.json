@@ -1,0 +1,93 @@
+{
+  "slug": "pgimer-advisory-limited-radiologist-dhanbad-2026-05-25-4",
+  "title": "Senior Radiologist at PGIMER Advisory Limited",
+  "company": "PGIMER Advisory Limited",
+  "industry": "healthcare",
+  "role": "Radiologist",
+  "location": {
+    "city": "Dhanbad",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Surgical Procedures",
+    "Medical Ethics",
+    "Diagnostic Skills",
+    "Infection Control",
+    "Pharmacovigilance",
+    "Patient Care",
+    "BLS/ACLS",
+    "HIPAA Compliance"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Radiologist at PGIMER Advisory Limited",
+    "description": "Are you a skilled Radiologist looking for your next big career move? PGIMER Advisory Limited in Dhanbad offers you the perfect platform to grow professionally and personally.\n\nAbout PGIMER Advisory Limited:\nPGIMER Advisory Limited is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Administer medications and treatments as prescribed\n• Adhere to NABH/JCI accreditation standards\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Educate patients and families on health management and disease prevention\n• Collaborate with pharmaceutical representatives and medical suppliers\n• Maintain sterile environments and follow infection control protocols\n• Attend continuing medical education programs and training\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 0-1 years of relevant experience\n• Proficiency in Surgical Procedures\n• Proficiency in Medical Ethics\n• Proficiency in Diagnostic Skills\n• Proficiency in Infection Control\n• Proficiency in Pharmacovigilance\n• Proficiency in Patient Care\n• Proficiency in BLS/ACLS\n• Proficiency in HIPAA Compliance\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• International travel opportunities for senior roles\n• Recognition and rewards programs\n• Learning & development budget\n• Annual paid leaves and casual leaves\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Dhanbad, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with PGIMER Advisory Limited!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "PGIMER Advisory Limited",
+      "value": "1192-4-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "PGIMER Advisory Limited",
+      "sameAs": "https://www.google.com/search?q=PGIMER%20Advisory%20Limited",
+      "logo": "https://logo.clearbit.com/pgimeradvisorylimited.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "PGIMER Advisory Limited Office",
+        "addressLocality": "Dhanbad",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "Surgical Procedures, Medical Ethics, Diagnostic Skills, Infection Control, Pharmacovigilance, Patient Care, BLS/ACLS, HIPAA Compliance",
+    "responsibilities": "Administer medications and treatments as prescribed. Adhere to NABH/JCI accreditation standards. Coordinate with multidisciplinary teams for comprehensive patient management. Educate patients and families on health management and disease prevention. Collaborate with pharmaceutical representatives and medical suppliers. Maintain sterile environments and follow infection control protocols. Attend continuing medical education programs and training",
+    "benefits": "Transportation and conveyance allowance. International travel opportunities for senior roles. Recognition and rewards programs. Learning & development budget. Annual paid leaves and casual leaves. Employee stock options (ESOPs) for eligible roles",
+    "industry": "healthcare",
+    "occupationalCategory": "Radiologist",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, International travel opportunities for senior roles, Recognition and rewards programs, Learning & development budget, Annual paid leaves and casual leaves, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "Are you a skilled Radiologist looking for your next big career move? PGIMER Advisory Limited in Dhanbad offers you the perfect platform to grow professionally a",
+    "keywords": "Radiologist, PGIMER Advisory Limited, jobs in Dhanbad, Jharkhand jobs, healthcare jobs India, Surgical Procedures, Medical Ethics, Diagnostic Skills, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:57:17.864Z",
+  "page": 297
+}

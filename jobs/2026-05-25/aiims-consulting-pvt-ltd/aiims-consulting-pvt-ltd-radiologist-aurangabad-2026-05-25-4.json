@@ -1,0 +1,93 @@
+{
+  "slug": "aiims-consulting-pvt-ltd-radiologist-aurangabad-2026-05-25-4",
+  "title": "Senior Radiologist at AIIMS Consulting Pvt Ltd",
+  "company": "AIIMS Consulting Pvt Ltd",
+  "industry": "healthcare",
+  "role": "Radiologist",
+  "location": {
+    "city": "Aurangabad",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Patient Care",
+    "BLS/ACLS",
+    "ICD-10",
+    "Health Informatics",
+    "Medical Coding",
+    "Medical Terminology",
+    "Clinical Documentation",
+    "HIPAA Compliance"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Radiologist at AIIMS Consulting Pvt Ltd",
+    "description": "Are you a skilled Radiologist looking for your next big career move? AIIMS Consulting Pvt Ltd in Aurangabad offers you the perfect platform to grow professionally and personally.\n\nAbout AIIMS Consulting Pvt Ltd:\nAIIMS Consulting Pvt Ltd is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Adhere to NABH/JCI accreditation standards\n• Collaborate with pharmaceutical representatives and medical suppliers\n• Monitor patient progress and adjust treatment plans accordingly\n• Conduct routine health assessments and screenings\n• Participate in quality improvement initiatives and clinical audits\n• Educate patients and families on health management and disease prevention\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 1-3 years of relevant experience\n• Proficiency in Patient Care\n• Proficiency in BLS/ACLS\n• Proficiency in ICD-10\n• Proficiency in Health Informatics\n• Proficiency in Medical Coding\n• Proficiency in Medical Terminology\n• Proficiency in Clinical Documentation\n• Proficiency in HIPAA Compliance\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Referral bonus program\n• Annual paid leaves and casual leaves\n• Mobile and internet reimbursement\n• Employee stock options (ESOPs) for eligible roles\n• Competitive salary with performance-linked incentives\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Aurangabad, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with AIIMS Consulting Pvt Ltd!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "AIIMS Consulting Pvt Ltd",
+      "value": "1191-4-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "AIIMS Consulting Pvt Ltd",
+      "sameAs": "https://www.google.com/search?q=AIIMS%20Consulting%20Pvt%20Ltd",
+      "logo": "https://logo.clearbit.com/aiimsconsultingpvtltd.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "AIIMS Consulting Pvt Ltd Office",
+        "addressLocality": "Aurangabad",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "Patient Care, BLS/ACLS, ICD-10, Health Informatics, Medical Coding, Medical Terminology, Clinical Documentation, HIPAA Compliance",
+    "responsibilities": "Coordinate with multidisciplinary teams for comprehensive patient management. Adhere to NABH/JCI accreditation standards. Collaborate with pharmaceutical representatives and medical suppliers. Monitor patient progress and adjust treatment plans accordingly. Conduct routine health assessments and screenings. Participate in quality improvement initiatives and clinical audits. Educate patients and families on health management and disease prevention",
+    "benefits": "Work-from-home flexibility. Referral bonus program. Annual paid leaves and casual leaves. Mobile and internet reimbursement. Employee stock options (ESOPs) for eligible roles. Competitive salary with performance-linked incentives",
+    "industry": "healthcare",
+    "occupationalCategory": "Radiologist",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Referral bonus program, Annual paid leaves and casual leaves, Mobile and internet reimbursement, Employee stock options (ESOPs) for eligible roles, Competitive salary with performance-linked incentives"
+  },
+  "meta": {
+    "description": "Are you a skilled Radiologist looking for your next big career move? AIIMS Consulting Pvt Ltd in Aurangabad offers you the perfect platform to grow professional",
+    "keywords": "Radiologist, AIIMS Consulting Pvt Ltd, jobs in Aurangabad, Maharashtra jobs, healthcare jobs India, Patient Care, BLS/ACLS, ICD-10, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:57:17.864Z",
+  "page": 297
+}

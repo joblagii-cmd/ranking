@@ -1,0 +1,93 @@
+{
+  "slug": "aiims-consulting-pvt-ltd-medical-officer-srinagar-2026-05-25-0",
+  "title": "Immediate Requirement Medical Officer at AIIMS Consulting Pvt Ltd",
+  "company": "AIIMS Consulting Pvt Ltd",
+  "industry": "healthcare",
+  "role": "Medical Officer",
+  "location": {
+    "city": "Srinagar",
+    "state": "Jammu & Kashmir",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "NABH Standards",
+    "Diagnostic Skills",
+    "Wound Care",
+    "ICD-10",
+    "ICU Management",
+    "Infection Control",
+    "Telemedicine",
+    "Medical Terminology"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Immediate Requirement Medical Officer at AIIMS Consulting Pvt Ltd",
+    "description": "Are you a skilled Medical Officer looking for your next big career move? AIIMS Consulting Pvt Ltd in Srinagar offers you the perfect platform to grow professionally and personally.\n\nAbout AIIMS Consulting Pvt Ltd:\nAIIMS Consulting Pvt Ltd is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Administer medications and treatments as prescribed\n• Ensure patient privacy and maintain confidentiality\n• Adhere to NABH/JCI accreditation standards\n• Educate patients and families on health management and disease prevention\n• Collaborate with pharmaceutical representatives and medical suppliers\n• Participate in quality improvement initiatives and clinical audits\n• Coordinate with multidisciplinary teams for comprehensive patient management\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 0-1 years of relevant experience\n• Proficiency in NABH Standards\n• Proficiency in Diagnostic Skills\n• Proficiency in Wound Care\n• Proficiency in ICD-10\n• Proficiency in ICU Management\n• Proficiency in Infection Control\n• Proficiency in Telemedicine\n• Proficiency in Medical Terminology\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Mobile and internet reimbursement\n• Modern office with recreational facilities\n• Work-from-home flexibility\n• Company-sponsored certifications\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Srinagar, Jammu & Kashmir, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with AIIMS Consulting Pvt Ltd!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "AIIMS Consulting Pvt Ltd",
+      "value": "1191-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "AIIMS Consulting Pvt Ltd",
+      "sameAs": "https://www.google.com/search?q=AIIMS%20Consulting%20Pvt%20Ltd",
+      "logo": "https://logo.clearbit.com/aiimsconsultingpvtltd.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "AIIMS Consulting Pvt Ltd Office",
+        "addressLocality": "Srinagar",
+        "addressRegion": "Jammu & Kashmir",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "NABH Standards, Diagnostic Skills, Wound Care, ICD-10, ICU Management, Infection Control, Telemedicine, Medical Terminology",
+    "responsibilities": "Administer medications and treatments as prescribed. Ensure patient privacy and maintain confidentiality. Adhere to NABH/JCI accreditation standards. Educate patients and families on health management and disease prevention. Collaborate with pharmaceutical representatives and medical suppliers. Participate in quality improvement initiatives and clinical audits. Coordinate with multidisciplinary teams for comprehensive patient management",
+    "benefits": "Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Mobile and internet reimbursement. Modern office with recreational facilities. Work-from-home flexibility. Company-sponsored certifications",
+    "industry": "healthcare",
+    "occupationalCategory": "Medical Officer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Mobile and internet reimbursement, Modern office with recreational facilities, Work-from-home flexibility, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "Are you a skilled Medical Officer looking for your next big career move? AIIMS Consulting Pvt Ltd in Srinagar offers you the perfect platform to grow profession",
+    "keywords": "Medical Officer, AIIMS Consulting Pvt Ltd, jobs in Srinagar, Jammu & Kashmir jobs, healthcare jobs India, NABH Standards, Diagnostic Skills, Wound Care, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:57:17.863Z",
+  "page": 297
+}
