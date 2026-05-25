@@ -1,0 +1,93 @@
+{
+  "slug": "atos-india-full-stack-developer-mumbai-2026-05-25-2",
+  "title": "Atos India is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "Atos India",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "React",
+    "CI/CD",
+    "Go",
+    "TensorFlow",
+    "MongoDB",
+    "Java",
+    "AWS",
+    "Rust"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Atos India is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "An exciting career opportunity awaits you at Atos India. We are on the lookout for a dedicated Full Stack Developer to strengthen our Mumbai-based team.\n\nAbout Atos India:\nAtos India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Collaborate with cross-functional teams including product, design, and QA\n• Contribute to system architecture and technical design decisions\n• Implement new features based on product requirements\n• Ensure code security and follow best practices for data protection\n• Participate in code reviews and contribute to technical discussions\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 0-1 years of relevant experience\n• Proficiency in React\n• Proficiency in CI/CD\n• Proficiency in Go\n• Proficiency in TensorFlow\n• Proficiency in MongoDB\n• Proficiency in Java\n• Proficiency in AWS\n• Proficiency in Rust\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Annual performance appraisal\n• International travel opportunities for senior roles\n• Referral bonus program\n• Recognition and rewards programs\n• Mobile and internet reimbursement\n• Competitive salary with performance-linked incentives\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Mumbai, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Atos India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Atos India",
+      "value": "62-2-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Atos India",
+      "sameAs": "https://www.google.com/search?q=Atos%20India",
+      "logo": "https://logo.clearbit.com/atosindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Atos India Office",
+        "addressLocality": "Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "React, CI/CD, Go, TensorFlow, MongoDB, Java, AWS, Rust",
+    "responsibilities": "Troubleshoot, debug, and resolve software defects and performance issues. Work with agile methodologies including daily stand-ups and sprint planning. Collaborate with cross-functional teams including product, design, and QA. Contribute to system architecture and technical design decisions. Implement new features based on product requirements. Ensure code security and follow best practices for data protection. Participate in code reviews and contribute to technical discussions",
+    "benefits": "Annual performance appraisal. International travel opportunities for senior roles. Referral bonus program. Recognition and rewards programs. Mobile and internet reimbursement. Competitive salary with performance-linked incentives",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual performance appraisal, International travel opportunities for senior roles, Referral bonus program, Recognition and rewards programs, Mobile and internet reimbursement, Competitive salary with performance-linked incentives"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Atos India. We are on the lookout for a dedicated Full Stack Developer to strengthen our Mumbai-based team.",
+    "keywords": "Full Stack Developer, Atos India, jobs in Mumbai, Maharashtra jobs, technology jobs India, React, CI/CD, Go, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:19:18.370Z",
+  "page": 15
+}

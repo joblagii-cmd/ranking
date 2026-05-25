@@ -1,0 +1,93 @@
+{
+  "slug": "cgi-india-frontend-developer-delhi-2026-05-25-4",
+  "title": "Mid-Level Frontend Developer at CGI India",
+  "company": "CGI India",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "AWS",
+    "SQL",
+    "Agile/Scrum",
+    "MongoDB",
+    "Machine Learning",
+    "Java",
+    "CI/CD",
+    "Docker"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Frontend Developer at CGI India",
+    "description": "An exciting career opportunity awaits you at CGI India. We are on the lookout for a dedicated Frontend Developer to strengthen our Delhi-based team.\n\nAbout CGI India:\nCGI India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Write clean, maintainable, and well-documented code\n• Ensure code security and follow best practices for data protection\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Participate in on-call rotation for production support\n• Integrate third-party APIs and services\n• Mentor junior developers and conduct knowledge-sharing sessions\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 6-10 years of relevant experience\n• Proficiency in AWS\n• Proficiency in SQL\n• Proficiency in Agile/Scrum\n• Proficiency in MongoDB\n• Proficiency in Machine Learning\n• Proficiency in Java\n• Proficiency in CI/CD\n• Proficiency in Docker\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Competitive salary with performance-linked incentives\n• International travel opportunities for senior roles\n• Annual performance appraisal\n• Flexible working hours\n• Learning & development budget\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Delhi, Delhi, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with CGI India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "CGI India",
+      "value": "63-4-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "CGI India",
+      "sameAs": "https://www.google.com/search?q=CGI%20India",
+      "logo": "https://logo.clearbit.com/cgiindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "CGI India Office",
+        "addressLocality": "Delhi",
+        "addressRegion": "Delhi",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "AWS, SQL, Agile/Scrum, MongoDB, Machine Learning, Java, CI/CD, Docker",
+    "responsibilities": "Design, develop and maintain scalable software applications. Write clean, maintainable, and well-documented code. Ensure code security and follow best practices for data protection. Work with agile methodologies including daily stand-ups and sprint planning. Participate in on-call rotation for production support. Integrate third-party APIs and services. Mentor junior developers and conduct knowledge-sharing sessions",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Competitive salary with performance-linked incentives. International travel opportunities for senior roles. Annual performance appraisal. Flexible working hours. Learning & development budget",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Competitive salary with performance-linked incentives, International travel opportunities for senior roles, Annual performance appraisal, Flexible working hours, Learning & development budget"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at CGI India. We are on the lookout for a dedicated Frontend Developer to strengthen our Delhi-based team.",
+    "keywords": "Frontend Developer, CGI India, jobs in Delhi, Delhi jobs, technology jobs India, AWS, SQL, Agile/Scrum, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:19:18.370Z",
+  "page": 15
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "dxc-technology-india-senior-software-engineer-delhi-2026-05-25-1",
+  "title": "Senior Software Engineer - DXC Technology India - Experienced Professionals",
+  "company": "DXC Technology India",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "SQL",
+    "TensorFlow",
+    "Node.js",
+    "Kubernetes",
+    "Docker",
+    "MongoDB",
+    "Git",
+    "REST APIs"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - DXC Technology India - Experienced Professionals",
+    "description": "An exciting career opportunity awaits you at DXC Technology India. We are on the lookout for a dedicated Senior Software Engineer to strengthen our Delhi-based team.\n\nAbout DXC Technology India:\nDXC Technology India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure code security and follow best practices for data protection\n• Implement new features based on product requirements\n• Collaborate with cross-functional teams including product, design, and QA\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Integrate third-party APIs and services\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 12-20 years of relevant experience\n• Proficiency in SQL\n• Proficiency in TensorFlow\n• Proficiency in Node.js\n• Proficiency in Kubernetes\n• Proficiency in Docker\n• Proficiency in MongoDB\n• Proficiency in Git\n• Proficiency in REST APIs\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Maternity and paternity leave\n• Professional development and training programs\n• Referral bonus program\n• Recognition and rewards programs\n• Mobile and internet reimbursement\n• Work-from-home flexibility\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Delhi, Delhi, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with DXC Technology India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "DXC Technology India",
+      "value": "64-1-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "DXC Technology India",
+      "sameAs": "https://www.google.com/search?q=DXC%20Technology%20India",
+      "logo": "https://logo.clearbit.com/dxctechnologyindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "DXC Technology India Office",
+        "addressLocality": "Delhi",
+        "addressRegion": "Delhi",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "SQL, TensorFlow, Node.js, Kubernetes, Docker, MongoDB, Git, REST APIs",
+    "responsibilities": "Ensure code security and follow best practices for data protection. Implement new features based on product requirements. Collaborate with cross-functional teams including product, design, and QA. Mentor junior developers and conduct knowledge-sharing sessions. Troubleshoot, debug, and resolve software defects and performance issues. Work with agile methodologies including daily stand-ups and sprint planning. Integrate third-party APIs and services",
+    "benefits": "Maternity and paternity leave. Professional development and training programs. Referral bonus program. Recognition and rewards programs. Mobile and internet reimbursement. Work-from-home flexibility",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Maternity and paternity leave, Professional development and training programs, Referral bonus program, Recognition and rewards programs, Mobile and internet reimbursement, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at DXC Technology India. We are on the lookout for a dedicated Senior Software Engineer to strengthen our Delhi-based ",
+    "keywords": "Senior Software Engineer, DXC Technology India, jobs in Delhi, Delhi jobs, technology jobs India, SQL, TensorFlow, Node.js, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:19:18.370Z",
+  "page": 15
+}
