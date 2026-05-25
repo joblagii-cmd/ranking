@@ -1,0 +1,93 @@
+{
+  "slug": "iim-bangalore-advisory-limited-teacher-srinagar-2026-05-25-0",
+  "title": "Looking for Teacher at IIM Bangalore Advisory Limited",
+  "company": "IIM Bangalore Advisory Limited",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Srinagar",
+    "state": "Jammu & Kashmir",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Pedagogy",
+    "Classroom Management",
+    "E-learning",
+    "Mentoring",
+    "Content Creation",
+    "Communication Skills",
+    "Bloom's Taxonomy",
+    "Lesson Planning"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Looking for Teacher at IIM Bangalore Advisory Limited",
+    "description": "Are you a skilled Teacher looking for your next big career move? IIM Bangalore Advisory Limited in Srinagar offers you the perfect platform to grow professionally and personally.\n\nAbout IIM Bangalore Advisory Limited:\nIIM Bangalore Advisory Limited is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Develop and deliver engaging lesson plans for students\n• Design formative and summative assessments aligned to learning objectives\n• Create curriculum-aligned learning materials and assessments\n• Contribute to school newsletter, blogs, and other publications\n• Monitor student progress and provide timely feedback\n• Participate in school events, workshops, and training programs\n• Participate in teacher training and professional development programs\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 10-15 years of relevant experience\n• Proficiency in Pedagogy\n• Proficiency in Classroom Management\n• Proficiency in E-learning\n• Proficiency in Mentoring\n• Proficiency in Content Creation\n• Proficiency in Communication Skills\n• Proficiency in Bloom's Taxonomy\n• Proficiency in Lesson Planning\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Employee stock options (ESOPs) for eligible roles\n• Flexible working hours\n• Maternity and paternity leave\n• Work-from-home flexibility\n• Comprehensive health insurance for self and family\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Srinagar, Jammu & Kashmir, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with IIM Bangalore Advisory Limited!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "IIM Bangalore Advisory Limited",
+      "value": "1442-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "IIM Bangalore Advisory Limited",
+      "sameAs": "https://www.google.com/search?q=IIM%20Bangalore%20Advisory%20Limited",
+      "logo": "https://logo.clearbit.com/iimbangaloreadvisorylimited.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "IIM Bangalore Advisory Limited Office",
+        "addressLocality": "Srinagar",
+        "addressRegion": "Jammu & Kashmir",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "Pedagogy, Classroom Management, E-learning, Mentoring, Content Creation, Communication Skills, Bloom's Taxonomy, Lesson Planning",
+    "responsibilities": "Develop and deliver engaging lesson plans for students. Design formative and summative assessments aligned to learning objectives. Create curriculum-aligned learning materials and assessments. Contribute to school newsletter, blogs, and other publications. Monitor student progress and provide timely feedback. Participate in school events, workshops, and training programs. Participate in teacher training and professional development programs",
+    "benefits": "Annual paid leaves and casual leaves. Employee stock options (ESOPs) for eligible roles. Flexible working hours. Maternity and paternity leave. Work-from-home flexibility. Comprehensive health insurance for self and family",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Employee stock options (ESOPs) for eligible roles, Flexible working hours, Maternity and paternity leave, Work-from-home flexibility, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "Are you a skilled Teacher looking for your next big career move? IIM Bangalore Advisory Limited in Srinagar offers you the perfect platform to grow professional",
+    "keywords": "Teacher, IIM Bangalore Advisory Limited, jobs in Srinagar, Jammu & Kashmir jobs, education jobs India, Pedagogy, Classroom Management, E-learning, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T07:06:33.866Z",
+  "page": 360
+}
