@@ -1,0 +1,93 @@
+{
+  "slug": "sun-pharmaceutical-radiologist-bhubaneswar-2026-05-25-4",
+  "title": "Principal Radiologist at Sun Pharmaceutical",
+  "company": "Sun Pharmaceutical",
+  "industry": "healthcare",
+  "role": "Radiologist",
+  "location": {
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "region": "Eastern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Clinical Documentation",
+    "EMR/EHR",
+    "Infection Control",
+    "Surgical Procedures",
+    "Pharmacovigilance",
+    "ICU Management",
+    "NABH Standards",
+    "Medical Coding"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Principal Radiologist at Sun Pharmaceutical",
+    "description": "Sun Pharmaceutical has an exciting opening for a Radiologist at our Bhubaneswar office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Sun Pharmaceutical:\nSun Pharmaceutical is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Monitor patient progress and adjust treatment plans accordingly\n• Participate in quality improvement initiatives and clinical audits\n• Maintain accurate clinical documentation in electronic health records\n• Ensure patient privacy and maintain confidentiality\n• Conduct routine health assessments and screenings\n• Administer medications and treatments as prescribed\n• Coordinate with multidisciplinary teams for comprehensive patient management\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 12-20 years of relevant experience\n• Proficiency in Clinical Documentation\n• Proficiency in EMR/EHR\n• Proficiency in Infection Control\n• Proficiency in Surgical Procedures\n• Proficiency in Pharmacovigilance\n• Proficiency in ICU Management\n• Proficiency in NABH Standards\n• Proficiency in Medical Coding\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Work-from-home flexibility\n• Comprehensive health insurance for self and family\n• Annual paid leaves and casual leaves\n• Recognition and rewards programs\n• Modern office with recreational facilities\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Bhubaneswar, Odisha, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Sun Pharmaceutical!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Sun Pharmaceutical",
+      "value": "226-4-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Sun Pharmaceutical",
+      "sameAs": "https://www.google.com/search?q=Sun%20Pharmaceutical",
+      "logo": "https://logo.clearbit.com/sunpharmaceutical.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Sun Pharmaceutical Office",
+        "addressLocality": "Bhubaneswar",
+        "addressRegion": "Odisha",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "Clinical Documentation, EMR/EHR, Infection Control, Surgical Procedures, Pharmacovigilance, ICU Management, NABH Standards, Medical Coding",
+    "responsibilities": "Monitor patient progress and adjust treatment plans accordingly. Participate in quality improvement initiatives and clinical audits. Maintain accurate clinical documentation in electronic health records. Ensure patient privacy and maintain confidentiality. Conduct routine health assessments and screenings. Administer medications and treatments as prescribed. Coordinate with multidisciplinary teams for comprehensive patient management",
+    "benefits": "Provident Fund and Gratuity as per company policy. Work-from-home flexibility. Comprehensive health insurance for self and family. Annual paid leaves and casual leaves. Recognition and rewards programs. Modern office with recreational facilities",
+    "industry": "healthcare",
+    "occupationalCategory": "Radiologist",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Work-from-home flexibility, Comprehensive health insurance for self and family, Annual paid leaves and casual leaves, Recognition and rewards programs, Modern office with recreational facilities"
+  },
+  "meta": {
+    "description": "Sun Pharmaceutical has an exciting opening for a Radiologist at our Bhubaneswar office. Join a company that values innovation, collaboration, and continuous lea",
+    "keywords": "Radiologist, Sun Pharmaceutical, jobs in Bhubaneswar, Odisha jobs, healthcare jobs India, Clinical Documentation, EMR/EHR, Infection Control, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:24:58.310Z",
+  "page": 56
+}
