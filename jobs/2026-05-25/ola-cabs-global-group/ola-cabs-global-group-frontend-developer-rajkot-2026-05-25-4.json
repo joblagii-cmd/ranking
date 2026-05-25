@@ -1,0 +1,94 @@
+{
+  "slug": "ola-cabs-global-group-frontend-developer-rajkot-2026-05-25-4",
+  "title": "Lead Frontend Developer at Ola Cabs Global Group",
+  "company": "Ola Cabs Global Group",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "JavaScript",
+    "Agile/Scrum",
+    "React",
+    "Python",
+    "Java",
+    "MongoDB",
+    "Go",
+    "AWS"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Lead Frontend Developer at Ola Cabs Global Group",
+    "description": "Ola Cabs Global Group has an exciting opening for a Frontend Developer at our Rajkot office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Ola Cabs Global Group:\nOla Cabs Global Group is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Design, develop and maintain scalable software applications\n• Integrate third-party APIs and services\n• Implement new features based on product requirements\n• Contribute to system architecture and technical design decisions\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Write clean, maintainable, and well-documented code\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 0-1 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Agile/Scrum\n• Proficiency in React\n• Proficiency in Python\n• Proficiency in Java\n• Proficiency in MongoDB\n• Proficiency in Go\n• Proficiency in AWS\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Company-sponsored certifications\n• Mobile and internet reimbursement\n• Referral bonus program\n• Life and accident insurance\n• Work-from-home flexibility\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Rajkot, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Ola Cabs Global Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Ola Cabs Global Group",
+      "value": "937-4-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Ola Cabs Global Group",
+      "sameAs": "https://www.google.com/search?q=Ola%20Cabs%20Global%20Group",
+      "logo": "https://logo.clearbit.com/olacabsglobalgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Ola Cabs Global Group Office",
+        "addressLocality": "Rajkot",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "JavaScript, Agile/Scrum, React, Python, Java, MongoDB, Go, AWS",
+    "responsibilities": "Work with agile methodologies including daily stand-ups and sprint planning. Design, develop and maintain scalable software applications. Integrate third-party APIs and services. Implement new features based on product requirements. Contribute to system architecture and technical design decisions. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Write clean, maintainable, and well-documented code",
+    "benefits": "International travel opportunities for senior roles. Company-sponsored certifications. Mobile and internet reimbursement. Referral bonus program. Life and accident insurance. Work-from-home flexibility",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Company-sponsored certifications, Mobile and internet reimbursement, Referral bonus program, Life and accident insurance, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "Ola Cabs Global Group has an exciting opening for a Frontend Developer at our Rajkot office. Join a company that values innovation, collaboration, and continuou",
+    "keywords": "Frontend Developer, Ola Cabs Global Group, jobs in Rajkot, Gujarat jobs, technology jobs India, JavaScript, Agile/Scrum, React, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:48:55.564Z",
+  "page": 234
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "ola-cabs-global-group-full-stack-developer-rajkot-2026-05-25-2",
+  "title": "Ola Cabs Global Group is Hiring: Full Stack Developer (Lead)",
+  "company": "Ola Cabs Global Group",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Microservices",
+    "React",
+    "Agile/Scrum",
+    "TypeScript",
+    "Machine Learning",
+    "MongoDB",
+    "Java",
+    "Docker"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Ola Cabs Global Group is Hiring: Full Stack Developer (Lead)",
+    "description": "Ola Cabs Global Group has an exciting opening for a Full Stack Developer at our Rajkot office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Ola Cabs Global Group:\nOla Cabs Global Group is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure code security and follow best practices for data protection\n• Write clean, maintainable, and well-documented code\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Implement new features based on product requirements\n• Write and execute unit tests and integration tests\n• Design, develop and maintain scalable software applications\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 3-6 years of relevant experience\n• Proficiency in Microservices\n• Proficiency in React\n• Proficiency in Agile/Scrum\n• Proficiency in TypeScript\n• Proficiency in Machine Learning\n• Proficiency in MongoDB\n• Proficiency in Java\n• Proficiency in Docker\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Provident Fund and Gratuity as per company policy\n• Annual performance appraisal\n• Company-sponsored certifications\n• Transportation and conveyance allowance\n• Mobile and internet reimbursement\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Rajkot, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Ola Cabs Global Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Ola Cabs Global Group",
+      "value": "937-2-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Ola Cabs Global Group",
+      "sameAs": "https://www.google.com/search?q=Ola%20Cabs%20Global%20Group",
+      "logo": "https://logo.clearbit.com/olacabsglobalgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Ola Cabs Global Group Office",
+        "addressLocality": "Rajkot",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "Microservices, React, Agile/Scrum, TypeScript, Machine Learning, MongoDB, Java, Docker",
+    "responsibilities": "Ensure code security and follow best practices for data protection. Write clean, maintainable, and well-documented code. Troubleshoot, debug, and resolve software defects and performance issues. Work with agile methodologies including daily stand-ups and sprint planning. Implement new features based on product requirements. Write and execute unit tests and integration tests. Design, develop and maintain scalable software applications",
+    "benefits": "Annual paid leaves and casual leaves. Provident Fund and Gratuity as per company policy. Annual performance appraisal. Company-sponsored certifications. Transportation and conveyance allowance. Mobile and internet reimbursement",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Provident Fund and Gratuity as per company policy, Annual performance appraisal, Company-sponsored certifications, Transportation and conveyance allowance, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "Ola Cabs Global Group has an exciting opening for a Full Stack Developer at our Rajkot office. Join a company that values innovation, collaboration, and continu",
+    "keywords": "Full Stack Developer, Ola Cabs Global Group, jobs in Rajkot, Gujarat jobs, technology jobs India, Microservices, React, Agile/Scrum, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:48:55.564Z",
+  "page": 234
+}

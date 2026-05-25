@@ -1,0 +1,93 @@
+{
+  "slug": "byju-s-international-enterprises-software-engineer-rajkot-2026-05-25-0",
+  "title": "Job Opening Software Engineer at Byju's International Enterprises",
+  "company": "Byju's International Enterprises",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Rust",
+    "JavaScript",
+    "Python",
+    "Docker",
+    "SQL",
+    "TensorFlow",
+    "Kubernetes",
+    "Node.js"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Job Opening Software Engineer at Byju's International Enterprises",
+    "description": "Byju's International Enterprises has an exciting opening for a Software Engineer at our Rajkot office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Byju's International Enterprises:\nByju's International Enterprises is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Optimize application performance and ensure high availability\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Participate in on-call rotation for production support\n• Collaborate with cross-functional teams including product, design, and QA\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Integrate third-party APIs and services\n• Write clean, maintainable, and well-documented code\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 6-10 years of relevant experience\n• Proficiency in Rust\n• Proficiency in JavaScript\n• Proficiency in Python\n• Proficiency in Docker\n• Proficiency in SQL\n• Proficiency in TensorFlow\n• Proficiency in Kubernetes\n• Proficiency in Node.js\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Flexible working hours\n• Life and accident insurance\n• Learning & development budget\n• Mobile and internet reimbursement\n• Transportation and conveyance allowance\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Rajkot, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Byju's International Enterprises!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Byju's International Enterprises",
+      "value": "938-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Byju's International Enterprises",
+      "sameAs": "https://www.google.com/search?q=Byju's%20International%20Enterprises",
+      "logo": "https://logo.clearbit.com/byjusinternationalenterprises.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Byju's International Enterprises Office",
+        "addressLocality": "Rajkot",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "Rust, JavaScript, Python, Docker, SQL, TensorFlow, Kubernetes, Node.js",
+    "responsibilities": "Optimize application performance and ensure high availability. Troubleshoot, debug, and resolve software defects and performance issues. Participate in on-call rotation for production support. Collaborate with cross-functional teams including product, design, and QA. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Integrate third-party APIs and services. Write clean, maintainable, and well-documented code",
+    "benefits": "Competitive salary with performance-linked incentives. Flexible working hours. Life and accident insurance. Learning & development budget. Mobile and internet reimbursement. Transportation and conveyance allowance",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Flexible working hours, Life and accident insurance, Learning & development budget, Mobile and internet reimbursement, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "Byju's International Enterprises has an exciting opening for a Software Engineer at our Rajkot office. Join a company that values innovation, collaboration, and",
+    "keywords": "Software Engineer, Byju's International Enterprises, jobs in Rajkot, Gujarat jobs, technology jobs India, Rust, JavaScript, Python, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:48:55.564Z",
+  "page": 234
+}

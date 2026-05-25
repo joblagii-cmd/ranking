@@ -1,0 +1,93 @@
+{
+  "slug": "razorpay-asia-pacific-associates-software-engineer-rajkot-2026-05-25-0",
+  "title": "Job Opening Software Engineer at Razorpay Asia Pacific Associates",
+  "company": "Razorpay Asia Pacific Associates",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "JavaScript",
+    "MongoDB",
+    "CI/CD",
+    "React",
+    "Rust",
+    "Python",
+    "AWS",
+    "Agile/Scrum"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Job Opening Software Engineer at Razorpay Asia Pacific Associates",
+    "description": "Razorpay Asia Pacific Associates has an exciting opening for a Software Engineer at our Rajkot office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Razorpay Asia Pacific Associates:\nRazorpay Asia Pacific Associates is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Optimize application performance and ensure high availability\n• Collaborate with cross-functional teams including product, design, and QA\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Ensure code security and follow best practices for data protection\n• Integrate third-party APIs and services\n• Write and execute unit tests and integration tests\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 3-6 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in MongoDB\n• Proficiency in CI/CD\n• Proficiency in React\n• Proficiency in Rust\n• Proficiency in Python\n• Proficiency in AWS\n• Proficiency in Agile/Scrum\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Life and accident insurance\n• Work-from-home flexibility\n• Professional development and training programs\n• Company-sponsored certifications\n• Mobile and internet reimbursement\n• Annual performance appraisal\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Rajkot, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Razorpay Asia Pacific Associates!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Razorpay Asia Pacific Associates",
+      "value": "939-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Razorpay Asia Pacific Associates",
+      "sameAs": "https://www.google.com/search?q=Razorpay%20Asia%20Pacific%20Associates",
+      "logo": "https://logo.clearbit.com/razorpayasiapacificassociates.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Razorpay Asia Pacific Associates Office",
+        "addressLocality": "Rajkot",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "JavaScript, MongoDB, CI/CD, React, Rust, Python, AWS, Agile/Scrum",
+    "responsibilities": "Mentor junior developers and conduct knowledge-sharing sessions. Optimize application performance and ensure high availability. Collaborate with cross-functional teams including product, design, and QA. Troubleshoot, debug, and resolve software defects and performance issues. Ensure code security and follow best practices for data protection. Integrate third-party APIs and services. Write and execute unit tests and integration tests",
+    "benefits": "Life and accident insurance. Work-from-home flexibility. Professional development and training programs. Company-sponsored certifications. Mobile and internet reimbursement. Annual performance appraisal",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Work-from-home flexibility, Professional development and training programs, Company-sponsored certifications, Mobile and internet reimbursement, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "Razorpay Asia Pacific Associates has an exciting opening for a Software Engineer at our Rajkot office. Join a company that values innovation, collaboration, and",
+    "keywords": "Software Engineer, Razorpay Asia Pacific Associates, jobs in Rajkot, Gujarat jobs, technology jobs India, JavaScript, MongoDB, CI/CD, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:48:55.564Z",
+  "page": 234
+}
