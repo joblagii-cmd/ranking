@@ -1,0 +1,93 @@
+{
+  "slug": "microsoft-india-senior-software-engineer-patna-2026-05-25-1",
+  "title": "Senior Software Engineer - Microsoft India - Multiple Openings",
+  "company": "Microsoft India",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Patna",
+    "state": "Bihar",
+    "region": "Eastern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "JavaScript",
+    "Kubernetes",
+    "Machine Learning",
+    "Rust",
+    "REST APIs",
+    "Java",
+    "React",
+    "TensorFlow"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Microsoft India - Multiple Openings",
+    "description": "Are you a skilled Senior Software Engineer looking for your next big career move? Microsoft India in Patna offers you the perfect platform to grow professionally and personally.\n\nAbout Microsoft India:\nMicrosoft India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Contribute to system architecture and technical design decisions\n• Write and execute unit tests and integration tests\n• Design, develop and maintain scalable software applications\n• Write clean, maintainable, and well-documented code\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Implement new features based on product requirements\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 0-1 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Kubernetes\n• Proficiency in Machine Learning\n• Proficiency in Rust\n• Proficiency in REST APIs\n• Proficiency in Java\n• Proficiency in React\n• Proficiency in TensorFlow\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Competitive salary with performance-linked incentives\n• Work-from-home flexibility\n• Provident Fund and Gratuity as per company policy\n• Recognition and rewards programs\n• Life and accident insurance\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Patna, Bihar, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Microsoft India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Microsoft India",
+      "value": "10-1-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Microsoft India",
+      "sameAs": "https://www.google.com/search?q=Microsoft%20India",
+      "logo": "https://logo.clearbit.com/microsoftindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Microsoft India Office",
+        "addressLocality": "Patna",
+        "addressRegion": "Bihar",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "JavaScript, Kubernetes, Machine Learning, Rust, REST APIs, Java, React, TensorFlow",
+    "responsibilities": "Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Contribute to system architecture and technical design decisions. Write and execute unit tests and integration tests. Design, develop and maintain scalable software applications. Write clean, maintainable, and well-documented code. Work with agile methodologies including daily stand-ups and sprint planning. Implement new features based on product requirements",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Competitive salary with performance-linked incentives. Work-from-home flexibility. Provident Fund and Gratuity as per company policy. Recognition and rewards programs. Life and accident insurance",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Competitive salary with performance-linked incentives, Work-from-home flexibility, Provident Fund and Gratuity as per company policy, Recognition and rewards programs, Life and accident insurance"
+  },
+  "meta": {
+    "description": "Are you a skilled Senior Software Engineer looking for your next big career move? Microsoft India in Patna offers you the perfect platform to grow professionall",
+    "keywords": "Senior Software Engineer, Microsoft India, jobs in Patna, Bihar jobs, technology jobs India, JavaScript, Kubernetes, Machine Learning, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:17:26.348Z",
+  "page": 2
+}
