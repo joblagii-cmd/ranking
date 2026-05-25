@@ -1,0 +1,94 @@
+{
+  "slug": "srm-university-senior-teacher-ranchi-2026-05-25-1",
+  "title": "Senior Teacher - SRM University - Attractive Package",
+  "company": "SRM University",
+  "industry": "education",
+  "role": "Senior Teacher",
+  "location": {
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Content Creation",
+    "Pedagogy",
+    "Data Analysis",
+    "CBSE/ICSE Standards",
+    "Lesson Planning",
+    "Special Education",
+    "IB Curriculum",
+    "Classroom Management"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Teacher - SRM University - Attractive Package",
+    "description": "An exciting career opportunity awaits you at SRM University. We are on the lookout for a dedicated Senior Teacher to strengthen our Ranchi-based team.\n\nAbout SRM University:\nSRM University is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Develop and deliver engaging lesson plans for students\n• Participate in school events, workshops, and training programs\n• Conduct doubt-clearing sessions and remedial classes for weak students\n• Participate in teacher training and professional development programs\n• Utilize technology and digital tools to enhance learning outcomes\n• Coordinate with academic counselors for student career guidance\n• Support students with special educational needs\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 1-3 years of relevant experience\n• Proficiency in Content Creation\n• Proficiency in Pedagogy\n• Proficiency in Data Analysis\n• Proficiency in CBSE/ICSE Standards\n• Proficiency in Lesson Planning\n• Proficiency in Special Education\n• Proficiency in IB Curriculum\n• Proficiency in Classroom Management\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Annual performance appraisal\n• Company-sponsored certifications\n• Meal coupons and food allowance\n• Mobile and internet reimbursement\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Ranchi, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with SRM University!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "SRM University",
+      "value": "535-1-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "SRM University",
+      "sameAs": "https://www.google.com/search?q=SRM%20University",
+      "logo": "https://logo.clearbit.com/srmuniversity.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "SRM University Office",
+        "addressLocality": "Ranchi",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "Content Creation, Pedagogy, Data Analysis, CBSE/ICSE Standards, Lesson Planning, Special Education, IB Curriculum, Classroom Management",
+    "responsibilities": "Develop and deliver engaging lesson plans for students. Participate in school events, workshops, and training programs. Conduct doubt-clearing sessions and remedial classes for weak students. Participate in teacher training and professional development programs. Utilize technology and digital tools to enhance learning outcomes. Coordinate with academic counselors for student career guidance. Support students with special educational needs",
+    "benefits": "Competitive salary with performance-linked incentives. Annual performance appraisal. Company-sponsored certifications. Meal coupons and food allowance. Mobile and internet reimbursement. Employee stock options (ESOPs) for eligible roles",
+    "industry": "education",
+    "occupationalCategory": "Senior Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Annual performance appraisal, Company-sponsored certifications, Meal coupons and food allowance, Mobile and internet reimbursement, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at SRM University. We are on the lookout for a dedicated Senior Teacher to strengthen our Ranchi-based team.",
+    "keywords": "Senior Teacher, SRM University, jobs in Ranchi, Jharkhand jobs, education jobs India, Content Creation, Pedagogy, Data Analysis, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:35:22.205Z",
+  "page": 133
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "chandigarh-university-subject-matter-expert-ranchi-2026-05-25-2",
+  "title": "Chandigarh University is Hiring: Subject Matter Expert (Lead)",
+  "company": "Chandigarh University",
+  "industry": "education",
+  "role": "Subject Matter Expert",
+  "location": {
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Lesson Planning",
+    "Communication Skills",
+    "Content Creation",
+    "Classroom Management",
+    "Research Skills",
+    "LMS Platforms",
+    "Pedagogy",
+    "MS Office"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Chandigarh University is Hiring: Subject Matter Expert (Lead)",
+    "description": "An exciting career opportunity awaits you at Chandigarh University. We are on the lookout for a dedicated Subject Matter Expert to strengthen our Ranchi-based team.\n\nAbout Chandigarh University:\nChandigarh University is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Contribute to school newsletter, blogs, and other publications\n• Conduct parent-teacher meetings and update parents on student performance\n• Monitor student progress and provide timely feedback\n• Design formative and summative assessments aligned to learning objectives\n• Maintain classroom discipline and create a positive learning environment\n• Utilize technology and digital tools to enhance learning outcomes\n• Maintain student records and prepare progress reports\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 1-3 years of relevant experience\n• Proficiency in Lesson Planning\n• Proficiency in Communication Skills\n• Proficiency in Content Creation\n• Proficiency in Classroom Management\n• Proficiency in Research Skills\n• Proficiency in LMS Platforms\n• Proficiency in Pedagogy\n• Proficiency in MS Office\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Provident Fund and Gratuity as per company policy\n• Meal coupons and food allowance\n• Competitive salary with performance-linked incentives\n• Annual performance appraisal\n• Referral bonus program\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Ranchi, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Chandigarh University!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Chandigarh University",
+      "value": "534-2-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Chandigarh University",
+      "sameAs": "https://www.google.com/search?q=Chandigarh%20University",
+      "logo": "https://logo.clearbit.com/chandigarhuniversity.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Chandigarh University Office",
+        "addressLocality": "Ranchi",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "Lesson Planning, Communication Skills, Content Creation, Classroom Management, Research Skills, LMS Platforms, Pedagogy, MS Office",
+    "responsibilities": "Contribute to school newsletter, blogs, and other publications. Conduct parent-teacher meetings and update parents on student performance. Monitor student progress and provide timely feedback. Design formative and summative assessments aligned to learning objectives. Maintain classroom discipline and create a positive learning environment. Utilize technology and digital tools to enhance learning outcomes. Maintain student records and prepare progress reports",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Provident Fund and Gratuity as per company policy. Meal coupons and food allowance. Competitive salary with performance-linked incentives. Annual performance appraisal. Referral bonus program",
+    "industry": "education",
+    "occupationalCategory": "Subject Matter Expert",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Provident Fund and Gratuity as per company policy, Meal coupons and food allowance, Competitive salary with performance-linked incentives, Annual performance appraisal, Referral bonus program"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Chandigarh University. We are on the lookout for a dedicated Subject Matter Expert to strengthen our Ranchi-based t",
+    "keywords": "Subject Matter Expert, Chandigarh University, jobs in Ranchi, Jharkhand jobs, education jobs India, Lesson Planning, Communication Skills, Content Creation, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:35:22.205Z",
+  "page": 133
+}
