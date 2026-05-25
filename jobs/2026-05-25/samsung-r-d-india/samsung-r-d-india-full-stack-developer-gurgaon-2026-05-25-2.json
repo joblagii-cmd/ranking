@@ -1,0 +1,94 @@
+{
+  "slug": "samsung-r-d-india-full-stack-developer-gurgaon-2026-05-25-2",
+  "title": "Samsung R&D India is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "Samsung R&D India",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Gurgaon",
+    "state": "Haryana",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Docker",
+    "React",
+    "AWS",
+    "Machine Learning",
+    "CI/CD",
+    "TypeScript",
+    "SQL",
+    "Java"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Samsung R&D India is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "Samsung R&D India, one of India's leading organizations, is hiring a Full Stack Developer for our Gurgaon operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Samsung R&D India:\nSamsung R&D India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure code security and follow best practices for data protection\n• Write and execute unit tests and integration tests\n• Integrate third-party APIs and services\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Participate in code reviews and contribute to technical discussions\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Write clean, maintainable, and well-documented code\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 6-10 years of relevant experience\n• Proficiency in Docker\n• Proficiency in React\n• Proficiency in AWS\n• Proficiency in Machine Learning\n• Proficiency in CI/CD\n• Proficiency in TypeScript\n• Proficiency in SQL\n• Proficiency in Java\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Mobile and internet reimbursement\n• Professional development and training programs\n• Recognition and rewards programs\n• Transportation and conveyance allowance\n• Competitive salary with performance-linked incentives\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Gurgaon, Haryana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Samsung R&D India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Samsung R&D India",
+      "value": "54-2-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Samsung R&D India",
+      "sameAs": "https://www.google.com/search?q=Samsung%20R%26D%20India",
+      "logo": "https://logo.clearbit.com/samsungrdindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Samsung R&D India Office",
+        "addressLocality": "Gurgaon",
+        "addressRegion": "Haryana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "Docker, React, AWS, Machine Learning, CI/CD, TypeScript, SQL, Java",
+    "responsibilities": "Ensure code security and follow best practices for data protection. Write and execute unit tests and integration tests. Integrate third-party APIs and services. Mentor junior developers and conduct knowledge-sharing sessions. Participate in code reviews and contribute to technical discussions. Work with agile methodologies including daily stand-ups and sprint planning. Write clean, maintainable, and well-documented code",
+    "benefits": "Provident Fund and Gratuity as per company policy. Mobile and internet reimbursement. Professional development and training programs. Recognition and rewards programs. Transportation and conveyance allowance. Competitive salary with performance-linked incentives",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Mobile and internet reimbursement, Professional development and training programs, Recognition and rewards programs, Transportation and conveyance allowance, Competitive salary with performance-linked incentives"
+  },
+  "meta": {
+    "description": "Samsung R&D India, one of India's leading organizations, is hiring a Full Stack Developer for our Gurgaon operations. We offer a competitive salary package alon",
+    "keywords": "Full Stack Developer, Samsung R&D India, jobs in Gurgaon, Haryana jobs, technology jobs India, Docker, React, AWS, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:19:01.245Z",
+  "page": 13
+}

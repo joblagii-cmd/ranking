@@ -1,0 +1,93 @@
+{
+  "slug": "lg-soft-india-software-engineer-gurgaon-2026-05-25-0",
+  "title": "Immediate Requirement Software Engineer at LG Soft India",
+  "company": "LG Soft India",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Gurgaon",
+    "state": "Haryana",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Microservices",
+    "TypeScript",
+    "Python",
+    "TensorFlow",
+    "Java",
+    "AWS",
+    "MongoDB",
+    "JavaScript"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Immediate Requirement Software Engineer at LG Soft India",
+    "description": "LG Soft India, one of India's leading organizations, is hiring a Software Engineer for our Gurgaon operations. We offer a competitive salary package along with world-class benefits.\n\nAbout LG Soft India:\nLG Soft India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Ensure code security and follow best practices for data protection\n• Integrate third-party APIs and services\n• Participate in code reviews and contribute to technical discussions\n• Write clean, maintainable, and well-documented code\n• Write and execute unit tests and integration tests\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 10-15 years of relevant experience\n• Proficiency in Microservices\n• Proficiency in TypeScript\n• Proficiency in Python\n• Proficiency in TensorFlow\n• Proficiency in Java\n• Proficiency in AWS\n• Proficiency in MongoDB\n• Proficiency in JavaScript\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Mobile and internet reimbursement\n• International travel opportunities for senior roles\n• Competitive salary with performance-linked incentives\n• Flexible working hours\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Gurgaon, Haryana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with LG Soft India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "LG Soft India",
+      "value": "55-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "LG Soft India",
+      "sameAs": "https://www.google.com/search?q=LG%20Soft%20India",
+      "logo": "https://logo.clearbit.com/lgsoftindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "LG Soft India Office",
+        "addressLocality": "Gurgaon",
+        "addressRegion": "Haryana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "Microservices, TypeScript, Python, TensorFlow, Java, AWS, MongoDB, JavaScript",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Work with agile methodologies including daily stand-ups and sprint planning. Ensure code security and follow best practices for data protection. Integrate third-party APIs and services. Participate in code reviews and contribute to technical discussions. Write clean, maintainable, and well-documented code. Write and execute unit tests and integration tests",
+    "benefits": "Annual paid leaves and casual leaves. Mobile and internet reimbursement. International travel opportunities for senior roles. Competitive salary with performance-linked incentives. Flexible working hours. Employee stock options (ESOPs) for eligible roles",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Mobile and internet reimbursement, International travel opportunities for senior roles, Competitive salary with performance-linked incentives, Flexible working hours, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "LG Soft India, one of India's leading organizations, is hiring a Software Engineer for our Gurgaon operations. We offer a competitive salary package along with ",
+    "keywords": "Software Engineer, LG Soft India, jobs in Gurgaon, Haryana jobs, technology jobs India, Microservices, TypeScript, Python, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:19:01.245Z",
+  "page": 13
+}

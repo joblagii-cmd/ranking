@@ -1,0 +1,93 @@
+{
+  "slug": "lenovo-india-backend-developer-gurgaon-2026-05-25-3",
+  "title": "Backend Developer Vacancy at Lenovo India - 2026 Batch",
+  "company": "Lenovo India",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Gurgaon",
+    "state": "Haryana",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "TensorFlow",
+    "Machine Learning",
+    "Kubernetes",
+    "Docker",
+    "REST APIs",
+    "SQL",
+    "AWS",
+    "Node.js"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Lenovo India - 2026 Batch",
+    "description": "Lenovo India, one of India's leading organizations, is hiring a Backend Developer for our Gurgaon operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Lenovo India:\nLenovo India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Participate in code reviews and contribute to technical discussions\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Design, develop and maintain scalable software applications\n• Write and execute unit tests and integration tests\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 6-10 years of relevant experience\n• Proficiency in TensorFlow\n• Proficiency in Machine Learning\n• Proficiency in Kubernetes\n• Proficiency in Docker\n• Proficiency in REST APIs\n• Proficiency in SQL\n• Proficiency in AWS\n• Proficiency in Node.js\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Meal coupons and food allowance\n• Transportation and conveyance allowance\n• Work-from-home flexibility\n• Recognition and rewards programs\n• Referral bonus program\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Gurgaon, Haryana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Lenovo India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Lenovo India",
+      "value": "53-3-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Lenovo India",
+      "sameAs": "https://www.google.com/search?q=Lenovo%20India",
+      "logo": "https://logo.clearbit.com/lenovoindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Lenovo India Office",
+        "addressLocality": "Gurgaon",
+        "addressRegion": "Haryana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "TensorFlow, Machine Learning, Kubernetes, Docker, REST APIs, SQL, AWS, Node.js",
+    "responsibilities": "Mentor junior developers and conduct knowledge-sharing sessions. Work with agile methodologies including daily stand-ups and sprint planning. Participate in code reviews and contribute to technical discussions. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Troubleshoot, debug, and resolve software defects and performance issues. Design, develop and maintain scalable software applications. Write and execute unit tests and integration tests",
+    "benefits": "Competitive salary with performance-linked incentives. Meal coupons and food allowance. Transportation and conveyance allowance. Work-from-home flexibility. Recognition and rewards programs. Referral bonus program",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Meal coupons and food allowance, Transportation and conveyance allowance, Work-from-home flexibility, Recognition and rewards programs, Referral bonus program"
+  },
+  "meta": {
+    "description": "Lenovo India, one of India's leading organizations, is hiring a Backend Developer for our Gurgaon operations. We offer a competitive salary package along with w",
+    "keywords": "Backend Developer, Lenovo India, jobs in Gurgaon, Haryana jobs, technology jobs India, TensorFlow, Machine Learning, Kubernetes, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:19:01.244Z",
+  "page": 13
+}
