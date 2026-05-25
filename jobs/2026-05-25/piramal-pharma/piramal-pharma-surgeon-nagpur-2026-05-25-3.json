@@ -1,0 +1,93 @@
+{
+  "slug": "piramal-pharma-surgeon-nagpur-2026-05-25-3",
+  "title": "Surgeon Vacancy at Piramal Pharma - 2026 Batch",
+  "company": "Piramal Pharma",
+  "industry": "healthcare",
+  "role": "Surgeon",
+  "location": {
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "HIPAA Compliance",
+    "Surgical Procedures",
+    "Infection Control",
+    "Medical Ethics",
+    "Medical Terminology",
+    "NABH Standards",
+    "BLS/ACLS",
+    "Medical Coding"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Surgeon Vacancy at Piramal Pharma - 2026 Batch",
+    "description": "Are you a skilled Surgeon looking for your next big career move? Piramal Pharma in Nagpur offers you the perfect platform to grow professionally and personally.\n\nAbout Piramal Pharma:\nPiramal Pharma is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Attend continuing medical education programs and training\n• Ensure patient privacy and maintain confidentiality\n• Conduct routine health assessments and screenings\n• Educate patients and families on health management and disease prevention\n• Administer medications and treatments as prescribed\n• Maintain accurate clinical documentation in electronic health records\n• Coordinate with multidisciplinary teams for comprehensive patient management\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 0-1 years of relevant experience\n• Proficiency in HIPAA Compliance\n• Proficiency in Surgical Procedures\n• Proficiency in Infection Control\n• Proficiency in Medical Ethics\n• Proficiency in Medical Terminology\n• Proficiency in NABH Standards\n• Proficiency in BLS/ACLS\n• Proficiency in Medical Coding\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Maternity and paternity leave\n• Work-from-home flexibility\n• Learning & development budget\n• Provident Fund and Gratuity as per company policy\n• Referral bonus program\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Nagpur, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Piramal Pharma!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Piramal Pharma",
+      "value": "247-3-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Piramal Pharma",
+      "sameAs": "https://www.google.com/search?q=Piramal%20Pharma",
+      "logo": "https://logo.clearbit.com/piramalpharma.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Piramal Pharma Office",
+        "addressLocality": "Nagpur",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "HIPAA Compliance, Surgical Procedures, Infection Control, Medical Ethics, Medical Terminology, NABH Standards, BLS/ACLS, Medical Coding",
+    "responsibilities": "Attend continuing medical education programs and training. Ensure patient privacy and maintain confidentiality. Conduct routine health assessments and screenings. Educate patients and families on health management and disease prevention. Administer medications and treatments as prescribed. Maintain accurate clinical documentation in electronic health records. Coordinate with multidisciplinary teams for comprehensive patient management",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Maternity and paternity leave. Work-from-home flexibility. Learning & development budget. Provident Fund and Gratuity as per company policy. Referral bonus program",
+    "industry": "healthcare",
+    "occupationalCategory": "Surgeon",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Maternity and paternity leave, Work-from-home flexibility, Learning & development budget, Provident Fund and Gratuity as per company policy, Referral bonus program"
+  },
+  "meta": {
+    "description": "Are you a skilled Surgeon looking for your next big career move? Piramal Pharma in Nagpur offers you the perfect platform to grow professionally and personally.",
+    "keywords": "Surgeon, Piramal Pharma, jobs in Nagpur, Maharashtra jobs, healthcare jobs India, HIPAA Compliance, Surgical Procedures, Infection Control, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:25:40.493Z",
+  "page": 61
+}
