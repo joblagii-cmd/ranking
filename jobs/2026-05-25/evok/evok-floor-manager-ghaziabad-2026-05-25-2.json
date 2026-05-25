@@ -1,0 +1,94 @@
+{
+  "slug": "evok-floor-manager-ghaziabad-2026-05-25-2",
+  "title": "Evok is Hiring: Floor Manager (Entry-Level)",
+  "company": "Evok",
+  "industry": "retail",
+  "role": "Floor Manager",
+  "location": {
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Supply Chain",
+    "Retail Operations",
+    "Customer Service",
+    "Loss Prevention",
+    "Visual Merchandising",
+    "Retail Analytics",
+    "Loyalty Programs",
+    "Planogram"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Evok is Hiring: Floor Manager (Entry-Level)",
+    "description": "We at Evok are looking for an experienced Floor Manager based out of Ghaziabad. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout Evok:\nEvok is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Conduct regular stock audits and prevent pilferage\n• Ensure visual merchandising standards are maintained at all times\n• Monitor inventory levels and coordinate replenishment activities\n• Ensure compliance with company policies and retail regulations\n• Assist in recruiting, onboarding, and performance management of staff\n• Manage store operations to ensure smooth daily functioning\n• Handle customer queries, complaints, and escalations effectively\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 1-3 years of relevant experience\n• Proficiency in Supply Chain\n• Proficiency in Retail Operations\n• Proficiency in Customer Service\n• Proficiency in Loss Prevention\n• Proficiency in Visual Merchandising\n• Proficiency in Retail Analytics\n• Proficiency in Loyalty Programs\n• Proficiency in Planogram\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Life and accident insurance\n• Annual paid leaves and casual leaves\n• Competitive salary with performance-linked incentives\n• Recognition and rewards programs\n• Annual performance appraisal\n• Flexible working hours\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Ghaziabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Evok!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Evok",
+      "value": "678-2-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Evok",
+      "sameAs": "https://www.google.com/search?q=Evok",
+      "logo": "https://logo.clearbit.com/evok.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Evok Office",
+        "addressLocality": "Ghaziabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "Supply Chain, Retail Operations, Customer Service, Loss Prevention, Visual Merchandising, Retail Analytics, Loyalty Programs, Planogram",
+    "responsibilities": "Conduct regular stock audits and prevent pilferage. Ensure visual merchandising standards are maintained at all times. Monitor inventory levels and coordinate replenishment activities. Ensure compliance with company policies and retail regulations. Assist in recruiting, onboarding, and performance management of staff. Manage store operations to ensure smooth daily functioning. Handle customer queries, complaints, and escalations effectively",
+    "benefits": "Life and accident insurance. Annual paid leaves and casual leaves. Competitive salary with performance-linked incentives. Recognition and rewards programs. Annual performance appraisal. Flexible working hours",
+    "industry": "retail",
+    "occupationalCategory": "Floor Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Annual paid leaves and casual leaves, Competitive salary with performance-linked incentives, Recognition and rewards programs, Annual performance appraisal, Flexible working hours"
+  },
+  "meta": {
+    "description": "We at Evok are looking for an experienced Floor Manager based out of Ghaziabad. If you are a result-oriented professional with a passion for excellence, we want",
+    "keywords": "Floor Manager, Evok, jobs in Ghaziabad, Uttar Pradesh jobs, retail jobs India, Supply Chain, Retail Operations, Customer Service, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:40:11.151Z",
+  "page": 169
+}

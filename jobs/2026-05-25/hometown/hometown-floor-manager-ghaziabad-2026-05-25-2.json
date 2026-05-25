@@ -1,0 +1,93 @@
+{
+  "slug": "hometown-floor-manager-ghaziabad-2026-05-25-2",
+  "title": "HomeTown is Hiring: Floor Manager (Entry-Level)",
+  "company": "HomeTown",
+  "industry": "retail",
+  "role": "Floor Manager",
+  "location": {
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Visual Merchandising",
+    "Loyalty Programs",
+    "Retail Operations",
+    "KPI Management",
+    "Supply Chain",
+    "Loss Prevention",
+    "Shrinkage Control",
+    "Customer Service"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "HomeTown is Hiring: Floor Manager (Entry-Level)",
+    "description": "We at HomeTown are looking for an experienced Floor Manager based out of Ghaziabad. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout HomeTown:\nHomeTown is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Manage store operations to ensure smooth daily functioning\n• Train and motivate the sales team to deliver excellent service\n• Implement promotional activities and in-store campaigns\n• Assist in recruiting, onboarding, and performance management of staff\n• Ensure compliance with company policies and retail regulations\n• Maintain high standards of store hygiene and cleanliness\n• Manage shrinkage and reduce stock discrepancies\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 3-6 years of relevant experience\n• Proficiency in Visual Merchandising\n• Proficiency in Loyalty Programs\n• Proficiency in Retail Operations\n• Proficiency in KPI Management\n• Proficiency in Supply Chain\n• Proficiency in Loss Prevention\n• Proficiency in Shrinkage Control\n• Proficiency in Customer Service\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Company-sponsored certifications\n• Flexible working hours\n• Recognition and rewards programs\n• Provident Fund and Gratuity as per company policy\n• Annual paid leaves and casual leaves\n• Life and accident insurance\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Ghaziabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with HomeTown!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "HomeTown",
+      "value": "677-2-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "HomeTown",
+      "sameAs": "https://www.google.com/search?q=HomeTown",
+      "logo": "https://logo.clearbit.com/hometown.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "HomeTown Office",
+        "addressLocality": "Ghaziabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "Visual Merchandising, Loyalty Programs, Retail Operations, KPI Management, Supply Chain, Loss Prevention, Shrinkage Control, Customer Service",
+    "responsibilities": "Manage store operations to ensure smooth daily functioning. Train and motivate the sales team to deliver excellent service. Implement promotional activities and in-store campaigns. Assist in recruiting, onboarding, and performance management of staff. Ensure compliance with company policies and retail regulations. Maintain high standards of store hygiene and cleanliness. Manage shrinkage and reduce stock discrepancies",
+    "benefits": "Company-sponsored certifications. Flexible working hours. Recognition and rewards programs. Provident Fund and Gratuity as per company policy. Annual paid leaves and casual leaves. Life and accident insurance",
+    "industry": "retail",
+    "occupationalCategory": "Floor Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Company-sponsored certifications, Flexible working hours, Recognition and rewards programs, Provident Fund and Gratuity as per company policy, Annual paid leaves and casual leaves, Life and accident insurance"
+  },
+  "meta": {
+    "description": "We at HomeTown are looking for an experienced Floor Manager based out of Ghaziabad. If you are a result-oriented professional with a passion for excellence, we ",
+    "keywords": "Floor Manager, HomeTown, jobs in Ghaziabad, Uttar Pradesh jobs, retail jobs India, Visual Merchandising, Loyalty Programs, Retail Operations, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:40:11.151Z",
+  "page": 169
+}
