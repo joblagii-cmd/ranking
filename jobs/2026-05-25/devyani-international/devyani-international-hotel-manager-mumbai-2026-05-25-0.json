@@ -1,0 +1,93 @@
+{
+  "slug": "devyani-international-hotel-manager-mumbai-2026-05-25-0",
+  "title": "Vacancy for Hotel Manager at Devyani International",
+  "company": "Devyani International",
+  "industry": "hospitality",
+  "role": "Hotel Manager",
+  "location": {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Opera PMS",
+    "Food Safety",
+    "HACCP",
+    "Revenue Management",
+    "Sommelier Skills",
+    "PMS Systems",
+    "Customer Relations",
+    "Hotel Management"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Vacancy for Hotel Manager at Devyani International",
+    "description": "Devyani International is actively seeking a talented and motivated Hotel Manager to join our dynamic team in Mumbai. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout Devyani International:\nDevyani International is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Train and supervise front-line staff on service standards\n• Manage reservations and optimize room revenue through yield management\n• Prepare daily operating reports and present to management\n• Coordinate with travel agents and OTAs for occupancy optimization\n• Manage procurement of hotel supplies and control operating costs\n• Coordinate housekeeping and maintenance for room readiness\n• Ensure compliance with FSSAI, health, and safety regulations\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 10-15 years of relevant experience\n• Proficiency in Opera PMS\n• Proficiency in Food Safety\n• Proficiency in HACCP\n• Proficiency in Revenue Management\n• Proficiency in Sommelier Skills\n• Proficiency in PMS Systems\n• Proficiency in Customer Relations\n• Proficiency in Hotel Management\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Mobile and internet reimbursement\n• Annual performance appraisal\n• Referral bonus program\n• Comprehensive health insurance for self and family\n• Annual paid leaves and casual leaves\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Mumbai, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Devyani International!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Devyani International",
+      "value": "895-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Devyani International",
+      "sameAs": "https://www.google.com/search?q=Devyani%20International",
+      "logo": "https://logo.clearbit.com/devyaniinternational.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Devyani International Office",
+        "addressLocality": "Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "Opera PMS, Food Safety, HACCP, Revenue Management, Sommelier Skills, PMS Systems, Customer Relations, Hotel Management",
+    "responsibilities": "Train and supervise front-line staff on service standards. Manage reservations and optimize room revenue through yield management. Prepare daily operating reports and present to management. Coordinate with travel agents and OTAs for occupancy optimization. Manage procurement of hotel supplies and control operating costs. Coordinate housekeeping and maintenance for room readiness. Ensure compliance with FSSAI, health, and safety regulations",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Mobile and internet reimbursement. Annual performance appraisal. Referral bonus program. Comprehensive health insurance for self and family. Annual paid leaves and casual leaves",
+    "industry": "hospitality",
+    "occupationalCategory": "Hotel Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Mobile and internet reimbursement, Annual performance appraisal, Referral bonus program, Comprehensive health insurance for self and family, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "Devyani International is actively seeking a talented and motivated Hotel Manager to join our dynamic team in Mumbai. This is an excellent opportunity for profes",
+    "keywords": "Hotel Manager, Devyani International, jobs in Mumbai, Maharashtra jobs, hospitality jobs India, Opera PMS, Food Safety, HACCP, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:47:27.214Z",
+  "page": 223
+}
