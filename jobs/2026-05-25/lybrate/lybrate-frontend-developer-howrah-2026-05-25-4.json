@@ -1,0 +1,93 @@
+{
+  "slug": "lybrate-frontend-developer-howrah-2026-05-25-4",
+  "title": "Senior Frontend Developer at Lybrate",
+  "company": "Lybrate",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Howrah",
+    "state": "West Bengal",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Agile/Scrum",
+    "MongoDB",
+    "REST APIs",
+    "Rust",
+    "TensorFlow",
+    "React",
+    "AWS",
+    "CI/CD"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Frontend Developer at Lybrate",
+    "description": "Lybrate invites applications from qualified candidates for the position of Frontend Developer at our Howrah location. This role offers excellent career advancement prospects.\n\nAbout Lybrate:\nLybrate is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Write clean, maintainable, and well-documented code\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Ensure code security and follow best practices for data protection\n• Participate in code reviews and contribute to technical discussions\n• Participate in on-call rotation for production support\n• Integrate third-party APIs and services\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 1-3 years of relevant experience\n• Proficiency in Agile/Scrum\n• Proficiency in MongoDB\n• Proficiency in REST APIs\n• Proficiency in Rust\n• Proficiency in TensorFlow\n• Proficiency in React\n• Proficiency in AWS\n• Proficiency in CI/CD\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Mobile and internet reimbursement\n• International travel opportunities for senior roles\n• Professional development and training programs\n• Maternity and paternity leave\n• Meal coupons and food allowance\n• Annual paid leaves and casual leaves\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Howrah, West Bengal, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Lybrate!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Lybrate",
+      "value": "118-4-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Lybrate",
+      "sameAs": "https://www.google.com/search?q=Lybrate",
+      "logo": "https://logo.clearbit.com/lybrate.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Lybrate Office",
+        "addressLocality": "Howrah",
+        "addressRegion": "West Bengal",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "Agile/Scrum, MongoDB, REST APIs, Rust, TensorFlow, React, AWS, CI/CD",
+    "responsibilities": "Work with agile methodologies including daily stand-ups and sprint planning. Write clean, maintainable, and well-documented code. Mentor junior developers and conduct knowledge-sharing sessions. Ensure code security and follow best practices for data protection. Participate in code reviews and contribute to technical discussions. Participate in on-call rotation for production support. Integrate third-party APIs and services",
+    "benefits": "Mobile and internet reimbursement. International travel opportunities for senior roles. Professional development and training programs. Maternity and paternity leave. Meal coupons and food allowance. Annual paid leaves and casual leaves",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Mobile and internet reimbursement, International travel opportunities for senior roles, Professional development and training programs, Maternity and paternity leave, Meal coupons and food allowance, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "Lybrate invites applications from qualified candidates for the position of Frontend Developer at our Howrah location. This role offers excellent career advancem",
+    "keywords": "Frontend Developer, Lybrate, jobs in Howrah, West Bengal jobs, technology jobs India, Agile/Scrum, MongoDB, REST APIs, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:21:16.051Z",
+  "page": 29
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "lybrate-senior-software-engineer-allahabad-2026-05-25-1",
+  "title": "Senior Software Engineer - Lybrate - Top MNC",
+  "company": "Lybrate",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Allahabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Kubernetes",
+    "MongoDB",
+    "Git",
+    "Microservices",
+    "CI/CD",
+    "Node.js",
+    "Rust",
+    "JavaScript"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Lybrate - Top MNC",
+    "description": "Lybrate invites applications from qualified candidates for the position of Senior Software Engineer at our Allahabad location. This role offers excellent career advancement prospects.\n\nAbout Lybrate:\nLybrate is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in on-call rotation for production support\n• Design, develop and maintain scalable software applications\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Write and execute unit tests and integration tests\n• Optimize application performance and ensure high availability\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Write clean, maintainable, and well-documented code\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 10-15 years of relevant experience\n• Proficiency in Kubernetes\n• Proficiency in MongoDB\n• Proficiency in Git\n• Proficiency in Microservices\n• Proficiency in CI/CD\n• Proficiency in Node.js\n• Proficiency in Rust\n• Proficiency in JavaScript\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Life and accident insurance\n• Flexible working hours\n• Competitive salary with performance-linked incentives\n• Referral bonus program\n• Learning & development budget\n• Professional development and training programs\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Allahabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Lybrate!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Lybrate",
+      "value": "118-1-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Lybrate",
+      "sameAs": "https://www.google.com/search?q=Lybrate",
+      "logo": "https://logo.clearbit.com/lybrate.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Lybrate Office",
+        "addressLocality": "Allahabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "Kubernetes, MongoDB, Git, Microservices, CI/CD, Node.js, Rust, JavaScript",
+    "responsibilities": "Participate in on-call rotation for production support. Design, develop and maintain scalable software applications. Troubleshoot, debug, and resolve software defects and performance issues. Write and execute unit tests and integration tests. Optimize application performance and ensure high availability. Mentor junior developers and conduct knowledge-sharing sessions. Write clean, maintainable, and well-documented code",
+    "benefits": "Life and accident insurance. Flexible working hours. Competitive salary with performance-linked incentives. Referral bonus program. Learning & development budget. Professional development and training programs",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Flexible working hours, Competitive salary with performance-linked incentives, Referral bonus program, Learning & development budget, Professional development and training programs"
+  },
+  "meta": {
+    "description": "Lybrate invites applications from qualified candidates for the position of Senior Software Engineer at our Allahabad location. This role offers excellent career",
+    "keywords": "Senior Software Engineer, Lybrate, jobs in Allahabad, Uttar Pradesh jobs, technology jobs India, Kubernetes, MongoDB, Git, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:21:16.051Z",
+  "page": 29
+}
