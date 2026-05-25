@@ -1,0 +1,94 @@
+{
+  "slug": "credai-sales-manager-jaipur-2026-05-25-3",
+  "title": "Sales Manager Vacancy at CREDAI - 2026 Batch",
+  "company": "CREDAI",
+  "industry": "realestate",
+  "role": "Sales Manager",
+  "location": {
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Due Diligence",
+    "Project Management",
+    "Contract Management",
+    "GIS Tools",
+    "Property Management",
+    "Market Research",
+    "Property Valuation",
+    "Real Estate Law"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Sales Manager Vacancy at CREDAI - 2026 Batch",
+    "description": "CREDAI, one of India's leading organizations, is hiring a Sales Manager for our Jaipur operations. We offer a competitive salary package along with world-class benefits.\n\nAbout CREDAI:\nCREDAI is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with architects, contractors, and project teams\n• Negotiate pricing, terms, and conditions on behalf of clients\n• Build relationships with channel partners and brokers\n• Maintain a pipeline of qualified leads using CRM software\n• Prepare presentations and proposals for institutional clients\n• Manage relationships with existing customers post-purchase\n• Conduct land acquisition due diligence and feasibility studies\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 1-3 years of relevant experience\n• Proficiency in Due Diligence\n• Proficiency in Project Management\n• Proficiency in Contract Management\n• Proficiency in GIS Tools\n• Proficiency in Property Management\n• Proficiency in Market Research\n• Proficiency in Property Valuation\n• Proficiency in Real Estate Law\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Annual performance appraisal\n• Employee stock options (ESOPs) for eligible roles\n• Recognition and rewards programs\n• Comprehensive health insurance for self and family\n• Company-sponsored certifications\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Jaipur, Rajasthan, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with CREDAI!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "CREDAI",
+      "value": "741-3-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "CREDAI",
+      "sameAs": "https://www.google.com/search?q=CREDAI",
+      "logo": "https://logo.clearbit.com/credai.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "CREDAI Office",
+        "addressLocality": "Jaipur",
+        "addressRegion": "Rajasthan",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "Due Diligence, Project Management, Contract Management, GIS Tools, Property Management, Market Research, Property Valuation, Real Estate Law",
+    "responsibilities": "Coordinate with architects, contractors, and project teams. Negotiate pricing, terms, and conditions on behalf of clients. Build relationships with channel partners and brokers. Maintain a pipeline of qualified leads using CRM software. Prepare presentations and proposals for institutional clients. Manage relationships with existing customers post-purchase. Conduct land acquisition due diligence and feasibility studies",
+    "benefits": "Provident Fund and Gratuity as per company policy. Annual performance appraisal. Employee stock options (ESOPs) for eligible roles. Recognition and rewards programs. Comprehensive health insurance for self and family. Company-sponsored certifications",
+    "industry": "realestate",
+    "occupationalCategory": "Sales Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Annual performance appraisal, Employee stock options (ESOPs) for eligible roles, Recognition and rewards programs, Comprehensive health insurance for self and family, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "CREDAI, one of India's leading organizations, is hiring a Sales Manager for our Jaipur operations. We offer a competitive salary package along with world-class ",
+    "keywords": "Sales Manager, CREDAI, jobs in Jaipur, Rajasthan jobs, realestate jobs India, Due Diligence, Project Management, Contract Management, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:42:19.696Z",
+  "page": 185
+}
