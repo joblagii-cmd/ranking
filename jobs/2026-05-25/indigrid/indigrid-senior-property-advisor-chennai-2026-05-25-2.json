@@ -1,0 +1,94 @@
+{
+  "slug": "indigrid-senior-property-advisor-chennai-2026-05-25-2",
+  "title": "IndiGrid is Hiring: Senior Property Advisor (Junior)",
+  "company": "IndiGrid",
+  "industry": "realestate",
+  "role": "Senior Property Advisor",
+  "location": {
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "AutoCAD",
+    "Contract Management",
+    "Market Research",
+    "Lease Administration",
+    "MS Office",
+    "Sales Techniques",
+    "Negotiation Skills",
+    "Property Management"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "IndiGrid is Hiring: Senior Property Advisor (Junior)",
+    "description": "Are you a skilled Senior Property Advisor looking for your next big career move? IndiGrid in Chennai offers you the perfect platform to grow professionally and personally.\n\nAbout IndiGrid:\nIndiGrid is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Maintain a pipeline of qualified leads using CRM software\n• Build relationships with channel partners and brokers\n• Conduct land acquisition due diligence and feasibility studies\n• Conduct market research and provide competitive analysis\n• Manage relationships with existing customers post-purchase\n• Negotiate pricing, terms, and conditions on behalf of clients\n• Source and close property deals with prospective buyers and investors\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 3-6 years of relevant experience\n• Proficiency in AutoCAD\n• Proficiency in Contract Management\n• Proficiency in Market Research\n• Proficiency in Lease Administration\n• Proficiency in MS Office\n• Proficiency in Sales Techniques\n• Proficiency in Negotiation Skills\n• Proficiency in Property Management\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Maternity and paternity leave\n• Flexible working hours\n• Professional development and training programs\n• Annual paid leaves and casual leaves\n• Referral bonus program\n• Learning & development budget\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Chennai, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with IndiGrid!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "IndiGrid",
+      "value": "735-2-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "IndiGrid",
+      "sameAs": "https://www.google.com/search?q=IndiGrid",
+      "logo": "https://logo.clearbit.com/indigrid.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "IndiGrid Office",
+        "addressLocality": "Chennai",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "AutoCAD, Contract Management, Market Research, Lease Administration, MS Office, Sales Techniques, Negotiation Skills, Property Management",
+    "responsibilities": "Maintain a pipeline of qualified leads using CRM software. Build relationships with channel partners and brokers. Conduct land acquisition due diligence and feasibility studies. Conduct market research and provide competitive analysis. Manage relationships with existing customers post-purchase. Negotiate pricing, terms, and conditions on behalf of clients. Source and close property deals with prospective buyers and investors",
+    "benefits": "Maternity and paternity leave. Flexible working hours. Professional development and training programs. Annual paid leaves and casual leaves. Referral bonus program. Learning & development budget",
+    "industry": "realestate",
+    "occupationalCategory": "Senior Property Advisor",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Maternity and paternity leave, Flexible working hours, Professional development and training programs, Annual paid leaves and casual leaves, Referral bonus program, Learning & development budget"
+  },
+  "meta": {
+    "description": "Are you a skilled Senior Property Advisor looking for your next big career move? IndiGrid in Chennai offers you the perfect platform to grow professionally and ",
+    "keywords": "Senior Property Advisor, IndiGrid, jobs in Chennai, Tamil Nadu jobs, realestate jobs India, AutoCAD, Contract Management, Market Research, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:42:03.653Z",
+  "page": 183
+}
