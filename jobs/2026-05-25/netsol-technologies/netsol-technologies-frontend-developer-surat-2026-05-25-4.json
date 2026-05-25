@@ -1,0 +1,93 @@
+{
+  "slug": "netsol-technologies-frontend-developer-surat-2026-05-25-4",
+  "title": "Mid-Level Frontend Developer at Netsol Technologies",
+  "company": "Netsol Technologies",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Surat",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "CI/CD",
+    "Agile/Scrum",
+    "Rust",
+    "Java",
+    "MongoDB",
+    "Docker",
+    "React",
+    "Kubernetes"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Frontend Developer at Netsol Technologies",
+    "description": "Join the Netsol Technologies family as a Frontend Developer in Surat. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Netsol Technologies:\nNetsol Technologies is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in on-call rotation for production support\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Contribute to system architecture and technical design decisions\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Design, develop and maintain scalable software applications\n• Integrate third-party APIs and services\n• Write and execute unit tests and integration tests\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 0-1 years of relevant experience\n• Proficiency in CI/CD\n• Proficiency in Agile/Scrum\n• Proficiency in Rust\n• Proficiency in Java\n• Proficiency in MongoDB\n• Proficiency in Docker\n• Proficiency in React\n• Proficiency in Kubernetes\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Competitive salary with performance-linked incentives\n• Learning & development budget\n• Comprehensive health insurance for self and family\n• Modern office with recreational facilities\n• Life and accident insurance\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Surat, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Netsol Technologies!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Netsol Technologies",
+      "value": "76-4-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Netsol Technologies",
+      "sameAs": "https://www.google.com/search?q=Netsol%20Technologies",
+      "logo": "https://logo.clearbit.com/netsoltechnologies.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Netsol Technologies Office",
+        "addressLocality": "Surat",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "CI/CD, Agile/Scrum, Rust, Java, MongoDB, Docker, React, Kubernetes",
+    "responsibilities": "Participate in on-call rotation for production support. Troubleshoot, debug, and resolve software defects and performance issues. Contribute to system architecture and technical design decisions. Mentor junior developers and conduct knowledge-sharing sessions. Design, develop and maintain scalable software applications. Integrate third-party APIs and services. Write and execute unit tests and integration tests",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Competitive salary with performance-linked incentives. Learning & development budget. Comprehensive health insurance for self and family. Modern office with recreational facilities. Life and accident insurance",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Competitive salary with performance-linked incentives, Learning & development budget, Comprehensive health insurance for self and family, Modern office with recreational facilities, Life and accident insurance"
+  },
+  "meta": {
+    "description": "Join the Netsol Technologies family as a Frontend Developer in Surat. We believe in empowering our employees with the tools, training, and environment they need",
+    "keywords": "Frontend Developer, Netsol Technologies, jobs in Surat, Gujarat jobs, technology jobs India, CI/CD, Agile/Scrum, Rust, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:19:43.017Z",
+  "page": 18
+}
