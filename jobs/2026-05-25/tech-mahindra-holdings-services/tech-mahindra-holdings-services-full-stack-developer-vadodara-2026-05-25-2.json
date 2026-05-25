@@ -1,0 +1,93 @@
+{
+  "slug": "tech-mahindra-holdings-services-full-stack-developer-vadodara-2026-05-25-2",
+  "title": "Tech Mahindra Holdings Services is Hiring: Full Stack Developer (Lead)",
+  "company": "Tech Mahindra Holdings Services",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "MongoDB",
+    "AWS",
+    "REST APIs",
+    "Docker",
+    "SQL",
+    "Java",
+    "Git",
+    "Python"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Tech Mahindra Holdings Services is Hiring: Full Stack Developer (Lead)",
+    "description": "Tech Mahindra Holdings Services has an exciting opening for a Full Stack Developer at our Vadodara office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Tech Mahindra Holdings Services:\nTech Mahindra Holdings Services is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Participate in code reviews and contribute to technical discussions\n• Contribute to system architecture and technical design decisions\n• Ensure code security and follow best practices for data protection\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Participate in on-call rotation for production support\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 10-15 years of relevant experience\n• Proficiency in MongoDB\n• Proficiency in AWS\n• Proficiency in REST APIs\n• Proficiency in Docker\n• Proficiency in SQL\n• Proficiency in Java\n• Proficiency in Git\n• Proficiency in Python\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Flexible working hours\n• Professional development and training programs\n• International travel opportunities for senior roles\n• Company-sponsored certifications\n• Maternity and paternity leave\n• Annual paid leaves and casual leaves\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Vadodara, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Tech Mahindra Holdings Services!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Tech Mahindra Holdings Services",
+      "value": "925-2-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Tech Mahindra Holdings Services",
+      "sameAs": "https://www.google.com/search?q=Tech%20Mahindra%20Holdings%20Services",
+      "logo": "https://logo.clearbit.com/techmahindraholdingsservices.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Tech Mahindra Holdings Services Office",
+        "addressLocality": "Vadodara",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "MongoDB, AWS, REST APIs, Docker, SQL, Java, Git, Python",
+    "responsibilities": "Mentor junior developers and conduct knowledge-sharing sessions. Participate in code reviews and contribute to technical discussions. Contribute to system architecture and technical design decisions. Ensure code security and follow best practices for data protection. Troubleshoot, debug, and resolve software defects and performance issues. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Participate in on-call rotation for production support",
+    "benefits": "Flexible working hours. Professional development and training programs. International travel opportunities for senior roles. Company-sponsored certifications. Maternity and paternity leave. Annual paid leaves and casual leaves",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, Professional development and training programs, International travel opportunities for senior roles, Company-sponsored certifications, Maternity and paternity leave, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "Tech Mahindra Holdings Services has an exciting opening for a Full Stack Developer at our Vadodara office. Join a company that values innovation, collaboration,",
+    "keywords": "Full Stack Developer, Tech Mahindra Holdings Services, jobs in Vadodara, Gujarat jobs, technology jobs India, MongoDB, AWS, REST APIs, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:48:31.525Z",
+  "page": 231
+}

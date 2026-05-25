@@ -1,0 +1,93 @@
+{
+  "slug": "ibm-india-international-enterprises-senior-software-engineer-ghaziabad-2026-05-25-1",
+  "title": "Senior Software Engineer - IBM India International Enterprises - Attractive Package",
+  "company": "IBM India International Enterprises",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "CI/CD",
+    "Agile/Scrum",
+    "REST APIs",
+    "Go",
+    "SQL",
+    "Java",
+    "Machine Learning",
+    "Kubernetes"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - IBM India International Enterprises - Attractive Package",
+    "description": "IBM India International Enterprises has an exciting opening for a Senior Software Engineer at our Ghaziabad office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout IBM India International Enterprises:\nIBM India International Enterprises is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Write clean, maintainable, and well-documented code\n• Implement new features based on product requirements\n• Optimize application performance and ensure high availability\n• Collaborate with cross-functional teams including product, design, and QA\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Work with agile methodologies including daily stand-ups and sprint planning\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 3-6 years of relevant experience\n• Proficiency in CI/CD\n• Proficiency in Agile/Scrum\n• Proficiency in REST APIs\n• Proficiency in Go\n• Proficiency in SQL\n• Proficiency in Java\n• Proficiency in Machine Learning\n• Proficiency in Kubernetes\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• International travel opportunities for senior roles\n• Company-sponsored certifications\n• Recognition and rewards programs\n• Provident Fund and Gratuity as per company policy\n• Transportation and conveyance allowance\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Ghaziabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with IBM India International Enterprises!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "IBM India International Enterprises",
+      "value": "928-1-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "IBM India International Enterprises",
+      "sameAs": "https://www.google.com/search?q=IBM%20India%20International%20Enterprises",
+      "logo": "https://logo.clearbit.com/ibmindiainternationalenterprises.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "IBM India International Enterprises Office",
+        "addressLocality": "Ghaziabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "CI/CD, Agile/Scrum, REST APIs, Go, SQL, Java, Machine Learning, Kubernetes",
+    "responsibilities": "Design, develop and maintain scalable software applications. Write clean, maintainable, and well-documented code. Implement new features based on product requirements. Optimize application performance and ensure high availability. Collaborate with cross-functional teams including product, design, and QA. Mentor junior developers and conduct knowledge-sharing sessions. Work with agile methodologies including daily stand-ups and sprint planning",
+    "benefits": "Comprehensive health insurance for self and family. International travel opportunities for senior roles. Company-sponsored certifications. Recognition and rewards programs. Provident Fund and Gratuity as per company policy. Transportation and conveyance allowance",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, International travel opportunities for senior roles, Company-sponsored certifications, Recognition and rewards programs, Provident Fund and Gratuity as per company policy, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "IBM India International Enterprises has an exciting opening for a Senior Software Engineer at our Ghaziabad office. Join a company that values innovation, colla",
+    "keywords": "Senior Software Engineer, IBM India International Enterprises, jobs in Ghaziabad, Uttar Pradesh jobs, technology jobs India, CI/CD, Agile/Scrum, REST APIs, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:48:31.526Z",
+  "page": 231
+}

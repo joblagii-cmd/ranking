@@ -1,0 +1,93 @@
+{
+  "slug": "cognizant-digital-technologies-software-engineer-patna-2026-05-25-0",
+  "title": "Job Opening Software Engineer at Cognizant Digital Technologies",
+  "company": "Cognizant Digital Technologies",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Patna",
+    "state": "Bihar",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "MongoDB",
+    "Node.js",
+    "TypeScript",
+    "Agile/Scrum",
+    "SQL",
+    "Rust",
+    "Git",
+    "Microservices"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Job Opening Software Engineer at Cognizant Digital Technologies",
+    "description": "We at Cognizant Digital Technologies are looking for an experienced Software Engineer based out of Patna. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout Cognizant Digital Technologies:\nCognizant Digital Technologies is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Participate in code reviews and contribute to technical discussions\n• Contribute to system architecture and technical design decisions\n• Participate in on-call rotation for production support\n• Write and execute unit tests and integration tests\n• Optimize application performance and ensure high availability\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 12-20 years of relevant experience\n• Proficiency in MongoDB\n• Proficiency in Node.js\n• Proficiency in TypeScript\n• Proficiency in Agile/Scrum\n• Proficiency in SQL\n• Proficiency in Rust\n• Proficiency in Git\n• Proficiency in Microservices\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Company-sponsored certifications\n• Transportation and conveyance allowance\n• Professional development and training programs\n• Work-from-home flexibility\n• Annual performance appraisal\n• Meal coupons and food allowance\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Patna, Bihar, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Cognizant Digital Technologies!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Cognizant Digital Technologies",
+      "value": "926-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Cognizant Digital Technologies",
+      "sameAs": "https://www.google.com/search?q=Cognizant%20Digital%20Technologies",
+      "logo": "https://logo.clearbit.com/cognizantdigitaltechnologies.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Cognizant Digital Technologies Office",
+        "addressLocality": "Patna",
+        "addressRegion": "Bihar",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "MongoDB, Node.js, TypeScript, Agile/Scrum, SQL, Rust, Git, Microservices",
+    "responsibilities": "Mentor junior developers and conduct knowledge-sharing sessions. Work with agile methodologies including daily stand-ups and sprint planning. Participate in code reviews and contribute to technical discussions. Contribute to system architecture and technical design decisions. Participate in on-call rotation for production support. Write and execute unit tests and integration tests. Optimize application performance and ensure high availability",
+    "benefits": "Company-sponsored certifications. Transportation and conveyance allowance. Professional development and training programs. Work-from-home flexibility. Annual performance appraisal. Meal coupons and food allowance",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Company-sponsored certifications, Transportation and conveyance allowance, Professional development and training programs, Work-from-home flexibility, Annual performance appraisal, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "We at Cognizant Digital Technologies are looking for an experienced Software Engineer based out of Patna. If you are a result-oriented professional with a passi",
+    "keywords": "Software Engineer, Cognizant Digital Technologies, jobs in Patna, Bihar jobs, technology jobs India, MongoDB, Node.js, TypeScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:48:31.525Z",
+  "page": 231
+}
