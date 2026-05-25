@@ -1,0 +1,93 @@
+{
+  "slug": "capital-float-backend-developer-ghaziabad-2026-05-25-3",
+  "title": "Backend Developer Vacancy at Capital Float - 2026 Batch",
+  "company": "Capital Float",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Kubernetes",
+    "JavaScript",
+    "CI/CD",
+    "Python",
+    "Rust",
+    "TypeScript",
+    "MongoDB",
+    "React"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Capital Float - 2026 Batch",
+    "description": "Join the Capital Float family as a Backend Developer in Ghaziabad. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Capital Float:\nCapital Float is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Write clean, maintainable, and well-documented code\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Participate in on-call rotation for production support\n• Participate in code reviews and contribute to technical discussions\n• Collaborate with cross-functional teams including product, design, and QA\n• Troubleshoot, debug, and resolve software defects and performance issues\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 12-20 years of relevant experience\n• Proficiency in Kubernetes\n• Proficiency in JavaScript\n• Proficiency in CI/CD\n• Proficiency in Python\n• Proficiency in Rust\n• Proficiency in TypeScript\n• Proficiency in MongoDB\n• Proficiency in React\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Learning & development budget\n• Meal coupons and food allowance\n• Annual performance appraisal\n• Professional development and training programs\n• International travel opportunities for senior roles\n• Referral bonus program\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Ghaziabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Capital Float!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Capital Float",
+      "value": "94-3-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Capital Float",
+      "sameAs": "https://www.google.com/search?q=Capital%20Float",
+      "logo": "https://logo.clearbit.com/capitalfloat.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Capital Float Office",
+        "addressLocality": "Ghaziabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "Kubernetes, JavaScript, CI/CD, Python, Rust, TypeScript, MongoDB, React",
+    "responsibilities": "Design, develop and maintain scalable software applications. Write clean, maintainable, and well-documented code. Mentor junior developers and conduct knowledge-sharing sessions. Participate in on-call rotation for production support. Participate in code reviews and contribute to technical discussions. Collaborate with cross-functional teams including product, design, and QA. Troubleshoot, debug, and resolve software defects and performance issues",
+    "benefits": "Learning & development budget. Meal coupons and food allowance. Annual performance appraisal. Professional development and training programs. International travel opportunities for senior roles. Referral bonus program",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Learning & development budget, Meal coupons and food allowance, Annual performance appraisal, Professional development and training programs, International travel opportunities for senior roles, Referral bonus program"
+  },
+  "meta": {
+    "description": "Join the Capital Float family as a Backend Developer in Ghaziabad. We believe in empowering our employees with the tools, training, and environment they need to",
+    "keywords": "Backend Developer, Capital Float, jobs in Ghaziabad, Uttar Pradesh jobs, technology jobs India, Kubernetes, JavaScript, CI/CD, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:20:25.214Z",
+  "page": 23
+}

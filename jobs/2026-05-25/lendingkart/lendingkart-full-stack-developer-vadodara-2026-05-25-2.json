@@ -1,0 +1,93 @@
+{
+  "slug": "lendingkart-full-stack-developer-vadodara-2026-05-25-2",
+  "title": "Lendingkart is Hiring: Full Stack Developer (Senior)",
+  "company": "Lendingkart",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "MongoDB",
+    "CI/CD",
+    "TypeScript",
+    "Go",
+    "JavaScript",
+    "Kubernetes",
+    "Java",
+    "Python"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Lendingkart is Hiring: Full Stack Developer (Senior)",
+    "description": "Join the Lendingkart family as a Full Stack Developer in Vadodara. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Lendingkart:\nLendingkart is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Write clean, maintainable, and well-documented code\n• Participate in on-call rotation for production support\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Optimize application performance and ensure high availability\n• Write and execute unit tests and integration tests\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 1-3 years of relevant experience\n• Proficiency in MongoDB\n• Proficiency in CI/CD\n• Proficiency in TypeScript\n• Proficiency in Go\n• Proficiency in JavaScript\n• Proficiency in Kubernetes\n• Proficiency in Java\n• Proficiency in Python\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Annual paid leaves and casual leaves\n• Transportation and conveyance allowance\n• Flexible working hours\n• Provident Fund and Gratuity as per company policy\n• Company-sponsored certifications\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Vadodara, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Lendingkart!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Lendingkart",
+      "value": "93-2-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Lendingkart",
+      "sameAs": "https://www.google.com/search?q=Lendingkart",
+      "logo": "https://logo.clearbit.com/lendingkart.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Lendingkart Office",
+        "addressLocality": "Vadodara",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "MongoDB, CI/CD, TypeScript, Go, JavaScript, Kubernetes, Java, Python",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Work with agile methodologies including daily stand-ups and sprint planning. Write clean, maintainable, and well-documented code. Participate in on-call rotation for production support. Troubleshoot, debug, and resolve software defects and performance issues. Optimize application performance and ensure high availability. Write and execute unit tests and integration tests",
+    "benefits": "Competitive salary with performance-linked incentives. Annual paid leaves and casual leaves. Transportation and conveyance allowance. Flexible working hours. Provident Fund and Gratuity as per company policy. Company-sponsored certifications",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Annual paid leaves and casual leaves, Transportation and conveyance allowance, Flexible working hours, Provident Fund and Gratuity as per company policy, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "Join the Lendingkart family as a Full Stack Developer in Vadodara. We believe in empowering our employees with the tools, training, and environment they need to",
+    "keywords": "Full Stack Developer, Lendingkart, jobs in Vadodara, Gujarat jobs, technology jobs India, MongoDB, CI/CD, TypeScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:20:25.214Z",
+  "page": 23
+}

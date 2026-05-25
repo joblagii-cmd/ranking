@@ -1,0 +1,93 @@
+{
+  "slug": "capital-float-software-engineer-vadodara-2026-05-25-0",
+  "title": "Opening for Software Engineer at Capital Float",
+  "company": "Capital Float",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "MongoDB",
+    "Python",
+    "JavaScript",
+    "TensorFlow",
+    "Kubernetes",
+    "Go",
+    "Microservices",
+    "CI/CD"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Opening for Software Engineer at Capital Float",
+    "description": "Join the Capital Float family as a Software Engineer in Vadodara. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Capital Float:\nCapital Float is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Write clean, maintainable, and well-documented code\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Contribute to system architecture and technical design decisions\n• Integrate third-party APIs and services\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Participate in code reviews and contribute to technical discussions\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 3-6 years of relevant experience\n• Proficiency in MongoDB\n• Proficiency in Python\n• Proficiency in JavaScript\n• Proficiency in TensorFlow\n• Proficiency in Kubernetes\n• Proficiency in Go\n• Proficiency in Microservices\n• Proficiency in CI/CD\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Mobile and internet reimbursement\n• Annual paid leaves and casual leaves\n• Recognition and rewards programs\n• Transportation and conveyance allowance\n• Competitive salary with performance-linked incentives\n• Learning & development budget\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Vadodara, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Capital Float!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Capital Float",
+      "value": "94-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Capital Float",
+      "sameAs": "https://www.google.com/search?q=Capital%20Float",
+      "logo": "https://logo.clearbit.com/capitalfloat.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Capital Float Office",
+        "addressLocality": "Vadodara",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "MongoDB, Python, JavaScript, TensorFlow, Kubernetes, Go, Microservices, CI/CD",
+    "responsibilities": "Design, develop and maintain scalable software applications. Write clean, maintainable, and well-documented code. Mentor junior developers and conduct knowledge-sharing sessions. Contribute to system architecture and technical design decisions. Integrate third-party APIs and services. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Participate in code reviews and contribute to technical discussions",
+    "benefits": "Mobile and internet reimbursement. Annual paid leaves and casual leaves. Recognition and rewards programs. Transportation and conveyance allowance. Competitive salary with performance-linked incentives. Learning & development budget",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Mobile and internet reimbursement, Annual paid leaves and casual leaves, Recognition and rewards programs, Transportation and conveyance allowance, Competitive salary with performance-linked incentives, Learning & development budget"
+  },
+  "meta": {
+    "description": "Join the Capital Float family as a Software Engineer in Vadodara. We believe in empowering our employees with the tools, training, and environment they need to ",
+    "keywords": "Software Engineer, Capital Float, jobs in Vadodara, Gujarat jobs, technology jobs India, MongoDB, Python, JavaScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:20:25.214Z",
+  "page": 23
+}

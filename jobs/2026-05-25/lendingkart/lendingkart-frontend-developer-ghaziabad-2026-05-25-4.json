@@ -1,0 +1,93 @@
+{
+  "slug": "lendingkart-frontend-developer-ghaziabad-2026-05-25-4",
+  "title": "Senior Frontend Developer at Lendingkart",
+  "company": "Lendingkart",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "JavaScript",
+    "Java",
+    "AWS",
+    "Rust",
+    "MongoDB",
+    "Docker",
+    "SQL",
+    "CI/CD"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Frontend Developer at Lendingkart",
+    "description": "Join the Lendingkart family as a Frontend Developer in Ghaziabad. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Lendingkart:\nLendingkart is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Implement new features based on product requirements\n• Integrate third-party APIs and services\n• Participate in on-call rotation for production support\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Collaborate with cross-functional teams including product, design, and QA\n• Design, develop and maintain scalable software applications\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 12-20 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Java\n• Proficiency in AWS\n• Proficiency in Rust\n• Proficiency in MongoDB\n• Proficiency in Docker\n• Proficiency in SQL\n• Proficiency in CI/CD\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Maternity and paternity leave\n• Transportation and conveyance allowance\n• Learning & development budget\n• Professional development and training programs\n• Recognition and rewards programs\n• Annual paid leaves and casual leaves\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Ghaziabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Lendingkart!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Lendingkart",
+      "value": "93-4-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Lendingkart",
+      "sameAs": "https://www.google.com/search?q=Lendingkart",
+      "logo": "https://logo.clearbit.com/lendingkart.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Lendingkart Office",
+        "addressLocality": "Ghaziabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "JavaScript, Java, AWS, Rust, MongoDB, Docker, SQL, CI/CD",
+    "responsibilities": "Implement new features based on product requirements. Integrate third-party APIs and services. Participate in on-call rotation for production support. Mentor junior developers and conduct knowledge-sharing sessions. Collaborate with cross-functional teams including product, design, and QA. Design, develop and maintain scalable software applications. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP",
+    "benefits": "Maternity and paternity leave. Transportation and conveyance allowance. Learning & development budget. Professional development and training programs. Recognition and rewards programs. Annual paid leaves and casual leaves",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Maternity and paternity leave, Transportation and conveyance allowance, Learning & development budget, Professional development and training programs, Recognition and rewards programs, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "Join the Lendingkart family as a Frontend Developer in Ghaziabad. We believe in empowering our employees with the tools, training, and environment they need to ",
+    "keywords": "Frontend Developer, Lendingkart, jobs in Ghaziabad, Uttar Pradesh jobs, technology jobs India, JavaScript, Java, AWS, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:20:25.214Z",
+  "page": 23
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "indifi-technologies-senior-software-engineer-ghaziabad-2026-05-25-1",
+  "title": "Senior Software Engineer - Indifi Technologies - Top MNC",
+  "company": "Indifi Technologies",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Kubernetes",
+    "CI/CD",
+    "Machine Learning",
+    "SQL",
+    "REST APIs",
+    "Rust",
+    "Microservices",
+    "TensorFlow"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Indifi Technologies - Top MNC",
+    "description": "Join the Indifi Technologies family as a Senior Software Engineer in Ghaziabad. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Indifi Technologies:\nIndifi Technologies is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Contribute to system architecture and technical design decisions\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Implement new features based on product requirements\n• Write and execute unit tests and integration tests\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 0-1 years of relevant experience\n• Proficiency in Kubernetes\n• Proficiency in CI/CD\n• Proficiency in Machine Learning\n• Proficiency in SQL\n• Proficiency in REST APIs\n• Proficiency in Rust\n• Proficiency in Microservices\n• Proficiency in TensorFlow\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Company-sponsored certifications\n• Competitive salary with performance-linked incentives\n• Modern office with recreational facilities\n• Professional development and training programs\n• Mobile and internet reimbursement\n• Annual paid leaves and casual leaves\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Ghaziabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Indifi Technologies!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Indifi Technologies",
+      "value": "95-1-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Indifi Technologies",
+      "sameAs": "https://www.google.com/search?q=Indifi%20Technologies",
+      "logo": "https://logo.clearbit.com/indifitechnologies.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Indifi Technologies Office",
+        "addressLocality": "Ghaziabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "Kubernetes, CI/CD, Machine Learning, SQL, REST APIs, Rust, Microservices, TensorFlow",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Work with agile methodologies including daily stand-ups and sprint planning. Contribute to system architecture and technical design decisions. Mentor junior developers and conduct knowledge-sharing sessions. Troubleshoot, debug, and resolve software defects and performance issues. Implement new features based on product requirements. Write and execute unit tests and integration tests",
+    "benefits": "Company-sponsored certifications. Competitive salary with performance-linked incentives. Modern office with recreational facilities. Professional development and training programs. Mobile and internet reimbursement. Annual paid leaves and casual leaves",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Company-sponsored certifications, Competitive salary with performance-linked incentives, Modern office with recreational facilities, Professional development and training programs, Mobile and internet reimbursement, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "Join the Indifi Technologies family as a Senior Software Engineer in Ghaziabad. We believe in empowering our employees with the tools, training, and environment",
+    "keywords": "Senior Software Engineer, Indifi Technologies, jobs in Ghaziabad, Uttar Pradesh jobs, technology jobs India, Kubernetes, CI/CD, Machine Learning, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:20:25.214Z",
+  "page": 23
+}

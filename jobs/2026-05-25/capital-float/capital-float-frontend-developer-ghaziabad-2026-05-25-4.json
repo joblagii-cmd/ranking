@@ -1,0 +1,93 @@
+{
+  "slug": "capital-float-frontend-developer-ghaziabad-2026-05-25-4",
+  "title": "Senior Frontend Developer at Capital Float",
+  "company": "Capital Float",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "REST APIs",
+    "Docker",
+    "CI/CD",
+    "MongoDB",
+    "Java",
+    "Kubernetes",
+    "AWS",
+    "Agile/Scrum"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Frontend Developer at Capital Float",
+    "description": "Join the Capital Float family as a Frontend Developer in Ghaziabad. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Capital Float:\nCapital Float is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in code reviews and contribute to technical discussions\n• Write and execute unit tests and integration tests\n• Optimize application performance and ensure high availability\n• Ensure code security and follow best practices for data protection\n• Participate in on-call rotation for production support\n• Write clean, maintainable, and well-documented code\n• Work with agile methodologies including daily stand-ups and sprint planning\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 10-15 years of relevant experience\n• Proficiency in REST APIs\n• Proficiency in Docker\n• Proficiency in CI/CD\n• Proficiency in MongoDB\n• Proficiency in Java\n• Proficiency in Kubernetes\n• Proficiency in AWS\n• Proficiency in Agile/Scrum\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Referral bonus program\n• Competitive salary with performance-linked incentives\n• Annual paid leaves and casual leaves\n• Mobile and internet reimbursement\n• Work-from-home flexibility\n• Modern office with recreational facilities\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Ghaziabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Capital Float!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Capital Float",
+      "value": "94-4-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Capital Float",
+      "sameAs": "https://www.google.com/search?q=Capital%20Float",
+      "logo": "https://logo.clearbit.com/capitalfloat.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Capital Float Office",
+        "addressLocality": "Ghaziabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "REST APIs, Docker, CI/CD, MongoDB, Java, Kubernetes, AWS, Agile/Scrum",
+    "responsibilities": "Participate in code reviews and contribute to technical discussions. Write and execute unit tests and integration tests. Optimize application performance and ensure high availability. Ensure code security and follow best practices for data protection. Participate in on-call rotation for production support. Write clean, maintainable, and well-documented code. Work with agile methodologies including daily stand-ups and sprint planning",
+    "benefits": "Referral bonus program. Competitive salary with performance-linked incentives. Annual paid leaves and casual leaves. Mobile and internet reimbursement. Work-from-home flexibility. Modern office with recreational facilities",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Referral bonus program, Competitive salary with performance-linked incentives, Annual paid leaves and casual leaves, Mobile and internet reimbursement, Work-from-home flexibility, Modern office with recreational facilities"
+  },
+  "meta": {
+    "description": "Join the Capital Float family as a Frontend Developer in Ghaziabad. We believe in empowering our employees with the tools, training, and environment they need t",
+    "keywords": "Frontend Developer, Capital Float, jobs in Ghaziabad, Uttar Pradesh jobs, technology jobs India, REST APIs, Docker, CI/CD, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:20:25.214Z",
+  "page": 23
+}

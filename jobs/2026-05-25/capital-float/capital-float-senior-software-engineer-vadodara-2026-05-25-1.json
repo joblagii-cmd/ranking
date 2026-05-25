@@ -1,0 +1,93 @@
+{
+  "slug": "capital-float-senior-software-engineer-vadodara-2026-05-25-1",
+  "title": "Senior Software Engineer - Capital Float - Top MNC",
+  "company": "Capital Float",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Agile/Scrum",
+    "Docker",
+    "Java",
+    "Git",
+    "Python",
+    "CI/CD",
+    "MongoDB",
+    "SQL"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Capital Float - Top MNC",
+    "description": "Join the Capital Float family as a Senior Software Engineer in Vadodara. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Capital Float:\nCapital Float is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write and execute unit tests and integration tests\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Ensure code security and follow best practices for data protection\n• Design, develop and maintain scalable software applications\n• Write clean, maintainable, and well-documented code\n• Optimize application performance and ensure high availability\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 1-3 years of relevant experience\n• Proficiency in Agile/Scrum\n• Proficiency in Docker\n• Proficiency in Java\n• Proficiency in Git\n• Proficiency in Python\n• Proficiency in CI/CD\n• Proficiency in MongoDB\n• Proficiency in SQL\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Annual paid leaves and casual leaves\n• Mobile and internet reimbursement\n• Employee stock options (ESOPs) for eligible roles\n• Flexible working hours\n• International travel opportunities for senior roles\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Vadodara, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Capital Float!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Capital Float",
+      "value": "94-1-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Capital Float",
+      "sameAs": "https://www.google.com/search?q=Capital%20Float",
+      "logo": "https://logo.clearbit.com/capitalfloat.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Capital Float Office",
+        "addressLocality": "Vadodara",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "Agile/Scrum, Docker, Java, Git, Python, CI/CD, MongoDB, SQL",
+    "responsibilities": "Write and execute unit tests and integration tests. Troubleshoot, debug, and resolve software defects and performance issues. Ensure code security and follow best practices for data protection. Design, develop and maintain scalable software applications. Write clean, maintainable, and well-documented code. Optimize application performance and ensure high availability. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP",
+    "benefits": "Work-from-home flexibility. Annual paid leaves and casual leaves. Mobile and internet reimbursement. Employee stock options (ESOPs) for eligible roles. Flexible working hours. International travel opportunities for senior roles",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Annual paid leaves and casual leaves, Mobile and internet reimbursement, Employee stock options (ESOPs) for eligible roles, Flexible working hours, International travel opportunities for senior roles"
+  },
+  "meta": {
+    "description": "Join the Capital Float family as a Senior Software Engineer in Vadodara. We believe in empowering our employees with the tools, training, and environment they n",
+    "keywords": "Senior Software Engineer, Capital Float, jobs in Vadodara, Gujarat jobs, technology jobs India, Agile/Scrum, Docker, Java, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:20:25.214Z",
+  "page": 23
+}
