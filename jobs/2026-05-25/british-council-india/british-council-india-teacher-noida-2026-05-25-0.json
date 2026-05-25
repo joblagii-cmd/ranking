@@ -1,0 +1,94 @@
+{
+  "slug": "british-council-india-teacher-noida-2026-05-25-0",
+  "title": "Job Opening Teacher at British Council India",
+  "company": "British Council India",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Student Assessment",
+    "Curriculum Development",
+    "Mentoring",
+    "Pedagogy",
+    "LMS Platforms",
+    "Research Skills",
+    "Zoom/Teams",
+    "Content Creation"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Job Opening Teacher at British Council India",
+    "description": "Join the British Council India family as a Teacher in Noida. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout British Council India:\nBritish Council India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Develop and deliver engaging lesson plans for students\n• Create curriculum-aligned learning materials and assessments\n• Collaborate with faculty on curriculum development initiatives\n• Participate in school events, workshops, and training programs\n• Conduct doubt-clearing sessions and remedial classes for weak students\n• Support students with special educational needs\n• Maintain classroom discipline and create a positive learning environment\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 6-10 years of relevant experience\n• Proficiency in Student Assessment\n• Proficiency in Curriculum Development\n• Proficiency in Mentoring\n• Proficiency in Pedagogy\n• Proficiency in LMS Platforms\n• Proficiency in Research Skills\n• Proficiency in Zoom/Teams\n• Proficiency in Content Creation\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Meal coupons and food allowance\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Referral bonus program\n• Flexible working hours\n• Professional development and training programs\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Noida, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with British Council India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "British Council India",
+      "value": "556-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "British Council India",
+      "sameAs": "https://www.google.com/search?q=British%20Council%20India",
+      "logo": "https://logo.clearbit.com/britishcouncilindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "British Council India Office",
+        "addressLocality": "Noida",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "Student Assessment, Curriculum Development, Mentoring, Pedagogy, LMS Platforms, Research Skills, Zoom/Teams, Content Creation",
+    "responsibilities": "Develop and deliver engaging lesson plans for students. Create curriculum-aligned learning materials and assessments. Collaborate with faculty on curriculum development initiatives. Participate in school events, workshops, and training programs. Conduct doubt-clearing sessions and remedial classes for weak students. Support students with special educational needs. Maintain classroom discipline and create a positive learning environment",
+    "benefits": "Meal coupons and food allowance. Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Referral bonus program. Flexible working hours. Professional development and training programs",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Meal coupons and food allowance, Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Referral bonus program, Flexible working hours, Professional development and training programs"
+  },
+  "meta": {
+    "description": "Join the British Council India family as a Teacher in Noida. We believe in empowering our employees with the tools, training, and environment they need to succe",
+    "keywords": "Teacher, British Council India, jobs in Noida, Uttar Pradesh jobs, education jobs India, Student Assessment, Curriculum Development, Mentoring, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:36:02.648Z",
+  "page": 138
+}
