@@ -1,0 +1,94 @@
+{
+  "slug": "zensar-technologies-senior-software-engineer-coimbatore-2026-05-25-1",
+  "title": "Senior Software Engineer - Zensar Technologies - Freshers Welcome",
+  "company": "Zensar Technologies",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Microservices",
+    "Machine Learning",
+    "JavaScript",
+    "REST APIs",
+    "Python",
+    "TensorFlow",
+    "AWS",
+    "Node.js"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Zensar Technologies - Freshers Welcome",
+    "description": "Zensar Technologies, one of India's leading organizations, is hiring a Senior Software Engineer for our Coimbatore operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Zensar Technologies:\nZensar Technologies is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure code security and follow best practices for data protection\n• Design, develop and maintain scalable software applications\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Write clean, maintainable, and well-documented code\n• Write and execute unit tests and integration tests\n• Participate in on-call rotation for production support\n• Participate in code reviews and contribute to technical discussions\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 6-10 years of relevant experience\n• Proficiency in Microservices\n• Proficiency in Machine Learning\n• Proficiency in JavaScript\n• Proficiency in REST APIs\n• Proficiency in Python\n• Proficiency in TensorFlow\n• Proficiency in AWS\n• Proficiency in Node.js\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Professional development and training programs\n• Life and accident insurance\n• Maternity and paternity leave\n• Flexible working hours\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Coimbatore, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Zensar Technologies!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Zensar Technologies",
+      "value": "39-1-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Zensar Technologies",
+      "sameAs": "https://www.google.com/search?q=Zensar%20Technologies",
+      "logo": "https://logo.clearbit.com/zensartechnologies.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Zensar Technologies Office",
+        "addressLocality": "Coimbatore",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Microservices, Machine Learning, JavaScript, REST APIs, Python, TensorFlow, AWS, Node.js",
+    "responsibilities": "Ensure code security and follow best practices for data protection. Design, develop and maintain scalable software applications. Work with agile methodologies including daily stand-ups and sprint planning. Write clean, maintainable, and well-documented code. Write and execute unit tests and integration tests. Participate in on-call rotation for production support. Participate in code reviews and contribute to technical discussions",
+    "benefits": "Annual paid leaves and casual leaves. Professional development and training programs. Life and accident insurance. Maternity and paternity leave. Flexible working hours. Provident Fund and Gratuity as per company policy",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Professional development and training programs, Life and accident insurance, Maternity and paternity leave, Flexible working hours, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "Zensar Technologies, one of India's leading organizations, is hiring a Senior Software Engineer for our Coimbatore operations. We offer a competitive salary pac",
+    "keywords": "Senior Software Engineer, Zensar Technologies, jobs in Coimbatore, Tamil Nadu jobs, technology jobs India, Microservices, Machine Learning, JavaScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:18:26.844Z",
+  "page": 9
+}

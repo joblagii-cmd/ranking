@@ -1,0 +1,93 @@
+{
+  "slug": "tata-elxsi-software-engineer-ranchi-2026-05-25-0",
+  "title": "Walk-in Drive Software Engineer at Tata Elxsi",
+  "company": "Tata Elxsi",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "React",
+    "TypeScript",
+    "MongoDB",
+    "Kubernetes",
+    "REST APIs",
+    "Agile/Scrum",
+    "SQL",
+    "Git"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Walk-in Drive Software Engineer at Tata Elxsi",
+    "description": "Tata Elxsi, one of India's leading organizations, is hiring a Software Engineer for our Ranchi operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Tata Elxsi:\nTata Elxsi is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Write clean, maintainable, and well-documented code\n• Design, develop and maintain scalable software applications\n• Implement new features based on product requirements\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Ensure code security and follow best practices for data protection\n• Optimize application performance and ensure high availability\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 1-3 years of relevant experience\n• Proficiency in React\n• Proficiency in TypeScript\n• Proficiency in MongoDB\n• Proficiency in Kubernetes\n• Proficiency in REST APIs\n• Proficiency in Agile/Scrum\n• Proficiency in SQL\n• Proficiency in Git\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Flexible working hours\n• International travel opportunities for senior roles\n• Annual performance appraisal\n• Professional development and training programs\n• Recognition and rewards programs\n• Life and accident insurance\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Ranchi, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Tata Elxsi!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Tata Elxsi",
+      "value": "37-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Tata Elxsi",
+      "sameAs": "https://www.google.com/search?q=Tata%20Elxsi",
+      "logo": "https://logo.clearbit.com/tataelxsi.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Tata Elxsi Office",
+        "addressLocality": "Ranchi",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "React, TypeScript, MongoDB, Kubernetes, REST APIs, Agile/Scrum, SQL, Git",
+    "responsibilities": "Work with agile methodologies including daily stand-ups and sprint planning. Write clean, maintainable, and well-documented code. Design, develop and maintain scalable software applications. Implement new features based on product requirements. Mentor junior developers and conduct knowledge-sharing sessions. Ensure code security and follow best practices for data protection. Optimize application performance and ensure high availability",
+    "benefits": "Flexible working hours. International travel opportunities for senior roles. Annual performance appraisal. Professional development and training programs. Recognition and rewards programs. Life and accident insurance",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, International travel opportunities for senior roles, Annual performance appraisal, Professional development and training programs, Recognition and rewards programs, Life and accident insurance"
+  },
+  "meta": {
+    "description": "Tata Elxsi, one of India's leading organizations, is hiring a Software Engineer for our Ranchi operations. We offer a competitive salary package along with worl",
+    "keywords": "Software Engineer, Tata Elxsi, jobs in Ranchi, Jharkhand jobs, technology jobs India, React, TypeScript, MongoDB, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:18:26.843Z",
+  "page": 9
+}
