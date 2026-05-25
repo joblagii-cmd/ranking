@@ -1,0 +1,94 @@
+{
+  "slug": "drdo-capital-india-backend-developer-lucknow-2026-05-25-3",
+  "title": "Backend Developer Vacancy at DRDO Capital India - 2026 Batch",
+  "company": "DRDO Capital India",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Machine Learning",
+    "Microservices",
+    "React",
+    "Kubernetes",
+    "Git",
+    "REST APIs",
+    "Go",
+    "Agile/Scrum"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at DRDO Capital India - 2026 Batch",
+    "description": "An exciting career opportunity awaits you at DRDO Capital India. We are on the lookout for a dedicated Backend Developer to strengthen our Lucknow-based team.\n\nAbout DRDO Capital India:\nDRDO Capital India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Design, develop and maintain scalable software applications\n• Collaborate with cross-functional teams including product, design, and QA\n• Optimize application performance and ensure high availability\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Contribute to system architecture and technical design decisions\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 10-15 years of relevant experience\n• Proficiency in Machine Learning\n• Proficiency in Microservices\n• Proficiency in React\n• Proficiency in Kubernetes\n• Proficiency in Git\n• Proficiency in REST APIs\n• Proficiency in Go\n• Proficiency in Agile/Scrum\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Life and accident insurance\n• Referral bonus program\n• Learning & development budget\n• Flexible working hours\n• Professional development and training programs\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Lucknow, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with DRDO Capital India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "DRDO Capital India",
+      "value": "993-3-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "DRDO Capital India",
+      "sameAs": "https://www.google.com/search?q=DRDO%20Capital%20India",
+      "logo": "https://logo.clearbit.com/drdocapitalindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "DRDO Capital India Office",
+        "addressLocality": "Lucknow",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "Machine Learning, Microservices, React, Kubernetes, Git, REST APIs, Go, Agile/Scrum",
+    "responsibilities": "Troubleshoot, debug, and resolve software defects and performance issues. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Design, develop and maintain scalable software applications. Collaborate with cross-functional teams including product, design, and QA. Optimize application performance and ensure high availability. Mentor junior developers and conduct knowledge-sharing sessions. Contribute to system architecture and technical design decisions",
+    "benefits": "Transportation and conveyance allowance. Life and accident insurance. Referral bonus program. Learning & development budget. Flexible working hours. Professional development and training programs",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Life and accident insurance, Referral bonus program, Learning & development budget, Flexible working hours, Professional development and training programs"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at DRDO Capital India. We are on the lookout for a dedicated Backend Developer to strengthen our Lucknow-based team.",
+    "keywords": "Backend Developer, DRDO Capital India, jobs in Lucknow, Uttar Pradesh jobs, technology jobs India, Machine Learning, Microservices, React, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:50:47.244Z",
+  "page": 248
+}

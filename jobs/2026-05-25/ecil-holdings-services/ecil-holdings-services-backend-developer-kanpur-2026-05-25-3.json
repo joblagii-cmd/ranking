@@ -1,0 +1,93 @@
+{
+  "slug": "ecil-holdings-services-backend-developer-kanpur-2026-05-25-3",
+  "title": "Backend Developer Vacancy at ECIL Holdings Services - 2026 Batch",
+  "company": "ECIL Holdings Services",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "JavaScript",
+    "Python",
+    "REST APIs",
+    "SQL",
+    "Machine Learning",
+    "Docker",
+    "Agile/Scrum",
+    "Go"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at ECIL Holdings Services - 2026 Batch",
+    "description": "An exciting career opportunity awaits you at ECIL Holdings Services. We are on the lookout for a dedicated Backend Developer to strengthen our Kanpur-based team.\n\nAbout ECIL Holdings Services:\nECIL Holdings Services is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Optimize application performance and ensure high availability\n• Design, develop and maintain scalable software applications\n• Contribute to system architecture and technical design decisions\n• Write clean, maintainable, and well-documented code\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Implement new features based on product requirements\n• Integrate third-party APIs and services\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 3-6 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Python\n• Proficiency in REST APIs\n• Proficiency in SQL\n• Proficiency in Machine Learning\n• Proficiency in Docker\n• Proficiency in Agile/Scrum\n• Proficiency in Go\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Professional development and training programs\n• Work-from-home flexibility\n• Provident Fund and Gratuity as per company policy\n• Company-sponsored certifications\n• Flexible working hours\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Kanpur, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with ECIL Holdings Services!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "ECIL Holdings Services",
+      "value": "995-3-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "ECIL Holdings Services",
+      "sameAs": "https://www.google.com/search?q=ECIL%20Holdings%20Services",
+      "logo": "https://logo.clearbit.com/ecilholdingsservices.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "ECIL Holdings Services Office",
+        "addressLocality": "Kanpur",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "JavaScript, Python, REST APIs, SQL, Machine Learning, Docker, Agile/Scrum, Go",
+    "responsibilities": "Optimize application performance and ensure high availability. Design, develop and maintain scalable software applications. Contribute to system architecture and technical design decisions. Write clean, maintainable, and well-documented code. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Implement new features based on product requirements. Integrate third-party APIs and services",
+    "benefits": "Professional development and training programs. Work-from-home flexibility. Provident Fund and Gratuity as per company policy. Company-sponsored certifications. Flexible working hours. Employee stock options (ESOPs) for eligible roles",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Work-from-home flexibility, Provident Fund and Gratuity as per company policy, Company-sponsored certifications, Flexible working hours, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at ECIL Holdings Services. We are on the lookout for a dedicated Backend Developer to strengthen our Kanpur-based team",
+    "keywords": "Backend Developer, ECIL Holdings Services, jobs in Kanpur, Uttar Pradesh jobs, technology jobs India, JavaScript, Python, REST APIs, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:50:47.246Z",
+  "page": 248
+}
