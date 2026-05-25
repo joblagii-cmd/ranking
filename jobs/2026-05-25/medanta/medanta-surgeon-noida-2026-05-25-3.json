@@ -1,0 +1,93 @@
+{
+  "slug": "medanta-surgeon-noida-2026-05-25-3",
+  "title": "Surgeon Vacancy at Medanta - 2026 Batch",
+  "company": "Medanta",
+  "industry": "healthcare",
+  "role": "Surgeon",
+  "location": {
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "CPT Codes",
+    "EMR/EHR",
+    "Telemedicine",
+    "BLS/ACLS",
+    "Infection Control",
+    "Clinical Documentation",
+    "Clinical Research",
+    "ICU Management"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Surgeon Vacancy at Medanta - 2026 Batch",
+    "description": "Medanta has an exciting opening for a Surgeon at our Noida office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Medanta:\nMedanta is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Respond to medical emergencies and provide immediate care\n• Monitor patient progress and adjust treatment plans accordingly\n• Provide high-quality patient care and maintain patient records\n• Diagnose and treat medical conditions following established protocols\n• Administer medications and treatments as prescribed\n• Maintain accurate clinical documentation in electronic health records\n• Maintain sterile environments and follow infection control protocols\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 0-1 years of relevant experience\n• Proficiency in CPT Codes\n• Proficiency in EMR/EHR\n• Proficiency in Telemedicine\n• Proficiency in BLS/ACLS\n• Proficiency in Infection Control\n• Proficiency in Clinical Documentation\n• Proficiency in Clinical Research\n• Proficiency in ICU Management\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Annual performance appraisal\n• Flexible working hours\n• Learning & development budget\n• Transportation and conveyance allowance\n• Mobile and internet reimbursement\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Noida, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Medanta!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Medanta",
+      "value": "221-3-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Medanta",
+      "sameAs": "https://www.google.com/search?q=Medanta",
+      "logo": "https://logo.clearbit.com/medanta.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Medanta Office",
+        "addressLocality": "Noida",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "CPT Codes, EMR/EHR, Telemedicine, BLS/ACLS, Infection Control, Clinical Documentation, Clinical Research, ICU Management",
+    "responsibilities": "Respond to medical emergencies and provide immediate care. Monitor patient progress and adjust treatment plans accordingly. Provide high-quality patient care and maintain patient records. Diagnose and treat medical conditions following established protocols. Administer medications and treatments as prescribed. Maintain accurate clinical documentation in electronic health records. Maintain sterile environments and follow infection control protocols",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Annual performance appraisal. Flexible working hours. Learning & development budget. Transportation and conveyance allowance. Mobile and internet reimbursement",
+    "industry": "healthcare",
+    "occupationalCategory": "Surgeon",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Annual performance appraisal, Flexible working hours, Learning & development budget, Transportation and conveyance allowance, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "Medanta has an exciting opening for a Surgeon at our Noida office. Join a company that values innovation, collaboration, and continuous learning.",
+    "keywords": "Surgeon, Medanta, jobs in Noida, Uttar Pradesh jobs, healthcare jobs India, CPT Codes, EMR/EHR, Telemedicine, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:24:49.817Z",
+  "page": 55
+}
