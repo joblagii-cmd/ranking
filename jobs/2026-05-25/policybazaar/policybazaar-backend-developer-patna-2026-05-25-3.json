@@ -1,0 +1,94 @@
+{
+  "slug": "policybazaar-backend-developer-patna-2026-05-25-3",
+  "title": "Backend Developer Vacancy at PolicyBazaar - 2026 Batch",
+  "company": "PolicyBazaar",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Patna",
+    "state": "Bihar",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Python",
+    "MongoDB",
+    "AWS",
+    "Java",
+    "CI/CD",
+    "React",
+    "Git",
+    "REST APIs"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at PolicyBazaar - 2026 Batch",
+    "description": "Join the PolicyBazaar family as a Backend Developer in Patna. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout PolicyBazaar:\nPolicyBazaar is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Optimize application performance and ensure high availability\n• Write clean, maintainable, and well-documented code\n• Contribute to system architecture and technical design decisions\n• Integrate third-party APIs and services\n• Collaborate with cross-functional teams including product, design, and QA\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 3-6 years of relevant experience\n• Proficiency in Python\n• Proficiency in MongoDB\n• Proficiency in AWS\n• Proficiency in Java\n• Proficiency in CI/CD\n• Proficiency in React\n• Proficiency in Git\n• Proficiency in REST APIs\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Competitive salary with performance-linked incentives\n• Modern office with recreational facilities\n• Comprehensive health insurance for self and family\n• Learning & development budget\n• Transportation and conveyance allowance\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Patna, Bihar, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with PolicyBazaar!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "PolicyBazaar",
+      "value": "91-3-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "PolicyBazaar",
+      "sameAs": "https://www.google.com/search?q=PolicyBazaar",
+      "logo": "https://logo.clearbit.com/policybazaar.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "PolicyBazaar Office",
+        "addressLocality": "Patna",
+        "addressRegion": "Bihar",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "Python, MongoDB, AWS, Java, CI/CD, React, Git, REST APIs",
+    "responsibilities": "Design, develop and maintain scalable software applications. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Optimize application performance and ensure high availability. Write clean, maintainable, and well-documented code. Contribute to system architecture and technical design decisions. Integrate third-party APIs and services. Collaborate with cross-functional teams including product, design, and QA",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Competitive salary with performance-linked incentives. Modern office with recreational facilities. Comprehensive health insurance for self and family. Learning & development budget. Transportation and conveyance allowance",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Competitive salary with performance-linked incentives, Modern office with recreational facilities, Comprehensive health insurance for self and family, Learning & development budget, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "Join the PolicyBazaar family as a Backend Developer in Patna. We believe in empowering our employees with the tools, training, and environment they need to succ",
+    "keywords": "Backend Developer, PolicyBazaar, jobs in Patna, Bihar jobs, technology jobs India, Python, MongoDB, AWS, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:20:16.787Z",
+  "page": 22
+}
