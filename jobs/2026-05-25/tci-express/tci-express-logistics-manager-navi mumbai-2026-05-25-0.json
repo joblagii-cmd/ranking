@@ -1,0 +1,93 @@
+{
+  "slug": "tci-express-logistics-manager-navi mumbai-2026-05-25-0",
+  "title": "Walk-in Drive Logistics Manager at TCI Express",
+  "company": "TCI Express",
+  "industry": "logistics",
+  "role": "Logistics Manager",
+  "location": {
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "WMS",
+    "INCOTERMS",
+    "SAP SCM",
+    "MS Excel",
+    "TMS",
+    "Freight Forwarding",
+    "Reverse Logistics",
+    "Customs Clearance"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Walk-in Drive Logistics Manager at TCI Express",
+    "description": "An exciting career opportunity awaits you at TCI Express. We are on the lookout for a dedicated Logistics Manager to strengthen our Navi Mumbai-based team.\n\nAbout TCI Express:\nTCI Express is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Implement cost-saving initiatives in transportation and warehousing\n• Manage reverse logistics and return merchandise authorization\n• Coordinate with warehousing teams for inbound and outbound operations\n• Track shipments in real-time and resolve delivery exceptions\n• Optimize delivery routes to reduce cost and improve efficiency\n• Ensure compliance with transportation regulations and safety standards\n• Conduct periodic vendor audits and evaluate logistics partners\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 10-15 years of relevant experience\n• Proficiency in WMS\n• Proficiency in INCOTERMS\n• Proficiency in SAP SCM\n• Proficiency in MS Excel\n• Proficiency in TMS\n• Proficiency in Freight Forwarding\n• Proficiency in Reverse Logistics\n• Proficiency in Customs Clearance\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• Provident Fund and Gratuity as per company policy\n• Company-sponsored certifications\n• International travel opportunities for senior roles\n• Flexible working hours\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Navi Mumbai, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with TCI Express!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "TCI Express",
+      "value": "783-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "TCI Express",
+      "sameAs": "https://www.google.com/search?q=TCI%20Express",
+      "logo": "https://logo.clearbit.com/tciexpress.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "TCI Express Office",
+        "addressLocality": "Navi Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "WMS, INCOTERMS, SAP SCM, MS Excel, TMS, Freight Forwarding, Reverse Logistics, Customs Clearance",
+    "responsibilities": "Implement cost-saving initiatives in transportation and warehousing. Manage reverse logistics and return merchandise authorization. Coordinate with warehousing teams for inbound and outbound operations. Track shipments in real-time and resolve delivery exceptions. Optimize delivery routes to reduce cost and improve efficiency. Ensure compliance with transportation regulations and safety standards. Conduct periodic vendor audits and evaluate logistics partners",
+    "benefits": "Comprehensive health insurance for self and family. Provident Fund and Gratuity as per company policy. Company-sponsored certifications. International travel opportunities for senior roles. Flexible working hours. Employee stock options (ESOPs) for eligible roles",
+    "industry": "logistics",
+    "occupationalCategory": "Logistics Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, Provident Fund and Gratuity as per company policy, Company-sponsored certifications, International travel opportunities for senior roles, Flexible working hours, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at TCI Express. We are on the lookout for a dedicated Logistics Manager to strengthen our Navi Mumbai-based team.",
+    "keywords": "Logistics Manager, TCI Express, jobs in Navi Mumbai, Maharashtra jobs, logistics jobs India, WMS, INCOTERMS, SAP SCM, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:43:39.961Z",
+  "page": 195
+}
