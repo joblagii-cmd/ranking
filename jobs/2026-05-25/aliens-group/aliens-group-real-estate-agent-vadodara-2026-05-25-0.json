@@ -1,0 +1,93 @@
+{
+  "slug": "aliens-group-real-estate-agent-vadodara-2026-05-25-0",
+  "title": "Walk-in Drive Real Estate Agent at Aliens Group",
+  "company": "Aliens Group",
+  "industry": "realestate",
+  "role": "Real Estate Agent",
+  "location": {
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Sales Techniques",
+    "Lease Administration",
+    "Due Diligence",
+    "Property Valuation",
+    "Investment Analysis",
+    "Financial Modeling",
+    "GIS Tools",
+    "Project Management"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Walk-in Drive Real Estate Agent at Aliens Group",
+    "description": "Aliens Group, one of India's leading organizations, is hiring a Real Estate Agent for our Vadodara operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Aliens Group:\nAliens Group is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Build relationships with channel partners and brokers\n• Conduct site visits and property presentations for clients\n• Source and close property deals with prospective buyers and investors\n• Provide advisory services on property investment and market trends\n• Maintain a pipeline of qualified leads using CRM software\n• Achieve monthly and quarterly sales targets\n• Coordinate with legal teams for documentation and title verification\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 12-20 years of relevant experience\n• Proficiency in Sales Techniques\n• Proficiency in Lease Administration\n• Proficiency in Due Diligence\n• Proficiency in Property Valuation\n• Proficiency in Investment Analysis\n• Proficiency in Financial Modeling\n• Proficiency in GIS Tools\n• Proficiency in Project Management\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• International travel opportunities for senior roles\n• Flexible working hours\n• Meal coupons and food allowance\n• Life and accident insurance\n• Work-from-home flexibility\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Vadodara, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Aliens Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Aliens Group",
+      "value": "761-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Aliens Group",
+      "sameAs": "https://www.google.com/search?q=Aliens%20Group",
+      "logo": "https://logo.clearbit.com/aliensgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Aliens Group Office",
+        "addressLocality": "Vadodara",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "Sales Techniques, Lease Administration, Due Diligence, Property Valuation, Investment Analysis, Financial Modeling, GIS Tools, Project Management",
+    "responsibilities": "Build relationships with channel partners and brokers. Conduct site visits and property presentations for clients. Source and close property deals with prospective buyers and investors. Provide advisory services on property investment and market trends. Maintain a pipeline of qualified leads using CRM software. Achieve monthly and quarterly sales targets. Coordinate with legal teams for documentation and title verification",
+    "benefits": "Annual paid leaves and casual leaves. International travel opportunities for senior roles. Flexible working hours. Meal coupons and food allowance. Life and accident insurance. Work-from-home flexibility",
+    "industry": "realestate",
+    "occupationalCategory": "Real Estate Agent",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, International travel opportunities for senior roles, Flexible working hours, Meal coupons and food allowance, Life and accident insurance, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "Aliens Group, one of India's leading organizations, is hiring a Real Estate Agent for our Vadodara operations. We offer a competitive salary package along with ",
+    "keywords": "Real Estate Agent, Aliens Group, jobs in Vadodara, Gujarat jobs, realestate jobs India, Sales Techniques, Lease Administration, Due Diligence, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:42:59.438Z",
+  "page": 190
+}
