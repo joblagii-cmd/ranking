@@ -1,0 +1,94 @@
+{
+  "slug": "capital-float-ventures-solutions-full-stack-developer-agra-2026-05-25-2",
+  "title": "Capital Float Ventures Solutions is Hiring: Full Stack Developer (Entry-Level)",
+  "company": "Capital Float Ventures Solutions",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Python",
+    "Kubernetes",
+    "Go",
+    "SQL",
+    "JavaScript",
+    "Node.js",
+    "Git",
+    "Java"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Capital Float Ventures Solutions is Hiring: Full Stack Developer (Entry-Level)",
+    "description": "An exciting career opportunity awaits you at Capital Float Ventures Solutions. We are on the lookout for a dedicated Full Stack Developer to strengthen our Agra-based team.\n\nAbout Capital Float Ventures Solutions:\nCapital Float Ventures Solutions is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Write and execute unit tests and integration tests\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Collaborate with cross-functional teams including product, design, and QA\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Ensure code security and follow best practices for data protection\n• Troubleshoot, debug, and resolve software defects and performance issues\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 12-20 years of relevant experience\n• Proficiency in Python\n• Proficiency in Kubernetes\n• Proficiency in Go\n• Proficiency in SQL\n• Proficiency in JavaScript\n• Proficiency in Node.js\n• Proficiency in Git\n• Proficiency in Java\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Referral bonus program\n• Mobile and internet reimbursement\n• Maternity and paternity leave\n• International travel opportunities for senior roles\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Agra, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Capital Float Ventures Solutions!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Capital Float Ventures Solutions",
+      "value": "1014-2-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Capital Float Ventures Solutions",
+      "sameAs": "https://www.google.com/search?q=Capital%20Float%20Ventures%20Solutions",
+      "logo": "https://logo.clearbit.com/capitalfloatventuressolutions.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Capital Float Ventures Solutions Office",
+        "addressLocality": "Agra",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "Python, Kubernetes, Go, SQL, JavaScript, Node.js, Git, Java",
+    "responsibilities": "Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Write and execute unit tests and integration tests. Work with agile methodologies including daily stand-ups and sprint planning. Collaborate with cross-functional teams including product, design, and QA. Mentor junior developers and conduct knowledge-sharing sessions. Ensure code security and follow best practices for data protection. Troubleshoot, debug, and resolve software defects and performance issues",
+    "benefits": "Competitive salary with performance-linked incentives. Referral bonus program. Mobile and internet reimbursement. Maternity and paternity leave. International travel opportunities for senior roles. Provident Fund and Gratuity as per company policy",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Referral bonus program, Mobile and internet reimbursement, Maternity and paternity leave, International travel opportunities for senior roles, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Capital Float Ventures Solutions. We are on the lookout for a dedicated Full Stack Developer to strengthen our Agra",
+    "keywords": "Full Stack Developer, Capital Float Ventures Solutions, jobs in Agra, Uttar Pradesh jobs, technology jobs India, Python, Kubernetes, Go, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:51:27.465Z",
+  "page": 253
+}

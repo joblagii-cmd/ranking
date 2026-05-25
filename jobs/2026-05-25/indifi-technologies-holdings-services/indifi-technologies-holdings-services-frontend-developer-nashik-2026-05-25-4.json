@@ -1,0 +1,93 @@
+{
+  "slug": "indifi-technologies-holdings-services-frontend-developer-nashik-2026-05-25-4",
+  "title": "Entry-Level Frontend Developer at Indifi Technologies Holdings Services",
+  "company": "Indifi Technologies Holdings Services",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "REST APIs",
+    "AWS",
+    "Rust",
+    "TypeScript",
+    "TensorFlow",
+    "SQL",
+    "Go",
+    "MongoDB"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Entry-Level Frontend Developer at Indifi Technologies Holdings Services",
+    "description": "Join the Indifi Technologies Holdings Services family as a Frontend Developer in Nashik. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Indifi Technologies Holdings Services:\nIndifi Technologies Holdings Services is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Optimize application performance and ensure high availability\n• Write clean, maintainable, and well-documented code\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Integrate third-party APIs and services\n• Ensure code security and follow best practices for data protection\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 3-6 years of relevant experience\n• Proficiency in REST APIs\n• Proficiency in AWS\n• Proficiency in Rust\n• Proficiency in TypeScript\n• Proficiency in TensorFlow\n• Proficiency in SQL\n• Proficiency in Go\n• Proficiency in MongoDB\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Mobile and internet reimbursement\n• Employee stock options (ESOPs) for eligible roles\n• Work-from-home flexibility\n• Recognition and rewards programs\n• Flexible working hours\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Nashik, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Indifi Technologies Holdings Services!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Indifi Technologies Holdings Services",
+      "value": "1015-4-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Indifi Technologies Holdings Services",
+      "sameAs": "https://www.google.com/search?q=Indifi%20Technologies%20Holdings%20Services",
+      "logo": "https://logo.clearbit.com/indifitechnologiesholdingsservices.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Indifi Technologies Holdings Services Office",
+        "addressLocality": "Nashik",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "REST APIs, AWS, Rust, TypeScript, TensorFlow, SQL, Go, MongoDB",
+    "responsibilities": "Mentor junior developers and conduct knowledge-sharing sessions. Optimize application performance and ensure high availability. Write clean, maintainable, and well-documented code. Troubleshoot, debug, and resolve software defects and performance issues. Integrate third-party APIs and services. Ensure code security and follow best practices for data protection. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP",
+    "benefits": "International travel opportunities for senior roles. Mobile and internet reimbursement. Employee stock options (ESOPs) for eligible roles. Work-from-home flexibility. Recognition and rewards programs. Flexible working hours",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Mobile and internet reimbursement, Employee stock options (ESOPs) for eligible roles, Work-from-home flexibility, Recognition and rewards programs, Flexible working hours"
+  },
+  "meta": {
+    "description": "Join the Indifi Technologies Holdings Services family as a Frontend Developer in Nashik. We believe in empowering our employees with the tools, training, and en",
+    "keywords": "Frontend Developer, Indifi Technologies Holdings Services, jobs in Nashik, Maharashtra jobs, technology jobs India, REST APIs, AWS, Rust, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:51:27.465Z",
+  "page": 253
+}

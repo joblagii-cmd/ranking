@@ -1,0 +1,93 @@
+{
+  "slug": "lendingkart-capital-india-backend-developer-agra-2026-05-25-3",
+  "title": "Backend Developer Vacancy at Lendingkart Capital India - 2026 Batch",
+  "company": "Lendingkart Capital India",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "SQL",
+    "Rust",
+    "JavaScript",
+    "CI/CD",
+    "Node.js",
+    "AWS",
+    "Python",
+    "Git"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Lendingkart Capital India - 2026 Batch",
+    "description": "An exciting career opportunity awaits you at Lendingkart Capital India. We are on the lookout for a dedicated Backend Developer to strengthen our Agra-based team.\n\nAbout Lendingkart Capital India:\nLendingkart Capital India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Implement new features based on product requirements\n• Collaborate with cross-functional teams including product, design, and QA\n• Design, develop and maintain scalable software applications\n• Ensure code security and follow best practices for data protection\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 12-20 years of relevant experience\n• Proficiency in SQL\n• Proficiency in Rust\n• Proficiency in JavaScript\n• Proficiency in CI/CD\n• Proficiency in Node.js\n• Proficiency in AWS\n• Proficiency in Python\n• Proficiency in Git\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Referral bonus program\n• Professional development and training programs\n• Modern office with recreational facilities\n• Provident Fund and Gratuity as per company policy\n• Life and accident insurance\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Agra, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Lendingkart Capital India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Lendingkart Capital India",
+      "value": "1013-3-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Lendingkart Capital India",
+      "sameAs": "https://www.google.com/search?q=Lendingkart%20Capital%20India",
+      "logo": "https://logo.clearbit.com/lendingkartcapitalindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Lendingkart Capital India Office",
+        "addressLocality": "Agra",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "SQL, Rust, JavaScript, CI/CD, Node.js, AWS, Python, Git",
+    "responsibilities": "Implement new features based on product requirements. Collaborate with cross-functional teams including product, design, and QA. Design, develop and maintain scalable software applications. Ensure code security and follow best practices for data protection. Troubleshoot, debug, and resolve software defects and performance issues. Work with agile methodologies including daily stand-ups and sprint planning. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP",
+    "benefits": "Work-from-home flexibility. Referral bonus program. Professional development and training programs. Modern office with recreational facilities. Provident Fund and Gratuity as per company policy. Life and accident insurance",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Referral bonus program, Professional development and training programs, Modern office with recreational facilities, Provident Fund and Gratuity as per company policy, Life and accident insurance"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Lendingkart Capital India. We are on the lookout for a dedicated Backend Developer to strengthen our Agra-based tea",
+    "keywords": "Backend Developer, Lendingkart Capital India, jobs in Agra, Uttar Pradesh jobs, technology jobs India, SQL, Rust, JavaScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:51:27.465Z",
+  "page": 253
+}

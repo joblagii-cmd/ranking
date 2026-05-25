@@ -1,0 +1,94 @@
+{
+  "slug": "indifi-technologies-holdings-services-full-stack-developer-nashik-2026-05-25-2",
+  "title": "Indifi Technologies Holdings Services is Hiring: Full Stack Developer (Entry-Level)",
+  "company": "Indifi Technologies Holdings Services",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "TensorFlow",
+    "REST APIs",
+    "Docker",
+    "TypeScript",
+    "Rust",
+    "Microservices",
+    "Kubernetes",
+    "Java"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Indifi Technologies Holdings Services is Hiring: Full Stack Developer (Entry-Level)",
+    "description": "An exciting career opportunity awaits you at Indifi Technologies Holdings Services. We are on the lookout for a dedicated Full Stack Developer to strengthen our Nashik-based team.\n\nAbout Indifi Technologies Holdings Services:\nIndifi Technologies Holdings Services is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Implement new features based on product requirements\n• Participate in code reviews and contribute to technical discussions\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Write clean, maintainable, and well-documented code\n• Optimize application performance and ensure high availability\n• Work with agile methodologies including daily stand-ups and sprint planning\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 10-15 years of relevant experience\n• Proficiency in TensorFlow\n• Proficiency in REST APIs\n• Proficiency in Docker\n• Proficiency in TypeScript\n• Proficiency in Rust\n• Proficiency in Microservices\n• Proficiency in Kubernetes\n• Proficiency in Java\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Maternity and paternity leave\n• Flexible working hours\n• Referral bonus program\n• Employee stock options (ESOPs) for eligible roles\n• Recognition and rewards programs\n• Annual performance appraisal\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Nashik, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Indifi Technologies Holdings Services!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Indifi Technologies Holdings Services",
+      "value": "1015-2-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Indifi Technologies Holdings Services",
+      "sameAs": "https://www.google.com/search?q=Indifi%20Technologies%20Holdings%20Services",
+      "logo": "https://logo.clearbit.com/indifitechnologiesholdingsservices.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Indifi Technologies Holdings Services Office",
+        "addressLocality": "Nashik",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "TensorFlow, REST APIs, Docker, TypeScript, Rust, Microservices, Kubernetes, Java",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Implement new features based on product requirements. Participate in code reviews and contribute to technical discussions. Troubleshoot, debug, and resolve software defects and performance issues. Write clean, maintainable, and well-documented code. Optimize application performance and ensure high availability. Work with agile methodologies including daily stand-ups and sprint planning",
+    "benefits": "Maternity and paternity leave. Flexible working hours. Referral bonus program. Employee stock options (ESOPs) for eligible roles. Recognition and rewards programs. Annual performance appraisal",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Maternity and paternity leave, Flexible working hours, Referral bonus program, Employee stock options (ESOPs) for eligible roles, Recognition and rewards programs, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Indifi Technologies Holdings Services. We are on the lookout for a dedicated Full Stack Developer to strengthen our",
+    "keywords": "Full Stack Developer, Indifi Technologies Holdings Services, jobs in Nashik, Maharashtra jobs, technology jobs India, TensorFlow, REST APIs, Docker, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:51:27.465Z",
+  "page": 253
+}
