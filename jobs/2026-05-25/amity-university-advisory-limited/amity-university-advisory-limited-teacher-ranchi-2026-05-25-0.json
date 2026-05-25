@@ -1,0 +1,93 @@
+{
+  "slug": "amity-university-advisory-limited-teacher-ranchi-2026-05-25-0",
+  "title": "Looking for Teacher at Amity University Advisory Limited",
+  "company": "Amity University Advisory Limited",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Pedagogy",
+    "MS Office",
+    "Curriculum Development",
+    "Classroom Management",
+    "Educational Technology",
+    "Special Education",
+    "Communication Skills",
+    "Bloom's Taxonomy"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Looking for Teacher at Amity University Advisory Limited",
+    "description": "Amity University Advisory Limited, one of India's leading organizations, is hiring a Teacher for our Ranchi operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Amity University Advisory Limited:\nAmity University Advisory Limited is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Conduct doubt-clearing sessions and remedial classes for weak students\n• Coordinate with academic counselors for student career guidance\n• Maintain classroom discipline and create a positive learning environment\n• Participate in teacher training and professional development programs\n• Design formative and summative assessments aligned to learning objectives\n• Contribute to school newsletter, blogs, and other publications\n• Develop and deliver engaging lesson plans for students\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 12-20 years of relevant experience\n• Proficiency in Pedagogy\n• Proficiency in MS Office\n• Proficiency in Curriculum Development\n• Proficiency in Classroom Management\n• Proficiency in Educational Technology\n• Proficiency in Special Education\n• Proficiency in Communication Skills\n• Proficiency in Bloom's Taxonomy\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Provident Fund and Gratuity as per company policy\n• Professional development and training programs\n• Work-from-home flexibility\n• International travel opportunities for senior roles\n• Competitive salary with performance-linked incentives\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Ranchi, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Amity University Advisory Limited!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Amity University Advisory Limited",
+      "value": "1452-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Amity University Advisory Limited",
+      "sameAs": "https://www.google.com/search?q=Amity%20University%20Advisory%20Limited",
+      "logo": "https://logo.clearbit.com/amityuniversityadvisorylimited.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Amity University Advisory Limited Office",
+        "addressLocality": "Ranchi",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "Pedagogy, MS Office, Curriculum Development, Classroom Management, Educational Technology, Special Education, Communication Skills, Bloom's Taxonomy",
+    "responsibilities": "Conduct doubt-clearing sessions and remedial classes for weak students. Coordinate with academic counselors for student career guidance. Maintain classroom discipline and create a positive learning environment. Participate in teacher training and professional development programs. Design formative and summative assessments aligned to learning objectives. Contribute to school newsletter, blogs, and other publications. Develop and deliver engaging lesson plans for students",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Provident Fund and Gratuity as per company policy. Professional development and training programs. Work-from-home flexibility. International travel opportunities for senior roles. Competitive salary with performance-linked incentives",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Provident Fund and Gratuity as per company policy, Professional development and training programs, Work-from-home flexibility, International travel opportunities for senior roles, Competitive salary with performance-linked incentives"
+  },
+  "meta": {
+    "description": "Amity University Advisory Limited, one of India's leading organizations, is hiring a Teacher for our Ranchi operations. We offer a competitive salary package al",
+    "keywords": "Teacher, Amity University Advisory Limited, jobs in Ranchi, Jharkhand jobs, education jobs India, Pedagogy, MS Office, Curriculum Development, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T07:06:51.893Z",
+  "page": 362
+}
