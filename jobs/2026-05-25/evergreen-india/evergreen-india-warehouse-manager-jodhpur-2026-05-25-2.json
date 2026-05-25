@@ -1,0 +1,93 @@
+{
+  "slug": "evergreen-india-warehouse-manager-jodhpur-2026-05-25-2",
+  "title": "Evergreen India is Hiring: Warehouse Manager (Mid-Level)",
+  "company": "Evergreen India",
+  "industry": "logistics",
+  "role": "Warehouse Manager",
+  "location": {
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Last Mile Delivery",
+    "ERP Systems",
+    "GPS Tracking Systems",
+    "Supply Chain Management",
+    "TMS",
+    "Freight Forwarding",
+    "SAP SCM",
+    "WMS"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Evergreen India is Hiring: Warehouse Manager (Mid-Level)",
+    "description": "Join the Evergreen India family as a Warehouse Manager in Jodhpur. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Evergreen India:\nEvergreen India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure proper handling, packaging, and labeling of goods\n• Oversee end-to-end logistics operations for timely delivery\n• Coordinate with warehousing teams for inbound and outbound operations\n• Implement warehouse management systems (WMS) and track KPIs\n• Manage relationships with third-party logistics providers\n• Manage a fleet of vehicles and coordinate with drivers\n• Ensure compliance with transportation regulations and safety standards\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 3-6 years of relevant experience\n• Proficiency in Last Mile Delivery\n• Proficiency in ERP Systems\n• Proficiency in GPS Tracking Systems\n• Proficiency in Supply Chain Management\n• Proficiency in TMS\n• Proficiency in Freight Forwarding\n• Proficiency in SAP SCM\n• Proficiency in WMS\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• Mobile and internet reimbursement\n• Learning & development budget\n• Annual performance appraisal\n• Employee stock options (ESOPs) for eligible roles\n• Professional development and training programs\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Jodhpur, Rajasthan, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Evergreen India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Evergreen India",
+      "value": "794-2-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Evergreen India",
+      "sameAs": "https://www.google.com/search?q=Evergreen%20India",
+      "logo": "https://logo.clearbit.com/evergreenindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Evergreen India Office",
+        "addressLocality": "Jodhpur",
+        "addressRegion": "Rajasthan",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "Last Mile Delivery, ERP Systems, GPS Tracking Systems, Supply Chain Management, TMS, Freight Forwarding, SAP SCM, WMS",
+    "responsibilities": "Ensure proper handling, packaging, and labeling of goods. Oversee end-to-end logistics operations for timely delivery. Coordinate with warehousing teams for inbound and outbound operations. Implement warehouse management systems (WMS) and track KPIs. Manage relationships with third-party logistics providers. Manage a fleet of vehicles and coordinate with drivers. Ensure compliance with transportation regulations and safety standards",
+    "benefits": "Comprehensive health insurance for self and family. Mobile and internet reimbursement. Learning & development budget. Annual performance appraisal. Employee stock options (ESOPs) for eligible roles. Professional development and training programs",
+    "industry": "logistics",
+    "occupationalCategory": "Warehouse Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, Mobile and internet reimbursement, Learning & development budget, Annual performance appraisal, Employee stock options (ESOPs) for eligible roles, Professional development and training programs"
+  },
+  "meta": {
+    "description": "Join the Evergreen India family as a Warehouse Manager in Jodhpur. We believe in empowering our employees with the tools, training, and environment they need to",
+    "keywords": "Warehouse Manager, Evergreen India, jobs in Jodhpur, Rajasthan jobs, logistics jobs India, Last Mile Delivery, ERP Systems, GPS Tracking Systems, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:44:03.928Z",
+  "page": 198
+}
