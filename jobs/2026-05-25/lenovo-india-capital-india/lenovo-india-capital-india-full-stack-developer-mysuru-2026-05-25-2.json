@@ -1,0 +1,93 @@
+{
+  "slug": "lenovo-india-capital-india-full-stack-developer-mysuru-2026-05-25-2",
+  "title": "Lenovo India Capital India is Hiring: Full Stack Developer (Principal)",
+  "company": "Lenovo India Capital India",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "React",
+    "Rust",
+    "Microservices",
+    "Python",
+    "JavaScript",
+    "Kubernetes",
+    "REST APIs",
+    "Node.js"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Lenovo India Capital India is Hiring: Full Stack Developer (Principal)",
+    "description": "Lenovo India Capital India, one of India's leading organizations, is hiring a Full Stack Developer for our Mysuru operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Lenovo India Capital India:\nLenovo India Capital India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Optimize application performance and ensure high availability\n• Implement new features based on product requirements\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Contribute to system architecture and technical design decisions\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Participate in on-call rotation for production support\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 10-15 years of relevant experience\n• Proficiency in React\n• Proficiency in Rust\n• Proficiency in Microservices\n• Proficiency in Python\n• Proficiency in JavaScript\n• Proficiency in Kubernetes\n• Proficiency in REST APIs\n• Proficiency in Node.js\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Professional development and training programs\n• Work-from-home flexibility\n• Transportation and conveyance allowance\n• Mobile and internet reimbursement\n• Learning & development budget\n• Annual paid leaves and casual leaves\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Mysuru, Karnataka, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Lenovo India Capital India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Lenovo India Capital India",
+      "value": "973-2-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Lenovo India Capital India",
+      "sameAs": "https://www.google.com/search?q=Lenovo%20India%20Capital%20India",
+      "logo": "https://logo.clearbit.com/lenovoindiacapitalindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Lenovo India Capital India Office",
+        "addressLocality": "Mysuru",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "React, Rust, Microservices, Python, JavaScript, Kubernetes, REST APIs, Node.js",
+    "responsibilities": "Troubleshoot, debug, and resolve software defects and performance issues. Optimize application performance and ensure high availability. Implement new features based on product requirements. Mentor junior developers and conduct knowledge-sharing sessions. Contribute to system architecture and technical design decisions. Work with agile methodologies including daily stand-ups and sprint planning. Participate in on-call rotation for production support",
+    "benefits": "Professional development and training programs. Work-from-home flexibility. Transportation and conveyance allowance. Mobile and internet reimbursement. Learning & development budget. Annual paid leaves and casual leaves",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Work-from-home flexibility, Transportation and conveyance allowance, Mobile and internet reimbursement, Learning & development budget, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "Lenovo India Capital India, one of India's leading organizations, is hiring a Full Stack Developer for our Mysuru operations. We offer a competitive salary pack",
+    "keywords": "Full Stack Developer, Lenovo India Capital India, jobs in Mysuru, Karnataka jobs, technology jobs India, React, Rust, Microservices, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:50:07.031Z",
+  "page": 243
+}

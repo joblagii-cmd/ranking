@@ -1,0 +1,94 @@
+{
+  "slug": "lenovo-india-capital-india-senior-software-engineer-mysuru-2026-05-25-1",
+  "title": "Senior Software Engineer - Lenovo India Capital India - Work From Home Available",
+  "company": "Lenovo India Capital India",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Node.js",
+    "REST APIs",
+    "TypeScript",
+    "Kubernetes",
+    "Java",
+    "Microservices",
+    "Go",
+    "Rust"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Lenovo India Capital India - Work From Home Available",
+    "description": "Lenovo India Capital India, one of India's leading organizations, is hiring a Senior Software Engineer for our Mysuru operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Lenovo India Capital India:\nLenovo India Capital India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Integrate third-party APIs and services\n• Design, develop and maintain scalable software applications\n• Ensure code security and follow best practices for data protection\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Write clean, maintainable, and well-documented code\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Participate in code reviews and contribute to technical discussions\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 12-20 years of relevant experience\n• Proficiency in Node.js\n• Proficiency in REST APIs\n• Proficiency in TypeScript\n• Proficiency in Kubernetes\n• Proficiency in Java\n• Proficiency in Microservices\n• Proficiency in Go\n• Proficiency in Rust\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Employee stock options (ESOPs) for eligible roles\n• Referral bonus program\n• Recognition and rewards programs\n• Comprehensive health insurance for self and family\n• Learning & development budget\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Mysuru, Karnataka, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Lenovo India Capital India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Lenovo India Capital India",
+      "value": "973-1-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Lenovo India Capital India",
+      "sameAs": "https://www.google.com/search?q=Lenovo%20India%20Capital%20India",
+      "logo": "https://logo.clearbit.com/lenovoindiacapitalindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Lenovo India Capital India Office",
+        "addressLocality": "Mysuru",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "Node.js, REST APIs, TypeScript, Kubernetes, Java, Microservices, Go, Rust",
+    "responsibilities": "Integrate third-party APIs and services. Design, develop and maintain scalable software applications. Ensure code security and follow best practices for data protection. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Write clean, maintainable, and well-documented code. Work with agile methodologies including daily stand-ups and sprint planning. Participate in code reviews and contribute to technical discussions",
+    "benefits": "Competitive salary with performance-linked incentives. Employee stock options (ESOPs) for eligible roles. Referral bonus program. Recognition and rewards programs. Comprehensive health insurance for self and family. Learning & development budget",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Employee stock options (ESOPs) for eligible roles, Referral bonus program, Recognition and rewards programs, Comprehensive health insurance for self and family, Learning & development budget"
+  },
+  "meta": {
+    "description": "Lenovo India Capital India, one of India's leading organizations, is hiring a Senior Software Engineer for our Mysuru operations. We offer a competitive salary ",
+    "keywords": "Senior Software Engineer, Lenovo India Capital India, jobs in Mysuru, Karnataka jobs, technology jobs India, Node.js, REST APIs, TypeScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:50:07.031Z",
+  "page": 243
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "lenovo-india-capital-india-frontend-developer-tiruchirappalli-2026-05-25-4",
+  "title": "Principal Frontend Developer at Lenovo India Capital India",
+  "company": "Lenovo India Capital India",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "MongoDB",
+    "SQL",
+    "Python",
+    "Go",
+    "React",
+    "Agile/Scrum",
+    "AWS",
+    "TypeScript"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Principal Frontend Developer at Lenovo India Capital India",
+    "description": "Lenovo India Capital India, one of India's leading organizations, is hiring a Frontend Developer for our Tiruchirappalli operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Lenovo India Capital India:\nLenovo India Capital India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure code security and follow best practices for data protection\n• Design, develop and maintain scalable software applications\n• Participate in on-call rotation for production support\n• Write clean, maintainable, and well-documented code\n• Optimize application performance and ensure high availability\n• Participate in code reviews and contribute to technical discussions\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 3-6 years of relevant experience\n• Proficiency in MongoDB\n• Proficiency in SQL\n• Proficiency in Python\n• Proficiency in Go\n• Proficiency in React\n• Proficiency in Agile/Scrum\n• Proficiency in AWS\n• Proficiency in TypeScript\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• International travel opportunities for senior roles\n• Competitive salary with performance-linked incentives\n• Employee stock options (ESOPs) for eligible roles\n• Flexible working hours\n• Transportation and conveyance allowance\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Tiruchirappalli, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Lenovo India Capital India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Lenovo India Capital India",
+      "value": "973-4-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Lenovo India Capital India",
+      "sameAs": "https://www.google.com/search?q=Lenovo%20India%20Capital%20India",
+      "logo": "https://logo.clearbit.com/lenovoindiacapitalindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Lenovo India Capital India Office",
+        "addressLocality": "Tiruchirappalli",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "MongoDB, SQL, Python, Go, React, Agile/Scrum, AWS, TypeScript",
+    "responsibilities": "Ensure code security and follow best practices for data protection. Design, develop and maintain scalable software applications. Participate in on-call rotation for production support. Write clean, maintainable, and well-documented code. Optimize application performance and ensure high availability. Participate in code reviews and contribute to technical discussions. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP",
+    "benefits": "Annual paid leaves and casual leaves. International travel opportunities for senior roles. Competitive salary with performance-linked incentives. Employee stock options (ESOPs) for eligible roles. Flexible working hours. Transportation and conveyance allowance",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, International travel opportunities for senior roles, Competitive salary with performance-linked incentives, Employee stock options (ESOPs) for eligible roles, Flexible working hours, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "Lenovo India Capital India, one of India's leading organizations, is hiring a Frontend Developer for our Tiruchirappalli operations. We offer a competitive sala",
+    "keywords": "Frontend Developer, Lenovo India Capital India, jobs in Tiruchirappalli, Tamil Nadu jobs, technology jobs India, MongoDB, SQL, Python, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:50:07.031Z",
+  "page": 243
+}
