@@ -1,0 +1,93 @@
+{
+  "slug": "baidyanath-production-engineer-chandigarh-2026-05-25-0",
+  "title": "Opening for Production Engineer at Baidyanath",
+  "company": "Baidyanath",
+  "industry": "manufacturing",
+  "role": "Production Engineer",
+  "location": {
+    "city": "Chandigarh",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Quality Control",
+    "PLC/SCADA",
+    "APQP",
+    "Project Management",
+    "TPM",
+    "Kaizen",
+    "5S",
+    "ISO 9001"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Opening for Production Engineer at Baidyanath",
+    "description": "Baidyanath has an exciting opening for a Production Engineer at our Chandigarh office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Baidyanath:\nBaidyanath is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with logistics for dispatching finished goods\n• Coordinate with design and engineering teams on product improvements\n• Implement lean manufacturing and continuous improvement initiatives\n• Ensure product quality meets internal and customer specifications\n• Manage supplier quality audits and vendor development\n• Implement 5S, Kaizen, and Six Sigma practices on the shop floor\n• Oversee daily production operations to meet output targets\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 12-20 years of relevant experience\n• Proficiency in Quality Control\n• Proficiency in PLC/SCADA\n• Proficiency in APQP\n• Proficiency in Project Management\n• Proficiency in TPM\n• Proficiency in Kaizen\n• Proficiency in 5S\n• Proficiency in ISO 9001\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Recognition and rewards programs\n• International travel opportunities for senior roles\n• Work-from-home flexibility\n• Comprehensive health insurance for self and family\n• Maternity and paternity leave\n• Annual performance appraisal\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Chandigarh, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Baidyanath!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Baidyanath",
+      "value": "469-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Baidyanath",
+      "sameAs": "https://www.google.com/search?q=Baidyanath",
+      "logo": "https://logo.clearbit.com/baidyanath.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Baidyanath Office",
+        "addressLocality": "Chandigarh",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Quality Control, PLC/SCADA, APQP, Project Management, TPM, Kaizen, 5S, ISO 9001",
+    "responsibilities": "Coordinate with logistics for dispatching finished goods. Coordinate with design and engineering teams on product improvements. Implement lean manufacturing and continuous improvement initiatives. Ensure product quality meets internal and customer specifications. Manage supplier quality audits and vendor development. Implement 5S, Kaizen, and Six Sigma practices on the shop floor. Oversee daily production operations to meet output targets",
+    "benefits": "Recognition and rewards programs. International travel opportunities for senior roles. Work-from-home flexibility. Comprehensive health insurance for self and family. Maternity and paternity leave. Annual performance appraisal",
+    "industry": "manufacturing",
+    "occupationalCategory": "Production Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Recognition and rewards programs, International travel opportunities for senior roles, Work-from-home flexibility, Comprehensive health insurance for self and family, Maternity and paternity leave, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "Baidyanath has an exciting opening for a Production Engineer at our Chandigarh office. Join a company that values innovation, collaboration, and continuous lear",
+    "keywords": "Production Engineer, Baidyanath, jobs in Chandigarh, Punjab jobs, manufacturing jobs India, Quality Control, PLC/SCADA, APQP, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:33:13.896Z",
+  "page": 117
+}
