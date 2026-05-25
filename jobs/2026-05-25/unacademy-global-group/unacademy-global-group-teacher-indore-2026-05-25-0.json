@@ -1,0 +1,93 @@
+{
+  "slug": "unacademy-global-group-teacher-indore-2026-05-25-0",
+  "title": "Hiring Teacher at Unacademy Global Group",
+  "company": "Unacademy Global Group",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Student Assessment",
+    "Pedagogy",
+    "Lesson Planning",
+    "Child Psychology",
+    "Classroom Management",
+    "MS Office",
+    "Research Skills",
+    "CBSE/ICSE Standards"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Hiring Teacher at Unacademy Global Group",
+    "description": "Unacademy Global Group has an exciting opening for a Teacher at our Indore office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Unacademy Global Group:\nUnacademy Global Group is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with academic counselors for student career guidance\n• Develop and deliver engaging lesson plans for students\n• Create curriculum-aligned learning materials and assessments\n• Conduct doubt-clearing sessions and remedial classes for weak students\n• Collaborate with faculty on curriculum development initiatives\n• Maintain student records and prepare progress reports\n• Design formative and summative assessments aligned to learning objectives\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 6-10 years of relevant experience\n• Proficiency in Student Assessment\n• Proficiency in Pedagogy\n• Proficiency in Lesson Planning\n• Proficiency in Child Psychology\n• Proficiency in Classroom Management\n• Proficiency in MS Office\n• Proficiency in Research Skills\n• Proficiency in CBSE/ICSE Standards\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Life and accident insurance\n• Company-sponsored certifications\n• Competitive salary with performance-linked incentives\n• Referral bonus program\n• Annual paid leaves and casual leaves\n• Mobile and internet reimbursement\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Indore, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Unacademy Global Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Unacademy Global Group",
+      "value": "1417-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Unacademy Global Group",
+      "sameAs": "https://www.google.com/search?q=Unacademy%20Global%20Group",
+      "logo": "https://logo.clearbit.com/unacademyglobalgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Unacademy Global Group Office",
+        "addressLocality": "Indore",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "Student Assessment, Pedagogy, Lesson Planning, Child Psychology, Classroom Management, MS Office, Research Skills, CBSE/ICSE Standards",
+    "responsibilities": "Coordinate with academic counselors for student career guidance. Develop and deliver engaging lesson plans for students. Create curriculum-aligned learning materials and assessments. Conduct doubt-clearing sessions and remedial classes for weak students. Collaborate with faculty on curriculum development initiatives. Maintain student records and prepare progress reports. Design formative and summative assessments aligned to learning objectives",
+    "benefits": "Life and accident insurance. Company-sponsored certifications. Competitive salary with performance-linked incentives. Referral bonus program. Annual paid leaves and casual leaves. Mobile and internet reimbursement",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Company-sponsored certifications, Competitive salary with performance-linked incentives, Referral bonus program, Annual paid leaves and casual leaves, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "Unacademy Global Group has an exciting opening for a Teacher at our Indore office. Join a company that values innovation, collaboration, and continuous learning",
+    "keywords": "Teacher, Unacademy Global Group, jobs in Indore, Madhya Pradesh jobs, education jobs India, Student Assessment, Pedagogy, Lesson Planning, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T07:05:36.723Z",
+  "page": 354
+}
