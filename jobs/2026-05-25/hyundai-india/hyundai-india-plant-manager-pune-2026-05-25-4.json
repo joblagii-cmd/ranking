@@ -1,0 +1,93 @@
+{
+  "slug": "hyundai-india-plant-manager-pune-2026-05-25-4",
+  "title": "Mid-Level Plant Manager at Hyundai India",
+  "company": "Hyundai India",
+  "industry": "manufacturing",
+  "role": "Plant Manager",
+  "location": {
+    "city": "Pune",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Six Sigma",
+    "APQP",
+    "Lean Manufacturing",
+    "SAP MM/PP",
+    "PLC/SCADA",
+    "Quality Control",
+    "GD&T",
+    "ISO 9001"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Plant Manager at Hyundai India",
+    "description": "Hyundai India is actively seeking a talented and motivated Plant Manager to join our dynamic team in Pune. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout Hyundai India:\nHyundai India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Oversee daily production operations to meet output targets\n• Monitor equipment performance and coordinate preventive maintenance\n• Manage supplier quality audits and vendor development\n• Coordinate with logistics for dispatching finished goods\n• Prepare production cost analysis and efficiency reports\n• Train and supervise shop floor workers and supervisors\n• Conduct root cause analysis for quality rejections and defects\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 3-6 years of relevant experience\n• Proficiency in Six Sigma\n• Proficiency in APQP\n• Proficiency in Lean Manufacturing\n• Proficiency in SAP MM/PP\n• Proficiency in PLC/SCADA\n• Proficiency in Quality Control\n• Proficiency in GD&T\n• Proficiency in ISO 9001\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Meal coupons and food allowance\n• Company-sponsored certifications\n• Comprehensive health insurance for self and family\n• Life and accident insurance\n• Work-from-home flexibility\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Pune, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Hyundai India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Hyundai India",
+      "value": "404-4-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Hyundai India",
+      "sameAs": "https://www.google.com/search?q=Hyundai%20India",
+      "logo": "https://logo.clearbit.com/hyundaiindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Hyundai India Office",
+        "addressLocality": "Pune",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "Six Sigma, APQP, Lean Manufacturing, SAP MM/PP, PLC/SCADA, Quality Control, GD&T, ISO 9001",
+    "responsibilities": "Oversee daily production operations to meet output targets. Monitor equipment performance and coordinate preventive maintenance. Manage supplier quality audits and vendor development. Coordinate with logistics for dispatching finished goods. Prepare production cost analysis and efficiency reports. Train and supervise shop floor workers and supervisors. Conduct root cause analysis for quality rejections and defects",
+    "benefits": "International travel opportunities for senior roles. Meal coupons and food allowance. Company-sponsored certifications. Comprehensive health insurance for self and family. Life and accident insurance. Work-from-home flexibility",
+    "industry": "manufacturing",
+    "occupationalCategory": "Plant Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Meal coupons and food allowance, Company-sponsored certifications, Comprehensive health insurance for self and family, Life and accident insurance, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "Hyundai India is actively seeking a talented and motivated Plant Manager to join our dynamic team in Pune. This is an excellent opportunity for professionals wh",
+    "keywords": "Plant Manager, Hyundai India, jobs in Pune, Maharashtra jobs, manufacturing jobs India, Six Sigma, APQP, Lean Manufacturing, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:30:58.463Z",
+  "page": 100
+}
