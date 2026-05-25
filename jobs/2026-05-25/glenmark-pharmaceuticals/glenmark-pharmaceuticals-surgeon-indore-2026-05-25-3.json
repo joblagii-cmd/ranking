@@ -1,0 +1,93 @@
+{
+  "slug": "glenmark-pharmaceuticals-surgeon-indore-2026-05-25-3",
+  "title": "Surgeon Vacancy at Glenmark Pharmaceuticals - 2026 Batch",
+  "company": "Glenmark Pharmaceuticals",
+  "industry": "healthcare",
+  "role": "Surgeon",
+  "location": {
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "BLS/ACLS",
+    "Wound Care",
+    "NABH Standards",
+    "Infection Control",
+    "ICU Management",
+    "Pharmacovigilance",
+    "Telemedicine",
+    "Medical Ethics"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Surgeon Vacancy at Glenmark Pharmaceuticals - 2026 Batch",
+    "description": "Are you a skilled Surgeon looking for your next big career move? Glenmark Pharmaceuticals in Indore offers you the perfect platform to grow professionally and personally.\n\nAbout Glenmark Pharmaceuticals:\nGlenmark Pharmaceuticals is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Educate patients and families on health management and disease prevention\n• Attend continuing medical education programs and training\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Monitor patient progress and adjust treatment plans accordingly\n• Provide high-quality patient care and maintain patient records\n• Maintain accurate clinical documentation in electronic health records\n• Participate in quality improvement initiatives and clinical audits\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 10-15 years of relevant experience\n• Proficiency in BLS/ACLS\n• Proficiency in Wound Care\n• Proficiency in NABH Standards\n• Proficiency in Infection Control\n• Proficiency in ICU Management\n• Proficiency in Pharmacovigilance\n• Proficiency in Telemedicine\n• Proficiency in Medical Ethics\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Recognition and rewards programs\n• Maternity and paternity leave\n• Work-from-home flexibility\n• Mobile and internet reimbursement\n• Annual performance appraisal\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Indore, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Glenmark Pharmaceuticals!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Glenmark Pharmaceuticals",
+      "value": "249-3-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Glenmark Pharmaceuticals",
+      "sameAs": "https://www.google.com/search?q=Glenmark%20Pharmaceuticals",
+      "logo": "https://logo.clearbit.com/glenmarkpharmaceuticals.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Glenmark Pharmaceuticals Office",
+        "addressLocality": "Indore",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "BLS/ACLS, Wound Care, NABH Standards, Infection Control, ICU Management, Pharmacovigilance, Telemedicine, Medical Ethics",
+    "responsibilities": "Educate patients and families on health management and disease prevention. Attend continuing medical education programs and training. Coordinate with multidisciplinary teams for comprehensive patient management. Monitor patient progress and adjust treatment plans accordingly. Provide high-quality patient care and maintain patient records. Maintain accurate clinical documentation in electronic health records. Participate in quality improvement initiatives and clinical audits",
+    "benefits": "Competitive salary with performance-linked incentives. Recognition and rewards programs. Maternity and paternity leave. Work-from-home flexibility. Mobile and internet reimbursement. Annual performance appraisal",
+    "industry": "healthcare",
+    "occupationalCategory": "Surgeon",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Recognition and rewards programs, Maternity and paternity leave, Work-from-home flexibility, Mobile and internet reimbursement, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "Are you a skilled Surgeon looking for your next big career move? Glenmark Pharmaceuticals in Indore offers you the perfect platform to grow professionally and p",
+    "keywords": "Surgeon, Glenmark Pharmaceuticals, jobs in Indore, Madhya Pradesh jobs, healthcare jobs India, BLS/ACLS, Wound Care, NABH Standards, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:25:48.769Z",
+  "page": 62
+}
