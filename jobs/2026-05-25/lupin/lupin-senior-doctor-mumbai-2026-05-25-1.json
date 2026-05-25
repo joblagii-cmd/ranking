@@ -1,0 +1,93 @@
+{
+  "slug": "lupin-senior-doctor-mumbai-2026-05-25-1",
+  "title": "Senior Doctor - Lupin - Work From Home Available",
+  "company": "Lupin",
+  "industry": "healthcare",
+  "role": "Senior Doctor",
+  "location": {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "ICD-10",
+    "Wound Care",
+    "Medical Terminology",
+    "Diagnostic Skills",
+    "Medical Ethics",
+    "NABH Standards",
+    "Clinical Documentation",
+    "BLS/ACLS"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Doctor - Lupin - Work From Home Available",
+    "description": "Lupin has an exciting opening for a Senior Doctor at our Mumbai office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Lupin:\nLupin is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Administer medications and treatments as prescribed\n• Diagnose and treat medical conditions following established protocols\n• Respond to medical emergencies and provide immediate care\n• Monitor patient progress and adjust treatment plans accordingly\n• Educate patients and families on health management and disease prevention\n• Ensure patient privacy and maintain confidentiality\n• Attend continuing medical education programs and training\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 12-20 years of relevant experience\n• Proficiency in ICD-10\n• Proficiency in Wound Care\n• Proficiency in Medical Terminology\n• Proficiency in Diagnostic Skills\n• Proficiency in Medical Ethics\n• Proficiency in NABH Standards\n• Proficiency in Clinical Documentation\n• Proficiency in BLS/ACLS\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Competitive salary with performance-linked incentives\n• Referral bonus program\n• Recognition and rewards programs\n• Mobile and internet reimbursement\n• Comprehensive health insurance for self and family\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Mumbai, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Lupin!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Lupin",
+      "value": "229-1-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Lupin",
+      "sameAs": "https://www.google.com/search?q=Lupin",
+      "logo": "https://logo.clearbit.com/lupin.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Lupin Office",
+        "addressLocality": "Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "ICD-10, Wound Care, Medical Terminology, Diagnostic Skills, Medical Ethics, NABH Standards, Clinical Documentation, BLS/ACLS",
+    "responsibilities": "Administer medications and treatments as prescribed. Diagnose and treat medical conditions following established protocols. Respond to medical emergencies and provide immediate care. Monitor patient progress and adjust treatment plans accordingly. Educate patients and families on health management and disease prevention. Ensure patient privacy and maintain confidentiality. Attend continuing medical education programs and training",
+    "benefits": "Transportation and conveyance allowance. Competitive salary with performance-linked incentives. Referral bonus program. Recognition and rewards programs. Mobile and internet reimbursement. Comprehensive health insurance for self and family",
+    "industry": "healthcare",
+    "occupationalCategory": "Senior Doctor",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Competitive salary with performance-linked incentives, Referral bonus program, Recognition and rewards programs, Mobile and internet reimbursement, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "Lupin has an exciting opening for a Senior Doctor at our Mumbai office. Join a company that values innovation, collaboration, and continuous learning.",
+    "keywords": "Senior Doctor, Lupin, jobs in Mumbai, Maharashtra jobs, healthcare jobs India, ICD-10, Wound Care, Medical Terminology, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:25:06.712Z",
+  "page": 57
+}

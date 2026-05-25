@@ -1,0 +1,94 @@
+{
+  "slug": "lupin-medical-officer-mumbai-2026-05-25-0",
+  "title": "Career Opportunity Medical Officer at Lupin",
+  "company": "Lupin",
+  "industry": "healthcare",
+  "role": "Medical Officer",
+  "location": {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Diagnostic Skills",
+    "BLS/ACLS",
+    "Patient Care",
+    "ICU Management",
+    "Wound Care",
+    "Infection Control",
+    "Clinical Research",
+    "EMR/EHR"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Career Opportunity Medical Officer at Lupin",
+    "description": "Lupin has an exciting opening for a Medical Officer at our Mumbai office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Lupin:\nLupin is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Adhere to NABH/JCI accreditation standards\n• Ensure patient privacy and maintain confidentiality\n• Provide high-quality patient care and maintain patient records\n• Diagnose and treat medical conditions following established protocols\n• Collaborate with pharmaceutical representatives and medical suppliers\n• Maintain accurate clinical documentation in electronic health records\n• Attend continuing medical education programs and training\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 0-1 years of relevant experience\n• Proficiency in Diagnostic Skills\n• Proficiency in BLS/ACLS\n• Proficiency in Patient Care\n• Proficiency in ICU Management\n• Proficiency in Wound Care\n• Proficiency in Infection Control\n• Proficiency in Clinical Research\n• Proficiency in EMR/EHR\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Flexible working hours\n• Annual performance appraisal\n• Recognition and rewards programs\n• Professional development and training programs\n• Life and accident insurance\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Mumbai, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Lupin!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Lupin",
+      "value": "229-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Lupin",
+      "sameAs": "https://www.google.com/search?q=Lupin",
+      "logo": "https://logo.clearbit.com/lupin.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Lupin Office",
+        "addressLocality": "Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "Diagnostic Skills, BLS/ACLS, Patient Care, ICU Management, Wound Care, Infection Control, Clinical Research, EMR/EHR",
+    "responsibilities": "Adhere to NABH/JCI accreditation standards. Ensure patient privacy and maintain confidentiality. Provide high-quality patient care and maintain patient records. Diagnose and treat medical conditions following established protocols. Collaborate with pharmaceutical representatives and medical suppliers. Maintain accurate clinical documentation in electronic health records. Attend continuing medical education programs and training",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Flexible working hours. Annual performance appraisal. Recognition and rewards programs. Professional development and training programs. Life and accident insurance",
+    "industry": "healthcare",
+    "occupationalCategory": "Medical Officer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Flexible working hours, Annual performance appraisal, Recognition and rewards programs, Professional development and training programs, Life and accident insurance"
+  },
+  "meta": {
+    "description": "Lupin has an exciting opening for a Medical Officer at our Mumbai office. Join a company that values innovation, collaboration, and continuous learning.",
+    "keywords": "Medical Officer, Lupin, jobs in Mumbai, Maharashtra jobs, healthcare jobs India, Diagnostic Skills, BLS/ACLS, Patient Care, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:25:06.712Z",
+  "page": 57
+}

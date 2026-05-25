@@ -1,0 +1,94 @@
+{
+  "slug": "aurobindo-pharma-radiologist-bengaluru-2026-05-25-4",
+  "title": "Principal Radiologist at Aurobindo Pharma",
+  "company": "Aurobindo Pharma",
+  "industry": "healthcare",
+  "role": "Radiologist",
+  "location": {
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "BLS/ACLS",
+    "ICU Management",
+    "EMR/EHR",
+    "Clinical Research",
+    "NABH Standards",
+    "Medical Coding",
+    "Infection Control",
+    "Telemedicine"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Principal Radiologist at Aurobindo Pharma",
+    "description": "Aurobindo Pharma has an exciting opening for a Radiologist at our Bengaluru office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Aurobindo Pharma:\nAurobindo Pharma is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure patient privacy and maintain confidentiality\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Adhere to NABH/JCI accreditation standards\n• Monitor patient progress and adjust treatment plans accordingly\n• Respond to medical emergencies and provide immediate care\n• Collaborate with pharmaceutical representatives and medical suppliers\n• Educate patients and families on health management and disease prevention\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 0-1 years of relevant experience\n• Proficiency in BLS/ACLS\n• Proficiency in ICU Management\n• Proficiency in EMR/EHR\n• Proficiency in Clinical Research\n• Proficiency in NABH Standards\n• Proficiency in Medical Coding\n• Proficiency in Infection Control\n• Proficiency in Telemedicine\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Recognition and rewards programs\n• Transportation and conveyance allowance\n• Maternity and paternity leave\n• Learning & development budget\n• Comprehensive health insurance for self and family\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Bengaluru, Karnataka, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Aurobindo Pharma!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Aurobindo Pharma",
+      "value": "230-4-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Aurobindo Pharma",
+      "sameAs": "https://www.google.com/search?q=Aurobindo%20Pharma",
+      "logo": "https://logo.clearbit.com/aurobindopharma.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Aurobindo Pharma Office",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "BLS/ACLS, ICU Management, EMR/EHR, Clinical Research, NABH Standards, Medical Coding, Infection Control, Telemedicine",
+    "responsibilities": "Ensure patient privacy and maintain confidentiality. Coordinate with multidisciplinary teams for comprehensive patient management. Adhere to NABH/JCI accreditation standards. Monitor patient progress and adjust treatment plans accordingly. Respond to medical emergencies and provide immediate care. Collaborate with pharmaceutical representatives and medical suppliers. Educate patients and families on health management and disease prevention",
+    "benefits": "Competitive salary with performance-linked incentives. Recognition and rewards programs. Transportation and conveyance allowance. Maternity and paternity leave. Learning & development budget. Comprehensive health insurance for self and family",
+    "industry": "healthcare",
+    "occupationalCategory": "Radiologist",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Recognition and rewards programs, Transportation and conveyance allowance, Maternity and paternity leave, Learning & development budget, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "Aurobindo Pharma has an exciting opening for a Radiologist at our Bengaluru office. Join a company that values innovation, collaboration, and continuous learnin",
+    "keywords": "Radiologist, Aurobindo Pharma, jobs in Bengaluru, Karnataka jobs, healthcare jobs India, BLS/ACLS, ICU Management, EMR/EHR, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:25:06.713Z",
+  "page": 57
+}
