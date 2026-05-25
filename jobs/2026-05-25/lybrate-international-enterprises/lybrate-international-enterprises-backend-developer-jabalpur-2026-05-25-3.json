@@ -1,0 +1,94 @@
+{
+  "slug": "lybrate-international-enterprises-backend-developer-jabalpur-2026-05-25-3",
+  "title": "Backend Developer Vacancy at Lybrate International Enterprises - 2026 Batch",
+  "company": "Lybrate International Enterprises",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Jabalpur",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Python",
+    "CI/CD",
+    "Rust",
+    "JavaScript",
+    "Java",
+    "Machine Learning",
+    "Kubernetes",
+    "Microservices"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Lybrate International Enterprises - 2026 Batch",
+    "description": "Join the Lybrate International Enterprises family as a Backend Developer in Jabalpur. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Lybrate International Enterprises:\nLybrate International Enterprises is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Implement new features based on product requirements\n• Write and execute unit tests and integration tests\n• Participate in on-call rotation for production support\n• Ensure code security and follow best practices for data protection\n• Design, develop and maintain scalable software applications\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 1-3 years of relevant experience\n• Proficiency in Python\n• Proficiency in CI/CD\n• Proficiency in Rust\n• Proficiency in JavaScript\n• Proficiency in Java\n• Proficiency in Machine Learning\n• Proficiency in Kubernetes\n• Proficiency in Microservices\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Mobile and internet reimbursement\n• Comprehensive health insurance for self and family\n• Competitive salary with performance-linked incentives\n• International travel opportunities for senior roles\n• Company-sponsored certifications\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Jabalpur, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Lybrate International Enterprises!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Lybrate International Enterprises",
+      "value": "1038-3-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Lybrate International Enterprises",
+      "sameAs": "https://www.google.com/search?q=Lybrate%20International%20Enterprises",
+      "logo": "https://logo.clearbit.com/lybrateinternationalenterprises.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Lybrate International Enterprises Office",
+        "addressLocality": "Jabalpur",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "Python, CI/CD, Rust, JavaScript, Java, Machine Learning, Kubernetes, Microservices",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Implement new features based on product requirements. Write and execute unit tests and integration tests. Participate in on-call rotation for production support. Ensure code security and follow best practices for data protection. Design, develop and maintain scalable software applications",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Mobile and internet reimbursement. Comprehensive health insurance for self and family. Competitive salary with performance-linked incentives. International travel opportunities for senior roles. Company-sponsored certifications",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Mobile and internet reimbursement, Comprehensive health insurance for self and family, Competitive salary with performance-linked incentives, International travel opportunities for senior roles, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "Join the Lybrate International Enterprises family as a Backend Developer in Jabalpur. We believe in empowering our employees with the tools, training, and envir",
+    "keywords": "Backend Developer, Lybrate International Enterprises, jobs in Jabalpur, Madhya Pradesh jobs, technology jobs India, Python, CI/CD, Rust, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:52:14.821Z",
+  "page": 259
+}

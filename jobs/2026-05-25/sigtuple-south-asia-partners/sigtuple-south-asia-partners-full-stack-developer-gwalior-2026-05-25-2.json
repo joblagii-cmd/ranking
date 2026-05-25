@@ -1,0 +1,93 @@
+{
+  "slug": "sigtuple-south-asia-partners-full-stack-developer-gwalior-2026-05-25-2",
+  "title": "SigTuple South Asia Partners is Hiring: Full Stack Developer (Entry-Level)",
+  "company": "SigTuple South Asia Partners",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Docker",
+    "React",
+    "Go",
+    "TypeScript",
+    "Agile/Scrum",
+    "CI/CD",
+    "TensorFlow",
+    "SQL"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "SigTuple South Asia Partners is Hiring: Full Stack Developer (Entry-Level)",
+    "description": "Join the SigTuple South Asia Partners family as a Full Stack Developer in Gwalior. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout SigTuple South Asia Partners:\nSigTuple South Asia Partners is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Write and execute unit tests and integration tests\n• Participate in code reviews and contribute to technical discussions\n• Integrate third-party APIs and services\n• Write clean, maintainable, and well-documented code\n• Work with agile methodologies including daily stand-ups and sprint planning\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 0-1 years of relevant experience\n• Proficiency in Docker\n• Proficiency in React\n• Proficiency in Go\n• Proficiency in TypeScript\n• Proficiency in Agile/Scrum\n• Proficiency in CI/CD\n• Proficiency in TensorFlow\n• Proficiency in SQL\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Flexible working hours\n• Provident Fund and Gratuity as per company policy\n• Maternity and paternity leave\n• Annual paid leaves and casual leaves\n• Professional development and training programs\n• Work-from-home flexibility\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Gwalior, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with SigTuple South Asia Partners!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "SigTuple South Asia Partners",
+      "value": "1040-2-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "SigTuple South Asia Partners",
+      "sameAs": "https://www.google.com/search?q=SigTuple%20South%20Asia%20Partners",
+      "logo": "https://logo.clearbit.com/sigtuplesouthasiapartners.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "SigTuple South Asia Partners Office",
+        "addressLocality": "Gwalior",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "Docker, React, Go, TypeScript, Agile/Scrum, CI/CD, TensorFlow, SQL",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Troubleshoot, debug, and resolve software defects and performance issues. Write and execute unit tests and integration tests. Participate in code reviews and contribute to technical discussions. Integrate third-party APIs and services. Write clean, maintainable, and well-documented code. Work with agile methodologies including daily stand-ups and sprint planning",
+    "benefits": "Flexible working hours. Provident Fund and Gratuity as per company policy. Maternity and paternity leave. Annual paid leaves and casual leaves. Professional development and training programs. Work-from-home flexibility",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, Provident Fund and Gratuity as per company policy, Maternity and paternity leave, Annual paid leaves and casual leaves, Professional development and training programs, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "Join the SigTuple South Asia Partners family as a Full Stack Developer in Gwalior. We believe in empowering our employees with the tools, training, and environm",
+    "keywords": "Full Stack Developer, SigTuple South Asia Partners, jobs in Gwalior, Madhya Pradesh jobs, technology jobs India, Docker, React, Go, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:52:14.821Z",
+  "page": 259
+}
