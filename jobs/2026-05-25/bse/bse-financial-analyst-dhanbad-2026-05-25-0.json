@@ -1,0 +1,94 @@
+{
+  "slug": "bse-financial-analyst-dhanbad-2026-05-25-0",
+  "title": "Job Opening Financial Analyst at BSE",
+  "company": "BSE",
+  "industry": "finance",
+  "role": "Financial Analyst",
+  "location": {
+    "city": "Dhanbad",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Tally",
+    "MS Excel",
+    "GST",
+    "Ind AS",
+    "Risk Management",
+    "Bloomberg Terminal",
+    "Python for Finance",
+    "Due Diligence"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Job Opening Financial Analyst at BSE",
+    "description": "BSE is actively seeking a talented and motivated Financial Analyst to join our dynamic team in Dhanbad. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout BSE:\nBSE is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Conduct due diligence for mergers, acquisitions, and investments\n• Prepare and analyze financial statements, reports, and budgets\n• Monitor financial performance against targets and provide variance analysis\n• Manage accounts payable and accounts receivable functions\n• Ensure compliance with tax regulations and statutory requirements\n• Coordinate with external auditors during annual audits\n• Manage credit risk assessment and loan appraisal processes\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 0-1 years of relevant experience\n• Proficiency in Tally\n• Proficiency in MS Excel\n• Proficiency in GST\n• Proficiency in Ind AS\n• Proficiency in Risk Management\n• Proficiency in Bloomberg Terminal\n• Proficiency in Python for Finance\n• Proficiency in Due Diligence\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Company-sponsored certifications\n• Employee stock options (ESOPs) for eligible roles\n• Work-from-home flexibility\n• Meal coupons and food allowance\n• Maternity and paternity leave\n• Learning & development budget\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Dhanbad, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with BSE!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "BSE",
+      "value": "197-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "BSE",
+      "sameAs": "https://www.google.com/search?q=BSE",
+      "logo": "https://logo.clearbit.com/bse.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "BSE Office",
+        "addressLocality": "Dhanbad",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "Tally, MS Excel, GST, Ind AS, Risk Management, Bloomberg Terminal, Python for Finance, Due Diligence",
+    "responsibilities": "Conduct due diligence for mergers, acquisitions, and investments. Prepare and analyze financial statements, reports, and budgets. Monitor financial performance against targets and provide variance analysis. Manage accounts payable and accounts receivable functions. Ensure compliance with tax regulations and statutory requirements. Coordinate with external auditors during annual audits. Manage credit risk assessment and loan appraisal processes",
+    "benefits": "Company-sponsored certifications. Employee stock options (ESOPs) for eligible roles. Work-from-home flexibility. Meal coupons and food allowance. Maternity and paternity leave. Learning & development budget",
+    "industry": "finance",
+    "occupationalCategory": "Financial Analyst",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Company-sponsored certifications, Employee stock options (ESOPs) for eligible roles, Work-from-home flexibility, Meal coupons and food allowance, Maternity and paternity leave, Learning & development budget"
+  },
+  "meta": {
+    "description": "BSE is actively seeking a talented and motivated Financial Analyst to join our dynamic team in Dhanbad. This is an excellent opportunity for professionals who a",
+    "keywords": "Financial Analyst, BSE, jobs in Dhanbad, Jharkhand jobs, finance jobs India, Tally, MS Excel, GST, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:24:01.197Z",
+  "page": 49
+}
