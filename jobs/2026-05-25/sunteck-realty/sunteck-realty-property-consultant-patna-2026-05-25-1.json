@@ -1,0 +1,93 @@
+{
+  "slug": "sunteck-realty-property-consultant-patna-2026-05-25-1",
+  "title": "Property Consultant - Sunteck Realty - Freshers Welcome",
+  "company": "Sunteck Realty",
+  "industry": "realestate",
+  "role": "Property Consultant",
+  "location": {
+    "city": "Patna",
+    "state": "Bihar",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Property Valuation",
+    "RERA Compliance",
+    "CRM Software",
+    "Property Management",
+    "Contract Management",
+    "Lease Administration",
+    "Title Search",
+    "Portfolio Management"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Property Consultant - Sunteck Realty - Freshers Welcome",
+    "description": "Sunteck Realty, one of India's leading organizations, is hiring a Property Consultant for our Patna operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Sunteck Realty:\nSunteck Realty is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Maintain a pipeline of qualified leads using CRM software\n• Conduct site visits and property presentations for clients\n• Conduct land acquisition due diligence and feasibility studies\n• Prepare presentations and proposals for institutional clients\n• Achieve monthly and quarterly sales targets\n• Manage relationships with existing customers post-purchase\n• Coordinate with architects, contractors, and project teams\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 0-1 years of relevant experience\n• Proficiency in Property Valuation\n• Proficiency in RERA Compliance\n• Proficiency in CRM Software\n• Proficiency in Property Management\n• Proficiency in Contract Management\n• Proficiency in Lease Administration\n• Proficiency in Title Search\n• Proficiency in Portfolio Management\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Professional development and training programs\n• Company-sponsored certifications\n• Modern office with recreational facilities\n• Referral bonus program\n• Meal coupons and food allowance\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Patna, Bihar, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Sunteck Realty!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Sunteck Realty",
+      "value": "759-1-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Sunteck Realty",
+      "sameAs": "https://www.google.com/search?q=Sunteck%20Realty",
+      "logo": "https://logo.clearbit.com/sunteckrealty.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Sunteck Realty Office",
+        "addressLocality": "Patna",
+        "addressRegion": "Bihar",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "Property Valuation, RERA Compliance, CRM Software, Property Management, Contract Management, Lease Administration, Title Search, Portfolio Management",
+    "responsibilities": "Maintain a pipeline of qualified leads using CRM software. Conduct site visits and property presentations for clients. Conduct land acquisition due diligence and feasibility studies. Prepare presentations and proposals for institutional clients. Achieve monthly and quarterly sales targets. Manage relationships with existing customers post-purchase. Coordinate with architects, contractors, and project teams",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Professional development and training programs. Company-sponsored certifications. Modern office with recreational facilities. Referral bonus program. Meal coupons and food allowance",
+    "industry": "realestate",
+    "occupationalCategory": "Property Consultant",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Professional development and training programs, Company-sponsored certifications, Modern office with recreational facilities, Referral bonus program, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "Sunteck Realty, one of India's leading organizations, is hiring a Property Consultant for our Patna operations. We offer a competitive salary package along with",
+    "keywords": "Property Consultant, Sunteck Realty, jobs in Patna, Bihar jobs, realestate jobs India, Property Valuation, RERA Compliance, CRM Software, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:42:51.511Z",
+  "page": 189
+}
