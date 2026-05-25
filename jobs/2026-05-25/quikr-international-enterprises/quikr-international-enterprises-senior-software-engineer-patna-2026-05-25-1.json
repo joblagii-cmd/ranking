@@ -1,0 +1,94 @@
+{
+  "slug": "quikr-international-enterprises-senior-software-engineer-patna-2026-05-25-1",
+  "title": "Senior Software Engineer - Quikr International Enterprises - 2025 Hiring Drive",
+  "company": "Quikr International Enterprises",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Patna",
+    "state": "Bihar",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "JavaScript",
+    "Python",
+    "Kubernetes",
+    "CI/CD",
+    "Rust",
+    "SQL",
+    "Java",
+    "Node.js"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Quikr International Enterprises - 2025 Hiring Drive",
+    "description": "An exciting career opportunity awaits you at Quikr International Enterprises. We are on the lookout for a dedicated Senior Software Engineer to strengthen our Patna-based team.\n\nAbout Quikr International Enterprises:\nQuikr International Enterprises is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure code security and follow best practices for data protection\n• Contribute to system architecture and technical design decisions\n• Write and execute unit tests and integration tests\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in on-call rotation for production support\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Integrate third-party APIs and services\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 1-3 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Python\n• Proficiency in Kubernetes\n• Proficiency in CI/CD\n• Proficiency in Rust\n• Proficiency in SQL\n• Proficiency in Java\n• Proficiency in Node.js\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Work-from-home flexibility\n• Recognition and rewards programs\n• Annual paid leaves and casual leaves\n• Maternity and paternity leave\n• Transportation and conveyance allowance\n• Learning & development budget\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Patna, Bihar, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Quikr International Enterprises!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Quikr International Enterprises",
+      "value": "1008-1-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Quikr International Enterprises",
+      "sameAs": "https://www.google.com/search?q=Quikr%20International%20Enterprises",
+      "logo": "https://logo.clearbit.com/quikrinternationalenterprises.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Quikr International Enterprises Office",
+        "addressLocality": "Patna",
+        "addressRegion": "Bihar",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "JavaScript, Python, Kubernetes, CI/CD, Rust, SQL, Java, Node.js",
+    "responsibilities": "Ensure code security and follow best practices for data protection. Contribute to system architecture and technical design decisions. Write and execute unit tests and integration tests. Collaborate with cross-functional teams including product, design, and QA. Participate in on-call rotation for production support. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Integrate third-party APIs and services",
+    "benefits": "Work-from-home flexibility. Recognition and rewards programs. Annual paid leaves and casual leaves. Maternity and paternity leave. Transportation and conveyance allowance. Learning & development budget",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Recognition and rewards programs, Annual paid leaves and casual leaves, Maternity and paternity leave, Transportation and conveyance allowance, Learning & development budget"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Quikr International Enterprises. We are on the lookout for a dedicated Senior Software Engineer to strengthen our P",
+    "keywords": "Senior Software Engineer, Quikr International Enterprises, jobs in Patna, Bihar jobs, technology jobs India, JavaScript, Python, Kubernetes, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:51:11.366Z",
+  "page": 251
+}

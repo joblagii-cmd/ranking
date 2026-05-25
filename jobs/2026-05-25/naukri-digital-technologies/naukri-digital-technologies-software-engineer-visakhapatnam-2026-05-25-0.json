@@ -1,0 +1,93 @@
+{
+  "slug": "naukri-digital-technologies-software-engineer-visakhapatnam-2026-05-25-0",
+  "title": "Now Hiring Software Engineer at Naukri Digital Technologies",
+  "company": "Naukri Digital Technologies",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "JavaScript",
+    "Kubernetes",
+    "MongoDB",
+    "Rust",
+    "TypeScript",
+    "SQL",
+    "AWS",
+    "Machine Learning"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Now Hiring Software Engineer at Naukri Digital Technologies",
+    "description": "An exciting career opportunity awaits you at Naukri Digital Technologies. We are on the lookout for a dedicated Software Engineer to strengthen our Visakhapatnam-based team.\n\nAbout Naukri Digital Technologies:\nNaukri Digital Technologies is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Design, develop and maintain scalable software applications\n• Integrate third-party APIs and services\n• Contribute to system architecture and technical design decisions\n• Write clean, maintainable, and well-documented code\n• Write and execute unit tests and integration tests\n• Participate in code reviews and contribute to technical discussions\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 12-20 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Kubernetes\n• Proficiency in MongoDB\n• Proficiency in Rust\n• Proficiency in TypeScript\n• Proficiency in SQL\n• Proficiency in AWS\n• Proficiency in Machine Learning\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Transportation and conveyance allowance\n• Life and accident insurance\n• Meal coupons and food allowance\n• Company-sponsored certifications\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Visakhapatnam, Andhra Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Naukri Digital Technologies!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Naukri Digital Technologies",
+      "value": "1006-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Naukri Digital Technologies",
+      "sameAs": "https://www.google.com/search?q=Naukri%20Digital%20Technologies",
+      "logo": "https://logo.clearbit.com/naukridigitaltechnologies.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Naukri Digital Technologies Office",
+        "addressLocality": "Visakhapatnam",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "JavaScript, Kubernetes, MongoDB, Rust, TypeScript, SQL, AWS, Machine Learning",
+    "responsibilities": "Work with agile methodologies including daily stand-ups and sprint planning. Design, develop and maintain scalable software applications. Integrate third-party APIs and services. Contribute to system architecture and technical design decisions. Write clean, maintainable, and well-documented code. Write and execute unit tests and integration tests. Participate in code reviews and contribute to technical discussions",
+    "benefits": "Competitive salary with performance-linked incentives. Transportation and conveyance allowance. Life and accident insurance. Meal coupons and food allowance. Company-sponsored certifications. Employee stock options (ESOPs) for eligible roles",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Transportation and conveyance allowance, Life and accident insurance, Meal coupons and food allowance, Company-sponsored certifications, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Naukri Digital Technologies. We are on the lookout for a dedicated Software Engineer to strengthen our Visakhapatna",
+    "keywords": "Software Engineer, Naukri Digital Technologies, jobs in Visakhapatnam, Andhra Pradesh jobs, technology jobs India, JavaScript, Kubernetes, MongoDB, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:51:11.365Z",
+  "page": 251
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "shaadi-com-global-group-frontend-developer-vadodara-2026-05-25-4",
+  "title": "Entry-Level Frontend Developer at Shaadi.com Global Group",
+  "company": "Shaadi.com Global Group",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Kubernetes",
+    "Node.js",
+    "TypeScript",
+    "Python",
+    "REST APIs",
+    "React",
+    "Machine Learning",
+    "JavaScript"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Entry-Level Frontend Developer at Shaadi.com Global Group",
+    "description": "An exciting career opportunity awaits you at Shaadi.com Global Group. We are on the lookout for a dedicated Frontend Developer to strengthen our Vadodara-based team.\n\nAbout Shaadi.com Global Group:\nShaadi.com Global Group is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Contribute to system architecture and technical design decisions\n• Optimize application performance and ensure high availability\n• Write and execute unit tests and integration tests\n• Participate in code reviews and contribute to technical discussions\n• Integrate third-party APIs and services\n• Ensure code security and follow best practices for data protection\n• Write clean, maintainable, and well-documented code\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 12-20 years of relevant experience\n• Proficiency in Kubernetes\n• Proficiency in Node.js\n• Proficiency in TypeScript\n• Proficiency in Python\n• Proficiency in REST APIs\n• Proficiency in React\n• Proficiency in Machine Learning\n• Proficiency in JavaScript\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Mobile and internet reimbursement\n• Annual performance appraisal\n• Learning & development budget\n• Competitive salary with performance-linked incentives\n• Company-sponsored certifications\n• Modern office with recreational facilities\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Vadodara, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Shaadi.com Global Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Shaadi.com Global Group",
+      "value": "1007-4-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Shaadi.com Global Group",
+      "sameAs": "https://www.google.com/search?q=Shaadi.com%20Global%20Group",
+      "logo": "https://logo.clearbit.com/shaadicomglobalgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Shaadi.com Global Group Office",
+        "addressLocality": "Vadodara",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "Kubernetes, Node.js, TypeScript, Python, REST APIs, React, Machine Learning, JavaScript",
+    "responsibilities": "Contribute to system architecture and technical design decisions. Optimize application performance and ensure high availability. Write and execute unit tests and integration tests. Participate in code reviews and contribute to technical discussions. Integrate third-party APIs and services. Ensure code security and follow best practices for data protection. Write clean, maintainable, and well-documented code",
+    "benefits": "Mobile and internet reimbursement. Annual performance appraisal. Learning & development budget. Competitive salary with performance-linked incentives. Company-sponsored certifications. Modern office with recreational facilities",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Mobile and internet reimbursement, Annual performance appraisal, Learning & development budget, Competitive salary with performance-linked incentives, Company-sponsored certifications, Modern office with recreational facilities"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Shaadi.com Global Group. We are on the lookout for a dedicated Frontend Developer to strengthen our Vadodara-based ",
+    "keywords": "Frontend Developer, Shaadi.com Global Group, jobs in Vadodara, Gujarat jobs, technology jobs India, Kubernetes, Node.js, TypeScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:51:11.366Z",
+  "page": 251
+}

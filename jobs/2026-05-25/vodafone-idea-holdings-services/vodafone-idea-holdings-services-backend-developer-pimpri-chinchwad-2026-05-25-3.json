@@ -1,0 +1,93 @@
+{
+  "slug": "vodafone-idea-holdings-services-backend-developer-pimpri-chinchwad-2026-05-25-3",
+  "title": "Backend Developer Vacancy at Vodafone Idea Holdings Services - 2026 Batch",
+  "company": "Vodafone Idea Holdings Services",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Pimpri-Chinchwad",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Node.js",
+    "Agile/Scrum",
+    "Machine Learning",
+    "Rust",
+    "Docker",
+    "Kubernetes",
+    "CI/CD",
+    "Go"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Vodafone Idea Holdings Services - 2026 Batch",
+    "description": "An exciting career opportunity awaits you at Vodafone Idea Holdings Services. We are on the lookout for a dedicated Backend Developer to strengthen our Pimpri-Chinchwad-based team.\n\nAbout Vodafone Idea Holdings Services:\nVodafone Idea Holdings Services is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Implement new features based on product requirements\n• Optimize application performance and ensure high availability\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Design, develop and maintain scalable software applications\n• Integrate third-party APIs and services\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Contribute to system architecture and technical design decisions\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 3-6 years of relevant experience\n• Proficiency in Node.js\n• Proficiency in Agile/Scrum\n• Proficiency in Machine Learning\n• Proficiency in Rust\n• Proficiency in Docker\n• Proficiency in Kubernetes\n• Proficiency in CI/CD\n• Proficiency in Go\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Professional development and training programs\n• Work-from-home flexibility\n• Learning & development budget\n• Annual paid leaves and casual leaves\n• Maternity and paternity leave\n• Recognition and rewards programs\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Pimpri-Chinchwad, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Vodafone Idea Holdings Services!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Vodafone Idea Holdings Services",
+      "value": "1005-3-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Vodafone Idea Holdings Services",
+      "sameAs": "https://www.google.com/search?q=Vodafone%20Idea%20Holdings%20Services",
+      "logo": "https://logo.clearbit.com/vodafoneideaholdingsservices.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Vodafone Idea Holdings Services Office",
+        "addressLocality": "Pimpri-Chinchwad",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "Node.js, Agile/Scrum, Machine Learning, Rust, Docker, Kubernetes, CI/CD, Go",
+    "responsibilities": "Implement new features based on product requirements. Optimize application performance and ensure high availability. Work with agile methodologies including daily stand-ups and sprint planning. Design, develop and maintain scalable software applications. Integrate third-party APIs and services. Troubleshoot, debug, and resolve software defects and performance issues. Contribute to system architecture and technical design decisions",
+    "benefits": "Professional development and training programs. Work-from-home flexibility. Learning & development budget. Annual paid leaves and casual leaves. Maternity and paternity leave. Recognition and rewards programs",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Work-from-home flexibility, Learning & development budget, Annual paid leaves and casual leaves, Maternity and paternity leave, Recognition and rewards programs"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Vodafone Idea Holdings Services. We are on the lookout for a dedicated Backend Developer to strengthen our Pimpri-C",
+    "keywords": "Backend Developer, Vodafone Idea Holdings Services, jobs in Pimpri-Chinchwad, Maharashtra jobs, technology jobs India, Node.js, Agile/Scrum, Machine Learning, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:51:11.365Z",
+  "page": 251
+}

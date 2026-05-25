@@ -1,0 +1,93 @@
+{
+  "slug": "quikr-international-enterprises-full-stack-developer-patna-2026-05-25-2",
+  "title": "Quikr International Enterprises is Hiring: Full Stack Developer (Principal)",
+  "company": "Quikr International Enterprises",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Patna",
+    "state": "Bihar",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "REST APIs",
+    "Docker",
+    "TypeScript",
+    "JavaScript",
+    "Java",
+    "TensorFlow",
+    "SQL",
+    "MongoDB"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Quikr International Enterprises is Hiring: Full Stack Developer (Principal)",
+    "description": "An exciting career opportunity awaits you at Quikr International Enterprises. We are on the lookout for a dedicated Full Stack Developer to strengthen our Patna-based team.\n\nAbout Quikr International Enterprises:\nQuikr International Enterprises is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Contribute to system architecture and technical design decisions\n• Participate in code reviews and contribute to technical discussions\n• Ensure code security and follow best practices for data protection\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Participate in on-call rotation for production support\n• Write clean, maintainable, and well-documented code\n• Write and execute unit tests and integration tests\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 0-1 years of relevant experience\n• Proficiency in REST APIs\n• Proficiency in Docker\n• Proficiency in TypeScript\n• Proficiency in JavaScript\n• Proficiency in Java\n• Proficiency in TensorFlow\n• Proficiency in SQL\n• Proficiency in MongoDB\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Flexible working hours\n• Maternity and paternity leave\n• Learning & development budget\n• Professional development and training programs\n• Modern office with recreational facilities\n• Annual paid leaves and casual leaves\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Patna, Bihar, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Quikr International Enterprises!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Quikr International Enterprises",
+      "value": "1008-2-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Quikr International Enterprises",
+      "sameAs": "https://www.google.com/search?q=Quikr%20International%20Enterprises",
+      "logo": "https://logo.clearbit.com/quikrinternationalenterprises.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Quikr International Enterprises Office",
+        "addressLocality": "Patna",
+        "addressRegion": "Bihar",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "REST APIs, Docker, TypeScript, JavaScript, Java, TensorFlow, SQL, MongoDB",
+    "responsibilities": "Contribute to system architecture and technical design decisions. Participate in code reviews and contribute to technical discussions. Ensure code security and follow best practices for data protection. Mentor junior developers and conduct knowledge-sharing sessions. Participate in on-call rotation for production support. Write clean, maintainable, and well-documented code. Write and execute unit tests and integration tests",
+    "benefits": "Flexible working hours. Maternity and paternity leave. Learning & development budget. Professional development and training programs. Modern office with recreational facilities. Annual paid leaves and casual leaves",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, Maternity and paternity leave, Learning & development budget, Professional development and training programs, Modern office with recreational facilities, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Quikr International Enterprises. We are on the lookout for a dedicated Full Stack Developer to strengthen our Patna",
+    "keywords": "Full Stack Developer, Quikr International Enterprises, jobs in Patna, Bihar jobs, technology jobs India, REST APIs, Docker, TypeScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:51:11.366Z",
+  "page": 251
+}
