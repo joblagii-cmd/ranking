@@ -1,0 +1,94 @@
+{
+  "slug": "mindtree-asia-pacific-associates-backend-developer-allahabad-2026-05-25-3",
+  "title": "Backend Developer Vacancy at Mindtree Asia Pacific Associates - 2026 Batch",
+  "company": "Mindtree Asia Pacific Associates",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Allahabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Java",
+    "React",
+    "Node.js",
+    "Python",
+    "REST APIs",
+    "AWS",
+    "CI/CD",
+    "Microservices"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Mindtree Asia Pacific Associates - 2026 Batch",
+    "description": "Are you a skilled Backend Developer looking for your next big career move? Mindtree Asia Pacific Associates in Allahabad offers you the perfect platform to grow professionally and personally.\n\nAbout Mindtree Asia Pacific Associates:\nMindtree Asia Pacific Associates is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Contribute to system architecture and technical design decisions\n• Write and execute unit tests and integration tests\n• Design, develop and maintain scalable software applications\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Participate in on-call rotation for production support\n• Integrate third-party APIs and services\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 0-1 years of relevant experience\n• Proficiency in Java\n• Proficiency in React\n• Proficiency in Node.js\n• Proficiency in Python\n• Proficiency in REST APIs\n• Proficiency in AWS\n• Proficiency in CI/CD\n• Proficiency in Microservices\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Referral bonus program\n• Annual performance appraisal\n• Mobile and internet reimbursement\n• Provident Fund and Gratuity as per company policy\n• Meal coupons and food allowance\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Allahabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Mindtree Asia Pacific Associates!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Mindtree Asia Pacific Associates",
+      "value": "949-3-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Mindtree Asia Pacific Associates",
+      "sameAs": "https://www.google.com/search?q=Mindtree%20Asia%20Pacific%20Associates",
+      "logo": "https://logo.clearbit.com/mindtreeasiapacificassociates.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Mindtree Asia Pacific Associates Office",
+        "addressLocality": "Allahabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "Java, React, Node.js, Python, REST APIs, AWS, CI/CD, Microservices",
+    "responsibilities": "Contribute to system architecture and technical design decisions. Write and execute unit tests and integration tests. Design, develop and maintain scalable software applications. Work with agile methodologies including daily stand-ups and sprint planning. Mentor junior developers and conduct knowledge-sharing sessions. Participate in on-call rotation for production support. Integrate third-party APIs and services",
+    "benefits": "Annual paid leaves and casual leaves. Referral bonus program. Annual performance appraisal. Mobile and internet reimbursement. Provident Fund and Gratuity as per company policy. Meal coupons and food allowance",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Referral bonus program, Annual performance appraisal, Mobile and internet reimbursement, Provident Fund and Gratuity as per company policy, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "Are you a skilled Backend Developer looking for your next big career move? Mindtree Asia Pacific Associates in Allahabad offers you the perfect platform to grow",
+    "keywords": "Backend Developer, Mindtree Asia Pacific Associates, jobs in Allahabad, Uttar Pradesh jobs, technology jobs India, Java, React, Node.js, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:49:19.495Z",
+  "page": 237
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "niit-technologies-south-asia-partners-frontend-developer-ranchi-2026-05-25-4",
+  "title": "Principal Frontend Developer at NIIT Technologies South Asia Partners",
+  "company": "NIIT Technologies South Asia Partners",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "TensorFlow",
+    "CI/CD",
+    "REST APIs",
+    "Kubernetes",
+    "Rust",
+    "Docker",
+    "AWS",
+    "Node.js"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Principal Frontend Developer at NIIT Technologies South Asia Partners",
+    "description": "Are you a skilled Frontend Developer looking for your next big career move? NIIT Technologies South Asia Partners in Ranchi offers you the perfect platform to grow professionally and personally.\n\nAbout NIIT Technologies South Asia Partners:\nNIIT Technologies South Asia Partners is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in code reviews and contribute to technical discussions\n• Participate in on-call rotation for production support\n• Design, develop and maintain scalable software applications\n• Contribute to system architecture and technical design decisions\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Optimize application performance and ensure high availability\n• Mentor junior developers and conduct knowledge-sharing sessions\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 6-10 years of relevant experience\n• Proficiency in TensorFlow\n• Proficiency in CI/CD\n• Proficiency in REST APIs\n• Proficiency in Kubernetes\n• Proficiency in Rust\n• Proficiency in Docker\n• Proficiency in AWS\n• Proficiency in Node.js\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Professional development and training programs\n• International travel opportunities for senior roles\n• Maternity and paternity leave\n• Learning & development budget\n• Referral bonus program\n• Competitive salary with performance-linked incentives\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Ranchi, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with NIIT Technologies South Asia Partners!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "NIIT Technologies South Asia Partners",
+      "value": "950-4-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "NIIT Technologies South Asia Partners",
+      "sameAs": "https://www.google.com/search?q=NIIT%20Technologies%20South%20Asia%20Partners",
+      "logo": "https://logo.clearbit.com/niittechnologiessouthasiapartners.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "NIIT Technologies South Asia Partners Office",
+        "addressLocality": "Ranchi",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "TensorFlow, CI/CD, REST APIs, Kubernetes, Rust, Docker, AWS, Node.js",
+    "responsibilities": "Participate in code reviews and contribute to technical discussions. Participate in on-call rotation for production support. Design, develop and maintain scalable software applications. Contribute to system architecture and technical design decisions. Troubleshoot, debug, and resolve software defects and performance issues. Optimize application performance and ensure high availability. Mentor junior developers and conduct knowledge-sharing sessions",
+    "benefits": "Professional development and training programs. International travel opportunities for senior roles. Maternity and paternity leave. Learning & development budget. Referral bonus program. Competitive salary with performance-linked incentives",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, International travel opportunities for senior roles, Maternity and paternity leave, Learning & development budget, Referral bonus program, Competitive salary with performance-linked incentives"
+  },
+  "meta": {
+    "description": "Are you a skilled Frontend Developer looking for your next big career move? NIIT Technologies South Asia Partners in Ranchi offers you the perfect platform to g",
+    "keywords": "Frontend Developer, NIIT Technologies South Asia Partners, jobs in Ranchi, Jharkhand jobs, technology jobs India, TensorFlow, CI/CD, REST APIs, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:49:19.495Z",
+  "page": 237
+}

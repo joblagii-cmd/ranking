@@ -1,0 +1,93 @@
+{
+  "slug": "mindtree-asia-pacific-associates-frontend-developer-ranchi-2026-05-25-4",
+  "title": "Principal Frontend Developer at Mindtree Asia Pacific Associates",
+  "company": "Mindtree Asia Pacific Associates",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "AWS",
+    "Git",
+    "Go",
+    "TypeScript",
+    "Kubernetes",
+    "Docker",
+    "SQL",
+    "Rust"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Principal Frontend Developer at Mindtree Asia Pacific Associates",
+    "description": "Are you a skilled Frontend Developer looking for your next big career move? Mindtree Asia Pacific Associates in Ranchi offers you the perfect platform to grow professionally and personally.\n\nAbout Mindtree Asia Pacific Associates:\nMindtree Asia Pacific Associates is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Write clean, maintainable, and well-documented code\n• Contribute to system architecture and technical design decisions\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Participate in on-call rotation for production support\n• Write and execute unit tests and integration tests\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 12-20 years of relevant experience\n• Proficiency in AWS\n• Proficiency in Git\n• Proficiency in Go\n• Proficiency in TypeScript\n• Proficiency in Kubernetes\n• Proficiency in Docker\n• Proficiency in SQL\n• Proficiency in Rust\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• Competitive salary with performance-linked incentives\n• Life and accident insurance\n• Recognition and rewards programs\n• Transportation and conveyance allowance\n• Work-from-home flexibility\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Ranchi, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Mindtree Asia Pacific Associates!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Mindtree Asia Pacific Associates",
+      "value": "949-4-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Mindtree Asia Pacific Associates",
+      "sameAs": "https://www.google.com/search?q=Mindtree%20Asia%20Pacific%20Associates",
+      "logo": "https://logo.clearbit.com/mindtreeasiapacificassociates.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Mindtree Asia Pacific Associates Office",
+        "addressLocality": "Ranchi",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "AWS, Git, Go, TypeScript, Kubernetes, Docker, SQL, Rust",
+    "responsibilities": "Design, develop and maintain scalable software applications. Work with agile methodologies including daily stand-ups and sprint planning. Write clean, maintainable, and well-documented code. Contribute to system architecture and technical design decisions. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Participate in on-call rotation for production support. Write and execute unit tests and integration tests",
+    "benefits": "Comprehensive health insurance for self and family. Competitive salary with performance-linked incentives. Life and accident insurance. Recognition and rewards programs. Transportation and conveyance allowance. Work-from-home flexibility",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, Competitive salary with performance-linked incentives, Life and accident insurance, Recognition and rewards programs, Transportation and conveyance allowance, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "Are you a skilled Frontend Developer looking for your next big career move? Mindtree Asia Pacific Associates in Ranchi offers you the perfect platform to grow p",
+    "keywords": "Frontend Developer, Mindtree Asia Pacific Associates, jobs in Ranchi, Jharkhand jobs, technology jobs India, AWS, Git, Go, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:49:19.495Z",
+  "page": 237
+}
