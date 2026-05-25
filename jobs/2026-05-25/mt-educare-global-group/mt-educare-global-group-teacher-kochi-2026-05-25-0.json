@@ -1,0 +1,94 @@
+{
+  "slug": "mt-educare-global-group-teacher-kochi-2026-05-25-0",
+  "title": "Urgent Opening Teacher at MT Educare Global Group",
+  "company": "MT Educare Global Group",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Kochi",
+    "state": "Kerala",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Child Psychology",
+    "Student Assessment",
+    "CBSE/ICSE Standards",
+    "LMS Platforms",
+    "Data Analysis",
+    "Pedagogy",
+    "Bloom's Taxonomy",
+    "MS Office"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Urgent Opening Teacher at MT Educare Global Group",
+    "description": "An exciting career opportunity awaits you at MT Educare Global Group. We are on the lookout for a dedicated Teacher to strengthen our Kochi-based team.\n\nAbout MT Educare Global Group:\nMT Educare Global Group is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Monitor student progress and provide timely feedback\n• Participate in school events, workshops, and training programs\n• Conduct parent-teacher meetings and update parents on student performance\n• Develop and deliver engaging lesson plans for students\n• Maintain classroom discipline and create a positive learning environment\n• Participate in teacher training and professional development programs\n• Utilize technology and digital tools to enhance learning outcomes\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 0-1 years of relevant experience\n• Proficiency in Child Psychology\n• Proficiency in Student Assessment\n• Proficiency in CBSE/ICSE Standards\n• Proficiency in LMS Platforms\n• Proficiency in Data Analysis\n• Proficiency in Pedagogy\n• Proficiency in Bloom's Taxonomy\n• Proficiency in MS Office\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Comprehensive health insurance for self and family\n• Meal coupons and food allowance\n• Provident Fund and Gratuity as per company policy\n• Recognition and rewards programs\n• Transportation and conveyance allowance\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Kochi, Kerala, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with MT Educare Global Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "MT Educare Global Group",
+      "value": "1467-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "MT Educare Global Group",
+      "sameAs": "https://www.google.com/search?q=MT%20Educare%20Global%20Group",
+      "logo": "https://logo.clearbit.com/mteducareglobalgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "MT Educare Global Group Office",
+        "addressLocality": "Kochi",
+        "addressRegion": "Kerala",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Child Psychology, Student Assessment, CBSE/ICSE Standards, LMS Platforms, Data Analysis, Pedagogy, Bloom's Taxonomy, MS Office",
+    "responsibilities": "Monitor student progress and provide timely feedback. Participate in school events, workshops, and training programs. Conduct parent-teacher meetings and update parents on student performance. Develop and deliver engaging lesson plans for students. Maintain classroom discipline and create a positive learning environment. Participate in teacher training and professional development programs. Utilize technology and digital tools to enhance learning outcomes",
+    "benefits": "Annual paid leaves and casual leaves. Comprehensive health insurance for self and family. Meal coupons and food allowance. Provident Fund and Gratuity as per company policy. Recognition and rewards programs. Transportation and conveyance allowance",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Comprehensive health insurance for self and family, Meal coupons and food allowance, Provident Fund and Gratuity as per company policy, Recognition and rewards programs, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at MT Educare Global Group. We are on the lookout for a dedicated Teacher to strengthen our Kochi-based team.",
+    "keywords": "Teacher, MT Educare Global Group, jobs in Kochi, Kerala jobs, education jobs India, Child Psychology, Student Assessment, CBSE/ICSE Standards, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T07:07:28.865Z",
+  "page": 366
+}
