@@ -1,0 +1,93 @@
+{
+  "slug": "birlasoft-international-enterprises-frontend-developer-vijayawada-2026-05-25-4",
+  "title": "Principal Frontend Developer at Birlasoft International Enterprises",
+  "company": "Birlasoft International Enterprises",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Docker",
+    "Microservices",
+    "CI/CD",
+    "React",
+    "Agile/Scrum",
+    "JavaScript",
+    "Git",
+    "MongoDB"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Principal Frontend Developer at Birlasoft International Enterprises",
+    "description": "Are you a skilled Frontend Developer looking for your next big career move? Birlasoft International Enterprises in Vijayawada offers you the perfect platform to grow professionally and personally.\n\nAbout Birlasoft International Enterprises:\nBirlasoft International Enterprises is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Ensure code security and follow best practices for data protection\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Contribute to system architecture and technical design decisions\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Write clean, maintainable, and well-documented code\n• Integrate third-party APIs and services\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 0-1 years of relevant experience\n• Proficiency in Docker\n• Proficiency in Microservices\n• Proficiency in CI/CD\n• Proficiency in React\n• Proficiency in Agile/Scrum\n• Proficiency in JavaScript\n• Proficiency in Git\n• Proficiency in MongoDB\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Work-from-home flexibility\n• Modern office with recreational facilities\n• Professional development and training programs\n• Comprehensive health insurance for self and family\n• Learning & development budget\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Vijayawada, Andhra Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Birlasoft International Enterprises!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Birlasoft International Enterprises",
+      "value": "958-4-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Birlasoft International Enterprises",
+      "sameAs": "https://www.google.com/search?q=Birlasoft%20International%20Enterprises",
+      "logo": "https://logo.clearbit.com/birlasoftinternationalenterprises.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Birlasoft International Enterprises Office",
+        "addressLocality": "Vijayawada",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "Docker, Microservices, CI/CD, React, Agile/Scrum, JavaScript, Git, MongoDB",
+    "responsibilities": "Design, develop and maintain scalable software applications. Ensure code security and follow best practices for data protection. Troubleshoot, debug, and resolve software defects and performance issues. Contribute to system architecture and technical design decisions. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Write clean, maintainable, and well-documented code. Integrate third-party APIs and services",
+    "benefits": "Transportation and conveyance allowance. Work-from-home flexibility. Modern office with recreational facilities. Professional development and training programs. Comprehensive health insurance for self and family. Learning & development budget",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Work-from-home flexibility, Modern office with recreational facilities, Professional development and training programs, Comprehensive health insurance for self and family, Learning & development budget"
+  },
+  "meta": {
+    "description": "Are you a skilled Frontend Developer looking for your next big career move? Birlasoft International Enterprises in Vijayawada offers you the perfect platform to",
+    "keywords": "Frontend Developer, Birlasoft International Enterprises, jobs in Vijayawada, Andhra Pradesh jobs, technology jobs India, Docker, Microservices, CI/CD, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:49:35.171Z",
+  "page": 239
+}

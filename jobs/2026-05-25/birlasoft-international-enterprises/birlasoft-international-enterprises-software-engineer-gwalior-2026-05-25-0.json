@@ -1,0 +1,94 @@
+{
+  "slug": "birlasoft-international-enterprises-software-engineer-gwalior-2026-05-25-0",
+  "title": "Career Opportunity Software Engineer at Birlasoft International Enterprises",
+  "company": "Birlasoft International Enterprises",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Machine Learning",
+    "JavaScript",
+    "Node.js",
+    "React",
+    "Java",
+    "Kubernetes",
+    "Git",
+    "AWS"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Career Opportunity Software Engineer at Birlasoft International Enterprises",
+    "description": "Are you a skilled Software Engineer looking for your next big career move? Birlasoft International Enterprises in Gwalior offers you the perfect platform to grow professionally and personally.\n\nAbout Birlasoft International Enterprises:\nBirlasoft International Enterprises is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Optimize application performance and ensure high availability\n• Contribute to system architecture and technical design decisions\n• Participate in code reviews and contribute to technical discussions\n• Ensure code security and follow best practices for data protection\n• Write clean, maintainable, and well-documented code\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 12-20 years of relevant experience\n• Proficiency in Machine Learning\n• Proficiency in JavaScript\n• Proficiency in Node.js\n• Proficiency in React\n• Proficiency in Java\n• Proficiency in Kubernetes\n• Proficiency in Git\n• Proficiency in AWS\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Professional development and training programs\n• Flexible working hours\n• Competitive salary with performance-linked incentives\n• Employee stock options (ESOPs) for eligible roles\n• International travel opportunities for senior roles\n• Work-from-home flexibility\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Gwalior, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Birlasoft International Enterprises!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Birlasoft International Enterprises",
+      "value": "958-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Birlasoft International Enterprises",
+      "sameAs": "https://www.google.com/search?q=Birlasoft%20International%20Enterprises",
+      "logo": "https://logo.clearbit.com/birlasoftinternationalenterprises.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Birlasoft International Enterprises Office",
+        "addressLocality": "Gwalior",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "Machine Learning, JavaScript, Node.js, React, Java, Kubernetes, Git, AWS",
+    "responsibilities": "Troubleshoot, debug, and resolve software defects and performance issues. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Optimize application performance and ensure high availability. Contribute to system architecture and technical design decisions. Participate in code reviews and contribute to technical discussions. Ensure code security and follow best practices for data protection. Write clean, maintainable, and well-documented code",
+    "benefits": "Professional development and training programs. Flexible working hours. Competitive salary with performance-linked incentives. Employee stock options (ESOPs) for eligible roles. International travel opportunities for senior roles. Work-from-home flexibility",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Flexible working hours, Competitive salary with performance-linked incentives, Employee stock options (ESOPs) for eligible roles, International travel opportunities for senior roles, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "Are you a skilled Software Engineer looking for your next big career move? Birlasoft International Enterprises in Gwalior offers you the perfect platform to gro",
+    "keywords": "Software Engineer, Birlasoft International Enterprises, jobs in Gwalior, Madhya Pradesh jobs, technology jobs India, Machine Learning, JavaScript, Node.js, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:49:35.171Z",
+  "page": 239
+}

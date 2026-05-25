@@ -1,0 +1,93 @@
+{
+  "slug": "zensar-technologies-asia-pacific-associates-senior-software-engineer-vijayawada-2026-05-25-1",
+  "title": "Senior Software Engineer - Zensar Technologies Asia Pacific Associates - Work From Home Available",
+  "company": "Zensar Technologies Asia Pacific Associates",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Java",
+    "Rust",
+    "Microservices",
+    "TypeScript",
+    "REST APIs",
+    "React",
+    "JavaScript",
+    "AWS"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Zensar Technologies Asia Pacific Associates - Work From Home Available",
+    "description": "Are you a skilled Senior Software Engineer looking for your next big career move? Zensar Technologies Asia Pacific Associates in Vijayawada offers you the perfect platform to grow professionally and personally.\n\nAbout Zensar Technologies Asia Pacific Associates:\nZensar Technologies Asia Pacific Associates is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Integrate third-party APIs and services\n• Collaborate with cross-functional teams including product, design, and QA\n• Write and execute unit tests and integration tests\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Design, develop and maintain scalable software applications\n• Optimize application performance and ensure high availability\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 6-10 years of relevant experience\n• Proficiency in Java\n• Proficiency in Rust\n• Proficiency in Microservices\n• Proficiency in TypeScript\n• Proficiency in REST APIs\n• Proficiency in React\n• Proficiency in JavaScript\n• Proficiency in AWS\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Life and accident insurance\n• Comprehensive health insurance for self and family\n• Provident Fund and Gratuity as per company policy\n• Annual paid leaves and casual leaves\n• Transportation and conveyance allowance\n• Learning & development budget\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Vijayawada, Andhra Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Zensar Technologies Asia Pacific Associates!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Zensar Technologies Asia Pacific Associates",
+      "value": "959-1-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Zensar Technologies Asia Pacific Associates",
+      "sameAs": "https://www.google.com/search?q=Zensar%20Technologies%20Asia%20Pacific%20Associates",
+      "logo": "https://logo.clearbit.com/zensartechnologiesasiapacificassociates.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Zensar Technologies Asia Pacific Associates Office",
+        "addressLocality": "Vijayawada",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "Java, Rust, Microservices, TypeScript, REST APIs, React, JavaScript, AWS",
+    "responsibilities": "Integrate third-party APIs and services. Collaborate with cross-functional teams including product, design, and QA. Write and execute unit tests and integration tests. Mentor junior developers and conduct knowledge-sharing sessions. Design, develop and maintain scalable software applications. Optimize application performance and ensure high availability. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP",
+    "benefits": "Life and accident insurance. Comprehensive health insurance for self and family. Provident Fund and Gratuity as per company policy. Annual paid leaves and casual leaves. Transportation and conveyance allowance. Learning & development budget",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Comprehensive health insurance for self and family, Provident Fund and Gratuity as per company policy, Annual paid leaves and casual leaves, Transportation and conveyance allowance, Learning & development budget"
+  },
+  "meta": {
+    "description": "Are you a skilled Senior Software Engineer looking for your next big career move? Zensar Technologies Asia Pacific Associates in Vijayawada offers you the perfe",
+    "keywords": "Senior Software Engineer, Zensar Technologies Asia Pacific Associates, jobs in Vijayawada, Andhra Pradesh jobs, technology jobs India, Java, Rust, Microservices, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:49:35.171Z",
+  "page": 239
+}

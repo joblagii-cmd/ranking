@@ -1,0 +1,94 @@
+{
+  "slug": "birlasoft-international-enterprises-backend-developer-vijayawada-2026-05-25-3",
+  "title": "Backend Developer Vacancy at Birlasoft International Enterprises - 2026 Batch",
+  "company": "Birlasoft International Enterprises",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "TypeScript",
+    "Agile/Scrum",
+    "REST APIs",
+    "Kubernetes",
+    "Go",
+    "Machine Learning",
+    "Node.js",
+    "TensorFlow"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Birlasoft International Enterprises - 2026 Batch",
+    "description": "Are you a skilled Backend Developer looking for your next big career move? Birlasoft International Enterprises in Vijayawada offers you the perfect platform to grow professionally and personally.\n\nAbout Birlasoft International Enterprises:\nBirlasoft International Enterprises is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Write clean, maintainable, and well-documented code\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Ensure code security and follow best practices for data protection\n• Participate in on-call rotation for production support\n• Implement new features based on product requirements\n• Write and execute unit tests and integration tests\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 3-6 years of relevant experience\n• Proficiency in TypeScript\n• Proficiency in Agile/Scrum\n• Proficiency in REST APIs\n• Proficiency in Kubernetes\n• Proficiency in Go\n• Proficiency in Machine Learning\n• Proficiency in Node.js\n• Proficiency in TensorFlow\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Mobile and internet reimbursement\n• Professional development and training programs\n• Learning & development budget\n• Company-sponsored certifications\n• Competitive salary with performance-linked incentives\n• Recognition and rewards programs\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Vijayawada, Andhra Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Birlasoft International Enterprises!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Birlasoft International Enterprises",
+      "value": "958-3-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Birlasoft International Enterprises",
+      "sameAs": "https://www.google.com/search?q=Birlasoft%20International%20Enterprises",
+      "logo": "https://logo.clearbit.com/birlasoftinternationalenterprises.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Birlasoft International Enterprises Office",
+        "addressLocality": "Vijayawada",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "TypeScript, Agile/Scrum, REST APIs, Kubernetes, Go, Machine Learning, Node.js, TensorFlow",
+    "responsibilities": "Design, develop and maintain scalable software applications. Write clean, maintainable, and well-documented code. Work with agile methodologies including daily stand-ups and sprint planning. Ensure code security and follow best practices for data protection. Participate in on-call rotation for production support. Implement new features based on product requirements. Write and execute unit tests and integration tests",
+    "benefits": "Mobile and internet reimbursement. Professional development and training programs. Learning & development budget. Company-sponsored certifications. Competitive salary with performance-linked incentives. Recognition and rewards programs",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Mobile and internet reimbursement, Professional development and training programs, Learning & development budget, Company-sponsored certifications, Competitive salary with performance-linked incentives, Recognition and rewards programs"
+  },
+  "meta": {
+    "description": "Are you a skilled Backend Developer looking for your next big career move? Birlasoft International Enterprises in Vijayawada offers you the perfect platform to ",
+    "keywords": "Backend Developer, Birlasoft International Enterprises, jobs in Vijayawada, Andhra Pradesh jobs, technology jobs India, TypeScript, Agile/Scrum, REST APIs, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:49:35.171Z",
+  "page": 239
+}

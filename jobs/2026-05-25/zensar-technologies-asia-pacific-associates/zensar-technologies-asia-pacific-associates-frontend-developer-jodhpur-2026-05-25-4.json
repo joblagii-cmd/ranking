@@ -1,0 +1,94 @@
+{
+  "slug": "zensar-technologies-asia-pacific-associates-frontend-developer-jodhpur-2026-05-25-4",
+  "title": "Principal Frontend Developer at Zensar Technologies Asia Pacific Associates",
+  "company": "Zensar Technologies Asia Pacific Associates",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "TypeScript",
+    "Docker",
+    "Kubernetes",
+    "JavaScript",
+    "Python",
+    "Go",
+    "Microservices",
+    "Rust"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Principal Frontend Developer at Zensar Technologies Asia Pacific Associates",
+    "description": "Are you a skilled Frontend Developer looking for your next big career move? Zensar Technologies Asia Pacific Associates in Jodhpur offers you the perfect platform to grow professionally and personally.\n\nAbout Zensar Technologies Asia Pacific Associates:\nZensar Technologies Asia Pacific Associates is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Participate in on-call rotation for production support\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Optimize application performance and ensure high availability\n• Write and execute unit tests and integration tests\n• Ensure code security and follow best practices for data protection\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 12-20 years of relevant experience\n• Proficiency in TypeScript\n• Proficiency in Docker\n• Proficiency in Kubernetes\n• Proficiency in JavaScript\n• Proficiency in Python\n• Proficiency in Go\n• Proficiency in Microservices\n• Proficiency in Rust\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Annual performance appraisal\n• Comprehensive health insurance for self and family\n• Competitive salary with performance-linked incentives\n• Meal coupons and food allowance\n• International travel opportunities for senior roles\n• Transportation and conveyance allowance\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Jodhpur, Rajasthan, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Zensar Technologies Asia Pacific Associates!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Zensar Technologies Asia Pacific Associates",
+      "value": "959-4-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Zensar Technologies Asia Pacific Associates",
+      "sameAs": "https://www.google.com/search?q=Zensar%20Technologies%20Asia%20Pacific%20Associates",
+      "logo": "https://logo.clearbit.com/zensartechnologiesasiapacificassociates.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Zensar Technologies Asia Pacific Associates Office",
+        "addressLocality": "Jodhpur",
+        "addressRegion": "Rajasthan",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "TypeScript, Docker, Kubernetes, JavaScript, Python, Go, Microservices, Rust",
+    "responsibilities": "Design, develop and maintain scalable software applications. Mentor junior developers and conduct knowledge-sharing sessions. Participate in on-call rotation for production support. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Optimize application performance and ensure high availability. Write and execute unit tests and integration tests. Ensure code security and follow best practices for data protection",
+    "benefits": "Annual performance appraisal. Comprehensive health insurance for self and family. Competitive salary with performance-linked incentives. Meal coupons and food allowance. International travel opportunities for senior roles. Transportation and conveyance allowance",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual performance appraisal, Comprehensive health insurance for self and family, Competitive salary with performance-linked incentives, Meal coupons and food allowance, International travel opportunities for senior roles, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "Are you a skilled Frontend Developer looking for your next big career move? Zensar Technologies Asia Pacific Associates in Jodhpur offers you the perfect platfo",
+    "keywords": "Frontend Developer, Zensar Technologies Asia Pacific Associates, jobs in Jodhpur, Rajasthan jobs, technology jobs India, TypeScript, Docker, Kubernetes, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:49:35.171Z",
+  "page": 239
+}

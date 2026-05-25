@@ -1,0 +1,93 @@
+{
+  "slug": "ecil-south-asia-partners-software-engineer-vijayawada-2026-05-25-0",
+  "title": "Career Opportunity Software Engineer at ECIL South Asia Partners",
+  "company": "ECIL South Asia Partners",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "React",
+    "Java",
+    "TypeScript",
+    "Machine Learning",
+    "Python",
+    "Rust",
+    "TensorFlow",
+    "Kubernetes"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Career Opportunity Software Engineer at ECIL South Asia Partners",
+    "description": "Are you a skilled Software Engineer looking for your next big career move? ECIL South Asia Partners in Vijayawada offers you the perfect platform to grow professionally and personally.\n\nAbout ECIL South Asia Partners:\nECIL South Asia Partners is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in code reviews and contribute to technical discussions\n• Write clean, maintainable, and well-documented code\n• Implement new features based on product requirements\n• Ensure code security and follow best practices for data protection\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Collaborate with cross-functional teams including product, design, and QA\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 6-10 years of relevant experience\n• Proficiency in React\n• Proficiency in Java\n• Proficiency in TypeScript\n• Proficiency in Machine Learning\n• Proficiency in Python\n• Proficiency in Rust\n• Proficiency in TensorFlow\n• Proficiency in Kubernetes\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Referral bonus program\n• Competitive salary with performance-linked incentives\n• Work-from-home flexibility\n• Provident Fund and Gratuity as per company policy\n• Company-sponsored certifications\n• Mobile and internet reimbursement\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Vijayawada, Andhra Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with ECIL South Asia Partners!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "ECIL South Asia Partners",
+      "value": "960-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "ECIL South Asia Partners",
+      "sameAs": "https://www.google.com/search?q=ECIL%20South%20Asia%20Partners",
+      "logo": "https://logo.clearbit.com/ecilsouthasiapartners.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "ECIL South Asia Partners Office",
+        "addressLocality": "Vijayawada",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "React, Java, TypeScript, Machine Learning, Python, Rust, TensorFlow, Kubernetes",
+    "responsibilities": "Participate in code reviews and contribute to technical discussions. Write clean, maintainable, and well-documented code. Implement new features based on product requirements. Ensure code security and follow best practices for data protection. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Mentor junior developers and conduct knowledge-sharing sessions. Collaborate with cross-functional teams including product, design, and QA",
+    "benefits": "Referral bonus program. Competitive salary with performance-linked incentives. Work-from-home flexibility. Provident Fund and Gratuity as per company policy. Company-sponsored certifications. Mobile and internet reimbursement",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Referral bonus program, Competitive salary with performance-linked incentives, Work-from-home flexibility, Provident Fund and Gratuity as per company policy, Company-sponsored certifications, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "Are you a skilled Software Engineer looking for your next big career move? ECIL South Asia Partners in Vijayawada offers you the perfect platform to grow profes",
+    "keywords": "Software Engineer, ECIL South Asia Partners, jobs in Vijayawada, Andhra Pradesh jobs, technology jobs India, React, Java, TypeScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:49:35.171Z",
+  "page": 239
+}
