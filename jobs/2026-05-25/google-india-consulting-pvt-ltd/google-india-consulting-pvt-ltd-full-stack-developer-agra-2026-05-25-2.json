@@ -1,0 +1,94 @@
+{
+  "slug": "google-india-consulting-pvt-ltd-full-stack-developer-agra-2026-05-25-2",
+  "title": "Google India Consulting Pvt Ltd is Hiring: Full Stack Developer (Lead)",
+  "company": "Google India Consulting Pvt Ltd",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "React",
+    "Java",
+    "MongoDB",
+    "AWS",
+    "Node.js",
+    "Go",
+    "Microservices",
+    "TypeScript"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Google India Consulting Pvt Ltd is Hiring: Full Stack Developer (Lead)",
+    "description": "Google India Consulting Pvt Ltd has an exciting opening for a Full Stack Developer at our Agra office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Google India Consulting Pvt Ltd:\nGoogle India Consulting Pvt Ltd is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in on-call rotation for production support\n• Write clean, maintainable, and well-documented code\n• Participate in code reviews and contribute to technical discussions\n• Design, develop and maintain scalable software applications\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Optimize application performance and ensure high availability\n• Collaborate with cross-functional teams including product, design, and QA\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 6-10 years of relevant experience\n• Proficiency in React\n• Proficiency in Java\n• Proficiency in MongoDB\n• Proficiency in AWS\n• Proficiency in Node.js\n• Proficiency in Go\n• Proficiency in Microservices\n• Proficiency in TypeScript\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Professional development and training programs\n• Work-from-home flexibility\n• Learning & development budget\n• Company-sponsored certifications\n• Competitive salary with performance-linked incentives\n• Recognition and rewards programs\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Agra, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Google India Consulting Pvt Ltd!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Google India Consulting Pvt Ltd",
+      "value": "931-2-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Google India Consulting Pvt Ltd",
+      "sameAs": "https://www.google.com/search?q=Google%20India%20Consulting%20Pvt%20Ltd",
+      "logo": "https://logo.clearbit.com/googleindiaconsultingpvtltd.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Google India Consulting Pvt Ltd Office",
+        "addressLocality": "Agra",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "React, Java, MongoDB, AWS, Node.js, Go, Microservices, TypeScript",
+    "responsibilities": "Participate in on-call rotation for production support. Write clean, maintainable, and well-documented code. Participate in code reviews and contribute to technical discussions. Design, develop and maintain scalable software applications. Troubleshoot, debug, and resolve software defects and performance issues. Optimize application performance and ensure high availability. Collaborate with cross-functional teams including product, design, and QA",
+    "benefits": "Professional development and training programs. Work-from-home flexibility. Learning & development budget. Company-sponsored certifications. Competitive salary with performance-linked incentives. Recognition and rewards programs",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Work-from-home flexibility, Learning & development budget, Company-sponsored certifications, Competitive salary with performance-linked incentives, Recognition and rewards programs"
+  },
+  "meta": {
+    "description": "Google India Consulting Pvt Ltd has an exciting opening for a Full Stack Developer at our Agra office. Join a company that values innovation, collaboration, and",
+    "keywords": "Full Stack Developer, Google India Consulting Pvt Ltd, jobs in Agra, Uttar Pradesh jobs, technology jobs India, React, Java, MongoDB, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:48:39.429Z",
+  "page": 232
+}

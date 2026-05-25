@@ -1,0 +1,93 @@
+{
+  "slug": "amazon-india-advisory-limited-full-stack-developer-nashik-2026-05-25-2",
+  "title": "Amazon India Advisory Limited is Hiring: Full Stack Developer (Lead)",
+  "company": "Amazon India Advisory Limited",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Agile/Scrum",
+    "Machine Learning",
+    "React",
+    "Kubernetes",
+    "CI/CD",
+    "SQL",
+    "Git",
+    "REST APIs"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Amazon India Advisory Limited is Hiring: Full Stack Developer (Lead)",
+    "description": "Amazon India Advisory Limited has an exciting opening for a Full Stack Developer at our Nashik office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Amazon India Advisory Limited:\nAmazon India Advisory Limited is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure code security and follow best practices for data protection\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Implement new features based on product requirements\n• Write and execute unit tests and integration tests\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Optimize application performance and ensure high availability\n• Contribute to system architecture and technical design decisions\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 3-6 years of relevant experience\n• Proficiency in Agile/Scrum\n• Proficiency in Machine Learning\n• Proficiency in React\n• Proficiency in Kubernetes\n• Proficiency in CI/CD\n• Proficiency in SQL\n• Proficiency in Git\n• Proficiency in REST APIs\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Transportation and conveyance allowance\n• Work-from-home flexibility\n• Life and accident insurance\n• Learning & development budget\n• Maternity and paternity leave\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Nashik, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Amazon India Advisory Limited!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Amazon India Advisory Limited",
+      "value": "932-2-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Amazon India Advisory Limited",
+      "sameAs": "https://www.google.com/search?q=Amazon%20India%20Advisory%20Limited",
+      "logo": "https://logo.clearbit.com/amazonindiaadvisorylimited.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Amazon India Advisory Limited Office",
+        "addressLocality": "Nashik",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "Agile/Scrum, Machine Learning, React, Kubernetes, CI/CD, SQL, Git, REST APIs",
+    "responsibilities": "Ensure code security and follow best practices for data protection. Troubleshoot, debug, and resolve software defects and performance issues. Implement new features based on product requirements. Write and execute unit tests and integration tests. Work with agile methodologies including daily stand-ups and sprint planning. Optimize application performance and ensure high availability. Contribute to system architecture and technical design decisions",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Transportation and conveyance allowance. Work-from-home flexibility. Life and accident insurance. Learning & development budget. Maternity and paternity leave",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Transportation and conveyance allowance, Work-from-home flexibility, Life and accident insurance, Learning & development budget, Maternity and paternity leave"
+  },
+  "meta": {
+    "description": "Amazon India Advisory Limited has an exciting opening for a Full Stack Developer at our Nashik office. Join a company that values innovation, collaboration, and",
+    "keywords": "Full Stack Developer, Amazon India Advisory Limited, jobs in Nashik, Maharashtra jobs, technology jobs India, Agile/Scrum, Machine Learning, React, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:48:39.430Z",
+  "page": 232
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "oracle-india-asia-pacific-associates-backend-developer-ludhiana-2026-05-25-3",
+  "title": "Backend Developer Vacancy at Oracle India Asia Pacific Associates - 2026 Batch",
+  "company": "Oracle India Asia Pacific Associates",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Ludhiana",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Docker",
+    "Agile/Scrum",
+    "Git",
+    "Kubernetes",
+    "SQL",
+    "Java",
+    "TensorFlow",
+    "TypeScript"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Oracle India Asia Pacific Associates - 2026 Batch",
+    "description": "Oracle India Asia Pacific Associates has an exciting opening for a Backend Developer at our Ludhiana office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Oracle India Asia Pacific Associates:\nOracle India Asia Pacific Associates is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Implement new features based on product requirements\n• Design, develop and maintain scalable software applications\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Write clean, maintainable, and well-documented code\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Write and execute unit tests and integration tests\n• Participate in on-call rotation for production support\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 10-15 years of relevant experience\n• Proficiency in Docker\n• Proficiency in Agile/Scrum\n• Proficiency in Git\n• Proficiency in Kubernetes\n• Proficiency in SQL\n• Proficiency in Java\n• Proficiency in TensorFlow\n• Proficiency in TypeScript\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Referral bonus program\n• Life and accident insurance\n• Transportation and conveyance allowance\n• Competitive salary with performance-linked incentives\n• Annual performance appraisal\n• International travel opportunities for senior roles\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Ludhiana, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Oracle India Asia Pacific Associates!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Oracle India Asia Pacific Associates",
+      "value": "929-3-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Oracle India Asia Pacific Associates",
+      "sameAs": "https://www.google.com/search?q=Oracle%20India%20Asia%20Pacific%20Associates",
+      "logo": "https://logo.clearbit.com/oracleindiaasiapacificassociates.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Oracle India Asia Pacific Associates Office",
+        "addressLocality": "Ludhiana",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Docker, Agile/Scrum, Git, Kubernetes, SQL, Java, TensorFlow, TypeScript",
+    "responsibilities": "Implement new features based on product requirements. Design, develop and maintain scalable software applications. Work with agile methodologies including daily stand-ups and sprint planning. Write clean, maintainable, and well-documented code. Mentor junior developers and conduct knowledge-sharing sessions. Write and execute unit tests and integration tests. Participate in on-call rotation for production support",
+    "benefits": "Referral bonus program. Life and accident insurance. Transportation and conveyance allowance. Competitive salary with performance-linked incentives. Annual performance appraisal. International travel opportunities for senior roles",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Referral bonus program, Life and accident insurance, Transportation and conveyance allowance, Competitive salary with performance-linked incentives, Annual performance appraisal, International travel opportunities for senior roles"
+  },
+  "meta": {
+    "description": "Oracle India Asia Pacific Associates has an exciting opening for a Backend Developer at our Ludhiana office. Join a company that values innovation, collaboratio",
+    "keywords": "Backend Developer, Oracle India Asia Pacific Associates, jobs in Ludhiana, Punjab jobs, technology jobs India, Docker, Agile/Scrum, Git, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:48:39.429Z",
+  "page": 232
+}
