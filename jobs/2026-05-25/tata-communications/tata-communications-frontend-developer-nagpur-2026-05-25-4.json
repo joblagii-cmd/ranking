@@ -1,0 +1,93 @@
+{
+  "slug": "tata-communications-frontend-developer-nagpur-2026-05-25-4",
+  "title": "Mid-Level Frontend Developer at Tata Communications",
+  "company": "Tata Communications",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "MongoDB",
+    "TensorFlow",
+    "Python",
+    "Node.js",
+    "Rust",
+    "Java",
+    "REST APIs",
+    "React"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Frontend Developer at Tata Communications",
+    "description": "Join the Tata Communications family as a Frontend Developer in Nagpur. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Tata Communications:\nTata Communications is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Write and execute unit tests and integration tests\n• Contribute to system architecture and technical design decisions\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Participate in code reviews and contribute to technical discussions\n• Optimize application performance and ensure high availability\n• Ensure code security and follow best practices for data protection\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 1-3 years of relevant experience\n• Proficiency in MongoDB\n• Proficiency in TensorFlow\n• Proficiency in Python\n• Proficiency in Node.js\n• Proficiency in Rust\n• Proficiency in Java\n• Proficiency in REST APIs\n• Proficiency in React\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Learning & development budget\n• Referral bonus program\n• Transportation and conveyance allowance\n• Recognition and rewards programs\n• Maternity and paternity leave\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Nagpur, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Tata Communications!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Tata Communications",
+      "value": "81-4-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Tata Communications",
+      "sameAs": "https://www.google.com/search?q=Tata%20Communications",
+      "logo": "https://logo.clearbit.com/tatacommunications.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Tata Communications Office",
+        "addressLocality": "Nagpur",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "MongoDB, TensorFlow, Python, Node.js, Rust, Java, REST APIs, React",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Write and execute unit tests and integration tests. Contribute to system architecture and technical design decisions. Work with agile methodologies including daily stand-ups and sprint planning. Participate in code reviews and contribute to technical discussions. Optimize application performance and ensure high availability. Ensure code security and follow best practices for data protection",
+    "benefits": "Learning & development budget. Referral bonus program. Transportation and conveyance allowance. Recognition and rewards programs. Maternity and paternity leave. Provident Fund and Gratuity as per company policy",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Learning & development budget, Referral bonus program, Transportation and conveyance allowance, Recognition and rewards programs, Maternity and paternity leave, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "Join the Tata Communications family as a Frontend Developer in Nagpur. We believe in empowering our employees with the tools, training, and environment they nee",
+    "keywords": "Frontend Developer, Tata Communications, jobs in Nagpur, Maharashtra jobs, technology jobs India, MongoDB, TensorFlow, Python, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:19:59.701Z",
+  "page": 20
+}
