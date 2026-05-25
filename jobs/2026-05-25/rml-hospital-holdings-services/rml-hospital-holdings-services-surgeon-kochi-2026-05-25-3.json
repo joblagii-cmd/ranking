@@ -1,0 +1,94 @@
+{
+  "slug": "rml-hospital-holdings-services-surgeon-kochi-2026-05-25-3",
+  "title": "Surgeon Vacancy at RML Hospital Holdings Services - 2026 Batch",
+  "company": "RML Hospital Holdings Services",
+  "industry": "healthcare",
+  "role": "Surgeon",
+  "location": {
+    "city": "Kochi",
+    "state": "Kerala",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Clinical Documentation",
+    "Patient Care",
+    "Medical Ethics",
+    "NABH Standards",
+    "Clinical Research",
+    "Wound Care",
+    "Telemedicine",
+    "HIPAA Compliance"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Surgeon Vacancy at RML Hospital Holdings Services - 2026 Batch",
+    "description": "RML Hospital Holdings Services, one of India's leading organizations, is hiring a Surgeon for our Kochi operations. We offer a competitive salary package along with world-class benefits.\n\nAbout RML Hospital Holdings Services:\nRML Hospital Holdings Services is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Maintain sterile environments and follow infection control protocols\n• Attend continuing medical education programs and training\n• Diagnose and treat medical conditions following established protocols\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Monitor patient progress and adjust treatment plans accordingly\n• Conduct routine health assessments and screenings\n• Adhere to NABH/JCI accreditation standards\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 12-20 years of relevant experience\n• Proficiency in Clinical Documentation\n• Proficiency in Patient Care\n• Proficiency in Medical Ethics\n• Proficiency in NABH Standards\n• Proficiency in Clinical Research\n• Proficiency in Wound Care\n• Proficiency in Telemedicine\n• Proficiency in HIPAA Compliance\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Recognition and rewards programs\n• Life and accident insurance\n• Work-from-home flexibility\n• Annual paid leaves and casual leaves\n• Comprehensive health insurance for self and family\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Kochi, Kerala, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with RML Hospital Holdings Services!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "RML Hospital Holdings Services",
+      "value": "1215-3-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "RML Hospital Holdings Services",
+      "sameAs": "https://www.google.com/search?q=RML%20Hospital%20Holdings%20Services",
+      "logo": "https://logo.clearbit.com/rmlhospitalholdingsservices.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "RML Hospital Holdings Services Office",
+        "addressLocality": "Kochi",
+        "addressRegion": "Kerala",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "Clinical Documentation, Patient Care, Medical Ethics, NABH Standards, Clinical Research, Wound Care, Telemedicine, HIPAA Compliance",
+    "responsibilities": "Maintain sterile environments and follow infection control protocols. Attend continuing medical education programs and training. Diagnose and treat medical conditions following established protocols. Coordinate with multidisciplinary teams for comprehensive patient management. Monitor patient progress and adjust treatment plans accordingly. Conduct routine health assessments and screenings. Adhere to NABH/JCI accreditation standards",
+    "benefits": "Provident Fund and Gratuity as per company policy. Recognition and rewards programs. Life and accident insurance. Work-from-home flexibility. Annual paid leaves and casual leaves. Comprehensive health insurance for self and family",
+    "industry": "healthcare",
+    "occupationalCategory": "Surgeon",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Recognition and rewards programs, Life and accident insurance, Work-from-home flexibility, Annual paid leaves and casual leaves, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "RML Hospital Holdings Services, one of India's leading organizations, is hiring a Surgeon for our Kochi operations. We offer a competitive salary package along ",
+    "keywords": "Surgeon, RML Hospital Holdings Services, jobs in Kochi, Kerala jobs, healthcare jobs India, Clinical Documentation, Patient Care, Medical Ethics, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:58:05.819Z",
+  "page": 303
+}
