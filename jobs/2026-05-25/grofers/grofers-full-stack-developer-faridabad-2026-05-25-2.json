@@ -1,0 +1,93 @@
+{
+  "slug": "grofers-full-stack-developer-faridabad-2026-05-25-2",
+  "title": "Grofers is Hiring: Full Stack Developer (Senior)",
+  "company": "Grofers",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Faridabad",
+    "state": "Haryana",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "React",
+    "JavaScript",
+    "MongoDB",
+    "Machine Learning",
+    "Kubernetes",
+    "Rust",
+    "Docker",
+    "TensorFlow"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Grofers is Hiring: Full Stack Developer (Senior)",
+    "description": "Grofers invites applications from qualified candidates for the position of Full Stack Developer at our Faridabad location. This role offers excellent career advancement prospects.\n\nAbout Grofers:\nGrofers is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in on-call rotation for production support\n• Collaborate with cross-functional teams including product, design, and QA\n• Write and execute unit tests and integration tests\n• Write clean, maintainable, and well-documented code\n• Optimize application performance and ensure high availability\n• Implement new features based on product requirements\n• Troubleshoot, debug, and resolve software defects and performance issues\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 6-10 years of relevant experience\n• Proficiency in React\n• Proficiency in JavaScript\n• Proficiency in MongoDB\n• Proficiency in Machine Learning\n• Proficiency in Kubernetes\n• Proficiency in Rust\n• Proficiency in Docker\n• Proficiency in TensorFlow\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Meal coupons and food allowance\n• Maternity and paternity leave\n• Annual performance appraisal\n• Annual paid leaves and casual leaves\n• Modern office with recreational facilities\n• Work-from-home flexibility\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Faridabad, Haryana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Grofers!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Grofers",
+      "value": "102-2-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Grofers",
+      "sameAs": "https://www.google.com/search?q=Grofers",
+      "logo": "https://logo.clearbit.com/grofers.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Grofers Office",
+        "addressLocality": "Faridabad",
+        "addressRegion": "Haryana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "React, JavaScript, MongoDB, Machine Learning, Kubernetes, Rust, Docker, TensorFlow",
+    "responsibilities": "Participate in on-call rotation for production support. Collaborate with cross-functional teams including product, design, and QA. Write and execute unit tests and integration tests. Write clean, maintainable, and well-documented code. Optimize application performance and ensure high availability. Implement new features based on product requirements. Troubleshoot, debug, and resolve software defects and performance issues",
+    "benefits": "Meal coupons and food allowance. Maternity and paternity leave. Annual performance appraisal. Annual paid leaves and casual leaves. Modern office with recreational facilities. Work-from-home flexibility",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Meal coupons and food allowance, Maternity and paternity leave, Annual performance appraisal, Annual paid leaves and casual leaves, Modern office with recreational facilities, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "Grofers invites applications from qualified candidates for the position of Full Stack Developer at our Faridabad location. This role offers excellent career adv",
+    "keywords": "Full Stack Developer, Grofers, jobs in Faridabad, Haryana jobs, technology jobs India, React, JavaScript, MongoDB, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:20:42.315Z",
+  "page": 25
+}

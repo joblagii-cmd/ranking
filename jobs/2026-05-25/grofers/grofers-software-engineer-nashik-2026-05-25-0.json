@@ -1,0 +1,93 @@
+{
+  "slug": "grofers-software-engineer-nashik-2026-05-25-0",
+  "title": "Opening for Software Engineer at Grofers",
+  "company": "Grofers",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Machine Learning",
+    "Microservices",
+    "Rust",
+    "React",
+    "JavaScript",
+    "TensorFlow",
+    "MongoDB",
+    "AWS"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Opening for Software Engineer at Grofers",
+    "description": "Join the Grofers family as a Software Engineer in Nashik. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Grofers:\nGrofers is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in code reviews and contribute to technical discussions\n• Optimize application performance and ensure high availability\n• Ensure code security and follow best practices for data protection\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Collaborate with cross-functional teams including product, design, and QA\n• Design, develop and maintain scalable software applications\n• Contribute to system architecture and technical design decisions\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 12-20 years of relevant experience\n• Proficiency in Machine Learning\n• Proficiency in Microservices\n• Proficiency in Rust\n• Proficiency in React\n• Proficiency in JavaScript\n• Proficiency in TensorFlow\n• Proficiency in MongoDB\n• Proficiency in AWS\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Meal coupons and food allowance\n• Life and accident insurance\n• Maternity and paternity leave\n• Modern office with recreational facilities\n• Provident Fund and Gratuity as per company policy\n• Annual performance appraisal\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Nashik, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Grofers!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Grofers",
+      "value": "102-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Grofers",
+      "sameAs": "https://www.google.com/search?q=Grofers",
+      "logo": "https://logo.clearbit.com/grofers.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Grofers Office",
+        "addressLocality": "Nashik",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "Machine Learning, Microservices, Rust, React, JavaScript, TensorFlow, MongoDB, AWS",
+    "responsibilities": "Participate in code reviews and contribute to technical discussions. Optimize application performance and ensure high availability. Ensure code security and follow best practices for data protection. Mentor junior developers and conduct knowledge-sharing sessions. Collaborate with cross-functional teams including product, design, and QA. Design, develop and maintain scalable software applications. Contribute to system architecture and technical design decisions",
+    "benefits": "Meal coupons and food allowance. Life and accident insurance. Maternity and paternity leave. Modern office with recreational facilities. Provident Fund and Gratuity as per company policy. Annual performance appraisal",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Meal coupons and food allowance, Life and accident insurance, Maternity and paternity leave, Modern office with recreational facilities, Provident Fund and Gratuity as per company policy, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "Join the Grofers family as a Software Engineer in Nashik. We believe in empowering our employees with the tools, training, and environment they need to succeed.",
+    "keywords": "Software Engineer, Grofers, jobs in Nashik, Maharashtra jobs, technology jobs India, Machine Learning, Microservices, Rust, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:20:42.315Z",
+  "page": 25
+}

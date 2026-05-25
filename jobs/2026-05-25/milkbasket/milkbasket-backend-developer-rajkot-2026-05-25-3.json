@@ -1,0 +1,94 @@
+{
+  "slug": "milkbasket-backend-developer-rajkot-2026-05-25-3",
+  "title": "Backend Developer Vacancy at Milkbasket - 2026 Batch",
+  "company": "Milkbasket",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "JavaScript",
+    "Kubernetes",
+    "TypeScript",
+    "Python",
+    "CI/CD",
+    "MongoDB",
+    "Java",
+    "REST APIs"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Milkbasket - 2026 Batch",
+    "description": "Milkbasket invites applications from qualified candidates for the position of Backend Developer at our Rajkot location. This role offers excellent career advancement prospects.\n\nAbout Milkbasket:\nMilkbasket is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Implement new features based on product requirements\n• Collaborate with cross-functional teams including product, design, and QA\n• Write and execute unit tests and integration tests\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Ensure code security and follow best practices for data protection\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Participate in on-call rotation for production support\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 0-1 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Kubernetes\n• Proficiency in TypeScript\n• Proficiency in Python\n• Proficiency in CI/CD\n• Proficiency in MongoDB\n• Proficiency in Java\n• Proficiency in REST APIs\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Mobile and internet reimbursement\n• Learning & development budget\n• Transportation and conveyance allowance\n• Comprehensive health insurance for self and family\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Rajkot, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Milkbasket!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Milkbasket",
+      "value": "104-3-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Milkbasket",
+      "sameAs": "https://www.google.com/search?q=Milkbasket",
+      "logo": "https://logo.clearbit.com/milkbasket.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Milkbasket Office",
+        "addressLocality": "Rajkot",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "JavaScript, Kubernetes, TypeScript, Python, CI/CD, MongoDB, Java, REST APIs",
+    "responsibilities": "Implement new features based on product requirements. Collaborate with cross-functional teams including product, design, and QA. Write and execute unit tests and integration tests. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Ensure code security and follow best practices for data protection. Mentor junior developers and conduct knowledge-sharing sessions. Participate in on-call rotation for production support",
+    "benefits": "Competitive salary with performance-linked incentives. Mobile and internet reimbursement. Learning & development budget. Transportation and conveyance allowance. Comprehensive health insurance for self and family. Provident Fund and Gratuity as per company policy",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Mobile and internet reimbursement, Learning & development budget, Transportation and conveyance allowance, Comprehensive health insurance for self and family, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "Milkbasket invites applications from qualified candidates for the position of Backend Developer at our Rajkot location. This role offers excellent career advanc",
+    "keywords": "Backend Developer, Milkbasket, jobs in Rajkot, Gujarat jobs, technology jobs India, JavaScript, Kubernetes, TypeScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:20:42.315Z",
+  "page": 25
+}
