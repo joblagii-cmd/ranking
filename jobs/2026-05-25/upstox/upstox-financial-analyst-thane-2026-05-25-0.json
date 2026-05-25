@@ -1,0 +1,93 @@
+{
+  "slug": "upstox-financial-analyst-thane-2026-05-25-0",
+  "title": "Job Opening Financial Analyst at Upstox",
+  "company": "Upstox",
+  "industry": "finance",
+  "role": "Financial Analyst",
+  "location": {
+    "city": "Thane",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "IFRS",
+    "Bloomberg Terminal",
+    "Financial Modeling",
+    "Risk Management",
+    "Power BI",
+    "GST",
+    "Python for Finance",
+    "Financial Reporting"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Job Opening Financial Analyst at Upstox",
+    "description": "If you're a passionate Financial Analyst with drive and ambition, Upstox in Thane is the place for you. We're growing fast and need talented people to grow with us.\n\nAbout Upstox:\nUpstox is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Prepare and analyze financial statements, reports, and budgets\n• Monitor financial performance against targets and provide variance analysis\n• Coordinate with external auditors during annual audits\n• Manage credit risk assessment and loan appraisal processes\n• Monitor market trends and provide investment recommendations\n• Develop financial models and projections for business planning\n• Prepare MIS reports for senior management review\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 3-6 years of relevant experience\n• Proficiency in IFRS\n• Proficiency in Bloomberg Terminal\n• Proficiency in Financial Modeling\n• Proficiency in Risk Management\n• Proficiency in Power BI\n• Proficiency in GST\n• Proficiency in Python for Finance\n• Proficiency in Financial Reporting\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Comprehensive health insurance for self and family\n• Transportation and conveyance allowance\n• Life and accident insurance\n• Recognition and rewards programs\n• Competitive salary with performance-linked incentives\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Thane, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Upstox!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Upstox",
+      "value": "169-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Upstox",
+      "sameAs": "https://www.google.com/search?q=Upstox",
+      "logo": "https://logo.clearbit.com/upstox.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Upstox Office",
+        "addressLocality": "Thane",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "IFRS, Bloomberg Terminal, Financial Modeling, Risk Management, Power BI, GST, Python for Finance, Financial Reporting",
+    "responsibilities": "Prepare and analyze financial statements, reports, and budgets. Monitor financial performance against targets and provide variance analysis. Coordinate with external auditors during annual audits. Manage credit risk assessment and loan appraisal processes. Monitor market trends and provide investment recommendations. Develop financial models and projections for business planning. Prepare MIS reports for senior management review",
+    "benefits": "Work-from-home flexibility. Comprehensive health insurance for self and family. Transportation and conveyance allowance. Life and accident insurance. Recognition and rewards programs. Competitive salary with performance-linked incentives",
+    "industry": "finance",
+    "occupationalCategory": "Financial Analyst",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Comprehensive health insurance for self and family, Transportation and conveyance allowance, Life and accident insurance, Recognition and rewards programs, Competitive salary with performance-linked incentives"
+  },
+  "meta": {
+    "description": "If you're a passionate Financial Analyst with drive and ambition, Upstox in Thane is the place for you. We're growing fast and need talented people to grow with",
+    "keywords": "Financial Analyst, Upstox, jobs in Thane, Maharashtra jobs, finance jobs India, IFRS, Bloomberg Terminal, Financial Modeling, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:23:04.114Z",
+  "page": 42
+}
