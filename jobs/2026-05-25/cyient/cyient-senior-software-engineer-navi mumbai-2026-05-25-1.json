@@ -1,0 +1,93 @@
+{
+  "slug": "cyient-senior-software-engineer-navi mumbai-2026-05-25-1",
+  "title": "Senior Software Engineer - Cyient - Freshers Welcome",
+  "company": "Cyient",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "TypeScript",
+    "Java",
+    "Python",
+    "Git",
+    "MongoDB",
+    "Docker",
+    "AWS",
+    "Node.js"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Cyient - Freshers Welcome",
+    "description": "Are you a skilled Senior Software Engineer looking for your next big career move? Cyient in Navi Mumbai offers you the perfect platform to grow professionally and personally.\n\nAbout Cyient:\nCyient is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Ensure code security and follow best practices for data protection\n• Optimize application performance and ensure high availability\n• Contribute to system architecture and technical design decisions\n• Integrate third-party APIs and services\n• Write clean, maintainable, and well-documented code\n• Implement new features based on product requirements\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 10-15 years of relevant experience\n• Proficiency in TypeScript\n• Proficiency in Java\n• Proficiency in Python\n• Proficiency in Git\n• Proficiency in MongoDB\n• Proficiency in Docker\n• Proficiency in AWS\n• Proficiency in Node.js\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Professional development and training programs\n• Life and accident insurance\n• Referral bonus program\n• Annual paid leaves and casual leaves\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Navi Mumbai, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Cyient!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Cyient",
+      "value": "33-1-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Cyient",
+      "sameAs": "https://www.google.com/search?q=Cyient",
+      "logo": "https://logo.clearbit.com/cyient.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Cyient Office",
+        "addressLocality": "Navi Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "TypeScript, Java, Python, Git, MongoDB, Docker, AWS, Node.js",
+    "responsibilities": "Design, develop and maintain scalable software applications. Ensure code security and follow best practices for data protection. Optimize application performance and ensure high availability. Contribute to system architecture and technical design decisions. Integrate third-party APIs and services. Write clean, maintainable, and well-documented code. Implement new features based on product requirements",
+    "benefits": "International travel opportunities for senior roles. Professional development and training programs. Life and accident insurance. Referral bonus program. Annual paid leaves and casual leaves. Provident Fund and Gratuity as per company policy",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Professional development and training programs, Life and accident insurance, Referral bonus program, Annual paid leaves and casual leaves, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "Are you a skilled Senior Software Engineer looking for your next big career move? Cyient in Navi Mumbai offers you the perfect platform to grow professionally a",
+    "keywords": "Senior Software Engineer, Cyient, jobs in Navi Mumbai, Maharashtra jobs, technology jobs India, TypeScript, Java, Python, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:18:18.447Z",
+  "page": 8
+}
