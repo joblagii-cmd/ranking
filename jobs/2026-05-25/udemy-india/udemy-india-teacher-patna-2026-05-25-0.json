@@ -1,0 +1,93 @@
+{
+  "slug": "udemy-india-teacher-patna-2026-05-25-0",
+  "title": "Vacancy for Teacher at Udemy India",
+  "company": "Udemy India",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Patna",
+    "state": "Bihar",
+    "region": "Eastern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Pedagogy",
+    "Zoom/Teams",
+    "Bloom's Taxonomy",
+    "Classroom Management",
+    "Special Education",
+    "LMS Platforms",
+    "IB Curriculum",
+    "Lesson Planning"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Vacancy for Teacher at Udemy India",
+    "description": "Udemy India, one of India's leading organizations, is hiring a Teacher for our Patna operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Udemy India:\nUdemy India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Maintain classroom discipline and create a positive learning environment\n• Participate in teacher training and professional development programs\n• Conduct doubt-clearing sessions and remedial classes for weak students\n• Create curriculum-aligned learning materials and assessments\n• Conduct parent-teacher meetings and update parents on student performance\n• Contribute to school newsletter, blogs, and other publications\n• Coordinate with academic counselors for student career guidance\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 3-6 years of relevant experience\n• Proficiency in Pedagogy\n• Proficiency in Zoom/Teams\n• Proficiency in Bloom's Taxonomy\n• Proficiency in Classroom Management\n• Proficiency in Special Education\n• Proficiency in LMS Platforms\n• Proficiency in IB Curriculum\n• Proficiency in Lesson Planning\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Referral bonus program\n• Annual performance appraisal\n• Modern office with recreational facilities\n• Work-from-home flexibility\n• Comprehensive health insurance for self and family\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Patna, Bihar, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Udemy India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Udemy India",
+      "value": "509-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Udemy India",
+      "sameAs": "https://www.google.com/search?q=Udemy%20India",
+      "logo": "https://logo.clearbit.com/udemyindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Udemy India Office",
+        "addressLocality": "Patna",
+        "addressRegion": "Bihar",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "Pedagogy, Zoom/Teams, Bloom's Taxonomy, Classroom Management, Special Education, LMS Platforms, IB Curriculum, Lesson Planning",
+    "responsibilities": "Maintain classroom discipline and create a positive learning environment. Participate in teacher training and professional development programs. Conduct doubt-clearing sessions and remedial classes for weak students. Create curriculum-aligned learning materials and assessments. Conduct parent-teacher meetings and update parents on student performance. Contribute to school newsletter, blogs, and other publications. Coordinate with academic counselors for student career guidance",
+    "benefits": "Provident Fund and Gratuity as per company policy. Referral bonus program. Annual performance appraisal. Modern office with recreational facilities. Work-from-home flexibility. Comprehensive health insurance for self and family",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Referral bonus program, Annual performance appraisal, Modern office with recreational facilities, Work-from-home flexibility, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "Udemy India, one of India's leading organizations, is hiring a Teacher for our Patna operations. We offer a competitive salary package along with world-class be",
+    "keywords": "Teacher, Udemy India, jobs in Patna, Bihar jobs, education jobs India, Pedagogy, Zoom/Teams, Bloom's Taxonomy, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:34:34.399Z",
+  "page": 127
+}
