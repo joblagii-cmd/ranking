@@ -1,0 +1,94 @@
+{
+  "slug": "berger-paints-global-group-process-engineer-agra-2026-05-25-3",
+  "title": "Process Engineer Vacancy at Berger Paints Global Group - 2026 Batch",
+  "company": "Berger Paints Global Group",
+  "industry": "manufacturing",
+  "role": "Process Engineer",
+  "location": {
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "SAP MM/PP",
+    "Project Management",
+    "5S",
+    "Quality Control",
+    "ERP Systems",
+    "PPAP",
+    "FMEA",
+    "Supply Chain Management"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Process Engineer Vacancy at Berger Paints Global Group - 2026 Batch",
+    "description": "Berger Paints Global Group is actively seeking a talented and motivated Process Engineer to join our dynamic team in Agra. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout Berger Paints Global Group:\nBerger Paints Global Group is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure environmental compliance and waste management\n• Prepare production cost analysis and efficiency reports\n• Monitor equipment performance and coordinate preventive maintenance\n• Coordinate with design and engineering teams on product improvements\n• Coordinate with logistics for dispatching finished goods\n• Manage supplier quality audits and vendor development\n• Implement lean manufacturing and continuous improvement initiatives\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 0-1 years of relevant experience\n• Proficiency in SAP MM/PP\n• Proficiency in Project Management\n• Proficiency in 5S\n• Proficiency in Quality Control\n• Proficiency in ERP Systems\n• Proficiency in PPAP\n• Proficiency in FMEA\n• Proficiency in Supply Chain Management\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Flexible working hours\n• Annual performance appraisal\n• Transportation and conveyance allowance\n• Meal coupons and food allowance\n• Annual paid leaves and casual leaves\n• Competitive salary with performance-linked incentives\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Agra, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Berger Paints Global Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Berger Paints Global Group",
+      "value": "1347-3-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Berger Paints Global Group",
+      "sameAs": "https://www.google.com/search?q=Berger%20Paints%20Global%20Group",
+      "logo": "https://logo.clearbit.com/bergerpaintsglobalgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Berger Paints Global Group Office",
+        "addressLocality": "Agra",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "SAP MM/PP, Project Management, 5S, Quality Control, ERP Systems, PPAP, FMEA, Supply Chain Management",
+    "responsibilities": "Ensure environmental compliance and waste management. Prepare production cost analysis and efficiency reports. Monitor equipment performance and coordinate preventive maintenance. Coordinate with design and engineering teams on product improvements. Coordinate with logistics for dispatching finished goods. Manage supplier quality audits and vendor development. Implement lean manufacturing and continuous improvement initiatives",
+    "benefits": "Flexible working hours. Annual performance appraisal. Transportation and conveyance allowance. Meal coupons and food allowance. Annual paid leaves and casual leaves. Competitive salary with performance-linked incentives",
+    "industry": "manufacturing",
+    "occupationalCategory": "Process Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, Annual performance appraisal, Transportation and conveyance allowance, Meal coupons and food allowance, Annual paid leaves and casual leaves, Competitive salary with performance-linked incentives"
+  },
+  "meta": {
+    "description": "Berger Paints Global Group is actively seeking a talented and motivated Process Engineer to join our dynamic team in Agra. This is an excellent opportunity for ",
+    "keywords": "Process Engineer, Berger Paints Global Group, jobs in Agra, Uttar Pradesh jobs, manufacturing jobs India, SAP MM/PP, Project Management, 5S, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T07:02:51.867Z",
+  "page": 336
+}
