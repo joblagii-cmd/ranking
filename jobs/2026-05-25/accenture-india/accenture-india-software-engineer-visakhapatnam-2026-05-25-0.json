@@ -1,0 +1,94 @@
+{
+  "slug": "accenture-india-software-engineer-visakhapatnam-2026-05-25-0",
+  "title": "Urgent Opening Software Engineer at Accenture India",
+  "company": "Accenture India",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Java",
+    "Microservices",
+    "React",
+    "Machine Learning",
+    "REST APIs",
+    "TensorFlow",
+    "TypeScript",
+    "Docker"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Urgent Opening Software Engineer at Accenture India",
+    "description": "Accenture India has an exciting opening for a Software Engineer at our Visakhapatnam office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Accenture India:\nAccenture India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Write clean, maintainable, and well-documented code\n• Design, develop and maintain scalable software applications\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Participate in code reviews and contribute to technical discussions\n• Write and execute unit tests and integration tests\n• Work with agile methodologies including daily stand-ups and sprint planning\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 12-20 years of relevant experience\n• Proficiency in Java\n• Proficiency in Microservices\n• Proficiency in React\n• Proficiency in Machine Learning\n• Proficiency in REST APIs\n• Proficiency in TensorFlow\n• Proficiency in TypeScript\n• Proficiency in Docker\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Competitive salary with performance-linked incentives\n• Flexible working hours\n• Comprehensive health insurance for self and family\n• Annual performance appraisal\n• Work-from-home flexibility\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Visakhapatnam, Andhra Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Accenture India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Accenture India",
+      "value": "7-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Accenture India",
+      "sameAs": "https://www.google.com/search?q=Accenture%20India",
+      "logo": "https://logo.clearbit.com/accentureindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Accenture India Office",
+        "addressLocality": "Visakhapatnam",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "Java, Microservices, React, Machine Learning, REST APIs, TensorFlow, TypeScript, Docker",
+    "responsibilities": "Troubleshoot, debug, and resolve software defects and performance issues. Write clean, maintainable, and well-documented code. Design, develop and maintain scalable software applications. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Participate in code reviews and contribute to technical discussions. Write and execute unit tests and integration tests. Work with agile methodologies including daily stand-ups and sprint planning",
+    "benefits": "Transportation and conveyance allowance. Competitive salary with performance-linked incentives. Flexible working hours. Comprehensive health insurance for self and family. Annual performance appraisal. Work-from-home flexibility",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Competitive salary with performance-linked incentives, Flexible working hours, Comprehensive health insurance for self and family, Annual performance appraisal, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "Accenture India has an exciting opening for a Software Engineer at our Visakhapatnam office. Join a company that values innovation, collaboration, and continuou",
+    "keywords": "Software Engineer, Accenture India, jobs in Visakhapatnam, Andhra Pradesh jobs, technology jobs India, Java, Microservices, React, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:17:17.741Z",
+  "page": 1
+}

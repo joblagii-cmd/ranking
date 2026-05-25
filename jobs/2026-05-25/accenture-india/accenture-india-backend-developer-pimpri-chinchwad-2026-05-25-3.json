@@ -1,0 +1,94 @@
+{
+  "slug": "accenture-india-backend-developer-pimpri-chinchwad-2026-05-25-3",
+  "title": "Backend Developer Vacancy at Accenture India - 2026 Batch",
+  "company": "Accenture India",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Pimpri-Chinchwad",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Agile/Scrum",
+    "REST APIs",
+    "Kubernetes",
+    "CI/CD",
+    "Machine Learning",
+    "Java",
+    "Python",
+    "TypeScript"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Accenture India - 2026 Batch",
+    "description": "Are you a skilled Backend Developer looking for your next big career move? Accenture India in Pimpri-Chinchwad offers you the perfect platform to grow professionally and personally.\n\nAbout Accenture India:\nAccenture India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write clean, maintainable, and well-documented code\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Design, develop and maintain scalable software applications\n• Optimize application performance and ensure high availability\n• Troubleshoot, debug, and resolve software defects and performance issues\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 1-3 years of relevant experience\n• Proficiency in Agile/Scrum\n• Proficiency in REST APIs\n• Proficiency in Kubernetes\n• Proficiency in CI/CD\n• Proficiency in Machine Learning\n• Proficiency in Java\n• Proficiency in Python\n• Proficiency in TypeScript\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Flexible working hours\n• International travel opportunities for senior roles\n• Modern office with recreational facilities\n• Life and accident insurance\n• Work-from-home flexibility\n• Maternity and paternity leave\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Pimpri-Chinchwad, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Accenture India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Accenture India",
+      "value": "7-3-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Accenture India",
+      "sameAs": "https://www.google.com/search?q=Accenture%20India",
+      "logo": "https://logo.clearbit.com/accentureindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Accenture India Office",
+        "addressLocality": "Pimpri-Chinchwad",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Agile/Scrum, REST APIs, Kubernetes, CI/CD, Machine Learning, Java, Python, TypeScript",
+    "responsibilities": "Write clean, maintainable, and well-documented code. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Work with agile methodologies including daily stand-ups and sprint planning. Mentor junior developers and conduct knowledge-sharing sessions. Design, develop and maintain scalable software applications. Optimize application performance and ensure high availability. Troubleshoot, debug, and resolve software defects and performance issues",
+    "benefits": "Flexible working hours. International travel opportunities for senior roles. Modern office with recreational facilities. Life and accident insurance. Work-from-home flexibility. Maternity and paternity leave",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, International travel opportunities for senior roles, Modern office with recreational facilities, Life and accident insurance, Work-from-home flexibility, Maternity and paternity leave"
+  },
+  "meta": {
+    "description": "Are you a skilled Backend Developer looking for your next big career move? Accenture India in Pimpri-Chinchwad offers you the perfect platform to grow professio",
+    "keywords": "Backend Developer, Accenture India, jobs in Pimpri-Chinchwad, Maharashtra jobs, technology jobs India, Agile/Scrum, REST APIs, Kubernetes, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:17:17.741Z",
+  "page": 1
+}
