@@ -1,0 +1,93 @@
+{
+  "slug": "curefit-consulting-pvt-ltd-frontend-developer-vijayawada-2026-05-25-4",
+  "title": "Entry-Level Frontend Developer at Curefit Consulting Pvt Ltd",
+  "company": "Curefit Consulting Pvt Ltd",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "JavaScript",
+    "Java",
+    "Node.js",
+    "Kubernetes",
+    "MongoDB",
+    "SQL",
+    "Microservices",
+    "TypeScript"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Entry-Level Frontend Developer at Curefit Consulting Pvt Ltd",
+    "description": "Curefit Consulting Pvt Ltd invites applications from qualified candidates for the position of Frontend Developer at our Vijayawada location. This role offers excellent career advancement prospects.\n\nAbout Curefit Consulting Pvt Ltd:\nCurefit Consulting Pvt Ltd is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Participate in code reviews and contribute to technical discussions\n• Participate in on-call rotation for production support\n• Write and execute unit tests and integration tests\n• Collaborate with cross-functional teams including product, design, and QA\n• Write clean, maintainable, and well-documented code\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 6-10 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Java\n• Proficiency in Node.js\n• Proficiency in Kubernetes\n• Proficiency in MongoDB\n• Proficiency in SQL\n• Proficiency in Microservices\n• Proficiency in TypeScript\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Modern office with recreational facilities\n• Employee stock options (ESOPs) for eligible roles\n• Referral bonus program\n• Maternity and paternity leave\n• Work-from-home flexibility\n• Annual performance appraisal\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Vijayawada, Andhra Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Curefit Consulting Pvt Ltd!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Curefit Consulting Pvt Ltd",
+      "value": "1041-4-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Curefit Consulting Pvt Ltd",
+      "sameAs": "https://www.google.com/search?q=Curefit%20Consulting%20Pvt%20Ltd",
+      "logo": "https://logo.clearbit.com/curefitconsultingpvtltd.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Curefit Consulting Pvt Ltd Office",
+        "addressLocality": "Vijayawada",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "JavaScript, Java, Node.js, Kubernetes, MongoDB, SQL, Microservices, TypeScript",
+    "responsibilities": "Troubleshoot, debug, and resolve software defects and performance issues. Work with agile methodologies including daily stand-ups and sprint planning. Participate in code reviews and contribute to technical discussions. Participate in on-call rotation for production support. Write and execute unit tests and integration tests. Collaborate with cross-functional teams including product, design, and QA. Write clean, maintainable, and well-documented code",
+    "benefits": "Modern office with recreational facilities. Employee stock options (ESOPs) for eligible roles. Referral bonus program. Maternity and paternity leave. Work-from-home flexibility. Annual performance appraisal",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Modern office with recreational facilities, Employee stock options (ESOPs) for eligible roles, Referral bonus program, Maternity and paternity leave, Work-from-home flexibility, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "Curefit Consulting Pvt Ltd invites applications from qualified candidates for the position of Frontend Developer at our Vijayawada location. This role offers ex",
+    "keywords": "Frontend Developer, Curefit Consulting Pvt Ltd, jobs in Vijayawada, Andhra Pradesh jobs, technology jobs India, JavaScript, Java, Node.js, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:52:22.916Z",
+  "page": 260
+}
