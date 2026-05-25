@@ -1,0 +1,94 @@
+{
+  "slug": "indiamart-advisory-limited-senior-software-engineer-srinagar-2026-05-25-1",
+  "title": "Senior Software Engineer - IndiaMart Advisory Limited - Work From Home Available",
+  "company": "IndiaMart Advisory Limited",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Srinagar",
+    "state": "Jammu & Kashmir",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Microservices",
+    "REST APIs",
+    "Docker",
+    "Agile/Scrum",
+    "MongoDB",
+    "React",
+    "JavaScript",
+    "SQL"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - IndiaMart Advisory Limited - Work From Home Available",
+    "description": "IndiaMart Advisory Limited has an exciting opening for a Senior Software Engineer at our Srinagar office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout IndiaMart Advisory Limited:\nIndiaMart Advisory Limited is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Write clean, maintainable, and well-documented code\n• Contribute to system architecture and technical design decisions\n• Implement new features based on product requirements\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Ensure code security and follow best practices for data protection\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 10-15 years of relevant experience\n• Proficiency in Microservices\n• Proficiency in REST APIs\n• Proficiency in Docker\n• Proficiency in Agile/Scrum\n• Proficiency in MongoDB\n• Proficiency in React\n• Proficiency in JavaScript\n• Proficiency in SQL\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Recognition and rewards programs\n• Provident Fund and Gratuity as per company policy\n• Maternity and paternity leave\n• Modern office with recreational facilities\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Srinagar, Jammu & Kashmir, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with IndiaMart Advisory Limited!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "IndiaMart Advisory Limited",
+      "value": "942-1-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "IndiaMart Advisory Limited",
+      "sameAs": "https://www.google.com/search?q=IndiaMart%20Advisory%20Limited",
+      "logo": "https://logo.clearbit.com/indiamartadvisorylimited.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "IndiaMart Advisory Limited Office",
+        "addressLocality": "Srinagar",
+        "addressRegion": "Jammu & Kashmir",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "Microservices, REST APIs, Docker, Agile/Scrum, MongoDB, React, JavaScript, SQL",
+    "responsibilities": "Design, develop and maintain scalable software applications. Troubleshoot, debug, and resolve software defects and performance issues. Write clean, maintainable, and well-documented code. Contribute to system architecture and technical design decisions. Implement new features based on product requirements. Mentor junior developers and conduct knowledge-sharing sessions. Ensure code security and follow best practices for data protection",
+    "benefits": "Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Recognition and rewards programs. Provident Fund and Gratuity as per company policy. Maternity and paternity leave. Modern office with recreational facilities",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Recognition and rewards programs, Provident Fund and Gratuity as per company policy, Maternity and paternity leave, Modern office with recreational facilities"
+  },
+  "meta": {
+    "description": "IndiaMart Advisory Limited has an exciting opening for a Senior Software Engineer at our Srinagar office. Join a company that values innovation, collaboration, ",
+    "keywords": "Senior Software Engineer, IndiaMart Advisory Limited, jobs in Srinagar, Jammu & Kashmir jobs, technology jobs India, Microservices, REST APIs, Docker, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:49:03.530Z",
+  "page": 235
+}

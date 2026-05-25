@@ -1,0 +1,94 @@
+{
+  "slug": "indiamart-advisory-limited-frontend-developer-dhanbad-2026-05-25-4",
+  "title": "Lead Frontend Developer at IndiaMart Advisory Limited",
+  "company": "IndiaMart Advisory Limited",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Dhanbad",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Node.js",
+    "Docker",
+    "Git",
+    "CI/CD",
+    "REST APIs",
+    "Go",
+    "SQL",
+    "Microservices"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Lead Frontend Developer at IndiaMart Advisory Limited",
+    "description": "IndiaMart Advisory Limited has an exciting opening for a Frontend Developer at our Dhanbad office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout IndiaMart Advisory Limited:\nIndiaMart Advisory Limited is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Write clean, maintainable, and well-documented code\n• Contribute to system architecture and technical design decisions\n• Integrate third-party APIs and services\n• Implement new features based on product requirements\n• Troubleshoot, debug, and resolve software defects and performance issues\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 1-3 years of relevant experience\n• Proficiency in Node.js\n• Proficiency in Docker\n• Proficiency in Git\n• Proficiency in CI/CD\n• Proficiency in REST APIs\n• Proficiency in Go\n• Proficiency in SQL\n• Proficiency in Microservices\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Flexible working hours\n• International travel opportunities for senior roles\n• Employee stock options (ESOPs) for eligible roles\n• Recognition and rewards programs\n• Company-sponsored certifications\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Dhanbad, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with IndiaMart Advisory Limited!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "IndiaMart Advisory Limited",
+      "value": "942-4-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "IndiaMart Advisory Limited",
+      "sameAs": "https://www.google.com/search?q=IndiaMart%20Advisory%20Limited",
+      "logo": "https://logo.clearbit.com/indiamartadvisorylimited.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "IndiaMart Advisory Limited Office",
+        "addressLocality": "Dhanbad",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Node.js, Docker, Git, CI/CD, REST APIs, Go, SQL, Microservices",
+    "responsibilities": "Design, develop and maintain scalable software applications. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Write clean, maintainable, and well-documented code. Contribute to system architecture and technical design decisions. Integrate third-party APIs and services. Implement new features based on product requirements. Troubleshoot, debug, and resolve software defects and performance issues",
+    "benefits": "Flexible working hours. International travel opportunities for senior roles. Employee stock options (ESOPs) for eligible roles. Recognition and rewards programs. Company-sponsored certifications. Provident Fund and Gratuity as per company policy",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, International travel opportunities for senior roles, Employee stock options (ESOPs) for eligible roles, Recognition and rewards programs, Company-sponsored certifications, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "IndiaMart Advisory Limited has an exciting opening for a Frontend Developer at our Dhanbad office. Join a company that values innovation, collaboration, and con",
+    "keywords": "Frontend Developer, IndiaMart Advisory Limited, jobs in Dhanbad, Jharkhand jobs, technology jobs India, Node.js, Docker, Git, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:49:03.530Z",
+  "page": 235
+}

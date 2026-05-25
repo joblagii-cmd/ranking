@@ -1,0 +1,93 @@
+{
+  "slug": "indiamart-advisory-limited-full-stack-developer-aurangabad-2026-05-25-2",
+  "title": "IndiaMart Advisory Limited is Hiring: Full Stack Developer (Lead)",
+  "company": "IndiaMart Advisory Limited",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Aurangabad",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "MongoDB",
+    "Java",
+    "AWS",
+    "TensorFlow",
+    "Rust",
+    "TypeScript",
+    "Microservices",
+    "REST APIs"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "IndiaMart Advisory Limited is Hiring: Full Stack Developer (Lead)",
+    "description": "IndiaMart Advisory Limited has an exciting opening for a Full Stack Developer at our Aurangabad office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout IndiaMart Advisory Limited:\nIndiaMart Advisory Limited is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write and execute unit tests and integration tests\n• Participate in code reviews and contribute to technical discussions\n• Write clean, maintainable, and well-documented code\n• Ensure code security and follow best practices for data protection\n• Collaborate with cross-functional teams including product, design, and QA\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Optimize application performance and ensure high availability\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 6-10 years of relevant experience\n• Proficiency in MongoDB\n• Proficiency in Java\n• Proficiency in AWS\n• Proficiency in TensorFlow\n• Proficiency in Rust\n• Proficiency in TypeScript\n• Proficiency in Microservices\n• Proficiency in REST APIs\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Annual performance appraisal\n• Company-sponsored certifications\n• Mobile and internet reimbursement\n• Annual paid leaves and casual leaves\n• Life and accident insurance\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Aurangabad, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with IndiaMart Advisory Limited!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "IndiaMart Advisory Limited",
+      "value": "942-2-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "IndiaMart Advisory Limited",
+      "sameAs": "https://www.google.com/search?q=IndiaMart%20Advisory%20Limited",
+      "logo": "https://logo.clearbit.com/indiamartadvisorylimited.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "IndiaMart Advisory Limited Office",
+        "addressLocality": "Aurangabad",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "MongoDB, Java, AWS, TensorFlow, Rust, TypeScript, Microservices, REST APIs",
+    "responsibilities": "Write and execute unit tests and integration tests. Participate in code reviews and contribute to technical discussions. Write clean, maintainable, and well-documented code. Ensure code security and follow best practices for data protection. Collaborate with cross-functional teams including product, design, and QA. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Optimize application performance and ensure high availability",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Annual performance appraisal. Company-sponsored certifications. Mobile and internet reimbursement. Annual paid leaves and casual leaves. Life and accident insurance",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Annual performance appraisal, Company-sponsored certifications, Mobile and internet reimbursement, Annual paid leaves and casual leaves, Life and accident insurance"
+  },
+  "meta": {
+    "description": "IndiaMart Advisory Limited has an exciting opening for a Full Stack Developer at our Aurangabad office. Join a company that values innovation, collaboration, an",
+    "keywords": "Full Stack Developer, IndiaMart Advisory Limited, jobs in Aurangabad, Maharashtra jobs, technology jobs India, MongoDB, Java, AWS, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:49:03.530Z",
+  "page": 235
+}

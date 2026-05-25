@@ -1,0 +1,93 @@
+{
+  "slug": "naukri-com-capital-india-backend-developer-dhanbad-2026-05-25-3",
+  "title": "Backend Developer Vacancy at Naukri.com Capital India - 2026 Batch",
+  "company": "Naukri.com Capital India",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Dhanbad",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Java",
+    "Kubernetes",
+    "Docker",
+    "Rust",
+    "Git",
+    "Node.js",
+    "TypeScript",
+    "Machine Learning"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Naukri.com Capital India - 2026 Batch",
+    "description": "Naukri.com Capital India has an exciting opening for a Backend Developer at our Dhanbad office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Naukri.com Capital India:\nNaukri.com Capital India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Design, develop and maintain scalable software applications\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Integrate third-party APIs and services\n• Optimize application performance and ensure high availability\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Mentor junior developers and conduct knowledge-sharing sessions\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 0-1 years of relevant experience\n• Proficiency in Java\n• Proficiency in Kubernetes\n• Proficiency in Docker\n• Proficiency in Rust\n• Proficiency in Git\n• Proficiency in Node.js\n• Proficiency in TypeScript\n• Proficiency in Machine Learning\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Work-from-home flexibility\n• Flexible working hours\n• Recognition and rewards programs\n• Professional development and training programs\n• Learning & development budget\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Dhanbad, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Naukri.com Capital India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Naukri.com Capital India",
+      "value": "943-3-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Naukri.com Capital India",
+      "sameAs": "https://www.google.com/search?q=Naukri.com%20Capital%20India",
+      "logo": "https://logo.clearbit.com/naukricomcapitalindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Naukri.com Capital India Office",
+        "addressLocality": "Dhanbad",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Java, Kubernetes, Docker, Rust, Git, Node.js, TypeScript, Machine Learning",
+    "responsibilities": "Work with agile methodologies including daily stand-ups and sprint planning. Design, develop and maintain scalable software applications. Troubleshoot, debug, and resolve software defects and performance issues. Integrate third-party APIs and services. Optimize application performance and ensure high availability. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Mentor junior developers and conduct knowledge-sharing sessions",
+    "benefits": "International travel opportunities for senior roles. Work-from-home flexibility. Flexible working hours. Recognition and rewards programs. Professional development and training programs. Learning & development budget",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Work-from-home flexibility, Flexible working hours, Recognition and rewards programs, Professional development and training programs, Learning & development budget"
+  },
+  "meta": {
+    "description": "Naukri.com Capital India has an exciting opening for a Backend Developer at our Dhanbad office. Join a company that values innovation, collaboration, and contin",
+    "keywords": "Backend Developer, Naukri.com Capital India, jobs in Dhanbad, Jharkhand jobs, technology jobs India, Java, Kubernetes, Docker, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:49:03.531Z",
+  "page": 235
+}

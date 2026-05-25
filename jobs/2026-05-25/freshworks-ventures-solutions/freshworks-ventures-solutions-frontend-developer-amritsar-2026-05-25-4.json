@@ -1,0 +1,93 @@
+{
+  "slug": "freshworks-ventures-solutions-frontend-developer-amritsar-2026-05-25-4",
+  "title": "Principal Frontend Developer at Freshworks Ventures Solutions",
+  "company": "Freshworks Ventures Solutions",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Amritsar",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "React",
+    "TypeScript",
+    "TensorFlow",
+    "CI/CD",
+    "Java",
+    "Rust",
+    "Go",
+    "REST APIs"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Principal Frontend Developer at Freshworks Ventures Solutions",
+    "description": "Are you a skilled Frontend Developer looking for your next big career move? Freshworks Ventures Solutions in Amritsar offers you the perfect platform to grow professionally and personally.\n\nAbout Freshworks Ventures Solutions:\nFreshworks Ventures Solutions is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write and execute unit tests and integration tests\n• Collaborate with cross-functional teams including product, design, and QA\n• Design, develop and maintain scalable software applications\n• Ensure code security and follow best practices for data protection\n• Implement new features based on product requirements\n• Write clean, maintainable, and well-documented code\n• Optimize application performance and ensure high availability\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 10-15 years of relevant experience\n• Proficiency in React\n• Proficiency in TypeScript\n• Proficiency in TensorFlow\n• Proficiency in CI/CD\n• Proficiency in Java\n• Proficiency in Rust\n• Proficiency in Go\n• Proficiency in REST APIs\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Professional development and training programs\n• Competitive salary with performance-linked incentives\n• Mobile and internet reimbursement\n• Maternity and paternity leave\n• Comprehensive health insurance for self and family\n• Life and accident insurance\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Amritsar, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Freshworks Ventures Solutions!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Freshworks Ventures Solutions",
+      "value": "944-4-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Freshworks Ventures Solutions",
+      "sameAs": "https://www.google.com/search?q=Freshworks%20Ventures%20Solutions",
+      "logo": "https://logo.clearbit.com/freshworksventuressolutions.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Freshworks Ventures Solutions Office",
+        "addressLocality": "Amritsar",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "React, TypeScript, TensorFlow, CI/CD, Java, Rust, Go, REST APIs",
+    "responsibilities": "Write and execute unit tests and integration tests. Collaborate with cross-functional teams including product, design, and QA. Design, develop and maintain scalable software applications. Ensure code security and follow best practices for data protection. Implement new features based on product requirements. Write clean, maintainable, and well-documented code. Optimize application performance and ensure high availability",
+    "benefits": "Professional development and training programs. Competitive salary with performance-linked incentives. Mobile and internet reimbursement. Maternity and paternity leave. Comprehensive health insurance for self and family. Life and accident insurance",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Competitive salary with performance-linked incentives, Mobile and internet reimbursement, Maternity and paternity leave, Comprehensive health insurance for self and family, Life and accident insurance"
+  },
+  "meta": {
+    "description": "Are you a skilled Frontend Developer looking for your next big career move? Freshworks Ventures Solutions in Amritsar offers you the perfect platform to grow pr",
+    "keywords": "Frontend Developer, Freshworks Ventures Solutions, jobs in Amritsar, Punjab jobs, technology jobs India, React, TypeScript, TensorFlow, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:49:03.531Z",
+  "page": 235
+}
