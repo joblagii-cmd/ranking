@@ -1,0 +1,94 @@
+{
+  "slug": "barista-store-manager-ahmedabad-2026-05-25-0",
+  "title": "Hiring Store Manager at Barista",
+  "company": "Barista",
+  "industry": "retail",
+  "role": "Store Manager",
+  "location": {
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Planogram",
+    "Sales Techniques",
+    "Omnichannel Retail",
+    "Shrinkage Control",
+    "MS Excel",
+    "E-commerce Integration",
+    "Inventory Management",
+    "Team Leadership"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Hiring Store Manager at Barista",
+    "description": "Barista is actively seeking a talented and motivated Store Manager to join our dynamic team in Ahmedabad. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout Barista:\nBarista is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Handle customer queries, complaints, and escalations effectively\n• Maintain high standards of store hygiene and cleanliness\n• Ensure visual merchandising standards are maintained at all times\n• Build relationships with regular customers to drive loyalty\n• Train and motivate the sales team to deliver excellent service\n• Conduct regular stock audits and prevent pilferage\n• Manage store operations to ensure smooth daily functioning\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 6-10 years of relevant experience\n• Proficiency in Planogram\n• Proficiency in Sales Techniques\n• Proficiency in Omnichannel Retail\n• Proficiency in Shrinkage Control\n• Proficiency in MS Excel\n• Proficiency in E-commerce Integration\n• Proficiency in Inventory Management\n• Proficiency in Team Leadership\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Recognition and rewards programs\n• Mobile and internet reimbursement\n• Company-sponsored certifications\n• Competitive salary with performance-linked incentives\n• Learning & development budget\n• Comprehensive health insurance for self and family\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Ahmedabad, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Barista!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Barista",
+      "value": "657-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Barista",
+      "sameAs": "https://www.google.com/search?q=Barista",
+      "logo": "https://logo.clearbit.com/barista.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Barista Office",
+        "addressLocality": "Ahmedabad",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "Planogram, Sales Techniques, Omnichannel Retail, Shrinkage Control, MS Excel, E-commerce Integration, Inventory Management, Team Leadership",
+    "responsibilities": "Handle customer queries, complaints, and escalations effectively. Maintain high standards of store hygiene and cleanliness. Ensure visual merchandising standards are maintained at all times. Build relationships with regular customers to drive loyalty. Train and motivate the sales team to deliver excellent service. Conduct regular stock audits and prevent pilferage. Manage store operations to ensure smooth daily functioning",
+    "benefits": "Recognition and rewards programs. Mobile and internet reimbursement. Company-sponsored certifications. Competitive salary with performance-linked incentives. Learning & development budget. Comprehensive health insurance for self and family",
+    "industry": "retail",
+    "occupationalCategory": "Store Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Recognition and rewards programs, Mobile and internet reimbursement, Company-sponsored certifications, Competitive salary with performance-linked incentives, Learning & development budget, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "Barista is actively seeking a talented and motivated Store Manager to join our dynamic team in Ahmedabad. This is an excellent opportunity for professionals who",
+    "keywords": "Store Manager, Barista, jobs in Ahmedabad, Gujarat jobs, retail jobs India, Planogram, Sales Techniques, Omnichannel Retail, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:39:30.734Z",
+  "page": 164
+}
