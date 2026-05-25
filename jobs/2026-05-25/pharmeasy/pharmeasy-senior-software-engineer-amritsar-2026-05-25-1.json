@@ -1,0 +1,94 @@
+{
+  "slug": "pharmeasy-senior-software-engineer-amritsar-2026-05-25-1",
+  "title": "Senior Software Engineer - PharmEasy - Top MNC",
+  "company": "PharmEasy",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Amritsar",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "SQL",
+    "Kubernetes",
+    "Go",
+    "Machine Learning",
+    "Rust",
+    "JavaScript",
+    "Microservices",
+    "Git"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - PharmEasy - Top MNC",
+    "description": "PharmEasy invites applications from qualified candidates for the position of Senior Software Engineer at our Amritsar location. This role offers excellent career advancement prospects.\n\nAbout PharmEasy:\nPharmEasy is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Implement new features based on product requirements\n• Write and execute unit tests and integration tests\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Integrate third-party APIs and services\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Mentor junior developers and conduct knowledge-sharing sessions\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 6-10 years of relevant experience\n• Proficiency in SQL\n• Proficiency in Kubernetes\n• Proficiency in Go\n• Proficiency in Machine Learning\n• Proficiency in Rust\n• Proficiency in JavaScript\n• Proficiency in Microservices\n• Proficiency in Git\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Professional development and training programs\n• Annual paid leaves and casual leaves\n• International travel opportunities for senior roles\n• Recognition and rewards programs\n• Learning & development budget\n• Annual performance appraisal\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Amritsar, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with PharmEasy!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "PharmEasy",
+      "value": "114-1-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "PharmEasy",
+      "sameAs": "https://www.google.com/search?q=PharmEasy",
+      "logo": "https://logo.clearbit.com/pharmeasy.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "PharmEasy Office",
+        "addressLocality": "Amritsar",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "SQL, Kubernetes, Go, Machine Learning, Rust, JavaScript, Microservices, Git",
+    "responsibilities": "Design, develop and maintain scalable software applications. Implement new features based on product requirements. Write and execute unit tests and integration tests. Work with agile methodologies including daily stand-ups and sprint planning. Integrate third-party APIs and services. Troubleshoot, debug, and resolve software defects and performance issues. Mentor junior developers and conduct knowledge-sharing sessions",
+    "benefits": "Professional development and training programs. Annual paid leaves and casual leaves. International travel opportunities for senior roles. Recognition and rewards programs. Learning & development budget. Annual performance appraisal",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Annual paid leaves and casual leaves, International travel opportunities for senior roles, Recognition and rewards programs, Learning & development budget, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "PharmEasy invites applications from qualified candidates for the position of Senior Software Engineer at our Amritsar location. This role offers excellent caree",
+    "keywords": "Senior Software Engineer, PharmEasy, jobs in Amritsar, Punjab jobs, technology jobs India, SQL, Kubernetes, Go, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:21:07.887Z",
+  "page": 28
+}

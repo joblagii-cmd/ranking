@@ -1,0 +1,93 @@
+{
+  "slug": "docplexus-frontend-developer-allahabad-2026-05-25-4",
+  "title": "Senior Frontend Developer at Docplexus",
+  "company": "Docplexus",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Allahabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Agile/Scrum",
+    "MongoDB",
+    "JavaScript",
+    "Go",
+    "TensorFlow",
+    "Machine Learning",
+    "Python",
+    "REST APIs"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Frontend Developer at Docplexus",
+    "description": "Docplexus invites applications from qualified candidates for the position of Frontend Developer at our Allahabad location. This role offers excellent career advancement prospects.\n\nAbout Docplexus:\nDocplexus is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Write and execute unit tests and integration tests\n• Ensure code security and follow best practices for data protection\n• Participate in on-call rotation for production support\n• Write clean, maintainable, and well-documented code\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Contribute to system architecture and technical design decisions\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 6-10 years of relevant experience\n• Proficiency in Agile/Scrum\n• Proficiency in MongoDB\n• Proficiency in JavaScript\n• Proficiency in Go\n• Proficiency in TensorFlow\n• Proficiency in Machine Learning\n• Proficiency in Python\n• Proficiency in REST APIs\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Flexible working hours\n• Provident Fund and Gratuity as per company policy\n• Annual performance appraisal\n• Maternity and paternity leave\n• Professional development and training programs\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Allahabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Docplexus!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Docplexus",
+      "value": "116-4-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Docplexus",
+      "sameAs": "https://www.google.com/search?q=Docplexus",
+      "logo": "https://logo.clearbit.com/docplexus.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Docplexus Office",
+        "addressLocality": "Allahabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "Agile/Scrum, MongoDB, JavaScript, Go, TensorFlow, Machine Learning, Python, REST APIs",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Write and execute unit tests and integration tests. Ensure code security and follow best practices for data protection. Participate in on-call rotation for production support. Write clean, maintainable, and well-documented code. Mentor junior developers and conduct knowledge-sharing sessions. Contribute to system architecture and technical design decisions",
+    "benefits": "Work-from-home flexibility. Flexible working hours. Provident Fund and Gratuity as per company policy. Annual performance appraisal. Maternity and paternity leave. Professional development and training programs",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Flexible working hours, Provident Fund and Gratuity as per company policy, Annual performance appraisal, Maternity and paternity leave, Professional development and training programs"
+  },
+  "meta": {
+    "description": "Docplexus invites applications from qualified candidates for the position of Frontend Developer at our Allahabad location. This role offers excellent career adv",
+    "keywords": "Frontend Developer, Docplexus, jobs in Allahabad, Uttar Pradesh jobs, technology jobs India, Agile/Scrum, MongoDB, JavaScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:21:07.887Z",
+  "page": 28
+}

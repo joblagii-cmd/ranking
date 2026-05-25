@@ -1,0 +1,94 @@
+{
+  "slug": "pharmeasy-frontend-developer-navi mumbai-2026-05-25-4",
+  "title": "Senior Frontend Developer at PharmEasy",
+  "company": "PharmEasy",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Python",
+    "Git",
+    "Rust",
+    "Go",
+    "TensorFlow",
+    "TypeScript",
+    "JavaScript",
+    "React"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Frontend Developer at PharmEasy",
+    "description": "PharmEasy invites applications from qualified candidates for the position of Frontend Developer at our Navi Mumbai location. This role offers excellent career advancement prospects.\n\nAbout PharmEasy:\nPharmEasy is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write clean, maintainable, and well-documented code\n• Participate in on-call rotation for production support\n• Write and execute unit tests and integration tests\n• Implement new features based on product requirements\n• Optimize application performance and ensure high availability\n• Integrate third-party APIs and services\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 12-20 years of relevant experience\n• Proficiency in Python\n• Proficiency in Git\n• Proficiency in Rust\n• Proficiency in Go\n• Proficiency in TensorFlow\n• Proficiency in TypeScript\n• Proficiency in JavaScript\n• Proficiency in React\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Mobile and internet reimbursement\n• Referral bonus program\n• Maternity and paternity leave\n• Professional development and training programs\n• Modern office with recreational facilities\n• Competitive salary with performance-linked incentives\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Navi Mumbai, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with PharmEasy!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "PharmEasy",
+      "value": "114-4-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "PharmEasy",
+      "sameAs": "https://www.google.com/search?q=PharmEasy",
+      "logo": "https://logo.clearbit.com/pharmeasy.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "PharmEasy Office",
+        "addressLocality": "Navi Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "Python, Git, Rust, Go, TensorFlow, TypeScript, JavaScript, React",
+    "responsibilities": "Write clean, maintainable, and well-documented code. Participate in on-call rotation for production support. Write and execute unit tests and integration tests. Implement new features based on product requirements. Optimize application performance and ensure high availability. Integrate third-party APIs and services. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP",
+    "benefits": "Mobile and internet reimbursement. Referral bonus program. Maternity and paternity leave. Professional development and training programs. Modern office with recreational facilities. Competitive salary with performance-linked incentives",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Mobile and internet reimbursement, Referral bonus program, Maternity and paternity leave, Professional development and training programs, Modern office with recreational facilities, Competitive salary with performance-linked incentives"
+  },
+  "meta": {
+    "description": "PharmEasy invites applications from qualified candidates for the position of Frontend Developer at our Navi Mumbai location. This role offers excellent career a",
+    "keywords": "Frontend Developer, PharmEasy, jobs in Navi Mumbai, Maharashtra jobs, technology jobs India, Python, Git, Rust, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:21:07.887Z",
+  "page": 28
+}
