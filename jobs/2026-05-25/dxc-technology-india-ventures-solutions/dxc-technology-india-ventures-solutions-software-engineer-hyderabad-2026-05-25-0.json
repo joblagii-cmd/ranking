@@ -1,0 +1,93 @@
+{
+  "slug": "dxc-technology-india-ventures-solutions-software-engineer-hyderabad-2026-05-25-0",
+  "title": "Now Hiring Software Engineer at DXC Technology India Ventures Solutions",
+  "company": "DXC Technology India Ventures Solutions",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "AWS",
+    "Kubernetes",
+    "Agile/Scrum",
+    "Node.js",
+    "SQL",
+    "React",
+    "Microservices",
+    "Java"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Now Hiring Software Engineer at DXC Technology India Ventures Solutions",
+    "description": "DXC Technology India Ventures Solutions, one of India's leading organizations, is hiring a Software Engineer for our Hyderabad operations. We offer a competitive salary package along with world-class benefits.\n\nAbout DXC Technology India Ventures Solutions:\nDXC Technology India Ventures Solutions is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in code reviews and contribute to technical discussions\n• Integrate third-party APIs and services\n• Contribute to system architecture and technical design decisions\n• Participate in on-call rotation for production support\n• Ensure code security and follow best practices for data protection\n• Design, develop and maintain scalable software applications\n• Optimize application performance and ensure high availability\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 0-1 years of relevant experience\n• Proficiency in AWS\n• Proficiency in Kubernetes\n• Proficiency in Agile/Scrum\n• Proficiency in Node.js\n• Proficiency in SQL\n• Proficiency in React\n• Proficiency in Microservices\n• Proficiency in Java\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Meal coupons and food allowance\n• Provident Fund and Gratuity as per company policy\n• Flexible working hours\n• Maternity and paternity leave\n• Transportation and conveyance allowance\n• Learning & development budget\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Hyderabad, Telangana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with DXC Technology India Ventures Solutions!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "DXC Technology India Ventures Solutions",
+      "value": "984-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "DXC Technology India Ventures Solutions",
+      "sameAs": "https://www.google.com/search?q=DXC%20Technology%20India%20Ventures%20Solutions",
+      "logo": "https://logo.clearbit.com/dxctechnologyindiaventuressolutions.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "DXC Technology India Ventures Solutions Office",
+        "addressLocality": "Hyderabad",
+        "addressRegion": "Telangana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "AWS, Kubernetes, Agile/Scrum, Node.js, SQL, React, Microservices, Java",
+    "responsibilities": "Participate in code reviews and contribute to technical discussions. Integrate third-party APIs and services. Contribute to system architecture and technical design decisions. Participate in on-call rotation for production support. Ensure code security and follow best practices for data protection. Design, develop and maintain scalable software applications. Optimize application performance and ensure high availability",
+    "benefits": "Meal coupons and food allowance. Provident Fund and Gratuity as per company policy. Flexible working hours. Maternity and paternity leave. Transportation and conveyance allowance. Learning & development budget",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Meal coupons and food allowance, Provident Fund and Gratuity as per company policy, Flexible working hours, Maternity and paternity leave, Transportation and conveyance allowance, Learning & development budget"
+  },
+  "meta": {
+    "description": "DXC Technology India Ventures Solutions, one of India's leading organizations, is hiring a Software Engineer for our Hyderabad operations. We offer a competitiv",
+    "keywords": "Software Engineer, DXC Technology India Ventures Solutions, jobs in Hyderabad, Telangana jobs, technology jobs India, AWS, Kubernetes, Agile/Scrum, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:50:23.191Z",
+  "page": 245
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "capgemini-india-consulting-pvt-ltd-software-engineer-delhi-2026-05-25-0",
+  "title": "Now Hiring Software Engineer at Capgemini India Consulting Pvt Ltd",
+  "company": "Capgemini India Consulting Pvt Ltd",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "JavaScript",
+    "AWS",
+    "CI/CD",
+    "Agile/Scrum",
+    "TensorFlow",
+    "MongoDB",
+    "Python",
+    "Docker"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Now Hiring Software Engineer at Capgemini India Consulting Pvt Ltd",
+    "description": "Capgemini India Consulting Pvt Ltd, one of India's leading organizations, is hiring a Software Engineer for our Delhi operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Capgemini India Consulting Pvt Ltd:\nCapgemini India Consulting Pvt Ltd is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Write and execute unit tests and integration tests\n• Design, develop and maintain scalable software applications\n• Collaborate with cross-functional teams including product, design, and QA\n• Contribute to system architecture and technical design decisions\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Write clean, maintainable, and well-documented code\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 6-10 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in AWS\n• Proficiency in CI/CD\n• Proficiency in Agile/Scrum\n• Proficiency in TensorFlow\n• Proficiency in MongoDB\n• Proficiency in Python\n• Proficiency in Docker\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Company-sponsored certifications\n• Annual paid leaves and casual leaves\n• Employee stock options (ESOPs) for eligible roles\n• Maternity and paternity leave\n• Modern office with recreational facilities\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Delhi, Delhi, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Capgemini India Consulting Pvt Ltd!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Capgemini India Consulting Pvt Ltd",
+      "value": "981-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Capgemini India Consulting Pvt Ltd",
+      "sameAs": "https://www.google.com/search?q=Capgemini%20India%20Consulting%20Pvt%20Ltd",
+      "logo": "https://logo.clearbit.com/capgeminiindiaconsultingpvtltd.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Capgemini India Consulting Pvt Ltd Office",
+        "addressLocality": "Delhi",
+        "addressRegion": "Delhi",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "JavaScript, AWS, CI/CD, Agile/Scrum, TensorFlow, MongoDB, Python, Docker",
+    "responsibilities": "Work with agile methodologies including daily stand-ups and sprint planning. Write and execute unit tests and integration tests. Design, develop and maintain scalable software applications. Collaborate with cross-functional teams including product, design, and QA. Contribute to system architecture and technical design decisions. Troubleshoot, debug, and resolve software defects and performance issues. Write clean, maintainable, and well-documented code",
+    "benefits": "Competitive salary with performance-linked incentives. Company-sponsored certifications. Annual paid leaves and casual leaves. Employee stock options (ESOPs) for eligible roles. Maternity and paternity leave. Modern office with recreational facilities",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Company-sponsored certifications, Annual paid leaves and casual leaves, Employee stock options (ESOPs) for eligible roles, Maternity and paternity leave, Modern office with recreational facilities"
+  },
+  "meta": {
+    "description": "Capgemini India Consulting Pvt Ltd, one of India's leading organizations, is hiring a Software Engineer for our Delhi operations. We offer a competitive salary ",
+    "keywords": "Software Engineer, Capgemini India Consulting Pvt Ltd, jobs in Delhi, Delhi jobs, technology jobs India, JavaScript, AWS, CI/CD, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:50:23.190Z",
+  "page": 245
+}

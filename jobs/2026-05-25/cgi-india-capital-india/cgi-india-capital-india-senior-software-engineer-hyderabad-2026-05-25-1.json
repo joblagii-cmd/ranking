@@ -1,0 +1,93 @@
+{
+  "slug": "cgi-india-capital-india-senior-software-engineer-hyderabad-2026-05-25-1",
+  "title": "Senior Software Engineer - CGI India Capital India - 2025 Hiring Drive",
+  "company": "CGI India Capital India",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "TensorFlow",
+    "SQL",
+    "React",
+    "Kubernetes",
+    "Machine Learning",
+    "TypeScript",
+    "Java",
+    "Python"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - CGI India Capital India - 2025 Hiring Drive",
+    "description": "CGI India Capital India, one of India's leading organizations, is hiring a Senior Software Engineer for our Hyderabad operations. We offer a competitive salary package along with world-class benefits.\n\nAbout CGI India Capital India:\nCGI India Capital India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Integrate third-party APIs and services\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Write and execute unit tests and integration tests\n• Implement new features based on product requirements\n• Design, develop and maintain scalable software applications\n• Write clean, maintainable, and well-documented code\n• Participate in code reviews and contribute to technical discussions\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 0-1 years of relevant experience\n• Proficiency in TensorFlow\n• Proficiency in SQL\n• Proficiency in React\n• Proficiency in Kubernetes\n• Proficiency in Machine Learning\n• Proficiency in TypeScript\n• Proficiency in Java\n• Proficiency in Python\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Annual paid leaves and casual leaves\n• Provident Fund and Gratuity as per company policy\n• Modern office with recreational facilities\n• Professional development and training programs\n• Learning & development budget\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Hyderabad, Telangana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with CGI India Capital India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "CGI India Capital India",
+      "value": "983-1-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "CGI India Capital India",
+      "sameAs": "https://www.google.com/search?q=CGI%20India%20Capital%20India",
+      "logo": "https://logo.clearbit.com/cgiindiacapitalindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "CGI India Capital India Office",
+        "addressLocality": "Hyderabad",
+        "addressRegion": "Telangana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "TensorFlow, SQL, React, Kubernetes, Machine Learning, TypeScript, Java, Python",
+    "responsibilities": "Integrate third-party APIs and services. Mentor junior developers and conduct knowledge-sharing sessions. Write and execute unit tests and integration tests. Implement new features based on product requirements. Design, develop and maintain scalable software applications. Write clean, maintainable, and well-documented code. Participate in code reviews and contribute to technical discussions",
+    "benefits": "Transportation and conveyance allowance. Annual paid leaves and casual leaves. Provident Fund and Gratuity as per company policy. Modern office with recreational facilities. Professional development and training programs. Learning & development budget",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Annual paid leaves and casual leaves, Provident Fund and Gratuity as per company policy, Modern office with recreational facilities, Professional development and training programs, Learning & development budget"
+  },
+  "meta": {
+    "description": "CGI India Capital India, one of India's leading organizations, is hiring a Senior Software Engineer for our Hyderabad operations. We offer a competitive salary ",
+    "keywords": "Senior Software Engineer, CGI India Capital India, jobs in Hyderabad, Telangana jobs, technology jobs India, TensorFlow, SQL, React, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:50:23.191Z",
+  "page": 245
+}

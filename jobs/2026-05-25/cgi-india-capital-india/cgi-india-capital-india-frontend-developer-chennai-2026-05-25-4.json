@@ -1,0 +1,93 @@
+{
+  "slug": "cgi-india-capital-india-frontend-developer-chennai-2026-05-25-4",
+  "title": "Principal Frontend Developer at CGI India Capital India",
+  "company": "CGI India Capital India",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "TypeScript",
+    "REST APIs",
+    "Go",
+    "Node.js",
+    "TensorFlow",
+    "React",
+    "Microservices",
+    "Machine Learning"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Principal Frontend Developer at CGI India Capital India",
+    "description": "CGI India Capital India, one of India's leading organizations, is hiring a Frontend Developer for our Chennai operations. We offer a competitive salary package along with world-class benefits.\n\nAbout CGI India Capital India:\nCGI India Capital India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in on-call rotation for production support\n• Optimize application performance and ensure high availability\n• Ensure code security and follow best practices for data protection\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Collaborate with cross-functional teams including product, design, and QA\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Contribute to system architecture and technical design decisions\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 3-6 years of relevant experience\n• Proficiency in TypeScript\n• Proficiency in REST APIs\n• Proficiency in Go\n• Proficiency in Node.js\n• Proficiency in TensorFlow\n• Proficiency in React\n• Proficiency in Microservices\n• Proficiency in Machine Learning\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Meal coupons and food allowance\n• Learning & development budget\n• Annual paid leaves and casual leaves\n• Company-sponsored certifications\n• Maternity and paternity leave\n• Life and accident insurance\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Chennai, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with CGI India Capital India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "CGI India Capital India",
+      "value": "983-4-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "CGI India Capital India",
+      "sameAs": "https://www.google.com/search?q=CGI%20India%20Capital%20India",
+      "logo": "https://logo.clearbit.com/cgiindiacapitalindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "CGI India Capital India Office",
+        "addressLocality": "Chennai",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "TypeScript, REST APIs, Go, Node.js, TensorFlow, React, Microservices, Machine Learning",
+    "responsibilities": "Participate in on-call rotation for production support. Optimize application performance and ensure high availability. Ensure code security and follow best practices for data protection. Mentor junior developers and conduct knowledge-sharing sessions. Collaborate with cross-functional teams including product, design, and QA. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Contribute to system architecture and technical design decisions",
+    "benefits": "Meal coupons and food allowance. Learning & development budget. Annual paid leaves and casual leaves. Company-sponsored certifications. Maternity and paternity leave. Life and accident insurance",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Meal coupons and food allowance, Learning & development budget, Annual paid leaves and casual leaves, Company-sponsored certifications, Maternity and paternity leave, Life and accident insurance"
+  },
+  "meta": {
+    "description": "CGI India Capital India, one of India's leading organizations, is hiring a Frontend Developer for our Chennai operations. We offer a competitive salary package ",
+    "keywords": "Frontend Developer, CGI India Capital India, jobs in Chennai, Tamil Nadu jobs, technology jobs India, TypeScript, REST APIs, Go, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:50:23.191Z",
+  "page": 245
+}

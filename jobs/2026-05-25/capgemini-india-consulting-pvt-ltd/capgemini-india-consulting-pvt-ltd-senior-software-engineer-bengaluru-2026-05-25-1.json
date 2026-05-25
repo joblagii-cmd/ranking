@@ -1,0 +1,93 @@
+{
+  "slug": "capgemini-india-consulting-pvt-ltd-senior-software-engineer-bengaluru-2026-05-25-1",
+  "title": "Senior Software Engineer - Capgemini India Consulting Pvt Ltd - 2025 Hiring Drive",
+  "company": "Capgemini India Consulting Pvt Ltd",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Kubernetes",
+    "TypeScript",
+    "Rust",
+    "JavaScript",
+    "Git",
+    "Python",
+    "SQL",
+    "Go"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Capgemini India Consulting Pvt Ltd - 2025 Hiring Drive",
+    "description": "Capgemini India Consulting Pvt Ltd, one of India's leading organizations, is hiring a Senior Software Engineer for our Bengaluru operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Capgemini India Consulting Pvt Ltd:\nCapgemini India Consulting Pvt Ltd is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Write clean, maintainable, and well-documented code\n• Ensure code security and follow best practices for data protection\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Implement new features based on product requirements\n• Integrate third-party APIs and services\n• Optimize application performance and ensure high availability\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 3-6 years of relevant experience\n• Proficiency in Kubernetes\n• Proficiency in TypeScript\n• Proficiency in Rust\n• Proficiency in JavaScript\n• Proficiency in Git\n• Proficiency in Python\n• Proficiency in SQL\n• Proficiency in Go\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Learning & development budget\n• Transportation and conveyance allowance\n• Comprehensive health insurance for self and family\n• Recognition and rewards programs\n• Professional development and training programs\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Bengaluru, Karnataka, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Capgemini India Consulting Pvt Ltd!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Capgemini India Consulting Pvt Ltd",
+      "value": "981-1-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Capgemini India Consulting Pvt Ltd",
+      "sameAs": "https://www.google.com/search?q=Capgemini%20India%20Consulting%20Pvt%20Ltd",
+      "logo": "https://logo.clearbit.com/capgeminiindiaconsultingpvtltd.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Capgemini India Consulting Pvt Ltd Office",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Kubernetes, TypeScript, Rust, JavaScript, Git, Python, SQL, Go",
+    "responsibilities": "Design, develop and maintain scalable software applications. Write clean, maintainable, and well-documented code. Ensure code security and follow best practices for data protection. Work with agile methodologies including daily stand-ups and sprint planning. Implement new features based on product requirements. Integrate third-party APIs and services. Optimize application performance and ensure high availability",
+    "benefits": "Annual paid leaves and casual leaves. Learning & development budget. Transportation and conveyance allowance. Comprehensive health insurance for self and family. Recognition and rewards programs. Professional development and training programs",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Learning & development budget, Transportation and conveyance allowance, Comprehensive health insurance for self and family, Recognition and rewards programs, Professional development and training programs"
+  },
+  "meta": {
+    "description": "Capgemini India Consulting Pvt Ltd, one of India's leading organizations, is hiring a Senior Software Engineer for our Bengaluru operations. We offer a competit",
+    "keywords": "Senior Software Engineer, Capgemini India Consulting Pvt Ltd, jobs in Bengaluru, Karnataka jobs, technology jobs India, Kubernetes, TypeScript, Rust, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:50:23.190Z",
+  "page": 245
+}
