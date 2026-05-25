@@ -1,0 +1,94 @@
+{
+  "slug": "niit-backend-developer-kolkata-2026-05-25-3",
+  "title": "Backend Developer Vacancy at NIIT - 2026 Batch",
+  "company": "NIIT",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Java",
+    "AWS",
+    "Python",
+    "MongoDB",
+    "Node.js",
+    "Microservices",
+    "SQL",
+    "TensorFlow"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at NIIT - 2026 Batch",
+    "description": "An exciting career opportunity awaits you at NIIT. We are on the lookout for a dedicated Backend Developer to strengthen our Kolkata-based team.\n\nAbout NIIT:\nNIIT is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Design, develop and maintain scalable software applications\n• Write clean, maintainable, and well-documented code\n• Contribute to system architecture and technical design decisions\n• Integrate third-party APIs and services\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 6-10 years of relevant experience\n• Proficiency in Java\n• Proficiency in AWS\n• Proficiency in Python\n• Proficiency in MongoDB\n• Proficiency in Node.js\n• Proficiency in Microservices\n• Proficiency in SQL\n• Proficiency in TensorFlow\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Competitive salary with performance-linked incentives\n• Flexible working hours\n• Meal coupons and food allowance\n• International travel opportunities for senior roles\n• Work-from-home flexibility\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Kolkata, West Bengal, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with NIIT!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "NIIT",
+      "value": "69-3-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "NIIT",
+      "sameAs": "https://www.google.com/search?q=NIIT",
+      "logo": "https://logo.clearbit.com/niit.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "NIIT Office",
+        "addressLocality": "Kolkata",
+        "addressRegion": "West Bengal",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "Java, AWS, Python, MongoDB, Node.js, Microservices, SQL, TensorFlow",
+    "responsibilities": "Work with agile methodologies including daily stand-ups and sprint planning. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Troubleshoot, debug, and resolve software defects and performance issues. Design, develop and maintain scalable software applications. Write clean, maintainable, and well-documented code. Contribute to system architecture and technical design decisions. Integrate third-party APIs and services",
+    "benefits": "Transportation and conveyance allowance. Competitive salary with performance-linked incentives. Flexible working hours. Meal coupons and food allowance. International travel opportunities for senior roles. Work-from-home flexibility",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Competitive salary with performance-linked incentives, Flexible working hours, Meal coupons and food allowance, International travel opportunities for senior roles, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at NIIT. We are on the lookout for a dedicated Backend Developer to strengthen our Kolkata-based team.",
+    "keywords": "Backend Developer, NIIT, jobs in Kolkata, West Bengal jobs, technology jobs India, Java, AWS, Python, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:19:34.774Z",
+  "page": 17
+}

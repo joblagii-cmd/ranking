@@ -1,0 +1,93 @@
+{
+  "slug": "cdac-frontend-developer-pune-2026-05-25-4",
+  "title": "Mid-Level Frontend Developer at CDAC",
+  "company": "CDAC",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Pune",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Microservices",
+    "TensorFlow",
+    "JavaScript",
+    "Rust",
+    "Python",
+    "Git",
+    "Docker",
+    "REST APIs"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Frontend Developer at CDAC",
+    "description": "An exciting career opportunity awaits you at CDAC. We are on the lookout for a dedicated Frontend Developer to strengthen our Pune-based team.\n\nAbout CDAC:\nCDAC is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Contribute to system architecture and technical design decisions\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in on-call rotation for production support\n• Implement new features based on product requirements\n• Write and execute unit tests and integration tests\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 0-1 years of relevant experience\n• Proficiency in Microservices\n• Proficiency in TensorFlow\n• Proficiency in JavaScript\n• Proficiency in Rust\n• Proficiency in Python\n• Proficiency in Git\n• Proficiency in Docker\n• Proficiency in REST APIs\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Life and accident insurance\n• Comprehensive health insurance for self and family\n• Competitive salary with performance-linked incentives\n• Maternity and paternity leave\n• Work-from-home flexibility\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Pune, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with CDAC!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "CDAC",
+      "value": "71-4-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "CDAC",
+      "sameAs": "https://www.google.com/search?q=CDAC",
+      "logo": "https://logo.clearbit.com/cdac.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "CDAC Office",
+        "addressLocality": "Pune",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "Microservices, TensorFlow, JavaScript, Rust, Python, Git, Docker, REST APIs",
+    "responsibilities": "Work with agile methodologies including daily stand-ups and sprint planning. Contribute to system architecture and technical design decisions. Collaborate with cross-functional teams including product, design, and QA. Participate in on-call rotation for production support. Implement new features based on product requirements. Write and execute unit tests and integration tests. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP",
+    "benefits": "International travel opportunities for senior roles. Life and accident insurance. Comprehensive health insurance for self and family. Competitive salary with performance-linked incentives. Maternity and paternity leave. Work-from-home flexibility",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Life and accident insurance, Comprehensive health insurance for self and family, Competitive salary with performance-linked incentives, Maternity and paternity leave, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at CDAC. We are on the lookout for a dedicated Frontend Developer to strengthen our Pune-based team.",
+    "keywords": "Frontend Developer, CDAC, jobs in Pune, Maharashtra jobs, technology jobs India, Microservices, TensorFlow, JavaScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:19:34.776Z",
+  "page": 17
+}
