@@ -1,0 +1,93 @@
+{
+  "slug": "ninjacart-full-stack-developer-varanasi-2026-05-25-2",
+  "title": "Ninjacart is Hiring: Full Stack Developer (Senior)",
+  "company": "Ninjacart",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "JavaScript",
+    "Go",
+    "Docker",
+    "Agile/Scrum",
+    "MongoDB",
+    "Python",
+    "Java",
+    "TensorFlow"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Ninjacart is Hiring: Full Stack Developer (Senior)",
+    "description": "Ninjacart invites applications from qualified candidates for the position of Full Stack Developer at our Varanasi location. This role offers excellent career advancement prospects.\n\nAbout Ninjacart:\nNinjacart is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure code security and follow best practices for data protection\n• Collaborate with cross-functional teams including product, design, and QA\n• Implement new features based on product requirements\n• Write clean, maintainable, and well-documented code\n• Integrate third-party APIs and services\n• Participate in on-call rotation for production support\n• Optimize application performance and ensure high availability\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 12-20 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Go\n• Proficiency in Docker\n• Proficiency in Agile/Scrum\n• Proficiency in MongoDB\n• Proficiency in Python\n• Proficiency in Java\n• Proficiency in TensorFlow\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Mobile and internet reimbursement\n• Referral bonus program\n• Meal coupons and food allowance\n• International travel opportunities for senior roles\n• Annual paid leaves and casual leaves\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Varanasi, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Ninjacart!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Ninjacart",
+      "value": "106-2-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Ninjacart",
+      "sameAs": "https://www.google.com/search?q=Ninjacart",
+      "logo": "https://logo.clearbit.com/ninjacart.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Ninjacart Office",
+        "addressLocality": "Varanasi",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "JavaScript, Go, Docker, Agile/Scrum, MongoDB, Python, Java, TensorFlow",
+    "responsibilities": "Ensure code security and follow best practices for data protection. Collaborate with cross-functional teams including product, design, and QA. Implement new features based on product requirements. Write clean, maintainable, and well-documented code. Integrate third-party APIs and services. Participate in on-call rotation for production support. Optimize application performance and ensure high availability",
+    "benefits": "Mobile and internet reimbursement. Referral bonus program. Meal coupons and food allowance. International travel opportunities for senior roles. Annual paid leaves and casual leaves. Employee stock options (ESOPs) for eligible roles",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Mobile and internet reimbursement, Referral bonus program, Meal coupons and food allowance, International travel opportunities for senior roles, Annual paid leaves and casual leaves, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "Ninjacart invites applications from qualified candidates for the position of Full Stack Developer at our Varanasi location. This role offers excellent career ad",
+    "keywords": "Full Stack Developer, Ninjacart, jobs in Varanasi, Uttar Pradesh jobs, technology jobs India, JavaScript, Go, Docker, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:20:50.732Z",
+  "page": 26
+}
