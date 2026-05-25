@@ -1,0 +1,94 @@
+{
+  "slug": "siemens-india-process-engineer-lucknow-2026-05-25-3",
+  "title": "Process Engineer Vacancy at Siemens India - 2026 Batch",
+  "company": "Siemens India",
+  "industry": "manufacturing",
+  "role": "Process Engineer",
+  "location": {
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "PLC/SCADA",
+    "ERP Systems",
+    "SAP MM/PP",
+    "TPM",
+    "PPAP",
+    "5S",
+    "FMEA",
+    "Kaizen"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Process Engineer Vacancy at Siemens India - 2026 Batch",
+    "description": "Are you a skilled Process Engineer looking for your next big career move? Siemens India in Lucknow offers you the perfect platform to grow professionally and personally.\n\nAbout Siemens India:\nSiemens India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with design and engineering teams on product improvements\n• Ensure environmental compliance and waste management\n• Conduct root cause analysis for quality rejections and defects\n• Ensure compliance with safety regulations and factory acts\n• Oversee daily production operations to meet output targets\n• Coordinate with logistics for dispatching finished goods\n• Manage supplier quality audits and vendor development\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 6-10 years of relevant experience\n• Proficiency in PLC/SCADA\n• Proficiency in ERP Systems\n• Proficiency in SAP MM/PP\n• Proficiency in TPM\n• Proficiency in PPAP\n• Proficiency in 5S\n• Proficiency in FMEA\n• Proficiency in Kaizen\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Work-from-home flexibility\n• Provident Fund and Gratuity as per company policy\n• Annual performance appraisal\n• Life and accident insurance\n• Transportation and conveyance allowance\n• Annual paid leaves and casual leaves\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Lucknow, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Siemens India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Siemens India",
+      "value": "494-3-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Siemens India",
+      "sameAs": "https://www.google.com/search?q=Siemens%20India",
+      "logo": "https://logo.clearbit.com/siemensindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Siemens India Office",
+        "addressLocality": "Lucknow",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "PLC/SCADA, ERP Systems, SAP MM/PP, TPM, PPAP, 5S, FMEA, Kaizen",
+    "responsibilities": "Coordinate with design and engineering teams on product improvements. Ensure environmental compliance and waste management. Conduct root cause analysis for quality rejections and defects. Ensure compliance with safety regulations and factory acts. Oversee daily production operations to meet output targets. Coordinate with logistics for dispatching finished goods. Manage supplier quality audits and vendor development",
+    "benefits": "Work-from-home flexibility. Provident Fund and Gratuity as per company policy. Annual performance appraisal. Life and accident insurance. Transportation and conveyance allowance. Annual paid leaves and casual leaves",
+    "industry": "manufacturing",
+    "occupationalCategory": "Process Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Provident Fund and Gratuity as per company policy, Annual performance appraisal, Life and accident insurance, Transportation and conveyance allowance, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "Are you a skilled Process Engineer looking for your next big career move? Siemens India in Lucknow offers you the perfect platform to grow professionally and pe",
+    "keywords": "Process Engineer, Siemens India, jobs in Lucknow, Uttar Pradesh jobs, manufacturing jobs India, PLC/SCADA, ERP Systems, SAP MM/PP, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:34:01.994Z",
+  "page": 123
+}
