@@ -1,0 +1,94 @@
+{
+  "slug": "jupiter-hospital-consultant-physician-coimbatore-2026-05-25-2",
+  "title": "Jupiter Hospital is Hiring: Consultant Physician (Entry-Level)",
+  "company": "Jupiter Hospital",
+  "industry": "healthcare",
+  "role": "Consultant Physician",
+  "location": {
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "ICU Management",
+    "Clinical Documentation",
+    "HIPAA Compliance",
+    "Medical Coding",
+    "Telemedicine",
+    "Medical Terminology",
+    "Patient Care",
+    "Health Informatics"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Jupiter Hospital is Hiring: Consultant Physician (Entry-Level)",
+    "description": "Jupiter Hospital, one of India's leading organizations, is hiring a Consultant Physician for our Coimbatore operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Jupiter Hospital:\nJupiter Hospital is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Maintain sterile environments and follow infection control protocols\n• Administer medications and treatments as prescribed\n• Provide high-quality patient care and maintain patient records\n• Attend continuing medical education programs and training\n• Adhere to NABH/JCI accreditation standards\n• Diagnose and treat medical conditions following established protocols\n• Collaborate with pharmaceutical representatives and medical suppliers\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 6-10 years of relevant experience\n• Proficiency in ICU Management\n• Proficiency in Clinical Documentation\n• Proficiency in HIPAA Compliance\n• Proficiency in Medical Coding\n• Proficiency in Telemedicine\n• Proficiency in Medical Terminology\n• Proficiency in Patient Care\n• Proficiency in Health Informatics\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• Annual paid leaves and casual leaves\n• Competitive salary with performance-linked incentives\n• Flexible working hours\n• Modern office with recreational facilities\n• International travel opportunities for senior roles\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Coimbatore, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Jupiter Hospital!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Jupiter Hospital",
+      "value": "288-2-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Jupiter Hospital",
+      "sameAs": "https://www.google.com/search?q=Jupiter%20Hospital",
+      "logo": "https://logo.clearbit.com/jupiterhospital.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Jupiter Hospital Office",
+        "addressLocality": "Coimbatore",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "ICU Management, Clinical Documentation, HIPAA Compliance, Medical Coding, Telemedicine, Medical Terminology, Patient Care, Health Informatics",
+    "responsibilities": "Maintain sterile environments and follow infection control protocols. Administer medications and treatments as prescribed. Provide high-quality patient care and maintain patient records. Attend continuing medical education programs and training. Adhere to NABH/JCI accreditation standards. Diagnose and treat medical conditions following established protocols. Collaborate with pharmaceutical representatives and medical suppliers",
+    "benefits": "Comprehensive health insurance for self and family. Annual paid leaves and casual leaves. Competitive salary with performance-linked incentives. Flexible working hours. Modern office with recreational facilities. International travel opportunities for senior roles",
+    "industry": "healthcare",
+    "occupationalCategory": "Consultant Physician",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, Annual paid leaves and casual leaves, Competitive salary with performance-linked incentives, Flexible working hours, Modern office with recreational facilities, International travel opportunities for senior roles"
+  },
+  "meta": {
+    "description": "Jupiter Hospital, one of India's leading organizations, is hiring a Consultant Physician for our Coimbatore operations. We offer a competitive salary package al",
+    "keywords": "Consultant Physician, Jupiter Hospital, jobs in Coimbatore, Tamil Nadu jobs, healthcare jobs India, ICU Management, Clinical Documentation, HIPAA Compliance, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:27:03.014Z",
+  "page": 71
+}
