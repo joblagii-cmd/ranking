@@ -1,0 +1,93 @@
+{
+  "slug": "flipkart-capital-india-backend-developer-faridabad-2026-05-25-3",
+  "title": "Backend Developer Vacancy at Flipkart Capital India - 2026 Batch",
+  "company": "Flipkart Capital India",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Faridabad",
+    "state": "Haryana",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Kubernetes",
+    "React",
+    "Agile/Scrum",
+    "TensorFlow",
+    "Docker",
+    "Rust",
+    "AWS",
+    "Python"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Flipkart Capital India - 2026 Batch",
+    "description": "Flipkart Capital India has an exciting opening for a Backend Developer at our Faridabad office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Flipkart Capital India:\nFlipkart Capital India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Write clean, maintainable, and well-documented code\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Collaborate with cross-functional teams including product, design, and QA\n• Ensure code security and follow best practices for data protection\n• Participate in code reviews and contribute to technical discussions\n• Work with agile methodologies including daily stand-ups and sprint planning\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 0-1 years of relevant experience\n• Proficiency in Kubernetes\n• Proficiency in React\n• Proficiency in Agile/Scrum\n• Proficiency in TensorFlow\n• Proficiency in Docker\n• Proficiency in Rust\n• Proficiency in AWS\n• Proficiency in Python\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• Modern office with recreational facilities\n• Flexible working hours\n• Annual performance appraisal\n• Transportation and conveyance allowance\n• Work-from-home flexibility\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Faridabad, Haryana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Flipkart Capital India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Flipkart Capital India",
+      "value": "933-3-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Flipkart Capital India",
+      "sameAs": "https://www.google.com/search?q=Flipkart%20Capital%20India",
+      "logo": "https://logo.clearbit.com/flipkartcapitalindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Flipkart Capital India Office",
+        "addressLocality": "Faridabad",
+        "addressRegion": "Haryana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "Kubernetes, React, Agile/Scrum, TensorFlow, Docker, Rust, AWS, Python",
+    "responsibilities": "Design, develop and maintain scalable software applications. Write clean, maintainable, and well-documented code. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Collaborate with cross-functional teams including product, design, and QA. Ensure code security and follow best practices for data protection. Participate in code reviews and contribute to technical discussions. Work with agile methodologies including daily stand-ups and sprint planning",
+    "benefits": "Comprehensive health insurance for self and family. Modern office with recreational facilities. Flexible working hours. Annual performance appraisal. Transportation and conveyance allowance. Work-from-home flexibility",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, Modern office with recreational facilities, Flexible working hours, Annual performance appraisal, Transportation and conveyance allowance, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "Flipkart Capital India has an exciting opening for a Backend Developer at our Faridabad office. Join a company that values innovation, collaboration, and contin",
+    "keywords": "Backend Developer, Flipkart Capital India, jobs in Faridabad, Haryana jobs, technology jobs India, Kubernetes, React, Agile/Scrum, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:48:47.274Z",
+  "page": 233
+}

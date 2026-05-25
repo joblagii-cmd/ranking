@@ -1,0 +1,93 @@
+{
+  "slug": "zomato-holdings-services-senior-software-engineer-faridabad-2026-05-25-1",
+  "title": "Senior Software Engineer - Zomato Holdings Services - Attractive Package",
+  "company": "Zomato Holdings Services",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Faridabad",
+    "state": "Haryana",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "TypeScript",
+    "MongoDB",
+    "Docker",
+    "React",
+    "Kubernetes",
+    "Python",
+    "CI/CD",
+    "Git"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Zomato Holdings Services - Attractive Package",
+    "description": "Zomato Holdings Services has an exciting opening for a Senior Software Engineer at our Faridabad office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Zomato Holdings Services:\nZomato Holdings Services is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Implement new features based on product requirements\n• Participate in code reviews and contribute to technical discussions\n• Contribute to system architecture and technical design decisions\n• Collaborate with cross-functional teams including product, design, and QA\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Design, develop and maintain scalable software applications\n• Work with agile methodologies including daily stand-ups and sprint planning\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 0-1 years of relevant experience\n• Proficiency in TypeScript\n• Proficiency in MongoDB\n• Proficiency in Docker\n• Proficiency in React\n• Proficiency in Kubernetes\n• Proficiency in Python\n• Proficiency in CI/CD\n• Proficiency in Git\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Annual performance appraisal\n• Mobile and internet reimbursement\n• Referral bonus program\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Transportation and conveyance allowance\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Faridabad, Haryana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Zomato Holdings Services!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Zomato Holdings Services",
+      "value": "935-1-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Zomato Holdings Services",
+      "sameAs": "https://www.google.com/search?q=Zomato%20Holdings%20Services",
+      "logo": "https://logo.clearbit.com/zomatoholdingsservices.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Zomato Holdings Services Office",
+        "addressLocality": "Faridabad",
+        "addressRegion": "Haryana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "TypeScript, MongoDB, Docker, React, Kubernetes, Python, CI/CD, Git",
+    "responsibilities": "Implement new features based on product requirements. Participate in code reviews and contribute to technical discussions. Contribute to system architecture and technical design decisions. Collaborate with cross-functional teams including product, design, and QA. Mentor junior developers and conduct knowledge-sharing sessions. Design, develop and maintain scalable software applications. Work with agile methodologies including daily stand-ups and sprint planning",
+    "benefits": "Annual performance appraisal. Mobile and internet reimbursement. Referral bonus program. Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Transportation and conveyance allowance",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual performance appraisal, Mobile and internet reimbursement, Referral bonus program, Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "Zomato Holdings Services has an exciting opening for a Senior Software Engineer at our Faridabad office. Join a company that values innovation, collaboration, a",
+    "keywords": "Senior Software Engineer, Zomato Holdings Services, jobs in Faridabad, Haryana jobs, technology jobs India, TypeScript, MongoDB, Docker, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:48:47.274Z",
+  "page": 233
+}

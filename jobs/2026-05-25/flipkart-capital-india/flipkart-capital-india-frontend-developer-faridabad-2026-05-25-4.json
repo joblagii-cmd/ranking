@@ -1,0 +1,94 @@
+{
+  "slug": "flipkart-capital-india-frontend-developer-faridabad-2026-05-25-4",
+  "title": "Lead Frontend Developer at Flipkart Capital India",
+  "company": "Flipkart Capital India",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Faridabad",
+    "state": "Haryana",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "MongoDB",
+    "Git",
+    "Agile/Scrum",
+    "JavaScript",
+    "React",
+    "TensorFlow",
+    "Microservices",
+    "REST APIs"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Lead Frontend Developer at Flipkart Capital India",
+    "description": "Flipkart Capital India has an exciting opening for a Frontend Developer at our Faridabad office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Flipkart Capital India:\nFlipkart Capital India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Write and execute unit tests and integration tests\n• Contribute to system architecture and technical design decisions\n• Optimize application performance and ensure high availability\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Ensure code security and follow best practices for data protection\n• Participate in code reviews and contribute to technical discussions\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 12-20 years of relevant experience\n• Proficiency in MongoDB\n• Proficiency in Git\n• Proficiency in Agile/Scrum\n• Proficiency in JavaScript\n• Proficiency in React\n• Proficiency in TensorFlow\n• Proficiency in Microservices\n• Proficiency in REST APIs\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Competitive salary with performance-linked incentives\n• Flexible working hours\n• Recognition and rewards programs\n• Life and accident insurance\n• Transportation and conveyance allowance\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Faridabad, Haryana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Flipkart Capital India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Flipkart Capital India",
+      "value": "933-4-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Flipkart Capital India",
+      "sameAs": "https://www.google.com/search?q=Flipkart%20Capital%20India",
+      "logo": "https://logo.clearbit.com/flipkartcapitalindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Flipkart Capital India Office",
+        "addressLocality": "Faridabad",
+        "addressRegion": "Haryana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "MongoDB, Git, Agile/Scrum, JavaScript, React, TensorFlow, Microservices, REST APIs",
+    "responsibilities": "Design, develop and maintain scalable software applications. Write and execute unit tests and integration tests. Contribute to system architecture and technical design decisions. Optimize application performance and ensure high availability. Work with agile methodologies including daily stand-ups and sprint planning. Ensure code security and follow best practices for data protection. Participate in code reviews and contribute to technical discussions",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Competitive salary with performance-linked incentives. Flexible working hours. Recognition and rewards programs. Life and accident insurance. Transportation and conveyance allowance",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Competitive salary with performance-linked incentives, Flexible working hours, Recognition and rewards programs, Life and accident insurance, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "Flipkart Capital India has an exciting opening for a Frontend Developer at our Faridabad office. Join a company that values innovation, collaboration, and conti",
+    "keywords": "Frontend Developer, Flipkart Capital India, jobs in Faridabad, Haryana jobs, technology jobs India, MongoDB, Git, Agile/Scrum, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:48:47.274Z",
+  "page": 233
+}

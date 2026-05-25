@@ -1,0 +1,93 @@
+{
+  "slug": "paytm-ventures-solutions-software-engineer-nashik-2026-05-25-0",
+  "title": "Job Opening Software Engineer at Paytm Ventures Solutions",
+  "company": "Paytm Ventures Solutions",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "TensorFlow",
+    "TypeScript",
+    "Kubernetes",
+    "Java",
+    "Agile/Scrum",
+    "AWS",
+    "Rust",
+    "Python"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Job Opening Software Engineer at Paytm Ventures Solutions",
+    "description": "Paytm Ventures Solutions has an exciting opening for a Software Engineer at our Nashik office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Paytm Ventures Solutions:\nPaytm Ventures Solutions is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write clean, maintainable, and well-documented code\n• Implement new features based on product requirements\n• Optimize application performance and ensure high availability\n• Ensure code security and follow best practices for data protection\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Design, develop and maintain scalable software applications\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 3-6 years of relevant experience\n• Proficiency in TensorFlow\n• Proficiency in TypeScript\n• Proficiency in Kubernetes\n• Proficiency in Java\n• Proficiency in Agile/Scrum\n• Proficiency in AWS\n• Proficiency in Rust\n• Proficiency in Python\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Company-sponsored certifications\n• Employee stock options (ESOPs) for eligible roles\n• Transportation and conveyance allowance\n• Recognition and rewards programs\n• Annual performance appraisal\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Nashik, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Paytm Ventures Solutions!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Paytm Ventures Solutions",
+      "value": "934-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Paytm Ventures Solutions",
+      "sameAs": "https://www.google.com/search?q=Paytm%20Ventures%20Solutions",
+      "logo": "https://logo.clearbit.com/paytmventuressolutions.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Paytm Ventures Solutions Office",
+        "addressLocality": "Nashik",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "TensorFlow, TypeScript, Kubernetes, Java, Agile/Scrum, AWS, Rust, Python",
+    "responsibilities": "Write clean, maintainable, and well-documented code. Implement new features based on product requirements. Optimize application performance and ensure high availability. Ensure code security and follow best practices for data protection. Work with agile methodologies including daily stand-ups and sprint planning. Troubleshoot, debug, and resolve software defects and performance issues. Design, develop and maintain scalable software applications",
+    "benefits": "Provident Fund and Gratuity as per company policy. Company-sponsored certifications. Employee stock options (ESOPs) for eligible roles. Transportation and conveyance allowance. Recognition and rewards programs. Annual performance appraisal",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Company-sponsored certifications, Employee stock options (ESOPs) for eligible roles, Transportation and conveyance allowance, Recognition and rewards programs, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "Paytm Ventures Solutions has an exciting opening for a Software Engineer at our Nashik office. Join a company that values innovation, collaboration, and continu",
+    "keywords": "Software Engineer, Paytm Ventures Solutions, jobs in Nashik, Maharashtra jobs, technology jobs India, TensorFlow, TypeScript, Kubernetes, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:48:47.274Z",
+  "page": 233
+}

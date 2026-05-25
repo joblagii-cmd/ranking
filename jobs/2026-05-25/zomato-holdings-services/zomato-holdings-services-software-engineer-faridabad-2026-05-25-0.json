@@ -1,0 +1,93 @@
+{
+  "slug": "zomato-holdings-services-software-engineer-faridabad-2026-05-25-0",
+  "title": "Job Opening Software Engineer at Zomato Holdings Services",
+  "company": "Zomato Holdings Services",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Faridabad",
+    "state": "Haryana",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "JavaScript",
+    "Kubernetes",
+    "Agile/Scrum",
+    "Microservices",
+    "Git",
+    "Docker",
+    "React",
+    "Python"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Job Opening Software Engineer at Zomato Holdings Services",
+    "description": "Zomato Holdings Services has an exciting opening for a Software Engineer at our Faridabad office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Zomato Holdings Services:\nZomato Holdings Services is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Optimize application performance and ensure high availability\n• Contribute to system architecture and technical design decisions\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Participate in on-call rotation for production support\n• Write and execute unit tests and integration tests\n• Implement new features based on product requirements\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 1-3 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Kubernetes\n• Proficiency in Agile/Scrum\n• Proficiency in Microservices\n• Proficiency in Git\n• Proficiency in Docker\n• Proficiency in React\n• Proficiency in Python\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Flexible working hours\n• Life and accident insurance\n• Work-from-home flexibility\n• Modern office with recreational facilities\n• Annual performance appraisal\n• International travel opportunities for senior roles\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Faridabad, Haryana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Zomato Holdings Services!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Zomato Holdings Services",
+      "value": "935-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Zomato Holdings Services",
+      "sameAs": "https://www.google.com/search?q=Zomato%20Holdings%20Services",
+      "logo": "https://logo.clearbit.com/zomatoholdingsservices.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Zomato Holdings Services Office",
+        "addressLocality": "Faridabad",
+        "addressRegion": "Haryana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "JavaScript, Kubernetes, Agile/Scrum, Microservices, Git, Docker, React, Python",
+    "responsibilities": "Optimize application performance and ensure high availability. Contribute to system architecture and technical design decisions. Work with agile methodologies including daily stand-ups and sprint planning. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Participate in on-call rotation for production support. Write and execute unit tests and integration tests. Implement new features based on product requirements",
+    "benefits": "Flexible working hours. Life and accident insurance. Work-from-home flexibility. Modern office with recreational facilities. Annual performance appraisal. International travel opportunities for senior roles",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, Life and accident insurance, Work-from-home flexibility, Modern office with recreational facilities, Annual performance appraisal, International travel opportunities for senior roles"
+  },
+  "meta": {
+    "description": "Zomato Holdings Services has an exciting opening for a Software Engineer at our Faridabad office. Join a company that values innovation, collaboration, and cont",
+    "keywords": "Software Engineer, Zomato Holdings Services, jobs in Faridabad, Haryana jobs, technology jobs India, JavaScript, Kubernetes, Agile/Scrum, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:48:47.274Z",
+  "page": 233
+}
