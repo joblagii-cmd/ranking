@@ -1,0 +1,94 @@
+{
+  "slug": "mphasis-digital-technologies-software-engineer-dhanbad-2026-05-25-0",
+  "title": "Career Opportunity Software Engineer at Mphasis Digital Technologies",
+  "company": "Mphasis Digital Technologies",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Dhanbad",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Node.js",
+    "Java",
+    "TypeScript",
+    "Microservices",
+    "CI/CD",
+    "Git",
+    "AWS",
+    "MongoDB"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Career Opportunity Software Engineer at Mphasis Digital Technologies",
+    "description": "Mphasis Digital Technologies has an exciting opening for a Software Engineer at our Dhanbad office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Mphasis Digital Technologies:\nMphasis Digital Technologies is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Optimize application performance and ensure high availability\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Ensure code security and follow best practices for data protection\n• Write clean, maintainable, and well-documented code\n• Contribute to system architecture and technical design decisions\n• Implement new features based on product requirements\n• Integrate third-party APIs and services\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 0-1 years of relevant experience\n• Proficiency in Node.js\n• Proficiency in Java\n• Proficiency in TypeScript\n• Proficiency in Microservices\n• Proficiency in CI/CD\n• Proficiency in Git\n• Proficiency in AWS\n• Proficiency in MongoDB\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Professional development and training programs\n• Transportation and conveyance allowance\n• Comprehensive health insurance for self and family\n• Employee stock options (ESOPs) for eligible roles\n• Competitive salary with performance-linked incentives\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Dhanbad, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Mphasis Digital Technologies!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Mphasis Digital Technologies",
+      "value": "946-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Mphasis Digital Technologies",
+      "sameAs": "https://www.google.com/search?q=Mphasis%20Digital%20Technologies",
+      "logo": "https://logo.clearbit.com/mphasisdigitaltechnologies.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Mphasis Digital Technologies Office",
+        "addressLocality": "Dhanbad",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "Node.js, Java, TypeScript, Microservices, CI/CD, Git, AWS, MongoDB",
+    "responsibilities": "Optimize application performance and ensure high availability. Mentor junior developers and conduct knowledge-sharing sessions. Ensure code security and follow best practices for data protection. Write clean, maintainable, and well-documented code. Contribute to system architecture and technical design decisions. Implement new features based on product requirements. Integrate third-party APIs and services",
+    "benefits": "International travel opportunities for senior roles. Professional development and training programs. Transportation and conveyance allowance. Comprehensive health insurance for self and family. Employee stock options (ESOPs) for eligible roles. Competitive salary with performance-linked incentives",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Professional development and training programs, Transportation and conveyance allowance, Comprehensive health insurance for self and family, Employee stock options (ESOPs) for eligible roles, Competitive salary with performance-linked incentives"
+  },
+  "meta": {
+    "description": "Mphasis Digital Technologies has an exciting opening for a Software Engineer at our Dhanbad office. Join a company that values innovation, collaboration, and co",
+    "keywords": "Software Engineer, Mphasis Digital Technologies, jobs in Dhanbad, Jharkhand jobs, technology jobs India, Node.js, Java, TypeScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:49:11.575Z",
+  "page": 236
+}
