@@ -1,0 +1,93 @@
+{
+  "slug": "motilal-oswal-financial-analyst-surat-2026-05-25-0",
+  "title": "Vacancy for Financial Analyst at Motilal Oswal",
+  "company": "Motilal Oswal",
+  "industry": "finance",
+  "role": "Financial Analyst",
+  "location": {
+    "city": "Surat",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "SAP FICO",
+    "Tally",
+    "IFRS",
+    "GST",
+    "Forecasting",
+    "Bloomberg Terminal",
+    "Due Diligence",
+    "Budgeting"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Vacancy for Financial Analyst at Motilal Oswal",
+    "description": "If you're a passionate Financial Analyst with drive and ambition, Motilal Oswal in Surat is the place for you. We're growing fast and need talented people to grow with us.\n\nAbout Motilal Oswal:\nMotilal Oswal is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with external auditors during annual audits\n• Develop financial models and projections for business planning\n• Maintain general ledger and ensure accurate bookkeeping\n• Prepare MIS reports for senior management review\n• Prepare and analyze financial statements, reports, and budgets\n• Monitor market trends and provide investment recommendations\n• Prepare annual reports and investor presentations\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 12-20 years of relevant experience\n• Proficiency in SAP FICO\n• Proficiency in Tally\n• Proficiency in IFRS\n• Proficiency in GST\n• Proficiency in Forecasting\n• Proficiency in Bloomberg Terminal\n• Proficiency in Due Diligence\n• Proficiency in Budgeting\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Annual performance appraisal\n• Comprehensive health insurance for self and family\n• Referral bonus program\n• Maternity and paternity leave\n• Competitive salary with performance-linked incentives\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Surat, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Motilal Oswal!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Motilal Oswal",
+      "value": "161-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Motilal Oswal",
+      "sameAs": "https://www.google.com/search?q=Motilal%20Oswal",
+      "logo": "https://logo.clearbit.com/motilaloswal.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Motilal Oswal Office",
+        "addressLocality": "Surat",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "SAP FICO, Tally, IFRS, GST, Forecasting, Bloomberg Terminal, Due Diligence, Budgeting",
+    "responsibilities": "Coordinate with external auditors during annual audits. Develop financial models and projections for business planning. Maintain general ledger and ensure accurate bookkeeping. Prepare MIS reports for senior management review. Prepare and analyze financial statements, reports, and budgets. Monitor market trends and provide investment recommendations. Prepare annual reports and investor presentations",
+    "benefits": "Annual performance appraisal. Comprehensive health insurance for self and family. Referral bonus program. Maternity and paternity leave. Competitive salary with performance-linked incentives. Provident Fund and Gratuity as per company policy",
+    "industry": "finance",
+    "occupationalCategory": "Financial Analyst",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual performance appraisal, Comprehensive health insurance for self and family, Referral bonus program, Maternity and paternity leave, Competitive salary with performance-linked incentives, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "If you're a passionate Financial Analyst with drive and ambition, Motilal Oswal in Surat is the place for you. We're growing fast and need talented people to gr",
+    "keywords": "Financial Analyst, Motilal Oswal, jobs in Surat, Gujarat jobs, finance jobs India, SAP FICO, Tally, IFRS, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:22:48.227Z",
+  "page": 40
+}
