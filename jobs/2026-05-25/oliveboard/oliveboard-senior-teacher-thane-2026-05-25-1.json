@@ -1,0 +1,93 @@
+{
+  "slug": "oliveboard-senior-teacher-thane-2026-05-25-1",
+  "title": "Senior Teacher - Oliveboard - Work From Home Available",
+  "company": "Oliveboard",
+  "industry": "education",
+  "role": "Senior Teacher",
+  "location": {
+    "city": "Thane",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Student Assessment",
+    "Pedagogy",
+    "E-learning",
+    "LMS Platforms",
+    "Classroom Management",
+    "CBSE/ICSE Standards",
+    "Bloom's Taxonomy",
+    "MS Office"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Teacher - Oliveboard - Work From Home Available",
+    "description": "Oliveboard invites applications from qualified candidates for the position of Senior Teacher at our Thane location. This role offers excellent career advancement prospects.\n\nAbout Oliveboard:\nOliveboard is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with faculty on curriculum development initiatives\n• Conduct doubt-clearing sessions and remedial classes for weak students\n• Conduct parent-teacher meetings and update parents on student performance\n• Monitor student progress and provide timely feedback\n• Maintain classroom discipline and create a positive learning environment\n• Create curriculum-aligned learning materials and assessments\n• Contribute to school newsletter, blogs, and other publications\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 12-20 years of relevant experience\n• Proficiency in Student Assessment\n• Proficiency in Pedagogy\n• Proficiency in E-learning\n• Proficiency in LMS Platforms\n• Proficiency in Classroom Management\n• Proficiency in CBSE/ICSE Standards\n• Proficiency in Bloom's Taxonomy\n• Proficiency in MS Office\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Maternity and paternity leave\n• Mobile and internet reimbursement\n• Work-from-home flexibility\n• Referral bonus program\n• Competitive salary with performance-linked incentives\n• Learning & development budget\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Thane, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Oliveboard!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Oliveboard",
+      "value": "585-1-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Oliveboard",
+      "sameAs": "https://www.google.com/search?q=Oliveboard",
+      "logo": "https://logo.clearbit.com/oliveboard.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Oliveboard Office",
+        "addressLocality": "Thane",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "Student Assessment, Pedagogy, E-learning, LMS Platforms, Classroom Management, CBSE/ICSE Standards, Bloom's Taxonomy, MS Office",
+    "responsibilities": "Collaborate with faculty on curriculum development initiatives. Conduct doubt-clearing sessions and remedial classes for weak students. Conduct parent-teacher meetings and update parents on student performance. Monitor student progress and provide timely feedback. Maintain classroom discipline and create a positive learning environment. Create curriculum-aligned learning materials and assessments. Contribute to school newsletter, blogs, and other publications",
+    "benefits": "Maternity and paternity leave. Mobile and internet reimbursement. Work-from-home flexibility. Referral bonus program. Competitive salary with performance-linked incentives. Learning & development budget",
+    "industry": "education",
+    "occupationalCategory": "Senior Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Maternity and paternity leave, Mobile and internet reimbursement, Work-from-home flexibility, Referral bonus program, Competitive salary with performance-linked incentives, Learning & development budget"
+  },
+  "meta": {
+    "description": "Oliveboard invites applications from qualified candidates for the position of Senior Teacher at our Thane location. This role offers excellent career advancemen",
+    "keywords": "Senior Teacher, Oliveboard, jobs in Thane, Maharashtra jobs, education jobs India, Student Assessment, Pedagogy, E-learning, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:37:07.086Z",
+  "page": 146
+}
