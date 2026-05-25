@@ -1,0 +1,93 @@
+{
+  "slug": "fortis-healthcare-global-group-surgeon-noida-2026-05-25-3",
+  "title": "Surgeon Vacancy at Fortis Healthcare Global Group - 2026 Batch",
+  "company": "Fortis Healthcare Global Group",
+  "industry": "healthcare",
+  "role": "Surgeon",
+  "location": {
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Medical Coding",
+    "HIPAA Compliance",
+    "NABH Standards",
+    "Health Informatics",
+    "EMR/EHR",
+    "Telemedicine",
+    "Surgical Procedures",
+    "Clinical Documentation"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Surgeon Vacancy at Fortis Healthcare Global Group - 2026 Batch",
+    "description": "We at Fortis Healthcare Global Group are looking for an experienced Surgeon based out of Noida. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout Fortis Healthcare Global Group:\nFortis Healthcare Global Group is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Educate patients and families on health management and disease prevention\n• Monitor patient progress and adjust treatment plans accordingly\n• Respond to medical emergencies and provide immediate care\n• Provide high-quality patient care and maintain patient records\n• Maintain sterile environments and follow infection control protocols\n• Collaborate with pharmaceutical representatives and medical suppliers\n• Diagnose and treat medical conditions following established protocols\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 6-10 years of relevant experience\n• Proficiency in Medical Coding\n• Proficiency in HIPAA Compliance\n• Proficiency in NABH Standards\n• Proficiency in Health Informatics\n• Proficiency in EMR/EHR\n• Proficiency in Telemedicine\n• Proficiency in Surgical Procedures\n• Proficiency in Clinical Documentation\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Recognition and rewards programs\n• Meal coupons and food allowance\n• Comprehensive health insurance for self and family\n• Competitive salary with performance-linked incentives\n• Flexible working hours\n• Life and accident insurance\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Noida, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Fortis Healthcare Global Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Fortis Healthcare Global Group",
+      "value": "1137-3-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Fortis Healthcare Global Group",
+      "sameAs": "https://www.google.com/search?q=Fortis%20Healthcare%20Global%20Group",
+      "logo": "https://logo.clearbit.com/fortishealthcareglobalgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Fortis Healthcare Global Group Office",
+        "addressLocality": "Noida",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Medical Coding, HIPAA Compliance, NABH Standards, Health Informatics, EMR/EHR, Telemedicine, Surgical Procedures, Clinical Documentation",
+    "responsibilities": "Educate patients and families on health management and disease prevention. Monitor patient progress and adjust treatment plans accordingly. Respond to medical emergencies and provide immediate care. Provide high-quality patient care and maintain patient records. Maintain sterile environments and follow infection control protocols. Collaborate with pharmaceutical representatives and medical suppliers. Diagnose and treat medical conditions following established protocols",
+    "benefits": "Recognition and rewards programs. Meal coupons and food allowance. Comprehensive health insurance for self and family. Competitive salary with performance-linked incentives. Flexible working hours. Life and accident insurance",
+    "industry": "healthcare",
+    "occupationalCategory": "Surgeon",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Recognition and rewards programs, Meal coupons and food allowance, Comprehensive health insurance for self and family, Competitive salary with performance-linked incentives, Flexible working hours, Life and accident insurance"
+  },
+  "meta": {
+    "description": "We at Fortis Healthcare Global Group are looking for an experienced Surgeon based out of Noida. If you are a result-oriented professional with a passion for exc",
+    "keywords": "Surgeon, Fortis Healthcare Global Group, jobs in Noida, Uttar Pradesh jobs, healthcare jobs India, Medical Coding, HIPAA Compliance, NABH Standards, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:55:33.166Z",
+  "page": 284
+}

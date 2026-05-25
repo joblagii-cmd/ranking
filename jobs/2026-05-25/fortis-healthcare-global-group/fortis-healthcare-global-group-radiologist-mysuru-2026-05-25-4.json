@@ -1,0 +1,94 @@
+{
+  "slug": "fortis-healthcare-global-group-radiologist-mysuru-2026-05-25-4",
+  "title": "Mid-Level Radiologist at Fortis Healthcare Global Group",
+  "company": "Fortis Healthcare Global Group",
+  "industry": "healthcare",
+  "role": "Radiologist",
+  "location": {
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Medical Coding",
+    "Infection Control",
+    "Surgical Procedures",
+    "EMR/EHR",
+    "BLS/ACLS",
+    "Telemedicine",
+    "Pharmacovigilance",
+    "Medical Ethics"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Radiologist at Fortis Healthcare Global Group",
+    "description": "We at Fortis Healthcare Global Group are looking for an experienced Radiologist based out of Mysuru. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout Fortis Healthcare Global Group:\nFortis Healthcare Global Group is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure patient privacy and maintain confidentiality\n• Maintain accurate clinical documentation in electronic health records\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Diagnose and treat medical conditions following established protocols\n• Participate in quality improvement initiatives and clinical audits\n• Provide high-quality patient care and maintain patient records\n• Collaborate with pharmaceutical representatives and medical suppliers\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 3-6 years of relevant experience\n• Proficiency in Medical Coding\n• Proficiency in Infection Control\n• Proficiency in Surgical Procedures\n• Proficiency in EMR/EHR\n• Proficiency in BLS/ACLS\n• Proficiency in Telemedicine\n• Proficiency in Pharmacovigilance\n• Proficiency in Medical Ethics\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Life and accident insurance\n• Learning & development budget\n• Annual paid leaves and casual leaves\n• Transportation and conveyance allowance\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Mysuru, Karnataka, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Fortis Healthcare Global Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Fortis Healthcare Global Group",
+      "value": "1137-4-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Fortis Healthcare Global Group",
+      "sameAs": "https://www.google.com/search?q=Fortis%20Healthcare%20Global%20Group",
+      "logo": "https://logo.clearbit.com/fortishealthcareglobalgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Fortis Healthcare Global Group Office",
+        "addressLocality": "Mysuru",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "Medical Coding, Infection Control, Surgical Procedures, EMR/EHR, BLS/ACLS, Telemedicine, Pharmacovigilance, Medical Ethics",
+    "responsibilities": "Ensure patient privacy and maintain confidentiality. Maintain accurate clinical documentation in electronic health records. Coordinate with multidisciplinary teams for comprehensive patient management. Diagnose and treat medical conditions following established protocols. Participate in quality improvement initiatives and clinical audits. Provide high-quality patient care and maintain patient records. Collaborate with pharmaceutical representatives and medical suppliers",
+    "benefits": "Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Life and accident insurance. Learning & development budget. Annual paid leaves and casual leaves. Transportation and conveyance allowance",
+    "industry": "healthcare",
+    "occupationalCategory": "Radiologist",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Life and accident insurance, Learning & development budget, Annual paid leaves and casual leaves, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "We at Fortis Healthcare Global Group are looking for an experienced Radiologist based out of Mysuru. If you are a result-oriented professional with a passion fo",
+    "keywords": "Radiologist, Fortis Healthcare Global Group, jobs in Mysuru, Karnataka jobs, healthcare jobs India, Medical Coding, Infection Control, Surgical Procedures, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:55:33.166Z",
+  "page": 284
+}
