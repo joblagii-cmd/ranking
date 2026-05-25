@@ -1,0 +1,93 @@
+{
+  "slug": "aravind-eye-hospital-surgeon-allahabad-2026-05-25-3",
+  "title": "Surgeon Vacancy at Aravind Eye Hospital - 2026 Batch",
+  "company": "Aravind Eye Hospital",
+  "industry": "healthcare",
+  "role": "Surgeon",
+  "location": {
+    "city": "Allahabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "ICD-10",
+    "EMR/EHR",
+    "Telemedicine",
+    "Medical Ethics",
+    "Patient Care",
+    "CPT Codes",
+    "Health Informatics",
+    "Infection Control"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Surgeon Vacancy at Aravind Eye Hospital - 2026 Batch",
+    "description": "Aravind Eye Hospital, one of India's leading organizations, is hiring a Surgeon for our Allahabad operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Aravind Eye Hospital:\nAravind Eye Hospital is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Administer medications and treatments as prescribed\n• Educate patients and families on health management and disease prevention\n• Collaborate with pharmaceutical representatives and medical suppliers\n• Conduct routine health assessments and screenings\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Monitor patient progress and adjust treatment plans accordingly\n• Diagnose and treat medical conditions following established protocols\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 6-10 years of relevant experience\n• Proficiency in ICD-10\n• Proficiency in EMR/EHR\n• Proficiency in Telemedicine\n• Proficiency in Medical Ethics\n• Proficiency in Patient Care\n• Proficiency in CPT Codes\n• Proficiency in Health Informatics\n• Proficiency in Infection Control\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Provident Fund and Gratuity as per company policy\n• Recognition and rewards programs\n• Professional development and training programs\n• Work-from-home flexibility\n• Learning & development budget\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Allahabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Aravind Eye Hospital!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Aravind Eye Hospital",
+      "value": "282-3-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Aravind Eye Hospital",
+      "sameAs": "https://www.google.com/search?q=Aravind%20Eye%20Hospital",
+      "logo": "https://logo.clearbit.com/aravindeyehospital.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Aravind Eye Hospital Office",
+        "addressLocality": "Allahabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "ICD-10, EMR/EHR, Telemedicine, Medical Ethics, Patient Care, CPT Codes, Health Informatics, Infection Control",
+    "responsibilities": "Administer medications and treatments as prescribed. Educate patients and families on health management and disease prevention. Collaborate with pharmaceutical representatives and medical suppliers. Conduct routine health assessments and screenings. Coordinate with multidisciplinary teams for comprehensive patient management. Monitor patient progress and adjust treatment plans accordingly. Diagnose and treat medical conditions following established protocols",
+    "benefits": "Annual paid leaves and casual leaves. Provident Fund and Gratuity as per company policy. Recognition and rewards programs. Professional development and training programs. Work-from-home flexibility. Learning & development budget",
+    "industry": "healthcare",
+    "occupationalCategory": "Surgeon",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Provident Fund and Gratuity as per company policy, Recognition and rewards programs, Professional development and training programs, Work-from-home flexibility, Learning & development budget"
+  },
+  "meta": {
+    "description": "Aravind Eye Hospital, one of India's leading organizations, is hiring a Surgeon for our Allahabad operations. We offer a competitive salary package along with w",
+    "keywords": "Surgeon, Aravind Eye Hospital, jobs in Allahabad, Uttar Pradesh jobs, healthcare jobs India, ICD-10, EMR/EHR, Telemedicine, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:26:54.631Z",
+  "page": 70
+}
