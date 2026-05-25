@@ -1,0 +1,93 @@
+{
+  "slug": "ey-india-credit-analyst-rajkot-2026-05-25-2",
+  "title": "EY India is Hiring: Credit Analyst (Lead)",
+  "company": "EY India",
+  "industry": "finance",
+  "role": "Credit Analyst",
+  "location": {
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "IFRS",
+    "SAP FICO",
+    "Income Tax",
+    "Ind AS",
+    "Python for Finance",
+    "Tally",
+    "Bloomberg Terminal",
+    "Budgeting"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "EY India is Hiring: Credit Analyst (Lead)",
+    "description": "EY India is actively seeking a talented and motivated Credit Analyst to join our dynamic team in Rajkot. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout EY India:\nEY India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Develop financial models and projections for business planning\n• Manage accounts payable and accounts receivable functions\n• Process payroll and manage employee reimbursements\n• Prepare annual reports and investor presentations\n• Maintain general ledger and ensure accurate bookkeeping\n• Monitor market trends and provide investment recommendations\n• Ensure compliance with tax regulations and statutory requirements\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 1-3 years of relevant experience\n• Proficiency in IFRS\n• Proficiency in SAP FICO\n• Proficiency in Income Tax\n• Proficiency in Ind AS\n• Proficiency in Python for Finance\n• Proficiency in Tally\n• Proficiency in Bloomberg Terminal\n• Proficiency in Budgeting\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Professional development and training programs\n• Modern office with recreational facilities\n• International travel opportunities for senior roles\n• Life and accident insurance\n• Transportation and conveyance allowance\n• Annual paid leaves and casual leaves\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Rajkot, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with EY India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "EY India",
+      "value": "189-2-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "EY India",
+      "sameAs": "https://www.google.com/search?q=EY%20India",
+      "logo": "https://logo.clearbit.com/eyindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "EY India Office",
+        "addressLocality": "Rajkot",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "IFRS, SAP FICO, Income Tax, Ind AS, Python for Finance, Tally, Bloomberg Terminal, Budgeting",
+    "responsibilities": "Develop financial models and projections for business planning. Manage accounts payable and accounts receivable functions. Process payroll and manage employee reimbursements. Prepare annual reports and investor presentations. Maintain general ledger and ensure accurate bookkeeping. Monitor market trends and provide investment recommendations. Ensure compliance with tax regulations and statutory requirements",
+    "benefits": "Professional development and training programs. Modern office with recreational facilities. International travel opportunities for senior roles. Life and accident insurance. Transportation and conveyance allowance. Annual paid leaves and casual leaves",
+    "industry": "finance",
+    "occupationalCategory": "Credit Analyst",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Modern office with recreational facilities, International travel opportunities for senior roles, Life and accident insurance, Transportation and conveyance allowance, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "EY India is actively seeking a talented and motivated Credit Analyst to join our dynamic team in Rajkot. This is an excellent opportunity for professionals who ",
+    "keywords": "Credit Analyst, EY India, jobs in Rajkot, Gujarat jobs, finance jobs India, IFRS, SAP FICO, Income Tax, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:23:44.906Z",
+  "page": 47
+}
