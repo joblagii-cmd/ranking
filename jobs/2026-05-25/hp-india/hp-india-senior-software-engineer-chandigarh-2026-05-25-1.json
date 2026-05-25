@@ -1,0 +1,93 @@
+{
+  "slug": "hp-india-senior-software-engineer-chandigarh-2026-05-25-1",
+  "title": "Senior Software Engineer - HP India - Freshers Welcome",
+  "company": "HP India",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Chandigarh",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "JavaScript",
+    "REST APIs",
+    "Docker",
+    "CI/CD",
+    "Agile/Scrum",
+    "Python",
+    "Go",
+    "MongoDB"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - HP India - Freshers Welcome",
+    "description": "HP India, one of India's leading organizations, is hiring a Senior Software Engineer for our Chandigarh operations. We offer a competitive salary package along with world-class benefits.\n\nAbout HP India:\nHP India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Implement new features based on product requirements\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Optimize application performance and ensure high availability\n• Contribute to system architecture and technical design decisions\n• Participate in on-call rotation for production support\n• Design, develop and maintain scalable software applications\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 1-3 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in REST APIs\n• Proficiency in Docker\n• Proficiency in CI/CD\n• Proficiency in Agile/Scrum\n• Proficiency in Python\n• Proficiency in Go\n• Proficiency in MongoDB\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Life and accident insurance\n• Comprehensive health insurance for self and family\n• Modern office with recreational facilities\n• Company-sponsored certifications\n• Maternity and paternity leave\n• Mobile and internet reimbursement\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Chandigarh, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with HP India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "HP India",
+      "value": "52-1-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "HP India",
+      "sameAs": "https://www.google.com/search?q=HP%20India",
+      "logo": "https://logo.clearbit.com/hpindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "HP India Office",
+        "addressLocality": "Chandigarh",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "JavaScript, REST APIs, Docker, CI/CD, Agile/Scrum, Python, Go, MongoDB",
+    "responsibilities": "Work with agile methodologies including daily stand-ups and sprint planning. Implement new features based on product requirements. Mentor junior developers and conduct knowledge-sharing sessions. Optimize application performance and ensure high availability. Contribute to system architecture and technical design decisions. Participate in on-call rotation for production support. Design, develop and maintain scalable software applications",
+    "benefits": "Life and accident insurance. Comprehensive health insurance for self and family. Modern office with recreational facilities. Company-sponsored certifications. Maternity and paternity leave. Mobile and internet reimbursement",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Comprehensive health insurance for self and family, Modern office with recreational facilities, Company-sponsored certifications, Maternity and paternity leave, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "HP India, one of India's leading organizations, is hiring a Senior Software Engineer for our Chandigarh operations. We offer a competitive salary package along ",
+    "keywords": "Senior Software Engineer, HP India, jobs in Chandigarh, Punjab jobs, technology jobs India, JavaScript, REST APIs, Docker, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:18:52.923Z",
+  "page": 12
+}

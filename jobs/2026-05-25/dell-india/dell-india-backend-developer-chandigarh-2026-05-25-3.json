@@ -1,0 +1,94 @@
+{
+  "slug": "dell-india-backend-developer-chandigarh-2026-05-25-3",
+  "title": "Backend Developer Vacancy at Dell India - 2026 Batch",
+  "company": "Dell India",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Chandigarh",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Python",
+    "AWS",
+    "MongoDB",
+    "Kubernetes",
+    "SQL",
+    "Docker",
+    "Git",
+    "Go"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Dell India - 2026 Batch",
+    "description": "Dell India, one of India's leading organizations, is hiring a Backend Developer for our Chandigarh operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Dell India:\nDell India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Participate in on-call rotation for production support\n• Write clean, maintainable, and well-documented code\n• Implement new features based on product requirements\n• Collaborate with cross-functional teams including product, design, and QA\n• Integrate third-party APIs and services\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 0-1 years of relevant experience\n• Proficiency in Python\n• Proficiency in AWS\n• Proficiency in MongoDB\n• Proficiency in Kubernetes\n• Proficiency in SQL\n• Proficiency in Docker\n• Proficiency in Git\n• Proficiency in Go\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Mobile and internet reimbursement\n• International travel opportunities for senior roles\n• Life and accident insurance\n• Flexible working hours\n• Professional development and training programs\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Chandigarh, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Dell India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Dell India",
+      "value": "51-3-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Dell India",
+      "sameAs": "https://www.google.com/search?q=Dell%20India",
+      "logo": "https://logo.clearbit.com/dellindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Dell India Office",
+        "addressLocality": "Chandigarh",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "Python, AWS, MongoDB, Kubernetes, SQL, Docker, Git, Go",
+    "responsibilities": "Design, develop and maintain scalable software applications. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Participate in on-call rotation for production support. Write clean, maintainable, and well-documented code. Implement new features based on product requirements. Collaborate with cross-functional teams including product, design, and QA. Integrate third-party APIs and services",
+    "benefits": "Mobile and internet reimbursement. International travel opportunities for senior roles. Life and accident insurance. Flexible working hours. Professional development and training programs. Employee stock options (ESOPs) for eligible roles",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Mobile and internet reimbursement, International travel opportunities for senior roles, Life and accident insurance, Flexible working hours, Professional development and training programs, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "Dell India, one of India's leading organizations, is hiring a Backend Developer for our Chandigarh operations. We offer a competitive salary package along with ",
+    "keywords": "Backend Developer, Dell India, jobs in Chandigarh, Punjab jobs, technology jobs India, Python, AWS, MongoDB, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:18:52.923Z",
+  "page": 12
+}

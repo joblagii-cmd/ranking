@@ -1,0 +1,93 @@
+{
+  "slug": "hp-india-full-stack-developer-chandigarh-2026-05-25-2",
+  "title": "HP India is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "HP India",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Chandigarh",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Python",
+    "React",
+    "REST APIs",
+    "Machine Learning",
+    "TypeScript",
+    "Go",
+    "Microservices",
+    "SQL"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "HP India is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "HP India, one of India's leading organizations, is hiring a Full Stack Developer for our Chandigarh operations. We offer a competitive salary package along with world-class benefits.\n\nAbout HP India:\nHP India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Participate in on-call rotation for production support\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Participate in code reviews and contribute to technical discussions\n• Write clean, maintainable, and well-documented code\n• Write and execute unit tests and integration tests\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 0-1 years of relevant experience\n• Proficiency in Python\n• Proficiency in React\n• Proficiency in REST APIs\n• Proficiency in Machine Learning\n• Proficiency in TypeScript\n• Proficiency in Go\n• Proficiency in Microservices\n• Proficiency in SQL\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Meal coupons and food allowance\n• Recognition and rewards programs\n• Maternity and paternity leave\n• Life and accident insurance\n• Learning & development budget\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Chandigarh, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with HP India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "HP India",
+      "value": "52-2-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "HP India",
+      "sameAs": "https://www.google.com/search?q=HP%20India",
+      "logo": "https://logo.clearbit.com/hpindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "HP India Office",
+        "addressLocality": "Chandigarh",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Python, React, REST APIs, Machine Learning, TypeScript, Go, Microservices, SQL",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Work with agile methodologies including daily stand-ups and sprint planning. Participate in on-call rotation for production support. Mentor junior developers and conduct knowledge-sharing sessions. Participate in code reviews and contribute to technical discussions. Write clean, maintainable, and well-documented code. Write and execute unit tests and integration tests",
+    "benefits": "Competitive salary with performance-linked incentives. Meal coupons and food allowance. Recognition and rewards programs. Maternity and paternity leave. Life and accident insurance. Learning & development budget",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Meal coupons and food allowance, Recognition and rewards programs, Maternity and paternity leave, Life and accident insurance, Learning & development budget"
+  },
+  "meta": {
+    "description": "HP India, one of India's leading organizations, is hiring a Full Stack Developer for our Chandigarh operations. We offer a competitive salary package along with",
+    "keywords": "Full Stack Developer, HP India, jobs in Chandigarh, Punjab jobs, technology jobs India, Python, React, REST APIs, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:18:52.923Z",
+  "page": 12
+}
