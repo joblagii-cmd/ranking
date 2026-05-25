@@ -1,0 +1,94 @@
+{
+  "slug": "spicejet-reservation-manager-madurai-2026-05-25-3",
+  "title": "Reservation Manager Vacancy at SpiceJet - 2026 Batch",
+  "company": "SpiceJet",
+  "industry": "hospitality",
+  "role": "Reservation Manager",
+  "location": {
+    "city": "Madurai",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "GDS Systems",
+    "Customer Relations",
+    "F&B Service",
+    "Housekeeping Standards",
+    "Opera PMS",
+    "Food Safety",
+    "Yield Management",
+    "OTA Management"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Reservation Manager Vacancy at SpiceJet - 2026 Batch",
+    "description": "SpiceJet is actively seeking a talented and motivated Reservation Manager to join our dynamic team in Madurai. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout SpiceJet:\nSpiceJet is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Conduct regular guest satisfaction surveys and implement improvements\n• Handle guest complaints and resolve issues promptly\n• Monitor F&B service quality and maintain hygiene standards\n• Train and supervise front-line staff on service standards\n• Ensure compliance with FSSAI, health, and safety regulations\n• Coordinate housekeeping and maintenance for room readiness\n• Manage reservations and optimize room revenue through yield management\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 3-6 years of relevant experience\n• Proficiency in GDS Systems\n• Proficiency in Customer Relations\n• Proficiency in F&B Service\n• Proficiency in Housekeeping Standards\n• Proficiency in Opera PMS\n• Proficiency in Food Safety\n• Proficiency in Yield Management\n• Proficiency in OTA Management\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Recognition and rewards programs\n• International travel opportunities for senior roles\n• Learning & development budget\n• Employee stock options (ESOPs) for eligible roles\n• Modern office with recreational facilities\n• Life and accident insurance\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Madurai, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with SpiceJet!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "SpiceJet",
+      "value": "878-3-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "SpiceJet",
+      "sameAs": "https://www.google.com/search?q=SpiceJet",
+      "logo": "https://logo.clearbit.com/spicejet.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "SpiceJet Office",
+        "addressLocality": "Madurai",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "GDS Systems, Customer Relations, F&B Service, Housekeeping Standards, Opera PMS, Food Safety, Yield Management, OTA Management",
+    "responsibilities": "Conduct regular guest satisfaction surveys and implement improvements. Handle guest complaints and resolve issues promptly. Monitor F&B service quality and maintain hygiene standards. Train and supervise front-line staff on service standards. Ensure compliance with FSSAI, health, and safety regulations. Coordinate housekeeping and maintenance for room readiness. Manage reservations and optimize room revenue through yield management",
+    "benefits": "Recognition and rewards programs. International travel opportunities for senior roles. Learning & development budget. Employee stock options (ESOPs) for eligible roles. Modern office with recreational facilities. Life and accident insurance",
+    "industry": "hospitality",
+    "occupationalCategory": "Reservation Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Recognition and rewards programs, International travel opportunities for senior roles, Learning & development budget, Employee stock options (ESOPs) for eligible roles, Modern office with recreational facilities, Life and accident insurance"
+  },
+  "meta": {
+    "description": "SpiceJet is actively seeking a talented and motivated Reservation Manager to join our dynamic team in Madurai. This is an excellent opportunity for professional",
+    "keywords": "Reservation Manager, SpiceJet, jobs in Madurai, Tamil Nadu jobs, hospitality jobs India, GDS Systems, Customer Relations, F&B Service, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:46:54.929Z",
+  "page": 219
+}
