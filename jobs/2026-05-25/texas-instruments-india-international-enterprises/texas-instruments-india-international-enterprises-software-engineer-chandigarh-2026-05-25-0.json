@@ -1,0 +1,94 @@
+{
+  "slug": "texas-instruments-india-international-enterprises-software-engineer-chandigarh-2026-05-25-0",
+  "title": "Career Opportunity Software Engineer at Texas Instruments India International Enterprises",
+  "company": "Texas Instruments India International Enterprises",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Chandigarh",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "SQL",
+    "Node.js",
+    "Machine Learning",
+    "React",
+    "TensorFlow",
+    "MongoDB",
+    "Rust",
+    "REST APIs"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Career Opportunity Software Engineer at Texas Instruments India International Enterprises",
+    "description": "Are you a skilled Software Engineer looking for your next big career move? Texas Instruments India International Enterprises in Chandigarh offers you the perfect platform to grow professionally and personally.\n\nAbout Texas Instruments India International Enterprises:\nTexas Instruments India International Enterprises is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Design, develop and maintain scalable software applications\n• Participate in on-call rotation for production support\n• Write clean, maintainable, and well-documented code\n• Write and execute unit tests and integration tests\n• Participate in code reviews and contribute to technical discussions\n• Contribute to system architecture and technical design decisions\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 0-1 years of relevant experience\n• Proficiency in SQL\n• Proficiency in Node.js\n• Proficiency in Machine Learning\n• Proficiency in React\n• Proficiency in TensorFlow\n• Proficiency in MongoDB\n• Proficiency in Rust\n• Proficiency in REST APIs\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Company-sponsored certifications\n• Referral bonus program\n• Flexible working hours\n• International travel opportunities for senior roles\n• Provident Fund and Gratuity as per company policy\n• Transportation and conveyance allowance\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Chandigarh, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Texas Instruments India International Enterprises!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Texas Instruments India International Enterprises",
+      "value": "968-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Texas Instruments India International Enterprises",
+      "sameAs": "https://www.google.com/search?q=Texas%20Instruments%20India%20International%20Enterprises",
+      "logo": "https://logo.clearbit.com/texasinstrumentsindiainternationalenterprises.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Texas Instruments India International Enterprises Office",
+        "addressLocality": "Chandigarh",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "SQL, Node.js, Machine Learning, React, TensorFlow, MongoDB, Rust, REST APIs",
+    "responsibilities": "Mentor junior developers and conduct knowledge-sharing sessions. Design, develop and maintain scalable software applications. Participate in on-call rotation for production support. Write clean, maintainable, and well-documented code. Write and execute unit tests and integration tests. Participate in code reviews and contribute to technical discussions. Contribute to system architecture and technical design decisions",
+    "benefits": "Company-sponsored certifications. Referral bonus program. Flexible working hours. International travel opportunities for senior roles. Provident Fund and Gratuity as per company policy. Transportation and conveyance allowance",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Company-sponsored certifications, Referral bonus program, Flexible working hours, International travel opportunities for senior roles, Provident Fund and Gratuity as per company policy, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "Are you a skilled Software Engineer looking for your next big career move? Texas Instruments India International Enterprises in Chandigarh offers you the perfec",
+    "keywords": "Software Engineer, Texas Instruments India International Enterprises, jobs in Chandigarh, Punjab jobs, technology jobs India, SQL, Node.js, Machine Learning, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:49:50.681Z",
+  "page": 241
+}

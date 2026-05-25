@@ -1,0 +1,93 @@
+{
+  "slug": "adobe-india-holdings-services-software-engineer-raipur-2026-05-25-0",
+  "title": "Career Opportunity Software Engineer at Adobe India Holdings Services",
+  "company": "Adobe India Holdings Services",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Raipur",
+    "state": "Chhattisgarh",
+    "region": "Central India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "CI/CD",
+    "Node.js",
+    "JavaScript",
+    "Agile/Scrum",
+    "TensorFlow",
+    "REST APIs",
+    "Microservices",
+    "React"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Career Opportunity Software Engineer at Adobe India Holdings Services",
+    "description": "Are you a skilled Software Engineer looking for your next big career move? Adobe India Holdings Services in Raipur offers you the perfect platform to grow professionally and personally.\n\nAbout Adobe India Holdings Services:\nAdobe India Holdings Services is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Collaborate with cross-functional teams including product, design, and QA\n• Implement new features based on product requirements\n• Optimize application performance and ensure high availability\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Participate in code reviews and contribute to technical discussions\n• Ensure code security and follow best practices for data protection\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 6-10 years of relevant experience\n• Proficiency in CI/CD\n• Proficiency in Node.js\n• Proficiency in JavaScript\n• Proficiency in Agile/Scrum\n• Proficiency in TensorFlow\n• Proficiency in REST APIs\n• Proficiency in Microservices\n• Proficiency in React\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Mobile and internet reimbursement\n• Flexible working hours\n• Comprehensive health insurance for self and family\n• Life and accident insurance\n• Transportation and conveyance allowance\n• Professional development and training programs\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Raipur, Chhattisgarh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Adobe India Holdings Services!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Adobe India Holdings Services",
+      "value": "965-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Adobe India Holdings Services",
+      "sameAs": "https://www.google.com/search?q=Adobe%20India%20Holdings%20Services",
+      "logo": "https://logo.clearbit.com/adobeindiaholdingsservices.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Adobe India Holdings Services Office",
+        "addressLocality": "Raipur",
+        "addressRegion": "Chhattisgarh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "CI/CD, Node.js, JavaScript, Agile/Scrum, TensorFlow, REST APIs, Microservices, React",
+    "responsibilities": "Work with agile methodologies including daily stand-ups and sprint planning. Collaborate with cross-functional teams including product, design, and QA. Implement new features based on product requirements. Optimize application performance and ensure high availability. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Participate in code reviews and contribute to technical discussions. Ensure code security and follow best practices for data protection",
+    "benefits": "Mobile and internet reimbursement. Flexible working hours. Comprehensive health insurance for self and family. Life and accident insurance. Transportation and conveyance allowance. Professional development and training programs",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Mobile and internet reimbursement, Flexible working hours, Comprehensive health insurance for self and family, Life and accident insurance, Transportation and conveyance allowance, Professional development and training programs"
+  },
+  "meta": {
+    "description": "Are you a skilled Software Engineer looking for your next big career move? Adobe India Holdings Services in Raipur offers you the perfect platform to grow profe",
+    "keywords": "Software Engineer, Adobe India Holdings Services, jobs in Raipur, Chhattisgarh jobs, technology jobs India, CI/CD, Node.js, JavaScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:49:50.681Z",
+  "page": 241
+}
