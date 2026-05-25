@@ -1,0 +1,93 @@
+{
+  "slug": "rackspace-india-backend-developer-gwalior-2026-05-25-3",
+  "title": "Backend Developer Vacancy at Rackspace India - 2026 Batch",
+  "company": "Rackspace India",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Go",
+    "Python",
+    "Machine Learning",
+    "Node.js",
+    "Agile/Scrum",
+    "MongoDB",
+    "Rust",
+    "TypeScript"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Rackspace India - 2026 Batch",
+    "description": "Rackspace India, one of India's leading organizations, is hiring a Backend Developer for our Gwalior operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Rackspace India:\nRackspace India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Implement new features based on product requirements\n• Integrate third-party APIs and services\n• Participate in on-call rotation for production support\n• Collaborate with cross-functional teams including product, design, and QA\n• Write clean, maintainable, and well-documented code\n• Optimize application performance and ensure high availability\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 12-20 years of relevant experience\n• Proficiency in Go\n• Proficiency in Python\n• Proficiency in Machine Learning\n• Proficiency in Node.js\n• Proficiency in Agile/Scrum\n• Proficiency in MongoDB\n• Proficiency in Rust\n• Proficiency in TypeScript\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Recognition and rewards programs\n• Maternity and paternity leave\n• Life and accident insurance\n• Annual paid leaves and casual leaves\n• Transportation and conveyance allowance\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Gwalior, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Rackspace India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Rackspace India",
+      "value": "41-3-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Rackspace India",
+      "sameAs": "https://www.google.com/search?q=Rackspace%20India",
+      "logo": "https://logo.clearbit.com/rackspaceindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Rackspace India Office",
+        "addressLocality": "Gwalior",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "Go, Python, Machine Learning, Node.js, Agile/Scrum, MongoDB, Rust, TypeScript",
+    "responsibilities": "Design, develop and maintain scalable software applications. Implement new features based on product requirements. Integrate third-party APIs and services. Participate in on-call rotation for production support. Collaborate with cross-functional teams including product, design, and QA. Write clean, maintainable, and well-documented code. Optimize application performance and ensure high availability",
+    "benefits": "Provident Fund and Gratuity as per company policy. Recognition and rewards programs. Maternity and paternity leave. Life and accident insurance. Annual paid leaves and casual leaves. Transportation and conveyance allowance",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Recognition and rewards programs, Maternity and paternity leave, Life and accident insurance, Annual paid leaves and casual leaves, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "Rackspace India, one of India's leading organizations, is hiring a Backend Developer for our Gwalior operations. We offer a competitive salary package along wit",
+    "keywords": "Backend Developer, Rackspace India, jobs in Gwalior, Madhya Pradesh jobs, technology jobs India, Go, Python, Machine Learning, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:18:35.596Z",
+  "page": 10
+}

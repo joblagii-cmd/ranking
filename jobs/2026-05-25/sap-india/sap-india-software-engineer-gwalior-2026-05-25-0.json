@@ -1,0 +1,94 @@
+{
+  "slug": "sap-india-software-engineer-gwalior-2026-05-25-0",
+  "title": "Walk-in Drive Software Engineer at SAP India",
+  "company": "SAP India",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "MongoDB",
+    "AWS",
+    "React",
+    "Microservices",
+    "TypeScript",
+    "Java",
+    "Node.js",
+    "Git"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Walk-in Drive Software Engineer at SAP India",
+    "description": "SAP India, one of India's leading organizations, is hiring a Software Engineer for our Gwalior operations. We offer a competitive salary package along with world-class benefits.\n\nAbout SAP India:\nSAP India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write clean, maintainable, and well-documented code\n• Ensure code security and follow best practices for data protection\n• Implement new features based on product requirements\n• Optimize application performance and ensure high availability\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Collaborate with cross-functional teams including product, design, and QA\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 0-1 years of relevant experience\n• Proficiency in MongoDB\n• Proficiency in AWS\n• Proficiency in React\n• Proficiency in Microservices\n• Proficiency in TypeScript\n• Proficiency in Java\n• Proficiency in Node.js\n• Proficiency in Git\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Learning & development budget\n• Employee stock options (ESOPs) for eligible roles\n• Competitive salary with performance-linked incentives\n• Recognition and rewards programs\n• Comprehensive health insurance for self and family\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Gwalior, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with SAP India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "SAP India",
+      "value": "43-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "SAP India",
+      "sameAs": "https://www.google.com/search?q=SAP%20India",
+      "logo": "https://logo.clearbit.com/sapindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "SAP India Office",
+        "addressLocality": "Gwalior",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "MongoDB, AWS, React, Microservices, TypeScript, Java, Node.js, Git",
+    "responsibilities": "Write clean, maintainable, and well-documented code. Ensure code security and follow best practices for data protection. Implement new features based on product requirements. Optimize application performance and ensure high availability. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Mentor junior developers and conduct knowledge-sharing sessions. Collaborate with cross-functional teams including product, design, and QA",
+    "benefits": "Transportation and conveyance allowance. Learning & development budget. Employee stock options (ESOPs) for eligible roles. Competitive salary with performance-linked incentives. Recognition and rewards programs. Comprehensive health insurance for self and family",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Learning & development budget, Employee stock options (ESOPs) for eligible roles, Competitive salary with performance-linked incentives, Recognition and rewards programs, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "SAP India, one of India's leading organizations, is hiring a Software Engineer for our Gwalior operations. We offer a competitive salary package along with worl",
+    "keywords": "Software Engineer, SAP India, jobs in Gwalior, Madhya Pradesh jobs, technology jobs India, MongoDB, AWS, React, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:18:35.597Z",
+  "page": 10
+}

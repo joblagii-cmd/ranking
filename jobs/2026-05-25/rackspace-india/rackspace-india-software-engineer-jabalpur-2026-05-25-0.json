@@ -1,0 +1,93 @@
+{
+  "slug": "rackspace-india-software-engineer-jabalpur-2026-05-25-0",
+  "title": "Walk-in Drive Software Engineer at Rackspace India",
+  "company": "Rackspace India",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Jabalpur",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Docker",
+    "TensorFlow",
+    "Rust",
+    "JavaScript",
+    "Kubernetes",
+    "Microservices",
+    "AWS",
+    "MongoDB"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Walk-in Drive Software Engineer at Rackspace India",
+    "description": "Rackspace India, one of India's leading organizations, is hiring a Software Engineer for our Jabalpur operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Rackspace India:\nRackspace India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Participate in code reviews and contribute to technical discussions\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Ensure code security and follow best practices for data protection\n• Participate in on-call rotation for production support\n• Implement new features based on product requirements\n• Contribute to system architecture and technical design decisions\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 3-6 years of relevant experience\n• Proficiency in Docker\n• Proficiency in TensorFlow\n• Proficiency in Rust\n• Proficiency in JavaScript\n• Proficiency in Kubernetes\n• Proficiency in Microservices\n• Proficiency in AWS\n• Proficiency in MongoDB\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Professional development and training programs\n• Work-from-home flexibility\n• Life and accident insurance\n• Modern office with recreational facilities\n• Mobile and internet reimbursement\n• Maternity and paternity leave\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Jabalpur, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Rackspace India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Rackspace India",
+      "value": "41-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Rackspace India",
+      "sameAs": "https://www.google.com/search?q=Rackspace%20India",
+      "logo": "https://logo.clearbit.com/rackspaceindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Rackspace India Office",
+        "addressLocality": "Jabalpur",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "Docker, TensorFlow, Rust, JavaScript, Kubernetes, Microservices, AWS, MongoDB",
+    "responsibilities": "Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Participate in code reviews and contribute to technical discussions. Mentor junior developers and conduct knowledge-sharing sessions. Ensure code security and follow best practices for data protection. Participate in on-call rotation for production support. Implement new features based on product requirements. Contribute to system architecture and technical design decisions",
+    "benefits": "Professional development and training programs. Work-from-home flexibility. Life and accident insurance. Modern office with recreational facilities. Mobile and internet reimbursement. Maternity and paternity leave",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Work-from-home flexibility, Life and accident insurance, Modern office with recreational facilities, Mobile and internet reimbursement, Maternity and paternity leave"
+  },
+  "meta": {
+    "description": "Rackspace India, one of India's leading organizations, is hiring a Software Engineer for our Jabalpur operations. We offer a competitive salary package along wi",
+    "keywords": "Software Engineer, Rackspace India, jobs in Jabalpur, Madhya Pradesh jobs, technology jobs India, Docker, TensorFlow, Rust, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:18:35.596Z",
+  "page": 10
+}
