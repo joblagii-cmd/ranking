@@ -1,0 +1,94 @@
+{
+  "slug": "tata-steel-process-engineer-delhi-2026-05-25-3",
+  "title": "Process Engineer Vacancy at Tata Steel - 2026 Batch",
+  "company": "Tata Steel",
+  "industry": "manufacturing",
+  "role": "Process Engineer",
+  "location": {
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "AutoCAD",
+    "SAP MM/PP",
+    "Lean Manufacturing",
+    "FMEA",
+    "Kaizen",
+    "ISO 9001",
+    "PPAP",
+    "GD&T"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Process Engineer Vacancy at Tata Steel - 2026 Batch",
+    "description": "If you're a passionate Process Engineer with drive and ambition, Tata Steel in Delhi is the place for you. We're growing fast and need talented people to grow with us.\n\nAbout Tata Steel:\nTata Steel is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Conduct root cause analysis for quality rejections and defects\n• Coordinate with design and engineering teams on product improvements\n• Implement lean manufacturing and continuous improvement initiatives\n• Implement 5S, Kaizen, and Six Sigma practices on the shop floor\n• Ensure environmental compliance and waste management\n• Ensure product quality meets internal and customer specifications\n• Coordinate with logistics for dispatching finished goods\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 0-1 years of relevant experience\n• Proficiency in AutoCAD\n• Proficiency in SAP MM/PP\n• Proficiency in Lean Manufacturing\n• Proficiency in FMEA\n• Proficiency in Kaizen\n• Proficiency in ISO 9001\n• Proficiency in PPAP\n• Proficiency in GD&T\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Flexible working hours\n• Comprehensive health insurance for self and family\n• Work-from-home flexibility\n• Professional development and training programs\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Delhi, Delhi, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Tata Steel!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Tata Steel",
+      "value": "396-3-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Tata Steel",
+      "sameAs": "https://www.google.com/search?q=Tata%20Steel",
+      "logo": "https://logo.clearbit.com/tatasteel.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Tata Steel Office",
+        "addressLocality": "Delhi",
+        "addressRegion": "Delhi",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "AutoCAD, SAP MM/PP, Lean Manufacturing, FMEA, Kaizen, ISO 9001, PPAP, GD&T",
+    "responsibilities": "Conduct root cause analysis for quality rejections and defects. Coordinate with design and engineering teams on product improvements. Implement lean manufacturing and continuous improvement initiatives. Implement 5S, Kaizen, and Six Sigma practices on the shop floor. Ensure environmental compliance and waste management. Ensure product quality meets internal and customer specifications. Coordinate with logistics for dispatching finished goods",
+    "benefits": "Transportation and conveyance allowance. Flexible working hours. Comprehensive health insurance for self and family. Work-from-home flexibility. Professional development and training programs. Employee stock options (ESOPs) for eligible roles",
+    "industry": "manufacturing",
+    "occupationalCategory": "Process Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Flexible working hours, Comprehensive health insurance for self and family, Work-from-home flexibility, Professional development and training programs, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "If you're a passionate Process Engineer with drive and ambition, Tata Steel in Delhi is the place for you. We're growing fast and need talented people to grow w",
+    "keywords": "Process Engineer, Tata Steel, jobs in Delhi, Delhi jobs, manufacturing jobs India, AutoCAD, SAP MM/PP, Lean Manufacturing, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:30:41.982Z",
+  "page": 98
+}
