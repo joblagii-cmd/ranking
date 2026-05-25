@@ -1,0 +1,94 @@
+{
+  "slug": "bajaj-auto-global-group-plant-manager-kanpur-2026-05-25-4",
+  "title": "Principal Plant Manager at Bajaj Auto Global Group",
+  "company": "Bajaj Auto Global Group",
+  "industry": "manufacturing",
+  "role": "Plant Manager",
+  "location": {
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Project Management",
+    "Root Cause Analysis",
+    "ERP Systems",
+    "APQP",
+    "PPAP",
+    "Kaizen",
+    "AutoCAD",
+    "PLC/SCADA"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Principal Plant Manager at Bajaj Auto Global Group",
+    "description": "If you're a passionate Plant Manager with drive and ambition, Bajaj Auto Global Group in Kanpur is the place for you. We're growing fast and need talented people to grow with us.\n\nAbout Bajaj Auto Global Group:\nBajaj Auto Global Group is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Oversee daily production operations to meet output targets\n• Ensure product quality meets internal and customer specifications\n• Implement 5S, Kaizen, and Six Sigma practices on the shop floor\n• Implement lean manufacturing and continuous improvement initiatives\n• Conduct root cause analysis for quality rejections and defects\n• Monitor equipment performance and coordinate preventive maintenance\n• Manage raw material procurement and inventory levels\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 10-15 years of relevant experience\n• Proficiency in Project Management\n• Proficiency in Root Cause Analysis\n• Proficiency in ERP Systems\n• Proficiency in APQP\n• Proficiency in PPAP\n• Proficiency in Kaizen\n• Proficiency in AutoCAD\n• Proficiency in PLC/SCADA\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Work-from-home flexibility\n• Annual paid leaves and casual leaves\n• Mobile and internet reimbursement\n• Recognition and rewards programs\n• Comprehensive health insurance for self and family\n• International travel opportunities for senior roles\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Kanpur, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Bajaj Auto Global Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Bajaj Auto Global Group",
+      "value": "1327-4-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Bajaj Auto Global Group",
+      "sameAs": "https://www.google.com/search?q=Bajaj%20Auto%20Global%20Group",
+      "logo": "https://logo.clearbit.com/bajajautoglobalgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Bajaj Auto Global Group Office",
+        "addressLocality": "Kanpur",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "Project Management, Root Cause Analysis, ERP Systems, APQP, PPAP, Kaizen, AutoCAD, PLC/SCADA",
+    "responsibilities": "Oversee daily production operations to meet output targets. Ensure product quality meets internal and customer specifications. Implement 5S, Kaizen, and Six Sigma practices on the shop floor. Implement lean manufacturing and continuous improvement initiatives. Conduct root cause analysis for quality rejections and defects. Monitor equipment performance and coordinate preventive maintenance. Manage raw material procurement and inventory levels",
+    "benefits": "Work-from-home flexibility. Annual paid leaves and casual leaves. Mobile and internet reimbursement. Recognition and rewards programs. Comprehensive health insurance for self and family. International travel opportunities for senior roles",
+    "industry": "manufacturing",
+    "occupationalCategory": "Plant Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Annual paid leaves and casual leaves, Mobile and internet reimbursement, Recognition and rewards programs, Comprehensive health insurance for self and family, International travel opportunities for senior roles"
+  },
+  "meta": {
+    "description": "If you're a passionate Plant Manager with drive and ambition, Bajaj Auto Global Group in Kanpur is the place for you. We're growing fast and need talented peopl",
+    "keywords": "Plant Manager, Bajaj Auto Global Group, jobs in Kanpur, Uttar Pradesh jobs, manufacturing jobs India, Project Management, Root Cause Analysis, ERP Systems, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T07:02:06.080Z",
+  "page": 331
+}
