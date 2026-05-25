@@ -1,0 +1,93 @@
+{
+  "slug": "dunzo-capital-india-frontend-developer-srinagar-2026-05-25-4",
+  "title": "Entry-Level Frontend Developer at Dunzo Capital India",
+  "company": "Dunzo Capital India",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Srinagar",
+    "state": "Jammu & Kashmir",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Machine Learning",
+    "React",
+    "Docker",
+    "Agile/Scrum",
+    "AWS",
+    "JavaScript",
+    "Java",
+    "SQL"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Entry-Level Frontend Developer at Dunzo Capital India",
+    "description": "Join the Dunzo Capital India family as a Frontend Developer in Srinagar. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Dunzo Capital India:\nDunzo Capital India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Collaborate with cross-functional teams including product, design, and QA\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Optimize application performance and ensure high availability\n• Participate in code reviews and contribute to technical discussions\n• Contribute to system architecture and technical design decisions\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 12-20 years of relevant experience\n• Proficiency in Machine Learning\n• Proficiency in React\n• Proficiency in Docker\n• Proficiency in Agile/Scrum\n• Proficiency in AWS\n• Proficiency in JavaScript\n• Proficiency in Java\n• Proficiency in SQL\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Professional development and training programs\n• Flexible working hours\n• Transportation and conveyance allowance\n• Annual paid leaves and casual leaves\n• Work-from-home flexibility\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Srinagar, Jammu & Kashmir, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Dunzo Capital India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Dunzo Capital India",
+      "value": "1023-4-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Dunzo Capital India",
+      "sameAs": "https://www.google.com/search?q=Dunzo%20Capital%20India",
+      "logo": "https://logo.clearbit.com/dunzocapitalindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Dunzo Capital India Office",
+        "addressLocality": "Srinagar",
+        "addressRegion": "Jammu & Kashmir",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "Machine Learning, React, Docker, Agile/Scrum, AWS, JavaScript, Java, SQL",
+    "responsibilities": "Troubleshoot, debug, and resolve software defects and performance issues. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Collaborate with cross-functional teams including product, design, and QA. Mentor junior developers and conduct knowledge-sharing sessions. Optimize application performance and ensure high availability. Participate in code reviews and contribute to technical discussions. Contribute to system architecture and technical design decisions",
+    "benefits": "Professional development and training programs. Flexible working hours. Transportation and conveyance allowance. Annual paid leaves and casual leaves. Work-from-home flexibility. Provident Fund and Gratuity as per company policy",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Flexible working hours, Transportation and conveyance allowance, Annual paid leaves and casual leaves, Work-from-home flexibility, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "Join the Dunzo Capital India family as a Frontend Developer in Srinagar. We believe in empowering our employees with the tools, training, and environment they n",
+    "keywords": "Frontend Developer, Dunzo Capital India, jobs in Srinagar, Jammu & Kashmir jobs, technology jobs India, Machine Learning, React, Docker, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:51:43.380Z",
+  "page": 255
+}
