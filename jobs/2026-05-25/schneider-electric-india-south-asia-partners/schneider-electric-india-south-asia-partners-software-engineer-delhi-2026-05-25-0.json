@@ -1,0 +1,93 @@
+{
+  "slug": "schneider-electric-india-south-asia-partners-software-engineer-delhi-2026-05-25-0",
+  "title": "Now Hiring Software Engineer at Schneider Electric India South Asia Partners",
+  "company": "Schneider Electric India South Asia Partners",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Kubernetes",
+    "JavaScript",
+    "Go",
+    "Rust",
+    "Microservices",
+    "MongoDB",
+    "CI/CD",
+    "Python"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Now Hiring Software Engineer at Schneider Electric India South Asia Partners",
+    "description": "Schneider Electric India South Asia Partners, one of India's leading organizations, is hiring a Software Engineer for our Delhi operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Schneider Electric India South Asia Partners:\nSchneider Electric India South Asia Partners is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Integrate third-party APIs and services\n• Ensure code security and follow best practices for data protection\n• Design, develop and maintain scalable software applications\n• Collaborate with cross-functional teams including product, design, and QA\n• Write and execute unit tests and integration tests\n• Implement new features based on product requirements\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 10-15 years of relevant experience\n• Proficiency in Kubernetes\n• Proficiency in JavaScript\n• Proficiency in Go\n• Proficiency in Rust\n• Proficiency in Microservices\n• Proficiency in MongoDB\n• Proficiency in CI/CD\n• Proficiency in Python\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Transportation and conveyance allowance\n• Modern office with recreational facilities\n• Flexible working hours\n• Referral bonus program\n• Annual performance appraisal\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Delhi, Delhi, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Schneider Electric India South Asia Partners!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Schneider Electric India South Asia Partners",
+      "value": "980-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Schneider Electric India South Asia Partners",
+      "sameAs": "https://www.google.com/search?q=Schneider%20Electric%20India%20South%20Asia%20Partners",
+      "logo": "https://logo.clearbit.com/schneiderelectricindiasouthasiapartners.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Schneider Electric India South Asia Partners Office",
+        "addressLocality": "Delhi",
+        "addressRegion": "Delhi",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "Kubernetes, JavaScript, Go, Rust, Microservices, MongoDB, CI/CD, Python",
+    "responsibilities": "Integrate third-party APIs and services. Ensure code security and follow best practices for data protection. Design, develop and maintain scalable software applications. Collaborate with cross-functional teams including product, design, and QA. Write and execute unit tests and integration tests. Implement new features based on product requirements. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Transportation and conveyance allowance. Modern office with recreational facilities. Flexible working hours. Referral bonus program. Annual performance appraisal",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Transportation and conveyance allowance, Modern office with recreational facilities, Flexible working hours, Referral bonus program, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "Schneider Electric India South Asia Partners, one of India's leading organizations, is hiring a Software Engineer for our Delhi operations. We offer a competiti",
+    "keywords": "Software Engineer, Schneider Electric India South Asia Partners, jobs in Delhi, Delhi jobs, technology jobs India, Kubernetes, JavaScript, Go, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:50:15.143Z",
+  "page": 244
+}

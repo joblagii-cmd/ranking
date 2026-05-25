@@ -1,0 +1,93 @@
+{
+  "slug": "siemens-india-global-group-full-stack-developer-mumbai-2026-05-25-2",
+  "title": "Siemens India Global Group is Hiring: Full Stack Developer (Principal)",
+  "company": "Siemens India Global Group",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "AWS",
+    "Go",
+    "Kubernetes",
+    "Machine Learning",
+    "Microservices",
+    "React",
+    "Python",
+    "JavaScript"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Siemens India Global Group is Hiring: Full Stack Developer (Principal)",
+    "description": "Siemens India Global Group, one of India's leading organizations, is hiring a Full Stack Developer for our Mumbai operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Siemens India Global Group:\nSiemens India Global Group is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Participate in code reviews and contribute to technical discussions\n• Optimize application performance and ensure high availability\n• Collaborate with cross-functional teams including product, design, and QA\n• Write clean, maintainable, and well-documented code\n• Write and execute unit tests and integration tests\n• Design, develop and maintain scalable software applications\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 12-20 years of relevant experience\n• Proficiency in AWS\n• Proficiency in Go\n• Proficiency in Kubernetes\n• Proficiency in Machine Learning\n• Proficiency in Microservices\n• Proficiency in React\n• Proficiency in Python\n• Proficiency in JavaScript\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• Transportation and conveyance allowance\n• International travel opportunities for senior roles\n• Provident Fund and Gratuity as per company policy\n• Maternity and paternity leave\n• Learning & development budget\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Mumbai, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Siemens India Global Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Siemens India Global Group",
+      "value": "977-2-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Siemens India Global Group",
+      "sameAs": "https://www.google.com/search?q=Siemens%20India%20Global%20Group",
+      "logo": "https://logo.clearbit.com/siemensindiaglobalgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Siemens India Global Group Office",
+        "addressLocality": "Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "AWS, Go, Kubernetes, Machine Learning, Microservices, React, Python, JavaScript",
+    "responsibilities": "Work with agile methodologies including daily stand-ups and sprint planning. Participate in code reviews and contribute to technical discussions. Optimize application performance and ensure high availability. Collaborate with cross-functional teams including product, design, and QA. Write clean, maintainable, and well-documented code. Write and execute unit tests and integration tests. Design, develop and maintain scalable software applications",
+    "benefits": "Comprehensive health insurance for self and family. Transportation and conveyance allowance. International travel opportunities for senior roles. Provident Fund and Gratuity as per company policy. Maternity and paternity leave. Learning & development budget",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, Transportation and conveyance allowance, International travel opportunities for senior roles, Provident Fund and Gratuity as per company policy, Maternity and paternity leave, Learning & development budget"
+  },
+  "meta": {
+    "description": "Siemens India Global Group, one of India's leading organizations, is hiring a Full Stack Developer for our Mumbai operations. We offer a competitive salary pack",
+    "keywords": "Full Stack Developer, Siemens India Global Group, jobs in Mumbai, Maharashtra jobs, technology jobs India, AWS, Go, Kubernetes, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:50:15.142Z",
+  "page": 244
+}

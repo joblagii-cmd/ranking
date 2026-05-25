@@ -1,0 +1,94 @@
+{
+  "slug": "abb-india-international-enterprises-frontend-developer-delhi-2026-05-25-4",
+  "title": "Principal Frontend Developer at ABB India International Enterprises",
+  "company": "ABB India International Enterprises",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Go",
+    "Microservices",
+    "Kubernetes",
+    "Rust",
+    "CI/CD",
+    "AWS",
+    "Git",
+    "SQL"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Principal Frontend Developer at ABB India International Enterprises",
+    "description": "ABB India International Enterprises, one of India's leading organizations, is hiring a Frontend Developer for our Delhi operations. We offer a competitive salary package along with world-class benefits.\n\nAbout ABB India International Enterprises:\nABB India International Enterprises is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Collaborate with cross-functional teams including product, design, and QA\n• Design, develop and maintain scalable software applications\n• Contribute to system architecture and technical design decisions\n• Write and execute unit tests and integration tests\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Ensure code security and follow best practices for data protection\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 3-6 years of relevant experience\n• Proficiency in Go\n• Proficiency in Microservices\n• Proficiency in Kubernetes\n• Proficiency in Rust\n• Proficiency in CI/CD\n• Proficiency in AWS\n• Proficiency in Git\n• Proficiency in SQL\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Transportation and conveyance allowance\n• Annual performance appraisal\n• Mobile and internet reimbursement\n• Flexible working hours\n• International travel opportunities for senior roles\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Delhi, Delhi, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with ABB India International Enterprises!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "ABB India International Enterprises",
+      "value": "978-4-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "ABB India International Enterprises",
+      "sameAs": "https://www.google.com/search?q=ABB%20India%20International%20Enterprises",
+      "logo": "https://logo.clearbit.com/abbindiainternationalenterprises.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "ABB India International Enterprises Office",
+        "addressLocality": "Delhi",
+        "addressRegion": "Delhi",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Go, Microservices, Kubernetes, Rust, CI/CD, AWS, Git, SQL",
+    "responsibilities": "Work with agile methodologies including daily stand-ups and sprint planning. Collaborate with cross-functional teams including product, design, and QA. Design, develop and maintain scalable software applications. Contribute to system architecture and technical design decisions. Write and execute unit tests and integration tests. Troubleshoot, debug, and resolve software defects and performance issues. Ensure code security and follow best practices for data protection",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Transportation and conveyance allowance. Annual performance appraisal. Mobile and internet reimbursement. Flexible working hours. International travel opportunities for senior roles",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Transportation and conveyance allowance, Annual performance appraisal, Mobile and internet reimbursement, Flexible working hours, International travel opportunities for senior roles"
+  },
+  "meta": {
+    "description": "ABB India International Enterprises, one of India's leading organizations, is hiring a Frontend Developer for our Delhi operations. We offer a competitive salar",
+    "keywords": "Frontend Developer, ABB India International Enterprises, jobs in Delhi, Delhi jobs, technology jobs India, Go, Microservices, Kubernetes, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:50:15.143Z",
+  "page": 244
+}
