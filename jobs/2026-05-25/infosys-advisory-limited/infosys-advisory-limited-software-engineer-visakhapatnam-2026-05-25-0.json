@@ -1,0 +1,93 @@
+{
+  "slug": "infosys-advisory-limited-software-engineer-visakhapatnam-2026-05-25-0",
+  "title": "Job Opening Software Engineer at Infosys Advisory Limited",
+  "company": "Infosys Advisory Limited",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Java",
+    "JavaScript",
+    "Python",
+    "Docker",
+    "React",
+    "TensorFlow",
+    "Rust",
+    "SQL"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Job Opening Software Engineer at Infosys Advisory Limited",
+    "description": "We at Infosys Advisory Limited are looking for an experienced Software Engineer based out of Visakhapatnam. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout Infosys Advisory Limited:\nInfosys Advisory Limited is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in code reviews and contribute to technical discussions\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Implement new features based on product requirements\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Ensure code security and follow best practices for data protection\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 10-15 years of relevant experience\n• Proficiency in Java\n• Proficiency in JavaScript\n• Proficiency in Python\n• Proficiency in Docker\n• Proficiency in React\n• Proficiency in TensorFlow\n• Proficiency in Rust\n• Proficiency in SQL\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Maternity and paternity leave\n• Recognition and rewards programs\n• Annual paid leaves and casual leaves\n• Meal coupons and food allowance\n• Competitive salary with performance-linked incentives\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Visakhapatnam, Andhra Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Infosys Advisory Limited!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Infosys Advisory Limited",
+      "value": "922-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Infosys Advisory Limited",
+      "sameAs": "https://www.google.com/search?q=Infosys%20Advisory%20Limited",
+      "logo": "https://logo.clearbit.com/infosysadvisorylimited.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Infosys Advisory Limited Office",
+        "addressLocality": "Visakhapatnam",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "Java, JavaScript, Python, Docker, React, TensorFlow, Rust, SQL",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Participate in code reviews and contribute to technical discussions. Mentor junior developers and conduct knowledge-sharing sessions. Work with agile methodologies including daily stand-ups and sprint planning. Implement new features based on product requirements. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Ensure code security and follow best practices for data protection",
+    "benefits": "Provident Fund and Gratuity as per company policy. Maternity and paternity leave. Recognition and rewards programs. Annual paid leaves and casual leaves. Meal coupons and food allowance. Competitive salary with performance-linked incentives",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Maternity and paternity leave, Recognition and rewards programs, Annual paid leaves and casual leaves, Meal coupons and food allowance, Competitive salary with performance-linked incentives"
+  },
+  "meta": {
+    "description": "We at Infosys Advisory Limited are looking for an experienced Software Engineer based out of Visakhapatnam. If you are a result-oriented professional with a pas",
+    "keywords": "Software Engineer, Infosys Advisory Limited, jobs in Visakhapatnam, Andhra Pradesh jobs, technology jobs India, Java, JavaScript, Python, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:48:23.568Z",
+  "page": 230
+}
