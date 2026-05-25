@@ -1,0 +1,93 @@
+{
+  "slug": "bhive-workspace-senior-property-advisor-visakhapatnam-2026-05-25-2",
+  "title": "BHIVE Workspace is Hiring: Senior Property Advisor (Junior)",
+  "company": "BHIVE Workspace",
+  "industry": "realestate",
+  "role": "Senior Property Advisor",
+  "location": {
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Lease Administration",
+    "Property Valuation",
+    "CRM Software",
+    "Contract Management",
+    "AutoCAD",
+    "Portfolio Management",
+    "Project Management",
+    "Title Search"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "BHIVE Workspace is Hiring: Senior Property Advisor (Junior)",
+    "description": "BHIVE Workspace, one of India's leading organizations, is hiring a Senior Property Advisor for our Visakhapatnam operations. We offer a competitive salary package along with world-class benefits.\n\nAbout BHIVE Workspace:\nBHIVE Workspace is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Provide advisory services on property investment and market trends\n• Source and close property deals with prospective buyers and investors\n• Achieve monthly and quarterly sales targets\n• Coordinate with legal teams for documentation and title verification\n• Build relationships with channel partners and brokers\n• Conduct market research and provide competitive analysis\n• Conduct land acquisition due diligence and feasibility studies\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 10-15 years of relevant experience\n• Proficiency in Lease Administration\n• Proficiency in Property Valuation\n• Proficiency in CRM Software\n• Proficiency in Contract Management\n• Proficiency in AutoCAD\n• Proficiency in Portfolio Management\n• Proficiency in Project Management\n• Proficiency in Title Search\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Life and accident insurance\n• Professional development and training programs\n• Modern office with recreational facilities\n• Flexible working hours\n• Transportation and conveyance allowance\n• Referral bonus program\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Visakhapatnam, Andhra Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with BHIVE Workspace!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "BHIVE Workspace",
+      "value": "755-2-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "BHIVE Workspace",
+      "sameAs": "https://www.google.com/search?q=BHIVE%20Workspace",
+      "logo": "https://logo.clearbit.com/bhiveworkspace.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "BHIVE Workspace Office",
+        "addressLocality": "Visakhapatnam",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "Lease Administration, Property Valuation, CRM Software, Contract Management, AutoCAD, Portfolio Management, Project Management, Title Search",
+    "responsibilities": "Provide advisory services on property investment and market trends. Source and close property deals with prospective buyers and investors. Achieve monthly and quarterly sales targets. Coordinate with legal teams for documentation and title verification. Build relationships with channel partners and brokers. Conduct market research and provide competitive analysis. Conduct land acquisition due diligence and feasibility studies",
+    "benefits": "Life and accident insurance. Professional development and training programs. Modern office with recreational facilities. Flexible working hours. Transportation and conveyance allowance. Referral bonus program",
+    "industry": "realestate",
+    "occupationalCategory": "Senior Property Advisor",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Professional development and training programs, Modern office with recreational facilities, Flexible working hours, Transportation and conveyance allowance, Referral bonus program"
+  },
+  "meta": {
+    "description": "BHIVE Workspace, one of India's leading organizations, is hiring a Senior Property Advisor for our Visakhapatnam operations. We offer a competitive salary packa",
+    "keywords": "Senior Property Advisor, BHIVE Workspace, jobs in Visakhapatnam, Andhra Pradesh jobs, realestate jobs India, Lease Administration, Property Valuation, CRM Software, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:42:43.673Z",
+  "page": 188
+}
