@@ -1,0 +1,93 @@
+{
+  "slug": "saksoft-global-group-software-engineer-kanpur-2026-05-25-0",
+  "title": "Now Hiring Software Engineer at Saksoft Global Group",
+  "company": "Saksoft Global Group",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "TypeScript",
+    "AWS",
+    "JavaScript",
+    "Agile/Scrum",
+    "Go",
+    "Docker",
+    "Rust",
+    "Machine Learning"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Now Hiring Software Engineer at Saksoft Global Group",
+    "description": "An exciting career opportunity awaits you at Saksoft Global Group. We are on the lookout for a dedicated Software Engineer to strengthen our Kanpur-based team.\n\nAbout Saksoft Global Group:\nSaksoft Global Group is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in on-call rotation for production support\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Optimize application performance and ensure high availability\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Integrate third-party APIs and services\n• Design, develop and maintain scalable software applications\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 6-10 years of relevant experience\n• Proficiency in TypeScript\n• Proficiency in AWS\n• Proficiency in JavaScript\n• Proficiency in Agile/Scrum\n• Proficiency in Go\n• Proficiency in Docker\n• Proficiency in Rust\n• Proficiency in Machine Learning\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Learning & development budget\n• Employee stock options (ESOPs) for eligible roles\n• Work-from-home flexibility\n• Competitive salary with performance-linked incentives\n• Company-sponsored certifications\n• Transportation and conveyance allowance\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Kanpur, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Saksoft Global Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Saksoft Global Group",
+      "value": "997-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Saksoft Global Group",
+      "sameAs": "https://www.google.com/search?q=Saksoft%20Global%20Group",
+      "logo": "https://logo.clearbit.com/saksoftglobalgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Saksoft Global Group Office",
+        "addressLocality": "Kanpur",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "TypeScript, AWS, JavaScript, Agile/Scrum, Go, Docker, Rust, Machine Learning",
+    "responsibilities": "Participate in on-call rotation for production support. Work with agile methodologies including daily stand-ups and sprint planning. Optimize application performance and ensure high availability. Troubleshoot, debug, and resolve software defects and performance issues. Mentor junior developers and conduct knowledge-sharing sessions. Integrate third-party APIs and services. Design, develop and maintain scalable software applications",
+    "benefits": "Learning & development budget. Employee stock options (ESOPs) for eligible roles. Work-from-home flexibility. Competitive salary with performance-linked incentives. Company-sponsored certifications. Transportation and conveyance allowance",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Learning & development budget, Employee stock options (ESOPs) for eligible roles, Work-from-home flexibility, Competitive salary with performance-linked incentives, Company-sponsored certifications, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Saksoft Global Group. We are on the lookout for a dedicated Software Engineer to strengthen our Kanpur-based team.",
+    "keywords": "Software Engineer, Saksoft Global Group, jobs in Kanpur, Uttar Pradesh jobs, technology jobs India, TypeScript, AWS, JavaScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:50:55.092Z",
+  "page": 249
+}
