@@ -1,0 +1,93 @@
+{
+  "slug": "niit-asia-pacific-associates-full-stack-developer-ahmedabad-2026-05-25-2",
+  "title": "NIIT Asia Pacific Associates is Hiring: Full Stack Developer (Principal)",
+  "company": "NIIT Asia Pacific Associates",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Docker",
+    "Node.js",
+    "MongoDB",
+    "REST APIs",
+    "JavaScript",
+    "Git",
+    "TypeScript",
+    "AWS"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "NIIT Asia Pacific Associates is Hiring: Full Stack Developer (Principal)",
+    "description": "NIIT Asia Pacific Associates, one of India's leading organizations, is hiring a Full Stack Developer for our Ahmedabad operations. We offer a competitive salary package along with world-class benefits.\n\nAbout NIIT Asia Pacific Associates:\nNIIT Asia Pacific Associates is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in code reviews and contribute to technical discussions\n• Ensure code security and follow best practices for data protection\n• Collaborate with cross-functional teams including product, design, and QA\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Write clean, maintainable, and well-documented code\n• Integrate third-party APIs and services\n• Write and execute unit tests and integration tests\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 10-15 years of relevant experience\n• Proficiency in Docker\n• Proficiency in Node.js\n• Proficiency in MongoDB\n• Proficiency in REST APIs\n• Proficiency in JavaScript\n• Proficiency in Git\n• Proficiency in TypeScript\n• Proficiency in AWS\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Life and accident insurance\n• Mobile and internet reimbursement\n• Learning & development budget\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Ahmedabad, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with NIIT Asia Pacific Associates!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "NIIT Asia Pacific Associates",
+      "value": "989-2-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "NIIT Asia Pacific Associates",
+      "sameAs": "https://www.google.com/search?q=NIIT%20Asia%20Pacific%20Associates",
+      "logo": "https://logo.clearbit.com/niitasiapacificassociates.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "NIIT Asia Pacific Associates Office",
+        "addressLocality": "Ahmedabad",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "Docker, Node.js, MongoDB, REST APIs, JavaScript, Git, TypeScript, AWS",
+    "responsibilities": "Participate in code reviews and contribute to technical discussions. Ensure code security and follow best practices for data protection. Collaborate with cross-functional teams including product, design, and QA. Mentor junior developers and conduct knowledge-sharing sessions. Write clean, maintainable, and well-documented code. Integrate third-party APIs and services. Write and execute unit tests and integration tests",
+    "benefits": "Life and accident insurance. Mobile and internet reimbursement. Learning & development budget. Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Provident Fund and Gratuity as per company policy",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Mobile and internet reimbursement, Learning & development budget, Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "NIIT Asia Pacific Associates, one of India's leading organizations, is hiring a Full Stack Developer for our Ahmedabad operations. We offer a competitive salary",
+    "keywords": "Full Stack Developer, NIIT Asia Pacific Associates, jobs in Ahmedabad, Gujarat jobs, technology jobs India, Docker, Node.js, MongoDB, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:50:39.498Z",
+  "page": 247
+}
