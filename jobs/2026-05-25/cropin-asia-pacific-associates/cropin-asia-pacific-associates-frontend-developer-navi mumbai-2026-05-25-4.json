@@ -1,0 +1,93 @@
+{
+  "slug": "cropin-asia-pacific-associates-frontend-developer-navi mumbai-2026-05-25-4",
+  "title": "Entry-Level Frontend Developer at Cropin Asia Pacific Associates",
+  "company": "Cropin Asia Pacific Associates",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Docker",
+    "React",
+    "Microservices",
+    "Git",
+    "Agile/Scrum",
+    "REST APIs",
+    "Rust",
+    "JavaScript"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Entry-Level Frontend Developer at Cropin Asia Pacific Associates",
+    "description": "Join the Cropin Asia Pacific Associates family as a Frontend Developer in Navi Mumbai. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Cropin Asia Pacific Associates:\nCropin Asia Pacific Associates is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Write and execute unit tests and integration tests\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in code reviews and contribute to technical discussions\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Contribute to system architecture and technical design decisions\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 10-15 years of relevant experience\n• Proficiency in Docker\n• Proficiency in React\n• Proficiency in Microservices\n• Proficiency in Git\n• Proficiency in Agile/Scrum\n• Proficiency in REST APIs\n• Proficiency in Rust\n• Proficiency in JavaScript\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Provident Fund and Gratuity as per company policy\n• Annual performance appraisal\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Navi Mumbai, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Cropin Asia Pacific Associates!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Cropin Asia Pacific Associates",
+      "value": "1029-4-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Cropin Asia Pacific Associates",
+      "sameAs": "https://www.google.com/search?q=Cropin%20Asia%20Pacific%20Associates",
+      "logo": "https://logo.clearbit.com/cropinasiapacificassociates.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Cropin Asia Pacific Associates Office",
+        "addressLocality": "Navi Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "Docker, React, Microservices, Git, Agile/Scrum, REST APIs, Rust, JavaScript",
+    "responsibilities": "Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Troubleshoot, debug, and resolve software defects and performance issues. Write and execute unit tests and integration tests. Collaborate with cross-functional teams including product, design, and QA. Participate in code reviews and contribute to technical discussions. Mentor junior developers and conduct knowledge-sharing sessions. Contribute to system architecture and technical design decisions",
+    "benefits": "Annual paid leaves and casual leaves. Provident Fund and Gratuity as per company policy. Annual performance appraisal. Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Employee stock options (ESOPs) for eligible roles",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Provident Fund and Gratuity as per company policy, Annual performance appraisal, Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "Join the Cropin Asia Pacific Associates family as a Frontend Developer in Navi Mumbai. We believe in empowering our employees with the tools, training, and envi",
+    "keywords": "Frontend Developer, Cropin Asia Pacific Associates, jobs in Navi Mumbai, Maharashtra jobs, technology jobs India, Docker, React, Microservices, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:51:59.099Z",
+  "page": 257
+}
