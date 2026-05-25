@@ -1,0 +1,94 @@
+{
+  "slug": "wipro-backend-developer-bhopal-2026-05-25-3",
+  "title": "Backend Developer Vacancy at Wipro - 2026 Batch",
+  "company": "Wipro",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "AWS",
+    "React",
+    "SQL",
+    "TypeScript",
+    "Git",
+    "Docker",
+    "MongoDB",
+    "Java"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Wipro - 2026 Batch",
+    "description": "Wipro has an exciting opening for a Backend Developer at our Bhopal office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Wipro:\nWipro is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Optimize application performance and ensure high availability\n• Implement new features based on product requirements\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Write and execute unit tests and integration tests\n• Ensure code security and follow best practices for data protection\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Contribute to system architecture and technical design decisions\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 0-1 years of relevant experience\n• Proficiency in AWS\n• Proficiency in React\n• Proficiency in SQL\n• Proficiency in TypeScript\n• Proficiency in Git\n• Proficiency in Docker\n• Proficiency in MongoDB\n• Proficiency in Java\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Transportation and conveyance allowance\n• Learning & development budget\n• Flexible working hours\n• Professional development and training programs\n• Meal coupons and food allowance\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Bhopal, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Wipro!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Wipro",
+      "value": "3-3-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Wipro",
+      "sameAs": "https://www.google.com/search?q=Wipro",
+      "logo": "https://logo.clearbit.com/wipro.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Wipro Office",
+        "addressLocality": "Bhopal",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "AWS, React, SQL, TypeScript, Git, Docker, MongoDB, Java",
+    "responsibilities": "Optimize application performance and ensure high availability. Implement new features based on product requirements. Troubleshoot, debug, and resolve software defects and performance issues. Write and execute unit tests and integration tests. Ensure code security and follow best practices for data protection. Work with agile methodologies including daily stand-ups and sprint planning. Contribute to system architecture and technical design decisions",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Transportation and conveyance allowance. Learning & development budget. Flexible working hours. Professional development and training programs. Meal coupons and food allowance",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Transportation and conveyance allowance, Learning & development budget, Flexible working hours, Professional development and training programs, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "Wipro has an exciting opening for a Backend Developer at our Bhopal office. Join a company that values innovation, collaboration, and continuous learning.",
+    "keywords": "Backend Developer, Wipro, jobs in Bhopal, Madhya Pradesh jobs, technology jobs India, AWS, React, SQL, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:17:08.560Z",
+  "page": 0
+}

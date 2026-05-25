@@ -1,0 +1,93 @@
+{
+  "slug": "hcl-technologies-software-engineer-thane-2026-05-25-0",
+  "title": "Urgent Opening Software Engineer at HCL Technologies",
+  "company": "HCL Technologies",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Thane",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Python",
+    "Java",
+    "Docker",
+    "SQL",
+    "Node.js",
+    "React",
+    "REST APIs",
+    "Go"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Urgent Opening Software Engineer at HCL Technologies",
+    "description": "HCL Technologies has an exciting opening for a Software Engineer at our Thane office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout HCL Technologies:\nHCL Technologies is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Participate in code reviews and contribute to technical discussions\n• Contribute to system architecture and technical design decisions\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Integrate third-party APIs and services\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 3-6 years of relevant experience\n• Proficiency in Python\n• Proficiency in Java\n• Proficiency in Docker\n• Proficiency in SQL\n• Proficiency in Node.js\n• Proficiency in React\n• Proficiency in REST APIs\n• Proficiency in Go\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Meal coupons and food allowance\n• Referral bonus program\n• Annual paid leaves and casual leaves\n• Employee stock options (ESOPs) for eligible roles\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Thane, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with HCL Technologies!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "HCL Technologies",
+      "value": "4-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "HCL Technologies",
+      "sameAs": "https://www.google.com/search?q=HCL%20Technologies",
+      "logo": "https://logo.clearbit.com/hcltechnologies.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "HCL Technologies Office",
+        "addressLocality": "Thane",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "Python, Java, Docker, SQL, Node.js, React, REST APIs, Go",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Mentor junior developers and conduct knowledge-sharing sessions. Participate in code reviews and contribute to technical discussions. Contribute to system architecture and technical design decisions. Troubleshoot, debug, and resolve software defects and performance issues. Integrate third-party APIs and services. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP",
+    "benefits": "Transportation and conveyance allowance. Meal coupons and food allowance. Referral bonus program. Annual paid leaves and casual leaves. Employee stock options (ESOPs) for eligible roles. Provident Fund and Gratuity as per company policy",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Meal coupons and food allowance, Referral bonus program, Annual paid leaves and casual leaves, Employee stock options (ESOPs) for eligible roles, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "HCL Technologies has an exciting opening for a Software Engineer at our Thane office. Join a company that values innovation, collaboration, and continuous learn",
+    "keywords": "Software Engineer, HCL Technologies, jobs in Thane, Maharashtra jobs, technology jobs India, Python, Java, Docker, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:17:08.560Z",
+  "page": 0
+}

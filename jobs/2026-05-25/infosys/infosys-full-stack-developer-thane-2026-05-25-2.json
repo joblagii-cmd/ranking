@@ -1,0 +1,93 @@
+{
+  "slug": "infosys-full-stack-developer-thane-2026-05-25-2",
+  "title": "Infosys is Hiring: Full Stack Developer (Junior)",
+  "company": "Infosys",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Thane",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Git",
+    "Kubernetes",
+    "AWS",
+    "Docker",
+    "SQL",
+    "TypeScript",
+    "MongoDB",
+    "Go"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Infosys is Hiring: Full Stack Developer (Junior)",
+    "description": "Infosys has an exciting opening for a Full Stack Developer at our Thane office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Infosys:\nInfosys is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write clean, maintainable, and well-documented code\n• Write and execute unit tests and integration tests\n• Integrate third-party APIs and services\n• Collaborate with cross-functional teams including product, design, and QA\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Ensure code security and follow best practices for data protection\n• Mentor junior developers and conduct knowledge-sharing sessions\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 3-6 years of relevant experience\n• Proficiency in Git\n• Proficiency in Kubernetes\n• Proficiency in AWS\n• Proficiency in Docker\n• Proficiency in SQL\n• Proficiency in TypeScript\n• Proficiency in MongoDB\n• Proficiency in Go\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Annual performance appraisal\n• Flexible working hours\n• International travel opportunities for senior roles\n• Referral bonus program\n• Provident Fund and Gratuity as per company policy\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Thane, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Infosys!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Infosys",
+      "value": "2-2-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Infosys",
+      "sameAs": "https://www.google.com/search?q=Infosys",
+      "logo": "https://logo.clearbit.com/infosys.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Infosys Office",
+        "addressLocality": "Thane",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "Git, Kubernetes, AWS, Docker, SQL, TypeScript, MongoDB, Go",
+    "responsibilities": "Write clean, maintainable, and well-documented code. Write and execute unit tests and integration tests. Integrate third-party APIs and services. Collaborate with cross-functional teams including product, design, and QA. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Ensure code security and follow best practices for data protection. Mentor junior developers and conduct knowledge-sharing sessions",
+    "benefits": "Annual performance appraisal. Flexible working hours. International travel opportunities for senior roles. Referral bonus program. Provident Fund and Gratuity as per company policy. Employee stock options (ESOPs) for eligible roles",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual performance appraisal, Flexible working hours, International travel opportunities for senior roles, Referral bonus program, Provident Fund and Gratuity as per company policy, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "Infosys has an exciting opening for a Full Stack Developer at our Thane office. Join a company that values innovation, collaboration, and continuous learning.",
+    "keywords": "Full Stack Developer, Infosys, jobs in Thane, Maharashtra jobs, technology jobs India, Git, Kubernetes, AWS, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:17:08.560Z",
+  "page": 0
+}
