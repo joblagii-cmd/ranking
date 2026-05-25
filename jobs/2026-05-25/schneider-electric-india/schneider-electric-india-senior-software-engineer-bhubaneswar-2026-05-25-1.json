@@ -1,0 +1,93 @@
+{
+  "slug": "schneider-electric-india-senior-software-engineer-bhubaneswar-2026-05-25-1",
+  "title": "Senior Software Engineer - Schneider Electric India - Experienced Professionals",
+  "company": "Schneider Electric India",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "JavaScript",
+    "Python",
+    "SQL",
+    "Git",
+    "TensorFlow",
+    "Kubernetes",
+    "MongoDB",
+    "AWS"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Schneider Electric India - Experienced Professionals",
+    "description": "An exciting career opportunity awaits you at Schneider Electric India. We are on the lookout for a dedicated Senior Software Engineer to strengthen our Bhubaneswar-based team.\n\nAbout Schneider Electric India:\nSchneider Electric India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Implement new features based on product requirements\n• Optimize application performance and ensure high availability\n• Contribute to system architecture and technical design decisions\n• Design, develop and maintain scalable software applications\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 10-15 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Python\n• Proficiency in SQL\n• Proficiency in Git\n• Proficiency in TensorFlow\n• Proficiency in Kubernetes\n• Proficiency in MongoDB\n• Proficiency in AWS\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Professional development and training programs\n• Modern office with recreational facilities\n• Transportation and conveyance allowance\n• Learning & development budget\n• Company-sponsored certifications\n• Work-from-home flexibility\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Bhubaneswar, Odisha, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Schneider Electric India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Schneider Electric India",
+      "value": "60-1-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Schneider Electric India",
+      "sameAs": "https://www.google.com/search?q=Schneider%20Electric%20India",
+      "logo": "https://logo.clearbit.com/schneiderelectricindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Schneider Electric India Office",
+        "addressLocality": "Bhubaneswar",
+        "addressRegion": "Odisha",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "JavaScript, Python, SQL, Git, TensorFlow, Kubernetes, MongoDB, AWS",
+    "responsibilities": "Work with agile methodologies including daily stand-ups and sprint planning. Mentor junior developers and conduct knowledge-sharing sessions. Implement new features based on product requirements. Optimize application performance and ensure high availability. Contribute to system architecture and technical design decisions. Design, develop and maintain scalable software applications. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP",
+    "benefits": "Professional development and training programs. Modern office with recreational facilities. Transportation and conveyance allowance. Learning & development budget. Company-sponsored certifications. Work-from-home flexibility",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Modern office with recreational facilities, Transportation and conveyance allowance, Learning & development budget, Company-sponsored certifications, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Schneider Electric India. We are on the lookout for a dedicated Senior Software Engineer to strengthen our Bhubanes",
+    "keywords": "Senior Software Engineer, Schneider Electric India, jobs in Bhubaneswar, Odisha jobs, technology jobs India, JavaScript, Python, SQL, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:19:09.734Z",
+  "page": 14
+}

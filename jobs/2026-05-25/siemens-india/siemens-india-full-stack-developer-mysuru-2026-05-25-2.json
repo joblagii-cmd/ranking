@@ -1,0 +1,93 @@
+{
+  "slug": "siemens-india-full-stack-developer-mysuru-2026-05-25-2",
+  "title": "Siemens India is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "Siemens India",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "JavaScript",
+    "Go",
+    "CI/CD",
+    "REST APIs",
+    "Kubernetes",
+    "TypeScript",
+    "Java",
+    "MongoDB"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Siemens India is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "An exciting career opportunity awaits you at Siemens India. We are on the lookout for a dedicated Full Stack Developer to strengthen our Mysuru-based team.\n\nAbout Siemens India:\nSiemens India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in on-call rotation for production support\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Write clean, maintainable, and well-documented code\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Implement new features based on product requirements\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in code reviews and contribute to technical discussions\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 0-1 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Go\n• Proficiency in CI/CD\n• Proficiency in REST APIs\n• Proficiency in Kubernetes\n• Proficiency in TypeScript\n• Proficiency in Java\n• Proficiency in MongoDB\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Learning & development budget\n• Maternity and paternity leave\n• Recognition and rewards programs\n• Referral bonus program\n• Competitive salary with performance-linked incentives\n• Life and accident insurance\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Mysuru, Karnataka, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Siemens India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Siemens India",
+      "value": "57-2-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Siemens India",
+      "sameAs": "https://www.google.com/search?q=Siemens%20India",
+      "logo": "https://logo.clearbit.com/siemensindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Siemens India Office",
+        "addressLocality": "Mysuru",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "JavaScript, Go, CI/CD, REST APIs, Kubernetes, TypeScript, Java, MongoDB",
+    "responsibilities": "Participate in on-call rotation for production support. Troubleshoot, debug, and resolve software defects and performance issues. Write clean, maintainable, and well-documented code. Mentor junior developers and conduct knowledge-sharing sessions. Implement new features based on product requirements. Collaborate with cross-functional teams including product, design, and QA. Participate in code reviews and contribute to technical discussions",
+    "benefits": "Learning & development budget. Maternity and paternity leave. Recognition and rewards programs. Referral bonus program. Competitive salary with performance-linked incentives. Life and accident insurance",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Learning & development budget, Maternity and paternity leave, Recognition and rewards programs, Referral bonus program, Competitive salary with performance-linked incentives, Life and accident insurance"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Siemens India. We are on the lookout for a dedicated Full Stack Developer to strengthen our Mysuru-based team.",
+    "keywords": "Full Stack Developer, Siemens India, jobs in Mysuru, Karnataka jobs, technology jobs India, JavaScript, Go, CI/CD, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:19:09.732Z",
+  "page": 14
+}
