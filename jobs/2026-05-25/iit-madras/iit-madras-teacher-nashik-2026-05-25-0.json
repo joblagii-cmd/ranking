@@ -1,0 +1,93 @@
+{
+  "slug": "iit-madras-teacher-nashik-2026-05-25-0",
+  "title": "Vacancy for Teacher at IIT Madras",
+  "company": "IIT Madras",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Data Analysis",
+    "Special Education",
+    "Curriculum Development",
+    "Communication Skills",
+    "Bloom's Taxonomy",
+    "LMS Platforms",
+    "Child Psychology",
+    "Lesson Planning"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Vacancy for Teacher at IIT Madras",
+    "description": "IIT Madras, one of India's leading organizations, is hiring a Teacher for our Nashik operations. We offer a competitive salary package along with world-class benefits.\n\nAbout IIT Madras:\nIIT Madras is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design formative and summative assessments aligned to learning objectives\n• Maintain student records and prepare progress reports\n• Coordinate with academic counselors for student career guidance\n• Contribute to school newsletter, blogs, and other publications\n• Support students with special educational needs\n• Monitor student progress and provide timely feedback\n• Conduct parent-teacher meetings and update parents on student performance\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 10-15 years of relevant experience\n• Proficiency in Data Analysis\n• Proficiency in Special Education\n• Proficiency in Curriculum Development\n• Proficiency in Communication Skills\n• Proficiency in Bloom's Taxonomy\n• Proficiency in LMS Platforms\n• Proficiency in Child Psychology\n• Proficiency in Lesson Planning\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Maternity and paternity leave\n• Recognition and rewards programs\n• Comprehensive health insurance for self and family\n• Professional development and training programs\n• Mobile and internet reimbursement\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Nashik, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with IIT Madras!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "IIT Madras",
+      "value": "518-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "IIT Madras",
+      "sameAs": "https://www.google.com/search?q=IIT%20Madras",
+      "logo": "https://logo.clearbit.com/iitmadras.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "IIT Madras Office",
+        "addressLocality": "Nashik",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "Data Analysis, Special Education, Curriculum Development, Communication Skills, Bloom's Taxonomy, LMS Platforms, Child Psychology, Lesson Planning",
+    "responsibilities": "Design formative and summative assessments aligned to learning objectives. Maintain student records and prepare progress reports. Coordinate with academic counselors for student career guidance. Contribute to school newsletter, blogs, and other publications. Support students with special educational needs. Monitor student progress and provide timely feedback. Conduct parent-teacher meetings and update parents on student performance",
+    "benefits": "Maternity and paternity leave. Recognition and rewards programs. Comprehensive health insurance for self and family. Professional development and training programs. Mobile and internet reimbursement. Employee stock options (ESOPs) for eligible roles",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Maternity and paternity leave, Recognition and rewards programs, Comprehensive health insurance for self and family, Professional development and training programs, Mobile and internet reimbursement, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "IIT Madras, one of India's leading organizations, is hiring a Teacher for our Nashik operations. We offer a competitive salary package along with world-class be",
+    "keywords": "Teacher, IIT Madras, jobs in Nashik, Maharashtra jobs, education jobs India, Data Analysis, Special Education, Curriculum Development, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:34:50.112Z",
+  "page": 129
+}

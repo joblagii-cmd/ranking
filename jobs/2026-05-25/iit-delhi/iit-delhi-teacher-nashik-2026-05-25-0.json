@@ -1,0 +1,93 @@
+{
+  "slug": "iit-delhi-teacher-nashik-2026-05-25-0",
+  "title": "Vacancy for Teacher at IIT Delhi",
+  "company": "IIT Delhi",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "LMS Platforms",
+    "Educational Technology",
+    "Zoom/Teams",
+    "Data Analysis",
+    "Special Education",
+    "Curriculum Development",
+    "Pedagogy",
+    "Classroom Management"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Vacancy for Teacher at IIT Delhi",
+    "description": "IIT Delhi, one of India's leading organizations, is hiring a Teacher for our Nashik operations. We offer a competitive salary package along with world-class benefits.\n\nAbout IIT Delhi:\nIIT Delhi is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Create curriculum-aligned learning materials and assessments\n• Monitor student progress and provide timely feedback\n• Maintain student records and prepare progress reports\n• Support students with special educational needs\n• Participate in teacher training and professional development programs\n• Conduct parent-teacher meetings and update parents on student performance\n• Utilize technology and digital tools to enhance learning outcomes\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 12-20 years of relevant experience\n• Proficiency in LMS Platforms\n• Proficiency in Educational Technology\n• Proficiency in Zoom/Teams\n• Proficiency in Data Analysis\n• Proficiency in Special Education\n• Proficiency in Curriculum Development\n• Proficiency in Pedagogy\n• Proficiency in Classroom Management\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Learning & development budget\n• Company-sponsored certifications\n• Meal coupons and food allowance\n• Competitive salary with performance-linked incentives\n• Modern office with recreational facilities\n• Recognition and rewards programs\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Nashik, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with IIT Delhi!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "IIT Delhi",
+      "value": "517-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "IIT Delhi",
+      "sameAs": "https://www.google.com/search?q=IIT%20Delhi",
+      "logo": "https://logo.clearbit.com/iitdelhi.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "IIT Delhi Office",
+        "addressLocality": "Nashik",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "LMS Platforms, Educational Technology, Zoom/Teams, Data Analysis, Special Education, Curriculum Development, Pedagogy, Classroom Management",
+    "responsibilities": "Create curriculum-aligned learning materials and assessments. Monitor student progress and provide timely feedback. Maintain student records and prepare progress reports. Support students with special educational needs. Participate in teacher training and professional development programs. Conduct parent-teacher meetings and update parents on student performance. Utilize technology and digital tools to enhance learning outcomes",
+    "benefits": "Learning & development budget. Company-sponsored certifications. Meal coupons and food allowance. Competitive salary with performance-linked incentives. Modern office with recreational facilities. Recognition and rewards programs",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Learning & development budget, Company-sponsored certifications, Meal coupons and food allowance, Competitive salary with performance-linked incentives, Modern office with recreational facilities, Recognition and rewards programs"
+  },
+  "meta": {
+    "description": "IIT Delhi, one of India's leading organizations, is hiring a Teacher for our Nashik operations. We offer a competitive salary package along with world-class ben",
+    "keywords": "Teacher, IIT Delhi, jobs in Nashik, Maharashtra jobs, education jobs India, LMS Platforms, Educational Technology, Zoom/Teams, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:34:50.112Z",
+  "page": 129
+}
