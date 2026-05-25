@@ -1,0 +1,93 @@
+{
+  "slug": "curefit-frontend-developer-coimbatore-2026-05-25-4",
+  "title": "Senior Frontend Developer at Curefit",
+  "company": "Curefit",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Kubernetes",
+    "CI/CD",
+    "Python",
+    "AWS",
+    "REST APIs",
+    "Rust",
+    "JavaScript",
+    "Git"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Frontend Developer at Curefit",
+    "description": "Curefit invites applications from qualified candidates for the position of Frontend Developer at our Coimbatore location. This role offers excellent career advancement prospects.\n\nAbout Curefit:\nCurefit is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write clean, maintainable, and well-documented code\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Design, develop and maintain scalable software applications\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Ensure code security and follow best practices for data protection\n• Integrate third-party APIs and services\n• Collaborate with cross-functional teams including product, design, and QA\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 6-10 years of relevant experience\n• Proficiency in Kubernetes\n• Proficiency in CI/CD\n• Proficiency in Python\n• Proficiency in AWS\n• Proficiency in REST APIs\n• Proficiency in Rust\n• Proficiency in JavaScript\n• Proficiency in Git\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• International travel opportunities for senior roles\n• Life and accident insurance\n• Competitive salary with performance-linked incentives\n• Annual performance appraisal\n• Maternity and paternity leave\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Coimbatore, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Curefit!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Curefit",
+      "value": "121-4-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Curefit",
+      "sameAs": "https://www.google.com/search?q=Curefit",
+      "logo": "https://logo.clearbit.com/curefit.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Curefit Office",
+        "addressLocality": "Coimbatore",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "Kubernetes, CI/CD, Python, AWS, REST APIs, Rust, JavaScript, Git",
+    "responsibilities": "Write clean, maintainable, and well-documented code. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Design, develop and maintain scalable software applications. Work with agile methodologies including daily stand-ups and sprint planning. Ensure code security and follow best practices for data protection. Integrate third-party APIs and services. Collaborate with cross-functional teams including product, design, and QA",
+    "benefits": "Transportation and conveyance allowance. International travel opportunities for senior roles. Life and accident insurance. Competitive salary with performance-linked incentives. Annual performance appraisal. Maternity and paternity leave",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, International travel opportunities for senior roles, Life and accident insurance, Competitive salary with performance-linked incentives, Annual performance appraisal, Maternity and paternity leave"
+  },
+  "meta": {
+    "description": "Curefit invites applications from qualified candidates for the position of Frontend Developer at our Coimbatore location. This role offers excellent career adva",
+    "keywords": "Frontend Developer, Curefit, jobs in Coimbatore, Tamil Nadu jobs, technology jobs India, Kubernetes, CI/CD, Python, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:21:24.910Z",
+  "page": 30
+}

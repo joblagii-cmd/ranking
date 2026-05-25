@@ -1,0 +1,94 @@
+{
+  "slug": "medlife-backend-developer-jabalpur-2026-05-25-3",
+  "title": "Backend Developer Vacancy at Medlife - 2026 Batch",
+  "company": "Medlife",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Jabalpur",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "JavaScript",
+    "MongoDB",
+    "Python",
+    "Java",
+    "Rust",
+    "Go",
+    "TypeScript",
+    "Git"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Medlife - 2026 Batch",
+    "description": "Medlife invites applications from qualified candidates for the position of Backend Developer at our Jabalpur location. This role offers excellent career advancement prospects.\n\nAbout Medlife:\nMedlife is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Write and execute unit tests and integration tests\n• Implement new features based on product requirements\n• Ensure code security and follow best practices for data protection\n• Collaborate with cross-functional teams including product, design, and QA\n• Integrate third-party APIs and services\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 6-10 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in MongoDB\n• Proficiency in Python\n• Proficiency in Java\n• Proficiency in Rust\n• Proficiency in Go\n• Proficiency in TypeScript\n• Proficiency in Git\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• International travel opportunities for senior roles\n• Modern office with recreational facilities\n• Recognition and rewards programs\n• Learning & development budget\n• Competitive salary with performance-linked incentives\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Jabalpur, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Medlife!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Medlife",
+      "value": "122-3-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Medlife",
+      "sameAs": "https://www.google.com/search?q=Medlife",
+      "logo": "https://logo.clearbit.com/medlife.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Medlife Office",
+        "addressLocality": "Jabalpur",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "JavaScript, MongoDB, Python, Java, Rust, Go, TypeScript, Git",
+    "responsibilities": "Work with agile methodologies including daily stand-ups and sprint planning. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Write and execute unit tests and integration tests. Implement new features based on product requirements. Ensure code security and follow best practices for data protection. Collaborate with cross-functional teams including product, design, and QA. Integrate third-party APIs and services",
+    "benefits": "Comprehensive health insurance for self and family. International travel opportunities for senior roles. Modern office with recreational facilities. Recognition and rewards programs. Learning & development budget. Competitive salary with performance-linked incentives",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, International travel opportunities for senior roles, Modern office with recreational facilities, Recognition and rewards programs, Learning & development budget, Competitive salary with performance-linked incentives"
+  },
+  "meta": {
+    "description": "Medlife invites applications from qualified candidates for the position of Backend Developer at our Jabalpur location. This role offers excellent career advance",
+    "keywords": "Backend Developer, Medlife, jobs in Jabalpur, Madhya Pradesh jobs, technology jobs India, JavaScript, MongoDB, Python, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:21:24.911Z",
+  "page": 30
+}

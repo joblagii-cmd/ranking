@@ -1,0 +1,94 @@
+{
+  "slug": "curefit-full-stack-developer-coimbatore-2026-05-25-2",
+  "title": "Curefit is Hiring: Full Stack Developer (Senior)",
+  "company": "Curefit",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Python",
+    "Microservices",
+    "Git",
+    "React",
+    "TypeScript",
+    "Agile/Scrum",
+    "CI/CD",
+    "MongoDB"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Curefit is Hiring: Full Stack Developer (Senior)",
+    "description": "Curefit invites applications from qualified candidates for the position of Full Stack Developer at our Coimbatore location. This role offers excellent career advancement prospects.\n\nAbout Curefit:\nCurefit is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Write clean, maintainable, and well-documented code\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Participate in code reviews and contribute to technical discussions\n• Design, develop and maintain scalable software applications\n• Integrate third-party APIs and services\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 0-1 years of relevant experience\n• Proficiency in Python\n• Proficiency in Microservices\n• Proficiency in Git\n• Proficiency in React\n• Proficiency in TypeScript\n• Proficiency in Agile/Scrum\n• Proficiency in CI/CD\n• Proficiency in MongoDB\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Work-from-home flexibility\n• Annual paid leaves and casual leaves\n• Flexible working hours\n• Life and accident insurance\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Coimbatore, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Curefit!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Curefit",
+      "value": "121-2-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Curefit",
+      "sameAs": "https://www.google.com/search?q=Curefit",
+      "logo": "https://logo.clearbit.com/curefit.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Curefit Office",
+        "addressLocality": "Coimbatore",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "Python, Microservices, Git, React, TypeScript, Agile/Scrum, CI/CD, MongoDB",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Write clean, maintainable, and well-documented code. Troubleshoot, debug, and resolve software defects and performance issues. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Participate in code reviews and contribute to technical discussions. Design, develop and maintain scalable software applications. Integrate third-party APIs and services",
+    "benefits": "Transportation and conveyance allowance. Work-from-home flexibility. Annual paid leaves and casual leaves. Flexible working hours. Life and accident insurance. Provident Fund and Gratuity as per company policy",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Work-from-home flexibility, Annual paid leaves and casual leaves, Flexible working hours, Life and accident insurance, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "Curefit invites applications from qualified candidates for the position of Full Stack Developer at our Coimbatore location. This role offers excellent career ad",
+    "keywords": "Full Stack Developer, Curefit, jobs in Coimbatore, Tamil Nadu jobs, technology jobs India, Python, Microservices, Git, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:21:24.910Z",
+  "page": 30
+}
