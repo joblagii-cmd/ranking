@@ -1,0 +1,93 @@
+{
+  "slug": "wabash-national-india-logistics-manager-surat-2026-05-25-0",
+  "title": "Immediate Requirement Logistics Manager at Wabash National India",
+  "company": "Wabash National India",
+  "industry": "logistics",
+  "role": "Logistics Manager",
+  "location": {
+    "city": "Surat",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "WMS",
+    "SAP SCM",
+    "KPI Monitoring",
+    "Route Optimization",
+    "ERP Systems",
+    "Cold Chain Logistics",
+    "Reverse Logistics",
+    "INCOTERMS"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Immediate Requirement Logistics Manager at Wabash National India",
+    "description": "Wabash National India invites applications from qualified candidates for the position of Logistics Manager at our Surat location. This role offers excellent career advancement prospects.\n\nAbout Wabash National India:\nWabash National India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Track shipments in real-time and resolve delivery exceptions\n• Manage a fleet of vehicles and coordinate with drivers\n• Optimize delivery routes to reduce cost and improve efficiency\n• Implement warehouse management systems (WMS) and track KPIs\n• Oversee end-to-end logistics operations for timely delivery\n• Conduct periodic vendor audits and evaluate logistics partners\n• Ensure compliance with transportation regulations and safety standards\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 6-10 years of relevant experience\n• Proficiency in WMS\n• Proficiency in SAP SCM\n• Proficiency in KPI Monitoring\n• Proficiency in Route Optimization\n• Proficiency in ERP Systems\n• Proficiency in Cold Chain Logistics\n• Proficiency in Reverse Logistics\n• Proficiency in INCOTERMS\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Provident Fund and Gratuity as per company policy\n• Modern office with recreational facilities\n• Learning & development budget\n• Employee stock options (ESOPs) for eligible roles\n• Transportation and conveyance allowance\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Surat, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Wabash National India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Wabash National India",
+      "value": "827-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Wabash National India",
+      "sameAs": "https://www.google.com/search?q=Wabash%20National%20India",
+      "logo": "https://logo.clearbit.com/wabashnationalindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Wabash National India Office",
+        "addressLocality": "Surat",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "WMS, SAP SCM, KPI Monitoring, Route Optimization, ERP Systems, Cold Chain Logistics, Reverse Logistics, INCOTERMS",
+    "responsibilities": "Track shipments in real-time and resolve delivery exceptions. Manage a fleet of vehicles and coordinate with drivers. Optimize delivery routes to reduce cost and improve efficiency. Implement warehouse management systems (WMS) and track KPIs. Oversee end-to-end logistics operations for timely delivery. Conduct periodic vendor audits and evaluate logistics partners. Ensure compliance with transportation regulations and safety standards",
+    "benefits": "Competitive salary with performance-linked incentives. Provident Fund and Gratuity as per company policy. Modern office with recreational facilities. Learning & development budget. Employee stock options (ESOPs) for eligible roles. Transportation and conveyance allowance",
+    "industry": "logistics",
+    "occupationalCategory": "Logistics Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Provident Fund and Gratuity as per company policy, Modern office with recreational facilities, Learning & development budget, Employee stock options (ESOPs) for eligible roles, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "Wabash National India invites applications from qualified candidates for the position of Logistics Manager at our Surat location. This role offers excellent car",
+    "keywords": "Logistics Manager, Wabash National India, jobs in Surat, Gujarat jobs, logistics jobs India, WMS, SAP SCM, KPI Monitoring, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:45:07.870Z",
+  "page": 206
+}
