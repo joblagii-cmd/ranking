@@ -1,0 +1,93 @@
+{
+  "slug": "brigade-group-ventures-solutions-real-estate-agent-rajkot-2026-05-25-0",
+  "title": "Vacancy for Real Estate Agent at Brigade Group Ventures Solutions",
+  "company": "Brigade Group Ventures Solutions",
+  "industry": "realestate",
+  "role": "Real Estate Agent",
+  "location": {
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Investment Analysis",
+    "CRM Software",
+    "MS Office",
+    "Negotiation Skills",
+    "Property Valuation",
+    "Real Estate Law",
+    "Due Diligence",
+    "AutoCAD"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Vacancy for Real Estate Agent at Brigade Group Ventures Solutions",
+    "description": "Brigade Group Ventures Solutions is actively seeking a talented and motivated Real Estate Agent to join our dynamic team in Rajkot. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout Brigade Group Ventures Solutions:\nBrigade Group Ventures Solutions is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Source and close property deals with prospective buyers and investors\n• Conduct site visits and property presentations for clients\n• Conduct land acquisition due diligence and feasibility studies\n• Liaise with banks and NBFCs for home loan assistance to customers\n• Manage RERA documentation and compliance requirements\n• Negotiate pricing, terms, and conditions on behalf of clients\n• Conduct market research and provide competitive analysis\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 3-6 years of relevant experience\n• Proficiency in Investment Analysis\n• Proficiency in CRM Software\n• Proficiency in MS Office\n• Proficiency in Negotiation Skills\n• Proficiency in Property Valuation\n• Proficiency in Real Estate Law\n• Proficiency in Due Diligence\n• Proficiency in AutoCAD\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Professional development and training programs\n• Provident Fund and Gratuity as per company policy\n• International travel opportunities for senior roles\n• Employee stock options (ESOPs) for eligible roles\n• Flexible working hours\n• Transportation and conveyance allowance\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Rajkot, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Brigade Group Ventures Solutions!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Brigade Group Ventures Solutions",
+      "value": "1604-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Brigade Group Ventures Solutions",
+      "sameAs": "https://www.google.com/search?q=Brigade%20Group%20Ventures%20Solutions",
+      "logo": "https://logo.clearbit.com/brigadegroupventuressolutions.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Brigade Group Ventures Solutions Office",
+        "addressLocality": "Rajkot",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "Investment Analysis, CRM Software, MS Office, Negotiation Skills, Property Valuation, Real Estate Law, Due Diligence, AutoCAD",
+    "responsibilities": "Source and close property deals with prospective buyers and investors. Conduct site visits and property presentations for clients. Conduct land acquisition due diligence and feasibility studies. Liaise with banks and NBFCs for home loan assistance to customers. Manage RERA documentation and compliance requirements. Negotiate pricing, terms, and conditions on behalf of clients. Conduct market research and provide competitive analysis",
+    "benefits": "Professional development and training programs. Provident Fund and Gratuity as per company policy. International travel opportunities for senior roles. Employee stock options (ESOPs) for eligible roles. Flexible working hours. Transportation and conveyance allowance",
+    "industry": "realestate",
+    "occupationalCategory": "Real Estate Agent",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Provident Fund and Gratuity as per company policy, International travel opportunities for senior roles, Employee stock options (ESOPs) for eligible roles, Flexible working hours, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "Brigade Group Ventures Solutions is actively seeking a talented and motivated Real Estate Agent to join our dynamic team in Rajkot. This is an excellent opportu",
+    "keywords": "Real Estate Agent, Brigade Group Ventures Solutions, jobs in Rajkot, Gujarat jobs, realestate jobs India, Investment Analysis, CRM Software, MS Office, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T07:12:48.313Z",
+  "page": 400
+}
