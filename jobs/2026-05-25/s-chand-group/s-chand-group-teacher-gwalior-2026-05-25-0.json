@@ -1,0 +1,94 @@
+{
+  "slug": "s-chand-group-teacher-gwalior-2026-05-25-0",
+  "title": "Job Opening Teacher at S.Chand Group",
+  "company": "S.Chand Group",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Mentoring",
+    "Child Psychology",
+    "LMS Platforms",
+    "Special Education",
+    "MS Office",
+    "Data Analysis",
+    "IB Curriculum",
+    "Lesson Planning"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Job Opening Teacher at S.Chand Group",
+    "description": "An exciting career opportunity awaits you at S.Chand Group. We are on the lookout for a dedicated Teacher to strengthen our Gwalior-based team.\n\nAbout S.Chand Group:\nS.Chand Group is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Contribute to school newsletter, blogs, and other publications\n• Design formative and summative assessments aligned to learning objectives\n• Conduct doubt-clearing sessions and remedial classes for weak students\n• Develop and deliver engaging lesson plans for students\n• Maintain classroom discipline and create a positive learning environment\n• Support students with special educational needs\n• Create curriculum-aligned learning materials and assessments\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 12-20 years of relevant experience\n• Proficiency in Mentoring\n• Proficiency in Child Psychology\n• Proficiency in LMS Platforms\n• Proficiency in Special Education\n• Proficiency in MS Office\n• Proficiency in Data Analysis\n• Proficiency in IB Curriculum\n• Proficiency in Lesson Planning\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Professional development and training programs\n• Company-sponsored certifications\n• Transportation and conveyance allowance\n• Annual paid leaves and casual leaves\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Gwalior, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with S.Chand Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "S.Chand Group",
+      "value": "543-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "S.Chand Group",
+      "sameAs": "https://www.google.com/search?q=S.Chand%20Group",
+      "logo": "https://logo.clearbit.com/schandgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "S.Chand Group Office",
+        "addressLocality": "Gwalior",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "Mentoring, Child Psychology, LMS Platforms, Special Education, MS Office, Data Analysis, IB Curriculum, Lesson Planning",
+    "responsibilities": "Contribute to school newsletter, blogs, and other publications. Design formative and summative assessments aligned to learning objectives. Conduct doubt-clearing sessions and remedial classes for weak students. Develop and deliver engaging lesson plans for students. Maintain classroom discipline and create a positive learning environment. Support students with special educational needs. Create curriculum-aligned learning materials and assessments",
+    "benefits": "Professional development and training programs. Company-sponsored certifications. Transportation and conveyance allowance. Annual paid leaves and casual leaves. Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Company-sponsored certifications, Transportation and conveyance allowance, Annual paid leaves and casual leaves, Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at S.Chand Group. We are on the lookout for a dedicated Teacher to strengthen our Gwalior-based team.",
+    "keywords": "Teacher, S.Chand Group, jobs in Gwalior, Madhya Pradesh jobs, education jobs India, Mentoring, Child Psychology, LMS Platforms, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:35:38.385Z",
+  "page": 135
+}
