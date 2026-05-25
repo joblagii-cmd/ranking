@@ -1,0 +1,93 @@
+{
+  "slug": "idfc-first-bank-financial-analyst-mysuru-2026-05-25-0",
+  "title": "Vacancy for Financial Analyst at IDFC First Bank",
+  "company": "IDFC First Bank",
+  "industry": "finance",
+  "role": "Financial Analyst",
+  "location": {
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Budgeting",
+    "IFRS",
+    "Python for Finance",
+    "Bloomberg Terminal",
+    "GST",
+    "Income Tax",
+    "VBA",
+    "Due Diligence"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Vacancy for Financial Analyst at IDFC First Bank",
+    "description": "Grow your career with IDFC First Bank! We are hiring a Financial Analyst for our Mysuru team. Be part of a workplace that celebrates innovation, diversity, and performance.\n\nAbout IDFC First Bank:\nIDFC First Bank is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Manage credit risk assessment and loan appraisal processes\n• Prepare MIS reports for senior management review\n• Monitor market trends and provide investment recommendations\n• Process payroll and manage employee reimbursements\n• Ensure compliance with tax regulations and statutory requirements\n• Prepare and analyze financial statements, reports, and budgets\n• Coordinate with external auditors during annual audits\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 6-10 years of relevant experience\n• Proficiency in Budgeting\n• Proficiency in IFRS\n• Proficiency in Python for Finance\n• Proficiency in Bloomberg Terminal\n• Proficiency in GST\n• Proficiency in Income Tax\n• Proficiency in VBA\n• Proficiency in Due Diligence\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Work-from-home flexibility\n• International travel opportunities for senior roles\n• Annual performance appraisal\n• Maternity and paternity leave\n• Competitive salary with performance-linked incentives\n• Company-sponsored certifications\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Mysuru, Karnataka, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with IDFC First Bank!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "IDFC First Bank",
+      "value": "141-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "IDFC First Bank",
+      "sameAs": "https://www.google.com/search?q=IDFC%20First%20Bank",
+      "logo": "https://logo.clearbit.com/idfcfirstbank.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "IDFC First Bank Office",
+        "addressLocality": "Mysuru",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Budgeting, IFRS, Python for Finance, Bloomberg Terminal, GST, Income Tax, VBA, Due Diligence",
+    "responsibilities": "Manage credit risk assessment and loan appraisal processes. Prepare MIS reports for senior management review. Monitor market trends and provide investment recommendations. Process payroll and manage employee reimbursements. Ensure compliance with tax regulations and statutory requirements. Prepare and analyze financial statements, reports, and budgets. Coordinate with external auditors during annual audits",
+    "benefits": "Work-from-home flexibility. International travel opportunities for senior roles. Annual performance appraisal. Maternity and paternity leave. Competitive salary with performance-linked incentives. Company-sponsored certifications",
+    "industry": "finance",
+    "occupationalCategory": "Financial Analyst",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, International travel opportunities for senior roles, Annual performance appraisal, Maternity and paternity leave, Competitive salary with performance-linked incentives, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "Grow your career with IDFC First Bank! We are hiring a Financial Analyst for our Mysuru team. Be part of a workplace that celebrates innovation, diversity, and ",
+    "keywords": "Financial Analyst, IDFC First Bank, jobs in Mysuru, Karnataka jobs, finance jobs India, Budgeting, IFRS, Python for Finance, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:22:06.201Z",
+  "page": 35
+}
