@@ -1,0 +1,93 @@
+{
+  "slug": "symbiosis-hospital-medical-officer-coimbatore-2026-05-25-0",
+  "title": "Hiring Medical Officer at Symbiosis Hospital",
+  "company": "Symbiosis Hospital",
+  "industry": "healthcare",
+  "role": "Medical Officer",
+  "location": {
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "ICD-10",
+    "Health Informatics",
+    "Medical Coding",
+    "CPT Codes",
+    "Clinical Research",
+    "EMR/EHR",
+    "Medical Terminology",
+    "Clinical Documentation"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Hiring Medical Officer at Symbiosis Hospital",
+    "description": "Symbiosis Hospital, one of India's leading organizations, is hiring a Medical Officer for our Coimbatore operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Symbiosis Hospital:\nSymbiosis Hospital is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Monitor patient progress and adjust treatment plans accordingly\n• Educate patients and families on health management and disease prevention\n• Administer medications and treatments as prescribed\n• Provide high-quality patient care and maintain patient records\n• Respond to medical emergencies and provide immediate care\n• Attend continuing medical education programs and training\n• Diagnose and treat medical conditions following established protocols\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 10-15 years of relevant experience\n• Proficiency in ICD-10\n• Proficiency in Health Informatics\n• Proficiency in Medical Coding\n• Proficiency in CPT Codes\n• Proficiency in Clinical Research\n• Proficiency in EMR/EHR\n• Proficiency in Medical Terminology\n• Proficiency in Clinical Documentation\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Referral bonus program\n• Annual paid leaves and casual leaves\n• Company-sponsored certifications\n• Employee stock options (ESOPs) for eligible roles\n• Annual performance appraisal\n• Work-from-home flexibility\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Coimbatore, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Symbiosis Hospital!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Symbiosis Hospital",
+      "value": "289-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Symbiosis Hospital",
+      "sameAs": "https://www.google.com/search?q=Symbiosis%20Hospital",
+      "logo": "https://logo.clearbit.com/symbiosishospital.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Symbiosis Hospital Office",
+        "addressLocality": "Coimbatore",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "ICD-10, Health Informatics, Medical Coding, CPT Codes, Clinical Research, EMR/EHR, Medical Terminology, Clinical Documentation",
+    "responsibilities": "Monitor patient progress and adjust treatment plans accordingly. Educate patients and families on health management and disease prevention. Administer medications and treatments as prescribed. Provide high-quality patient care and maintain patient records. Respond to medical emergencies and provide immediate care. Attend continuing medical education programs and training. Diagnose and treat medical conditions following established protocols",
+    "benefits": "Referral bonus program. Annual paid leaves and casual leaves. Company-sponsored certifications. Employee stock options (ESOPs) for eligible roles. Annual performance appraisal. Work-from-home flexibility",
+    "industry": "healthcare",
+    "occupationalCategory": "Medical Officer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Referral bonus program, Annual paid leaves and casual leaves, Company-sponsored certifications, Employee stock options (ESOPs) for eligible roles, Annual performance appraisal, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "Symbiosis Hospital, one of India's leading organizations, is hiring a Medical Officer for our Coimbatore operations. We offer a competitive salary package along",
+    "keywords": "Medical Officer, Symbiosis Hospital, jobs in Coimbatore, Tamil Nadu jobs, healthcare jobs India, ICD-10, Health Informatics, Medical Coding, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:27:11.531Z",
+  "page": 72
+}
