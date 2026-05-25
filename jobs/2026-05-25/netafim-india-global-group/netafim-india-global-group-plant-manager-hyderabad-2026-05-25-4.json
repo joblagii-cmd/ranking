@@ -1,0 +1,93 @@
+{
+  "slug": "netafim-india-global-group-plant-manager-hyderabad-2026-05-25-4",
+  "title": "Entry-Level Plant Manager at Netafim India Global Group",
+  "company": "Netafim India Global Group",
+  "industry": "manufacturing",
+  "role": "Plant Manager",
+  "location": {
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "AutoCAD",
+    "TPM",
+    "5S",
+    "Root Cause Analysis",
+    "PPAP",
+    "ISO 9001",
+    "Quality Control",
+    "Supply Chain Management"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Entry-Level Plant Manager at Netafim India Global Group",
+    "description": "Netafim India Global Group has an exciting opening for a Plant Manager at our Hyderabad office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Netafim India Global Group:\nNetafim India Global Group is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with logistics for dispatching finished goods\n• Maintain accurate production records and prepare daily reports\n• Prepare production cost analysis and efficiency reports\n• Implement lean manufacturing and continuous improvement initiatives\n• Train and supervise shop floor workers and supervisors\n• Conduct root cause analysis for quality rejections and defects\n• Monitor equipment performance and coordinate preventive maintenance\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 6-10 years of relevant experience\n• Proficiency in AutoCAD\n• Proficiency in TPM\n• Proficiency in 5S\n• Proficiency in Root Cause Analysis\n• Proficiency in PPAP\n• Proficiency in ISO 9001\n• Proficiency in Quality Control\n• Proficiency in Supply Chain Management\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Life and accident insurance\n• Transportation and conveyance allowance\n• Employee stock options (ESOPs) for eligible roles\n• Annual paid leaves and casual leaves\n• Flexible working hours\n• Company-sponsored certifications\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Hyderabad, Telangana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Netafim India Global Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Netafim India Global Group",
+      "value": "1397-4-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Netafim India Global Group",
+      "sameAs": "https://www.google.com/search?q=Netafim%20India%20Global%20Group",
+      "logo": "https://logo.clearbit.com/netafimindiaglobalgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Netafim India Global Group Office",
+        "addressLocality": "Hyderabad",
+        "addressRegion": "Telangana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "AutoCAD, TPM, 5S, Root Cause Analysis, PPAP, ISO 9001, Quality Control, Supply Chain Management",
+    "responsibilities": "Coordinate with logistics for dispatching finished goods. Maintain accurate production records and prepare daily reports. Prepare production cost analysis and efficiency reports. Implement lean manufacturing and continuous improvement initiatives. Train and supervise shop floor workers and supervisors. Conduct root cause analysis for quality rejections and defects. Monitor equipment performance and coordinate preventive maintenance",
+    "benefits": "Life and accident insurance. Transportation and conveyance allowance. Employee stock options (ESOPs) for eligible roles. Annual paid leaves and casual leaves. Flexible working hours. Company-sponsored certifications",
+    "industry": "manufacturing",
+    "occupationalCategory": "Plant Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Transportation and conveyance allowance, Employee stock options (ESOPs) for eligible roles, Annual paid leaves and casual leaves, Flexible working hours, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "Netafim India Global Group has an exciting opening for a Plant Manager at our Hyderabad office. Join a company that values innovation, collaboration, and contin",
+    "keywords": "Plant Manager, Netafim India Global Group, jobs in Hyderabad, Telangana jobs, manufacturing jobs India, AutoCAD, TPM, 5S, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T07:04:53.144Z",
+  "page": 349
+}
