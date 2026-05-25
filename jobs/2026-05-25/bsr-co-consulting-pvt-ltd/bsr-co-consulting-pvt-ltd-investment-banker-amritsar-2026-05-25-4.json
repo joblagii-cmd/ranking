@@ -1,0 +1,93 @@
+{
+  "slug": "bsr-co-consulting-pvt-ltd-investment-banker-amritsar-2026-05-25-4",
+  "title": "Junior Investment Banker at BSR & Co Consulting Pvt Ltd",
+  "company": "BSR & Co Consulting Pvt Ltd",
+  "industry": "finance",
+  "role": "Investment Banker",
+  "location": {
+    "city": "Amritsar",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "VBA",
+    "GST",
+    "Ind AS",
+    "SQL",
+    "Financial Modeling",
+    "Credit Analysis",
+    "Risk Management",
+    "MS Excel"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Junior Investment Banker at BSR & Co Consulting Pvt Ltd",
+    "description": "BSR & Co Consulting Pvt Ltd is actively seeking a talented and motivated Investment Banker to join our dynamic team in Amritsar. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout BSR & Co Consulting Pvt Ltd:\nBSR & Co Consulting Pvt Ltd is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Liaise with banks, regulators, and financial institutions\n• Prepare annual reports and investor presentations\n• Implement and maintain internal controls and audit procedures\n• Manage accounts payable and accounts receivable functions\n• Monitor market trends and provide investment recommendations\n• Maintain general ledger and ensure accurate bookkeeping\n• Monitor financial performance against targets and provide variance analysis\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 3-6 years of relevant experience\n• Proficiency in VBA\n• Proficiency in GST\n• Proficiency in Ind AS\n• Proficiency in SQL\n• Proficiency in Financial Modeling\n• Proficiency in Credit Analysis\n• Proficiency in Risk Management\n• Proficiency in MS Excel\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Modern office with recreational facilities\n• Life and accident insurance\n• Work-from-home flexibility\n• Employee stock options (ESOPs) for eligible roles\n• Flexible working hours\n• Transportation and conveyance allowance\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Amritsar, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with BSR & Co Consulting Pvt Ltd!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "BSR & Co Consulting Pvt Ltd",
+      "value": "1111-4-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "BSR & Co Consulting Pvt Ltd",
+      "sameAs": "https://www.google.com/search?q=BSR%20%26%20Co%20Consulting%20Pvt%20Ltd",
+      "logo": "https://logo.clearbit.com/bsrcoconsultingpvtltd.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "BSR & Co Consulting Pvt Ltd Office",
+        "addressLocality": "Amritsar",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "VBA, GST, Ind AS, SQL, Financial Modeling, Credit Analysis, Risk Management, MS Excel",
+    "responsibilities": "Liaise with banks, regulators, and financial institutions. Prepare annual reports and investor presentations. Implement and maintain internal controls and audit procedures. Manage accounts payable and accounts receivable functions. Monitor market trends and provide investment recommendations. Maintain general ledger and ensure accurate bookkeeping. Monitor financial performance against targets and provide variance analysis",
+    "benefits": "Modern office with recreational facilities. Life and accident insurance. Work-from-home flexibility. Employee stock options (ESOPs) for eligible roles. Flexible working hours. Transportation and conveyance allowance",
+    "industry": "finance",
+    "occupationalCategory": "Investment Banker",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Modern office with recreational facilities, Life and accident insurance, Work-from-home flexibility, Employee stock options (ESOPs) for eligible roles, Flexible working hours, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "BSR & Co Consulting Pvt Ltd is actively seeking a talented and motivated Investment Banker to join our dynamic team in Amritsar. This is an excellent opportunit",
+    "keywords": "Investment Banker, BSR & Co Consulting Pvt Ltd, jobs in Amritsar, Punjab jobs, finance jobs India, VBA, GST, Ind AS, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:54:37.623Z",
+  "page": 277
+}
