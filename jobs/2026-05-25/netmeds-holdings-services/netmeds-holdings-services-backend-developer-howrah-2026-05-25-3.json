@@ -1,0 +1,93 @@
+{
+  "slug": "netmeds-holdings-services-backend-developer-howrah-2026-05-25-3",
+  "title": "Backend Developer Vacancy at Netmeds Holdings Services - 2026 Batch",
+  "company": "Netmeds Holdings Services",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Howrah",
+    "state": "West Bengal",
+    "region": "Eastern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "JavaScript",
+    "Docker",
+    "SQL",
+    "Kubernetes",
+    "Python",
+    "Agile/Scrum",
+    "Go",
+    "Machine Learning"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Netmeds Holdings Services - 2026 Batch",
+    "description": "Join the Netmeds Holdings Services family as a Backend Developer in Howrah. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Netmeds Holdings Services:\nNetmeds Holdings Services is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in on-call rotation for production support\n• Optimize application performance and ensure high availability\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Contribute to system architecture and technical design decisions\n• Write and execute unit tests and integration tests\n• Participate in code reviews and contribute to technical discussions\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 12-20 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Docker\n• Proficiency in SQL\n• Proficiency in Kubernetes\n• Proficiency in Python\n• Proficiency in Agile/Scrum\n• Proficiency in Go\n• Proficiency in Machine Learning\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Comprehensive health insurance for self and family\n• Company-sponsored certifications\n• Competitive salary with performance-linked incentives\n• Transportation and conveyance allowance\n• Mobile and internet reimbursement\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Howrah, West Bengal, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Netmeds Holdings Services!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Netmeds Holdings Services",
+      "value": "1035-3-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Netmeds Holdings Services",
+      "sameAs": "https://www.google.com/search?q=Netmeds%20Holdings%20Services",
+      "logo": "https://logo.clearbit.com/netmedsholdingsservices.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Netmeds Holdings Services Office",
+        "addressLocality": "Howrah",
+        "addressRegion": "West Bengal",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "JavaScript, Docker, SQL, Kubernetes, Python, Agile/Scrum, Go, Machine Learning",
+    "responsibilities": "Participate in on-call rotation for production support. Optimize application performance and ensure high availability. Work with agile methodologies including daily stand-ups and sprint planning. Troubleshoot, debug, and resolve software defects and performance issues. Contribute to system architecture and technical design decisions. Write and execute unit tests and integration tests. Participate in code reviews and contribute to technical discussions",
+    "benefits": "Work-from-home flexibility. Comprehensive health insurance for self and family. Company-sponsored certifications. Competitive salary with performance-linked incentives. Transportation and conveyance allowance. Mobile and internet reimbursement",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Comprehensive health insurance for self and family, Company-sponsored certifications, Competitive salary with performance-linked incentives, Transportation and conveyance allowance, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "Join the Netmeds Holdings Services family as a Backend Developer in Howrah. We believe in empowering our employees with the tools, training, and environment the",
+    "keywords": "Backend Developer, Netmeds Holdings Services, jobs in Howrah, West Bengal jobs, technology jobs India, JavaScript, Docker, SQL, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:52:07.038Z",
+  "page": 258
+}
