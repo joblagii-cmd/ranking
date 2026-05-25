@@ -1,0 +1,93 @@
+{
+  "slug": "my-home-group-sales-manager-vijayawada-2026-05-25-3",
+  "title": "Sales Manager Vacancy at My Home Group - 2026 Batch",
+  "company": "My Home Group",
+  "industry": "realestate",
+  "role": "Sales Manager",
+  "location": {
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Property Valuation",
+    "Investment Analysis",
+    "Sales Techniques",
+    "Market Research",
+    "Real Estate Law",
+    "MS Office",
+    "Lease Administration",
+    "AutoCAD"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Sales Manager Vacancy at My Home Group - 2026 Batch",
+    "description": "My Home Group has an exciting opening for a Sales Manager at our Vijayawada office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout My Home Group:\nMy Home Group is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Manage RERA documentation and compliance requirements\n• Liaise with banks and NBFCs for home loan assistance to customers\n• Build relationships with channel partners and brokers\n• Provide advisory services on property investment and market trends\n• Negotiate pricing, terms, and conditions on behalf of clients\n• Coordinate with architects, contractors, and project teams\n• Maintain a pipeline of qualified leads using CRM software\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 1-3 years of relevant experience\n• Proficiency in Property Valuation\n• Proficiency in Investment Analysis\n• Proficiency in Sales Techniques\n• Proficiency in Market Research\n• Proficiency in Real Estate Law\n• Proficiency in MS Office\n• Proficiency in Lease Administration\n• Proficiency in AutoCAD\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Company-sponsored certifications\n• Competitive salary with performance-linked incentives\n• Flexible working hours\n• Modern office with recreational facilities\n• Referral bonus program\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Vijayawada, Andhra Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with My Home Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "My Home Group",
+      "value": "709-3-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "My Home Group",
+      "sameAs": "https://www.google.com/search?q=My%20Home%20Group",
+      "logo": "https://logo.clearbit.com/myhomegroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "My Home Group Office",
+        "addressLocality": "Vijayawada",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "Property Valuation, Investment Analysis, Sales Techniques, Market Research, Real Estate Law, MS Office, Lease Administration, AutoCAD",
+    "responsibilities": "Manage RERA documentation and compliance requirements. Liaise with banks and NBFCs for home loan assistance to customers. Build relationships with channel partners and brokers. Provide advisory services on property investment and market trends. Negotiate pricing, terms, and conditions on behalf of clients. Coordinate with architects, contractors, and project teams. Maintain a pipeline of qualified leads using CRM software",
+    "benefits": "Annual paid leaves and casual leaves. Company-sponsored certifications. Competitive salary with performance-linked incentives. Flexible working hours. Modern office with recreational facilities. Referral bonus program",
+    "industry": "realestate",
+    "occupationalCategory": "Sales Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Company-sponsored certifications, Competitive salary with performance-linked incentives, Flexible working hours, Modern office with recreational facilities, Referral bonus program"
+  },
+  "meta": {
+    "description": "My Home Group has an exciting opening for a Sales Manager at our Vijayawada office. Join a company that values innovation, collaboration, and continuous learnin",
+    "keywords": "Sales Manager, My Home Group, jobs in Vijayawada, Andhra Pradesh jobs, realestate jobs India, Property Valuation, Investment Analysis, Sales Techniques, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:41:15.534Z",
+  "page": 177
+}
