@@ -1,0 +1,93 @@
+{
+  "slug": "haldiram-s-department-manager-chennai-2026-05-25-3",
+  "title": "Department Manager Vacancy at Haldiram's - 2026 Batch",
+  "company": "Haldiram's",
+  "industry": "retail",
+  "role": "Department Manager",
+  "location": {
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "KPI Management",
+    "Loyalty Programs",
+    "POS Systems",
+    "Visual Merchandising",
+    "SAP Retail",
+    "CRM",
+    "Customer Service",
+    "MS Excel"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Department Manager Vacancy at Haldiram's - 2026 Batch",
+    "description": "Haldiram's is actively seeking a talented and motivated Department Manager to join our dynamic team in Chennai. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout Haldiram's:\nHaldiram's is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Handle customer queries, complaints, and escalations effectively\n• Manage store operations to ensure smooth daily functioning\n• Prepare daily sales reports and share insights with management\n• Manage shrinkage and reduce stock discrepancies\n• Ensure compliance with company policies and retail regulations\n• Maintain high standards of store hygiene and cleanliness\n• Implement promotional activities and in-store campaigns\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 0-1 years of relevant experience\n• Proficiency in KPI Management\n• Proficiency in Loyalty Programs\n• Proficiency in POS Systems\n• Proficiency in Visual Merchandising\n• Proficiency in SAP Retail\n• Proficiency in CRM\n• Proficiency in Customer Service\n• Proficiency in MS Excel\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Referral bonus program\n• Work-from-home flexibility\n• Employee stock options (ESOPs) for eligible roles\n• International travel opportunities for senior roles\n• Life and accident insurance\n• Learning & development budget\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Chennai, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Haldiram's!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Haldiram's",
+      "value": "651-3-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Haldiram's",
+      "sameAs": "https://www.google.com/search?q=Haldiram's",
+      "logo": "https://logo.clearbit.com/haldirams.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Haldiram's Office",
+        "addressLocality": "Chennai",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "KPI Management, Loyalty Programs, POS Systems, Visual Merchandising, SAP Retail, CRM, Customer Service, MS Excel",
+    "responsibilities": "Handle customer queries, complaints, and escalations effectively. Manage store operations to ensure smooth daily functioning. Prepare daily sales reports and share insights with management. Manage shrinkage and reduce stock discrepancies. Ensure compliance with company policies and retail regulations. Maintain high standards of store hygiene and cleanliness. Implement promotional activities and in-store campaigns",
+    "benefits": "Referral bonus program. Work-from-home flexibility. Employee stock options (ESOPs) for eligible roles. International travel opportunities for senior roles. Life and accident insurance. Learning & development budget",
+    "industry": "retail",
+    "occupationalCategory": "Department Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Referral bonus program, Work-from-home flexibility, Employee stock options (ESOPs) for eligible roles, International travel opportunities for senior roles, Life and accident insurance, Learning & development budget"
+  },
+  "meta": {
+    "description": "Haldiram's is actively seeking a talented and motivated Department Manager to join our dynamic team in Chennai. This is an excellent opportunity for professiona",
+    "keywords": "Department Manager, Haldiram's, jobs in Chennai, Tamil Nadu jobs, retail jobs India, KPI Management, Loyalty Programs, POS Systems, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:39:14.789Z",
+  "page": 162
+}
