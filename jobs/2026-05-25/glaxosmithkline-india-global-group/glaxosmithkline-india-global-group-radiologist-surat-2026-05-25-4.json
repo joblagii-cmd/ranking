@@ -1,0 +1,93 @@
+{
+  "slug": "glaxosmithkline-india-global-group-radiologist-surat-2026-05-25-4",
+  "title": "Mid-Level Radiologist at GlaxoSmithKline India Global Group",
+  "company": "GlaxoSmithKline India Global Group",
+  "industry": "healthcare",
+  "role": "Radiologist",
+  "location": {
+    "city": "Surat",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "BLS/ACLS",
+    "Infection Control",
+    "NABH Standards",
+    "ICU Management",
+    "CPT Codes",
+    "Wound Care",
+    "Clinical Research",
+    "ICD-10"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Radiologist at GlaxoSmithKline India Global Group",
+    "description": "GlaxoSmithKline India Global Group has an exciting opening for a Radiologist at our Surat office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout GlaxoSmithKline India Global Group:\nGlaxoSmithKline India Global Group is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Adhere to NABH/JCI accreditation standards\n• Administer medications and treatments as prescribed\n• Maintain sterile environments and follow infection control protocols\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Attend continuing medical education programs and training\n• Collaborate with pharmaceutical representatives and medical suppliers\n• Respond to medical emergencies and provide immediate care\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 10-15 years of relevant experience\n• Proficiency in BLS/ACLS\n• Proficiency in Infection Control\n• Proficiency in NABH Standards\n• Proficiency in ICU Management\n• Proficiency in CPT Codes\n• Proficiency in Wound Care\n• Proficiency in Clinical Research\n• Proficiency in ICD-10\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Annual paid leaves and casual leaves\n• International travel opportunities for senior roles\n• Recognition and rewards programs\n• Learning & development budget\n• Referral bonus program\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Surat, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with GlaxoSmithKline India Global Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "GlaxoSmithKline India Global Group",
+      "value": "1157-4-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "GlaxoSmithKline India Global Group",
+      "sameAs": "https://www.google.com/search?q=GlaxoSmithKline%20India%20Global%20Group",
+      "logo": "https://logo.clearbit.com/glaxosmithklineindiaglobalgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "GlaxoSmithKline India Global Group Office",
+        "addressLocality": "Surat",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "BLS/ACLS, Infection Control, NABH Standards, ICU Management, CPT Codes, Wound Care, Clinical Research, ICD-10",
+    "responsibilities": "Adhere to NABH/JCI accreditation standards. Administer medications and treatments as prescribed. Maintain sterile environments and follow infection control protocols. Coordinate with multidisciplinary teams for comprehensive patient management. Attend continuing medical education programs and training. Collaborate with pharmaceutical representatives and medical suppliers. Respond to medical emergencies and provide immediate care",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Annual paid leaves and casual leaves. International travel opportunities for senior roles. Recognition and rewards programs. Learning & development budget. Referral bonus program",
+    "industry": "healthcare",
+    "occupationalCategory": "Radiologist",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Annual paid leaves and casual leaves, International travel opportunities for senior roles, Recognition and rewards programs, Learning & development budget, Referral bonus program"
+  },
+  "meta": {
+    "description": "GlaxoSmithKline India Global Group has an exciting opening for a Radiologist at our Surat office. Join a company that values innovation, collaboration, and cont",
+    "keywords": "Radiologist, GlaxoSmithKline India Global Group, jobs in Surat, Gujarat jobs, healthcare jobs India, BLS/ACLS, Infection Control, NABH Standards, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:56:12.956Z",
+  "page": 289
+}
