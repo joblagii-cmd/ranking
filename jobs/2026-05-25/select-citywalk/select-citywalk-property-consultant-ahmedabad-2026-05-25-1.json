@@ -1,0 +1,93 @@
+{
+  "slug": "select-citywalk-property-consultant-ahmedabad-2026-05-25-1",
+  "title": "Property Consultant - Select CityWalk - Multiple Openings",
+  "company": "Select CityWalk",
+  "industry": "realestate",
+  "role": "Property Consultant",
+  "location": {
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "MS Office",
+    "Investment Analysis",
+    "RERA Compliance",
+    "Portfolio Management",
+    "Sales Techniques",
+    "Title Search",
+    "GIS Tools",
+    "Due Diligence"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Property Consultant - Select CityWalk - Multiple Openings",
+    "description": "Select CityWalk, one of India's leading organizations, is hiring a Property Consultant for our Ahmedabad operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Select CityWalk:\nSelect CityWalk is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Conduct site visits and property presentations for clients\n• Coordinate with architects, contractors, and project teams\n• Source and close property deals with prospective buyers and investors\n• Build relationships with channel partners and brokers\n• Liaise with banks and NBFCs for home loan assistance to customers\n• Coordinate with legal teams for documentation and title verification\n• Manage RERA documentation and compliance requirements\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 10-15 years of relevant experience\n• Proficiency in MS Office\n• Proficiency in Investment Analysis\n• Proficiency in RERA Compliance\n• Proficiency in Portfolio Management\n• Proficiency in Sales Techniques\n• Proficiency in Title Search\n• Proficiency in GIS Tools\n• Proficiency in Due Diligence\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Recognition and rewards programs\n• Comprehensive health insurance for self and family\n• Maternity and paternity leave\n• Work-from-home flexibility\n• Professional development and training programs\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Ahmedabad, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Select CityWalk!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Select CityWalk",
+      "value": "740-1-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Select CityWalk",
+      "sameAs": "https://www.google.com/search?q=Select%20CityWalk",
+      "logo": "https://logo.clearbit.com/selectcitywalk.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Select CityWalk Office",
+        "addressLocality": "Ahmedabad",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "MS Office, Investment Analysis, RERA Compliance, Portfolio Management, Sales Techniques, Title Search, GIS Tools, Due Diligence",
+    "responsibilities": "Conduct site visits and property presentations for clients. Coordinate with architects, contractors, and project teams. Source and close property deals with prospective buyers and investors. Build relationships with channel partners and brokers. Liaise with banks and NBFCs for home loan assistance to customers. Coordinate with legal teams for documentation and title verification. Manage RERA documentation and compliance requirements",
+    "benefits": "Recognition and rewards programs. Comprehensive health insurance for self and family. Maternity and paternity leave. Work-from-home flexibility. Professional development and training programs. Provident Fund and Gratuity as per company policy",
+    "industry": "realestate",
+    "occupationalCategory": "Property Consultant",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Recognition and rewards programs, Comprehensive health insurance for self and family, Maternity and paternity leave, Work-from-home flexibility, Professional development and training programs, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "Select CityWalk, one of India's leading organizations, is hiring a Property Consultant for our Ahmedabad operations. We offer a competitive salary package along",
+    "keywords": "Property Consultant, Select CityWalk, jobs in Ahmedabad, Gujarat jobs, realestate jobs India, MS Office, Investment Analysis, RERA Compliance, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:42:11.780Z",
+  "page": 184
+}
