@@ -1,0 +1,93 @@
+{
+  "slug": "nsdc-global-group-teacher-kolkata-2026-05-25-0",
+  "title": "Urgent Opening Teacher at NSDC Global Group",
+  "company": "NSDC Global Group",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "region": "Eastern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Zoom/Teams",
+    "Curriculum Development",
+    "Pedagogy",
+    "Content Creation",
+    "Child Psychology",
+    "Research Skills",
+    "MS Office",
+    "CBSE/ICSE Standards"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Urgent Opening Teacher at NSDC Global Group",
+    "description": "An exciting career opportunity awaits you at NSDC Global Group. We are on the lookout for a dedicated Teacher to strengthen our Kolkata-based team.\n\nAbout NSDC Global Group:\nNSDC Global Group is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Maintain classroom discipline and create a positive learning environment\n• Design formative and summative assessments aligned to learning objectives\n• Support students with special educational needs\n• Develop and deliver engaging lesson plans for students\n• Conduct parent-teacher meetings and update parents on student performance\n• Participate in school events, workshops, and training programs\n• Create curriculum-aligned learning materials and assessments\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 3-6 years of relevant experience\n• Proficiency in Zoom/Teams\n• Proficiency in Curriculum Development\n• Proficiency in Pedagogy\n• Proficiency in Content Creation\n• Proficiency in Child Psychology\n• Proficiency in Research Skills\n• Proficiency in MS Office\n• Proficiency in CBSE/ICSE Standards\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Maternity and paternity leave\n• Modern office with recreational facilities\n• Annual paid leaves and casual leaves\n• Provident Fund and Gratuity as per company policy\n• Meal coupons and food allowance\n• Transportation and conveyance allowance\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Kolkata, West Bengal, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with NSDC Global Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "NSDC Global Group",
+      "value": "1487-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "NSDC Global Group",
+      "sameAs": "https://www.google.com/search?q=NSDC%20Global%20Group",
+      "logo": "https://logo.clearbit.com/nsdcglobalgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "NSDC Global Group Office",
+        "addressLocality": "Kolkata",
+        "addressRegion": "West Bengal",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "Zoom/Teams, Curriculum Development, Pedagogy, Content Creation, Child Psychology, Research Skills, MS Office, CBSE/ICSE Standards",
+    "responsibilities": "Maintain classroom discipline and create a positive learning environment. Design formative and summative assessments aligned to learning objectives. Support students with special educational needs. Develop and deliver engaging lesson plans for students. Conduct parent-teacher meetings and update parents on student performance. Participate in school events, workshops, and training programs. Create curriculum-aligned learning materials and assessments",
+    "benefits": "Maternity and paternity leave. Modern office with recreational facilities. Annual paid leaves and casual leaves. Provident Fund and Gratuity as per company policy. Meal coupons and food allowance. Transportation and conveyance allowance",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Maternity and paternity leave, Modern office with recreational facilities, Annual paid leaves and casual leaves, Provident Fund and Gratuity as per company policy, Meal coupons and food allowance, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at NSDC Global Group. We are on the lookout for a dedicated Teacher to strengthen our Kolkata-based team.",
+    "keywords": "Teacher, NSDC Global Group, jobs in Kolkata, West Bengal jobs, education jobs India, Zoom/Teams, Curriculum Development, Pedagogy, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T07:08:15.730Z",
+  "page": 371
+}
