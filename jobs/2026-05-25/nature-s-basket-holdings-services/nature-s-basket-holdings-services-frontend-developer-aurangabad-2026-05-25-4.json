@@ -1,0 +1,93 @@
+{
+  "slug": "nature-s-basket-holdings-services-frontend-developer-aurangabad-2026-05-25-4",
+  "title": "Entry-Level Frontend Developer at Nature's Basket Holdings Services",
+  "company": "Nature's Basket Holdings Services",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Aurangabad",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Kubernetes",
+    "JavaScript",
+    "Microservices",
+    "SQL",
+    "TensorFlow",
+    "REST APIs",
+    "Machine Learning",
+    "Git"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Entry-Level Frontend Developer at Nature's Basket Holdings Services",
+    "description": "Join the Nature's Basket Holdings Services family as a Frontend Developer in Aurangabad. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Nature's Basket Holdings Services:\nNature's Basket Holdings Services is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Integrate third-party APIs and services\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Ensure code security and follow best practices for data protection\n• Write and execute unit tests and integration tests\n• Participate in code reviews and contribute to technical discussions\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in on-call rotation for production support\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 6-10 years of relevant experience\n• Proficiency in Kubernetes\n• Proficiency in JavaScript\n• Proficiency in Microservices\n• Proficiency in SQL\n• Proficiency in TensorFlow\n• Proficiency in REST APIs\n• Proficiency in Machine Learning\n• Proficiency in Git\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Annual performance appraisal\n• Life and accident insurance\n• Learning & development budget\n• Comprehensive health insurance for self and family\n• Meal coupons and food allowance\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Aurangabad, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Nature's Basket Holdings Services!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Nature's Basket Holdings Services",
+      "value": "1025-4-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Nature's Basket Holdings Services",
+      "sameAs": "https://www.google.com/search?q=Nature's%20Basket%20Holdings%20Services",
+      "logo": "https://logo.clearbit.com/naturesbasketholdingsservices.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Nature's Basket Holdings Services Office",
+        "addressLocality": "Aurangabad",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "Kubernetes, JavaScript, Microservices, SQL, TensorFlow, REST APIs, Machine Learning, Git",
+    "responsibilities": "Integrate third-party APIs and services. Work with agile methodologies including daily stand-ups and sprint planning. Ensure code security and follow best practices for data protection. Write and execute unit tests and integration tests. Participate in code reviews and contribute to technical discussions. Collaborate with cross-functional teams including product, design, and QA. Participate in on-call rotation for production support",
+    "benefits": "Competitive salary with performance-linked incentives. Annual performance appraisal. Life and accident insurance. Learning & development budget. Comprehensive health insurance for self and family. Meal coupons and food allowance",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Annual performance appraisal, Life and accident insurance, Learning & development budget, Comprehensive health insurance for self and family, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "Join the Nature's Basket Holdings Services family as a Frontend Developer in Aurangabad. We believe in empowering our employees with the tools, training, and en",
+    "keywords": "Frontend Developer, Nature's Basket Holdings Services, jobs in Aurangabad, Maharashtra jobs, technology jobs India, Kubernetes, JavaScript, Microservices, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:51:51.285Z",
+  "page": 256
+}

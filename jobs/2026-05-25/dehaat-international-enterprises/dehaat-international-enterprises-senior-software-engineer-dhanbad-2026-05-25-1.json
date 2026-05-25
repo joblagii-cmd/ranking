@@ -1,0 +1,93 @@
+{
+  "slug": "dehaat-international-enterprises-senior-software-engineer-dhanbad-2026-05-25-1",
+  "title": "Senior Software Engineer - DeHaat International Enterprises - Apply Now",
+  "company": "DeHaat International Enterprises",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Dhanbad",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Agile/Scrum",
+    "TypeScript",
+    "Microservices",
+    "JavaScript",
+    "Python",
+    "AWS",
+    "Java",
+    "Node.js"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - DeHaat International Enterprises - Apply Now",
+    "description": "Join the DeHaat International Enterprises family as a Senior Software Engineer in Dhanbad. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout DeHaat International Enterprises:\nDeHaat International Enterprises is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Write clean, maintainable, and well-documented code\n• Participate in on-call rotation for production support\n• Collaborate with cross-functional teams including product, design, and QA\n• Design, develop and maintain scalable software applications\n• Integrate third-party APIs and services\n• Contribute to system architecture and technical design decisions\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 6-10 years of relevant experience\n• Proficiency in Agile/Scrum\n• Proficiency in TypeScript\n• Proficiency in Microservices\n• Proficiency in JavaScript\n• Proficiency in Python\n• Proficiency in AWS\n• Proficiency in Java\n• Proficiency in Node.js\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Annual performance appraisal\n• Competitive salary with performance-linked incentives\n• Company-sponsored certifications\n• Comprehensive health insurance for self and family\n• International travel opportunities for senior roles\n• Learning & development budget\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Dhanbad, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with DeHaat International Enterprises!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "DeHaat International Enterprises",
+      "value": "1028-1-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "DeHaat International Enterprises",
+      "sameAs": "https://www.google.com/search?q=DeHaat%20International%20Enterprises",
+      "logo": "https://logo.clearbit.com/dehaatinternationalenterprises.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "DeHaat International Enterprises Office",
+        "addressLocality": "Dhanbad",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Agile/Scrum, TypeScript, Microservices, JavaScript, Python, AWS, Java, Node.js",
+    "responsibilities": "Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Write clean, maintainable, and well-documented code. Participate in on-call rotation for production support. Collaborate with cross-functional teams including product, design, and QA. Design, develop and maintain scalable software applications. Integrate third-party APIs and services. Contribute to system architecture and technical design decisions",
+    "benefits": "Annual performance appraisal. Competitive salary with performance-linked incentives. Company-sponsored certifications. Comprehensive health insurance for self and family. International travel opportunities for senior roles. Learning & development budget",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual performance appraisal, Competitive salary with performance-linked incentives, Company-sponsored certifications, Comprehensive health insurance for self and family, International travel opportunities for senior roles, Learning & development budget"
+  },
+  "meta": {
+    "description": "Join the DeHaat International Enterprises family as a Senior Software Engineer in Dhanbad. We believe in empowering our employees with the tools, training, and ",
+    "keywords": "Senior Software Engineer, DeHaat International Enterprises, jobs in Dhanbad, Jharkhand jobs, technology jobs India, Agile/Scrum, TypeScript, Microservices, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:51:51.286Z",
+  "page": 256
+}
