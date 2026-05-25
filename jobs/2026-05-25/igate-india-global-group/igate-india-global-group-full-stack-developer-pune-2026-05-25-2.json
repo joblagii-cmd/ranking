@@ -1,0 +1,93 @@
+{
+  "slug": "igate-india-global-group-full-stack-developer-pune-2026-05-25-2",
+  "title": "iGate India Global Group is Hiring: Full Stack Developer (Principal)",
+  "company": "iGate India Global Group",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Pune",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "JavaScript",
+    "Agile/Scrum",
+    "Java",
+    "REST APIs",
+    "CI/CD",
+    "TypeScript",
+    "Go",
+    "Machine Learning"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "iGate India Global Group is Hiring: Full Stack Developer (Principal)",
+    "description": "iGate India Global Group, one of India's leading organizations, is hiring a Full Stack Developer for our Pune operations. We offer a competitive salary package along with world-class benefits.\n\nAbout iGate India Global Group:\niGate India Global Group is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write and execute unit tests and integration tests\n• Participate in on-call rotation for production support\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Implement new features based on product requirements\n• Collaborate with cross-functional teams including product, design, and QA\n• Contribute to system architecture and technical design decisions\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 0-1 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Agile/Scrum\n• Proficiency in Java\n• Proficiency in REST APIs\n• Proficiency in CI/CD\n• Proficiency in TypeScript\n• Proficiency in Go\n• Proficiency in Machine Learning\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Learning & development budget\n• International travel opportunities for senior roles\n• Flexible working hours\n• Professional development and training programs\n• Annual paid leaves and casual leaves\n• Maternity and paternity leave\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Pune, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with iGate India Global Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "iGate India Global Group",
+      "value": "987-2-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "iGate India Global Group",
+      "sameAs": "https://www.google.com/search?q=iGate%20India%20Global%20Group",
+      "logo": "https://logo.clearbit.com/igateindiaglobalgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "iGate India Global Group Office",
+        "addressLocality": "Pune",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "JavaScript, Agile/Scrum, Java, REST APIs, CI/CD, TypeScript, Go, Machine Learning",
+    "responsibilities": "Write and execute unit tests and integration tests. Participate in on-call rotation for production support. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Mentor junior developers and conduct knowledge-sharing sessions. Implement new features based on product requirements. Collaborate with cross-functional teams including product, design, and QA. Contribute to system architecture and technical design decisions",
+    "benefits": "Learning & development budget. International travel opportunities for senior roles. Flexible working hours. Professional development and training programs. Annual paid leaves and casual leaves. Maternity and paternity leave",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Learning & development budget, International travel opportunities for senior roles, Flexible working hours, Professional development and training programs, Annual paid leaves and casual leaves, Maternity and paternity leave"
+  },
+  "meta": {
+    "description": "iGate India Global Group, one of India's leading organizations, is hiring a Full Stack Developer for our Pune operations. We offer a competitive salary package ",
+    "keywords": "Full Stack Developer, iGate India Global Group, jobs in Pune, Maharashtra jobs, technology jobs India, JavaScript, Agile/Scrum, Java, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:50:31.341Z",
+  "page": 246
+}

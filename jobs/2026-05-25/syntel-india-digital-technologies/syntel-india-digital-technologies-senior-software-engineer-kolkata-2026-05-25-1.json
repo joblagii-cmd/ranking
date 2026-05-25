@@ -1,0 +1,94 @@
+{
+  "slug": "syntel-india-digital-technologies-senior-software-engineer-kolkata-2026-05-25-1",
+  "title": "Senior Software Engineer - Syntel India Digital Technologies - 2025 Hiring Drive",
+  "company": "Syntel India Digital Technologies",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "CI/CD",
+    "Docker",
+    "React",
+    "Rust",
+    "Java",
+    "Python",
+    "TypeScript",
+    "AWS"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Syntel India Digital Technologies - 2025 Hiring Drive",
+    "description": "Syntel India Digital Technologies, one of India's leading organizations, is hiring a Senior Software Engineer for our Kolkata operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Syntel India Digital Technologies:\nSyntel India Digital Technologies is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Write clean, maintainable, and well-documented code\n• Integrate third-party APIs and services\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Contribute to system architecture and technical design decisions\n• Optimize application performance and ensure high availability\n• Participate in code reviews and contribute to technical discussions\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 3-6 years of relevant experience\n• Proficiency in CI/CD\n• Proficiency in Docker\n• Proficiency in React\n• Proficiency in Rust\n• Proficiency in Java\n• Proficiency in Python\n• Proficiency in TypeScript\n• Proficiency in AWS\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Employee stock options (ESOPs) for eligible roles\n• Transportation and conveyance allowance\n• Comprehensive health insurance for self and family\n• Work-from-home flexibility\n• Flexible working hours\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Kolkata, West Bengal, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Syntel India Digital Technologies!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Syntel India Digital Technologies",
+      "value": "986-1-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Syntel India Digital Technologies",
+      "sameAs": "https://www.google.com/search?q=Syntel%20India%20Digital%20Technologies",
+      "logo": "https://logo.clearbit.com/syntelindiadigitaltechnologies.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Syntel India Digital Technologies Office",
+        "addressLocality": "Kolkata",
+        "addressRegion": "West Bengal",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "CI/CD, Docker, React, Rust, Java, Python, TypeScript, AWS",
+    "responsibilities": "Design, develop and maintain scalable software applications. Write clean, maintainable, and well-documented code. Integrate third-party APIs and services. Troubleshoot, debug, and resolve software defects and performance issues. Contribute to system architecture and technical design decisions. Optimize application performance and ensure high availability. Participate in code reviews and contribute to technical discussions",
+    "benefits": "Competitive salary with performance-linked incentives. Employee stock options (ESOPs) for eligible roles. Transportation and conveyance allowance. Comprehensive health insurance for self and family. Work-from-home flexibility. Flexible working hours",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Employee stock options (ESOPs) for eligible roles, Transportation and conveyance allowance, Comprehensive health insurance for self and family, Work-from-home flexibility, Flexible working hours"
+  },
+  "meta": {
+    "description": "Syntel India Digital Technologies, one of India's leading organizations, is hiring a Senior Software Engineer for our Kolkata operations. We offer a competitive",
+    "keywords": "Senior Software Engineer, Syntel India Digital Technologies, jobs in Kolkata, West Bengal jobs, technology jobs India, CI/CD, Docker, React, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:50:31.341Z",
+  "page": 246
+}

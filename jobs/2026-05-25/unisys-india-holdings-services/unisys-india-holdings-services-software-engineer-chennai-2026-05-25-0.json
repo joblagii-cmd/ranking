@@ -1,0 +1,94 @@
+{
+  "slug": "unisys-india-holdings-services-software-engineer-chennai-2026-05-25-0",
+  "title": "Now Hiring Software Engineer at Unisys India Holdings Services",
+  "company": "Unisys India Holdings Services",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Node.js",
+    "Microservices",
+    "Kubernetes",
+    "TensorFlow",
+    "Go",
+    "JavaScript",
+    "MongoDB",
+    "Agile/Scrum"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Now Hiring Software Engineer at Unisys India Holdings Services",
+    "description": "Unisys India Holdings Services, one of India's leading organizations, is hiring a Software Engineer for our Chennai operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Unisys India Holdings Services:\nUnisys India Holdings Services is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Optimize application performance and ensure high availability\n• Write clean, maintainable, and well-documented code\n• Participate in code reviews and contribute to technical discussions\n• Collaborate with cross-functional teams including product, design, and QA\n• Contribute to system architecture and technical design decisions\n• Participate in on-call rotation for production support\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 10-15 years of relevant experience\n• Proficiency in Node.js\n• Proficiency in Microservices\n• Proficiency in Kubernetes\n• Proficiency in TensorFlow\n• Proficiency in Go\n• Proficiency in JavaScript\n• Proficiency in MongoDB\n• Proficiency in Agile/Scrum\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Mobile and internet reimbursement\n• Competitive salary with performance-linked incentives\n• Annual performance appraisal\n• Annual paid leaves and casual leaves\n• International travel opportunities for senior roles\n• Learning & development budget\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Chennai, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Unisys India Holdings Services!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Unisys India Holdings Services",
+      "value": "985-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Unisys India Holdings Services",
+      "sameAs": "https://www.google.com/search?q=Unisys%20India%20Holdings%20Services",
+      "logo": "https://logo.clearbit.com/unisysindiaholdingsservices.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Unisys India Holdings Services Office",
+        "addressLocality": "Chennai",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "Node.js, Microservices, Kubernetes, TensorFlow, Go, JavaScript, MongoDB, Agile/Scrum",
+    "responsibilities": "Design, develop and maintain scalable software applications. Optimize application performance and ensure high availability. Write clean, maintainable, and well-documented code. Participate in code reviews and contribute to technical discussions. Collaborate with cross-functional teams including product, design, and QA. Contribute to system architecture and technical design decisions. Participate in on-call rotation for production support",
+    "benefits": "Mobile and internet reimbursement. Competitive salary with performance-linked incentives. Annual performance appraisal. Annual paid leaves and casual leaves. International travel opportunities for senior roles. Learning & development budget",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Mobile and internet reimbursement, Competitive salary with performance-linked incentives, Annual performance appraisal, Annual paid leaves and casual leaves, International travel opportunities for senior roles, Learning & development budget"
+  },
+  "meta": {
+    "description": "Unisys India Holdings Services, one of India's leading organizations, is hiring a Software Engineer for our Chennai operations. We offer a competitive salary pa",
+    "keywords": "Software Engineer, Unisys India Holdings Services, jobs in Chennai, Tamil Nadu jobs, technology jobs India, Node.js, Microservices, Kubernetes, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:50:31.341Z",
+  "page": 246
+}

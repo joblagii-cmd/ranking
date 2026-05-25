@@ -1,0 +1,93 @@
+{
+  "slug": "unisys-india-holdings-services-senior-software-engineer-chennai-2026-05-25-1",
+  "title": "Senior Software Engineer - Unisys India Holdings Services - 2025 Hiring Drive",
+  "company": "Unisys India Holdings Services",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Kubernetes",
+    "Microservices",
+    "Rust",
+    "Docker",
+    "TypeScript",
+    "Node.js",
+    "JavaScript",
+    "TensorFlow"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Unisys India Holdings Services - 2025 Hiring Drive",
+    "description": "Unisys India Holdings Services, one of India's leading organizations, is hiring a Senior Software Engineer for our Chennai operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Unisys India Holdings Services:\nUnisys India Holdings Services is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure code security and follow best practices for data protection\n• Design, develop and maintain scalable software applications\n• Write and execute unit tests and integration tests\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Optimize application performance and ensure high availability\n• Collaborate with cross-functional teams including product, design, and QA\n• Work with agile methodologies including daily stand-ups and sprint planning\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 6-10 years of relevant experience\n• Proficiency in Kubernetes\n• Proficiency in Microservices\n• Proficiency in Rust\n• Proficiency in Docker\n• Proficiency in TypeScript\n• Proficiency in Node.js\n• Proficiency in JavaScript\n• Proficiency in TensorFlow\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• International travel opportunities for senior roles\n• Company-sponsored certifications\n• Learning & development budget\n• Recognition and rewards programs\n• Transportation and conveyance allowance\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Chennai, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Unisys India Holdings Services!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Unisys India Holdings Services",
+      "value": "985-1-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Unisys India Holdings Services",
+      "sameAs": "https://www.google.com/search?q=Unisys%20India%20Holdings%20Services",
+      "logo": "https://logo.clearbit.com/unisysindiaholdingsservices.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Unisys India Holdings Services Office",
+        "addressLocality": "Chennai",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "Kubernetes, Microservices, Rust, Docker, TypeScript, Node.js, JavaScript, TensorFlow",
+    "responsibilities": "Ensure code security and follow best practices for data protection. Design, develop and maintain scalable software applications. Write and execute unit tests and integration tests. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Optimize application performance and ensure high availability. Collaborate with cross-functional teams including product, design, and QA. Work with agile methodologies including daily stand-ups and sprint planning",
+    "benefits": "Annual paid leaves and casual leaves. International travel opportunities for senior roles. Company-sponsored certifications. Learning & development budget. Recognition and rewards programs. Transportation and conveyance allowance",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, International travel opportunities for senior roles, Company-sponsored certifications, Learning & development budget, Recognition and rewards programs, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "Unisys India Holdings Services, one of India's leading organizations, is hiring a Senior Software Engineer for our Chennai operations. We offer a competitive sa",
+    "keywords": "Senior Software Engineer, Unisys India Holdings Services, jobs in Chennai, Tamil Nadu jobs, technology jobs India, Kubernetes, Microservices, Rust, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:50:31.341Z",
+  "page": 246
+}
