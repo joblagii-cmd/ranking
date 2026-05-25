@@ -1,0 +1,94 @@
+{
+  "slug": "teamlease-skills-university-teacher-delhi-2026-05-25-0",
+  "title": "Job Opening Teacher at TeamLease Skills University",
+  "company": "TeamLease Skills University",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "E-learning",
+    "IB Curriculum",
+    "Curriculum Development",
+    "Mentoring",
+    "Communication Skills",
+    "Lesson Planning",
+    "Child Psychology",
+    "Data Analysis"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Job Opening Teacher at TeamLease Skills University",
+    "description": "Join the TeamLease Skills University family as a Teacher in Delhi. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout TeamLease Skills University:\nTeamLease Skills University is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design formative and summative assessments aligned to learning objectives\n• Develop and deliver engaging lesson plans for students\n• Create curriculum-aligned learning materials and assessments\n• Support students with special educational needs\n• Conduct doubt-clearing sessions and remedial classes for weak students\n• Maintain student records and prepare progress reports\n• Conduct parent-teacher meetings and update parents on student performance\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 12-20 years of relevant experience\n• Proficiency in E-learning\n• Proficiency in IB Curriculum\n• Proficiency in Curriculum Development\n• Proficiency in Mentoring\n• Proficiency in Communication Skills\n• Proficiency in Lesson Planning\n• Proficiency in Child Psychology\n• Proficiency in Data Analysis\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Recognition and rewards programs\n• International travel opportunities for senior roles\n• Annual paid leaves and casual leaves\n• Learning & development budget\n• Transportation and conveyance allowance\n• Annual performance appraisal\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Delhi, Delhi, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with TeamLease Skills University!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "TeamLease Skills University",
+      "value": "565-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "TeamLease Skills University",
+      "sameAs": "https://www.google.com/search?q=TeamLease%20Skills%20University",
+      "logo": "https://logo.clearbit.com/teamleaseskillsuniversity.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "TeamLease Skills University Office",
+        "addressLocality": "Delhi",
+        "addressRegion": "Delhi",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "E-learning, IB Curriculum, Curriculum Development, Mentoring, Communication Skills, Lesson Planning, Child Psychology, Data Analysis",
+    "responsibilities": "Design formative and summative assessments aligned to learning objectives. Develop and deliver engaging lesson plans for students. Create curriculum-aligned learning materials and assessments. Support students with special educational needs. Conduct doubt-clearing sessions and remedial classes for weak students. Maintain student records and prepare progress reports. Conduct parent-teacher meetings and update parents on student performance",
+    "benefits": "Recognition and rewards programs. International travel opportunities for senior roles. Annual paid leaves and casual leaves. Learning & development budget. Transportation and conveyance allowance. Annual performance appraisal",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Recognition and rewards programs, International travel opportunities for senior roles, Annual paid leaves and casual leaves, Learning & development budget, Transportation and conveyance allowance, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "Join the TeamLease Skills University family as a Teacher in Delhi. We believe in empowering our employees with the tools, training, and environment they need to",
+    "keywords": "Teacher, TeamLease Skills University, jobs in Delhi, Delhi jobs, education jobs India, E-learning, IB Curriculum, Curriculum Development, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:36:26.958Z",
+  "page": 141
+}
