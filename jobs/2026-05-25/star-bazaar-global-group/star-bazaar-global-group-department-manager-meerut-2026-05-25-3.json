@@ -1,0 +1,93 @@
+{
+  "slug": "star-bazaar-global-group-department-manager-meerut-2026-05-25-3",
+  "title": "Department Manager Vacancy at Star Bazaar Global Group - 2026 Batch",
+  "company": "Star Bazaar Global Group",
+  "industry": "retail",
+  "role": "Department Manager",
+  "location": {
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Loss Prevention",
+    "Retail Operations",
+    "POS Systems",
+    "Omnichannel Retail",
+    "MS Excel",
+    "Planogram",
+    "SAP Retail",
+    "Retail Analytics"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Department Manager Vacancy at Star Bazaar Global Group - 2026 Batch",
+    "description": "Star Bazaar Global Group invites applications from qualified candidates for the position of Department Manager at our Meerut location. This role offers excellent career advancement prospects.\n\nAbout Star Bazaar Global Group:\nStar Bazaar Global Group is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Manage store operations to ensure smooth daily functioning\n• Implement promotional activities and in-store campaigns\n• Build relationships with regular customers to drive loyalty\n• Maintain high standards of store hygiene and cleanliness\n• Ensure compliance with company policies and retail regulations\n• Assist in recruiting, onboarding, and performance management of staff\n• Coordinate with the supply chain team for timely stock delivery\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 0-1 years of relevant experience\n• Proficiency in Loss Prevention\n• Proficiency in Retail Operations\n• Proficiency in POS Systems\n• Proficiency in Omnichannel Retail\n• Proficiency in MS Excel\n• Proficiency in Planogram\n• Proficiency in SAP Retail\n• Proficiency in Retail Analytics\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Work-from-home flexibility\n• Learning & development budget\n• Competitive salary with performance-linked incentives\n• Flexible working hours\n• Comprehensive health insurance for self and family\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Meerut, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Star Bazaar Global Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Star Bazaar Global Group",
+      "value": "1517-3-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Star Bazaar Global Group",
+      "sameAs": "https://www.google.com/search?q=Star%20Bazaar%20Global%20Group",
+      "logo": "https://logo.clearbit.com/starbazaarglobalgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Star Bazaar Global Group Office",
+        "addressLocality": "Meerut",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "Loss Prevention, Retail Operations, POS Systems, Omnichannel Retail, MS Excel, Planogram, SAP Retail, Retail Analytics",
+    "responsibilities": "Manage store operations to ensure smooth daily functioning. Implement promotional activities and in-store campaigns. Build relationships with regular customers to drive loyalty. Maintain high standards of store hygiene and cleanliness. Ensure compliance with company policies and retail regulations. Assist in recruiting, onboarding, and performance management of staff. Coordinate with the supply chain team for timely stock delivery",
+    "benefits": "Transportation and conveyance allowance. Work-from-home flexibility. Learning & development budget. Competitive salary with performance-linked incentives. Flexible working hours. Comprehensive health insurance for self and family",
+    "industry": "retail",
+    "occupationalCategory": "Department Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Work-from-home flexibility, Learning & development budget, Competitive salary with performance-linked incentives, Flexible working hours, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "Star Bazaar Global Group invites applications from qualified candidates for the position of Department Manager at our Meerut location. This role offers excellen",
+    "keywords": "Department Manager, Star Bazaar Global Group, jobs in Meerut, Uttar Pradesh jobs, retail jobs India, Loss Prevention, Retail Operations, POS Systems, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T07:09:30.428Z",
+  "page": 379
+}
