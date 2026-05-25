@@ -1,0 +1,93 @@
+{
+  "slug": "rites-warehouse-manager-gurgaon-2026-05-25-2",
+  "title": "RITES is Hiring: Warehouse Manager (Mid-Level)",
+  "company": "RITES",
+  "industry": "logistics",
+  "role": "Warehouse Manager",
+  "location": {
+    "city": "Gurgaon",
+    "state": "Haryana",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Supply Chain Management",
+    "SAP SCM",
+    "3PL Management",
+    "Reverse Logistics",
+    "MS Excel",
+    "Last Mile Delivery",
+    "INCOTERMS",
+    "Route Optimization"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "RITES is Hiring: Warehouse Manager (Mid-Level)",
+    "description": "Join the RITES family as a Warehouse Manager in Gurgaon. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout RITES:\nRITES is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Oversee end-to-end logistics operations for timely delivery\n• Manage a fleet of vehicles and coordinate with drivers\n• Optimize delivery routes to reduce cost and improve efficiency\n• Track shipments in real-time and resolve delivery exceptions\n• Coordinate with warehousing teams for inbound and outbound operations\n• Manage relationships with third-party logistics providers\n• Manage reverse logistics and return merchandise authorization\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 10-15 years of relevant experience\n• Proficiency in Supply Chain Management\n• Proficiency in SAP SCM\n• Proficiency in 3PL Management\n• Proficiency in Reverse Logistics\n• Proficiency in MS Excel\n• Proficiency in Last Mile Delivery\n• Proficiency in INCOTERMS\n• Proficiency in Route Optimization\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Annual performance appraisal\n• Referral bonus program\n• Learning & development budget\n• Company-sponsored certifications\n• Work-from-home flexibility\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Gurgaon, Haryana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with RITES!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "RITES",
+      "value": "803-2-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "RITES",
+      "sameAs": "https://www.google.com/search?q=RITES",
+      "logo": "https://logo.clearbit.com/rites.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "RITES Office",
+        "addressLocality": "Gurgaon",
+        "addressRegion": "Haryana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "Supply Chain Management, SAP SCM, 3PL Management, Reverse Logistics, MS Excel, Last Mile Delivery, INCOTERMS, Route Optimization",
+    "responsibilities": "Oversee end-to-end logistics operations for timely delivery. Manage a fleet of vehicles and coordinate with drivers. Optimize delivery routes to reduce cost and improve efficiency. Track shipments in real-time and resolve delivery exceptions. Coordinate with warehousing teams for inbound and outbound operations. Manage relationships with third-party logistics providers. Manage reverse logistics and return merchandise authorization",
+    "benefits": "Annual paid leaves and casual leaves. Annual performance appraisal. Referral bonus program. Learning & development budget. Company-sponsored certifications. Work-from-home flexibility",
+    "industry": "logistics",
+    "occupationalCategory": "Warehouse Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Annual performance appraisal, Referral bonus program, Learning & development budget, Company-sponsored certifications, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "Join the RITES family as a Warehouse Manager in Gurgaon. We believe in empowering our employees with the tools, training, and environment they need to succeed.",
+    "keywords": "Warehouse Manager, RITES, jobs in Gurgaon, Haryana jobs, logistics jobs India, Supply Chain Management, SAP SCM, 3PL Management, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:44:19.786Z",
+  "page": 200
+}
