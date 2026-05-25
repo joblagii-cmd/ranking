@@ -1,0 +1,93 @@
+{
+  "slug": "prince-pipes-process-engineer-mysuru-2026-05-25-3",
+  "title": "Process Engineer Vacancy at Prince Pipes - 2026 Batch",
+  "company": "Prince Pipes",
+  "industry": "manufacturing",
+  "role": "Process Engineer",
+  "location": {
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Quality Control",
+    "ISO 9001",
+    "5S",
+    "Supply Chain Management",
+    "PLC/SCADA",
+    "TPM",
+    "APQP",
+    "Kaizen"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Process Engineer Vacancy at Prince Pipes - 2026 Batch",
+    "description": "Prince Pipes has an exciting opening for a Process Engineer at our Mysuru office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Prince Pipes:\nPrince Pipes is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure compliance with safety regulations and factory acts\n• Maintain accurate production records and prepare daily reports\n• Manage supplier quality audits and vendor development\n• Monitor equipment performance and coordinate preventive maintenance\n• Coordinate with design and engineering teams on product improvements\n• Coordinate with logistics for dispatching finished goods\n• Implement lean manufacturing and continuous improvement initiatives\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 6-10 years of relevant experience\n• Proficiency in Quality Control\n• Proficiency in ISO 9001\n• Proficiency in 5S\n• Proficiency in Supply Chain Management\n• Proficiency in PLC/SCADA\n• Proficiency in TPM\n• Proficiency in APQP\n• Proficiency in Kaizen\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Annual performance appraisal\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Modern office with recreational facilities\n• Meal coupons and food allowance\n• Transportation and conveyance allowance\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Mysuru, Karnataka, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Prince Pipes!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Prince Pipes",
+      "value": "473-3-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Prince Pipes",
+      "sameAs": "https://www.google.com/search?q=Prince%20Pipes",
+      "logo": "https://logo.clearbit.com/princepipes.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Prince Pipes Office",
+        "addressLocality": "Mysuru",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "Quality Control, ISO 9001, 5S, Supply Chain Management, PLC/SCADA, TPM, APQP, Kaizen",
+    "responsibilities": "Ensure compliance with safety regulations and factory acts. Maintain accurate production records and prepare daily reports. Manage supplier quality audits and vendor development. Monitor equipment performance and coordinate preventive maintenance. Coordinate with design and engineering teams on product improvements. Coordinate with logistics for dispatching finished goods. Implement lean manufacturing and continuous improvement initiatives",
+    "benefits": "Annual performance appraisal. Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Modern office with recreational facilities. Meal coupons and food allowance. Transportation and conveyance allowance",
+    "industry": "manufacturing",
+    "occupationalCategory": "Process Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual performance appraisal, Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Modern office with recreational facilities, Meal coupons and food allowance, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "Prince Pipes has an exciting opening for a Process Engineer at our Mysuru office. Join a company that values innovation, collaboration, and continuous learning.",
+    "keywords": "Process Engineer, Prince Pipes, jobs in Mysuru, Karnataka jobs, manufacturing jobs India, Quality Control, ISO 9001, 5S, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:33:21.868Z",
+  "page": 118
+}

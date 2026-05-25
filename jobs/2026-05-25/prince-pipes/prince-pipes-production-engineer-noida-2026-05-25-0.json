@@ -1,0 +1,93 @@
+{
+  "slug": "prince-pipes-production-engineer-noida-2026-05-25-0",
+  "title": "Opening for Production Engineer at Prince Pipes",
+  "company": "Prince Pipes",
+  "industry": "manufacturing",
+  "role": "Production Engineer",
+  "location": {
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "SAP MM/PP",
+    "Project Management",
+    "ERP Systems",
+    "PPAP",
+    "SolidWorks",
+    "AutoCAD",
+    "TPM",
+    "APQP"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Opening for Production Engineer at Prince Pipes",
+    "description": "Prince Pipes has an exciting opening for a Production Engineer at our Noida office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Prince Pipes:\nPrince Pipes is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Maintain accurate production records and prepare daily reports\n• Manage raw material procurement and inventory levels\n• Monitor equipment performance and coordinate preventive maintenance\n• Implement lean manufacturing and continuous improvement initiatives\n• Ensure compliance with safety regulations and factory acts\n• Manage supplier quality audits and vendor development\n• Ensure product quality meets internal and customer specifications\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 1-3 years of relevant experience\n• Proficiency in SAP MM/PP\n• Proficiency in Project Management\n• Proficiency in ERP Systems\n• Proficiency in PPAP\n• Proficiency in SolidWorks\n• Proficiency in AutoCAD\n• Proficiency in TPM\n• Proficiency in APQP\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Referral bonus program\n• Maternity and paternity leave\n• Annual paid leaves and casual leaves\n• Company-sponsored certifications\n• Professional development and training programs\n• Transportation and conveyance allowance\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Noida, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Prince Pipes!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Prince Pipes",
+      "value": "473-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Prince Pipes",
+      "sameAs": "https://www.google.com/search?q=Prince%20Pipes",
+      "logo": "https://logo.clearbit.com/princepipes.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Prince Pipes Office",
+        "addressLocality": "Noida",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "SAP MM/PP, Project Management, ERP Systems, PPAP, SolidWorks, AutoCAD, TPM, APQP",
+    "responsibilities": "Maintain accurate production records and prepare daily reports. Manage raw material procurement and inventory levels. Monitor equipment performance and coordinate preventive maintenance. Implement lean manufacturing and continuous improvement initiatives. Ensure compliance with safety regulations and factory acts. Manage supplier quality audits and vendor development. Ensure product quality meets internal and customer specifications",
+    "benefits": "Referral bonus program. Maternity and paternity leave. Annual paid leaves and casual leaves. Company-sponsored certifications. Professional development and training programs. Transportation and conveyance allowance",
+    "industry": "manufacturing",
+    "occupationalCategory": "Production Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Referral bonus program, Maternity and paternity leave, Annual paid leaves and casual leaves, Company-sponsored certifications, Professional development and training programs, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "Prince Pipes has an exciting opening for a Production Engineer at our Noida office. Join a company that values innovation, collaboration, and continuous learnin",
+    "keywords": "Production Engineer, Prince Pipes, jobs in Noida, Uttar Pradesh jobs, manufacturing jobs India, SAP MM/PP, Project Management, ERP Systems, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:33:21.867Z",
+  "page": 118
+}
