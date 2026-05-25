@@ -1,0 +1,93 @@
+{
+  "slug": "jk-tyre-ventures-solutions-plant-manager-ahmedabad-2026-05-25-4",
+  "title": "Entry-Level Plant Manager at JK Tyre Ventures Solutions",
+  "company": "JK Tyre Ventures Solutions",
+  "industry": "manufacturing",
+  "role": "Plant Manager",
+  "location": {
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "ISO 9001",
+    "SolidWorks",
+    "GD&T",
+    "Lean Manufacturing",
+    "AutoCAD",
+    "SAP MM/PP",
+    "Project Management",
+    "Six Sigma"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Entry-Level Plant Manager at JK Tyre Ventures Solutions",
+    "description": "JK Tyre Ventures Solutions has an exciting opening for a Plant Manager at our Ahmedabad office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout JK Tyre Ventures Solutions:\nJK Tyre Ventures Solutions is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with design and engineering teams on product improvements\n• Oversee daily production operations to meet output targets\n• Ensure product quality meets internal and customer specifications\n• Conduct root cause analysis for quality rejections and defects\n• Ensure compliance with safety regulations and factory acts\n• Implement lean manufacturing and continuous improvement initiatives\n• Train and supervise shop floor workers and supervisors\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 1-3 years of relevant experience\n• Proficiency in ISO 9001\n• Proficiency in SolidWorks\n• Proficiency in GD&T\n• Proficiency in Lean Manufacturing\n• Proficiency in AutoCAD\n• Proficiency in SAP MM/PP\n• Proficiency in Project Management\n• Proficiency in Six Sigma\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Competitive salary with performance-linked incentives\n• Mobile and internet reimbursement\n• Annual performance appraisal\n• Recognition and rewards programs\n• Comprehensive health insurance for self and family\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Ahmedabad, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with JK Tyre Ventures Solutions!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "JK Tyre Ventures Solutions",
+      "value": "1404-4-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "JK Tyre Ventures Solutions",
+      "sameAs": "https://www.google.com/search?q=JK%20Tyre%20Ventures%20Solutions",
+      "logo": "https://logo.clearbit.com/jktyreventuressolutions.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "JK Tyre Ventures Solutions Office",
+        "addressLocality": "Ahmedabad",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "ISO 9001, SolidWorks, GD&T, Lean Manufacturing, AutoCAD, SAP MM/PP, Project Management, Six Sigma",
+    "responsibilities": "Coordinate with design and engineering teams on product improvements. Oversee daily production operations to meet output targets. Ensure product quality meets internal and customer specifications. Conduct root cause analysis for quality rejections and defects. Ensure compliance with safety regulations and factory acts. Implement lean manufacturing and continuous improvement initiatives. Train and supervise shop floor workers and supervisors",
+    "benefits": "Work-from-home flexibility. Competitive salary with performance-linked incentives. Mobile and internet reimbursement. Annual performance appraisal. Recognition and rewards programs. Comprehensive health insurance for self and family",
+    "industry": "manufacturing",
+    "occupationalCategory": "Plant Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Competitive salary with performance-linked incentives, Mobile and internet reimbursement, Annual performance appraisal, Recognition and rewards programs, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "JK Tyre Ventures Solutions has an exciting opening for a Plant Manager at our Ahmedabad office. Join a company that values innovation, collaboration, and contin",
+    "keywords": "Plant Manager, JK Tyre Ventures Solutions, jobs in Ahmedabad, Gujarat jobs, manufacturing jobs India, ISO 9001, SolidWorks, GD&T, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T07:05:01.183Z",
+  "page": 350
+}
