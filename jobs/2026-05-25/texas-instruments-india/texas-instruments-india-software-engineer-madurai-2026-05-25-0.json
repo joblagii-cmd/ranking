@@ -1,0 +1,93 @@
+{
+  "slug": "texas-instruments-india-software-engineer-madurai-2026-05-25-0",
+  "title": "Walk-in Drive Software Engineer at Texas Instruments India",
+  "company": "Texas Instruments India",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Madurai",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "TypeScript",
+    "React",
+    "MongoDB",
+    "TensorFlow",
+    "Agile/Scrum",
+    "Kubernetes",
+    "Microservices",
+    "Python"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Walk-in Drive Software Engineer at Texas Instruments India",
+    "description": "Texas Instruments India, one of India's leading organizations, is hiring a Software Engineer for our Madurai operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Texas Instruments India:\nTexas Instruments India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Optimize application performance and ensure high availability\n• Participate in on-call rotation for production support\n• Write and execute unit tests and integration tests\n• Ensure code security and follow best practices for data protection\n• Collaborate with cross-functional teams including product, design, and QA\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 0-1 years of relevant experience\n• Proficiency in TypeScript\n• Proficiency in React\n• Proficiency in MongoDB\n• Proficiency in TensorFlow\n• Proficiency in Agile/Scrum\n• Proficiency in Kubernetes\n• Proficiency in Microservices\n• Proficiency in Python\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Referral bonus program\n• Work-from-home flexibility\n• Company-sponsored certifications\n• Professional development and training programs\n• Annual performance appraisal\n• Learning & development budget\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Madurai, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Texas Instruments India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Texas Instruments India",
+      "value": "48-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Texas Instruments India",
+      "sameAs": "https://www.google.com/search?q=Texas%20Instruments%20India",
+      "logo": "https://logo.clearbit.com/texasinstrumentsindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Texas Instruments India Office",
+        "addressLocality": "Madurai",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "TypeScript, React, MongoDB, TensorFlow, Agile/Scrum, Kubernetes, Microservices, Python",
+    "responsibilities": "Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Troubleshoot, debug, and resolve software defects and performance issues. Optimize application performance and ensure high availability. Participate in on-call rotation for production support. Write and execute unit tests and integration tests. Ensure code security and follow best practices for data protection. Collaborate with cross-functional teams including product, design, and QA",
+    "benefits": "Referral bonus program. Work-from-home flexibility. Company-sponsored certifications. Professional development and training programs. Annual performance appraisal. Learning & development budget",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Referral bonus program, Work-from-home flexibility, Company-sponsored certifications, Professional development and training programs, Annual performance appraisal, Learning & development budget"
+  },
+  "meta": {
+    "description": "Texas Instruments India, one of India's leading organizations, is hiring a Software Engineer for our Madurai operations. We offer a competitive salary package a",
+    "keywords": "Software Engineer, Texas Instruments India, jobs in Madurai, Tamil Nadu jobs, technology jobs India, TypeScript, React, MongoDB, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:18:44.260Z",
+  "page": 11
+}

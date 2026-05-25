@@ -1,0 +1,93 @@
+{
+  "slug": "intel-india-senior-software-engineer-jodhpur-2026-05-25-1",
+  "title": "Senior Software Engineer - Intel India - Freshers Welcome",
+  "company": "Intel India",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Docker",
+    "JavaScript",
+    "Machine Learning",
+    "REST APIs",
+    "TypeScript",
+    "Python",
+    "Rust",
+    "TensorFlow"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Intel India - Freshers Welcome",
+    "description": "Intel India, one of India's leading organizations, is hiring a Senior Software Engineer for our Jodhpur operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Intel India:\nIntel India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Participate in on-call rotation for production support\n• Write clean, maintainable, and well-documented code\n• Ensure code security and follow best practices for data protection\n• Collaborate with cross-functional teams including product, design, and QA\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Mentor junior developers and conduct knowledge-sharing sessions\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 3-6 years of relevant experience\n• Proficiency in Docker\n• Proficiency in JavaScript\n• Proficiency in Machine Learning\n• Proficiency in REST APIs\n• Proficiency in TypeScript\n• Proficiency in Python\n• Proficiency in Rust\n• Proficiency in TensorFlow\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Maternity and paternity leave\n• Transportation and conveyance allowance\n• Employee stock options (ESOPs) for eligible roles\n• Referral bonus program\n• Flexible working hours\n• Learning & development budget\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Jodhpur, Rajasthan, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Intel India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Intel India",
+      "value": "46-1-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Intel India",
+      "sameAs": "https://www.google.com/search?q=Intel%20India",
+      "logo": "https://logo.clearbit.com/intelindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Intel India Office",
+        "addressLocality": "Jodhpur",
+        "addressRegion": "Rajasthan",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Docker, JavaScript, Machine Learning, REST APIs, TypeScript, Python, Rust, TensorFlow",
+    "responsibilities": "Design, develop and maintain scalable software applications. Participate in on-call rotation for production support. Write clean, maintainable, and well-documented code. Ensure code security and follow best practices for data protection. Collaborate with cross-functional teams including product, design, and QA. Work with agile methodologies including daily stand-ups and sprint planning. Mentor junior developers and conduct knowledge-sharing sessions",
+    "benefits": "Maternity and paternity leave. Transportation and conveyance allowance. Employee stock options (ESOPs) for eligible roles. Referral bonus program. Flexible working hours. Learning & development budget",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Maternity and paternity leave, Transportation and conveyance allowance, Employee stock options (ESOPs) for eligible roles, Referral bonus program, Flexible working hours, Learning & development budget"
+  },
+  "meta": {
+    "description": "Intel India, one of India's leading organizations, is hiring a Senior Software Engineer for our Jodhpur operations. We offer a competitive salary package along ",
+    "keywords": "Senior Software Engineer, Intel India, jobs in Jodhpur, Rajasthan jobs, technology jobs India, Docker, JavaScript, Machine Learning, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:18:44.260Z",
+  "page": 11
+}
