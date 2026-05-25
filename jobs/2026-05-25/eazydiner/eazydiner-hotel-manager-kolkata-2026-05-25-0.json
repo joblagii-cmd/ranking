@@ -1,0 +1,93 @@
+{
+  "slug": "eazydiner-hotel-manager-kolkata-2026-05-25-0",
+  "title": "Job Opening Hotel Manager at EazyDiner",
+  "company": "EazyDiner",
+  "industry": "hospitality",
+  "role": "Hotel Manager",
+  "location": {
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Barista Skills",
+    "PMS Systems",
+    "Yield Management",
+    "Front Office",
+    "Travel Management",
+    "Food Safety",
+    "GDS Systems",
+    "MICE"
+  ],
+  "datePosted": "2026-05-25",
+  "validThrough": "2026-06-24",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Job Opening Hotel Manager at EazyDiner",
+    "description": "We at EazyDiner are looking for an experienced Hotel Manager based out of Kolkata. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout EazyDiner:\nEazyDiner is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Manage front office operations including check-in/check-out\n• Assist in menu planning, costing, and food festival coordination\n• Handle guest complaints and resolve issues promptly\n• Plan and execute banquets, events, and MICE functions\n• Prepare daily operating reports and present to management\n• Monitor F&B service quality and maintain hygiene standards\n• Train and supervise front-line staff on service standards\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 0-1 years of relevant experience\n• Proficiency in Barista Skills\n• Proficiency in PMS Systems\n• Proficiency in Yield Management\n• Proficiency in Front Office\n• Proficiency in Travel Management\n• Proficiency in Food Safety\n• Proficiency in GDS Systems\n• Proficiency in MICE\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Employee stock options (ESOPs) for eligible roles\n• Competitive salary with performance-linked incentives\n• Company-sponsored certifications\n• Modern office with recreational facilities\n• Referral bonus program\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Kolkata, West Bengal, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with EazyDiner!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "EazyDiner",
+      "value": "904-0-20260525"
+    },
+    "datePosted": "2026-05-25",
+    "validThrough": "2026-06-24",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "EazyDiner",
+      "sameAs": "https://www.google.com/search?q=EazyDiner",
+      "logo": "https://logo.clearbit.com/eazydiner.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "EazyDiner Office",
+        "addressLocality": "Kolkata",
+        "addressRegion": "West Bengal",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "Barista Skills, PMS Systems, Yield Management, Front Office, Travel Management, Food Safety, GDS Systems, MICE",
+    "responsibilities": "Manage front office operations including check-in/check-out. Assist in menu planning, costing, and food festival coordination. Handle guest complaints and resolve issues promptly. Plan and execute banquets, events, and MICE functions. Prepare daily operating reports and present to management. Monitor F&B service quality and maintain hygiene standards. Train and supervise front-line staff on service standards",
+    "benefits": "Work-from-home flexibility. Employee stock options (ESOPs) for eligible roles. Competitive salary with performance-linked incentives. Company-sponsored certifications. Modern office with recreational facilities. Referral bonus program",
+    "industry": "hospitality",
+    "occupationalCategory": "Hotel Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Employee stock options (ESOPs) for eligible roles, Competitive salary with performance-linked incentives, Company-sponsored certifications, Modern office with recreational facilities, Referral bonus program"
+  },
+  "meta": {
+    "description": "We at EazyDiner are looking for an experienced Hotel Manager based out of Kolkata. If you are a result-oriented professional with a passion for excellence, we w",
+    "keywords": "Hotel Manager, EazyDiner, jobs in Kolkata, West Bengal jobs, hospitality jobs India, Barista Skills, PMS Systems, Yield Management, hiring 2026"
+  },
+  "generatedAt": "2026-05-25T06:47:43.404Z",
+  "page": 225
+}
