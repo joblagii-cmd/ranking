@@ -1,0 +1,93 @@
+{
+  "slug": "westside-department-manager-meerut-2026-05-26-3",
+  "title": "Department Manager Vacancy at Westside - 2026 Batch",
+  "company": "Westside",
+  "industry": "retail",
+  "role": "Department Manager",
+  "location": {
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Visual Merchandising",
+    "SAP Retail",
+    "Inventory Management",
+    "Retail Operations",
+    "Shrinkage Control",
+    "KPI Management",
+    "Retail Analytics",
+    "Planogram"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Department Manager Vacancy at Westside - 2026 Batch",
+    "description": "Grow your career with Westside! We are hiring a Department Manager for our Meerut team. Be part of a workplace that celebrates innovation, diversity, and performance.\n\nAbout Westside:\nWestside is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Implement promotional activities and in-store campaigns\n• Assist in recruiting, onboarding, and performance management of staff\n• Build relationships with regular customers to drive loyalty\n• Ensure compliance with company policies and retail regulations\n• Manage store operations to ensure smooth daily functioning\n• Train and motivate the sales team to deliver excellent service\n• Handle customer queries, complaints, and escalations effectively\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 1-3 years of relevant experience\n• Proficiency in Visual Merchandising\n• Proficiency in SAP Retail\n• Proficiency in Inventory Management\n• Proficiency in Retail Operations\n• Proficiency in Shrinkage Control\n• Proficiency in KPI Management\n• Proficiency in Retail Analytics\n• Proficiency in Planogram\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Life and accident insurance\n• Work-from-home flexibility\n• Modern office with recreational facilities\n• Annual performance appraisal\n• Learning & development budget\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Meerut, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Westside!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Westside",
+      "value": "603-3-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Westside",
+      "sameAs": "https://www.google.com/search?q=Westside",
+      "logo": "https://logo.clearbit.com/westside.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Westside Office",
+        "addressLocality": "Meerut",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "Visual Merchandising, SAP Retail, Inventory Management, Retail Operations, Shrinkage Control, KPI Management, Retail Analytics, Planogram",
+    "responsibilities": "Implement promotional activities and in-store campaigns. Assist in recruiting, onboarding, and performance management of staff. Build relationships with regular customers to drive loyalty. Ensure compliance with company policies and retail regulations. Manage store operations to ensure smooth daily functioning. Train and motivate the sales team to deliver excellent service. Handle customer queries, complaints, and escalations effectively",
+    "benefits": "Provident Fund and Gratuity as per company policy. Life and accident insurance. Work-from-home flexibility. Modern office with recreational facilities. Annual performance appraisal. Learning & development budget",
+    "industry": "retail",
+    "occupationalCategory": "Department Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Life and accident insurance, Work-from-home flexibility, Modern office with recreational facilities, Annual performance appraisal, Learning & development budget"
+  },
+  "meta": {
+    "description": "Grow your career with Westside! We are hiring a Department Manager for our Meerut team. Be part of a workplace that celebrates innovation, diversity, and perfor",
+    "keywords": "Department Manager, Westside, jobs in Meerut, Uttar Pradesh jobs, retail jobs India, Visual Merchandising, SAP Retail, Inventory Management, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T04:04:07.995Z",
+  "page": 150
+}

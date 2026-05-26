@@ -1,0 +1,93 @@
+{
+  "slug": "westside-floor-manager-meerut-2026-05-26-2",
+  "title": "Westside is Hiring: Floor Manager (Principal)",
+  "company": "Westside",
+  "industry": "retail",
+  "role": "Floor Manager",
+  "location": {
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "E-commerce Integration",
+    "Team Leadership",
+    "Visual Merchandising",
+    "Loyalty Programs",
+    "Sales Techniques",
+    "Omnichannel Retail",
+    "SAP Retail",
+    "KPI Management"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Westside is Hiring: Floor Manager (Principal)",
+    "description": "Grow your career with Westside! We are hiring a Floor Manager for our Meerut team. Be part of a workplace that celebrates innovation, diversity, and performance.\n\nAbout Westside:\nWestside is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Conduct regular stock audits and prevent pilferage\n• Achieve sales targets and improve store performance metrics\n• Train and motivate the sales team to deliver excellent service\n• Assist in recruiting, onboarding, and performance management of staff\n• Manage store operations to ensure smooth daily functioning\n• Ensure visual merchandising standards are maintained at all times\n• Ensure compliance with company policies and retail regulations\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 3-6 years of relevant experience\n• Proficiency in E-commerce Integration\n• Proficiency in Team Leadership\n• Proficiency in Visual Merchandising\n• Proficiency in Loyalty Programs\n• Proficiency in Sales Techniques\n• Proficiency in Omnichannel Retail\n• Proficiency in SAP Retail\n• Proficiency in KPI Management\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Professional development and training programs\n• Modern office with recreational facilities\n• Meal coupons and food allowance\n• Annual performance appraisal\n• Comprehensive health insurance for self and family\n• Competitive salary with performance-linked incentives\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Meerut, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Westside!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Westside",
+      "value": "603-2-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Westside",
+      "sameAs": "https://www.google.com/search?q=Westside",
+      "logo": "https://logo.clearbit.com/westside.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Westside Office",
+        "addressLocality": "Meerut",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "E-commerce Integration, Team Leadership, Visual Merchandising, Loyalty Programs, Sales Techniques, Omnichannel Retail, SAP Retail, KPI Management",
+    "responsibilities": "Conduct regular stock audits and prevent pilferage. Achieve sales targets and improve store performance metrics. Train and motivate the sales team to deliver excellent service. Assist in recruiting, onboarding, and performance management of staff. Manage store operations to ensure smooth daily functioning. Ensure visual merchandising standards are maintained at all times. Ensure compliance with company policies and retail regulations",
+    "benefits": "Professional development and training programs. Modern office with recreational facilities. Meal coupons and food allowance. Annual performance appraisal. Comprehensive health insurance for self and family. Competitive salary with performance-linked incentives",
+    "industry": "retail",
+    "occupationalCategory": "Floor Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Modern office with recreational facilities, Meal coupons and food allowance, Annual performance appraisal, Comprehensive health insurance for self and family, Competitive salary with performance-linked incentives"
+  },
+  "meta": {
+    "description": "Grow your career with Westside! We are hiring a Floor Manager for our Meerut team. Be part of a workplace that celebrates innovation, diversity, and performance",
+    "keywords": "Floor Manager, Westside, jobs in Meerut, Uttar Pradesh jobs, retail jobs India, E-commerce Integration, Team Leadership, Visual Merchandising, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T04:04:07.995Z",
+  "page": 150
+}
