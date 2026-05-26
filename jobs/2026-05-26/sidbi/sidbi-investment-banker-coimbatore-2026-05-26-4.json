@@ -1,0 +1,94 @@
+{
+  "slug": "sidbi-investment-banker-coimbatore-2026-05-26-4",
+  "title": "Lead Investment Banker at SIDBI",
+  "company": "SIDBI",
+  "industry": "finance",
+  "role": "Investment Banker",
+  "location": {
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Python for Finance",
+    "MS Excel",
+    "Tally",
+    "Ind AS",
+    "Risk Management",
+    "Budgeting",
+    "Financial Modeling",
+    "GST"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Lead Investment Banker at SIDBI",
+    "description": "We at SIDBI are looking for an experienced Investment Banker based out of Coimbatore. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout SIDBI:\nSIDBI is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure compliance with tax regulations and statutory requirements\n• Manage accounts payable and accounts receivable functions\n• Monitor market trends and provide investment recommendations\n• Prepare MIS reports for senior management review\n• Process payroll and manage employee reimbursements\n• Prepare annual reports and investor presentations\n• Manage credit risk assessment and loan appraisal processes\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 0-1 years of relevant experience\n• Proficiency in Python for Finance\n• Proficiency in MS Excel\n• Proficiency in Tally\n• Proficiency in Ind AS\n• Proficiency in Risk Management\n• Proficiency in Budgeting\n• Proficiency in Financial Modeling\n• Proficiency in GST\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Recognition and rewards programs\n• Annual paid leaves and casual leaves\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Meal coupons and food allowance\n• Work-from-home flexibility\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Coimbatore, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with SIDBI!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "SIDBI",
+      "value": "204-4-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "SIDBI",
+      "sameAs": "https://www.google.com/search?q=SIDBI",
+      "logo": "https://logo.clearbit.com/sidbi.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "SIDBI Office",
+        "addressLocality": "Coimbatore",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Python for Finance, MS Excel, Tally, Ind AS, Risk Management, Budgeting, Financial Modeling, GST",
+    "responsibilities": "Ensure compliance with tax regulations and statutory requirements. Manage accounts payable and accounts receivable functions. Monitor market trends and provide investment recommendations. Prepare MIS reports for senior management review. Process payroll and manage employee reimbursements. Prepare annual reports and investor presentations. Manage credit risk assessment and loan appraisal processes",
+    "benefits": "Recognition and rewards programs. Annual paid leaves and casual leaves. Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Meal coupons and food allowance. Work-from-home flexibility",
+    "industry": "finance",
+    "occupationalCategory": "Investment Banker",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Recognition and rewards programs, Annual paid leaves and casual leaves, Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Meal coupons and food allowance, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "We at SIDBI are looking for an experienced Investment Banker based out of Coimbatore. If you are a result-oriented professional with a passion for excellence, w",
+    "keywords": "Investment Banker, SIDBI, jobs in Coimbatore, Tamil Nadu jobs, finance jobs India, Python for Finance, MS Excel, Tally, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:51:01.894Z",
+  "page": 50
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "nabard-credit-analyst-howrah-2026-05-26-2",
+  "title": "NABARD is Hiring: Credit Analyst (Lead)",
+  "company": "NABARD",
+  "industry": "finance",
+  "role": "Credit Analyst",
+  "location": {
+    "city": "Howrah",
+    "state": "West Bengal",
+    "region": "Eastern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "SAP FICO",
+    "Python for Finance",
+    "Ind AS",
+    "Credit Analysis",
+    "Income Tax",
+    "Financial Modeling",
+    "Due Diligence",
+    "Financial Reporting"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "NABARD is Hiring: Credit Analyst (Lead)",
+    "description": "We at NABARD are looking for an experienced Credit Analyst based out of Howrah. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout NABARD:\nNABARD is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Manage accounts payable and accounts receivable functions\n• Coordinate with external auditors during annual audits\n• Liaise with banks, regulators, and financial institutions\n• Prepare MIS reports for senior management review\n• Monitor market trends and provide investment recommendations\n• Process payroll and manage employee reimbursements\n• Prepare annual reports and investor presentations\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 10-15 years of relevant experience\n• Proficiency in SAP FICO\n• Proficiency in Python for Finance\n• Proficiency in Ind AS\n• Proficiency in Credit Analysis\n• Proficiency in Income Tax\n• Proficiency in Financial Modeling\n• Proficiency in Due Diligence\n• Proficiency in Financial Reporting\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Mobile and internet reimbursement\n• International travel opportunities for senior roles\n• Learning & development budget\n• Life and accident insurance\n• Recognition and rewards programs\n• Annual performance appraisal\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Howrah, West Bengal, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with NABARD!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "NABARD",
+      "value": "203-2-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "NABARD",
+      "sameAs": "https://www.google.com/search?q=NABARD",
+      "logo": "https://logo.clearbit.com/nabard.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "NABARD Office",
+        "addressLocality": "Howrah",
+        "addressRegion": "West Bengal",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "SAP FICO, Python for Finance, Ind AS, Credit Analysis, Income Tax, Financial Modeling, Due Diligence, Financial Reporting",
+    "responsibilities": "Manage accounts payable and accounts receivable functions. Coordinate with external auditors during annual audits. Liaise with banks, regulators, and financial institutions. Prepare MIS reports for senior management review. Monitor market trends and provide investment recommendations. Process payroll and manage employee reimbursements. Prepare annual reports and investor presentations",
+    "benefits": "Mobile and internet reimbursement. International travel opportunities for senior roles. Learning & development budget. Life and accident insurance. Recognition and rewards programs. Annual performance appraisal",
+    "industry": "finance",
+    "occupationalCategory": "Credit Analyst",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Mobile and internet reimbursement, International travel opportunities for senior roles, Learning & development budget, Life and accident insurance, Recognition and rewards programs, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "We at NABARD are looking for an experienced Credit Analyst based out of Howrah. If you are a result-oriented professional with a passion for excellence, we want",
+    "keywords": "Credit Analyst, NABARD, jobs in Howrah, West Bengal jobs, finance jobs India, SAP FICO, Python for Finance, Ind AS, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:51:01.894Z",
+  "page": 50
+}
