@@ -1,0 +1,93 @@
+{
+  "slug": "tata-steel-plant-manager-bengaluru-2026-05-26-4",
+  "title": "Mid-Level Plant Manager at Tata Steel",
+  "company": "Tata Steel",
+  "industry": "manufacturing",
+  "role": "Plant Manager",
+  "location": {
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "SolidWorks",
+    "FMEA",
+    "GD&T",
+    "Project Management",
+    "AutoCAD",
+    "TPM",
+    "APQP",
+    "PPAP"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Plant Manager at Tata Steel",
+    "description": "If you're a passionate Plant Manager with drive and ambition, Tata Steel in Bengaluru is the place for you. We're growing fast and need talented people to grow with us.\n\nAbout Tata Steel:\nTata Steel is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Conduct root cause analysis for quality rejections and defects\n• Oversee daily production operations to meet output targets\n• Implement 5S, Kaizen, and Six Sigma practices on the shop floor\n• Monitor equipment performance and coordinate preventive maintenance\n• Ensure compliance with safety regulations and factory acts\n• Coordinate with logistics for dispatching finished goods\n• Ensure environmental compliance and waste management\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 0-1 years of relevant experience\n• Proficiency in SolidWorks\n• Proficiency in FMEA\n• Proficiency in GD&T\n• Proficiency in Project Management\n• Proficiency in AutoCAD\n• Proficiency in TPM\n• Proficiency in APQP\n• Proficiency in PPAP\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Employee stock options (ESOPs) for eligible roles\n• Recognition and rewards programs\n• Annual performance appraisal\n• Modern office with recreational facilities\n• Comprehensive health insurance for self and family\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Bengaluru, Karnataka, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Tata Steel!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Tata Steel",
+      "value": "396-4-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Tata Steel",
+      "sameAs": "https://www.google.com/search?q=Tata%20Steel",
+      "logo": "https://logo.clearbit.com/tatasteel.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Tata Steel Office",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "SolidWorks, FMEA, GD&T, Project Management, AutoCAD, TPM, APQP, PPAP",
+    "responsibilities": "Conduct root cause analysis for quality rejections and defects. Oversee daily production operations to meet output targets. Implement 5S, Kaizen, and Six Sigma practices on the shop floor. Monitor equipment performance and coordinate preventive maintenance. Ensure compliance with safety regulations and factory acts. Coordinate with logistics for dispatching finished goods. Ensure environmental compliance and waste management",
+    "benefits": "International travel opportunities for senior roles. Employee stock options (ESOPs) for eligible roles. Recognition and rewards programs. Annual performance appraisal. Modern office with recreational facilities. Comprehensive health insurance for self and family",
+    "industry": "manufacturing",
+    "occupationalCategory": "Plant Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Employee stock options (ESOPs) for eligible roles, Recognition and rewards programs, Annual performance appraisal, Modern office with recreational facilities, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "If you're a passionate Plant Manager with drive and ambition, Tata Steel in Bengaluru is the place for you. We're growing fast and need talented people to grow ",
+    "keywords": "Plant Manager, Tata Steel, jobs in Bengaluru, Karnataka jobs, manufacturing jobs India, SolidWorks, FMEA, GD&T, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:57:07.232Z",
+  "page": 98
+}
