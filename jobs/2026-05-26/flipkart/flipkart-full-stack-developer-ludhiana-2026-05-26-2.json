@@ -1,0 +1,93 @@
+{
+  "slug": "flipkart-full-stack-developer-ludhiana-2026-05-26-2",
+  "title": "Flipkart is Hiring: Full Stack Developer (Junior)",
+  "company": "Flipkart",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Ludhiana",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "REST APIs",
+    "Kubernetes",
+    "React",
+    "TensorFlow",
+    "Docker",
+    "AWS",
+    "MongoDB",
+    "CI/CD"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Flipkart is Hiring: Full Stack Developer (Junior)",
+    "description": "Are you a skilled Full Stack Developer looking for your next big career move? Flipkart in Ludhiana offers you the perfect platform to grow professionally and personally.\n\nAbout Flipkart:\nFlipkart is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Integrate third-party APIs and services\n• Design, develop and maintain scalable software applications\n• Participate in code reviews and contribute to technical discussions\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Collaborate with cross-functional teams including product, design, and QA\n• Implement new features based on product requirements\n• Work with agile methodologies including daily stand-ups and sprint planning\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 3-6 years of relevant experience\n• Proficiency in REST APIs\n• Proficiency in Kubernetes\n• Proficiency in React\n• Proficiency in TensorFlow\n• Proficiency in Docker\n• Proficiency in AWS\n• Proficiency in MongoDB\n• Proficiency in CI/CD\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Annual performance appraisal\n• Meal coupons and food allowance\n• Flexible working hours\n• Comprehensive health insurance for self and family\n• Company-sponsored certifications\n• Referral bonus program\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Ludhiana, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Flipkart!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Flipkart",
+      "value": "13-2-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Flipkart",
+      "sameAs": "https://www.google.com/search?q=Flipkart",
+      "logo": "https://logo.clearbit.com/flipkart.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Flipkart Office",
+        "addressLocality": "Ludhiana",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "REST APIs, Kubernetes, React, TensorFlow, Docker, AWS, MongoDB, CI/CD",
+    "responsibilities": "Integrate third-party APIs and services. Design, develop and maintain scalable software applications. Participate in code reviews and contribute to technical discussions. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Collaborate with cross-functional teams including product, design, and QA. Implement new features based on product requirements. Work with agile methodologies including daily stand-ups and sprint planning",
+    "benefits": "Annual performance appraisal. Meal coupons and food allowance. Flexible working hours. Comprehensive health insurance for self and family. Company-sponsored certifications. Referral bonus program",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual performance appraisal, Meal coupons and food allowance, Flexible working hours, Comprehensive health insurance for self and family, Company-sponsored certifications, Referral bonus program"
+  },
+  "meta": {
+    "description": "Are you a skilled Full Stack Developer looking for your next big career move? Flipkart in Ludhiana offers you the perfect platform to grow professionally and pe",
+    "keywords": "Full Stack Developer, Flipkart, jobs in Ludhiana, Punjab jobs, technology jobs India, REST APIs, Kubernetes, React, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:44:58.458Z",
+  "page": 3
+}

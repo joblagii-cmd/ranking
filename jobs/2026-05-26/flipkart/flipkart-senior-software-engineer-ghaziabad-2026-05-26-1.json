@@ -1,0 +1,93 @@
+{
+  "slug": "flipkart-senior-software-engineer-ghaziabad-2026-05-26-1",
+  "title": "Senior Software Engineer - Flipkart - Multiple Openings",
+  "company": "Flipkart",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "REST APIs",
+    "React",
+    "JavaScript",
+    "Rust",
+    "Go",
+    "Kubernetes",
+    "TypeScript",
+    "Python"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Flipkart - Multiple Openings",
+    "description": "Are you a skilled Senior Software Engineer looking for your next big career move? Flipkart in Ghaziabad offers you the perfect platform to grow professionally and personally.\n\nAbout Flipkart:\nFlipkart is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in on-call rotation for production support\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Design, develop and maintain scalable software applications\n• Write clean, maintainable, and well-documented code\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Participate in code reviews and contribute to technical discussions\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 6-10 years of relevant experience\n• Proficiency in REST APIs\n• Proficiency in React\n• Proficiency in JavaScript\n• Proficiency in Rust\n• Proficiency in Go\n• Proficiency in Kubernetes\n• Proficiency in TypeScript\n• Proficiency in Python\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Recognition and rewards programs\n• Flexible working hours\n• Employee stock options (ESOPs) for eligible roles\n• Maternity and paternity leave\n• Modern office with recreational facilities\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Ghaziabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Flipkart!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Flipkart",
+      "value": "13-1-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Flipkart",
+      "sameAs": "https://www.google.com/search?q=Flipkart",
+      "logo": "https://logo.clearbit.com/flipkart.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Flipkart Office",
+        "addressLocality": "Ghaziabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "REST APIs, React, JavaScript, Rust, Go, Kubernetes, TypeScript, Python",
+    "responsibilities": "Participate in on-call rotation for production support. Mentor junior developers and conduct knowledge-sharing sessions. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Design, develop and maintain scalable software applications. Write clean, maintainable, and well-documented code. Work with agile methodologies including daily stand-ups and sprint planning. Participate in code reviews and contribute to technical discussions",
+    "benefits": "Recognition and rewards programs. Flexible working hours. Employee stock options (ESOPs) for eligible roles. Maternity and paternity leave. Modern office with recreational facilities. Provident Fund and Gratuity as per company policy",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Recognition and rewards programs, Flexible working hours, Employee stock options (ESOPs) for eligible roles, Maternity and paternity leave, Modern office with recreational facilities, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "Are you a skilled Senior Software Engineer looking for your next big career move? Flipkart in Ghaziabad offers you the perfect platform to grow professionally a",
+    "keywords": "Senior Software Engineer, Flipkart, jobs in Ghaziabad, Uttar Pradesh jobs, technology jobs India, REST APIs, React, JavaScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:44:58.458Z",
+  "page": 3
+}

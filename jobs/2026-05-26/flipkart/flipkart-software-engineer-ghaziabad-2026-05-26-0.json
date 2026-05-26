@@ -1,0 +1,94 @@
+{
+  "slug": "flipkart-software-engineer-ghaziabad-2026-05-26-0",
+  "title": "Urgent Opening Software Engineer at Flipkart",
+  "company": "Flipkart",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Rust",
+    "Node.js",
+    "JavaScript",
+    "Agile/Scrum",
+    "CI/CD",
+    "SQL",
+    "Machine Learning",
+    "MongoDB"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Urgent Opening Software Engineer at Flipkart",
+    "description": "Are you a skilled Software Engineer looking for your next big career move? Flipkart in Ghaziabad offers you the perfect platform to grow professionally and personally.\n\nAbout Flipkart:\nFlipkart is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Contribute to system architecture and technical design decisions\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in on-call rotation for production support\n• Participate in code reviews and contribute to technical discussions\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Implement new features based on product requirements\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 10-15 years of relevant experience\n• Proficiency in Rust\n• Proficiency in Node.js\n• Proficiency in JavaScript\n• Proficiency in Agile/Scrum\n• Proficiency in CI/CD\n• Proficiency in SQL\n• Proficiency in Machine Learning\n• Proficiency in MongoDB\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Flexible working hours\n• International travel opportunities for senior roles\n• Mobile and internet reimbursement\n• Provident Fund and Gratuity as per company policy\n• Transportation and conveyance allowance\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Ghaziabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Flipkart!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Flipkart",
+      "value": "13-0-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Flipkart",
+      "sameAs": "https://www.google.com/search?q=Flipkart",
+      "logo": "https://logo.clearbit.com/flipkart.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Flipkart Office",
+        "addressLocality": "Ghaziabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "Rust, Node.js, JavaScript, Agile/Scrum, CI/CD, SQL, Machine Learning, MongoDB",
+    "responsibilities": "Contribute to system architecture and technical design decisions. Mentor junior developers and conduct knowledge-sharing sessions. Collaborate with cross-functional teams including product, design, and QA. Participate in on-call rotation for production support. Participate in code reviews and contribute to technical discussions. Troubleshoot, debug, and resolve software defects and performance issues. Implement new features based on product requirements",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Flexible working hours. International travel opportunities for senior roles. Mobile and internet reimbursement. Provident Fund and Gratuity as per company policy. Transportation and conveyance allowance",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Flexible working hours, International travel opportunities for senior roles, Mobile and internet reimbursement, Provident Fund and Gratuity as per company policy, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "Are you a skilled Software Engineer looking for your next big career move? Flipkart in Ghaziabad offers you the perfect platform to grow professionally and pers",
+    "keywords": "Software Engineer, Flipkart, jobs in Ghaziabad, Uttar Pradesh jobs, technology jobs India, Rust, Node.js, JavaScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:44:58.458Z",
+  "page": 3
+}
