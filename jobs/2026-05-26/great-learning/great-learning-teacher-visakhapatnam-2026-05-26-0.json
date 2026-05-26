@@ -1,0 +1,93 @@
+{
+  "slug": "great-learning-teacher-visakhapatnam-2026-05-26-0",
+  "title": "Vacancy for Teacher at Great Learning",
+  "company": "Great Learning",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Content Creation",
+    "Bloom's Taxonomy",
+    "Child Psychology",
+    "Communication Skills",
+    "Special Education",
+    "IB Curriculum",
+    "Lesson Planning",
+    "Classroom Management"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Vacancy for Teacher at Great Learning",
+    "description": "Great Learning, one of India's leading organizations, is hiring a Teacher for our Visakhapatnam operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Great Learning:\nGreat Learning is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design formative and summative assessments aligned to learning objectives\n• Utilize technology and digital tools to enhance learning outcomes\n• Create curriculum-aligned learning materials and assessments\n• Contribute to school newsletter, blogs, and other publications\n• Coordinate with academic counselors for student career guidance\n• Support students with special educational needs\n• Participate in school events, workshops, and training programs\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 0-1 years of relevant experience\n• Proficiency in Content Creation\n• Proficiency in Bloom's Taxonomy\n• Proficiency in Child Psychology\n• Proficiency in Communication Skills\n• Proficiency in Special Education\n• Proficiency in IB Curriculum\n• Proficiency in Lesson Planning\n• Proficiency in Classroom Management\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Provident Fund and Gratuity as per company policy\n• Mobile and internet reimbursement\n• Annual performance appraisal\n• Learning & development budget\n• Recognition and rewards programs\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Visakhapatnam, Andhra Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Great Learning!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Great Learning",
+      "value": "506-0-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Great Learning",
+      "sameAs": "https://www.google.com/search?q=Great%20Learning",
+      "logo": "https://logo.clearbit.com/greatlearning.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Great Learning Office",
+        "addressLocality": "Visakhapatnam",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Content Creation, Bloom's Taxonomy, Child Psychology, Communication Skills, Special Education, IB Curriculum, Lesson Planning, Classroom Management",
+    "responsibilities": "Design formative and summative assessments aligned to learning objectives. Utilize technology and digital tools to enhance learning outcomes. Create curriculum-aligned learning materials and assessments. Contribute to school newsletter, blogs, and other publications. Coordinate with academic counselors for student career guidance. Support students with special educational needs. Participate in school events, workshops, and training programs",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Provident Fund and Gratuity as per company policy. Mobile and internet reimbursement. Annual performance appraisal. Learning & development budget. Recognition and rewards programs",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Provident Fund and Gratuity as per company policy, Mobile and internet reimbursement, Annual performance appraisal, Learning & development budget, Recognition and rewards programs"
+  },
+  "meta": {
+    "description": "Great Learning, one of India's leading organizations, is hiring a Teacher for our Visakhapatnam operations. We offer a competitive salary package along with wor",
+    "keywords": "Teacher, Great Learning, jobs in Visakhapatnam, Andhra Pradesh jobs, education jobs India, Content Creation, Bloom's Taxonomy, Child Psychology, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T04:00:45.586Z",
+  "page": 126
+}

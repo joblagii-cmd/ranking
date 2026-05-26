@@ -1,0 +1,93 @@
+{
+  "slug": "extramarks-teacher-bhopal-2026-05-26-0",
+  "title": "Vacancy for Teacher at Extramarks",
+  "company": "Extramarks",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Mentoring",
+    "CBSE/ICSE Standards",
+    "Zoom/Teams",
+    "Student Assessment",
+    "Research Skills",
+    "Communication Skills",
+    "MS Office",
+    "LMS Platforms"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Vacancy for Teacher at Extramarks",
+    "description": "Extramarks, one of India's leading organizations, is hiring a Teacher for our Bhopal operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Extramarks:\nExtramarks is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Support students with special educational needs\n• Contribute to school newsletter, blogs, and other publications\n• Conduct parent-teacher meetings and update parents on student performance\n• Conduct doubt-clearing sessions and remedial classes for weak students\n• Monitor student progress and provide timely feedback\n• Create curriculum-aligned learning materials and assessments\n• Coordinate with academic counselors for student career guidance\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 1-3 years of relevant experience\n• Proficiency in Mentoring\n• Proficiency in CBSE/ICSE Standards\n• Proficiency in Zoom/Teams\n• Proficiency in Student Assessment\n• Proficiency in Research Skills\n• Proficiency in Communication Skills\n• Proficiency in MS Office\n• Proficiency in LMS Platforms\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Learning & development budget\n• Meal coupons and food allowance\n• Life and accident insurance\n• Annual performance appraisal\n• Modern office with recreational facilities\n• Mobile and internet reimbursement\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Bhopal, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Extramarks!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Extramarks",
+      "value": "505-0-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Extramarks",
+      "sameAs": "https://www.google.com/search?q=Extramarks",
+      "logo": "https://logo.clearbit.com/extramarks.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Extramarks Office",
+        "addressLocality": "Bhopal",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "Mentoring, CBSE/ICSE Standards, Zoom/Teams, Student Assessment, Research Skills, Communication Skills, MS Office, LMS Platforms",
+    "responsibilities": "Support students with special educational needs. Contribute to school newsletter, blogs, and other publications. Conduct parent-teacher meetings and update parents on student performance. Conduct doubt-clearing sessions and remedial classes for weak students. Monitor student progress and provide timely feedback. Create curriculum-aligned learning materials and assessments. Coordinate with academic counselors for student career guidance",
+    "benefits": "Learning & development budget. Meal coupons and food allowance. Life and accident insurance. Annual performance appraisal. Modern office with recreational facilities. Mobile and internet reimbursement",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Learning & development budget, Meal coupons and food allowance, Life and accident insurance, Annual performance appraisal, Modern office with recreational facilities, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "Extramarks, one of India's leading organizations, is hiring a Teacher for our Bhopal operations. We offer a competitive salary package along with world-class be",
+    "keywords": "Teacher, Extramarks, jobs in Bhopal, Madhya Pradesh jobs, education jobs India, Mentoring, CBSE/ICSE Standards, Zoom/Teams, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T04:00:45.586Z",
+  "page": 126
+}
