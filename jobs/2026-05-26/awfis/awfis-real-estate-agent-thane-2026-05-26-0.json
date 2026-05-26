@@ -1,0 +1,93 @@
+{
+  "slug": "awfis-real-estate-agent-thane-2026-05-26-0",
+  "title": "Urgent Opening Real Estate Agent at Awfis",
+  "company": "Awfis",
+  "industry": "realestate",
+  "role": "Real Estate Agent",
+  "location": {
+    "city": "Thane",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "MS Office",
+    "Property Valuation",
+    "GIS Tools",
+    "CRM Software",
+    "RERA Compliance",
+    "AutoCAD",
+    "Negotiation Skills",
+    "Market Research"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Urgent Opening Real Estate Agent at Awfis",
+    "description": "Awfis, one of India's leading organizations, is hiring a Real Estate Agent for our Thane operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Awfis:\nAwfis is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Provide advisory services on property investment and market trends\n• Coordinate with architects, contractors, and project teams\n• Build relationships with channel partners and brokers\n• Source and close property deals with prospective buyers and investors\n• Coordinate with legal teams for documentation and title verification\n• Conduct land acquisition due diligence and feasibility studies\n• Maintain a pipeline of qualified leads using CRM software\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 6-10 years of relevant experience\n• Proficiency in MS Office\n• Proficiency in Property Valuation\n• Proficiency in GIS Tools\n• Proficiency in CRM Software\n• Proficiency in RERA Compliance\n• Proficiency in AutoCAD\n• Proficiency in Negotiation Skills\n• Proficiency in Market Research\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Learning & development budget\n• Recognition and rewards programs\n• Mobile and internet reimbursement\n• Provident Fund and Gratuity as per company policy\n• Annual performance appraisal\n• Modern office with recreational facilities\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Thane, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Awfis!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Awfis",
+      "value": "753-0-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Awfis",
+      "sameAs": "https://www.google.com/search?q=Awfis",
+      "logo": "https://logo.clearbit.com/awfis.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Awfis Office",
+        "addressLocality": "Thane",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "MS Office, Property Valuation, GIS Tools, CRM Software, RERA Compliance, AutoCAD, Negotiation Skills, Market Research",
+    "responsibilities": "Provide advisory services on property investment and market trends. Coordinate with architects, contractors, and project teams. Build relationships with channel partners and brokers. Source and close property deals with prospective buyers and investors. Coordinate with legal teams for documentation and title verification. Conduct land acquisition due diligence and feasibility studies. Maintain a pipeline of qualified leads using CRM software",
+    "benefits": "Learning & development budget. Recognition and rewards programs. Mobile and internet reimbursement. Provident Fund and Gratuity as per company policy. Annual performance appraisal. Modern office with recreational facilities",
+    "industry": "realestate",
+    "occupationalCategory": "Real Estate Agent",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Learning & development budget, Recognition and rewards programs, Mobile and internet reimbursement, Provident Fund and Gratuity as per company policy, Annual performance appraisal, Modern office with recreational facilities"
+  },
+  "meta": {
+    "description": "Awfis, one of India's leading organizations, is hiring a Real Estate Agent for our Thane operations. We offer a competitive salary package along with world-clas",
+    "keywords": "Real Estate Agent, Awfis, jobs in Thane, Maharashtra jobs, realestate jobs India, MS Office, Property Valuation, GIS Tools, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T04:09:25.755Z",
+  "page": 188
+}

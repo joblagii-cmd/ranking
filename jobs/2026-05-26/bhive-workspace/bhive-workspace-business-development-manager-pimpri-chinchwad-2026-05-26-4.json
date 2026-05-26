@@ -1,0 +1,93 @@
+{
+  "slug": "bhive-workspace-business-development-manager-pimpri-chinchwad-2026-05-26-4",
+  "title": "Junior Business Development Manager at BHIVE Workspace",
+  "company": "BHIVE Workspace",
+  "industry": "realestate",
+  "role": "Business Development Manager",
+  "location": {
+    "city": "Pimpri-Chinchwad",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "RERA Compliance",
+    "Title Search",
+    "Contract Management",
+    "Project Management",
+    "Property Valuation",
+    "MS Office",
+    "GIS Tools",
+    "AutoCAD"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Junior Business Development Manager at BHIVE Workspace",
+    "description": "BHIVE Workspace, one of India's leading organizations, is hiring a Business Development Manager for our Pimpri-Chinchwad operations. We offer a competitive salary package along with world-class benefits.\n\nAbout BHIVE Workspace:\nBHIVE Workspace is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Provide advisory services on property investment and market trends\n• Conduct land acquisition due diligence and feasibility studies\n• Liaise with banks and NBFCs for home loan assistance to customers\n• Achieve monthly and quarterly sales targets\n• Build relationships with channel partners and brokers\n• Negotiate pricing, terms, and conditions on behalf of clients\n• Maintain a pipeline of qualified leads using CRM software\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 3-6 years of relevant experience\n• Proficiency in RERA Compliance\n• Proficiency in Title Search\n• Proficiency in Contract Management\n• Proficiency in Project Management\n• Proficiency in Property Valuation\n• Proficiency in MS Office\n• Proficiency in GIS Tools\n• Proficiency in AutoCAD\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Meal coupons and food allowance\n• Professional development and training programs\n• International travel opportunities for senior roles\n• Annual paid leaves and casual leaves\n• Recognition and rewards programs\n• Flexible working hours\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Pimpri-Chinchwad, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with BHIVE Workspace!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "BHIVE Workspace",
+      "value": "755-4-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "BHIVE Workspace",
+      "sameAs": "https://www.google.com/search?q=BHIVE%20Workspace",
+      "logo": "https://logo.clearbit.com/bhiveworkspace.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "BHIVE Workspace Office",
+        "addressLocality": "Pimpri-Chinchwad",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "RERA Compliance, Title Search, Contract Management, Project Management, Property Valuation, MS Office, GIS Tools, AutoCAD",
+    "responsibilities": "Provide advisory services on property investment and market trends. Conduct land acquisition due diligence and feasibility studies. Liaise with banks and NBFCs for home loan assistance to customers. Achieve monthly and quarterly sales targets. Build relationships with channel partners and brokers. Negotiate pricing, terms, and conditions on behalf of clients. Maintain a pipeline of qualified leads using CRM software",
+    "benefits": "Meal coupons and food allowance. Professional development and training programs. International travel opportunities for senior roles. Annual paid leaves and casual leaves. Recognition and rewards programs. Flexible working hours",
+    "industry": "realestate",
+    "occupationalCategory": "Business Development Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Meal coupons and food allowance, Professional development and training programs, International travel opportunities for senior roles, Annual paid leaves and casual leaves, Recognition and rewards programs, Flexible working hours"
+  },
+  "meta": {
+    "description": "BHIVE Workspace, one of India's leading organizations, is hiring a Business Development Manager for our Pimpri-Chinchwad operations. We offer a competitive sala",
+    "keywords": "Business Development Manager, BHIVE Workspace, jobs in Pimpri-Chinchwad, Maharashtra jobs, realestate jobs India, RERA Compliance, Title Search, Contract Management, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T04:09:25.755Z",
+  "page": 188
+}
