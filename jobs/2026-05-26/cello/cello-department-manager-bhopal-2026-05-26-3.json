@@ -1,0 +1,93 @@
+{
+  "slug": "cello-department-manager-bhopal-2026-05-26-3",
+  "title": "Department Manager Vacancy at Cello - 2026 Batch",
+  "company": "Cello",
+  "industry": "retail",
+  "role": "Department Manager",
+  "location": {
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Retail Analytics",
+    "Sales Techniques",
+    "Shrinkage Control",
+    "MS Excel",
+    "Customer Service",
+    "Category Management",
+    "Loss Prevention",
+    "Inventory Management"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Department Manager Vacancy at Cello - 2026 Batch",
+    "description": "We at Cello are looking for an experienced Department Manager based out of Bhopal. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout Cello:\nCello is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Manage store operations to ensure smooth daily functioning\n• Conduct regular stock audits and prevent pilferage\n• Build relationships with regular customers to drive loyalty\n• Ensure visual merchandising standards are maintained at all times\n• Prepare daily sales reports and share insights with management\n• Maintain high standards of store hygiene and cleanliness\n• Implement promotional activities and in-store campaigns\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 10-15 years of relevant experience\n• Proficiency in Retail Analytics\n• Proficiency in Sales Techniques\n• Proficiency in Shrinkage Control\n• Proficiency in MS Excel\n• Proficiency in Customer Service\n• Proficiency in Category Management\n• Proficiency in Loss Prevention\n• Proficiency in Inventory Management\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Meal coupons and food allowance\n• Company-sponsored certifications\n• Referral bonus program\n• Employee stock options (ESOPs) for eligible roles\n• Transportation and conveyance allowance\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Bhopal, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Cello!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Cello",
+      "value": "669-3-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Cello",
+      "sameAs": "https://www.google.com/search?q=Cello",
+      "logo": "https://logo.clearbit.com/cello.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Cello Office",
+        "addressLocality": "Bhopal",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "Retail Analytics, Sales Techniques, Shrinkage Control, MS Excel, Customer Service, Category Management, Loss Prevention, Inventory Management",
+    "responsibilities": "Manage store operations to ensure smooth daily functioning. Conduct regular stock audits and prevent pilferage. Build relationships with regular customers to drive loyalty. Ensure visual merchandising standards are maintained at all times. Prepare daily sales reports and share insights with management. Maintain high standards of store hygiene and cleanliness. Implement promotional activities and in-store campaigns",
+    "benefits": "Annual paid leaves and casual leaves. Meal coupons and food allowance. Company-sponsored certifications. Referral bonus program. Employee stock options (ESOPs) for eligible roles. Transportation and conveyance allowance",
+    "industry": "retail",
+    "occupationalCategory": "Department Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Meal coupons and food allowance, Company-sponsored certifications, Referral bonus program, Employee stock options (ESOPs) for eligible roles, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "We at Cello are looking for an experienced Department Manager based out of Bhopal. If you are a result-oriented professional with a passion for excellence, we w",
+    "keywords": "Department Manager, Cello, jobs in Bhopal, Madhya Pradesh jobs, retail jobs India, Retail Analytics, Sales Techniques, Shrinkage Control, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T04:06:27.816Z",
+  "page": 167
+}
