@@ -1,0 +1,93 @@
+{
+  "slug": "vijaya-diagnostics-radiologist-ghaziabad-2026-05-26-4",
+  "title": "Principal Radiologist at Vijaya Diagnostics",
+  "company": "Vijaya Diagnostics",
+  "industry": "healthcare",
+  "role": "Radiologist",
+  "location": {
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "BLS/ACLS",
+    "Wound Care",
+    "Medical Ethics",
+    "HIPAA Compliance",
+    "Clinical Documentation",
+    "Clinical Research",
+    "EMR/EHR",
+    "CPT Codes"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Principal Radiologist at Vijaya Diagnostics",
+    "description": "Are you a skilled Radiologist looking for your next big career move? Vijaya Diagnostics in Ghaziabad offers you the perfect platform to grow professionally and personally.\n\nAbout Vijaya Diagnostics:\nVijaya Diagnostics is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Respond to medical emergencies and provide immediate care\n• Collaborate with pharmaceutical representatives and medical suppliers\n• Conduct routine health assessments and screenings\n• Maintain sterile environments and follow infection control protocols\n• Educate patients and families on health management and disease prevention\n• Ensure patient privacy and maintain confidentiality\n• Monitor patient progress and adjust treatment plans accordingly\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 6-10 years of relevant experience\n• Proficiency in BLS/ACLS\n• Proficiency in Wound Care\n• Proficiency in Medical Ethics\n• Proficiency in HIPAA Compliance\n• Proficiency in Clinical Documentation\n• Proficiency in Clinical Research\n• Proficiency in EMR/EHR\n• Proficiency in CPT Codes\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Mobile and internet reimbursement\n• Work-from-home flexibility\n• Company-sponsored certifications\n• Modern office with recreational facilities\n• Recognition and rewards programs\n• Professional development and training programs\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Ghaziabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Vijaya Diagnostics!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Vijaya Diagnostics",
+      "value": "260-4-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Vijaya Diagnostics",
+      "sameAs": "https://www.google.com/search?q=Vijaya%20Diagnostics",
+      "logo": "https://logo.clearbit.com/vijayadiagnostics.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Vijaya Diagnostics Office",
+        "addressLocality": "Ghaziabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "BLS/ACLS, Wound Care, Medical Ethics, HIPAA Compliance, Clinical Documentation, Clinical Research, EMR/EHR, CPT Codes",
+    "responsibilities": "Respond to medical emergencies and provide immediate care. Collaborate with pharmaceutical representatives and medical suppliers. Conduct routine health assessments and screenings. Maintain sterile environments and follow infection control protocols. Educate patients and families on health management and disease prevention. Ensure patient privacy and maintain confidentiality. Monitor patient progress and adjust treatment plans accordingly",
+    "benefits": "Mobile and internet reimbursement. Work-from-home flexibility. Company-sponsored certifications. Modern office with recreational facilities. Recognition and rewards programs. Professional development and training programs",
+    "industry": "healthcare",
+    "occupationalCategory": "Radiologist",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Mobile and internet reimbursement, Work-from-home flexibility, Company-sponsored certifications, Modern office with recreational facilities, Recognition and rewards programs, Professional development and training programs"
+  },
+  "meta": {
+    "description": "Are you a skilled Radiologist looking for your next big career move? Vijaya Diagnostics in Ghaziabad offers you the perfect platform to grow professionally and ",
+    "keywords": "Radiologist, Vijaya Diagnostics, jobs in Ghaziabad, Uttar Pradesh jobs, healthcare jobs India, BLS/ACLS, Wound Care, Medical Ethics, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:52:48.230Z",
+  "page": 64
+}
