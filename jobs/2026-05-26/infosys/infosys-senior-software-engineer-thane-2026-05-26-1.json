@@ -1,0 +1,93 @@
+{
+  "slug": "infosys-senior-software-engineer-thane-2026-05-26-1",
+  "title": "Senior Software Engineer - Infosys - Multiple Openings",
+  "company": "Infosys",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Thane",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Docker",
+    "Python",
+    "Machine Learning",
+    "CI/CD",
+    "Agile/Scrum",
+    "Kubernetes",
+    "Java",
+    "AWS"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Infosys - Multiple Openings",
+    "description": "Infosys has an exciting opening for a Senior Software Engineer at our Thane office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Infosys:\nInfosys is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Write clean, maintainable, and well-documented code\n• Optimize application performance and ensure high availability\n• Contribute to system architecture and technical design decisions\n• Ensure code security and follow best practices for data protection\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Mentor junior developers and conduct knowledge-sharing sessions\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 10-15 years of relevant experience\n• Proficiency in Docker\n• Proficiency in Python\n• Proficiency in Machine Learning\n• Proficiency in CI/CD\n• Proficiency in Agile/Scrum\n• Proficiency in Kubernetes\n• Proficiency in Java\n• Proficiency in AWS\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Flexible working hours\n• Employee stock options (ESOPs) for eligible roles\n• Modern office with recreational facilities\n• Transportation and conveyance allowance\n• Annual paid leaves and casual leaves\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Thane, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Infosys!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Infosys",
+      "value": "2-1-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Infosys",
+      "sameAs": "https://www.google.com/search?q=Infosys",
+      "logo": "https://logo.clearbit.com/infosys.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Infosys Office",
+        "addressLocality": "Thane",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "Docker, Python, Machine Learning, CI/CD, Agile/Scrum, Kubernetes, Java, AWS",
+    "responsibilities": "Design, develop and maintain scalable software applications. Write clean, maintainable, and well-documented code. Optimize application performance and ensure high availability. Contribute to system architecture and technical design decisions. Ensure code security and follow best practices for data protection. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Mentor junior developers and conduct knowledge-sharing sessions",
+    "benefits": "Work-from-home flexibility. Flexible working hours. Employee stock options (ESOPs) for eligible roles. Modern office with recreational facilities. Transportation and conveyance allowance. Annual paid leaves and casual leaves",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Flexible working hours, Employee stock options (ESOPs) for eligible roles, Modern office with recreational facilities, Transportation and conveyance allowance, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "Infosys has an exciting opening for a Senior Software Engineer at our Thane office. Join a company that values innovation, collaboration, and continuous learnin",
+    "keywords": "Senior Software Engineer, Infosys, jobs in Thane, Maharashtra jobs, technology jobs India, Docker, Python, Machine Learning, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:44:34.482Z",
+  "page": 0
+}
