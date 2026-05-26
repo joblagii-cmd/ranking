@@ -1,0 +1,93 @@
+{
+  "slug": "vedanta-plant-manager-patna-2026-05-26-4",
+  "title": "Mid-Level Plant Manager at Vedanta",
+  "company": "Vedanta",
+  "industry": "manufacturing",
+  "role": "Plant Manager",
+  "location": {
+    "city": "Patna",
+    "state": "Bihar",
+    "region": "Eastern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "5S",
+    "Statistical Process Control",
+    "SolidWorks",
+    "ISO 9001",
+    "Six Sigma",
+    "Root Cause Analysis",
+    "Kaizen",
+    "GD&T"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Plant Manager at Vedanta",
+    "description": "Vedanta is actively seeking a talented and motivated Plant Manager to join our dynamic team in Patna. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout Vedanta:\nVedanta is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Oversee daily production operations to meet output targets\n• Train and supervise shop floor workers and supervisors\n• Ensure compliance with safety regulations and factory acts\n• Ensure product quality meets internal and customer specifications\n• Maintain accurate production records and prepare daily reports\n• Prepare production cost analysis and efficiency reports\n• Coordinate with logistics for dispatching finished goods\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 12-20 years of relevant experience\n• Proficiency in 5S\n• Proficiency in Statistical Process Control\n• Proficiency in SolidWorks\n• Proficiency in ISO 9001\n• Proficiency in Six Sigma\n• Proficiency in Root Cause Analysis\n• Proficiency in Kaizen\n• Proficiency in GD&T\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Work-from-home flexibility\n• Comprehensive health insurance for self and family\n• Referral bonus program\n• Professional development and training programs\n• Competitive salary with performance-linked incentives\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Patna, Bihar, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Vedanta!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Vedanta",
+      "value": "423-4-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Vedanta",
+      "sameAs": "https://www.google.com/search?q=Vedanta",
+      "logo": "https://logo.clearbit.com/vedanta.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Vedanta Office",
+        "addressLocality": "Patna",
+        "addressRegion": "Bihar",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "5S, Statistical Process Control, SolidWorks, ISO 9001, Six Sigma, Root Cause Analysis, Kaizen, GD&T",
+    "responsibilities": "Oversee daily production operations to meet output targets. Train and supervise shop floor workers and supervisors. Ensure compliance with safety regulations and factory acts. Ensure product quality meets internal and customer specifications. Maintain accurate production records and prepare daily reports. Prepare production cost analysis and efficiency reports. Coordinate with logistics for dispatching finished goods",
+    "benefits": "Provident Fund and Gratuity as per company policy. Work-from-home flexibility. Comprehensive health insurance for self and family. Referral bonus program. Professional development and training programs. Competitive salary with performance-linked incentives",
+    "industry": "manufacturing",
+    "occupationalCategory": "Plant Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Work-from-home flexibility, Comprehensive health insurance for self and family, Referral bonus program, Professional development and training programs, Competitive salary with performance-linked incentives"
+  },
+  "meta": {
+    "description": "Vedanta is actively seeking a talented and motivated Plant Manager to join our dynamic team in Patna. This is an excellent opportunity for professionals who are",
+    "keywords": "Plant Manager, Vedanta, jobs in Patna, Bihar jobs, manufacturing jobs India, 5S, Statistical Process Control, SolidWorks, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:58:00.871Z",
+  "page": 105
+}
