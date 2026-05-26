@@ -1,0 +1,93 @@
+{
+  "slug": "nasscom-foundation-teacher-chennai-2026-05-26-0",
+  "title": "Job Opening Teacher at NASSCOM Foundation",
+  "company": "NASSCOM Foundation",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Pedagogy",
+    "Content Creation",
+    "Child Psychology",
+    "Bloom's Taxonomy",
+    "Special Education",
+    "LMS Platforms",
+    "Educational Technology",
+    "Data Analysis"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Job Opening Teacher at NASSCOM Foundation",
+    "description": "Join the NASSCOM Foundation family as a Teacher in Chennai. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout NASSCOM Foundation:\nNASSCOM Foundation is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Conduct parent-teacher meetings and update parents on student performance\n• Develop and deliver engaging lesson plans for students\n• Conduct doubt-clearing sessions and remedial classes for weak students\n• Monitor student progress and provide timely feedback\n• Create curriculum-aligned learning materials and assessments\n• Contribute to school newsletter, blogs, and other publications\n• Design formative and summative assessments aligned to learning objectives\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 1-3 years of relevant experience\n• Proficiency in Pedagogy\n• Proficiency in Content Creation\n• Proficiency in Child Psychology\n• Proficiency in Bloom's Taxonomy\n• Proficiency in Special Education\n• Proficiency in LMS Platforms\n• Proficiency in Educational Technology\n• Proficiency in Data Analysis\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• International travel opportunities for senior roles\n• Provident Fund and Gratuity as per company policy\n• Mobile and internet reimbursement\n• Work-from-home flexibility\n• Comprehensive health insurance for self and family\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Chennai, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with NASSCOM Foundation!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "NASSCOM Foundation",
+      "value": "569-0-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "NASSCOM Foundation",
+      "sameAs": "https://www.google.com/search?q=NASSCOM%20Foundation",
+      "logo": "https://logo.clearbit.com/nasscomfoundation.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "NASSCOM Foundation Office",
+        "addressLocality": "Chennai",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "Pedagogy, Content Creation, Child Psychology, Bloom's Taxonomy, Special Education, LMS Platforms, Educational Technology, Data Analysis",
+    "responsibilities": "Conduct parent-teacher meetings and update parents on student performance. Develop and deliver engaging lesson plans for students. Conduct doubt-clearing sessions and remedial classes for weak students. Monitor student progress and provide timely feedback. Create curriculum-aligned learning materials and assessments. Contribute to school newsletter, blogs, and other publications. Design formative and summative assessments aligned to learning objectives",
+    "benefits": "Annual paid leaves and casual leaves. International travel opportunities for senior roles. Provident Fund and Gratuity as per company policy. Mobile and internet reimbursement. Work-from-home flexibility. Comprehensive health insurance for self and family",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, International travel opportunities for senior roles, Provident Fund and Gratuity as per company policy, Mobile and internet reimbursement, Work-from-home flexibility, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "Join the NASSCOM Foundation family as a Teacher in Chennai. We believe in empowering our employees with the tools, training, and environment they need to succee",
+    "keywords": "Teacher, NASSCOM Foundation, jobs in Chennai, Tamil Nadu jobs, education jobs India, Pedagogy, Content Creation, Child Psychology, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T04:03:04.587Z",
+  "page": 142
+}

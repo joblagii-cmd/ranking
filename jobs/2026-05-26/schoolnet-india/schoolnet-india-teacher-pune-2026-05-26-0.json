@@ -1,0 +1,93 @@
+{
+  "slug": "schoolnet-india-teacher-pune-2026-05-26-0",
+  "title": "Career Opportunity Teacher at Schoolnet India",
+  "company": "Schoolnet India",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Pune",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Educational Technology",
+    "Mentoring",
+    "Curriculum Development",
+    "Communication Skills",
+    "E-learning",
+    "Data Analysis",
+    "Student Assessment",
+    "Special Education"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Career Opportunity Teacher at Schoolnet India",
+    "description": "Join the Schoolnet India family as a Teacher in Pune. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Schoolnet India:\nSchoolnet India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Develop and deliver engaging lesson plans for students\n• Create curriculum-aligned learning materials and assessments\n• Monitor student progress and provide timely feedback\n• Maintain student records and prepare progress reports\n• Conduct parent-teacher meetings and update parents on student performance\n• Maintain classroom discipline and create a positive learning environment\n• Contribute to school newsletter, blogs, and other publications\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 6-10 years of relevant experience\n• Proficiency in Educational Technology\n• Proficiency in Mentoring\n• Proficiency in Curriculum Development\n• Proficiency in Communication Skills\n• Proficiency in E-learning\n• Proficiency in Data Analysis\n• Proficiency in Student Assessment\n• Proficiency in Special Education\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Competitive salary with performance-linked incentives\n• Referral bonus program\n• Modern office with recreational facilities\n• Mobile and internet reimbursement\n• Work-from-home flexibility\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Pune, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Schoolnet India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Schoolnet India",
+      "value": "572-0-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Schoolnet India",
+      "sameAs": "https://www.google.com/search?q=Schoolnet%20India",
+      "logo": "https://logo.clearbit.com/schoolnetindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Schoolnet India Office",
+        "addressLocality": "Pune",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "Educational Technology, Mentoring, Curriculum Development, Communication Skills, E-learning, Data Analysis, Student Assessment, Special Education",
+    "responsibilities": "Develop and deliver engaging lesson plans for students. Create curriculum-aligned learning materials and assessments. Monitor student progress and provide timely feedback. Maintain student records and prepare progress reports. Conduct parent-teacher meetings and update parents on student performance. Maintain classroom discipline and create a positive learning environment. Contribute to school newsletter, blogs, and other publications",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Competitive salary with performance-linked incentives. Referral bonus program. Modern office with recreational facilities. Mobile and internet reimbursement. Work-from-home flexibility",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Competitive salary with performance-linked incentives, Referral bonus program, Modern office with recreational facilities, Mobile and internet reimbursement, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "Join the Schoolnet India family as a Teacher in Pune. We believe in empowering our employees with the tools, training, and environment they need to succeed.",
+    "keywords": "Teacher, Schoolnet India, jobs in Pune, Maharashtra jobs, education jobs India, Educational Technology, Mentoring, Curriculum Development, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T04:03:04.588Z",
+  "page": 142
+}
