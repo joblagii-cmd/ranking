@@ -1,0 +1,93 @@
+{
+  "slug": "ccavenue-credit-analyst-jabalpur-2026-05-26-2",
+  "title": "CCAvenue is Hiring: Credit Analyst (Lead)",
+  "company": "CCAvenue",
+  "industry": "finance",
+  "role": "Credit Analyst",
+  "location": {
+    "city": "Jabalpur",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "VBA",
+    "IFRS",
+    "SAP FICO",
+    "SQL",
+    "Tally",
+    "Power BI",
+    "Bloomberg Terminal",
+    "MS Excel"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "CCAvenue is Hiring: Credit Analyst (Lead)",
+    "description": "We at CCAvenue are looking for an experienced Credit Analyst based out of Jabalpur. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout CCAvenue:\nCCAvenue is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Process payroll and manage employee reimbursements\n• Ensure compliance with tax regulations and statutory requirements\n• Prepare annual reports and investor presentations\n• Manage accounts payable and accounts receivable functions\n• Implement and maintain internal controls and audit procedures\n• Monitor financial performance against targets and provide variance analysis\n• Manage credit risk assessment and loan appraisal processes\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 12-20 years of relevant experience\n• Proficiency in VBA\n• Proficiency in IFRS\n• Proficiency in SAP FICO\n• Proficiency in SQL\n• Proficiency in Tally\n• Proficiency in Power BI\n• Proficiency in Bloomberg Terminal\n• Proficiency in MS Excel\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Annual performance appraisal\n• Work-from-home flexibility\n• Modern office with recreational facilities\n• Maternity and paternity leave\n• Annual paid leaves and casual leaves\n• Mobile and internet reimbursement\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Jabalpur, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with CCAvenue!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "CCAvenue",
+      "value": "207-2-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "CCAvenue",
+      "sameAs": "https://www.google.com/search?q=CCAvenue",
+      "logo": "https://logo.clearbit.com/ccavenue.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "CCAvenue Office",
+        "addressLocality": "Jabalpur",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "VBA, IFRS, SAP FICO, SQL, Tally, Power BI, Bloomberg Terminal, MS Excel",
+    "responsibilities": "Process payroll and manage employee reimbursements. Ensure compliance with tax regulations and statutory requirements. Prepare annual reports and investor presentations. Manage accounts payable and accounts receivable functions. Implement and maintain internal controls and audit procedures. Monitor financial performance against targets and provide variance analysis. Manage credit risk assessment and loan appraisal processes",
+    "benefits": "Annual performance appraisal. Work-from-home flexibility. Modern office with recreational facilities. Maternity and paternity leave. Annual paid leaves and casual leaves. Mobile and internet reimbursement",
+    "industry": "finance",
+    "occupationalCategory": "Credit Analyst",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual performance appraisal, Work-from-home flexibility, Modern office with recreational facilities, Maternity and paternity leave, Annual paid leaves and casual leaves, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "We at CCAvenue are looking for an experienced Credit Analyst based out of Jabalpur. If you are a result-oriented professional with a passion for excellence, we ",
+    "keywords": "Credit Analyst, CCAvenue, jobs in Jabalpur, Madhya Pradesh jobs, finance jobs India, VBA, IFRS, SAP FICO, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:51:09.567Z",
+  "page": 51
+}
