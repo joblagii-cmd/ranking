@@ -1,0 +1,94 @@
+{
+  "slug": "salesforce-india-software-engineer-vijayawada-2026-05-26-0",
+  "title": "Walk-in Drive Software Engineer at Salesforce India",
+  "company": "Salesforce India",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Java",
+    "Machine Learning",
+    "Agile/Scrum",
+    "Python",
+    "Node.js",
+    "Docker",
+    "TensorFlow",
+    "Kubernetes"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Walk-in Drive Software Engineer at Salesforce India",
+    "description": "Salesforce India, one of India's leading organizations, is hiring a Software Engineer for our Vijayawada operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Salesforce India:\nSalesforce India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write clean, maintainable, and well-documented code\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Ensure code security and follow best practices for data protection\n• Design, develop and maintain scalable software applications\n• Participate in code reviews and contribute to technical discussions\n• Collaborate with cross-functional teams including product, design, and QA\n• Implement new features based on product requirements\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 12-20 years of relevant experience\n• Proficiency in Java\n• Proficiency in Machine Learning\n• Proficiency in Agile/Scrum\n• Proficiency in Python\n• Proficiency in Node.js\n• Proficiency in Docker\n• Proficiency in TensorFlow\n• Proficiency in Kubernetes\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Work-from-home flexibility\n• Employee stock options (ESOPs) for eligible roles\n• Modern office with recreational facilities\n• Annual performance appraisal\n• Annual paid leaves and casual leaves\n• Recognition and rewards programs\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Vijayawada, Andhra Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Salesforce India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Salesforce India",
+      "value": "44-0-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Salesforce India",
+      "sameAs": "https://www.google.com/search?q=Salesforce%20India",
+      "logo": "https://logo.clearbit.com/salesforceindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Salesforce India Office",
+        "addressLocality": "Vijayawada",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "Java, Machine Learning, Agile/Scrum, Python, Node.js, Docker, TensorFlow, Kubernetes",
+    "responsibilities": "Write clean, maintainable, and well-documented code. Work with agile methodologies including daily stand-ups and sprint planning. Ensure code security and follow best practices for data protection. Design, develop and maintain scalable software applications. Participate in code reviews and contribute to technical discussions. Collaborate with cross-functional teams including product, design, and QA. Implement new features based on product requirements",
+    "benefits": "Work-from-home flexibility. Employee stock options (ESOPs) for eligible roles. Modern office with recreational facilities. Annual performance appraisal. Annual paid leaves and casual leaves. Recognition and rewards programs",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Employee stock options (ESOPs) for eligible roles, Modern office with recreational facilities, Annual performance appraisal, Annual paid leaves and casual leaves, Recognition and rewards programs"
+  },
+  "meta": {
+    "description": "Salesforce India, one of India's leading organizations, is hiring a Software Engineer for our Vijayawada operations. We offer a competitive salary package along",
+    "keywords": "Software Engineer, Salesforce India, jobs in Vijayawada, Andhra Pradesh jobs, technology jobs India, Java, Machine Learning, Agile/Scrum, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:45:53.233Z",
+  "page": 10
+}
