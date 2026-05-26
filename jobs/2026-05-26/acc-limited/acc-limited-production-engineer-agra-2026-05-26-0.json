@@ -1,0 +1,93 @@
+{
+  "slug": "acc-limited-production-engineer-agra-2026-05-26-0",
+  "title": "Immediate Requirement Production Engineer at ACC Limited",
+  "company": "ACC Limited",
+  "industry": "manufacturing",
+  "role": "Production Engineer",
+  "location": {
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "ISO 9001",
+    "Six Sigma",
+    "FMEA",
+    "PLC/SCADA",
+    "Statistical Process Control",
+    "Lean Manufacturing",
+    "SAP MM/PP",
+    "Project Management"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Immediate Requirement Production Engineer at ACC Limited",
+    "description": "ACC Limited is actively seeking a talented and motivated Production Engineer to join our dynamic team in Agra. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout ACC Limited:\nACC Limited is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure compliance with safety regulations and factory acts\n• Conduct root cause analysis for quality rejections and defects\n• Manage supplier quality audits and vendor development\n• Monitor equipment performance and coordinate preventive maintenance\n• Implement 5S, Kaizen, and Six Sigma practices on the shop floor\n• Implement lean manufacturing and continuous improvement initiatives\n• Ensure product quality meets internal and customer specifications\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 12-20 years of relevant experience\n• Proficiency in ISO 9001\n• Proficiency in Six Sigma\n• Proficiency in FMEA\n• Proficiency in PLC/SCADA\n• Proficiency in Statistical Process Control\n• Proficiency in Lean Manufacturing\n• Proficiency in SAP MM/PP\n• Proficiency in Project Management\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Provident Fund and Gratuity as per company policy\n• Annual performance appraisal\n• Mobile and internet reimbursement\n• Comprehensive health insurance for self and family\n• Company-sponsored certifications\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Agra, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with ACC Limited!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "ACC Limited",
+      "value": "432-0-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "ACC Limited",
+      "sameAs": "https://www.google.com/search?q=ACC%20Limited",
+      "logo": "https://logo.clearbit.com/acclimited.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "ACC Limited Office",
+        "addressLocality": "Agra",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "ISO 9001, Six Sigma, FMEA, PLC/SCADA, Statistical Process Control, Lean Manufacturing, SAP MM/PP, Project Management",
+    "responsibilities": "Ensure compliance with safety regulations and factory acts. Conduct root cause analysis for quality rejections and defects. Manage supplier quality audits and vendor development. Monitor equipment performance and coordinate preventive maintenance. Implement 5S, Kaizen, and Six Sigma practices on the shop floor. Implement lean manufacturing and continuous improvement initiatives. Ensure product quality meets internal and customer specifications",
+    "benefits": "Annual paid leaves and casual leaves. Provident Fund and Gratuity as per company policy. Annual performance appraisal. Mobile and internet reimbursement. Comprehensive health insurance for self and family. Company-sponsored certifications",
+    "industry": "manufacturing",
+    "occupationalCategory": "Production Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Provident Fund and Gratuity as per company policy, Annual performance appraisal, Mobile and internet reimbursement, Comprehensive health insurance for self and family, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "ACC Limited is actively seeking a talented and motivated Production Engineer to join our dynamic team in Agra. This is an excellent opportunity for professional",
+    "keywords": "Production Engineer, ACC Limited, jobs in Agra, Uttar Pradesh jobs, manufacturing jobs India, ISO 9001, Six Sigma, FMEA, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:58:16.216Z",
+  "page": 107
+}

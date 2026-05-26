@@ -1,0 +1,93 @@
+{
+  "slug": "acc-limited-manufacturing-engineer-agra-2026-05-26-1",
+  "title": "Manufacturing Engineer - ACC Limited - Experienced Professionals",
+  "company": "ACC Limited",
+  "industry": "manufacturing",
+  "role": "Manufacturing Engineer",
+  "location": {
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "SAP MM/PP",
+    "AutoCAD",
+    "Six Sigma",
+    "SolidWorks",
+    "ERP Systems",
+    "PLC/SCADA",
+    "GD&T",
+    "Statistical Process Control"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Manufacturing Engineer - ACC Limited - Experienced Professionals",
+    "description": "We at ACC Limited are looking for an experienced Manufacturing Engineer based out of Agra. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout ACC Limited:\nACC Limited is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure environmental compliance and waste management\n• Ensure compliance with safety regulations and factory acts\n• Oversee daily production operations to meet output targets\n• Monitor equipment performance and coordinate preventive maintenance\n• Manage raw material procurement and inventory levels\n• Train and supervise shop floor workers and supervisors\n• Coordinate with design and engineering teams on product improvements\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 10-15 years of relevant experience\n• Proficiency in SAP MM/PP\n• Proficiency in AutoCAD\n• Proficiency in Six Sigma\n• Proficiency in SolidWorks\n• Proficiency in ERP Systems\n• Proficiency in PLC/SCADA\n• Proficiency in GD&T\n• Proficiency in Statistical Process Control\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Annual performance appraisal\n• Modern office with recreational facilities\n• Comprehensive health insurance for self and family\n• International travel opportunities for senior roles\n• Meal coupons and food allowance\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Agra, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with ACC Limited!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "ACC Limited",
+      "value": "432-1-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "ACC Limited",
+      "sameAs": "https://www.google.com/search?q=ACC%20Limited",
+      "logo": "https://logo.clearbit.com/acclimited.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "ACC Limited Office",
+        "addressLocality": "Agra",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "SAP MM/PP, AutoCAD, Six Sigma, SolidWorks, ERP Systems, PLC/SCADA, GD&T, Statistical Process Control",
+    "responsibilities": "Ensure environmental compliance and waste management. Ensure compliance with safety regulations and factory acts. Oversee daily production operations to meet output targets. Monitor equipment performance and coordinate preventive maintenance. Manage raw material procurement and inventory levels. Train and supervise shop floor workers and supervisors. Coordinate with design and engineering teams on product improvements",
+    "benefits": "Work-from-home flexibility. Annual performance appraisal. Modern office with recreational facilities. Comprehensive health insurance for self and family. International travel opportunities for senior roles. Meal coupons and food allowance",
+    "industry": "manufacturing",
+    "occupationalCategory": "Manufacturing Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Annual performance appraisal, Modern office with recreational facilities, Comprehensive health insurance for self and family, International travel opportunities for senior roles, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "We at ACC Limited are looking for an experienced Manufacturing Engineer based out of Agra. If you are a result-oriented professional with a passion for excellen",
+    "keywords": "Manufacturing Engineer, ACC Limited, jobs in Agra, Uttar Pradesh jobs, manufacturing jobs India, SAP MM/PP, AutoCAD, Six Sigma, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:58:16.216Z",
+  "page": 107
+}
