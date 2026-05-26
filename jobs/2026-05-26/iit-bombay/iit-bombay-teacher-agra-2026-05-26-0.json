@@ -1,0 +1,93 @@
+{
+  "slug": "iit-bombay-teacher-agra-2026-05-26-0",
+  "title": "Vacancy for Teacher at IIT Bombay",
+  "company": "IIT Bombay",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "IB Curriculum",
+    "Pedagogy",
+    "Bloom's Taxonomy",
+    "Mentoring",
+    "Classroom Management",
+    "MS Office",
+    "Student Assessment",
+    "Research Skills"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Vacancy for Teacher at IIT Bombay",
+    "description": "IIT Bombay, one of India's leading organizations, is hiring a Teacher for our Agra operations. We offer a competitive salary package along with world-class benefits.\n\nAbout IIT Bombay:\nIIT Bombay is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in teacher training and professional development programs\n• Participate in school events, workshops, and training programs\n• Conduct parent-teacher meetings and update parents on student performance\n• Design formative and summative assessments aligned to learning objectives\n• Collaborate with faculty on curriculum development initiatives\n• Create curriculum-aligned learning materials and assessments\n• Develop and deliver engaging lesson plans for students\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 1-3 years of relevant experience\n• Proficiency in IB Curriculum\n• Proficiency in Pedagogy\n• Proficiency in Bloom's Taxonomy\n• Proficiency in Mentoring\n• Proficiency in Classroom Management\n• Proficiency in MS Office\n• Proficiency in Student Assessment\n• Proficiency in Research Skills\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Maternity and paternity leave\n• Professional development and training programs\n• Competitive salary with performance-linked incentives\n• Company-sponsored certifications\n• Annual paid leaves and casual leaves\n• Recognition and rewards programs\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Agra, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with IIT Bombay!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "IIT Bombay",
+      "value": "516-0-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "IIT Bombay",
+      "sameAs": "https://www.google.com/search?q=IIT%20Bombay",
+      "logo": "https://logo.clearbit.com/iitbombay.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "IIT Bombay Office",
+        "addressLocality": "Agra",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "IB Curriculum, Pedagogy, Bloom's Taxonomy, Mentoring, Classroom Management, MS Office, Student Assessment, Research Skills",
+    "responsibilities": "Participate in teacher training and professional development programs. Participate in school events, workshops, and training programs. Conduct parent-teacher meetings and update parents on student performance. Design formative and summative assessments aligned to learning objectives. Collaborate with faculty on curriculum development initiatives. Create curriculum-aligned learning materials and assessments. Develop and deliver engaging lesson plans for students",
+    "benefits": "Maternity and paternity leave. Professional development and training programs. Competitive salary with performance-linked incentives. Company-sponsored certifications. Annual paid leaves and casual leaves. Recognition and rewards programs",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Maternity and paternity leave, Professional development and training programs, Competitive salary with performance-linked incentives, Company-sponsored certifications, Annual paid leaves and casual leaves, Recognition and rewards programs"
+  },
+  "meta": {
+    "description": "IIT Bombay, one of India's leading organizations, is hiring a Teacher for our Agra operations. We offer a competitive salary package along with world-class bene",
+    "keywords": "Teacher, IIT Bombay, jobs in Agra, Uttar Pradesh jobs, education jobs India, IB Curriculum, Pedagogy, Bloom's Taxonomy, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T04:01:02.385Z",
+  "page": 128
+}
