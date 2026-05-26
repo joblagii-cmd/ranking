@@ -1,0 +1,93 @@
+{
+  "slug": "s-chand-group-instructional-designer-jodhpur-2026-05-26-4",
+  "title": "Lead Instructional Designer at S.Chand Group",
+  "company": "S.Chand Group",
+  "industry": "education",
+  "role": "Instructional Designer",
+  "location": {
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "LMS Platforms",
+    "Content Creation",
+    "E-learning",
+    "Zoom/Teams",
+    "MS Office",
+    "Curriculum Development",
+    "Child Psychology",
+    "Bloom's Taxonomy"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Lead Instructional Designer at S.Chand Group",
+    "description": "An exciting career opportunity awaits you at S.Chand Group. We are on the lookout for a dedicated Instructional Designer to strengthen our Jodhpur-based team.\n\nAbout S.Chand Group:\nS.Chand Group is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Develop and deliver engaging lesson plans for students\n• Conduct doubt-clearing sessions and remedial classes for weak students\n• Contribute to school newsletter, blogs, and other publications\n• Conduct parent-teacher meetings and update parents on student performance\n• Design formative and summative assessments aligned to learning objectives\n• Collaborate with faculty on curriculum development initiatives\n• Create curriculum-aligned learning materials and assessments\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 3-6 years of relevant experience\n• Proficiency in LMS Platforms\n• Proficiency in Content Creation\n• Proficiency in E-learning\n• Proficiency in Zoom/Teams\n• Proficiency in MS Office\n• Proficiency in Curriculum Development\n• Proficiency in Child Psychology\n• Proficiency in Bloom's Taxonomy\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• Learning & development budget\n• Life and accident insurance\n• Company-sponsored certifications\n• Employee stock options (ESOPs) for eligible roles\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Jodhpur, Rajasthan, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with S.Chand Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "S.Chand Group",
+      "value": "543-4-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "S.Chand Group",
+      "sameAs": "https://www.google.com/search?q=S.Chand%20Group",
+      "logo": "https://logo.clearbit.com/schandgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "S.Chand Group Office",
+        "addressLocality": "Jodhpur",
+        "addressRegion": "Rajasthan",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "LMS Platforms, Content Creation, E-learning, Zoom/Teams, MS Office, Curriculum Development, Child Psychology, Bloom's Taxonomy",
+    "responsibilities": "Develop and deliver engaging lesson plans for students. Conduct doubt-clearing sessions and remedial classes for weak students. Contribute to school newsletter, blogs, and other publications. Conduct parent-teacher meetings and update parents on student performance. Design formative and summative assessments aligned to learning objectives. Collaborate with faculty on curriculum development initiatives. Create curriculum-aligned learning materials and assessments",
+    "benefits": "Comprehensive health insurance for self and family. Learning & development budget. Life and accident insurance. Company-sponsored certifications. Employee stock options (ESOPs) for eligible roles. Provident Fund and Gratuity as per company policy",
+    "industry": "education",
+    "occupationalCategory": "Instructional Designer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, Learning & development budget, Life and accident insurance, Company-sponsored certifications, Employee stock options (ESOPs) for eligible roles, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at S.Chand Group. We are on the lookout for a dedicated Instructional Designer to strengthen our Jodhpur-based team.",
+    "keywords": "Instructional Designer, S.Chand Group, jobs in Jodhpur, Rajasthan jobs, education jobs India, LMS Platforms, Content Creation, E-learning, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T04:02:06.532Z",
+  "page": 135
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "pearson-india-teacher-jabalpur-2026-05-26-0",
+  "title": "Job Opening Teacher at Pearson India",
+  "company": "Pearson India",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Jabalpur",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Pedagogy",
+    "Curriculum Development",
+    "Bloom's Taxonomy",
+    "CBSE/ICSE Standards",
+    "Zoom/Teams",
+    "E-learning",
+    "Child Psychology",
+    "Data Analysis"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Job Opening Teacher at Pearson India",
+    "description": "An exciting career opportunity awaits you at Pearson India. We are on the lookout for a dedicated Teacher to strengthen our Jabalpur-based team.\n\nAbout Pearson India:\nPearson India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in school events, workshops, and training programs\n• Maintain student records and prepare progress reports\n• Conduct doubt-clearing sessions and remedial classes for weak students\n• Monitor student progress and provide timely feedback\n• Collaborate with faculty on curriculum development initiatives\n• Support students with special educational needs\n• Design formative and summative assessments aligned to learning objectives\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 3-6 years of relevant experience\n• Proficiency in Pedagogy\n• Proficiency in Curriculum Development\n• Proficiency in Bloom's Taxonomy\n• Proficiency in CBSE/ICSE Standards\n• Proficiency in Zoom/Teams\n• Proficiency in E-learning\n• Proficiency in Child Psychology\n• Proficiency in Data Analysis\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Meal coupons and food allowance\n• Modern office with recreational facilities\n• Mobile and internet reimbursement\n• Referral bonus program\n• Professional development and training programs\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Jabalpur, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Pearson India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Pearson India",
+      "value": "541-0-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Pearson India",
+      "sameAs": "https://www.google.com/search?q=Pearson%20India",
+      "logo": "https://logo.clearbit.com/pearsonindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Pearson India Office",
+        "addressLocality": "Jabalpur",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "Pedagogy, Curriculum Development, Bloom's Taxonomy, CBSE/ICSE Standards, Zoom/Teams, E-learning, Child Psychology, Data Analysis",
+    "responsibilities": "Participate in school events, workshops, and training programs. Maintain student records and prepare progress reports. Conduct doubt-clearing sessions and remedial classes for weak students. Monitor student progress and provide timely feedback. Collaborate with faculty on curriculum development initiatives. Support students with special educational needs. Design formative and summative assessments aligned to learning objectives",
+    "benefits": "Annual paid leaves and casual leaves. Meal coupons and food allowance. Modern office with recreational facilities. Mobile and internet reimbursement. Referral bonus program. Professional development and training programs",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Meal coupons and food allowance, Modern office with recreational facilities, Mobile and internet reimbursement, Referral bonus program, Professional development and training programs"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Pearson India. We are on the lookout for a dedicated Teacher to strengthen our Jabalpur-based team.",
+    "keywords": "Teacher, Pearson India, jobs in Jabalpur, Madhya Pradesh jobs, education jobs India, Pedagogy, Curriculum Development, Bloom's Taxonomy, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T04:02:06.530Z",
+  "page": 135
+}
