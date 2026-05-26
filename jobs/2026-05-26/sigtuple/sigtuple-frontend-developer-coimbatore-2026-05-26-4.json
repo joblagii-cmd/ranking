@@ -1,0 +1,94 @@
+{
+  "slug": "sigtuple-frontend-developer-coimbatore-2026-05-26-4",
+  "title": "Senior Frontend Developer at SigTuple",
+  "company": "SigTuple",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Git",
+    "SQL",
+    "JavaScript",
+    "MongoDB",
+    "AWS",
+    "Node.js",
+    "Kubernetes",
+    "Python"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Frontend Developer at SigTuple",
+    "description": "SigTuple invites applications from qualified candidates for the position of Frontend Developer at our Coimbatore location. This role offers excellent career advancement prospects.\n\nAbout SigTuple:\nSigTuple is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Contribute to system architecture and technical design decisions\n• Participate in on-call rotation for production support\n• Design, develop and maintain scalable software applications\n• Collaborate with cross-functional teams including product, design, and QA\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Write clean, maintainable, and well-documented code\n• Implement new features based on product requirements\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 12-20 years of relevant experience\n• Proficiency in Git\n• Proficiency in SQL\n• Proficiency in JavaScript\n• Proficiency in MongoDB\n• Proficiency in AWS\n• Proficiency in Node.js\n• Proficiency in Kubernetes\n• Proficiency in Python\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Learning & development budget\n• Maternity and paternity leave\n• International travel opportunities for senior roles\n• Annual paid leaves and casual leaves\n• Recognition and rewards programs\n• Work-from-home flexibility\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Coimbatore, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with SigTuple!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "SigTuple",
+      "value": "120-4-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "SigTuple",
+      "sameAs": "https://www.google.com/search?q=SigTuple",
+      "logo": "https://logo.clearbit.com/sigtuple.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "SigTuple Office",
+        "addressLocality": "Coimbatore",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "Git, SQL, JavaScript, MongoDB, AWS, Node.js, Kubernetes, Python",
+    "responsibilities": "Contribute to system architecture and technical design decisions. Participate in on-call rotation for production support. Design, develop and maintain scalable software applications. Collaborate with cross-functional teams including product, design, and QA. Troubleshoot, debug, and resolve software defects and performance issues. Write clean, maintainable, and well-documented code. Implement new features based on product requirements",
+    "benefits": "Learning & development budget. Maternity and paternity leave. International travel opportunities for senior roles. Annual paid leaves and casual leaves. Recognition and rewards programs. Work-from-home flexibility",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Learning & development budget, Maternity and paternity leave, International travel opportunities for senior roles, Annual paid leaves and casual leaves, Recognition and rewards programs, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "SigTuple invites applications from qualified candidates for the position of Frontend Developer at our Coimbatore location. This role offers excellent career adv",
+    "keywords": "Frontend Developer, SigTuple, jobs in Coimbatore, Tamil Nadu jobs, technology jobs India, Git, SQL, JavaScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:48:19.169Z",
+  "page": 29
+}
