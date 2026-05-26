@@ -1,0 +1,93 @@
+{
+  "slug": "hypercity-department-manager-kanpur-2026-05-26-3",
+  "title": "Department Manager Vacancy at Hypercity - 2026 Batch",
+  "company": "Hypercity",
+  "industry": "retail",
+  "role": "Department Manager",
+  "location": {
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Loyalty Programs",
+    "POS Systems",
+    "CRM",
+    "Visual Merchandising",
+    "Team Leadership",
+    "Omnichannel Retail",
+    "MS Excel",
+    "Inventory Management"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Department Manager Vacancy at Hypercity - 2026 Batch",
+    "description": "Hypercity is actively seeking a talented and motivated Department Manager to join our dynamic team in Kanpur. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout Hypercity:\nHypercity is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Maintain high standards of store hygiene and cleanliness\n• Implement promotional activities and in-store campaigns\n• Assist in recruiting, onboarding, and performance management of staff\n• Manage store operations to ensure smooth daily functioning\n• Monitor inventory levels and coordinate replenishment activities\n• Achieve sales targets and improve store performance metrics\n• Coordinate with the supply chain team for timely stock delivery\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 0-1 years of relevant experience\n• Proficiency in Loyalty Programs\n• Proficiency in POS Systems\n• Proficiency in CRM\n• Proficiency in Visual Merchandising\n• Proficiency in Team Leadership\n• Proficiency in Omnichannel Retail\n• Proficiency in MS Excel\n• Proficiency in Inventory Management\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Company-sponsored certifications\n• Life and accident insurance\n• Maternity and paternity leave\n• Modern office with recreational facilities\n• Mobile and internet reimbursement\n• Annual paid leaves and casual leaves\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Kanpur, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Hypercity!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Hypercity",
+      "value": "662-3-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Hypercity",
+      "sameAs": "https://www.google.com/search?q=Hypercity",
+      "logo": "https://logo.clearbit.com/hypercity.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Hypercity Office",
+        "addressLocality": "Kanpur",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "Loyalty Programs, POS Systems, CRM, Visual Merchandising, Team Leadership, Omnichannel Retail, MS Excel, Inventory Management",
+    "responsibilities": "Maintain high standards of store hygiene and cleanliness. Implement promotional activities and in-store campaigns. Assist in recruiting, onboarding, and performance management of staff. Manage store operations to ensure smooth daily functioning. Monitor inventory levels and coordinate replenishment activities. Achieve sales targets and improve store performance metrics. Coordinate with the supply chain team for timely stock delivery",
+    "benefits": "Company-sponsored certifications. Life and accident insurance. Maternity and paternity leave. Modern office with recreational facilities. Mobile and internet reimbursement. Annual paid leaves and casual leaves",
+    "industry": "retail",
+    "occupationalCategory": "Department Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Company-sponsored certifications, Life and accident insurance, Maternity and paternity leave, Modern office with recreational facilities, Mobile and internet reimbursement, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "Hypercity is actively seeking a talented and motivated Department Manager to join our dynamic team in Kanpur. This is an excellent opportunity for professionals",
+    "keywords": "Department Manager, Hypercity, jobs in Kanpur, Uttar Pradesh jobs, retail jobs India, Loyalty Programs, POS Systems, CRM, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T04:06:10.605Z",
+  "page": 165
+}
