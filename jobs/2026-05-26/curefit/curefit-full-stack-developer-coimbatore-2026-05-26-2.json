@@ -1,0 +1,93 @@
+{
+  "slug": "curefit-full-stack-developer-coimbatore-2026-05-26-2",
+  "title": "Curefit is Hiring: Full Stack Developer (Senior)",
+  "company": "Curefit",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Docker",
+    "MongoDB",
+    "Python",
+    "SQL",
+    "Rust",
+    "React",
+    "AWS",
+    "REST APIs"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Curefit is Hiring: Full Stack Developer (Senior)",
+    "description": "Curefit invites applications from qualified candidates for the position of Full Stack Developer at our Coimbatore location. This role offers excellent career advancement prospects.\n\nAbout Curefit:\nCurefit is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in code reviews and contribute to technical discussions\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Collaborate with cross-functional teams including product, design, and QA\n• Write and execute unit tests and integration tests\n• Contribute to system architecture and technical design decisions\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Write clean, maintainable, and well-documented code\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 0-1 years of relevant experience\n• Proficiency in Docker\n• Proficiency in MongoDB\n• Proficiency in Python\n• Proficiency in SQL\n• Proficiency in Rust\n• Proficiency in React\n• Proficiency in AWS\n• Proficiency in REST APIs\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Annual paid leaves and casual leaves\n• Mobile and internet reimbursement\n• Transportation and conveyance allowance\n• Modern office with recreational facilities\n• Life and accident insurance\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Coimbatore, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Curefit!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Curefit",
+      "value": "121-2-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Curefit",
+      "sameAs": "https://www.google.com/search?q=Curefit",
+      "logo": "https://logo.clearbit.com/curefit.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Curefit Office",
+        "addressLocality": "Coimbatore",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "Docker, MongoDB, Python, SQL, Rust, React, AWS, REST APIs",
+    "responsibilities": "Participate in code reviews and contribute to technical discussions. Mentor junior developers and conduct knowledge-sharing sessions. Collaborate with cross-functional teams including product, design, and QA. Write and execute unit tests and integration tests. Contribute to system architecture and technical design decisions. Work with agile methodologies including daily stand-ups and sprint planning. Write clean, maintainable, and well-documented code",
+    "benefits": "Competitive salary with performance-linked incentives. Annual paid leaves and casual leaves. Mobile and internet reimbursement. Transportation and conveyance allowance. Modern office with recreational facilities. Life and accident insurance",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Annual paid leaves and casual leaves, Mobile and internet reimbursement, Transportation and conveyance allowance, Modern office with recreational facilities, Life and accident insurance"
+  },
+  "meta": {
+    "description": "Curefit invites applications from qualified candidates for the position of Full Stack Developer at our Coimbatore location. This role offers excellent career ad",
+    "keywords": "Full Stack Developer, Curefit, jobs in Coimbatore, Tamil Nadu jobs, technology jobs India, Docker, MongoDB, Python, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:48:26.706Z",
+  "page": 30
+}

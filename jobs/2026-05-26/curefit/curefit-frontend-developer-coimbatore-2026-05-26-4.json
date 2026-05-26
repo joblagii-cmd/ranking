@@ -1,0 +1,93 @@
+{
+  "slug": "curefit-frontend-developer-coimbatore-2026-05-26-4",
+  "title": "Senior Frontend Developer at Curefit",
+  "company": "Curefit",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "TensorFlow",
+    "CI/CD",
+    "MongoDB",
+    "TypeScript",
+    "React",
+    "Java",
+    "Microservices",
+    "Agile/Scrum"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Frontend Developer at Curefit",
+    "description": "Curefit invites applications from qualified candidates for the position of Frontend Developer at our Coimbatore location. This role offers excellent career advancement prospects.\n\nAbout Curefit:\nCurefit is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Ensure code security and follow best practices for data protection\n• Write and execute unit tests and integration tests\n• Collaborate with cross-functional teams including product, design, and QA\n• Design, develop and maintain scalable software applications\n• Implement new features based on product requirements\n• Troubleshoot, debug, and resolve software defects and performance issues\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 10-15 years of relevant experience\n• Proficiency in TensorFlow\n• Proficiency in CI/CD\n• Proficiency in MongoDB\n• Proficiency in TypeScript\n• Proficiency in React\n• Proficiency in Java\n• Proficiency in Microservices\n• Proficiency in Agile/Scrum\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Annual performance appraisal\n• Comprehensive health insurance for self and family\n• Annual paid leaves and casual leaves\n• Recognition and rewards programs\n• Transportation and conveyance allowance\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Coimbatore, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Curefit!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Curefit",
+      "value": "121-4-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Curefit",
+      "sameAs": "https://www.google.com/search?q=Curefit",
+      "logo": "https://logo.clearbit.com/curefit.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Curefit Office",
+        "addressLocality": "Coimbatore",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "TensorFlow, CI/CD, MongoDB, TypeScript, React, Java, Microservices, Agile/Scrum",
+    "responsibilities": "Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Ensure code security and follow best practices for data protection. Write and execute unit tests and integration tests. Collaborate with cross-functional teams including product, design, and QA. Design, develop and maintain scalable software applications. Implement new features based on product requirements. Troubleshoot, debug, and resolve software defects and performance issues",
+    "benefits": "International travel opportunities for senior roles. Annual performance appraisal. Comprehensive health insurance for self and family. Annual paid leaves and casual leaves. Recognition and rewards programs. Transportation and conveyance allowance",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Annual performance appraisal, Comprehensive health insurance for self and family, Annual paid leaves and casual leaves, Recognition and rewards programs, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "Curefit invites applications from qualified candidates for the position of Frontend Developer at our Coimbatore location. This role offers excellent career adva",
+    "keywords": "Frontend Developer, Curefit, jobs in Coimbatore, Tamil Nadu jobs, technology jobs India, TensorFlow, CI/CD, MongoDB, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:48:26.706Z",
+  "page": 30
+}

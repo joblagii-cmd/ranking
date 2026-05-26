@@ -1,0 +1,93 @@
+{
+  "slug": "medlife-backend-developer-jabalpur-2026-05-26-3",
+  "title": "Backend Developer Vacancy at Medlife - 2026 Batch",
+  "company": "Medlife",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Jabalpur",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "CI/CD",
+    "Microservices",
+    "AWS",
+    "Node.js",
+    "Machine Learning",
+    "React",
+    "Rust",
+    "Kubernetes"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Medlife - 2026 Batch",
+    "description": "Medlife invites applications from qualified candidates for the position of Backend Developer at our Jabalpur location. This role offers excellent career advancement prospects.\n\nAbout Medlife:\nMedlife is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Implement new features based on product requirements\n• Ensure code security and follow best practices for data protection\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Participate in code reviews and contribute to technical discussions\n• Integrate third-party APIs and services\n• Troubleshoot, debug, and resolve software defects and performance issues\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 10-15 years of relevant experience\n• Proficiency in CI/CD\n• Proficiency in Microservices\n• Proficiency in AWS\n• Proficiency in Node.js\n• Proficiency in Machine Learning\n• Proficiency in React\n• Proficiency in Rust\n• Proficiency in Kubernetes\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Employee stock options (ESOPs) for eligible roles\n• Flexible working hours\n• Competitive salary with performance-linked incentives\n• Company-sponsored certifications\n• Meal coupons and food allowance\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Jabalpur, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Medlife!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Medlife",
+      "value": "122-3-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Medlife",
+      "sameAs": "https://www.google.com/search?q=Medlife",
+      "logo": "https://logo.clearbit.com/medlife.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Medlife Office",
+        "addressLocality": "Jabalpur",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "CI/CD, Microservices, AWS, Node.js, Machine Learning, React, Rust, Kubernetes",
+    "responsibilities": "Design, develop and maintain scalable software applications. Implement new features based on product requirements. Ensure code security and follow best practices for data protection. Mentor junior developers and conduct knowledge-sharing sessions. Participate in code reviews and contribute to technical discussions. Integrate third-party APIs and services. Troubleshoot, debug, and resolve software defects and performance issues",
+    "benefits": "Provident Fund and Gratuity as per company policy. Employee stock options (ESOPs) for eligible roles. Flexible working hours. Competitive salary with performance-linked incentives. Company-sponsored certifications. Meal coupons and food allowance",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Employee stock options (ESOPs) for eligible roles, Flexible working hours, Competitive salary with performance-linked incentives, Company-sponsored certifications, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "Medlife invites applications from qualified candidates for the position of Backend Developer at our Jabalpur location. This role offers excellent career advance",
+    "keywords": "Backend Developer, Medlife, jobs in Jabalpur, Madhya Pradesh jobs, technology jobs India, CI/CD, Microservices, AWS, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:48:26.706Z",
+  "page": 30
+}
