@@ -1,0 +1,94 @@
+{
+  "slug": "indigrid-real-estate-agent-chennai-2026-05-26-0",
+  "title": "Urgent Opening Real Estate Agent at IndiGrid",
+  "company": "IndiGrid",
+  "industry": "realestate",
+  "role": "Real Estate Agent",
+  "location": {
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Investment Analysis",
+    "Market Research",
+    "AutoCAD",
+    "Project Management",
+    "CRM Software",
+    "GIS Tools",
+    "RERA Compliance",
+    "Negotiation Skills"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Urgent Opening Real Estate Agent at IndiGrid",
+    "description": "Are you a skilled Real Estate Agent looking for your next big career move? IndiGrid in Chennai offers you the perfect platform to grow professionally and personally.\n\nAbout IndiGrid:\nIndiGrid is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Build relationships with channel partners and brokers\n• Source and close property deals with prospective buyers and investors\n• Manage RERA documentation and compliance requirements\n• Achieve monthly and quarterly sales targets\n• Manage relationships with existing customers post-purchase\n• Conduct site visits and property presentations for clients\n• Prepare presentations and proposals for institutional clients\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 12-20 years of relevant experience\n• Proficiency in Investment Analysis\n• Proficiency in Market Research\n• Proficiency in AutoCAD\n• Proficiency in Project Management\n• Proficiency in CRM Software\n• Proficiency in GIS Tools\n• Proficiency in RERA Compliance\n• Proficiency in Negotiation Skills\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Flexible working hours\n• Employee stock options (ESOPs) for eligible roles\n• Learning & development budget\n• Competitive salary with performance-linked incentives\n• Referral bonus program\n• Meal coupons and food allowance\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Chennai, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with IndiGrid!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "IndiGrid",
+      "value": "735-0-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "IndiGrid",
+      "sameAs": "https://www.google.com/search?q=IndiGrid",
+      "logo": "https://logo.clearbit.com/indigrid.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "IndiGrid Office",
+        "addressLocality": "Chennai",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "Investment Analysis, Market Research, AutoCAD, Project Management, CRM Software, GIS Tools, RERA Compliance, Negotiation Skills",
+    "responsibilities": "Build relationships with channel partners and brokers. Source and close property deals with prospective buyers and investors. Manage RERA documentation and compliance requirements. Achieve monthly and quarterly sales targets. Manage relationships with existing customers post-purchase. Conduct site visits and property presentations for clients. Prepare presentations and proposals for institutional clients",
+    "benefits": "Flexible working hours. Employee stock options (ESOPs) for eligible roles. Learning & development budget. Competitive salary with performance-linked incentives. Referral bonus program. Meal coupons and food allowance",
+    "industry": "realestate",
+    "occupationalCategory": "Real Estate Agent",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, Employee stock options (ESOPs) for eligible roles, Learning & development budget, Competitive salary with performance-linked incentives, Referral bonus program, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "Are you a skilled Real Estate Agent looking for your next big career move? IndiGrid in Chennai offers you the perfect platform to grow professionally and person",
+    "keywords": "Real Estate Agent, IndiGrid, jobs in Chennai, Tamil Nadu jobs, realestate jobs India, Investment Analysis, Market Research, AutoCAD, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T04:08:44.133Z",
+  "page": 183
+}
