@@ -1,0 +1,93 @@
+{
+  "slug": "bank-of-baroda-credit-analyst-raipur-2026-05-26-2",
+  "title": "Bank of Baroda is Hiring: Credit Analyst (Senior)",
+  "company": "Bank of Baroda",
+  "industry": "finance",
+  "role": "Credit Analyst",
+  "location": {
+    "city": "Raipur",
+    "state": "Chhattisgarh",
+    "region": "Central India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "MS Excel",
+    "Power BI",
+    "GST",
+    "Income Tax",
+    "Financial Modeling",
+    "IFRS",
+    "SQL",
+    "QuickBooks"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Bank of Baroda is Hiring: Credit Analyst (Senior)",
+    "description": "Grow your career with Bank of Baroda! We are hiring a Credit Analyst for our Raipur team. Be part of a workplace that celebrates innovation, diversity, and performance.\n\nAbout Bank of Baroda:\nBank of Baroda is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Manage accounts payable and accounts receivable functions\n• Prepare annual reports and investor presentations\n• Ensure compliance with tax regulations and statutory requirements\n• Monitor financial performance against targets and provide variance analysis\n• Monitor market trends and provide investment recommendations\n• Develop financial models and projections for business planning\n• Implement and maintain internal controls and audit procedures\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 0-1 years of relevant experience\n• Proficiency in MS Excel\n• Proficiency in Power BI\n• Proficiency in GST\n• Proficiency in Income Tax\n• Proficiency in Financial Modeling\n• Proficiency in IFRS\n• Proficiency in SQL\n• Proficiency in QuickBooks\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Maternity and paternity leave\n• Recognition and rewards programs\n• Flexible working hours\n• Professional development and training programs\n• Annual paid leaves and casual leaves\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Raipur, Chhattisgarh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Bank of Baroda!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Bank of Baroda",
+      "value": "132-2-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Bank of Baroda",
+      "sameAs": "https://www.google.com/search?q=Bank%20of%20Baroda",
+      "logo": "https://logo.clearbit.com/bankofbaroda.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Bank of Baroda Office",
+        "addressLocality": "Raipur",
+        "addressRegion": "Chhattisgarh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "MS Excel, Power BI, GST, Income Tax, Financial Modeling, IFRS, SQL, QuickBooks",
+    "responsibilities": "Manage accounts payable and accounts receivable functions. Prepare annual reports and investor presentations. Ensure compliance with tax regulations and statutory requirements. Monitor financial performance against targets and provide variance analysis. Monitor market trends and provide investment recommendations. Develop financial models and projections for business planning. Implement and maintain internal controls and audit procedures",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Maternity and paternity leave. Recognition and rewards programs. Flexible working hours. Professional development and training programs. Annual paid leaves and casual leaves",
+    "industry": "finance",
+    "occupationalCategory": "Credit Analyst",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Maternity and paternity leave, Recognition and rewards programs, Flexible working hours, Professional development and training programs, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "Grow your career with Bank of Baroda! We are hiring a Credit Analyst for our Raipur team. Be part of a workplace that celebrates innovation, diversity, and perf",
+    "keywords": "Credit Analyst, Bank of Baroda, jobs in Raipur, Chhattisgarh jobs, finance jobs India, MS Excel, Power BI, GST, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:48:42.142Z",
+  "page": 32
+}
