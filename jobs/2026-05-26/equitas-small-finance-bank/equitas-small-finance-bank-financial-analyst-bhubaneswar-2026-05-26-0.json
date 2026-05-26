@@ -1,0 +1,93 @@
+{
+  "slug": "equitas-small-finance-bank-financial-analyst-bhubaneswar-2026-05-26-0",
+  "title": "Vacancy for Financial Analyst at Equitas Small Finance Bank",
+  "company": "Equitas Small Finance Bank",
+  "industry": "finance",
+  "role": "Financial Analyst",
+  "location": {
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Power BI",
+    "Tally",
+    "SAP FICO",
+    "Income Tax",
+    "Credit Analysis",
+    "Python for Finance",
+    "MS Excel",
+    "IFRS"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Vacancy for Financial Analyst at Equitas Small Finance Bank",
+    "description": "Grow your career with Equitas Small Finance Bank! We are hiring a Financial Analyst for our Bhubaneswar team. Be part of a workplace that celebrates innovation, diversity, and performance.\n\nAbout Equitas Small Finance Bank:\nEquitas Small Finance Bank is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Liaise with banks, regulators, and financial institutions\n• Implement and maintain internal controls and audit procedures\n• Develop financial models and projections for business planning\n• Monitor market trends and provide investment recommendations\n• Conduct due diligence for mergers, acquisitions, and investments\n• Maintain general ledger and ensure accurate bookkeeping\n• Ensure compliance with tax regulations and statutory requirements\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 1-3 years of relevant experience\n• Proficiency in Power BI\n• Proficiency in Tally\n• Proficiency in SAP FICO\n• Proficiency in Income Tax\n• Proficiency in Credit Analysis\n• Proficiency in Python for Finance\n• Proficiency in MS Excel\n• Proficiency in IFRS\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Competitive salary with performance-linked incentives\n• Annual performance appraisal\n• Maternity and paternity leave\n• Life and accident insurance\n• Flexible working hours\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Bhubaneswar, Odisha, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Equitas Small Finance Bank!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Equitas Small Finance Bank",
+      "value": "144-0-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Equitas Small Finance Bank",
+      "sameAs": "https://www.google.com/search?q=Equitas%20Small%20Finance%20Bank",
+      "logo": "https://logo.clearbit.com/equitassmallfinancebank.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Equitas Small Finance Bank Office",
+        "addressLocality": "Bhubaneswar",
+        "addressRegion": "Odisha",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "Power BI, Tally, SAP FICO, Income Tax, Credit Analysis, Python for Finance, MS Excel, IFRS",
+    "responsibilities": "Liaise with banks, regulators, and financial institutions. Implement and maintain internal controls and audit procedures. Develop financial models and projections for business planning. Monitor market trends and provide investment recommendations. Conduct due diligence for mergers, acquisitions, and investments. Maintain general ledger and ensure accurate bookkeeping. Ensure compliance with tax regulations and statutory requirements",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Competitive salary with performance-linked incentives. Annual performance appraisal. Maternity and paternity leave. Life and accident insurance. Flexible working hours",
+    "industry": "finance",
+    "occupationalCategory": "Financial Analyst",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Competitive salary with performance-linked incentives, Annual performance appraisal, Maternity and paternity leave, Life and accident insurance, Flexible working hours"
+  },
+  "meta": {
+    "description": "Grow your career with Equitas Small Finance Bank! We are hiring a Financial Analyst for our Bhubaneswar team. Be part of a workplace that celebrates innovation,",
+    "keywords": "Financial Analyst, Equitas Small Finance Bank, jobs in Bhubaneswar, Odisha jobs, finance jobs India, Power BI, Tally, SAP FICO, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:49:05.527Z",
+  "page": 35
+}
