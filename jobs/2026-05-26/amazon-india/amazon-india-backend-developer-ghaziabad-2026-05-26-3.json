@@ -1,0 +1,94 @@
+{
+  "slug": "amazon-india-backend-developer-ghaziabad-2026-05-26-3",
+  "title": "Backend Developer Vacancy at Amazon India - 2026 Batch",
+  "company": "Amazon India",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Node.js",
+    "React",
+    "Microservices",
+    "Kubernetes",
+    "Docker",
+    "Rust",
+    "Java",
+    "Python"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Amazon India - 2026 Batch",
+    "description": "Are you a skilled Backend Developer looking for your next big career move? Amazon India in Ghaziabad offers you the perfect platform to grow professionally and personally.\n\nAbout Amazon India:\nAmazon India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Integrate third-party APIs and services\n• Write clean, maintainable, and well-documented code\n• Implement new features based on product requirements\n• Write and execute unit tests and integration tests\n• Participate in on-call rotation for production support\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 3-6 years of relevant experience\n• Proficiency in Node.js\n• Proficiency in React\n• Proficiency in Microservices\n• Proficiency in Kubernetes\n• Proficiency in Docker\n• Proficiency in Rust\n• Proficiency in Java\n• Proficiency in Python\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Modern office with recreational facilities\n• Annual performance appraisal\n• Employee stock options (ESOPs) for eligible roles\n• Meal coupons and food allowance\n• Flexible working hours\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Ghaziabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Amazon India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Amazon India",
+      "value": "12-3-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Amazon India",
+      "sameAs": "https://www.google.com/search?q=Amazon%20India",
+      "logo": "https://logo.clearbit.com/amazonindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Amazon India Office",
+        "addressLocality": "Ghaziabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "Node.js, React, Microservices, Kubernetes, Docker, Rust, Java, Python",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Mentor junior developers and conduct knowledge-sharing sessions. Integrate third-party APIs and services. Write clean, maintainable, and well-documented code. Implement new features based on product requirements. Write and execute unit tests and integration tests. Participate in on-call rotation for production support",
+    "benefits": "Provident Fund and Gratuity as per company policy. Modern office with recreational facilities. Annual performance appraisal. Employee stock options (ESOPs) for eligible roles. Meal coupons and food allowance. Flexible working hours",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Modern office with recreational facilities, Annual performance appraisal, Employee stock options (ESOPs) for eligible roles, Meal coupons and food allowance, Flexible working hours"
+  },
+  "meta": {
+    "description": "Are you a skilled Backend Developer looking for your next big career move? Amazon India in Ghaziabad offers you the perfect platform to grow professionally and ",
+    "keywords": "Backend Developer, Amazon India, jobs in Ghaziabad, Uttar Pradesh jobs, technology jobs India, Node.js, React, Microservices, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:44:50.682Z",
+  "page": 2
+}

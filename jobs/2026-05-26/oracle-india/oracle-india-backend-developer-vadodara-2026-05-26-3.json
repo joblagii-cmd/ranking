@@ -1,0 +1,93 @@
+{
+  "slug": "oracle-india-backend-developer-vadodara-2026-05-26-3",
+  "title": "Backend Developer Vacancy at Oracle India - 2026 Batch",
+  "company": "Oracle India",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Docker",
+    "Python",
+    "Go",
+    "SQL",
+    "Rust",
+    "Java",
+    "JavaScript",
+    "Machine Learning"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Oracle India - 2026 Batch",
+    "description": "Are you a skilled Backend Developer looking for your next big career move? Oracle India in Vadodara offers you the perfect platform to grow professionally and personally.\n\nAbout Oracle India:\nOracle India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Optimize application performance and ensure high availability\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Implement new features based on product requirements\n• Participate in on-call rotation for production support\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Integrate third-party APIs and services\n• Collaborate with cross-functional teams including product, design, and QA\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 0-1 years of relevant experience\n• Proficiency in Docker\n• Proficiency in Python\n• Proficiency in Go\n• Proficiency in SQL\n• Proficiency in Rust\n• Proficiency in Java\n• Proficiency in JavaScript\n• Proficiency in Machine Learning\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Mobile and internet reimbursement\n• Maternity and paternity leave\n• International travel opportunities for senior roles\n• Annual performance appraisal\n• Annual paid leaves and casual leaves\n• Recognition and rewards programs\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Vadodara, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Oracle India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Oracle India",
+      "value": "9-3-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Oracle India",
+      "sameAs": "https://www.google.com/search?q=Oracle%20India",
+      "logo": "https://logo.clearbit.com/oracleindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Oracle India Office",
+        "addressLocality": "Vadodara",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "Docker, Python, Go, SQL, Rust, Java, JavaScript, Machine Learning",
+    "responsibilities": "Optimize application performance and ensure high availability. Mentor junior developers and conduct knowledge-sharing sessions. Implement new features based on product requirements. Participate in on-call rotation for production support. Troubleshoot, debug, and resolve software defects and performance issues. Integrate third-party APIs and services. Collaborate with cross-functional teams including product, design, and QA",
+    "benefits": "Mobile and internet reimbursement. Maternity and paternity leave. International travel opportunities for senior roles. Annual performance appraisal. Annual paid leaves and casual leaves. Recognition and rewards programs",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Mobile and internet reimbursement, Maternity and paternity leave, International travel opportunities for senior roles, Annual performance appraisal, Annual paid leaves and casual leaves, Recognition and rewards programs"
+  },
+  "meta": {
+    "description": "Are you a skilled Backend Developer looking for your next big career move? Oracle India in Vadodara offers you the perfect platform to grow professionally and p",
+    "keywords": "Backend Developer, Oracle India, jobs in Vadodara, Gujarat jobs, technology jobs India, Docker, Python, Go, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:44:50.681Z",
+  "page": 2
+}
