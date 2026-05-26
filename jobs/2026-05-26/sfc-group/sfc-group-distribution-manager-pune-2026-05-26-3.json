@@ -1,0 +1,93 @@
+{
+  "slug": "sfc-group-distribution-manager-pune-2026-05-26-3",
+  "title": "Distribution Manager Vacancy at SFC Group - 2026 Batch",
+  "company": "SFC Group",
+  "industry": "logistics",
+  "role": "Distribution Manager",
+  "location": {
+    "city": "Pune",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "WMS",
+    "SAP SCM",
+    "GPS Tracking Systems",
+    "Supply Chain Management",
+    "KPI Monitoring",
+    "Last Mile Delivery",
+    "Vendor Management",
+    "TMS"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Distribution Manager Vacancy at SFC Group - 2026 Batch",
+    "description": "SFC Group invites applications from qualified candidates for the position of Distribution Manager at our Pune location. This role offers excellent career advancement prospects.\n\nAbout SFC Group:\nSFC Group is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with customer service teams to resolve delivery issues\n• Manage reverse logistics and return merchandise authorization\n• Implement cost-saving initiatives in transportation and warehousing\n• Prepare MIS reports on delivery performance and SLA adherence\n• Ensure compliance with transportation regulations and safety standards\n• Conduct periodic vendor audits and evaluate logistics partners\n• Manage relationships with third-party logistics providers\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 1-3 years of relevant experience\n• Proficiency in WMS\n• Proficiency in SAP SCM\n• Proficiency in GPS Tracking Systems\n• Proficiency in Supply Chain Management\n• Proficiency in KPI Monitoring\n• Proficiency in Last Mile Delivery\n• Proficiency in Vendor Management\n• Proficiency in TMS\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Provident Fund and Gratuity as per company policy\n• Referral bonus program\n• International travel opportunities for senior roles\n• Work-from-home flexibility\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Pune, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with SFC Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "SFC Group",
+      "value": "821-3-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "SFC Group",
+      "sameAs": "https://www.google.com/search?q=SFC%20Group",
+      "logo": "https://logo.clearbit.com/sfcgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "SFC Group Office",
+        "addressLocality": "Pune",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "WMS, SAP SCM, GPS Tracking Systems, Supply Chain Management, KPI Monitoring, Last Mile Delivery, Vendor Management, TMS",
+    "responsibilities": "Coordinate with customer service teams to resolve delivery issues. Manage reverse logistics and return merchandise authorization. Implement cost-saving initiatives in transportation and warehousing. Prepare MIS reports on delivery performance and SLA adherence. Ensure compliance with transportation regulations and safety standards. Conduct periodic vendor audits and evaluate logistics partners. Manage relationships with third-party logistics providers",
+    "benefits": "Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Provident Fund and Gratuity as per company policy. Referral bonus program. International travel opportunities for senior roles. Work-from-home flexibility",
+    "industry": "logistics",
+    "occupationalCategory": "Distribution Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Provident Fund and Gratuity as per company policy, Referral bonus program, International travel opportunities for senior roles, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "SFC Group invites applications from qualified candidates for the position of Distribution Manager at our Pune location. This role offers excellent career advanc",
+    "keywords": "Distribution Manager, SFC Group, jobs in Pune, Maharashtra jobs, logistics jobs India, WMS, SAP SCM, GPS Tracking Systems, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T04:11:49.892Z",
+  "page": 205
+}

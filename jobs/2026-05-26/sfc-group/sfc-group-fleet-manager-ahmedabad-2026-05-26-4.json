@@ -1,0 +1,93 @@
+{
+  "slug": "sfc-group-fleet-manager-ahmedabad-2026-05-26-4",
+  "title": "Senior Fleet Manager at SFC Group",
+  "company": "SFC Group",
+  "industry": "logistics",
+  "role": "Fleet Manager",
+  "location": {
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Fleet Management",
+    "GPS Tracking Systems",
+    "Customs Clearance",
+    "KPI Monitoring",
+    "Freight Forwarding",
+    "Supply Chain Management",
+    "ERP Systems",
+    "3PL Management"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Fleet Manager at SFC Group",
+    "description": "SFC Group invites applications from qualified candidates for the position of Fleet Manager at our Ahmedabad location. This role offers excellent career advancement prospects.\n\nAbout SFC Group:\nSFC Group is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Manage relationships with third-party logistics providers\n• Track shipments in real-time and resolve delivery exceptions\n• Conduct periodic vendor audits and evaluate logistics partners\n• Ensure proper handling, packaging, and labeling of goods\n• Implement warehouse management systems (WMS) and track KPIs\n• Ensure compliance with transportation regulations and safety standards\n• Coordinate with warehousing teams for inbound and outbound operations\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 0-1 years of relevant experience\n• Proficiency in Fleet Management\n• Proficiency in GPS Tracking Systems\n• Proficiency in Customs Clearance\n• Proficiency in KPI Monitoring\n• Proficiency in Freight Forwarding\n• Proficiency in Supply Chain Management\n• Proficiency in ERP Systems\n• Proficiency in 3PL Management\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Provident Fund and Gratuity as per company policy\n• Annual paid leaves and casual leaves\n• Work-from-home flexibility\n• Comprehensive health insurance for self and family\n• Referral bonus program\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Ahmedabad, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with SFC Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "SFC Group",
+      "value": "821-4-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "SFC Group",
+      "sameAs": "https://www.google.com/search?q=SFC%20Group",
+      "logo": "https://logo.clearbit.com/sfcgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "SFC Group Office",
+        "addressLocality": "Ahmedabad",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "Fleet Management, GPS Tracking Systems, Customs Clearance, KPI Monitoring, Freight Forwarding, Supply Chain Management, ERP Systems, 3PL Management",
+    "responsibilities": "Manage relationships with third-party logistics providers. Track shipments in real-time and resolve delivery exceptions. Conduct periodic vendor audits and evaluate logistics partners. Ensure proper handling, packaging, and labeling of goods. Implement warehouse management systems (WMS) and track KPIs. Ensure compliance with transportation regulations and safety standards. Coordinate with warehousing teams for inbound and outbound operations",
+    "benefits": "Transportation and conveyance allowance. Provident Fund and Gratuity as per company policy. Annual paid leaves and casual leaves. Work-from-home flexibility. Comprehensive health insurance for self and family. Referral bonus program",
+    "industry": "logistics",
+    "occupationalCategory": "Fleet Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Provident Fund and Gratuity as per company policy, Annual paid leaves and casual leaves, Work-from-home flexibility, Comprehensive health insurance for self and family, Referral bonus program"
+  },
+  "meta": {
+    "description": "SFC Group invites applications from qualified candidates for the position of Fleet Manager at our Ahmedabad location. This role offers excellent career advancem",
+    "keywords": "Fleet Manager, SFC Group, jobs in Ahmedabad, Gujarat jobs, logistics jobs India, Fleet Management, GPS Tracking Systems, Customs Clearance, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T04:11:49.892Z",
+  "page": 205
+}
