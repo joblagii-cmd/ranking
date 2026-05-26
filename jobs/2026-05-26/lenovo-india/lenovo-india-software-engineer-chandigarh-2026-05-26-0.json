@@ -1,0 +1,94 @@
+{
+  "slug": "lenovo-india-software-engineer-chandigarh-2026-05-26-0",
+  "title": "Walk-in Drive Software Engineer at Lenovo India",
+  "company": "Lenovo India",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Chandigarh",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Machine Learning",
+    "Node.js",
+    "TypeScript",
+    "React",
+    "AWS",
+    "Agile/Scrum",
+    "Go",
+    "MongoDB"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Walk-in Drive Software Engineer at Lenovo India",
+    "description": "Lenovo India, one of India's leading organizations, is hiring a Software Engineer for our Chandigarh operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Lenovo India:\nLenovo India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write clean, maintainable, and well-documented code\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in code reviews and contribute to technical discussions\n• Participate in on-call rotation for production support\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Troubleshoot, debug, and resolve software defects and performance issues\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 1-3 years of relevant experience\n• Proficiency in Machine Learning\n• Proficiency in Node.js\n• Proficiency in TypeScript\n• Proficiency in React\n• Proficiency in AWS\n• Proficiency in Agile/Scrum\n• Proficiency in Go\n• Proficiency in MongoDB\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Mobile and internet reimbursement\n• Transportation and conveyance allowance\n• International travel opportunities for senior roles\n• Annual paid leaves and casual leaves\n• Professional development and training programs\n• Work-from-home flexibility\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Chandigarh, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Lenovo India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Lenovo India",
+      "value": "53-0-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Lenovo India",
+      "sameAs": "https://www.google.com/search?q=Lenovo%20India",
+      "logo": "https://logo.clearbit.com/lenovoindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Lenovo India Office",
+        "addressLocality": "Chandigarh",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "Machine Learning, Node.js, TypeScript, React, AWS, Agile/Scrum, Go, MongoDB",
+    "responsibilities": "Write clean, maintainable, and well-documented code. Collaborate with cross-functional teams including product, design, and QA. Participate in code reviews and contribute to technical discussions. Participate in on-call rotation for production support. Work with agile methodologies including daily stand-ups and sprint planning. Mentor junior developers and conduct knowledge-sharing sessions. Troubleshoot, debug, and resolve software defects and performance issues",
+    "benefits": "Mobile and internet reimbursement. Transportation and conveyance allowance. International travel opportunities for senior roles. Annual paid leaves and casual leaves. Professional development and training programs. Work-from-home flexibility",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Mobile and internet reimbursement, Transportation and conveyance allowance, International travel opportunities for senior roles, Annual paid leaves and casual leaves, Professional development and training programs, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "Lenovo India, one of India's leading organizations, is hiring a Software Engineer for our Chandigarh operations. We offer a competitive salary package along wit",
+    "keywords": "Software Engineer, Lenovo India, jobs in Chandigarh, Punjab jobs, technology jobs India, Machine Learning, Node.js, TypeScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:46:16.883Z",
+  "page": 13
+}

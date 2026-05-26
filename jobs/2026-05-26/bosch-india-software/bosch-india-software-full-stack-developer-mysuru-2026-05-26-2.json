@@ -1,0 +1,94 @@
+{
+  "slug": "bosch-india-software-full-stack-developer-mysuru-2026-05-26-2",
+  "title": "Bosch India Software is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "Bosch India Software",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Machine Learning",
+    "JavaScript",
+    "Python",
+    "React",
+    "Git",
+    "Node.js",
+    "SQL",
+    "AWS"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Bosch India Software is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "An exciting career opportunity awaits you at Bosch India Software. We are on the lookout for a dedicated Full Stack Developer to strengthen our Mysuru-based team.\n\nAbout Bosch India Software:\nBosch India Software is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in code reviews and contribute to technical discussions\n• Write clean, maintainable, and well-documented code\n• Implement new features based on product requirements\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Participate in on-call rotation for production support\n• Integrate third-party APIs and services\n• Work with agile methodologies including daily stand-ups and sprint planning\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 3-6 years of relevant experience\n• Proficiency in Machine Learning\n• Proficiency in JavaScript\n• Proficiency in Python\n• Proficiency in React\n• Proficiency in Git\n• Proficiency in Node.js\n• Proficiency in SQL\n• Proficiency in AWS\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Life and accident insurance\n• Transportation and conveyance allowance\n• Competitive salary with performance-linked incentives\n• International travel opportunities for senior roles\n• Maternity and paternity leave\n• Comprehensive health insurance for self and family\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Mysuru, Karnataka, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Bosch India Software!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Bosch India Software",
+      "value": "56-2-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Bosch India Software",
+      "sameAs": "https://www.google.com/search?q=Bosch%20India%20Software",
+      "logo": "https://logo.clearbit.com/boschindiasoftware.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Bosch India Software Office",
+        "addressLocality": "Mysuru",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "Machine Learning, JavaScript, Python, React, Git, Node.js, SQL, AWS",
+    "responsibilities": "Participate in code reviews and contribute to technical discussions. Write clean, maintainable, and well-documented code. Implement new features based on product requirements. Mentor junior developers and conduct knowledge-sharing sessions. Participate in on-call rotation for production support. Integrate third-party APIs and services. Work with agile methodologies including daily stand-ups and sprint planning",
+    "benefits": "Life and accident insurance. Transportation and conveyance allowance. Competitive salary with performance-linked incentives. International travel opportunities for senior roles. Maternity and paternity leave. Comprehensive health insurance for self and family",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Transportation and conveyance allowance, Competitive salary with performance-linked incentives, International travel opportunities for senior roles, Maternity and paternity leave, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Bosch India Software. We are on the lookout for a dedicated Full Stack Developer to strengthen our Mysuru-based tea",
+    "keywords": "Full Stack Developer, Bosch India Software, jobs in Mysuru, Karnataka jobs, technology jobs India, Machine Learning, JavaScript, Python, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:46:16.885Z",
+  "page": 13
+}
