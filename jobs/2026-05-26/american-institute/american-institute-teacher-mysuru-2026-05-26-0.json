@@ -1,0 +1,94 @@
+{
+  "slug": "american-institute-teacher-mysuru-2026-05-26-0",
+  "title": "Job Opening Teacher at American Institute",
+  "company": "American Institute",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "MS Office",
+    "Student Assessment",
+    "Curriculum Development",
+    "Zoom/Teams",
+    "Bloom's Taxonomy",
+    "Research Skills",
+    "LMS Platforms",
+    "Data Analysis"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Job Opening Teacher at American Institute",
+    "description": "Join the American Institute family as a Teacher in Mysuru. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout American Institute:\nAmerican Institute is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Utilize technology and digital tools to enhance learning outcomes\n• Create curriculum-aligned learning materials and assessments\n• Contribute to school newsletter, blogs, and other publications\n• Develop and deliver engaging lesson plans for students\n• Maintain student records and prepare progress reports\n• Conduct doubt-clearing sessions and remedial classes for weak students\n• Maintain classroom discipline and create a positive learning environment\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 3-6 years of relevant experience\n• Proficiency in MS Office\n• Proficiency in Student Assessment\n• Proficiency in Curriculum Development\n• Proficiency in Zoom/Teams\n• Proficiency in Bloom's Taxonomy\n• Proficiency in Research Skills\n• Proficiency in LMS Platforms\n• Proficiency in Data Analysis\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Modern office with recreational facilities\n• Flexible working hours\n• Professional development and training programs\n• Recognition and rewards programs\n• Life and accident insurance\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Mysuru, Karnataka, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with American Institute!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "American Institute",
+      "value": "557-0-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "American Institute",
+      "sameAs": "https://www.google.com/search?q=American%20Institute",
+      "logo": "https://logo.clearbit.com/americaninstitute.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "American Institute Office",
+        "addressLocality": "Mysuru",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "MS Office, Student Assessment, Curriculum Development, Zoom/Teams, Bloom's Taxonomy, Research Skills, LMS Platforms, Data Analysis",
+    "responsibilities": "Utilize technology and digital tools to enhance learning outcomes. Create curriculum-aligned learning materials and assessments. Contribute to school newsletter, blogs, and other publications. Develop and deliver engaging lesson plans for students. Maintain student records and prepare progress reports. Conduct doubt-clearing sessions and remedial classes for weak students. Maintain classroom discipline and create a positive learning environment",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Modern office with recreational facilities. Flexible working hours. Professional development and training programs. Recognition and rewards programs. Life and accident insurance",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Modern office with recreational facilities, Flexible working hours, Professional development and training programs, Recognition and rewards programs, Life and accident insurance"
+  },
+  "meta": {
+    "description": "Join the American Institute family as a Teacher in Mysuru. We believe in empowering our employees with the tools, training, and environment they need to succeed",
+    "keywords": "Teacher, American Institute, jobs in Mysuru, Karnataka jobs, education jobs India, MS Office, Student Assessment, Curriculum Development, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T04:02:40.139Z",
+  "page": 139
+}

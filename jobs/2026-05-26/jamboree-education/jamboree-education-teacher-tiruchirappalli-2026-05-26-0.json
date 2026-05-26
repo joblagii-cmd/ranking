@@ -1,0 +1,93 @@
+{
+  "slug": "jamboree-education-teacher-tiruchirappalli-2026-05-26-0",
+  "title": "Job Opening Teacher at Jamboree Education",
+  "company": "Jamboree Education",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Data Analysis",
+    "Pedagogy",
+    "E-learning",
+    "Bloom's Taxonomy",
+    "Educational Technology",
+    "Content Creation",
+    "Communication Skills",
+    "Curriculum Development"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Job Opening Teacher at Jamboree Education",
+    "description": "Join the Jamboree Education family as a Teacher in Tiruchirappalli. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Jamboree Education:\nJamboree Education is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with academic counselors for student career guidance\n• Monitor student progress and provide timely feedback\n• Create curriculum-aligned learning materials and assessments\n• Develop and deliver engaging lesson plans for students\n• Participate in school events, workshops, and training programs\n• Maintain student records and prepare progress reports\n• Design formative and summative assessments aligned to learning objectives\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 0-1 years of relevant experience\n• Proficiency in Data Analysis\n• Proficiency in Pedagogy\n• Proficiency in E-learning\n• Proficiency in Bloom's Taxonomy\n• Proficiency in Educational Technology\n• Proficiency in Content Creation\n• Proficiency in Communication Skills\n• Proficiency in Curriculum Development\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Flexible working hours\n• Work-from-home flexibility\n• Comprehensive health insurance for self and family\n• Mobile and internet reimbursement\n• Professional development and training programs\n• Company-sponsored certifications\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Tiruchirappalli, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Jamboree Education!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Jamboree Education",
+      "value": "559-0-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Jamboree Education",
+      "sameAs": "https://www.google.com/search?q=Jamboree%20Education",
+      "logo": "https://logo.clearbit.com/jamboreeeducation.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Jamboree Education Office",
+        "addressLocality": "Tiruchirappalli",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Data Analysis, Pedagogy, E-learning, Bloom's Taxonomy, Educational Technology, Content Creation, Communication Skills, Curriculum Development",
+    "responsibilities": "Coordinate with academic counselors for student career guidance. Monitor student progress and provide timely feedback. Create curriculum-aligned learning materials and assessments. Develop and deliver engaging lesson plans for students. Participate in school events, workshops, and training programs. Maintain student records and prepare progress reports. Design formative and summative assessments aligned to learning objectives",
+    "benefits": "Flexible working hours. Work-from-home flexibility. Comprehensive health insurance for self and family. Mobile and internet reimbursement. Professional development and training programs. Company-sponsored certifications",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, Work-from-home flexibility, Comprehensive health insurance for self and family, Mobile and internet reimbursement, Professional development and training programs, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "Join the Jamboree Education family as a Teacher in Tiruchirappalli. We believe in empowering our employees with the tools, training, and environment they need t",
+    "keywords": "Teacher, Jamboree Education, jobs in Tiruchirappalli, Tamil Nadu jobs, education jobs India, Data Analysis, Pedagogy, E-learning, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T04:02:40.140Z",
+  "page": 139
+}
