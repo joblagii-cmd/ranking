@@ -1,0 +1,93 @@
+{
+  "slug": "puma-india-e-commerce-executive-amritsar-2026-05-26-2",
+  "title": "Puma India is Hiring: E-commerce Executive (Junior)",
+  "company": "Puma India",
+  "industry": "ecommerce",
+  "role": "E-commerce Executive",
+  "location": {
+    "city": "Amritsar",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "MS Excel",
+    "A/B Testing",
+    "Google Analytics",
+    "Retention Marketing",
+    "Email Marketing",
+    "Shopify",
+    "Facebook Ads",
+    "Supply Chain"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Puma India is Hiring: E-commerce Executive (Junior)",
+    "description": "Grow your career with Puma India! We are hiring a E-commerce Executive for our Amritsar team. Be part of a workplace that celebrates innovation, diversity, and performance.\n\nAbout Puma India:\nPuma India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Manage product listings, pricing, and promotions on the platform\n• Analyze sales data and customer behavior to drive revenue growth\n• Monitor and improve Net Promoter Score (NPS) and customer satisfaction\n• Manage customer reviews, ratings, and return/refund processes\n• Manage marketplace relationships with Amazon, Flipkart, and Meesho\n• Collaborate with logistics partners to ensure timely delivery\n• Build and maintain affiliate and influencer marketing programs\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 6-10 years of relevant experience\n• Proficiency in MS Excel\n• Proficiency in A/B Testing\n• Proficiency in Google Analytics\n• Proficiency in Retention Marketing\n• Proficiency in Email Marketing\n• Proficiency in Shopify\n• Proficiency in Facebook Ads\n• Proficiency in Supply Chain\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Meal coupons and food allowance\n• Comprehensive health insurance for self and family\n• Modern office with recreational facilities\n• Provident Fund and Gratuity as per company policy\n• Transportation and conveyance allowance\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Amritsar, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Puma India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Puma India",
+      "value": "363-2-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Puma India",
+      "sameAs": "https://www.google.com/search?q=Puma%20India",
+      "logo": "https://logo.clearbit.com/pumaindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Puma India Office",
+        "addressLocality": "Amritsar",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "MS Excel, A/B Testing, Google Analytics, Retention Marketing, Email Marketing, Shopify, Facebook Ads, Supply Chain",
+    "responsibilities": "Manage product listings, pricing, and promotions on the platform. Analyze sales data and customer behavior to drive revenue growth. Monitor and improve Net Promoter Score (NPS) and customer satisfaction. Manage customer reviews, ratings, and return/refund processes. Manage marketplace relationships with Amazon, Flipkart, and Meesho. Collaborate with logistics partners to ensure timely delivery. Build and maintain affiliate and influencer marketing programs",
+    "benefits": "Competitive salary with performance-linked incentives. Meal coupons and food allowance. Comprehensive health insurance for self and family. Modern office with recreational facilities. Provident Fund and Gratuity as per company policy. Transportation and conveyance allowance",
+    "industry": "ecommerce",
+    "occupationalCategory": "E-commerce Executive",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Meal coupons and food allowance, Comprehensive health insurance for self and family, Modern office with recreational facilities, Provident Fund and Gratuity as per company policy, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "Grow your career with Puma India! We are hiring a E-commerce Executive for our Amritsar team. Be part of a workplace that celebrates innovation, diversity, and ",
+    "keywords": "E-commerce Executive, Puma India, jobs in Amritsar, Punjab jobs, ecommerce jobs India, MS Excel, A/B Testing, Google Analytics, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:56:06.798Z",
+  "page": 90
+}
