@@ -1,0 +1,93 @@
+{
+  "slug": "texas-instruments-india-frontend-developer-raipur-2026-05-26-4",
+  "title": "Mid-Level Frontend Developer at Texas Instruments India",
+  "company": "Texas Instruments India",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Raipur",
+    "state": "Chhattisgarh",
+    "region": "Central India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Kubernetes",
+    "TensorFlow",
+    "Java",
+    "React",
+    "AWS",
+    "Rust",
+    "CI/CD",
+    "Docker"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Frontend Developer at Texas Instruments India",
+    "description": "Texas Instruments India, one of India's leading organizations, is hiring a Frontend Developer for our Raipur operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Texas Instruments India:\nTexas Instruments India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write and execute unit tests and integration tests\n• Optimize application performance and ensure high availability\n• Design, develop and maintain scalable software applications\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in on-call rotation for production support\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Mentor junior developers and conduct knowledge-sharing sessions\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 3-6 years of relevant experience\n• Proficiency in Kubernetes\n• Proficiency in TensorFlow\n• Proficiency in Java\n• Proficiency in React\n• Proficiency in AWS\n• Proficiency in Rust\n• Proficiency in CI/CD\n• Proficiency in Docker\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Referral bonus program\n• Comprehensive health insurance for self and family\n• Work-from-home flexibility\n• Recognition and rewards programs\n• Annual performance appraisal\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Raipur, Chhattisgarh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Texas Instruments India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Texas Instruments India",
+      "value": "48-4-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Texas Instruments India",
+      "sameAs": "https://www.google.com/search?q=Texas%20Instruments%20India",
+      "logo": "https://logo.clearbit.com/texasinstrumentsindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Texas Instruments India Office",
+        "addressLocality": "Raipur",
+        "addressRegion": "Chhattisgarh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Kubernetes, TensorFlow, Java, React, AWS, Rust, CI/CD, Docker",
+    "responsibilities": "Write and execute unit tests and integration tests. Optimize application performance and ensure high availability. Design, develop and maintain scalable software applications. Collaborate with cross-functional teams including product, design, and QA. Participate in on-call rotation for production support. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Mentor junior developers and conduct knowledge-sharing sessions",
+    "benefits": "Provident Fund and Gratuity as per company policy. Referral bonus program. Comprehensive health insurance for self and family. Work-from-home flexibility. Recognition and rewards programs. Annual performance appraisal",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Referral bonus program, Comprehensive health insurance for self and family, Work-from-home flexibility, Recognition and rewards programs, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "Texas Instruments India, one of India's leading organizations, is hiring a Frontend Developer for our Raipur operations. We offer a competitive salary package a",
+    "keywords": "Frontend Developer, Texas Instruments India, jobs in Raipur, Chhattisgarh jobs, technology jobs India, Kubernetes, TensorFlow, Java, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:46:01.411Z",
+  "page": 11
+}

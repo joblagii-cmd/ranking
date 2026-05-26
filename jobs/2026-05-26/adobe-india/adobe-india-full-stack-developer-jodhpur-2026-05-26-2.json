@@ -1,0 +1,93 @@
+{
+  "slug": "adobe-india-full-stack-developer-jodhpur-2026-05-26-2",
+  "title": "Adobe India is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "Adobe India",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Go",
+    "Microservices",
+    "Java",
+    "Python",
+    "CI/CD",
+    "TypeScript",
+    "AWS",
+    "TensorFlow"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Adobe India is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "Adobe India, one of India's leading organizations, is hiring a Full Stack Developer for our Jodhpur operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Adobe India:\nAdobe India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Optimize application performance and ensure high availability\n• Implement new features based on product requirements\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Ensure code security and follow best practices for data protection\n• Collaborate with cross-functional teams including product, design, and QA\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 3-6 years of relevant experience\n• Proficiency in Go\n• Proficiency in Microservices\n• Proficiency in Java\n• Proficiency in Python\n• Proficiency in CI/CD\n• Proficiency in TypeScript\n• Proficiency in AWS\n• Proficiency in TensorFlow\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Flexible working hours\n• Competitive salary with performance-linked incentives\n• Annual performance appraisal\n• Referral bonus program\n• Mobile and internet reimbursement\n• Transportation and conveyance allowance\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Jodhpur, Rajasthan, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Adobe India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Adobe India",
+      "value": "45-2-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Adobe India",
+      "sameAs": "https://www.google.com/search?q=Adobe%20India",
+      "logo": "https://logo.clearbit.com/adobeindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Adobe India Office",
+        "addressLocality": "Jodhpur",
+        "addressRegion": "Rajasthan",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "Go, Microservices, Java, Python, CI/CD, TypeScript, AWS, TensorFlow",
+    "responsibilities": "Work with agile methodologies including daily stand-ups and sprint planning. Optimize application performance and ensure high availability. Implement new features based on product requirements. Troubleshoot, debug, and resolve software defects and performance issues. Ensure code security and follow best practices for data protection. Collaborate with cross-functional teams including product, design, and QA. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP",
+    "benefits": "Flexible working hours. Competitive salary with performance-linked incentives. Annual performance appraisal. Referral bonus program. Mobile and internet reimbursement. Transportation and conveyance allowance",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, Competitive salary with performance-linked incentives, Annual performance appraisal, Referral bonus program, Mobile and internet reimbursement, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "Adobe India, one of India's leading organizations, is hiring a Full Stack Developer for our Jodhpur operations. We offer a competitive salary package along with",
+    "keywords": "Full Stack Developer, Adobe India, jobs in Jodhpur, Rajasthan jobs, technology jobs India, Go, Microservices, Java, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:46:01.410Z",
+  "page": 11
+}
