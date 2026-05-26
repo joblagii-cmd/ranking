@@ -1,0 +1,93 @@
+{
+  "slug": "ambuja-cements-plant-manager-faridabad-2026-05-26-4",
+  "title": "Mid-Level Plant Manager at Ambuja Cements",
+  "company": "Ambuja Cements",
+  "industry": "manufacturing",
+  "role": "Plant Manager",
+  "location": {
+    "city": "Faridabad",
+    "state": "Haryana",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Quality Control",
+    "Statistical Process Control",
+    "5S",
+    "GD&T",
+    "Supply Chain Management",
+    "AutoCAD",
+    "APQP",
+    "SolidWorks"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Plant Manager at Ambuja Cements",
+    "description": "We at Ambuja Cements are looking for an experienced Plant Manager based out of Faridabad. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout Ambuja Cements:\nAmbuja Cements is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Maintain accurate production records and prepare daily reports\n• Train and supervise shop floor workers and supervisors\n• Implement 5S, Kaizen, and Six Sigma practices on the shop floor\n• Coordinate with logistics for dispatching finished goods\n• Oversee daily production operations to meet output targets\n• Conduct root cause analysis for quality rejections and defects\n• Ensure compliance with safety regulations and factory acts\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 0-1 years of relevant experience\n• Proficiency in Quality Control\n• Proficiency in Statistical Process Control\n• Proficiency in 5S\n• Proficiency in GD&T\n• Proficiency in Supply Chain Management\n• Proficiency in AutoCAD\n• Proficiency in APQP\n• Proficiency in SolidWorks\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Provident Fund and Gratuity as per company policy\n• Modern office with recreational facilities\n• Professional development and training programs\n• Maternity and paternity leave\n• Flexible working hours\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Faridabad, Haryana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Ambuja Cements!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Ambuja Cements",
+      "value": "433-4-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Ambuja Cements",
+      "sameAs": "https://www.google.com/search?q=Ambuja%20Cements",
+      "logo": "https://logo.clearbit.com/ambujacements.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Ambuja Cements Office",
+        "addressLocality": "Faridabad",
+        "addressRegion": "Haryana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Quality Control, Statistical Process Control, 5S, GD&T, Supply Chain Management, AutoCAD, APQP, SolidWorks",
+    "responsibilities": "Maintain accurate production records and prepare daily reports. Train and supervise shop floor workers and supervisors. Implement 5S, Kaizen, and Six Sigma practices on the shop floor. Coordinate with logistics for dispatching finished goods. Oversee daily production operations to meet output targets. Conduct root cause analysis for quality rejections and defects. Ensure compliance with safety regulations and factory acts",
+    "benefits": "Work-from-home flexibility. Provident Fund and Gratuity as per company policy. Modern office with recreational facilities. Professional development and training programs. Maternity and paternity leave. Flexible working hours",
+    "industry": "manufacturing",
+    "occupationalCategory": "Plant Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Provident Fund and Gratuity as per company policy, Modern office with recreational facilities, Professional development and training programs, Maternity and paternity leave, Flexible working hours"
+  },
+  "meta": {
+    "description": "We at Ambuja Cements are looking for an experienced Plant Manager based out of Faridabad. If you are a result-oriented professional with a passion for excellenc",
+    "keywords": "Plant Manager, Ambuja Cements, jobs in Faridabad, Haryana jobs, manufacturing jobs India, Quality Control, Statistical Process Control, 5S, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:58:23.881Z",
+  "page": 108
+}
