@@ -1,0 +1,94 @@
+{
+  "slug": "epc-industrie-plant-manager-delhi-2026-05-26-4",
+  "title": "Senior Plant Manager at EPC Industrie",
+  "company": "EPC Industrie",
+  "industry": "manufacturing",
+  "role": "Plant Manager",
+  "location": {
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "PLC/SCADA",
+    "Six Sigma",
+    "Lean Manufacturing",
+    "5S",
+    "Project Management",
+    "FMEA",
+    "SAP MM/PP",
+    "GD&T"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Plant Manager at EPC Industrie",
+    "description": "Are you a skilled Plant Manager looking for your next big career move? EPC Industrie in Delhi offers you the perfect platform to grow professionally and personally.\n\nAbout EPC Industrie:\nEPC Industrie is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Oversee daily production operations to meet output targets\n• Ensure environmental compliance and waste management\n• Ensure compliance with safety regulations and factory acts\n• Monitor equipment performance and coordinate preventive maintenance\n• Prepare production cost analysis and efficiency reports\n• Implement lean manufacturing and continuous improvement initiatives\n• Maintain accurate production records and prepare daily reports\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 6-10 years of relevant experience\n• Proficiency in PLC/SCADA\n• Proficiency in Six Sigma\n• Proficiency in Lean Manufacturing\n• Proficiency in 5S\n• Proficiency in Project Management\n• Proficiency in FMEA\n• Proficiency in SAP MM/PP\n• Proficiency in GD&T\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Learning & development budget\n• Life and accident insurance\n• Maternity and paternity leave\n• Competitive salary with performance-linked incentives\n• Annual paid leaves and casual leaves\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Delhi, Delhi, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with EPC Industrie!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "EPC Industrie",
+      "value": "478-4-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "EPC Industrie",
+      "sameAs": "https://www.google.com/search?q=EPC%20Industrie",
+      "logo": "https://logo.clearbit.com/epcindustrie.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "EPC Industrie Office",
+        "addressLocality": "Delhi",
+        "addressRegion": "Delhi",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "PLC/SCADA, Six Sigma, Lean Manufacturing, 5S, Project Management, FMEA, SAP MM/PP, GD&T",
+    "responsibilities": "Oversee daily production operations to meet output targets. Ensure environmental compliance and waste management. Ensure compliance with safety regulations and factory acts. Monitor equipment performance and coordinate preventive maintenance. Prepare production cost analysis and efficiency reports. Implement lean manufacturing and continuous improvement initiatives. Maintain accurate production records and prepare daily reports",
+    "benefits": "International travel opportunities for senior roles. Learning & development budget. Life and accident insurance. Maternity and paternity leave. Competitive salary with performance-linked incentives. Annual paid leaves and casual leaves",
+    "industry": "manufacturing",
+    "occupationalCategory": "Plant Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Learning & development budget, Life and accident insurance, Maternity and paternity leave, Competitive salary with performance-linked incentives, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "Are you a skilled Plant Manager looking for your next big career move? EPC Industrie in Delhi offers you the perfect platform to grow professionally and persona",
+    "keywords": "Plant Manager, EPC Industrie, jobs in Delhi, Delhi jobs, manufacturing jobs India, PLC/SCADA, Six Sigma, Lean Manufacturing, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:59:47.329Z",
+  "page": 119
+}
