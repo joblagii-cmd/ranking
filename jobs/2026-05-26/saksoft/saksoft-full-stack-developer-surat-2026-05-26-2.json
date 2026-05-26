@@ -1,0 +1,94 @@
+{
+  "slug": "saksoft-full-stack-developer-surat-2026-05-26-2",
+  "title": "Saksoft is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "Saksoft",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Surat",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "CI/CD",
+    "Go",
+    "REST APIs",
+    "Node.js",
+    "Docker",
+    "Agile/Scrum",
+    "JavaScript",
+    "Rust"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Saksoft is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "An exciting career opportunity awaits you at Saksoft. We are on the lookout for a dedicated Full Stack Developer to strengthen our Surat-based team.\n\nAbout Saksoft:\nSaksoft is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in code reviews and contribute to technical discussions\n• Ensure code security and follow best practices for data protection\n• Optimize application performance and ensure high availability\n• Integrate third-party APIs and services\n• Contribute to system architecture and technical design decisions\n• Troubleshoot, debug, and resolve software defects and performance issues\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 3-6 years of relevant experience\n• Proficiency in CI/CD\n• Proficiency in Go\n• Proficiency in REST APIs\n• Proficiency in Node.js\n• Proficiency in Docker\n• Proficiency in Agile/Scrum\n• Proficiency in JavaScript\n• Proficiency in Rust\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Work-from-home flexibility\n• Annual performance appraisal\n• Mobile and internet reimbursement\n• Employee stock options (ESOPs) for eligible roles\n• Recognition and rewards programs\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Surat, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Saksoft!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Saksoft",
+      "value": "77-2-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Saksoft",
+      "sameAs": "https://www.google.com/search?q=Saksoft",
+      "logo": "https://logo.clearbit.com/saksoft.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Saksoft Office",
+        "addressLocality": "Surat",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "CI/CD, Go, REST APIs, Node.js, Docker, Agile/Scrum, JavaScript, Rust",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Participate in code reviews and contribute to technical discussions. Ensure code security and follow best practices for data protection. Optimize application performance and ensure high availability. Integrate third-party APIs and services. Contribute to system architecture and technical design decisions. Troubleshoot, debug, and resolve software defects and performance issues",
+    "benefits": "Competitive salary with performance-linked incentives. Work-from-home flexibility. Annual performance appraisal. Mobile and internet reimbursement. Employee stock options (ESOPs) for eligible roles. Recognition and rewards programs",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Work-from-home flexibility, Annual performance appraisal, Mobile and internet reimbursement, Employee stock options (ESOPs) for eligible roles, Recognition and rewards programs"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Saksoft. We are on the lookout for a dedicated Full Stack Developer to strengthen our Surat-based team.",
+    "keywords": "Full Stack Developer, Saksoft, jobs in Surat, Gujarat jobs, technology jobs India, CI/CD, Go, REST APIs, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:47:02.875Z",
+  "page": 19
+}

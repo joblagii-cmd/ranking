@@ -1,0 +1,93 @@
+{
+  "slug": "newgen-software-full-stack-developer-lucknow-2026-05-26-2",
+  "title": "Newgen Software is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "Newgen Software",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "JavaScript",
+    "Rust",
+    "TensorFlow",
+    "Python",
+    "CI/CD",
+    "Microservices",
+    "AWS",
+    "Git"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Newgen Software is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "Join the Newgen Software family as a Full Stack Developer in Lucknow. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Newgen Software:\nNewgen Software is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Write and execute unit tests and integration tests\n• Optimize application performance and ensure high availability\n• Participate in on-call rotation for production support\n• Contribute to system architecture and technical design decisions\n• Integrate third-party APIs and services\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 0-1 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Rust\n• Proficiency in TensorFlow\n• Proficiency in Python\n• Proficiency in CI/CD\n• Proficiency in Microservices\n• Proficiency in AWS\n• Proficiency in Git\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Recognition and rewards programs\n• Meal coupons and food allowance\n• Comprehensive health insurance for self and family\n• International travel opportunities for senior roles\n• Flexible working hours\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Lucknow, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Newgen Software!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Newgen Software",
+      "value": "79-2-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Newgen Software",
+      "sameAs": "https://www.google.com/search?q=Newgen%20Software",
+      "logo": "https://logo.clearbit.com/newgensoftware.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Newgen Software Office",
+        "addressLocality": "Lucknow",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "JavaScript, Rust, TensorFlow, Python, CI/CD, Microservices, AWS, Git",
+    "responsibilities": "Troubleshoot, debug, and resolve software defects and performance issues. Work with agile methodologies including daily stand-ups and sprint planning. Write and execute unit tests and integration tests. Optimize application performance and ensure high availability. Participate in on-call rotation for production support. Contribute to system architecture and technical design decisions. Integrate third-party APIs and services",
+    "benefits": "Competitive salary with performance-linked incentives. Recognition and rewards programs. Meal coupons and food allowance. Comprehensive health insurance for self and family. International travel opportunities for senior roles. Flexible working hours",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Recognition and rewards programs, Meal coupons and food allowance, Comprehensive health insurance for self and family, International travel opportunities for senior roles, Flexible working hours"
+  },
+  "meta": {
+    "description": "Join the Newgen Software family as a Full Stack Developer in Lucknow. We believe in empowering our employees with the tools, training, and environment they need",
+    "keywords": "Full Stack Developer, Newgen Software, jobs in Lucknow, Uttar Pradesh jobs, technology jobs India, JavaScript, Rust, TensorFlow, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:47:02.875Z",
+  "page": 19
+}

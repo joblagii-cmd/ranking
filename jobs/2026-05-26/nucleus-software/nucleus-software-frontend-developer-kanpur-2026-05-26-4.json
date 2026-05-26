@@ -1,0 +1,93 @@
+{
+  "slug": "nucleus-software-frontend-developer-kanpur-2026-05-26-4",
+  "title": "Mid-Level Frontend Developer at Nucleus Software",
+  "company": "Nucleus Software",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Java",
+    "AWS",
+    "MongoDB",
+    "Machine Learning",
+    "Python",
+    "Go",
+    "Kubernetes",
+    "Rust"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Frontend Developer at Nucleus Software",
+    "description": "Join the Nucleus Software family as a Frontend Developer in Kanpur. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Nucleus Software:\nNucleus Software is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in code reviews and contribute to technical discussions\n• Contribute to system architecture and technical design decisions\n• Design, develop and maintain scalable software applications\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Participate in on-call rotation for production support\n• Implement new features based on product requirements\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 12-20 years of relevant experience\n• Proficiency in Java\n• Proficiency in AWS\n• Proficiency in MongoDB\n• Proficiency in Machine Learning\n• Proficiency in Python\n• Proficiency in Go\n• Proficiency in Kubernetes\n• Proficiency in Rust\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Competitive salary with performance-linked incentives\n• Life and accident insurance\n• Mobile and internet reimbursement\n• Recognition and rewards programs\n• Comprehensive health insurance for self and family\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Kanpur, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Nucleus Software!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Nucleus Software",
+      "value": "78-4-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Nucleus Software",
+      "sameAs": "https://www.google.com/search?q=Nucleus%20Software",
+      "logo": "https://logo.clearbit.com/nucleussoftware.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Nucleus Software Office",
+        "addressLocality": "Kanpur",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "Java, AWS, MongoDB, Machine Learning, Python, Go, Kubernetes, Rust",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Participate in code reviews and contribute to technical discussions. Contribute to system architecture and technical design decisions. Design, develop and maintain scalable software applications. Mentor junior developers and conduct knowledge-sharing sessions. Participate in on-call rotation for production support. Implement new features based on product requirements",
+    "benefits": "Transportation and conveyance allowance. Competitive salary with performance-linked incentives. Life and accident insurance. Mobile and internet reimbursement. Recognition and rewards programs. Comprehensive health insurance for self and family",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Competitive salary with performance-linked incentives, Life and accident insurance, Mobile and internet reimbursement, Recognition and rewards programs, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "Join the Nucleus Software family as a Frontend Developer in Kanpur. We believe in empowering our employees with the tools, training, and environment they need t",
+    "keywords": "Frontend Developer, Nucleus Software, jobs in Kanpur, Uttar Pradesh jobs, technology jobs India, Java, AWS, MongoDB, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:47:02.875Z",
+  "page": 19
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "nucleus-software-senior-software-engineer-surat-2026-05-26-1",
+  "title": "Senior Software Engineer - Nucleus Software - Experienced Professionals",
+  "company": "Nucleus Software",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Surat",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Agile/Scrum",
+    "REST APIs",
+    "Docker",
+    "Git",
+    "Rust",
+    "AWS",
+    "Go",
+    "TypeScript"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Nucleus Software - Experienced Professionals",
+    "description": "An exciting career opportunity awaits you at Nucleus Software. We are on the lookout for a dedicated Senior Software Engineer to strengthen our Surat-based team.\n\nAbout Nucleus Software:\nNucleus Software is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Participate in code reviews and contribute to technical discussions\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Optimize application performance and ensure high availability\n• Contribute to system architecture and technical design decisions\n• Write and execute unit tests and integration tests\n• Collaborate with cross-functional teams including product, design, and QA\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 3-6 years of relevant experience\n• Proficiency in Agile/Scrum\n• Proficiency in REST APIs\n• Proficiency in Docker\n• Proficiency in Git\n• Proficiency in Rust\n• Proficiency in AWS\n• Proficiency in Go\n• Proficiency in TypeScript\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Annual performance appraisal\n• Provident Fund and Gratuity as per company policy\n• Annual paid leaves and casual leaves\n• Meal coupons and food allowance\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Surat, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Nucleus Software!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Nucleus Software",
+      "value": "78-1-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Nucleus Software",
+      "sameAs": "https://www.google.com/search?q=Nucleus%20Software",
+      "logo": "https://logo.clearbit.com/nucleussoftware.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Nucleus Software Office",
+        "addressLocality": "Surat",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "Agile/Scrum, REST APIs, Docker, Git, Rust, AWS, Go, TypeScript",
+    "responsibilities": "Mentor junior developers and conduct knowledge-sharing sessions. Participate in code reviews and contribute to technical discussions. Troubleshoot, debug, and resolve software defects and performance issues. Optimize application performance and ensure high availability. Contribute to system architecture and technical design decisions. Write and execute unit tests and integration tests. Collaborate with cross-functional teams including product, design, and QA",
+    "benefits": "Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Annual performance appraisal. Provident Fund and Gratuity as per company policy. Annual paid leaves and casual leaves. Meal coupons and food allowance",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Annual performance appraisal, Provident Fund and Gratuity as per company policy, Annual paid leaves and casual leaves, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Nucleus Software. We are on the lookout for a dedicated Senior Software Engineer to strengthen our Surat-based team",
+    "keywords": "Senior Software Engineer, Nucleus Software, jobs in Surat, Gujarat jobs, technology jobs India, Agile/Scrum, REST APIs, Docker, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:47:02.875Z",
+  "page": 19
+}
