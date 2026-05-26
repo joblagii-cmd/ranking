@@ -1,0 +1,93 @@
+{
+  "slug": "chandigarh-university-teacher-allahabad-2026-05-26-0",
+  "title": "Job Opening Teacher at Chandigarh University",
+  "company": "Chandigarh University",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Allahabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Curriculum Development",
+    "Data Analysis",
+    "Lesson Planning",
+    "Zoom/Teams",
+    "Communication Skills",
+    "Classroom Management",
+    "Student Assessment",
+    "Educational Technology"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Job Opening Teacher at Chandigarh University",
+    "description": "An exciting career opportunity awaits you at Chandigarh University. We are on the lookout for a dedicated Teacher to strengthen our Allahabad-based team.\n\nAbout Chandigarh University:\nChandigarh University is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Conduct parent-teacher meetings and update parents on student performance\n• Monitor student progress and provide timely feedback\n• Contribute to school newsletter, blogs, and other publications\n• Maintain student records and prepare progress reports\n• Maintain classroom discipline and create a positive learning environment\n• Utilize technology and digital tools to enhance learning outcomes\n• Support students with special educational needs\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 10-15 years of relevant experience\n• Proficiency in Curriculum Development\n• Proficiency in Data Analysis\n• Proficiency in Lesson Planning\n• Proficiency in Zoom/Teams\n• Proficiency in Communication Skills\n• Proficiency in Classroom Management\n• Proficiency in Student Assessment\n• Proficiency in Educational Technology\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Maternity and paternity leave\n• Annual paid leaves and casual leaves\n• Life and accident insurance\n• Provident Fund and Gratuity as per company policy\n• Learning & development budget\n• Annual performance appraisal\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Allahabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Chandigarh University!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Chandigarh University",
+      "value": "534-0-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Chandigarh University",
+      "sameAs": "https://www.google.com/search?q=Chandigarh%20University",
+      "logo": "https://logo.clearbit.com/chandigarhuniversity.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Chandigarh University Office",
+        "addressLocality": "Allahabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Curriculum Development, Data Analysis, Lesson Planning, Zoom/Teams, Communication Skills, Classroom Management, Student Assessment, Educational Technology",
+    "responsibilities": "Conduct parent-teacher meetings and update parents on student performance. Monitor student progress and provide timely feedback. Contribute to school newsletter, blogs, and other publications. Maintain student records and prepare progress reports. Maintain classroom discipline and create a positive learning environment. Utilize technology and digital tools to enhance learning outcomes. Support students with special educational needs",
+    "benefits": "Maternity and paternity leave. Annual paid leaves and casual leaves. Life and accident insurance. Provident Fund and Gratuity as per company policy. Learning & development budget. Annual performance appraisal",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Maternity and paternity leave, Annual paid leaves and casual leaves, Life and accident insurance, Provident Fund and Gratuity as per company policy, Learning & development budget, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Chandigarh University. We are on the lookout for a dedicated Teacher to strengthen our Allahabad-based team.",
+    "keywords": "Teacher, Chandigarh University, jobs in Allahabad, Uttar Pradesh jobs, education jobs India, Curriculum Development, Data Analysis, Lesson Planning, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T04:01:49.761Z",
+  "page": 133
+}
