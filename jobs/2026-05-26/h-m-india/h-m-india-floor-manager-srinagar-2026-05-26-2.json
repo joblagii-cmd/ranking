@@ -1,0 +1,93 @@
+{
+  "slug": "h-m-india-floor-manager-srinagar-2026-05-26-2",
+  "title": "H&M India is Hiring: Floor Manager (Principal)",
+  "company": "H&M India",
+  "industry": "retail",
+  "role": "Floor Manager",
+  "location": {
+    "city": "Srinagar",
+    "state": "Jammu & Kashmir",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "KPI Management",
+    "E-commerce Integration",
+    "Visual Merchandising",
+    "Inventory Management",
+    "Sales Techniques",
+    "Customer Service",
+    "CRM",
+    "Omnichannel Retail"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "H&M India is Hiring: Floor Manager (Principal)",
+    "description": "Grow your career with H&M India! We are hiring a Floor Manager for our Srinagar team. Be part of a workplace that celebrates innovation, diversity, and performance.\n\nAbout H&M India:\nH&M India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Assist in recruiting, onboarding, and performance management of staff\n• Train and motivate the sales team to deliver excellent service\n• Monitor inventory levels and coordinate replenishment activities\n• Ensure compliance with company policies and retail regulations\n• Manage shrinkage and reduce stock discrepancies\n• Handle customer queries, complaints, and escalations effectively\n• Ensure visual merchandising standards are maintained at all times\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 10-15 years of relevant experience\n• Proficiency in KPI Management\n• Proficiency in E-commerce Integration\n• Proficiency in Visual Merchandising\n• Proficiency in Inventory Management\n• Proficiency in Sales Techniques\n• Proficiency in Customer Service\n• Proficiency in CRM\n• Proficiency in Omnichannel Retail\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Learning & development budget\n• Employee stock options (ESOPs) for eligible roles\n• Annual performance appraisal\n• Company-sponsored certifications\n• Annual paid leaves and casual leaves\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Srinagar, Jammu & Kashmir, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with H&M India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "H&M India",
+      "value": "607-2-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "H&M India",
+      "sameAs": "https://www.google.com/search?q=H%26M%20India",
+      "logo": "https://logo.clearbit.com/hmindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "H&M India Office",
+        "addressLocality": "Srinagar",
+        "addressRegion": "Jammu & Kashmir",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "KPI Management, E-commerce Integration, Visual Merchandising, Inventory Management, Sales Techniques, Customer Service, CRM, Omnichannel Retail",
+    "responsibilities": "Assist in recruiting, onboarding, and performance management of staff. Train and motivate the sales team to deliver excellent service. Monitor inventory levels and coordinate replenishment activities. Ensure compliance with company policies and retail regulations. Manage shrinkage and reduce stock discrepancies. Handle customer queries, complaints, and escalations effectively. Ensure visual merchandising standards are maintained at all times",
+    "benefits": "Learning & development budget. Employee stock options (ESOPs) for eligible roles. Annual performance appraisal. Company-sponsored certifications. Annual paid leaves and casual leaves. Provident Fund and Gratuity as per company policy",
+    "industry": "retail",
+    "occupationalCategory": "Floor Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Learning & development budget, Employee stock options (ESOPs) for eligible roles, Annual performance appraisal, Company-sponsored certifications, Annual paid leaves and casual leaves, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "Grow your career with H&M India! We are hiring a Floor Manager for our Srinagar team. Be part of a workplace that celebrates innovation, diversity, and performa",
+    "keywords": "Floor Manager, H&M India, jobs in Srinagar, Jammu & Kashmir jobs, retail jobs India, KPI Management, E-commerce Integration, Visual Merchandising, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T04:04:15.769Z",
+  "page": 151
+}
