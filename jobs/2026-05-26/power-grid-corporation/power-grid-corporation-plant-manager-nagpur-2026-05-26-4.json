@@ -1,0 +1,93 @@
+{
+  "slug": "power-grid-corporation-plant-manager-nagpur-2026-05-26-4",
+  "title": "Mid-Level Plant Manager at Power Grid Corporation",
+  "company": "Power Grid Corporation",
+  "industry": "manufacturing",
+  "role": "Plant Manager",
+  "location": {
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "AutoCAD",
+    "TPM",
+    "GD&T",
+    "APQP",
+    "ERP Systems",
+    "PPAP",
+    "PLC/SCADA",
+    "Project Management"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Plant Manager at Power Grid Corporation",
+    "description": "Power Grid Corporation is actively seeking a talented and motivated Plant Manager to join our dynamic team in Nagpur. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout Power Grid Corporation:\nPower Grid Corporation is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure compliance with safety regulations and factory acts\n• Manage raw material procurement and inventory levels\n• Conduct root cause analysis for quality rejections and defects\n• Oversee daily production operations to meet output targets\n• Implement 5S, Kaizen, and Six Sigma practices on the shop floor\n• Monitor equipment performance and coordinate preventive maintenance\n• Coordinate with design and engineering teams on product improvements\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 6-10 years of relevant experience\n• Proficiency in AutoCAD\n• Proficiency in TPM\n• Proficiency in GD&T\n• Proficiency in APQP\n• Proficiency in ERP Systems\n• Proficiency in PPAP\n• Proficiency in PLC/SCADA\n• Proficiency in Project Management\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Modern office with recreational facilities\n• Annual paid leaves and casual leaves\n• Provident Fund and Gratuity as per company policy\n• Comprehensive health insurance for self and family\n• Competitive salary with performance-linked incentives\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Nagpur, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Power Grid Corporation!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Power Grid Corporation",
+      "value": "414-4-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Power Grid Corporation",
+      "sameAs": "https://www.google.com/search?q=Power%20Grid%20Corporation",
+      "logo": "https://logo.clearbit.com/powergridcorporation.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Power Grid Corporation Office",
+        "addressLocality": "Nagpur",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "AutoCAD, TPM, GD&T, APQP, ERP Systems, PPAP, PLC/SCADA, Project Management",
+    "responsibilities": "Ensure compliance with safety regulations and factory acts. Manage raw material procurement and inventory levels. Conduct root cause analysis for quality rejections and defects. Oversee daily production operations to meet output targets. Implement 5S, Kaizen, and Six Sigma practices on the shop floor. Monitor equipment performance and coordinate preventive maintenance. Coordinate with design and engineering teams on product improvements",
+    "benefits": "Modern office with recreational facilities. Annual paid leaves and casual leaves. Provident Fund and Gratuity as per company policy. Comprehensive health insurance for self and family. Competitive salary with performance-linked incentives. Employee stock options (ESOPs) for eligible roles",
+    "industry": "manufacturing",
+    "occupationalCategory": "Plant Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Modern office with recreational facilities, Annual paid leaves and casual leaves, Provident Fund and Gratuity as per company policy, Comprehensive health insurance for self and family, Competitive salary with performance-linked incentives, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "Power Grid Corporation is actively seeking a talented and motivated Plant Manager to join our dynamic team in Nagpur. This is an excellent opportunity for profe",
+    "keywords": "Plant Manager, Power Grid Corporation, jobs in Nagpur, Maharashtra jobs, manufacturing jobs India, AutoCAD, TPM, GD&T, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:57:45.469Z",
+  "page": 103
+}
