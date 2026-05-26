@@ -1,0 +1,93 @@
+{
+  "slug": "dr-reddy-s-laboratories-surgeon-mumbai-2026-05-26-3",
+  "title": "Surgeon Vacancy at Dr. Reddy's Laboratories - 2026 Batch",
+  "company": "Dr. Reddy's Laboratories",
+  "industry": "healthcare",
+  "role": "Surgeon",
+  "location": {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Medical Terminology",
+    "Diagnostic Skills",
+    "Health Informatics",
+    "ICU Management",
+    "Medical Ethics",
+    "Clinical Documentation",
+    "Infection Control",
+    "Patient Care"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Surgeon Vacancy at Dr. Reddy's Laboratories - 2026 Batch",
+    "description": "Dr. Reddy's Laboratories has an exciting opening for a Surgeon at our Mumbai office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Dr. Reddy's Laboratories:\nDr. Reddy's Laboratories is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Provide high-quality patient care and maintain patient records\n• Diagnose and treat medical conditions following established protocols\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Administer medications and treatments as prescribed\n• Respond to medical emergencies and provide immediate care\n• Adhere to NABH/JCI accreditation standards\n• Maintain accurate clinical documentation in electronic health records\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 10-15 years of relevant experience\n• Proficiency in Medical Terminology\n• Proficiency in Diagnostic Skills\n• Proficiency in Health Informatics\n• Proficiency in ICU Management\n• Proficiency in Medical Ethics\n• Proficiency in Clinical Documentation\n• Proficiency in Infection Control\n• Proficiency in Patient Care\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Referral bonus program\n• Employee stock options (ESOPs) for eligible roles\n• Maternity and paternity leave\n• Comprehensive health insurance for self and family\n• Annual paid leaves and casual leaves\n• Life and accident insurance\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Mumbai, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Dr. Reddy's Laboratories!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Dr. Reddy's Laboratories",
+      "value": "228-3-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Dr. Reddy's Laboratories",
+      "sameAs": "https://www.google.com/search?q=Dr.%20Reddy's%20Laboratories",
+      "logo": "https://logo.clearbit.com/drreddyslaboratories.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Dr. Reddy's Laboratories Office",
+        "addressLocality": "Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "Medical Terminology, Diagnostic Skills, Health Informatics, ICU Management, Medical Ethics, Clinical Documentation, Infection Control, Patient Care",
+    "responsibilities": "Provide high-quality patient care and maintain patient records. Diagnose and treat medical conditions following established protocols. Coordinate with multidisciplinary teams for comprehensive patient management. Administer medications and treatments as prescribed. Respond to medical emergencies and provide immediate care. Adhere to NABH/JCI accreditation standards. Maintain accurate clinical documentation in electronic health records",
+    "benefits": "Referral bonus program. Employee stock options (ESOPs) for eligible roles. Maternity and paternity leave. Comprehensive health insurance for self and family. Annual paid leaves and casual leaves. Life and accident insurance",
+    "industry": "healthcare",
+    "occupationalCategory": "Surgeon",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Referral bonus program, Employee stock options (ESOPs) for eligible roles, Maternity and paternity leave, Comprehensive health insurance for self and family, Annual paid leaves and casual leaves, Life and accident insurance"
+  },
+  "meta": {
+    "description": "Dr. Reddy's Laboratories has an exciting opening for a Surgeon at our Mumbai office. Join a company that values innovation, collaboration, and continuous learni",
+    "keywords": "Surgeon, Dr. Reddy's Laboratories, jobs in Mumbai, Maharashtra jobs, healthcare jobs India, Medical Terminology, Diagnostic Skills, Health Informatics, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:51:47.376Z",
+  "page": 56
+}
