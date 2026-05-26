@@ -1,0 +1,93 @@
+{
+  "slug": "mindtree-software-engineer-dhanbad-2026-05-26-0",
+  "title": "Walk-in Drive Software Engineer at Mindtree",
+  "company": "Mindtree",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Dhanbad",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Machine Learning",
+    "REST APIs",
+    "Java",
+    "React",
+    "AWS",
+    "Rust",
+    "SQL",
+    "Python"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Walk-in Drive Software Engineer at Mindtree",
+    "description": "Are you a skilled Software Engineer looking for your next big career move? Mindtree in Dhanbad offers you the perfect platform to grow professionally and personally.\n\nAbout Mindtree:\nMindtree is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in on-call rotation for production support\n• Write clean, maintainable, and well-documented code\n• Ensure code security and follow best practices for data protection\n• Design, develop and maintain scalable software applications\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Participate in code reviews and contribute to technical discussions\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 10-15 years of relevant experience\n• Proficiency in Machine Learning\n• Proficiency in REST APIs\n• Proficiency in Java\n• Proficiency in React\n• Proficiency in AWS\n• Proficiency in Rust\n• Proficiency in SQL\n• Proficiency in Python\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• Flexible working hours\n• Recognition and rewards programs\n• Mobile and internet reimbursement\n• Company-sponsored certifications\n• Annual performance appraisal\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Dhanbad, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Mindtree!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Mindtree",
+      "value": "29-0-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Mindtree",
+      "sameAs": "https://www.google.com/search?q=Mindtree",
+      "logo": "https://logo.clearbit.com/mindtree.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Mindtree Office",
+        "addressLocality": "Dhanbad",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "Machine Learning, REST APIs, Java, React, AWS, Rust, SQL, Python",
+    "responsibilities": "Participate in on-call rotation for production support. Write clean, maintainable, and well-documented code. Ensure code security and follow best practices for data protection. Design, develop and maintain scalable software applications. Mentor junior developers and conduct knowledge-sharing sessions. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Participate in code reviews and contribute to technical discussions",
+    "benefits": "Comprehensive health insurance for self and family. Flexible working hours. Recognition and rewards programs. Mobile and internet reimbursement. Company-sponsored certifications. Annual performance appraisal",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, Flexible working hours, Recognition and rewards programs, Mobile and internet reimbursement, Company-sponsored certifications, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "Are you a skilled Software Engineer looking for your next big career move? Mindtree in Dhanbad offers you the perfect platform to grow professionally and person",
+    "keywords": "Software Engineer, Mindtree, jobs in Dhanbad, Jharkhand jobs, technology jobs India, Machine Learning, REST APIs, Java, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:45:29.604Z",
+  "page": 7
+}

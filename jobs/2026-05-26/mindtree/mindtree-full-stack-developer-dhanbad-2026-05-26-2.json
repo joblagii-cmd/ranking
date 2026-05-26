@@ -1,0 +1,94 @@
+{
+  "slug": "mindtree-full-stack-developer-dhanbad-2026-05-26-2",
+  "title": "Mindtree is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "Mindtree",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Dhanbad",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "CI/CD",
+    "TypeScript",
+    "SQL",
+    "Python",
+    "REST APIs",
+    "Git",
+    "Go",
+    "React"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mindtree is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "Are you a skilled Full Stack Developer looking for your next big career move? Mindtree in Dhanbad offers you the perfect platform to grow professionally and personally.\n\nAbout Mindtree:\nMindtree is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Write clean, maintainable, and well-documented code\n• Design, develop and maintain scalable software applications\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Implement new features based on product requirements\n• Contribute to system architecture and technical design decisions\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 3-6 years of relevant experience\n• Proficiency in CI/CD\n• Proficiency in TypeScript\n• Proficiency in SQL\n• Proficiency in Python\n• Proficiency in REST APIs\n• Proficiency in Git\n• Proficiency in Go\n• Proficiency in React\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Work-from-home flexibility\n• International travel opportunities for senior roles\n• Modern office with recreational facilities\n• Flexible working hours\n• Meal coupons and food allowance\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Dhanbad, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Mindtree!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Mindtree",
+      "value": "29-2-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Mindtree",
+      "sameAs": "https://www.google.com/search?q=Mindtree",
+      "logo": "https://logo.clearbit.com/mindtree.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Mindtree Office",
+        "addressLocality": "Dhanbad",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "CI/CD, TypeScript, SQL, Python, REST APIs, Git, Go, React",
+    "responsibilities": "Mentor junior developers and conduct knowledge-sharing sessions. Write clean, maintainable, and well-documented code. Design, develop and maintain scalable software applications. Work with agile methodologies including daily stand-ups and sprint planning. Implement new features based on product requirements. Contribute to system architecture and technical design decisions. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP",
+    "benefits": "Transportation and conveyance allowance. Work-from-home flexibility. International travel opportunities for senior roles. Modern office with recreational facilities. Flexible working hours. Meal coupons and food allowance",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Work-from-home flexibility, International travel opportunities for senior roles, Modern office with recreational facilities, Flexible working hours, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "Are you a skilled Full Stack Developer looking for your next big career move? Mindtree in Dhanbad offers you the perfect platform to grow professionally and per",
+    "keywords": "Full Stack Developer, Mindtree, jobs in Dhanbad, Jharkhand jobs, technology jobs India, CI/CD, TypeScript, SQL, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:45:29.604Z",
+  "page": 7
+}

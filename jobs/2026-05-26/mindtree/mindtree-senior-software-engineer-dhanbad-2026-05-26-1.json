@@ -1,0 +1,93 @@
+{
+  "slug": "mindtree-senior-software-engineer-dhanbad-2026-05-26-1",
+  "title": "Senior Software Engineer - Mindtree - Freshers Welcome",
+  "company": "Mindtree",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Dhanbad",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "AWS",
+    "Docker",
+    "Agile/Scrum",
+    "Go",
+    "Kubernetes",
+    "TypeScript",
+    "Python",
+    "Git"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Mindtree - Freshers Welcome",
+    "description": "Are you a skilled Senior Software Engineer looking for your next big career move? Mindtree in Dhanbad offers you the perfect platform to grow professionally and personally.\n\nAbout Mindtree:\nMindtree is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Participate in on-call rotation for production support\n• Integrate third-party APIs and services\n• Contribute to system architecture and technical design decisions\n• Work with agile methodologies including daily stand-ups and sprint planning\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 6-10 years of relevant experience\n• Proficiency in AWS\n• Proficiency in Docker\n• Proficiency in Agile/Scrum\n• Proficiency in Go\n• Proficiency in Kubernetes\n• Proficiency in TypeScript\n• Proficiency in Python\n• Proficiency in Git\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Maternity and paternity leave\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Mobile and internet reimbursement\n• Company-sponsored certifications\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Dhanbad, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Mindtree!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Mindtree",
+      "value": "29-1-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Mindtree",
+      "sameAs": "https://www.google.com/search?q=Mindtree",
+      "logo": "https://logo.clearbit.com/mindtree.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Mindtree Office",
+        "addressLocality": "Dhanbad",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "AWS, Docker, Agile/Scrum, Go, Kubernetes, TypeScript, Python, Git",
+    "responsibilities": "Design, develop and maintain scalable software applications. Troubleshoot, debug, and resolve software defects and performance issues. Mentor junior developers and conduct knowledge-sharing sessions. Participate in on-call rotation for production support. Integrate third-party APIs and services. Contribute to system architecture and technical design decisions. Work with agile methodologies including daily stand-ups and sprint planning",
+    "benefits": "International travel opportunities for senior roles. Maternity and paternity leave. Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Mobile and internet reimbursement. Company-sponsored certifications",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Maternity and paternity leave, Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Mobile and internet reimbursement, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "Are you a skilled Senior Software Engineer looking for your next big career move? Mindtree in Dhanbad offers you the perfect platform to grow professionally and",
+    "keywords": "Senior Software Engineer, Mindtree, jobs in Dhanbad, Jharkhand jobs, technology jobs India, AWS, Docker, Agile/Scrum, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:45:29.604Z",
+  "page": 7
+}

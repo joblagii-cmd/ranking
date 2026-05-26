@@ -1,0 +1,93 @@
+{
+  "slug": "persistent-systems-full-stack-developer-navi mumbai-2026-05-26-2",
+  "title": "Persistent Systems is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "Persistent Systems",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "React",
+    "TypeScript",
+    "TensorFlow",
+    "AWS",
+    "Microservices",
+    "Docker",
+    "Rust",
+    "CI/CD"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Persistent Systems is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "Are you a skilled Full Stack Developer looking for your next big career move? Persistent Systems in Navi Mumbai offers you the perfect platform to grow professionally and personally.\n\nAbout Persistent Systems:\nPersistent Systems is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write clean, maintainable, and well-documented code\n• Ensure code security and follow best practices for data protection\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Integrate third-party APIs and services\n• Design, develop and maintain scalable software applications\n• Optimize application performance and ensure high availability\n• Work with agile methodologies including daily stand-ups and sprint planning\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 0-1 years of relevant experience\n• Proficiency in React\n• Proficiency in TypeScript\n• Proficiency in TensorFlow\n• Proficiency in AWS\n• Proficiency in Microservices\n• Proficiency in Docker\n• Proficiency in Rust\n• Proficiency in CI/CD\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Referral bonus program\n• Provident Fund and Gratuity as per company policy\n• Company-sponsored certifications\n• Employee stock options (ESOPs) for eligible roles\n• Learning & development budget\n• Competitive salary with performance-linked incentives\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Navi Mumbai, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Persistent Systems!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Persistent Systems",
+      "value": "31-2-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Persistent Systems",
+      "sameAs": "https://www.google.com/search?q=Persistent%20Systems",
+      "logo": "https://logo.clearbit.com/persistentsystems.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Persistent Systems Office",
+        "addressLocality": "Navi Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "React, TypeScript, TensorFlow, AWS, Microservices, Docker, Rust, CI/CD",
+    "responsibilities": "Write clean, maintainable, and well-documented code. Ensure code security and follow best practices for data protection. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Integrate third-party APIs and services. Design, develop and maintain scalable software applications. Optimize application performance and ensure high availability. Work with agile methodologies including daily stand-ups and sprint planning",
+    "benefits": "Referral bonus program. Provident Fund and Gratuity as per company policy. Company-sponsored certifications. Employee stock options (ESOPs) for eligible roles. Learning & development budget. Competitive salary with performance-linked incentives",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Referral bonus program, Provident Fund and Gratuity as per company policy, Company-sponsored certifications, Employee stock options (ESOPs) for eligible roles, Learning & development budget, Competitive salary with performance-linked incentives"
+  },
+  "meta": {
+    "description": "Are you a skilled Full Stack Developer looking for your next big career move? Persistent Systems in Navi Mumbai offers you the perfect platform to grow professi",
+    "keywords": "Full Stack Developer, Persistent Systems, jobs in Navi Mumbai, Maharashtra jobs, technology jobs India, React, TypeScript, TensorFlow, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:45:29.605Z",
+  "page": 7
+}
