@@ -1,0 +1,93 @@
+{
+  "slug": "bsnl-software-engineer-kanpur-2026-05-26-0",
+  "title": "Immediate Requirement Software Engineer at BSNL",
+  "company": "BSNL",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "JavaScript",
+    "TypeScript",
+    "Python",
+    "Java",
+    "React",
+    "Microservices",
+    "Go",
+    "Node.js"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Immediate Requirement Software Engineer at BSNL",
+    "description": "Join the BSNL family as a Software Engineer in Kanpur. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout BSNL:\nBSNL is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Ensure code security and follow best practices for data protection\n• Participate in on-call rotation for production support\n• Collaborate with cross-functional teams including product, design, and QA\n• Implement new features based on product requirements\n• Contribute to system architecture and technical design decisions\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 12-20 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in TypeScript\n• Proficiency in Python\n• Proficiency in Java\n• Proficiency in React\n• Proficiency in Microservices\n• Proficiency in Go\n• Proficiency in Node.js\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Life and accident insurance\n• Learning & development budget\n• Comprehensive health insurance for self and family\n• Competitive salary with performance-linked incentives\n• Annual performance appraisal\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Kanpur, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with BSNL!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "BSNL",
+      "value": "82-0-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "BSNL",
+      "sameAs": "https://www.google.com/search?q=BSNL",
+      "logo": "https://logo.clearbit.com/bsnl.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "BSNL Office",
+        "addressLocality": "Kanpur",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "JavaScript, TypeScript, Python, Java, React, Microservices, Go, Node.js",
+    "responsibilities": "Work with agile methodologies including daily stand-ups and sprint planning. Troubleshoot, debug, and resolve software defects and performance issues. Ensure code security and follow best practices for data protection. Participate in on-call rotation for production support. Collaborate with cross-functional teams including product, design, and QA. Implement new features based on product requirements. Contribute to system architecture and technical design decisions",
+    "benefits": "Life and accident insurance. Learning & development budget. Comprehensive health insurance for self and family. Competitive salary with performance-linked incentives. Annual performance appraisal. Provident Fund and Gratuity as per company policy",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Learning & development budget, Comprehensive health insurance for self and family, Competitive salary with performance-linked incentives, Annual performance appraisal, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "Join the BSNL family as a Software Engineer in Kanpur. We believe in empowering our employees with the tools, training, and environment they need to succeed.",
+    "keywords": "Software Engineer, BSNL, jobs in Kanpur, Uttar Pradesh jobs, technology jobs India, JavaScript, TypeScript, Python, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:47:10.645Z",
+  "page": 20
+}

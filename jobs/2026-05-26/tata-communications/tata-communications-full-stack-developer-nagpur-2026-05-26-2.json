@@ -1,0 +1,93 @@
+{
+  "slug": "tata-communications-full-stack-developer-nagpur-2026-05-26-2",
+  "title": "Tata Communications is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "Tata Communications",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Agile/Scrum",
+    "React",
+    "Java",
+    "TypeScript",
+    "MongoDB",
+    "Kubernetes",
+    "Microservices",
+    "AWS"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Tata Communications is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "Join the Tata Communications family as a Full Stack Developer in Nagpur. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Tata Communications:\nTata Communications is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Implement new features based on product requirements\n• Write and execute unit tests and integration tests\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in code reviews and contribute to technical discussions\n• Write clean, maintainable, and well-documented code\n• Work with agile methodologies including daily stand-ups and sprint planning\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 6-10 years of relevant experience\n• Proficiency in Agile/Scrum\n• Proficiency in React\n• Proficiency in Java\n• Proficiency in TypeScript\n• Proficiency in MongoDB\n• Proficiency in Kubernetes\n• Proficiency in Microservices\n• Proficiency in AWS\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Meal coupons and food allowance\n• Modern office with recreational facilities\n• Flexible working hours\n• Life and accident insurance\n• Transportation and conveyance allowance\n• Competitive salary with performance-linked incentives\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Nagpur, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Tata Communications!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Tata Communications",
+      "value": "81-2-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Tata Communications",
+      "sameAs": "https://www.google.com/search?q=Tata%20Communications",
+      "logo": "https://logo.clearbit.com/tatacommunications.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Tata Communications Office",
+        "addressLocality": "Nagpur",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "Agile/Scrum, React, Java, TypeScript, MongoDB, Kubernetes, Microservices, AWS",
+    "responsibilities": "Implement new features based on product requirements. Write and execute unit tests and integration tests. Troubleshoot, debug, and resolve software defects and performance issues. Collaborate with cross-functional teams including product, design, and QA. Participate in code reviews and contribute to technical discussions. Write clean, maintainable, and well-documented code. Work with agile methodologies including daily stand-ups and sprint planning",
+    "benefits": "Meal coupons and food allowance. Modern office with recreational facilities. Flexible working hours. Life and accident insurance. Transportation and conveyance allowance. Competitive salary with performance-linked incentives",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Meal coupons and food allowance, Modern office with recreational facilities, Flexible working hours, Life and accident insurance, Transportation and conveyance allowance, Competitive salary with performance-linked incentives"
+  },
+  "meta": {
+    "description": "Join the Tata Communications family as a Full Stack Developer in Nagpur. We believe in empowering our employees with the tools, training, and environment they n",
+    "keywords": "Full Stack Developer, Tata Communications, jobs in Nagpur, Maharashtra jobs, technology jobs India, Agile/Scrum, React, Java, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:47:10.645Z",
+  "page": 20
+}

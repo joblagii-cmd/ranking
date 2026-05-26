@@ -1,0 +1,93 @@
+{
+  "slug": "airtel-india-senior-software-engineer-nagpur-2026-05-26-1",
+  "title": "Senior Software Engineer - Airtel India - Experienced Professionals",
+  "company": "Airtel India",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "TensorFlow",
+    "React",
+    "Kubernetes",
+    "Microservices",
+    "Node.js",
+    "JavaScript",
+    "Go",
+    "Machine Learning"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Airtel India - Experienced Professionals",
+    "description": "Join the Airtel India family as a Senior Software Engineer in Nagpur. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Airtel India:\nAirtel India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Collaborate with cross-functional teams including product, design, and QA\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Contribute to system architecture and technical design decisions\n• Integrate third-party APIs and services\n• Participate in code reviews and contribute to technical discussions\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 3-6 years of relevant experience\n• Proficiency in TensorFlow\n• Proficiency in React\n• Proficiency in Kubernetes\n• Proficiency in Microservices\n• Proficiency in Node.js\n• Proficiency in JavaScript\n• Proficiency in Go\n• Proficiency in Machine Learning\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Maternity and paternity leave\n• Competitive salary with performance-linked incentives\n• Provident Fund and Gratuity as per company policy\n• Employee stock options (ESOPs) for eligible roles\n• Recognition and rewards programs\n• Company-sponsored certifications\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Nagpur, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Airtel India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Airtel India",
+      "value": "83-1-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Airtel India",
+      "sameAs": "https://www.google.com/search?q=Airtel%20India",
+      "logo": "https://logo.clearbit.com/airtelindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Airtel India Office",
+        "addressLocality": "Nagpur",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "TensorFlow, React, Kubernetes, Microservices, Node.js, JavaScript, Go, Machine Learning",
+    "responsibilities": "Design, develop and maintain scalable software applications. Troubleshoot, debug, and resolve software defects and performance issues. Collaborate with cross-functional teams including product, design, and QA. Work with agile methodologies including daily stand-ups and sprint planning. Contribute to system architecture and technical design decisions. Integrate third-party APIs and services. Participate in code reviews and contribute to technical discussions",
+    "benefits": "Maternity and paternity leave. Competitive salary with performance-linked incentives. Provident Fund and Gratuity as per company policy. Employee stock options (ESOPs) for eligible roles. Recognition and rewards programs. Company-sponsored certifications",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Maternity and paternity leave, Competitive salary with performance-linked incentives, Provident Fund and Gratuity as per company policy, Employee stock options (ESOPs) for eligible roles, Recognition and rewards programs, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "Join the Airtel India family as a Senior Software Engineer in Nagpur. We believe in empowering our employees with the tools, training, and environment they need",
+    "keywords": "Senior Software Engineer, Airtel India, jobs in Nagpur, Maharashtra jobs, technology jobs India, TensorFlow, React, Kubernetes, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:47:10.645Z",
+  "page": 20
+}
