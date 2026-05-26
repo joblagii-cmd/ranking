@@ -1,0 +1,93 @@
+{
+  "slug": "itc-limited-quality-control-engineer-jabalpur-2026-05-26-2",
+  "title": "ITC Limited is Hiring: Quality Control Engineer (Senior)",
+  "company": "ITC Limited",
+  "industry": "manufacturing",
+  "role": "Quality Control Engineer",
+  "location": {
+    "city": "Jabalpur",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "PLC/SCADA",
+    "FMEA",
+    "5S",
+    "Lean Manufacturing",
+    "ERP Systems",
+    "Six Sigma",
+    "TPM",
+    "SolidWorks"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "ITC Limited is Hiring: Quality Control Engineer (Senior)",
+    "description": "ITC Limited has an exciting opening for a Quality Control Engineer at our Jabalpur office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout ITC Limited:\nITC Limited is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with design and engineering teams on product improvements\n• Implement 5S, Kaizen, and Six Sigma practices on the shop floor\n• Oversee daily production operations to meet output targets\n• Manage supplier quality audits and vendor development\n• Ensure product quality meets internal and customer specifications\n• Implement lean manufacturing and continuous improvement initiatives\n• Conduct root cause analysis for quality rejections and defects\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 0-1 years of relevant experience\n• Proficiency in PLC/SCADA\n• Proficiency in FMEA\n• Proficiency in 5S\n• Proficiency in Lean Manufacturing\n• Proficiency in ERP Systems\n• Proficiency in Six Sigma\n• Proficiency in TPM\n• Proficiency in SolidWorks\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Professional development and training programs\n• Modern office with recreational facilities\n• Referral bonus program\n• Meal coupons and food allowance\n• Annual performance appraisal\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Jabalpur, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with ITC Limited!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "ITC Limited",
+      "value": "456-2-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "ITC Limited",
+      "sameAs": "https://www.google.com/search?q=ITC%20Limited",
+      "logo": "https://logo.clearbit.com/itclimited.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "ITC Limited Office",
+        "addressLocality": "Jabalpur",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "PLC/SCADA, FMEA, 5S, Lean Manufacturing, ERP Systems, Six Sigma, TPM, SolidWorks",
+    "responsibilities": "Coordinate with design and engineering teams on product improvements. Implement 5S, Kaizen, and Six Sigma practices on the shop floor. Oversee daily production operations to meet output targets. Manage supplier quality audits and vendor development. Ensure product quality meets internal and customer specifications. Implement lean manufacturing and continuous improvement initiatives. Conduct root cause analysis for quality rejections and defects",
+    "benefits": "Competitive salary with performance-linked incentives. Professional development and training programs. Modern office with recreational facilities. Referral bonus program. Meal coupons and food allowance. Annual performance appraisal",
+    "industry": "manufacturing",
+    "occupationalCategory": "Quality Control Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Professional development and training programs, Modern office with recreational facilities, Referral bonus program, Meal coupons and food allowance, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "ITC Limited has an exciting opening for a Quality Control Engineer at our Jabalpur office. Join a company that values innovation, collaboration, and continuous ",
+    "keywords": "Quality Control Engineer, ITC Limited, jobs in Jabalpur, Madhya Pradesh jobs, manufacturing jobs India, PLC/SCADA, FMEA, 5S, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:59:01.495Z",
+  "page": 113
+}
