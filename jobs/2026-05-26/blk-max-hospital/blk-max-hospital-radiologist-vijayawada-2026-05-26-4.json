@@ -1,0 +1,93 @@
+{
+  "slug": "blk-max-hospital-radiologist-vijayawada-2026-05-26-4",
+  "title": "Entry-Level Radiologist at BLK-Max Hospital",
+  "company": "BLK-Max Hospital",
+  "industry": "healthcare",
+  "role": "Radiologist",
+  "location": {
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Medical Coding",
+    "Diagnostic Skills",
+    "Medical Terminology",
+    "ICU Management",
+    "Wound Care",
+    "Medical Ethics",
+    "EMR/EHR",
+    "Infection Control"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Entry-Level Radiologist at BLK-Max Hospital",
+    "description": "An exciting career opportunity awaits you at BLK-Max Hospital. We are on the lookout for a dedicated Radiologist to strengthen our Vijayawada-based team.\n\nAbout BLK-Max Hospital:\nBLK-Max Hospital is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Attend continuing medical education programs and training\n• Collaborate with pharmaceutical representatives and medical suppliers\n• Maintain accurate clinical documentation in electronic health records\n• Educate patients and families on health management and disease prevention\n• Monitor patient progress and adjust treatment plans accordingly\n• Ensure patient privacy and maintain confidentiality\n• Administer medications and treatments as prescribed\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 6-10 years of relevant experience\n• Proficiency in Medical Coding\n• Proficiency in Diagnostic Skills\n• Proficiency in Medical Terminology\n• Proficiency in ICU Management\n• Proficiency in Wound Care\n• Proficiency in Medical Ethics\n• Proficiency in EMR/EHR\n• Proficiency in Infection Control\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Company-sponsored certifications\n• Comprehensive health insurance for self and family\n• Provident Fund and Gratuity as per company policy\n• Meal coupons and food allowance\n• Transportation and conveyance allowance\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Vijayawada, Andhra Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with BLK-Max Hospital!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "BLK-Max Hospital",
+      "value": "292-4-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "BLK-Max Hospital",
+      "sameAs": "https://www.google.com/search?q=BLK-Max%20Hospital",
+      "logo": "https://logo.clearbit.com/blkmaxhospital.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "BLK-Max Hospital Office",
+        "addressLocality": "Vijayawada",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "Medical Coding, Diagnostic Skills, Medical Terminology, ICU Management, Wound Care, Medical Ethics, EMR/EHR, Infection Control",
+    "responsibilities": "Attend continuing medical education programs and training. Collaborate with pharmaceutical representatives and medical suppliers. Maintain accurate clinical documentation in electronic health records. Educate patients and families on health management and disease prevention. Monitor patient progress and adjust treatment plans accordingly. Ensure patient privacy and maintain confidentiality. Administer medications and treatments as prescribed",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Company-sponsored certifications. Comprehensive health insurance for self and family. Provident Fund and Gratuity as per company policy. Meal coupons and food allowance. Transportation and conveyance allowance",
+    "industry": "healthcare",
+    "occupationalCategory": "Radiologist",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Company-sponsored certifications, Comprehensive health insurance for self and family, Provident Fund and Gratuity as per company policy, Meal coupons and food allowance, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at BLK-Max Hospital. We are on the lookout for a dedicated Radiologist to strengthen our Vijayawada-based team.",
+    "keywords": "Radiologist, BLK-Max Hospital, jobs in Vijayawada, Andhra Pradesh jobs, healthcare jobs India, Medical Coding, Diagnostic Skills, Medical Terminology, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:53:49.240Z",
+  "page": 72
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "symbiosis-hospital-medical-officer-coimbatore-2026-05-26-0",
+  "title": "Hiring Medical Officer at Symbiosis Hospital",
+  "company": "Symbiosis Hospital",
+  "industry": "healthcare",
+  "role": "Medical Officer",
+  "location": {
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Patient Care",
+    "ICU Management",
+    "Clinical Documentation",
+    "Medical Coding",
+    "Clinical Research",
+    "Health Informatics",
+    "Wound Care",
+    "ICD-10"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Hiring Medical Officer at Symbiosis Hospital",
+    "description": "Symbiosis Hospital, one of India's leading organizations, is hiring a Medical Officer for our Coimbatore operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Symbiosis Hospital:\nSymbiosis Hospital is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Adhere to NABH/JCI accreditation standards\n• Administer medications and treatments as prescribed\n• Ensure patient privacy and maintain confidentiality\n• Provide high-quality patient care and maintain patient records\n• Diagnose and treat medical conditions following established protocols\n• Participate in quality improvement initiatives and clinical audits\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 12-20 years of relevant experience\n• Proficiency in Patient Care\n• Proficiency in ICU Management\n• Proficiency in Clinical Documentation\n• Proficiency in Medical Coding\n• Proficiency in Clinical Research\n• Proficiency in Health Informatics\n• Proficiency in Wound Care\n• Proficiency in ICD-10\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Work-from-home flexibility\n• Modern office with recreational facilities\n• Competitive salary with performance-linked incentives\n• Employee stock options (ESOPs) for eligible roles\n• Comprehensive health insurance for self and family\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Coimbatore, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Symbiosis Hospital!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Symbiosis Hospital",
+      "value": "289-0-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Symbiosis Hospital",
+      "sameAs": "https://www.google.com/search?q=Symbiosis%20Hospital",
+      "logo": "https://logo.clearbit.com/symbiosishospital.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Symbiosis Hospital Office",
+        "addressLocality": "Coimbatore",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "Patient Care, ICU Management, Clinical Documentation, Medical Coding, Clinical Research, Health Informatics, Wound Care, ICD-10",
+    "responsibilities": "Coordinate with multidisciplinary teams for comprehensive patient management. Adhere to NABH/JCI accreditation standards. Administer medications and treatments as prescribed. Ensure patient privacy and maintain confidentiality. Provide high-quality patient care and maintain patient records. Diagnose and treat medical conditions following established protocols. Participate in quality improvement initiatives and clinical audits",
+    "benefits": "Annual paid leaves and casual leaves. Work-from-home flexibility. Modern office with recreational facilities. Competitive salary with performance-linked incentives. Employee stock options (ESOPs) for eligible roles. Comprehensive health insurance for self and family",
+    "industry": "healthcare",
+    "occupationalCategory": "Medical Officer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Work-from-home flexibility, Modern office with recreational facilities, Competitive salary with performance-linked incentives, Employee stock options (ESOPs) for eligible roles, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "Symbiosis Hospital, one of India's leading organizations, is hiring a Medical Officer for our Coimbatore operations. We offer a competitive salary package along",
+    "keywords": "Medical Officer, Symbiosis Hospital, jobs in Coimbatore, Tamil Nadu jobs, healthcare jobs India, Patient Care, ICU Management, Clinical Documentation, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:53:49.238Z",
+  "page": 72
+}
