@@ -1,0 +1,94 @@
+{
+  "slug": "fyers-credit-analyst-bhopal-2026-05-26-2",
+  "title": "Fyers is Hiring: Credit Analyst (Lead)",
+  "company": "Fyers",
+  "industry": "finance",
+  "role": "Credit Analyst",
+  "location": {
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "SAP FICO",
+    "IFRS",
+    "Tally",
+    "MS Excel",
+    "Income Tax",
+    "QuickBooks",
+    "Forecasting",
+    "Risk Management"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Fyers is Hiring: Credit Analyst (Lead)",
+    "description": "If you're a passionate Credit Analyst with drive and ambition, Fyers in Bhopal is the place for you. We're growing fast and need talented people to grow with us.\n\nAbout Fyers:\nFyers is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Maintain general ledger and ensure accurate bookkeeping\n• Liaise with banks, regulators, and financial institutions\n• Monitor financial performance against targets and provide variance analysis\n• Process payroll and manage employee reimbursements\n• Ensure compliance with tax regulations and statutory requirements\n• Manage accounts payable and accounts receivable functions\n• Coordinate with external auditors during annual audits\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 12-20 years of relevant experience\n• Proficiency in SAP FICO\n• Proficiency in IFRS\n• Proficiency in Tally\n• Proficiency in MS Excel\n• Proficiency in Income Tax\n• Proficiency in QuickBooks\n• Proficiency in Forecasting\n• Proficiency in Risk Management\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Flexible working hours\n• Life and accident insurance\n• Modern office with recreational facilities\n• Professional development and training programs\n• Learning & development budget\n• Referral bonus program\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Bhopal, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Fyers!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Fyers",
+      "value": "170-2-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Fyers",
+      "sameAs": "https://www.google.com/search?q=Fyers",
+      "logo": "https://logo.clearbit.com/fyers.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Fyers Office",
+        "addressLocality": "Bhopal",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "SAP FICO, IFRS, Tally, MS Excel, Income Tax, QuickBooks, Forecasting, Risk Management",
+    "responsibilities": "Maintain general ledger and ensure accurate bookkeeping. Liaise with banks, regulators, and financial institutions. Monitor financial performance against targets and provide variance analysis. Process payroll and manage employee reimbursements. Ensure compliance with tax regulations and statutory requirements. Manage accounts payable and accounts receivable functions. Coordinate with external auditors during annual audits",
+    "benefits": "Flexible working hours. Life and accident insurance. Modern office with recreational facilities. Professional development and training programs. Learning & development budget. Referral bonus program",
+    "industry": "finance",
+    "occupationalCategory": "Credit Analyst",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, Life and accident insurance, Modern office with recreational facilities, Professional development and training programs, Learning & development budget, Referral bonus program"
+  },
+  "meta": {
+    "description": "If you're a passionate Credit Analyst with drive and ambition, Fyers in Bhopal is the place for you. We're growing fast and need talented people to grow with us",
+    "keywords": "Credit Analyst, Fyers, jobs in Bhopal, Madhya Pradesh jobs, finance jobs India, SAP FICO, IFRS, Tally, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:49:59.570Z",
+  "page": 42
+}
