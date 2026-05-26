@@ -1,0 +1,93 @@
+{
+  "slug": "tata-motors-manufacturing-engineer-hyderabad-2026-05-26-1",
+  "title": "Manufacturing Engineer - Tata Motors - Freshers Welcome",
+  "company": "Tata Motors",
+  "industry": "manufacturing",
+  "role": "Manufacturing Engineer",
+  "location": {
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "SAP MM/PP",
+    "Lean Manufacturing",
+    "SolidWorks",
+    "GD&T",
+    "TPM",
+    "Supply Chain Management",
+    "PLC/SCADA",
+    "APQP"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Manufacturing Engineer - Tata Motors - Freshers Welcome",
+    "description": "If you're a passionate Manufacturing Engineer with drive and ambition, Tata Motors in Hyderabad is the place for you. We're growing fast and need talented people to grow with us.\n\nAbout Tata Motors:\nTata Motors is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Oversee daily production operations to meet output targets\n• Maintain accurate production records and prepare daily reports\n• Conduct root cause analysis for quality rejections and defects\n• Coordinate with logistics for dispatching finished goods\n• Coordinate with design and engineering teams on product improvements\n• Monitor equipment performance and coordinate preventive maintenance\n• Manage supplier quality audits and vendor development\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 6-10 years of relevant experience\n• Proficiency in SAP MM/PP\n• Proficiency in Lean Manufacturing\n• Proficiency in SolidWorks\n• Proficiency in GD&T\n• Proficiency in TPM\n• Proficiency in Supply Chain Management\n• Proficiency in PLC/SCADA\n• Proficiency in APQP\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Provident Fund and Gratuity as per company policy\n• Referral bonus program\n• Recognition and rewards programs\n• Annual paid leaves and casual leaves\n• Professional development and training programs\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Hyderabad, Telangana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Tata Motors!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Tata Motors",
+      "value": "401-1-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Tata Motors",
+      "sameAs": "https://www.google.com/search?q=Tata%20Motors",
+      "logo": "https://logo.clearbit.com/tatamotors.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Tata Motors Office",
+        "addressLocality": "Hyderabad",
+        "addressRegion": "Telangana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "SAP MM/PP, Lean Manufacturing, SolidWorks, GD&T, TPM, Supply Chain Management, PLC/SCADA, APQP",
+    "responsibilities": "Oversee daily production operations to meet output targets. Maintain accurate production records and prepare daily reports. Conduct root cause analysis for quality rejections and defects. Coordinate with logistics for dispatching finished goods. Coordinate with design and engineering teams on product improvements. Monitor equipment performance and coordinate preventive maintenance. Manage supplier quality audits and vendor development",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Provident Fund and Gratuity as per company policy. Referral bonus program. Recognition and rewards programs. Annual paid leaves and casual leaves. Professional development and training programs",
+    "industry": "manufacturing",
+    "occupationalCategory": "Manufacturing Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Provident Fund and Gratuity as per company policy, Referral bonus program, Recognition and rewards programs, Annual paid leaves and casual leaves, Professional development and training programs"
+  },
+  "meta": {
+    "description": "If you're a passionate Manufacturing Engineer with drive and ambition, Tata Motors in Hyderabad is the place for you. We're growing fast and need talented peopl",
+    "keywords": "Manufacturing Engineer, Tata Motors, jobs in Hyderabad, Telangana jobs, manufacturing jobs India, SAP MM/PP, Lean Manufacturing, SolidWorks, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:57:22.149Z",
+  "page": 100
+}
