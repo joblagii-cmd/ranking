@@ -1,0 +1,94 @@
+{
+  "slug": "tata-memorial-centre-surgeon-srinagar-2026-05-26-3",
+  "title": "Surgeon Vacancy at Tata Memorial Centre - 2026 Batch",
+  "company": "Tata Memorial Centre",
+  "industry": "healthcare",
+  "role": "Surgeon",
+  "location": {
+    "city": "Srinagar",
+    "state": "Jammu & Kashmir",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Patient Care",
+    "NABH Standards",
+    "HIPAA Compliance",
+    "Medical Coding",
+    "Clinical Research",
+    "Surgical Procedures",
+    "CPT Codes",
+    "Health Informatics"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Surgeon Vacancy at Tata Memorial Centre - 2026 Batch",
+    "description": "Tata Memorial Centre, one of India's leading organizations, is hiring a Surgeon for our Srinagar operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Tata Memorial Centre:\nTata Memorial Centre is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Monitor patient progress and adjust treatment plans accordingly\n• Conduct routine health assessments and screenings\n• Maintain sterile environments and follow infection control protocols\n• Educate patients and families on health management and disease prevention\n• Ensure patient privacy and maintain confidentiality\n• Attend continuing medical education programs and training\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 0-1 years of relevant experience\n• Proficiency in Patient Care\n• Proficiency in NABH Standards\n• Proficiency in HIPAA Compliance\n• Proficiency in Medical Coding\n• Proficiency in Clinical Research\n• Proficiency in Surgical Procedures\n• Proficiency in CPT Codes\n• Proficiency in Health Informatics\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Referral bonus program\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Provident Fund and Gratuity as per company policy\n• Life and accident insurance\n• Meal coupons and food allowance\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Srinagar, Jammu & Kashmir, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Tata Memorial Centre!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Tata Memorial Centre",
+      "value": "274-3-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Tata Memorial Centre",
+      "sameAs": "https://www.google.com/search?q=Tata%20Memorial%20Centre",
+      "logo": "https://logo.clearbit.com/tatamemorialcentre.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Tata Memorial Centre Office",
+        "addressLocality": "Srinagar",
+        "addressRegion": "Jammu & Kashmir",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "Patient Care, NABH Standards, HIPAA Compliance, Medical Coding, Clinical Research, Surgical Procedures, CPT Codes, Health Informatics",
+    "responsibilities": "Coordinate with multidisciplinary teams for comprehensive patient management. Monitor patient progress and adjust treatment plans accordingly. Conduct routine health assessments and screenings. Maintain sterile environments and follow infection control protocols. Educate patients and families on health management and disease prevention. Ensure patient privacy and maintain confidentiality. Attend continuing medical education programs and training",
+    "benefits": "Referral bonus program. Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Provident Fund and Gratuity as per company policy. Life and accident insurance. Meal coupons and food allowance",
+    "industry": "healthcare",
+    "occupationalCategory": "Surgeon",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Referral bonus program, Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Provident Fund and Gratuity as per company policy, Life and accident insurance, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "Tata Memorial Centre, one of India's leading organizations, is hiring a Surgeon for our Srinagar operations. We offer a competitive salary package along with wo",
+    "keywords": "Surgeon, Tata Memorial Centre, jobs in Srinagar, Jammu & Kashmir jobs, healthcare jobs India, Patient Care, NABH Standards, HIPAA Compliance, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:53:18.777Z",
+  "page": 68
+}
