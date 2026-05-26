@@ -1,0 +1,93 @@
+{
+  "slug": "naukri-senior-software-engineer-thane-2026-05-26-1",
+  "title": "Senior Software Engineer - Naukri - Experienced Professionals",
+  "company": "Naukri",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Thane",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "MongoDB",
+    "Node.js",
+    "Git",
+    "Machine Learning",
+    "TensorFlow",
+    "React",
+    "Kubernetes",
+    "AWS"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Naukri - Experienced Professionals",
+    "description": "Join the Naukri family as a Senior Software Engineer in Thane. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Naukri:\nNaukri is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Integrate third-party APIs and services\n• Design, develop and maintain scalable software applications\n• Write clean, maintainable, and well-documented code\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Implement new features based on product requirements\n• Write and execute unit tests and integration tests\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 12-20 years of relevant experience\n• Proficiency in MongoDB\n• Proficiency in Node.js\n• Proficiency in Git\n• Proficiency in Machine Learning\n• Proficiency in TensorFlow\n• Proficiency in React\n• Proficiency in Kubernetes\n• Proficiency in AWS\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Annual performance appraisal\n• Transportation and conveyance allowance\n• International travel opportunities for senior roles\n• Learning & development budget\n• Provident Fund and Gratuity as per company policy\n• Work-from-home flexibility\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Thane, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Naukri!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Naukri",
+      "value": "86-1-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Naukri",
+      "sameAs": "https://www.google.com/search?q=Naukri",
+      "logo": "https://logo.clearbit.com/naukri.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Naukri Office",
+        "addressLocality": "Thane",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "MongoDB, Node.js, Git, Machine Learning, TensorFlow, React, Kubernetes, AWS",
+    "responsibilities": "Integrate third-party APIs and services. Design, develop and maintain scalable software applications. Write clean, maintainable, and well-documented code. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Work with agile methodologies including daily stand-ups and sprint planning. Implement new features based on product requirements. Write and execute unit tests and integration tests",
+    "benefits": "Annual performance appraisal. Transportation and conveyance allowance. International travel opportunities for senior roles. Learning & development budget. Provident Fund and Gratuity as per company policy. Work-from-home flexibility",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual performance appraisal, Transportation and conveyance allowance, International travel opportunities for senior roles, Learning & development budget, Provident Fund and Gratuity as per company policy, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "Join the Naukri family as a Senior Software Engineer in Thane. We believe in empowering our employees with the tools, training, and environment they need to suc",
+    "keywords": "Senior Software Engineer, Naukri, jobs in Thane, Maharashtra jobs, technology jobs India, MongoDB, Node.js, Git, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:47:18.545Z",
+  "page": 21
+}
