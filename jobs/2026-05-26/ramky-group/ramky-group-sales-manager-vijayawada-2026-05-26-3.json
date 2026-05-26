@@ -1,0 +1,94 @@
+{
+  "slug": "ramky-group-sales-manager-vijayawada-2026-05-26-3",
+  "title": "Sales Manager Vacancy at Ramky Group - 2026 Batch",
+  "company": "Ramky Group",
+  "industry": "realestate",
+  "role": "Sales Manager",
+  "location": {
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "AutoCAD",
+    "Sales Techniques",
+    "CRM Software",
+    "Lease Administration",
+    "GIS Tools",
+    "Due Diligence",
+    "Investment Analysis",
+    "Project Management"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Sales Manager Vacancy at Ramky Group - 2026 Batch",
+    "description": "Ramky Group has an exciting opening for a Sales Manager at our Vijayawada office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Ramky Group:\nRamky Group is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with architects, contractors, and project teams\n• Source and close property deals with prospective buyers and investors\n• Liaise with banks and NBFCs for home loan assistance to customers\n• Conduct site visits and property presentations for clients\n• Coordinate with legal teams for documentation and title verification\n• Build relationships with channel partners and brokers\n• Prepare presentations and proposals for institutional clients\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 3-6 years of relevant experience\n• Proficiency in AutoCAD\n• Proficiency in Sales Techniques\n• Proficiency in CRM Software\n• Proficiency in Lease Administration\n• Proficiency in GIS Tools\n• Proficiency in Due Diligence\n• Proficiency in Investment Analysis\n• Proficiency in Project Management\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Work-from-home flexibility\n• Company-sponsored certifications\n• Comprehensive health insurance for self and family\n• Learning & development budget\n• Meal coupons and food allowance\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Vijayawada, Andhra Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Ramky Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Ramky Group",
+      "value": "708-3-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Ramky Group",
+      "sameAs": "https://www.google.com/search?q=Ramky%20Group",
+      "logo": "https://logo.clearbit.com/ramkygroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Ramky Group Office",
+        "addressLocality": "Vijayawada",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "AutoCAD, Sales Techniques, CRM Software, Lease Administration, GIS Tools, Due Diligence, Investment Analysis, Project Management",
+    "responsibilities": "Coordinate with architects, contractors, and project teams. Source and close property deals with prospective buyers and investors. Liaise with banks and NBFCs for home loan assistance to customers. Conduct site visits and property presentations for clients. Coordinate with legal teams for documentation and title verification. Build relationships with channel partners and brokers. Prepare presentations and proposals for institutional clients",
+    "benefits": "Competitive salary with performance-linked incentives. Work-from-home flexibility. Company-sponsored certifications. Comprehensive health insurance for self and family. Learning & development budget. Meal coupons and food allowance",
+    "industry": "realestate",
+    "occupationalCategory": "Sales Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Work-from-home flexibility, Company-sponsored certifications, Comprehensive health insurance for self and family, Learning & development budget, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "Ramky Group has an exciting opening for a Sales Manager at our Vijayawada office. Join a company that values innovation, collaboration, and continuous learning.",
+    "keywords": "Sales Manager, Ramky Group, jobs in Vijayawada, Andhra Pradesh jobs, realestate jobs India, AutoCAD, Sales Techniques, CRM Software, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T04:07:45.476Z",
+  "page": 176
+}
