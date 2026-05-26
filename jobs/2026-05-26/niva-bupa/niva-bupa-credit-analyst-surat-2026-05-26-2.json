@@ -1,0 +1,93 @@
+{
+  "slug": "niva-bupa-credit-analyst-surat-2026-05-26-2",
+  "title": "Niva Bupa is Hiring: Credit Analyst (Lead)",
+  "company": "Niva Bupa",
+  "industry": "finance",
+  "role": "Credit Analyst",
+  "location": {
+    "city": "Surat",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "SAP FICO",
+    "Tally",
+    "MS Excel",
+    "VBA",
+    "Due Diligence",
+    "Credit Analysis",
+    "Bloomberg Terminal",
+    "Ind AS"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Niva Bupa is Hiring: Credit Analyst (Lead)",
+    "description": "If you're a passionate Credit Analyst with drive and ambition, Niva Bupa in Surat is the place for you. We're growing fast and need talented people to grow with us.\n\nAbout Niva Bupa:\nNiva Bupa is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with external auditors during annual audits\n• Develop financial models and projections for business planning\n• Implement and maintain internal controls and audit procedures\n• Liaise with banks, regulators, and financial institutions\n• Ensure compliance with tax regulations and statutory requirements\n• Manage credit risk assessment and loan appraisal processes\n• Manage accounts payable and accounts receivable functions\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 10-15 years of relevant experience\n• Proficiency in SAP FICO\n• Proficiency in Tally\n• Proficiency in MS Excel\n• Proficiency in VBA\n• Proficiency in Due Diligence\n• Proficiency in Credit Analysis\n• Proficiency in Bloomberg Terminal\n• Proficiency in Ind AS\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Annual performance appraisal\n• Comprehensive health insurance for self and family\n• Provident Fund and Gratuity as per company policy\n• Mobile and internet reimbursement\n• Company-sponsored certifications\n• Professional development and training programs\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Surat, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Niva Bupa!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Niva Bupa",
+      "value": "160-2-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Niva Bupa",
+      "sameAs": "https://www.google.com/search?q=Niva%20Bupa",
+      "logo": "https://logo.clearbit.com/nivabupa.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Niva Bupa Office",
+        "addressLocality": "Surat",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "SAP FICO, Tally, MS Excel, VBA, Due Diligence, Credit Analysis, Bloomberg Terminal, Ind AS",
+    "responsibilities": "Coordinate with external auditors during annual audits. Develop financial models and projections for business planning. Implement and maintain internal controls and audit procedures. Liaise with banks, regulators, and financial institutions. Ensure compliance with tax regulations and statutory requirements. Manage credit risk assessment and loan appraisal processes. Manage accounts payable and accounts receivable functions",
+    "benefits": "Annual performance appraisal. Comprehensive health insurance for self and family. Provident Fund and Gratuity as per company policy. Mobile and internet reimbursement. Company-sponsored certifications. Professional development and training programs",
+    "industry": "finance",
+    "occupationalCategory": "Credit Analyst",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual performance appraisal, Comprehensive health insurance for self and family, Provident Fund and Gratuity as per company policy, Mobile and internet reimbursement, Company-sponsored certifications, Professional development and training programs"
+  },
+  "meta": {
+    "description": "If you're a passionate Credit Analyst with drive and ambition, Niva Bupa in Surat is the place for you. We're growing fast and need talented people to grow with",
+    "keywords": "Credit Analyst, Niva Bupa, jobs in Surat, Gujarat jobs, finance jobs India, SAP FICO, Tally, MS Excel, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:49:36.486Z",
+  "page": 39
+}
