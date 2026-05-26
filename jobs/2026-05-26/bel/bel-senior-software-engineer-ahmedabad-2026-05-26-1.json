@@ -1,0 +1,93 @@
+{
+  "slug": "bel-senior-software-engineer-ahmedabad-2026-05-26-1",
+  "title": "Senior Software Engineer - BEL - Experienced Professionals",
+  "company": "BEL",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Git",
+    "TypeScript",
+    "JavaScript",
+    "Agile/Scrum",
+    "Python",
+    "Java",
+    "CI/CD",
+    "React"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - BEL - Experienced Professionals",
+    "description": "An exciting career opportunity awaits you at BEL. We are on the lookout for a dedicated Senior Software Engineer to strengthen our Ahmedabad-based team.\n\nAbout BEL:\nBEL is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Integrate third-party APIs and services\n• Participate in on-call rotation for production support\n• Design, develop and maintain scalable software applications\n• Write and execute unit tests and integration tests\n• Write clean, maintainable, and well-documented code\n• Contribute to system architecture and technical design decisions\n• Optimize application performance and ensure high availability\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 0-1 years of relevant experience\n• Proficiency in Git\n• Proficiency in TypeScript\n• Proficiency in JavaScript\n• Proficiency in Agile/Scrum\n• Proficiency in Python\n• Proficiency in Java\n• Proficiency in CI/CD\n• Proficiency in React\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Maternity and paternity leave\n• Employee stock options (ESOPs) for eligible roles\n• Comprehensive health insurance for self and family\n• Meal coupons and food allowance\n• Recognition and rewards programs\n• Life and accident insurance\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Ahmedabad, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with BEL!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "BEL",
+      "value": "74-1-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "BEL",
+      "sameAs": "https://www.google.com/search?q=BEL",
+      "logo": "https://logo.clearbit.com/bel.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "BEL Office",
+        "addressLocality": "Ahmedabad",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "Git, TypeScript, JavaScript, Agile/Scrum, Python, Java, CI/CD, React",
+    "responsibilities": "Integrate third-party APIs and services. Participate in on-call rotation for production support. Design, develop and maintain scalable software applications. Write and execute unit tests and integration tests. Write clean, maintainable, and well-documented code. Contribute to system architecture and technical design decisions. Optimize application performance and ensure high availability",
+    "benefits": "Maternity and paternity leave. Employee stock options (ESOPs) for eligible roles. Comprehensive health insurance for self and family. Meal coupons and food allowance. Recognition and rewards programs. Life and accident insurance",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Maternity and paternity leave, Employee stock options (ESOPs) for eligible roles, Comprehensive health insurance for self and family, Meal coupons and food allowance, Recognition and rewards programs, Life and accident insurance"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at BEL. We are on the lookout for a dedicated Senior Software Engineer to strengthen our Ahmedabad-based team.",
+    "keywords": "Senior Software Engineer, BEL, jobs in Ahmedabad, Gujarat jobs, technology jobs India, Git, TypeScript, JavaScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:46:55.311Z",
+  "page": 18
+}

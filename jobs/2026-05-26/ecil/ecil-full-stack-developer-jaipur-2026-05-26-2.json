@@ -1,0 +1,93 @@
+{
+  "slug": "ecil-full-stack-developer-jaipur-2026-05-26-2",
+  "title": "ECIL is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "ECIL",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "React",
+    "Machine Learning",
+    "TensorFlow",
+    "TypeScript",
+    "Node.js",
+    "AWS",
+    "MongoDB",
+    "Agile/Scrum"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "ECIL is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "An exciting career opportunity awaits you at ECIL. We are on the lookout for a dedicated Full Stack Developer to strengthen our Jaipur-based team.\n\nAbout ECIL:\nECIL is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Contribute to system architecture and technical design decisions\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Optimize application performance and ensure high availability\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Participate in code reviews and contribute to technical discussions\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Write and execute unit tests and integration tests\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 10-15 years of relevant experience\n• Proficiency in React\n• Proficiency in Machine Learning\n• Proficiency in TensorFlow\n• Proficiency in TypeScript\n• Proficiency in Node.js\n• Proficiency in AWS\n• Proficiency in MongoDB\n• Proficiency in Agile/Scrum\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Life and accident insurance\n• International travel opportunities for senior roles\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Professional development and training programs\n• Work-from-home flexibility\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Jaipur, Rajasthan, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with ECIL!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "ECIL",
+      "value": "75-2-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "ECIL",
+      "sameAs": "https://www.google.com/search?q=ECIL",
+      "logo": "https://logo.clearbit.com/ecil.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "ECIL Office",
+        "addressLocality": "Jaipur",
+        "addressRegion": "Rajasthan",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "React, Machine Learning, TensorFlow, TypeScript, Node.js, AWS, MongoDB, Agile/Scrum",
+    "responsibilities": "Contribute to system architecture and technical design decisions. Work with agile methodologies including daily stand-ups and sprint planning. Optimize application performance and ensure high availability. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Participate in code reviews and contribute to technical discussions. Troubleshoot, debug, and resolve software defects and performance issues. Write and execute unit tests and integration tests",
+    "benefits": "Life and accident insurance. International travel opportunities for senior roles. Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Professional development and training programs. Work-from-home flexibility",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, International travel opportunities for senior roles, Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Professional development and training programs, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at ECIL. We are on the lookout for a dedicated Full Stack Developer to strengthen our Jaipur-based team.",
+    "keywords": "Full Stack Developer, ECIL, jobs in Jaipur, Rajasthan jobs, technology jobs India, React, Machine Learning, TensorFlow, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:46:55.311Z",
+  "page": 18
+}
