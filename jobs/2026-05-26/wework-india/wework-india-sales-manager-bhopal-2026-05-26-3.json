@@ -1,0 +1,94 @@
+{
+  "slug": "wework-india-sales-manager-bhopal-2026-05-26-3",
+  "title": "Sales Manager Vacancy at WeWork India - 2026 Batch",
+  "company": "WeWork India",
+  "industry": "realestate",
+  "role": "Sales Manager",
+  "location": {
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Contract Management",
+    "GIS Tools",
+    "Sales Techniques",
+    "CRM Software",
+    "Negotiation Skills",
+    "Due Diligence",
+    "Lease Administration",
+    "Investment Analysis"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Sales Manager Vacancy at WeWork India - 2026 Batch",
+    "description": "WeWork India, one of India's leading organizations, is hiring a Sales Manager for our Bhopal operations. We offer a competitive salary package along with world-class benefits.\n\nAbout WeWork India:\nWeWork India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Manage RERA documentation and compliance requirements\n• Coordinate with architects, contractors, and project teams\n• Build relationships with channel partners and brokers\n• Provide advisory services on property investment and market trends\n• Negotiate pricing, terms, and conditions on behalf of clients\n• Maintain a pipeline of qualified leads using CRM software\n• Manage relationships with existing customers post-purchase\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 1-3 years of relevant experience\n• Proficiency in Contract Management\n• Proficiency in GIS Tools\n• Proficiency in Sales Techniques\n• Proficiency in CRM Software\n• Proficiency in Negotiation Skills\n• Proficiency in Due Diligence\n• Proficiency in Lease Administration\n• Proficiency in Investment Analysis\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Professional development and training programs\n• Employee stock options (ESOPs) for eligible roles\n• Comprehensive health insurance for self and family\n• International travel opportunities for senior roles\n• Competitive salary with performance-linked incentives\n• Learning & development budget\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Bhopal, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with WeWork India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "WeWork India",
+      "value": "752-3-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "WeWork India",
+      "sameAs": "https://www.google.com/search?q=WeWork%20India",
+      "logo": "https://logo.clearbit.com/weworkindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "WeWork India Office",
+        "addressLocality": "Bhopal",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "Contract Management, GIS Tools, Sales Techniques, CRM Software, Negotiation Skills, Due Diligence, Lease Administration, Investment Analysis",
+    "responsibilities": "Manage RERA documentation and compliance requirements. Coordinate with architects, contractors, and project teams. Build relationships with channel partners and brokers. Provide advisory services on property investment and market trends. Negotiate pricing, terms, and conditions on behalf of clients. Maintain a pipeline of qualified leads using CRM software. Manage relationships with existing customers post-purchase",
+    "benefits": "Professional development and training programs. Employee stock options (ESOPs) for eligible roles. Comprehensive health insurance for self and family. International travel opportunities for senior roles. Competitive salary with performance-linked incentives. Learning & development budget",
+    "industry": "realestate",
+    "occupationalCategory": "Sales Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Employee stock options (ESOPs) for eligible roles, Comprehensive health insurance for self and family, International travel opportunities for senior roles, Competitive salary with performance-linked incentives, Learning & development budget"
+  },
+  "meta": {
+    "description": "WeWork India, one of India's leading organizations, is hiring a Sales Manager for our Bhopal operations. We offer a competitive salary package along with world-",
+    "keywords": "Sales Manager, WeWork India, jobs in Bhopal, Madhya Pradesh jobs, realestate jobs India, Contract Management, GIS Tools, Sales Techniques, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T04:09:17.294Z",
+  "page": 187
+}
