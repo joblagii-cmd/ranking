@@ -1,0 +1,93 @@
+{
+  "slug": "casa-grande-sales-manager-agra-2026-05-26-3",
+  "title": "Sales Manager Vacancy at Casa Grande - 2026 Batch",
+  "company": "Casa Grande",
+  "industry": "realestate",
+  "role": "Sales Manager",
+  "location": {
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "RERA Compliance",
+    "Property Valuation",
+    "CRM Software",
+    "AutoCAD",
+    "Financial Modeling",
+    "Project Management",
+    "Property Management",
+    "Due Diligence"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Sales Manager Vacancy at Casa Grande - 2026 Batch",
+    "description": "An exciting career opportunity awaits you at Casa Grande. We are on the lookout for a dedicated Sales Manager to strengthen our Agra-based team.\n\nAbout Casa Grande:\nCasa Grande is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Provide advisory services on property investment and market trends\n• Liaise with banks and NBFCs for home loan assistance to customers\n• Conduct land acquisition due diligence and feasibility studies\n• Manage relationships with existing customers post-purchase\n• Conduct market research and provide competitive analysis\n• Maintain a pipeline of qualified leads using CRM software\n• Manage RERA documentation and compliance requirements\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 12-20 years of relevant experience\n• Proficiency in RERA Compliance\n• Proficiency in Property Valuation\n• Proficiency in CRM Software\n• Proficiency in AutoCAD\n• Proficiency in Financial Modeling\n• Proficiency in Project Management\n• Proficiency in Property Management\n• Proficiency in Due Diligence\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Learning & development budget\n• Flexible working hours\n• Maternity and paternity leave\n• Provident Fund and Gratuity as per company policy\n• Life and accident insurance\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Agra, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Casa Grande!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Casa Grande",
+      "value": "764-3-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Casa Grande",
+      "sameAs": "https://www.google.com/search?q=Casa%20Grande",
+      "logo": "https://logo.clearbit.com/casagrande.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Casa Grande Office",
+        "addressLocality": "Agra",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "RERA Compliance, Property Valuation, CRM Software, AutoCAD, Financial Modeling, Project Management, Property Management, Due Diligence",
+    "responsibilities": "Provide advisory services on property investment and market trends. Liaise with banks and NBFCs for home loan assistance to customers. Conduct land acquisition due diligence and feasibility studies. Manage relationships with existing customers post-purchase. Conduct market research and provide competitive analysis. Maintain a pipeline of qualified leads using CRM software. Manage RERA documentation and compliance requirements",
+    "benefits": "Competitive salary with performance-linked incentives. Learning & development budget. Flexible working hours. Maternity and paternity leave. Provident Fund and Gratuity as per company policy. Life and accident insurance",
+    "industry": "realestate",
+    "occupationalCategory": "Sales Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Learning & development budget, Flexible working hours, Maternity and paternity leave, Provident Fund and Gratuity as per company policy, Life and accident insurance"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Casa Grande. We are on the lookout for a dedicated Sales Manager to strengthen our Agra-based team.",
+    "keywords": "Sales Manager, Casa Grande, jobs in Agra, Uttar Pradesh jobs, realestate jobs India, RERA Compliance, Property Valuation, CRM Software, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T04:09:42.445Z",
+  "page": 190
+}
