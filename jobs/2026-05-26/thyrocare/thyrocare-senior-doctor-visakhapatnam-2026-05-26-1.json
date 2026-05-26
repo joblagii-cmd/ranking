@@ -1,0 +1,93 @@
+{
+  "slug": "thyrocare-senior-doctor-visakhapatnam-2026-05-26-1",
+  "title": "Senior Doctor - Thyrocare - 2025 Hiring Drive",
+  "company": "Thyrocare",
+  "industry": "healthcare",
+  "role": "Senior Doctor",
+  "location": {
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Patient Care",
+    "Surgical Procedures",
+    "Pharmacovigilance",
+    "Diagnostic Skills",
+    "Clinical Documentation",
+    "BLS/ACLS",
+    "ICU Management",
+    "EMR/EHR"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Doctor - Thyrocare - 2025 Hiring Drive",
+    "description": "Are you a skilled Senior Doctor looking for your next big career move? Thyrocare in Visakhapatnam offers you the perfect platform to grow professionally and personally.\n\nAbout Thyrocare:\nThyrocare is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Administer medications and treatments as prescribed\n• Maintain sterile environments and follow infection control protocols\n• Conduct routine health assessments and screenings\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Collaborate with pharmaceutical representatives and medical suppliers\n• Diagnose and treat medical conditions following established protocols\n• Attend continuing medical education programs and training\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 12-20 years of relevant experience\n• Proficiency in Patient Care\n• Proficiency in Surgical Procedures\n• Proficiency in Pharmacovigilance\n• Proficiency in Diagnostic Skills\n• Proficiency in Clinical Documentation\n• Proficiency in BLS/ACLS\n• Proficiency in ICU Management\n• Proficiency in EMR/EHR\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Provident Fund and Gratuity as per company policy\n• Annual performance appraisal\n• Meal coupons and food allowance\n• Annual paid leaves and casual leaves\n• Life and accident insurance\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Visakhapatnam, Andhra Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Thyrocare!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Thyrocare",
+      "value": "256-1-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Thyrocare",
+      "sameAs": "https://www.google.com/search?q=Thyrocare",
+      "logo": "https://logo.clearbit.com/thyrocare.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Thyrocare Office",
+        "addressLocality": "Visakhapatnam",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Patient Care, Surgical Procedures, Pharmacovigilance, Diagnostic Skills, Clinical Documentation, BLS/ACLS, ICU Management, EMR/EHR",
+    "responsibilities": "Administer medications and treatments as prescribed. Maintain sterile environments and follow infection control protocols. Conduct routine health assessments and screenings. Coordinate with multidisciplinary teams for comprehensive patient management. Collaborate with pharmaceutical representatives and medical suppliers. Diagnose and treat medical conditions following established protocols. Attend continuing medical education programs and training",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Provident Fund and Gratuity as per company policy. Annual performance appraisal. Meal coupons and food allowance. Annual paid leaves and casual leaves. Life and accident insurance",
+    "industry": "healthcare",
+    "occupationalCategory": "Senior Doctor",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Provident Fund and Gratuity as per company policy, Annual performance appraisal, Meal coupons and food allowance, Annual paid leaves and casual leaves, Life and accident insurance"
+  },
+  "meta": {
+    "description": "Are you a skilled Senior Doctor looking for your next big career move? Thyrocare in Visakhapatnam offers you the perfect platform to grow professionally and per",
+    "keywords": "Senior Doctor, Thyrocare, jobs in Visakhapatnam, Andhra Pradesh jobs, healthcare jobs India, Patient Care, Surgical Procedures, Pharmacovigilance, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:52:40.605Z",
+  "page": 63
+}
