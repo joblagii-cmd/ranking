@@ -1,0 +1,94 @@
+{
+  "slug": "byju-s-teacher-lucknow-2026-05-26-0",
+  "title": "Opening for Teacher at Byju's",
+  "company": "Byju's",
+  "industry": "education",
+  "role": "Teacher",
+  "location": {
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Research Skills",
+    "Educational Technology",
+    "Student Assessment",
+    "Bloom's Taxonomy",
+    "E-learning",
+    "Mentoring",
+    "MS Office",
+    "Zoom/Teams"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Opening for Teacher at Byju's",
+    "description": "Are you a skilled Teacher looking for your next big career move? Byju's in Lucknow offers you the perfect platform to grow professionally and personally.\n\nAbout Byju's:\nByju's is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Conduct doubt-clearing sessions and remedial classes for weak students\n• Maintain classroom discipline and create a positive learning environment\n• Maintain student records and prepare progress reports\n• Monitor student progress and provide timely feedback\n• Create curriculum-aligned learning materials and assessments\n• Develop and deliver engaging lesson plans for students\n• Support students with special educational needs\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 12-20 years of relevant experience\n• Proficiency in Research Skills\n• Proficiency in Educational Technology\n• Proficiency in Student Assessment\n• Proficiency in Bloom's Taxonomy\n• Proficiency in E-learning\n• Proficiency in Mentoring\n• Proficiency in MS Office\n• Proficiency in Zoom/Teams\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Referral bonus program\n• Flexible working hours\n• Annual performance appraisal\n• Professional development and training programs\n• Provident Fund and Gratuity as per company policy\n• Comprehensive health insurance for self and family\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Lucknow, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Byju's!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Byju's",
+      "value": "496-0-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Byju's",
+      "sameAs": "https://www.google.com/search?q=Byju's",
+      "logo": "https://logo.clearbit.com/byjus.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Byju's Office",
+        "addressLocality": "Lucknow",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "Research Skills, Educational Technology, Student Assessment, Bloom's Taxonomy, E-learning, Mentoring, MS Office, Zoom/Teams",
+    "responsibilities": "Conduct doubt-clearing sessions and remedial classes for weak students. Maintain classroom discipline and create a positive learning environment. Maintain student records and prepare progress reports. Monitor student progress and provide timely feedback. Create curriculum-aligned learning materials and assessments. Develop and deliver engaging lesson plans for students. Support students with special educational needs",
+    "benefits": "Referral bonus program. Flexible working hours. Annual performance appraisal. Professional development and training programs. Provident Fund and Gratuity as per company policy. Comprehensive health insurance for self and family",
+    "industry": "education",
+    "occupationalCategory": "Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Referral bonus program, Flexible working hours, Annual performance appraisal, Professional development and training programs, Provident Fund and Gratuity as per company policy, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "Are you a skilled Teacher looking for your next big career move? Byju's in Lucknow offers you the perfect platform to grow professionally and personally.",
+    "keywords": "Teacher, Byju's, jobs in Lucknow, Uttar Pradesh jobs, education jobs India, Research Skills, Educational Technology, Student Assessment, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T04:00:21.389Z",
+  "page": 123
+}
