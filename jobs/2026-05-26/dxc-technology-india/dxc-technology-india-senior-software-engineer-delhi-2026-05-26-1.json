@@ -1,0 +1,93 @@
+{
+  "slug": "dxc-technology-india-senior-software-engineer-delhi-2026-05-26-1",
+  "title": "Senior Software Engineer - DXC Technology India - Experienced Professionals",
+  "company": "DXC Technology India",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Docker",
+    "Node.js",
+    "Agile/Scrum",
+    "AWS",
+    "JavaScript",
+    "MongoDB",
+    "Microservices",
+    "TensorFlow"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - DXC Technology India - Experienced Professionals",
+    "description": "An exciting career opportunity awaits you at DXC Technology India. We are on the lookout for a dedicated Senior Software Engineer to strengthen our Delhi-based team.\n\nAbout DXC Technology India:\nDXC Technology India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Write clean, maintainable, and well-documented code\n• Ensure code security and follow best practices for data protection\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Integrate third-party APIs and services\n• Contribute to system architecture and technical design decisions\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 0-1 years of relevant experience\n• Proficiency in Docker\n• Proficiency in Node.js\n• Proficiency in Agile/Scrum\n• Proficiency in AWS\n• Proficiency in JavaScript\n• Proficiency in MongoDB\n• Proficiency in Microservices\n• Proficiency in TensorFlow\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• Maternity and paternity leave\n• Life and accident insurance\n• Learning & development budget\n• Annual paid leaves and casual leaves\n• Company-sponsored certifications\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Delhi, Delhi, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with DXC Technology India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "DXC Technology India",
+      "value": "64-1-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "DXC Technology India",
+      "sameAs": "https://www.google.com/search?q=DXC%20Technology%20India",
+      "logo": "https://logo.clearbit.com/dxctechnologyindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "DXC Technology India Office",
+        "addressLocality": "Delhi",
+        "addressRegion": "Delhi",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Docker, Node.js, Agile/Scrum, AWS, JavaScript, MongoDB, Microservices, TensorFlow",
+    "responsibilities": "Design, develop and maintain scalable software applications. Write clean, maintainable, and well-documented code. Ensure code security and follow best practices for data protection. Mentor junior developers and conduct knowledge-sharing sessions. Integrate third-party APIs and services. Contribute to system architecture and technical design decisions. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP",
+    "benefits": "Comprehensive health insurance for self and family. Maternity and paternity leave. Life and accident insurance. Learning & development budget. Annual paid leaves and casual leaves. Company-sponsored certifications",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, Maternity and paternity leave, Life and accident insurance, Learning & development budget, Annual paid leaves and casual leaves, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at DXC Technology India. We are on the lookout for a dedicated Senior Software Engineer to strengthen our Delhi-based ",
+    "keywords": "Senior Software Engineer, DXC Technology India, jobs in Delhi, Delhi jobs, technology jobs India, Docker, Node.js, Agile/Scrum, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:46:32.134Z",
+  "page": 15
+}

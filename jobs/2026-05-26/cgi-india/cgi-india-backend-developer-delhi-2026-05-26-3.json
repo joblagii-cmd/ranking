@@ -1,0 +1,93 @@
+{
+  "slug": "cgi-india-backend-developer-delhi-2026-05-26-3",
+  "title": "Backend Developer Vacancy at CGI India - 2026 Batch",
+  "company": "CGI India",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "REST APIs",
+    "Git",
+    "AWS",
+    "React",
+    "Machine Learning",
+    "CI/CD",
+    "Node.js",
+    "Java"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at CGI India - 2026 Batch",
+    "description": "An exciting career opportunity awaits you at CGI India. We are on the lookout for a dedicated Backend Developer to strengthen our Delhi-based team.\n\nAbout CGI India:\nCGI India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Integrate third-party APIs and services\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in on-call rotation for production support\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Ensure code security and follow best practices for data protection\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 12-20 years of relevant experience\n• Proficiency in REST APIs\n• Proficiency in Git\n• Proficiency in AWS\n• Proficiency in React\n• Proficiency in Machine Learning\n• Proficiency in CI/CD\n• Proficiency in Node.js\n• Proficiency in Java\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Mobile and internet reimbursement\n• Work-from-home flexibility\n• Annual performance appraisal\n• Professional development and training programs\n• Company-sponsored certifications\n• Flexible working hours\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Delhi, Delhi, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with CGI India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "CGI India",
+      "value": "63-3-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "CGI India",
+      "sameAs": "https://www.google.com/search?q=CGI%20India",
+      "logo": "https://logo.clearbit.com/cgiindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "CGI India Office",
+        "addressLocality": "Delhi",
+        "addressRegion": "Delhi",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "REST APIs, Git, AWS, React, Machine Learning, CI/CD, Node.js, Java",
+    "responsibilities": "Troubleshoot, debug, and resolve software defects and performance issues. Integrate third-party APIs and services. Collaborate with cross-functional teams including product, design, and QA. Participate in on-call rotation for production support. Mentor junior developers and conduct knowledge-sharing sessions. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Ensure code security and follow best practices for data protection",
+    "benefits": "Mobile and internet reimbursement. Work-from-home flexibility. Annual performance appraisal. Professional development and training programs. Company-sponsored certifications. Flexible working hours",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Mobile and internet reimbursement, Work-from-home flexibility, Annual performance appraisal, Professional development and training programs, Company-sponsored certifications, Flexible working hours"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at CGI India. We are on the lookout for a dedicated Backend Developer to strengthen our Delhi-based team.",
+    "keywords": "Backend Developer, CGI India, jobs in Delhi, Delhi jobs, technology jobs India, REST APIs, Git, AWS, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:46:32.134Z",
+  "page": 15
+}
