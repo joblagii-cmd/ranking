@@ -1,0 +1,93 @@
+{
+  "slug": "select-citywalk-senior-property-advisor-ahmedabad-2026-05-26-2",
+  "title": "Select CityWalk is Hiring: Senior Property Advisor (Junior)",
+  "company": "Select CityWalk",
+  "industry": "realestate",
+  "role": "Senior Property Advisor",
+  "location": {
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "GIS Tools",
+    "Title Search",
+    "Portfolio Management",
+    "RERA Compliance",
+    "Client Relationship Management",
+    "Property Valuation",
+    "MS Office",
+    "Lease Administration"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Select CityWalk is Hiring: Senior Property Advisor (Junior)",
+    "description": "Select CityWalk, one of India's leading organizations, is hiring a Senior Property Advisor for our Ahmedabad operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Select CityWalk:\nSelect CityWalk is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Maintain a pipeline of qualified leads using CRM software\n• Source and close property deals with prospective buyers and investors\n• Conduct site visits and property presentations for clients\n• Conduct land acquisition due diligence and feasibility studies\n• Provide advisory services on property investment and market trends\n• Negotiate pricing, terms, and conditions on behalf of clients\n• Coordinate with legal teams for documentation and title verification\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 6-10 years of relevant experience\n• Proficiency in GIS Tools\n• Proficiency in Title Search\n• Proficiency in Portfolio Management\n• Proficiency in RERA Compliance\n• Proficiency in Client Relationship Management\n• Proficiency in Property Valuation\n• Proficiency in MS Office\n• Proficiency in Lease Administration\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Provident Fund and Gratuity as per company policy\n• Life and accident insurance\n• Comprehensive health insurance for self and family\n• Mobile and internet reimbursement\n• Learning & development budget\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Ahmedabad, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Select CityWalk!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Select CityWalk",
+      "value": "740-2-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Select CityWalk",
+      "sameAs": "https://www.google.com/search?q=Select%20CityWalk",
+      "logo": "https://logo.clearbit.com/selectcitywalk.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Select CityWalk Office",
+        "addressLocality": "Ahmedabad",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "GIS Tools, Title Search, Portfolio Management, RERA Compliance, Client Relationship Management, Property Valuation, MS Office, Lease Administration",
+    "responsibilities": "Maintain a pipeline of qualified leads using CRM software. Source and close property deals with prospective buyers and investors. Conduct site visits and property presentations for clients. Conduct land acquisition due diligence and feasibility studies. Provide advisory services on property investment and market trends. Negotiate pricing, terms, and conditions on behalf of clients. Coordinate with legal teams for documentation and title verification",
+    "benefits": "Competitive salary with performance-linked incentives. Provident Fund and Gratuity as per company policy. Life and accident insurance. Comprehensive health insurance for self and family. Mobile and internet reimbursement. Learning & development budget",
+    "industry": "realestate",
+    "occupationalCategory": "Senior Property Advisor",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Provident Fund and Gratuity as per company policy, Life and accident insurance, Comprehensive health insurance for self and family, Mobile and internet reimbursement, Learning & development budget"
+  },
+  "meta": {
+    "description": "Select CityWalk, one of India's leading organizations, is hiring a Senior Property Advisor for our Ahmedabad operations. We offer a competitive salary package a",
+    "keywords": "Senior Property Advisor, Select CityWalk, jobs in Ahmedabad, Gujarat jobs, realestate jobs India, GIS Tools, Title Search, Portfolio Management, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T04:08:52.716Z",
+  "page": 184
+}

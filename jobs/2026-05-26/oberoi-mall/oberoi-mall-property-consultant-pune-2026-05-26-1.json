@@ -1,0 +1,93 @@
+{
+  "slug": "oberoi-mall-property-consultant-pune-2026-05-26-1",
+  "title": "Property Consultant - Oberoi Mall - Multiple Openings",
+  "company": "Oberoi Mall",
+  "industry": "realestate",
+  "role": "Property Consultant",
+  "location": {
+    "city": "Pune",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "MS Office",
+    "Property Valuation",
+    "Contract Management",
+    "Market Research",
+    "Sales Techniques",
+    "AutoCAD",
+    "Investment Analysis",
+    "Real Estate Law"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Property Consultant - Oberoi Mall - Multiple Openings",
+    "description": "Oberoi Mall, one of India's leading organizations, is hiring a Property Consultant for our Pune operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Oberoi Mall:\nOberoi Mall is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Achieve monthly and quarterly sales targets\n• Provide advisory services on property investment and market trends\n• Coordinate with architects, contractors, and project teams\n• Conduct market research and provide competitive analysis\n• Manage RERA documentation and compliance requirements\n• Negotiate pricing, terms, and conditions on behalf of clients\n• Manage relationships with existing customers post-purchase\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 0-1 years of relevant experience\n• Proficiency in MS Office\n• Proficiency in Property Valuation\n• Proficiency in Contract Management\n• Proficiency in Market Research\n• Proficiency in Sales Techniques\n• Proficiency in AutoCAD\n• Proficiency in Investment Analysis\n• Proficiency in Real Estate Law\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Life and accident insurance\n• Provident Fund and Gratuity as per company policy\n• Recognition and rewards programs\n• Mobile and internet reimbursement\n• Comprehensive health insurance for self and family\n• Annual performance appraisal\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Pune, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Oberoi Mall!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Oberoi Mall",
+      "value": "739-1-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Oberoi Mall",
+      "sameAs": "https://www.google.com/search?q=Oberoi%20Mall",
+      "logo": "https://logo.clearbit.com/oberoimall.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Oberoi Mall Office",
+        "addressLocality": "Pune",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "MS Office, Property Valuation, Contract Management, Market Research, Sales Techniques, AutoCAD, Investment Analysis, Real Estate Law",
+    "responsibilities": "Achieve monthly and quarterly sales targets. Provide advisory services on property investment and market trends. Coordinate with architects, contractors, and project teams. Conduct market research and provide competitive analysis. Manage RERA documentation and compliance requirements. Negotiate pricing, terms, and conditions on behalf of clients. Manage relationships with existing customers post-purchase",
+    "benefits": "Life and accident insurance. Provident Fund and Gratuity as per company policy. Recognition and rewards programs. Mobile and internet reimbursement. Comprehensive health insurance for self and family. Annual performance appraisal",
+    "industry": "realestate",
+    "occupationalCategory": "Property Consultant",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Provident Fund and Gratuity as per company policy, Recognition and rewards programs, Mobile and internet reimbursement, Comprehensive health insurance for self and family, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "Oberoi Mall, one of India's leading organizations, is hiring a Property Consultant for our Pune operations. We offer a competitive salary package along with wor",
+    "keywords": "Property Consultant, Oberoi Mall, jobs in Pune, Maharashtra jobs, realestate jobs India, MS Office, Property Valuation, Contract Management, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T04:08:52.715Z",
+  "page": 184
+}

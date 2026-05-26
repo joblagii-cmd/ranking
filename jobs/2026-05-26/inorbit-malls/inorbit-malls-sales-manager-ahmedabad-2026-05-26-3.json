@@ -1,0 +1,94 @@
+{
+  "slug": "inorbit-malls-sales-manager-ahmedabad-2026-05-26-3",
+  "title": "Sales Manager Vacancy at Inorbit Malls - 2026 Batch",
+  "company": "Inorbit Malls",
+  "industry": "realestate",
+  "role": "Sales Manager",
+  "location": {
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Client Relationship Management",
+    "Property Valuation",
+    "GIS Tools",
+    "Market Research",
+    "Project Management",
+    "Real Estate Law",
+    "RERA Compliance",
+    "CRM Software"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Sales Manager Vacancy at Inorbit Malls - 2026 Batch",
+    "description": "Inorbit Malls, one of India's leading organizations, is hiring a Sales Manager for our Ahmedabad operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Inorbit Malls:\nInorbit Malls is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Source and close property deals with prospective buyers and investors\n• Maintain a pipeline of qualified leads using CRM software\n• Provide advisory services on property investment and market trends\n• Negotiate pricing, terms, and conditions on behalf of clients\n• Conduct site visits and property presentations for clients\n• Build relationships with channel partners and brokers\n• Manage relationships with existing customers post-purchase\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 12-20 years of relevant experience\n• Proficiency in Client Relationship Management\n• Proficiency in Property Valuation\n• Proficiency in GIS Tools\n• Proficiency in Market Research\n• Proficiency in Project Management\n• Proficiency in Real Estate Law\n• Proficiency in RERA Compliance\n• Proficiency in CRM Software\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Flexible working hours\n• Annual performance appraisal\n• Maternity and paternity leave\n• Professional development and training programs\n• Transportation and conveyance allowance\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Ahmedabad, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Inorbit Malls!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Inorbit Malls",
+      "value": "738-3-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Inorbit Malls",
+      "sameAs": "https://www.google.com/search?q=Inorbit%20Malls",
+      "logo": "https://logo.clearbit.com/inorbitmalls.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Inorbit Malls Office",
+        "addressLocality": "Ahmedabad",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "Client Relationship Management, Property Valuation, GIS Tools, Market Research, Project Management, Real Estate Law, RERA Compliance, CRM Software",
+    "responsibilities": "Source and close property deals with prospective buyers and investors. Maintain a pipeline of qualified leads using CRM software. Provide advisory services on property investment and market trends. Negotiate pricing, terms, and conditions on behalf of clients. Conduct site visits and property presentations for clients. Build relationships with channel partners and brokers. Manage relationships with existing customers post-purchase",
+    "benefits": "Provident Fund and Gratuity as per company policy. Flexible working hours. Annual performance appraisal. Maternity and paternity leave. Professional development and training programs. Transportation and conveyance allowance",
+    "industry": "realestate",
+    "occupationalCategory": "Sales Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Flexible working hours, Annual performance appraisal, Maternity and paternity leave, Professional development and training programs, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "Inorbit Malls, one of India's leading organizations, is hiring a Sales Manager for our Ahmedabad operations. We offer a competitive salary package along with wo",
+    "keywords": "Sales Manager, Inorbit Malls, jobs in Ahmedabad, Gujarat jobs, realestate jobs India, Client Relationship Management, Property Valuation, GIS Tools, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T04:08:52.715Z",
+  "page": 184
+}
