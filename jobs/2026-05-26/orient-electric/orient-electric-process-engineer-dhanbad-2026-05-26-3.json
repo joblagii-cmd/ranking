@@ -1,0 +1,93 @@
+{
+  "slug": "orient-electric-process-engineer-dhanbad-2026-05-26-3",
+  "title": "Process Engineer Vacancy at Orient Electric - 2026 Batch",
+  "company": "Orient Electric",
+  "industry": "manufacturing",
+  "role": "Process Engineer",
+  "location": {
+    "city": "Dhanbad",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "ISO 9001",
+    "ERP Systems",
+    "Lean Manufacturing",
+    "Root Cause Analysis",
+    "Six Sigma",
+    "PLC/SCADA",
+    "FMEA",
+    "TPM"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Process Engineer Vacancy at Orient Electric - 2026 Batch",
+    "description": "We at Orient Electric are looking for an experienced Process Engineer based out of Dhanbad. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout Orient Electric:\nOrient Electric is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Implement lean manufacturing and continuous improvement initiatives\n• Monitor equipment performance and coordinate preventive maintenance\n• Ensure product quality meets internal and customer specifications\n• Ensure environmental compliance and waste management\n• Prepare production cost analysis and efficiency reports\n• Coordinate with design and engineering teams on product improvements\n• Manage raw material procurement and inventory levels\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 0-1 years of relevant experience\n• Proficiency in ISO 9001\n• Proficiency in ERP Systems\n• Proficiency in Lean Manufacturing\n• Proficiency in Root Cause Analysis\n• Proficiency in Six Sigma\n• Proficiency in PLC/SCADA\n• Proficiency in FMEA\n• Proficiency in TPM\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Annual paid leaves and casual leaves\n• Recognition and rewards programs\n• Modern office with recreational facilities\n• Work-from-home flexibility\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Dhanbad, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Orient Electric!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Orient Electric",
+      "value": "444-3-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Orient Electric",
+      "sameAs": "https://www.google.com/search?q=Orient%20Electric",
+      "logo": "https://logo.clearbit.com/orientelectric.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Orient Electric Office",
+        "addressLocality": "Dhanbad",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "ISO 9001, ERP Systems, Lean Manufacturing, Root Cause Analysis, Six Sigma, PLC/SCADA, FMEA, TPM",
+    "responsibilities": "Implement lean manufacturing and continuous improvement initiatives. Monitor equipment performance and coordinate preventive maintenance. Ensure product quality meets internal and customer specifications. Ensure environmental compliance and waste management. Prepare production cost analysis and efficiency reports. Coordinate with design and engineering teams on product improvements. Manage raw material procurement and inventory levels",
+    "benefits": "Provident Fund and Gratuity as per company policy. Annual paid leaves and casual leaves. Recognition and rewards programs. Modern office with recreational facilities. Work-from-home flexibility. Employee stock options (ESOPs) for eligible roles",
+    "industry": "manufacturing",
+    "occupationalCategory": "Process Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Annual paid leaves and casual leaves, Recognition and rewards programs, Modern office with recreational facilities, Work-from-home flexibility, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "We at Orient Electric are looking for an experienced Process Engineer based out of Dhanbad. If you are a result-oriented professional with a passion for excelle",
+    "keywords": "Process Engineer, Orient Electric, jobs in Dhanbad, Jharkhand jobs, manufacturing jobs India, ISO 9001, ERP Systems, Lean Manufacturing, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:58:38.829Z",
+  "page": 110
+}
