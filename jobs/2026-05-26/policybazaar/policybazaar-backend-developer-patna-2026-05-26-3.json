@@ -1,0 +1,93 @@
+{
+  "slug": "policybazaar-backend-developer-patna-2026-05-26-3",
+  "title": "Backend Developer Vacancy at PolicyBazaar - 2026 Batch",
+  "company": "PolicyBazaar",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Patna",
+    "state": "Bihar",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Git",
+    "Microservices",
+    "Python",
+    "AWS",
+    "Kubernetes",
+    "TensorFlow",
+    "Agile/Scrum",
+    "Go"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at PolicyBazaar - 2026 Batch",
+    "description": "Join the PolicyBazaar family as a Backend Developer in Patna. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout PolicyBazaar:\nPolicyBazaar is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure code security and follow best practices for data protection\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Write and execute unit tests and integration tests\n• Design, develop and maintain scalable software applications\n• Implement new features based on product requirements\n• Write clean, maintainable, and well-documented code\n• Participate in on-call rotation for production support\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 6-10 years of relevant experience\n• Proficiency in Git\n• Proficiency in Microservices\n• Proficiency in Python\n• Proficiency in AWS\n• Proficiency in Kubernetes\n• Proficiency in TensorFlow\n• Proficiency in Agile/Scrum\n• Proficiency in Go\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• Competitive salary with performance-linked incentives\n• Annual paid leaves and casual leaves\n• Employee stock options (ESOPs) for eligible roles\n• Professional development and training programs\n• Maternity and paternity leave\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Patna, Bihar, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with PolicyBazaar!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "PolicyBazaar",
+      "value": "91-3-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "PolicyBazaar",
+      "sameAs": "https://www.google.com/search?q=PolicyBazaar",
+      "logo": "https://logo.clearbit.com/policybazaar.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "PolicyBazaar Office",
+        "addressLocality": "Patna",
+        "addressRegion": "Bihar",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "Git, Microservices, Python, AWS, Kubernetes, TensorFlow, Agile/Scrum, Go",
+    "responsibilities": "Ensure code security and follow best practices for data protection. Mentor junior developers and conduct knowledge-sharing sessions. Write and execute unit tests and integration tests. Design, develop and maintain scalable software applications. Implement new features based on product requirements. Write clean, maintainable, and well-documented code. Participate in on-call rotation for production support",
+    "benefits": "Comprehensive health insurance for self and family. Competitive salary with performance-linked incentives. Annual paid leaves and casual leaves. Employee stock options (ESOPs) for eligible roles. Professional development and training programs. Maternity and paternity leave",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, Competitive salary with performance-linked incentives, Annual paid leaves and casual leaves, Employee stock options (ESOPs) for eligible roles, Professional development and training programs, Maternity and paternity leave"
+  },
+  "meta": {
+    "description": "Join the PolicyBazaar family as a Backend Developer in Patna. We believe in empowering our employees with the tools, training, and environment they need to succ",
+    "keywords": "Backend Developer, PolicyBazaar, jobs in Patna, Bihar jobs, technology jobs India, Git, Microservices, Python, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:47:26.146Z",
+  "page": 22
+}

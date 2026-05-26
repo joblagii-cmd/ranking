@@ -1,0 +1,93 @@
+{
+  "slug": "cars24-full-stack-developer-pimpri-chinchwad-2026-05-26-2",
+  "title": "Cars24 is Hiring: Full Stack Developer (Senior)",
+  "company": "Cars24",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Pimpri-Chinchwad",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Git",
+    "Java",
+    "MongoDB",
+    "CI/CD",
+    "Microservices",
+    "TypeScript",
+    "Rust",
+    "Agile/Scrum"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Cars24 is Hiring: Full Stack Developer (Senior)",
+    "description": "Join the Cars24 family as a Full Stack Developer in Pimpri-Chinchwad. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Cars24:\nCars24 is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Optimize application performance and ensure high availability\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in on-call rotation for production support\n• Ensure code security and follow best practices for data protection\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Contribute to system architecture and technical design decisions\n• Participate in code reviews and contribute to technical discussions\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 12-20 years of relevant experience\n• Proficiency in Git\n• Proficiency in Java\n• Proficiency in MongoDB\n• Proficiency in CI/CD\n• Proficiency in Microservices\n• Proficiency in TypeScript\n• Proficiency in Rust\n• Proficiency in Agile/Scrum\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Recognition and rewards programs\n• Annual performance appraisal\n• Annual paid leaves and casual leaves\n• Provident Fund and Gratuity as per company policy\n• Modern office with recreational facilities\n• Learning & development budget\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Pimpri-Chinchwad, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Cars24!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Cars24",
+      "value": "90-2-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Cars24",
+      "sameAs": "https://www.google.com/search?q=Cars24",
+      "logo": "https://logo.clearbit.com/cars24.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Cars24 Office",
+        "addressLocality": "Pimpri-Chinchwad",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "Git, Java, MongoDB, CI/CD, Microservices, TypeScript, Rust, Agile/Scrum",
+    "responsibilities": "Optimize application performance and ensure high availability. Collaborate with cross-functional teams including product, design, and QA. Participate in on-call rotation for production support. Ensure code security and follow best practices for data protection. Mentor junior developers and conduct knowledge-sharing sessions. Contribute to system architecture and technical design decisions. Participate in code reviews and contribute to technical discussions",
+    "benefits": "Recognition and rewards programs. Annual performance appraisal. Annual paid leaves and casual leaves. Provident Fund and Gratuity as per company policy. Modern office with recreational facilities. Learning & development budget",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Recognition and rewards programs, Annual performance appraisal, Annual paid leaves and casual leaves, Provident Fund and Gratuity as per company policy, Modern office with recreational facilities, Learning & development budget"
+  },
+  "meta": {
+    "description": "Join the Cars24 family as a Full Stack Developer in Pimpri-Chinchwad. We believe in empowering our employees with the tools, training, and environment they need",
+    "keywords": "Full Stack Developer, Cars24, jobs in Pimpri-Chinchwad, Maharashtra jobs, technology jobs India, Git, Java, MongoDB, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:47:26.146Z",
+  "page": 22
+}

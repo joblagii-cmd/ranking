@@ -1,0 +1,93 @@
+{
+  "slug": "bankbazaar-senior-software-engineer-patna-2026-05-26-1",
+  "title": "Senior Software Engineer - BankBazaar - Top MNC",
+  "company": "BankBazaar",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Patna",
+    "state": "Bihar",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "SQL",
+    "Agile/Scrum",
+    "Rust",
+    "TensorFlow",
+    "Git",
+    "CI/CD",
+    "JavaScript",
+    "React"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - BankBazaar - Top MNC",
+    "description": "Join the BankBazaar family as a Senior Software Engineer in Patna. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout BankBazaar:\nBankBazaar is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write and execute unit tests and integration tests\n• Ensure code security and follow best practices for data protection\n• Integrate third-party APIs and services\n• Design, develop and maintain scalable software applications\n• Contribute to system architecture and technical design decisions\n• Optimize application performance and ensure high availability\n• Implement new features based on product requirements\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 10-15 years of relevant experience\n• Proficiency in SQL\n• Proficiency in Agile/Scrum\n• Proficiency in Rust\n• Proficiency in TensorFlow\n• Proficiency in Git\n• Proficiency in CI/CD\n• Proficiency in JavaScript\n• Proficiency in React\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Flexible working hours\n• Recognition and rewards programs\n• International travel opportunities for senior roles\n• Annual performance appraisal\n• Meal coupons and food allowance\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Patna, Bihar, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with BankBazaar!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "BankBazaar",
+      "value": "92-1-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "BankBazaar",
+      "sameAs": "https://www.google.com/search?q=BankBazaar",
+      "logo": "https://logo.clearbit.com/bankbazaar.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "BankBazaar Office",
+        "addressLocality": "Patna",
+        "addressRegion": "Bihar",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "SQL, Agile/Scrum, Rust, TensorFlow, Git, CI/CD, JavaScript, React",
+    "responsibilities": "Write and execute unit tests and integration tests. Ensure code security and follow best practices for data protection. Integrate third-party APIs and services. Design, develop and maintain scalable software applications. Contribute to system architecture and technical design decisions. Optimize application performance and ensure high availability. Implement new features based on product requirements",
+    "benefits": "Transportation and conveyance allowance. Flexible working hours. Recognition and rewards programs. International travel opportunities for senior roles. Annual performance appraisal. Meal coupons and food allowance",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Flexible working hours, Recognition and rewards programs, International travel opportunities for senior roles, Annual performance appraisal, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "Join the BankBazaar family as a Senior Software Engineer in Patna. We believe in empowering our employees with the tools, training, and environment they need to",
+    "keywords": "Senior Software Engineer, BankBazaar, jobs in Patna, Bihar jobs, technology jobs India, SQL, Agile/Scrum, Rust, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:47:26.146Z",
+  "page": 22
+}
