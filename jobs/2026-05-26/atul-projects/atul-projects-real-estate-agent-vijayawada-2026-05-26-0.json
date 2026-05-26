@@ -1,0 +1,93 @@
+{
+  "slug": "atul-projects-real-estate-agent-vijayawada-2026-05-26-0",
+  "title": "Looking for Real Estate Agent at Atul Projects",
+  "company": "Atul Projects",
+  "industry": "realestate",
+  "role": "Real Estate Agent",
+  "location": {
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Property Valuation",
+    "Financial Modeling",
+    "Real Estate Law",
+    "Investment Analysis",
+    "Sales Techniques",
+    "GIS Tools",
+    "Due Diligence",
+    "Project Management"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Looking for Real Estate Agent at Atul Projects",
+    "description": "Atul Projects has an exciting opening for a Real Estate Agent at our Vijayawada office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Atul Projects:\nAtul Projects is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Manage RERA documentation and compliance requirements\n• Source and close property deals with prospective buyers and investors\n• Coordinate with architects, contractors, and project teams\n• Achieve monthly and quarterly sales targets\n• Maintain a pipeline of qualified leads using CRM software\n• Conduct market research and provide competitive analysis\n• Conduct site visits and property presentations for clients\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 6-10 years of relevant experience\n• Proficiency in Property Valuation\n• Proficiency in Financial Modeling\n• Proficiency in Real Estate Law\n• Proficiency in Investment Analysis\n• Proficiency in Sales Techniques\n• Proficiency in GIS Tools\n• Proficiency in Due Diligence\n• Proficiency in Project Management\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Referral bonus program\n• Flexible working hours\n• Maternity and paternity leave\n• Professional development and training programs\n• Work-from-home flexibility\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Vijayawada, Andhra Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Atul Projects!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Atul Projects",
+      "value": "710-0-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Atul Projects",
+      "sameAs": "https://www.google.com/search?q=Atul%20Projects",
+      "logo": "https://logo.clearbit.com/atulprojects.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Atul Projects Office",
+        "addressLocality": "Vijayawada",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "Property Valuation, Financial Modeling, Real Estate Law, Investment Analysis, Sales Techniques, GIS Tools, Due Diligence, Project Management",
+    "responsibilities": "Manage RERA documentation and compliance requirements. Source and close property deals with prospective buyers and investors. Coordinate with architects, contractors, and project teams. Achieve monthly and quarterly sales targets. Maintain a pipeline of qualified leads using CRM software. Conduct market research and provide competitive analysis. Conduct site visits and property presentations for clients",
+    "benefits": "Transportation and conveyance allowance. Referral bonus program. Flexible working hours. Maternity and paternity leave. Professional development and training programs. Work-from-home flexibility",
+    "industry": "realestate",
+    "occupationalCategory": "Real Estate Agent",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Referral bonus program, Flexible working hours, Maternity and paternity leave, Professional development and training programs, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "Atul Projects has an exciting opening for a Real Estate Agent at our Vijayawada office. Join a company that values innovation, collaboration, and continuous lea",
+    "keywords": "Real Estate Agent, Atul Projects, jobs in Vijayawada, Andhra Pradesh jobs, realestate jobs India, Property Valuation, Financial Modeling, Real Estate Law, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T04:07:53.877Z",
+  "page": 177
+}

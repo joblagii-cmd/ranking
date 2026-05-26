@@ -1,0 +1,93 @@
+{
+  "slug": "atul-projects-sales-manager-jodhpur-2026-05-26-3",
+  "title": "Sales Manager Vacancy at Atul Projects - 2026 Batch",
+  "company": "Atul Projects",
+  "industry": "realestate",
+  "role": "Sales Manager",
+  "location": {
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Market Research",
+    "GIS Tools",
+    "Property Valuation",
+    "Investment Analysis",
+    "Client Relationship Management",
+    "Project Management",
+    "MS Office",
+    "Title Search"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Sales Manager Vacancy at Atul Projects - 2026 Batch",
+    "description": "Atul Projects has an exciting opening for a Sales Manager at our Jodhpur office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Atul Projects:\nAtul Projects is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Achieve monthly and quarterly sales targets\n• Provide advisory services on property investment and market trends\n• Coordinate with legal teams for documentation and title verification\n• Build relationships with channel partners and brokers\n• Maintain a pipeline of qualified leads using CRM software\n• Prepare presentations and proposals for institutional clients\n• Conduct market research and provide competitive analysis\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 0-1 years of relevant experience\n• Proficiency in Market Research\n• Proficiency in GIS Tools\n• Proficiency in Property Valuation\n• Proficiency in Investment Analysis\n• Proficiency in Client Relationship Management\n• Proficiency in Project Management\n• Proficiency in MS Office\n• Proficiency in Title Search\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Meal coupons and food allowance\n• Maternity and paternity leave\n• Modern office with recreational facilities\n• Annual paid leaves and casual leaves\n• Competitive salary with performance-linked incentives\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Jodhpur, Rajasthan, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Atul Projects!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Atul Projects",
+      "value": "710-3-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Atul Projects",
+      "sameAs": "https://www.google.com/search?q=Atul%20Projects",
+      "logo": "https://logo.clearbit.com/atulprojects.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Atul Projects Office",
+        "addressLocality": "Jodhpur",
+        "addressRegion": "Rajasthan",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "Market Research, GIS Tools, Property Valuation, Investment Analysis, Client Relationship Management, Project Management, MS Office, Title Search",
+    "responsibilities": "Achieve monthly and quarterly sales targets. Provide advisory services on property investment and market trends. Coordinate with legal teams for documentation and title verification. Build relationships with channel partners and brokers. Maintain a pipeline of qualified leads using CRM software. Prepare presentations and proposals for institutional clients. Conduct market research and provide competitive analysis",
+    "benefits": "International travel opportunities for senior roles. Meal coupons and food allowance. Maternity and paternity leave. Modern office with recreational facilities. Annual paid leaves and casual leaves. Competitive salary with performance-linked incentives",
+    "industry": "realestate",
+    "occupationalCategory": "Sales Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Meal coupons and food allowance, Maternity and paternity leave, Modern office with recreational facilities, Annual paid leaves and casual leaves, Competitive salary with performance-linked incentives"
+  },
+  "meta": {
+    "description": "Atul Projects has an exciting opening for a Sales Manager at our Jodhpur office. Join a company that values innovation, collaboration, and continuous learning.",
+    "keywords": "Sales Manager, Atul Projects, jobs in Jodhpur, Rajasthan jobs, realestate jobs India, Market Research, GIS Tools, Property Valuation, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T04:07:53.878Z",
+  "page": 177
+}
