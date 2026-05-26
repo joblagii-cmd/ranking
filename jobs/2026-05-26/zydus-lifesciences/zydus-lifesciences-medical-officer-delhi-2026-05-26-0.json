@@ -1,0 +1,93 @@
+{
+  "slug": "zydus-lifesciences-medical-officer-delhi-2026-05-26-0",
+  "title": "Career Opportunity Medical Officer at Zydus Lifesciences",
+  "company": "Zydus Lifesciences",
+  "industry": "healthcare",
+  "role": "Medical Officer",
+  "location": {
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "EMR/EHR",
+    "Infection Control",
+    "Clinical Documentation",
+    "Diagnostic Skills",
+    "HIPAA Compliance",
+    "ICD-10",
+    "ICU Management",
+    "Patient Care"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Career Opportunity Medical Officer at Zydus Lifesciences",
+    "description": "Zydus Lifesciences has an exciting opening for a Medical Officer at our Delhi office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Zydus Lifesciences:\nZydus Lifesciences is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Administer medications and treatments as prescribed\n• Provide high-quality patient care and maintain patient records\n• Respond to medical emergencies and provide immediate care\n• Monitor patient progress and adjust treatment plans accordingly\n• Diagnose and treat medical conditions following established protocols\n• Educate patients and families on health management and disease prevention\n• Adhere to NABH/JCI accreditation standards\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 6-10 years of relevant experience\n• Proficiency in EMR/EHR\n• Proficiency in Infection Control\n• Proficiency in Clinical Documentation\n• Proficiency in Diagnostic Skills\n• Proficiency in HIPAA Compliance\n• Proficiency in ICD-10\n• Proficiency in ICU Management\n• Proficiency in Patient Care\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Mobile and internet reimbursement\n• Life and accident insurance\n• Recognition and rewards programs\n• Work-from-home flexibility\n• Learning & development budget\n• Flexible working hours\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Delhi, Delhi, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Zydus Lifesciences!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Zydus Lifesciences",
+      "value": "232-0-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Zydus Lifesciences",
+      "sameAs": "https://www.google.com/search?q=Zydus%20Lifesciences",
+      "logo": "https://logo.clearbit.com/zyduslifesciences.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Zydus Lifesciences Office",
+        "addressLocality": "Delhi",
+        "addressRegion": "Delhi",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "EMR/EHR, Infection Control, Clinical Documentation, Diagnostic Skills, HIPAA Compliance, ICD-10, ICU Management, Patient Care",
+    "responsibilities": "Administer medications and treatments as prescribed. Provide high-quality patient care and maintain patient records. Respond to medical emergencies and provide immediate care. Monitor patient progress and adjust treatment plans accordingly. Diagnose and treat medical conditions following established protocols. Educate patients and families on health management and disease prevention. Adhere to NABH/JCI accreditation standards",
+    "benefits": "Mobile and internet reimbursement. Life and accident insurance. Recognition and rewards programs. Work-from-home flexibility. Learning & development budget. Flexible working hours",
+    "industry": "healthcare",
+    "occupationalCategory": "Medical Officer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Mobile and internet reimbursement, Life and accident insurance, Recognition and rewards programs, Work-from-home flexibility, Learning & development budget, Flexible working hours"
+  },
+  "meta": {
+    "description": "Zydus Lifesciences has an exciting opening for a Medical Officer at our Delhi office. Join a company that values innovation, collaboration, and continuous learn",
+    "keywords": "Medical Officer, Zydus Lifesciences, jobs in Delhi, Delhi jobs, healthcare jobs India, EMR/EHR, Infection Control, Clinical Documentation, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:51:54.850Z",
+  "page": 57
+}

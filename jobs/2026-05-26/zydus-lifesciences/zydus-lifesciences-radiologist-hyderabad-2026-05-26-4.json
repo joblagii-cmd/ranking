@@ -1,0 +1,93 @@
+{
+  "slug": "zydus-lifesciences-radiologist-hyderabad-2026-05-26-4",
+  "title": "Principal Radiologist at Zydus Lifesciences",
+  "company": "Zydus Lifesciences",
+  "industry": "healthcare",
+  "role": "Radiologist",
+  "location": {
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Clinical Research",
+    "CPT Codes",
+    "Telemedicine",
+    "Wound Care",
+    "Patient Care",
+    "Surgical Procedures",
+    "NABH Standards",
+    "Clinical Documentation"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Principal Radiologist at Zydus Lifesciences",
+    "description": "Zydus Lifesciences has an exciting opening for a Radiologist at our Hyderabad office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Zydus Lifesciences:\nZydus Lifesciences is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Conduct routine health assessments and screenings\n• Administer medications and treatments as prescribed\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Monitor patient progress and adjust treatment plans accordingly\n• Diagnose and treat medical conditions following established protocols\n• Maintain sterile environments and follow infection control protocols\n• Adhere to NABH/JCI accreditation standards\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 12-20 years of relevant experience\n• Proficiency in Clinical Research\n• Proficiency in CPT Codes\n• Proficiency in Telemedicine\n• Proficiency in Wound Care\n• Proficiency in Patient Care\n• Proficiency in Surgical Procedures\n• Proficiency in NABH Standards\n• Proficiency in Clinical Documentation\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Modern office with recreational facilities\n• Maternity and paternity leave\n• Professional development and training programs\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Hyderabad, Telangana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Zydus Lifesciences!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Zydus Lifesciences",
+      "value": "232-4-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Zydus Lifesciences",
+      "sameAs": "https://www.google.com/search?q=Zydus%20Lifesciences",
+      "logo": "https://logo.clearbit.com/zyduslifesciences.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Zydus Lifesciences Office",
+        "addressLocality": "Hyderabad",
+        "addressRegion": "Telangana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "Clinical Research, CPT Codes, Telemedicine, Wound Care, Patient Care, Surgical Procedures, NABH Standards, Clinical Documentation",
+    "responsibilities": "Conduct routine health assessments and screenings. Administer medications and treatments as prescribed. Coordinate with multidisciplinary teams for comprehensive patient management. Monitor patient progress and adjust treatment plans accordingly. Diagnose and treat medical conditions following established protocols. Maintain sterile environments and follow infection control protocols. Adhere to NABH/JCI accreditation standards",
+    "benefits": "Work-from-home flexibility. Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Modern office with recreational facilities. Maternity and paternity leave. Professional development and training programs",
+    "industry": "healthcare",
+    "occupationalCategory": "Radiologist",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Modern office with recreational facilities, Maternity and paternity leave, Professional development and training programs"
+  },
+  "meta": {
+    "description": "Zydus Lifesciences has an exciting opening for a Radiologist at our Hyderabad office. Join a company that values innovation, collaboration, and continuous learn",
+    "keywords": "Radiologist, Zydus Lifesciences, jobs in Hyderabad, Telangana jobs, healthcare jobs India, Clinical Research, CPT Codes, Telemedicine, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:51:54.850Z",
+  "page": 57
+}
