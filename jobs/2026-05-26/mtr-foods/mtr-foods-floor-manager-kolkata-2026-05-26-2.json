@@ -1,0 +1,94 @@
+{
+  "slug": "mtr-foods-floor-manager-kolkata-2026-05-26-2",
+  "title": "MTR Foods is Hiring: Floor Manager (Entry-Level)",
+  "company": "MTR Foods",
+  "industry": "retail",
+  "role": "Floor Manager",
+  "location": {
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Retail Operations",
+    "Loyalty Programs",
+    "Shrinkage Control",
+    "Visual Merchandising",
+    "Inventory Management",
+    "POS Systems",
+    "CRM",
+    "Omnichannel Retail"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "MTR Foods is Hiring: Floor Manager (Entry-Level)",
+    "description": "MTR Foods is actively seeking a talented and motivated Floor Manager to join our dynamic team in Kolkata. This is an excellent opportunity for professionals who are passionate about making a real impact in a fast-growing organization.\n\nAbout MTR Foods:\nMTR Foods is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Maintain high standards of store hygiene and cleanliness\n• Assist in recruiting, onboarding, and performance management of staff\n• Ensure visual merchandising standards are maintained at all times\n• Prepare daily sales reports and share insights with management\n• Achieve sales targets and improve store performance metrics\n• Train and motivate the sales team to deliver excellent service\n• Build relationships with regular customers to drive loyalty\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 0-1 years of relevant experience\n• Proficiency in Retail Operations\n• Proficiency in Loyalty Programs\n• Proficiency in Shrinkage Control\n• Proficiency in Visual Merchandising\n• Proficiency in Inventory Management\n• Proficiency in POS Systems\n• Proficiency in CRM\n• Proficiency in Omnichannel Retail\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Life and accident insurance\n• Employee stock options (ESOPs) for eligible roles\n• Mobile and internet reimbursement\n• Maternity and paternity leave\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Kolkata, West Bengal, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with MTR Foods!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "MTR Foods",
+      "value": "653-2-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "MTR Foods",
+      "sameAs": "https://www.google.com/search?q=MTR%20Foods",
+      "logo": "https://logo.clearbit.com/mtrfoods.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "MTR Foods Office",
+        "addressLocality": "Kolkata",
+        "addressRegion": "West Bengal",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "Retail Operations, Loyalty Programs, Shrinkage Control, Visual Merchandising, Inventory Management, POS Systems, CRM, Omnichannel Retail",
+    "responsibilities": "Maintain high standards of store hygiene and cleanliness. Assist in recruiting, onboarding, and performance management of staff. Ensure visual merchandising standards are maintained at all times. Prepare daily sales reports and share insights with management. Achieve sales targets and improve store performance metrics. Train and motivate the sales team to deliver excellent service. Build relationships with regular customers to drive loyalty",
+    "benefits": "Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Life and accident insurance. Employee stock options (ESOPs) for eligible roles. Mobile and internet reimbursement. Maternity and paternity leave",
+    "industry": "retail",
+    "occupationalCategory": "Floor Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Life and accident insurance, Employee stock options (ESOPs) for eligible roles, Mobile and internet reimbursement, Maternity and paternity leave"
+  },
+  "meta": {
+    "description": "MTR Foods is actively seeking a talented and motivated Floor Manager to join our dynamic team in Kolkata. This is an excellent opportunity for professionals who",
+    "keywords": "Floor Manager, MTR Foods, jobs in Kolkata, West Bengal jobs, retail jobs India, Retail Operations, Loyalty Programs, Shrinkage Control, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T04:05:54.337Z",
+  "page": 163
+}
