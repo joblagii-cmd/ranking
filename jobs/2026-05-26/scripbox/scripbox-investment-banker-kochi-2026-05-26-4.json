@@ -1,0 +1,93 @@
+{
+  "slug": "scripbox-investment-banker-kochi-2026-05-26-4",
+  "title": "Principal Investment Banker at Scripbox",
+  "company": "Scripbox",
+  "industry": "finance",
+  "role": "Investment Banker",
+  "location": {
+    "city": "Kochi",
+    "state": "Kerala",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "VBA",
+    "GST",
+    "Financial Modeling",
+    "MS Excel",
+    "IFRS",
+    "Tally",
+    "SAP FICO",
+    "Bloomberg Terminal"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Principal Investment Banker at Scripbox",
+    "description": "We at Scripbox are looking for an experienced Investment Banker based out of Kochi. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout Scripbox:\nScripbox is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Manage accounts payable and accounts receivable functions\n• Manage credit risk assessment and loan appraisal processes\n• Liaise with banks, regulators, and financial institutions\n• Prepare annual reports and investor presentations\n• Develop financial models and projections for business planning\n• Implement and maintain internal controls and audit procedures\n• Monitor financial performance against targets and provide variance analysis\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 0-1 years of relevant experience\n• Proficiency in VBA\n• Proficiency in GST\n• Proficiency in Financial Modeling\n• Proficiency in MS Excel\n• Proficiency in IFRS\n• Proficiency in Tally\n• Proficiency in SAP FICO\n• Proficiency in Bloomberg Terminal\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Comprehensive health insurance for self and family\n• Meal coupons and food allowance\n• Modern office with recreational facilities\n• Competitive salary with performance-linked incentives\n• Life and accident insurance\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Kochi, Kerala, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Scripbox!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Scripbox",
+      "value": "215-4-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Scripbox",
+      "sameAs": "https://www.google.com/search?q=Scripbox",
+      "logo": "https://logo.clearbit.com/scripbox.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Scripbox Office",
+        "addressLocality": "Kochi",
+        "addressRegion": "Kerala",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "VBA, GST, Financial Modeling, MS Excel, IFRS, Tally, SAP FICO, Bloomberg Terminal",
+    "responsibilities": "Manage accounts payable and accounts receivable functions. Manage credit risk assessment and loan appraisal processes. Liaise with banks, regulators, and financial institutions. Prepare annual reports and investor presentations. Develop financial models and projections for business planning. Implement and maintain internal controls and audit procedures. Monitor financial performance against targets and provide variance analysis",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Comprehensive health insurance for self and family. Meal coupons and food allowance. Modern office with recreational facilities. Competitive salary with performance-linked incentives. Life and accident insurance",
+    "industry": "finance",
+    "occupationalCategory": "Investment Banker",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Comprehensive health insurance for self and family, Meal coupons and food allowance, Modern office with recreational facilities, Competitive salary with performance-linked incentives, Life and accident insurance"
+  },
+  "meta": {
+    "description": "We at Scripbox are looking for an experienced Investment Banker based out of Kochi. If you are a result-oriented professional with a passion for excellence, we ",
+    "keywords": "Investment Banker, Scripbox, jobs in Kochi, Kerala jobs, finance jobs India, VBA, GST, Financial Modeling, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:51:25.158Z",
+  "page": 53
+}
