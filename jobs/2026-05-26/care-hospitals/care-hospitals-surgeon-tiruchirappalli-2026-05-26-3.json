@@ -1,0 +1,93 @@
+{
+  "slug": "care-hospitals-surgeon-tiruchirappalli-2026-05-26-3",
+  "title": "Surgeon Vacancy at Care Hospitals - 2026 Batch",
+  "company": "Care Hospitals",
+  "industry": "healthcare",
+  "role": "Surgeon",
+  "location": {
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Diagnostic Skills",
+    "BLS/ACLS",
+    "Patient Care",
+    "ICU Management",
+    "Wound Care",
+    "Infection Control",
+    "Clinical Research",
+    "EMR/EHR"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Surgeon Vacancy at Care Hospitals - 2026 Batch",
+    "description": "Care Hospitals has an exciting opening for a Surgeon at our Tiruchirappalli office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Care Hospitals:\nCare Hospitals is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Adhere to NABH/JCI accreditation standards\n• Ensure patient privacy and maintain confidentiality\n• Provide high-quality patient care and maintain patient records\n• Diagnose and treat medical conditions following established protocols\n• Collaborate with pharmaceutical representatives and medical suppliers\n• Maintain accurate clinical documentation in electronic health records\n• Attend continuing medical education programs and training\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 6-10 years of relevant experience\n• Proficiency in Diagnostic Skills\n• Proficiency in BLS/ACLS\n• Proficiency in Patient Care\n• Proficiency in ICU Management\n• Proficiency in Wound Care\n• Proficiency in Infection Control\n• Proficiency in Clinical Research\n• Proficiency in EMR/EHR\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Flexible working hours\n• Annual performance appraisal\n• Recognition and rewards programs\n• Professional development and training programs\n• Life and accident insurance\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Tiruchirappalli, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Care Hospitals!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Care Hospitals",
+      "value": "224-3-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Care Hospitals",
+      "sameAs": "https://www.google.com/search?q=Care%20Hospitals",
+      "logo": "https://logo.clearbit.com/carehospitals.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Care Hospitals Office",
+        "addressLocality": "Tiruchirappalli",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "Diagnostic Skills, BLS/ACLS, Patient Care, ICU Management, Wound Care, Infection Control, Clinical Research, EMR/EHR",
+    "responsibilities": "Adhere to NABH/JCI accreditation standards. Ensure patient privacy and maintain confidentiality. Provide high-quality patient care and maintain patient records. Diagnose and treat medical conditions following established protocols. Collaborate with pharmaceutical representatives and medical suppliers. Maintain accurate clinical documentation in electronic health records. Attend continuing medical education programs and training",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Flexible working hours. Annual performance appraisal. Recognition and rewards programs. Professional development and training programs. Life and accident insurance",
+    "industry": "healthcare",
+    "occupationalCategory": "Surgeon",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Flexible working hours, Annual performance appraisal, Recognition and rewards programs, Professional development and training programs, Life and accident insurance"
+  },
+  "meta": {
+    "description": "Care Hospitals has an exciting opening for a Surgeon at our Tiruchirappalli office. Join a company that values innovation, collaboration, and continuous learnin",
+    "keywords": "Surgeon, Care Hospitals, jobs in Tiruchirappalli, Tamil Nadu jobs, healthcare jobs India, Diagnostic Skills, BLS/ACLS, Patient Care, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:51:40.075Z",
+  "page": 55
+}
