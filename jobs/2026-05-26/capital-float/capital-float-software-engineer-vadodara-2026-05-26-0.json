@@ -1,0 +1,93 @@
+{
+  "slug": "capital-float-software-engineer-vadodara-2026-05-26-0",
+  "title": "Opening for Software Engineer at Capital Float",
+  "company": "Capital Float",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Agile/Scrum",
+    "CI/CD",
+    "Go",
+    "Java",
+    "React",
+    "Python",
+    "Machine Learning",
+    "Node.js"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Opening for Software Engineer at Capital Float",
+    "description": "Join the Capital Float family as a Software Engineer in Vadodara. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Capital Float:\nCapital Float is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Write clean, maintainable, and well-documented code\n• Optimize application performance and ensure high availability\n• Ensure code security and follow best practices for data protection\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Write and execute unit tests and integration tests\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 6-10 years of relevant experience\n• Proficiency in Agile/Scrum\n• Proficiency in CI/CD\n• Proficiency in Go\n• Proficiency in Java\n• Proficiency in React\n• Proficiency in Python\n• Proficiency in Machine Learning\n• Proficiency in Node.js\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Maternity and paternity leave\n• Modern office with recreational facilities\n• Mobile and internet reimbursement\n• Life and accident insurance\n• Competitive salary with performance-linked incentives\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Vadodara, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Capital Float!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Capital Float",
+      "value": "94-0-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Capital Float",
+      "sameAs": "https://www.google.com/search?q=Capital%20Float",
+      "logo": "https://logo.clearbit.com/capitalfloat.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Capital Float Office",
+        "addressLocality": "Vadodara",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "Agile/Scrum, CI/CD, Go, Java, React, Python, Machine Learning, Node.js",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Write clean, maintainable, and well-documented code. Optimize application performance and ensure high availability. Ensure code security and follow best practices for data protection. Troubleshoot, debug, and resolve software defects and performance issues. Write and execute unit tests and integration tests",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Maternity and paternity leave. Modern office with recreational facilities. Mobile and internet reimbursement. Life and accident insurance. Competitive salary with performance-linked incentives",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Maternity and paternity leave, Modern office with recreational facilities, Mobile and internet reimbursement, Life and accident insurance, Competitive salary with performance-linked incentives"
+  },
+  "meta": {
+    "description": "Join the Capital Float family as a Software Engineer in Vadodara. We believe in empowering our employees with the tools, training, and environment they need to ",
+    "keywords": "Software Engineer, Capital Float, jobs in Vadodara, Gujarat jobs, technology jobs India, Agile/Scrum, CI/CD, Go, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:47:34.045Z",
+  "page": 23
+}
