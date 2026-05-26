@@ -1,0 +1,93 @@
+{
+  "slug": "shroff-eye-centre-surgeon-ranchi-2026-05-26-3",
+  "title": "Surgeon Vacancy at Shroff Eye Centre - 2026 Batch",
+  "company": "Shroff Eye Centre",
+  "industry": "healthcare",
+  "role": "Surgeon",
+  "location": {
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "ICD-10",
+    "Health Informatics",
+    "Medical Coding",
+    "CPT Codes",
+    "Clinical Research",
+    "EMR/EHR",
+    "Medical Terminology",
+    "Clinical Documentation"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Surgeon Vacancy at Shroff Eye Centre - 2026 Batch",
+    "description": "Shroff Eye Centre, one of India's leading organizations, is hiring a Surgeon for our Ranchi operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Shroff Eye Centre:\nShroff Eye Centre is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Monitor patient progress and adjust treatment plans accordingly\n• Educate patients and families on health management and disease prevention\n• Administer medications and treatments as prescribed\n• Provide high-quality patient care and maintain patient records\n• Respond to medical emergencies and provide immediate care\n• Attend continuing medical education programs and training\n• Diagnose and treat medical conditions following established protocols\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 1-3 years of relevant experience\n• Proficiency in ICD-10\n• Proficiency in Health Informatics\n• Proficiency in Medical Coding\n• Proficiency in CPT Codes\n• Proficiency in Clinical Research\n• Proficiency in EMR/EHR\n• Proficiency in Medical Terminology\n• Proficiency in Clinical Documentation\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Referral bonus program\n• Annual paid leaves and casual leaves\n• Company-sponsored certifications\n• Employee stock options (ESOPs) for eligible roles\n• Annual performance appraisal\n• Work-from-home flexibility\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Ranchi, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Shroff Eye Centre!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Shroff Eye Centre",
+      "value": "284-3-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Shroff Eye Centre",
+      "sameAs": "https://www.google.com/search?q=Shroff%20Eye%20Centre",
+      "logo": "https://logo.clearbit.com/shroffeyecentre.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Shroff Eye Centre Office",
+        "addressLocality": "Ranchi",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "ICD-10, Health Informatics, Medical Coding, CPT Codes, Clinical Research, EMR/EHR, Medical Terminology, Clinical Documentation",
+    "responsibilities": "Monitor patient progress and adjust treatment plans accordingly. Educate patients and families on health management and disease prevention. Administer medications and treatments as prescribed. Provide high-quality patient care and maintain patient records. Respond to medical emergencies and provide immediate care. Attend continuing medical education programs and training. Diagnose and treat medical conditions following established protocols",
+    "benefits": "Referral bonus program. Annual paid leaves and casual leaves. Company-sponsored certifications. Employee stock options (ESOPs) for eligible roles. Annual performance appraisal. Work-from-home flexibility",
+    "industry": "healthcare",
+    "occupationalCategory": "Surgeon",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Referral bonus program, Annual paid leaves and casual leaves, Company-sponsored certifications, Employee stock options (ESOPs) for eligible roles, Annual performance appraisal, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "Shroff Eye Centre, one of India's leading organizations, is hiring a Surgeon for our Ranchi operations. We offer a competitive salary package along with world-c",
+    "keywords": "Surgeon, Shroff Eye Centre, jobs in Ranchi, Jharkhand jobs, healthcare jobs India, ICD-10, Health Informatics, Medical Coding, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:53:33.895Z",
+  "page": 70
+}
