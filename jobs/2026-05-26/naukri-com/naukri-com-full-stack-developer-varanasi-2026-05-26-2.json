@@ -1,0 +1,93 @@
+{
+  "slug": "naukri-com-full-stack-developer-varanasi-2026-05-26-2",
+  "title": "Naukri.com is Hiring: Full Stack Developer (Junior)",
+  "company": "Naukri.com",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "JavaScript",
+    "Kubernetes",
+    "Python",
+    "Java",
+    "TypeScript",
+    "Docker",
+    "MongoDB",
+    "TensorFlow"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Naukri.com is Hiring: Full Stack Developer (Junior)",
+    "description": "Are you a skilled Full Stack Developer looking for your next big career move? Naukri.com in Varanasi offers you the perfect platform to grow professionally and personally.\n\nAbout Naukri.com:\nNaukri.com is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in code reviews and contribute to technical discussions\n• Implement new features based on product requirements\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Participate in on-call rotation for production support\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 6-10 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Kubernetes\n• Proficiency in Python\n• Proficiency in Java\n• Proficiency in TypeScript\n• Proficiency in Docker\n• Proficiency in MongoDB\n• Proficiency in TensorFlow\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Modern office with recreational facilities\n• Competitive salary with performance-linked incentives\n• Life and accident insurance\n• Recognition and rewards programs\n• Comprehensive health insurance for self and family\n• Annual performance appraisal\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Varanasi, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Naukri.com!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Naukri.com",
+      "value": "23-2-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Naukri.com",
+      "sameAs": "https://www.google.com/search?q=Naukri.com",
+      "logo": "https://logo.clearbit.com/naukricom.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Naukri.com Office",
+        "addressLocality": "Varanasi",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "JavaScript, Kubernetes, Python, Java, TypeScript, Docker, MongoDB, TensorFlow",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Participate in code reviews and contribute to technical discussions. Implement new features based on product requirements. Work with agile methodologies including daily stand-ups and sprint planning. Mentor junior developers and conduct knowledge-sharing sessions. Troubleshoot, debug, and resolve software defects and performance issues. Participate in on-call rotation for production support",
+    "benefits": "Modern office with recreational facilities. Competitive salary with performance-linked incentives. Life and accident insurance. Recognition and rewards programs. Comprehensive health insurance for self and family. Annual performance appraisal",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Modern office with recreational facilities, Competitive salary with performance-linked incentives, Life and accident insurance, Recognition and rewards programs, Comprehensive health insurance for self and family, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "Are you a skilled Full Stack Developer looking for your next big career move? Naukri.com in Varanasi offers you the perfect platform to grow professionally and ",
+    "keywords": "Full Stack Developer, Naukri.com, jobs in Varanasi, Uttar Pradesh jobs, technology jobs India, JavaScript, Kubernetes, Python, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:45:14.024Z",
+  "page": 5
+}

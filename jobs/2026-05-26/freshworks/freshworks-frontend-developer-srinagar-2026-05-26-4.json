@@ -1,0 +1,93 @@
+{
+  "slug": "freshworks-frontend-developer-srinagar-2026-05-26-4",
+  "title": "Mid-Level Frontend Developer at Freshworks",
+  "company": "Freshworks",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Srinagar",
+    "state": "Jammu & Kashmir",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Docker",
+    "Go",
+    "Machine Learning",
+    "TensorFlow",
+    "Python",
+    "Microservices",
+    "REST APIs",
+    "React"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Frontend Developer at Freshworks",
+    "description": "Are you a skilled Frontend Developer looking for your next big career move? Freshworks in Srinagar offers you the perfect platform to grow professionally and personally.\n\nAbout Freshworks:\nFreshworks is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Write and execute unit tests and integration tests\n• Participate in on-call rotation for production support\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Design, develop and maintain scalable software applications\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 0-1 years of relevant experience\n• Proficiency in Docker\n• Proficiency in Go\n• Proficiency in Machine Learning\n• Proficiency in TensorFlow\n• Proficiency in Python\n• Proficiency in Microservices\n• Proficiency in REST APIs\n• Proficiency in React\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Comprehensive health insurance for self and family\n• Professional development and training programs\n• Transportation and conveyance allowance\n• Annual performance appraisal\n• Flexible working hours\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Srinagar, Jammu & Kashmir, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Freshworks!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Freshworks",
+      "value": "24-4-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Freshworks",
+      "sameAs": "https://www.google.com/search?q=Freshworks",
+      "logo": "https://logo.clearbit.com/freshworks.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Freshworks Office",
+        "addressLocality": "Srinagar",
+        "addressRegion": "Jammu & Kashmir",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Docker, Go, Machine Learning, TensorFlow, Python, Microservices, REST APIs, React",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Troubleshoot, debug, and resolve software defects and performance issues. Write and execute unit tests and integration tests. Participate in on-call rotation for production support. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Work with agile methodologies including daily stand-ups and sprint planning. Design, develop and maintain scalable software applications",
+    "benefits": "International travel opportunities for senior roles. Comprehensive health insurance for self and family. Professional development and training programs. Transportation and conveyance allowance. Annual performance appraisal. Flexible working hours",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Comprehensive health insurance for self and family, Professional development and training programs, Transportation and conveyance allowance, Annual performance appraisal, Flexible working hours"
+  },
+  "meta": {
+    "description": "Are you a skilled Frontend Developer looking for your next big career move? Freshworks in Srinagar offers you the perfect platform to grow professionally and pe",
+    "keywords": "Frontend Developer, Freshworks, jobs in Srinagar, Jammu & Kashmir jobs, technology jobs India, Docker, Go, Machine Learning, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:45:14.024Z",
+  "page": 5
+}

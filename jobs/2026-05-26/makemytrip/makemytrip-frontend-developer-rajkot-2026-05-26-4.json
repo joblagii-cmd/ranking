@@ -1,0 +1,93 @@
+{
+  "slug": "makemytrip-frontend-developer-rajkot-2026-05-26-4",
+  "title": "Junior Frontend Developer at MakeMyTrip",
+  "company": "MakeMyTrip",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Machine Learning",
+    "Go",
+    "TypeScript",
+    "TensorFlow",
+    "Java",
+    "Microservices",
+    "REST APIs",
+    "Git"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Junior Frontend Developer at MakeMyTrip",
+    "description": "Are you a skilled Frontend Developer looking for your next big career move? MakeMyTrip in Rajkot offers you the perfect platform to grow professionally and personally.\n\nAbout MakeMyTrip:\nMakeMyTrip is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Integrate third-party APIs and services\n• Design, develop and maintain scalable software applications\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Collaborate with cross-functional teams including product, design, and QA\n• Write clean, maintainable, and well-documented code\n• Write and execute unit tests and integration tests\n• Troubleshoot, debug, and resolve software defects and performance issues\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 6-10 years of relevant experience\n• Proficiency in Machine Learning\n• Proficiency in Go\n• Proficiency in TypeScript\n• Proficiency in TensorFlow\n• Proficiency in Java\n• Proficiency in Microservices\n• Proficiency in REST APIs\n• Proficiency in Git\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Learning & development budget\n• Work-from-home flexibility\n• Employee stock options (ESOPs) for eligible roles\n• Life and accident insurance\n• Referral bonus program\n• Mobile and internet reimbursement\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Rajkot, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with MakeMyTrip!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "MakeMyTrip",
+      "value": "21-4-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "MakeMyTrip",
+      "sameAs": "https://www.google.com/search?q=MakeMyTrip",
+      "logo": "https://logo.clearbit.com/makemytrip.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "MakeMyTrip Office",
+        "addressLocality": "Rajkot",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "Machine Learning, Go, TypeScript, TensorFlow, Java, Microservices, REST APIs, Git",
+    "responsibilities": "Integrate third-party APIs and services. Design, develop and maintain scalable software applications. Mentor junior developers and conduct knowledge-sharing sessions. Collaborate with cross-functional teams including product, design, and QA. Write clean, maintainable, and well-documented code. Write and execute unit tests and integration tests. Troubleshoot, debug, and resolve software defects and performance issues",
+    "benefits": "Learning & development budget. Work-from-home flexibility. Employee stock options (ESOPs) for eligible roles. Life and accident insurance. Referral bonus program. Mobile and internet reimbursement",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Learning & development budget, Work-from-home flexibility, Employee stock options (ESOPs) for eligible roles, Life and accident insurance, Referral bonus program, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "Are you a skilled Frontend Developer looking for your next big career move? MakeMyTrip in Rajkot offers you the perfect platform to grow professionally and pers",
+    "keywords": "Frontend Developer, MakeMyTrip, jobs in Rajkot, Gujarat jobs, technology jobs India, Machine Learning, Go, TypeScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:45:14.024Z",
+  "page": 5
+}

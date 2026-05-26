@@ -1,0 +1,93 @@
+{
+  "slug": "naukri-com-backend-developer-varanasi-2026-05-26-3",
+  "title": "Backend Developer Vacancy at Naukri.com - 2026 Batch",
+  "company": "Naukri.com",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "JavaScript",
+    "Node.js",
+    "Python",
+    "Rust",
+    "Java",
+    "MongoDB",
+    "AWS",
+    "SQL"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Naukri.com - 2026 Batch",
+    "description": "Are you a skilled Backend Developer looking for your next big career move? Naukri.com in Varanasi offers you the perfect platform to grow professionally and personally.\n\nAbout Naukri.com:\nNaukri.com is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write clean, maintainable, and well-documented code\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Participate in code reviews and contribute to technical discussions\n• Participate in on-call rotation for production support\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Design, develop and maintain scalable software applications\n• Integrate third-party APIs and services\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 3-6 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Node.js\n• Proficiency in Python\n• Proficiency in Rust\n• Proficiency in Java\n• Proficiency in MongoDB\n• Proficiency in AWS\n• Proficiency in SQL\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Professional development and training programs\n• Employee stock options (ESOPs) for eligible roles\n• Maternity and paternity leave\n• Company-sponsored certifications\n• Meal coupons and food allowance\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Varanasi, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Naukri.com!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Naukri.com",
+      "value": "23-3-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Naukri.com",
+      "sameAs": "https://www.google.com/search?q=Naukri.com",
+      "logo": "https://logo.clearbit.com/naukricom.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Naukri.com Office",
+        "addressLocality": "Varanasi",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "JavaScript, Node.js, Python, Rust, Java, MongoDB, AWS, SQL",
+    "responsibilities": "Write clean, maintainable, and well-documented code. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Participate in code reviews and contribute to technical discussions. Participate in on-call rotation for production support. Work with agile methodologies including daily stand-ups and sprint planning. Design, develop and maintain scalable software applications. Integrate third-party APIs and services",
+    "benefits": "Provident Fund and Gratuity as per company policy. Professional development and training programs. Employee stock options (ESOPs) for eligible roles. Maternity and paternity leave. Company-sponsored certifications. Meal coupons and food allowance",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Professional development and training programs, Employee stock options (ESOPs) for eligible roles, Maternity and paternity leave, Company-sponsored certifications, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "Are you a skilled Backend Developer looking for your next big career move? Naukri.com in Varanasi offers you the perfect platform to grow professionally and per",
+    "keywords": "Backend Developer, Naukri.com, jobs in Varanasi, Uttar Pradesh jobs, technology jobs India, JavaScript, Node.js, Python, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:45:14.024Z",
+  "page": 5
+}

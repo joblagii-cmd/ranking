@@ -1,0 +1,93 @@
+{
+  "slug": "makemytrip-full-stack-developer-meerut-2026-05-26-2",
+  "title": "MakeMyTrip is Hiring: Full Stack Developer (Junior)",
+  "company": "MakeMyTrip",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "CI/CD",
+    "React",
+    "TensorFlow",
+    "TypeScript",
+    "AWS",
+    "MongoDB",
+    "Java",
+    "Python"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "MakeMyTrip is Hiring: Full Stack Developer (Junior)",
+    "description": "Are you a skilled Full Stack Developer looking for your next big career move? MakeMyTrip in Meerut offers you the perfect platform to grow professionally and personally.\n\nAbout MakeMyTrip:\nMakeMyTrip is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in code reviews and contribute to technical discussions\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Collaborate with cross-functional teams including product, design, and QA\n• Implement new features based on product requirements\n• Participate in on-call rotation for production support\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 12-20 years of relevant experience\n• Proficiency in CI/CD\n• Proficiency in React\n• Proficiency in TensorFlow\n• Proficiency in TypeScript\n• Proficiency in AWS\n• Proficiency in MongoDB\n• Proficiency in Java\n• Proficiency in Python\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• Flexible working hours\n• Meal coupons and food allowance\n• Maternity and paternity leave\n• International travel opportunities for senior roles\n• Competitive salary with performance-linked incentives\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Meerut, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with MakeMyTrip!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "MakeMyTrip",
+      "value": "21-2-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "MakeMyTrip",
+      "sameAs": "https://www.google.com/search?q=MakeMyTrip",
+      "logo": "https://logo.clearbit.com/makemytrip.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "MakeMyTrip Office",
+        "addressLocality": "Meerut",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "CI/CD, React, TensorFlow, TypeScript, AWS, MongoDB, Java, Python",
+    "responsibilities": "Participate in code reviews and contribute to technical discussions. Troubleshoot, debug, and resolve software defects and performance issues. Collaborate with cross-functional teams including product, design, and QA. Implement new features based on product requirements. Participate in on-call rotation for production support. Work with agile methodologies including daily stand-ups and sprint planning. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP",
+    "benefits": "Comprehensive health insurance for self and family. Flexible working hours. Meal coupons and food allowance. Maternity and paternity leave. International travel opportunities for senior roles. Competitive salary with performance-linked incentives",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, Flexible working hours, Meal coupons and food allowance, Maternity and paternity leave, International travel opportunities for senior roles, Competitive salary with performance-linked incentives"
+  },
+  "meta": {
+    "description": "Are you a skilled Full Stack Developer looking for your next big career move? MakeMyTrip in Meerut offers you the perfect platform to grow professionally and pe",
+    "keywords": "Full Stack Developer, MakeMyTrip, jobs in Meerut, Uttar Pradesh jobs, technology jobs India, CI/CD, React, TensorFlow, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:45:14.024Z",
+  "page": 5
+}
