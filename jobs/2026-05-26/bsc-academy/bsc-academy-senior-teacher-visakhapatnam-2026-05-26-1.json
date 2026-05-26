@@ -1,0 +1,94 @@
+{
+  "slug": "bsc-academy-senior-teacher-visakhapatnam-2026-05-26-1",
+  "title": "Senior Teacher - BSC Academy - Work From Home Available",
+  "company": "BSC Academy",
+  "industry": "education",
+  "role": "Senior Teacher",
+  "location": {
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Curriculum Development",
+    "Pedagogy",
+    "MS Office",
+    "Content Creation",
+    "Mentoring",
+    "Communication Skills",
+    "Lesson Planning",
+    "Zoom/Teams"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Teacher - BSC Academy - Work From Home Available",
+    "description": "BSC Academy invites applications from qualified candidates for the position of Senior Teacher at our Visakhapatnam location. This role offers excellent career advancement prospects.\n\nAbout BSC Academy:\nBSC Academy is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Monitor student progress and provide timely feedback\n• Develop and deliver engaging lesson plans for students\n• Collaborate with faculty on curriculum development initiatives\n• Participate in teacher training and professional development programs\n• Create curriculum-aligned learning materials and assessments\n• Coordinate with academic counselors for student career guidance\n• Contribute to school newsletter, blogs, and other publications\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 1-3 years of relevant experience\n• Proficiency in Curriculum Development\n• Proficiency in Pedagogy\n• Proficiency in MS Office\n• Proficiency in Content Creation\n• Proficiency in Mentoring\n• Proficiency in Communication Skills\n• Proficiency in Lesson Planning\n• Proficiency in Zoom/Teams\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Mobile and internet reimbursement\n• Professional development and training programs\n• Work-from-home flexibility\n• Annual performance appraisal\n• Annual paid leaves and casual leaves\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Visakhapatnam, Andhra Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with BSC Academy!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "BSC Academy",
+      "value": "589-1-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "BSC Academy",
+      "sameAs": "https://www.google.com/search?q=BSC%20Academy",
+      "logo": "https://logo.clearbit.com/bscacademy.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "BSC Academy Office",
+        "addressLocality": "Visakhapatnam",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "Curriculum Development, Pedagogy, MS Office, Content Creation, Mentoring, Communication Skills, Lesson Planning, Zoom/Teams",
+    "responsibilities": "Monitor student progress and provide timely feedback. Develop and deliver engaging lesson plans for students. Collaborate with faculty on curriculum development initiatives. Participate in teacher training and professional development programs. Create curriculum-aligned learning materials and assessments. Coordinate with academic counselors for student career guidance. Contribute to school newsletter, blogs, and other publications",
+    "benefits": "Mobile and internet reimbursement. Professional development and training programs. Work-from-home flexibility. Annual performance appraisal. Annual paid leaves and casual leaves. Employee stock options (ESOPs) for eligible roles",
+    "industry": "education",
+    "occupationalCategory": "Senior Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Mobile and internet reimbursement, Professional development and training programs, Work-from-home flexibility, Annual performance appraisal, Annual paid leaves and casual leaves, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "BSC Academy invites applications from qualified candidates for the position of Senior Teacher at our Visakhapatnam location. This role offers excellent career a",
+    "keywords": "Senior Teacher, BSC Academy, jobs in Visakhapatnam, Andhra Pradesh jobs, education jobs India, Curriculum Development, Pedagogy, MS Office, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T04:03:44.709Z",
+  "page": 147
+}
