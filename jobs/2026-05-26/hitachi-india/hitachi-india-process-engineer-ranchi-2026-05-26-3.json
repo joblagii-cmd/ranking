@@ -1,0 +1,94 @@
+{
+  "slug": "hitachi-india-process-engineer-ranchi-2026-05-26-3",
+  "title": "Process Engineer Vacancy at Hitachi India - 2026 Batch",
+  "company": "Hitachi India",
+  "industry": "manufacturing",
+  "role": "Process Engineer",
+  "location": {
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "PLC/SCADA",
+    "Project Management",
+    "Root Cause Analysis",
+    "Lean Manufacturing",
+    "ERP Systems",
+    "Statistical Process Control",
+    "SAP MM/PP",
+    "Six Sigma"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Process Engineer Vacancy at Hitachi India - 2026 Batch",
+    "description": "We at Hitachi India are looking for an experienced Process Engineer based out of Ranchi. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout Hitachi India:\nHitachi India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with design and engineering teams on product improvements\n• Ensure product quality meets internal and customer specifications\n• Coordinate with logistics for dispatching finished goods\n• Monitor equipment performance and coordinate preventive maintenance\n• Ensure environmental compliance and waste management\n• Manage supplier quality audits and vendor development\n• Implement 5S, Kaizen, and Six Sigma practices on the shop floor\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 0-1 years of relevant experience\n• Proficiency in PLC/SCADA\n• Proficiency in Project Management\n• Proficiency in Root Cause Analysis\n• Proficiency in Lean Manufacturing\n• Proficiency in ERP Systems\n• Proficiency in Statistical Process Control\n• Proficiency in SAP MM/PP\n• Proficiency in Six Sigma\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Referral bonus program\n• Provident Fund and Gratuity as per company policy\n• International travel opportunities for senior roles\n• Company-sponsored certifications\n• Work-from-home flexibility\n• Professional development and training programs\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Ranchi, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Hitachi India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Hitachi India",
+      "value": "450-3-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Hitachi India",
+      "sameAs": "https://www.google.com/search?q=Hitachi%20India",
+      "logo": "https://logo.clearbit.com/hitachiindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Hitachi India Office",
+        "addressLocality": "Ranchi",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "PLC/SCADA, Project Management, Root Cause Analysis, Lean Manufacturing, ERP Systems, Statistical Process Control, SAP MM/PP, Six Sigma",
+    "responsibilities": "Coordinate with design and engineering teams on product improvements. Ensure product quality meets internal and customer specifications. Coordinate with logistics for dispatching finished goods. Monitor equipment performance and coordinate preventive maintenance. Ensure environmental compliance and waste management. Manage supplier quality audits and vendor development. Implement 5S, Kaizen, and Six Sigma practices on the shop floor",
+    "benefits": "Referral bonus program. Provident Fund and Gratuity as per company policy. International travel opportunities for senior roles. Company-sponsored certifications. Work-from-home flexibility. Professional development and training programs",
+    "industry": "manufacturing",
+    "occupationalCategory": "Process Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Referral bonus program, Provident Fund and Gratuity as per company policy, International travel opportunities for senior roles, Company-sponsored certifications, Work-from-home flexibility, Professional development and training programs"
+  },
+  "meta": {
+    "description": "We at Hitachi India are looking for an experienced Process Engineer based out of Ranchi. If you are a result-oriented professional with a passion for excellence",
+    "keywords": "Process Engineer, Hitachi India, jobs in Ranchi, Jharkhand jobs, manufacturing jobs India, PLC/SCADA, Project Management, Root Cause Analysis, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:58:53.988Z",
+  "page": 112
+}
