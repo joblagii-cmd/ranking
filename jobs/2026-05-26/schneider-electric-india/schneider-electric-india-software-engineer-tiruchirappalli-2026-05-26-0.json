@@ -1,0 +1,93 @@
+{
+  "slug": "schneider-electric-india-software-engineer-tiruchirappalli-2026-05-26-0",
+  "title": "Immediate Requirement Software Engineer at Schneider Electric India",
+  "company": "Schneider Electric India",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "JavaScript",
+    "Git",
+    "MongoDB",
+    "SQL",
+    "Machine Learning",
+    "TensorFlow",
+    "Microservices",
+    "Python"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Immediate Requirement Software Engineer at Schneider Electric India",
+    "description": "An exciting career opportunity awaits you at Schneider Electric India. We are on the lookout for a dedicated Software Engineer to strengthen our Tiruchirappalli-based team.\n\nAbout Schneider Electric India:\nSchneider Electric India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Collaborate with cross-functional teams including product, design, and QA\n• Optimize application performance and ensure high availability\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Participate in code reviews and contribute to technical discussions\n• Implement new features based on product requirements\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 12-20 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Git\n• Proficiency in MongoDB\n• Proficiency in SQL\n• Proficiency in Machine Learning\n• Proficiency in TensorFlow\n• Proficiency in Microservices\n• Proficiency in Python\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Work-from-home flexibility\n• Professional development and training programs\n• International travel opportunities for senior roles\n• Provident Fund and Gratuity as per company policy\n• Transportation and conveyance allowance\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Tiruchirappalli, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Schneider Electric India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Schneider Electric India",
+      "value": "60-0-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Schneider Electric India",
+      "sameAs": "https://www.google.com/search?q=Schneider%20Electric%20India",
+      "logo": "https://logo.clearbit.com/schneiderelectricindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Schneider Electric India Office",
+        "addressLocality": "Tiruchirappalli",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "JavaScript, Git, MongoDB, SQL, Machine Learning, TensorFlow, Microservices, Python",
+    "responsibilities": "Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Troubleshoot, debug, and resolve software defects and performance issues. Collaborate with cross-functional teams including product, design, and QA. Optimize application performance and ensure high availability. Mentor junior developers and conduct knowledge-sharing sessions. Participate in code reviews and contribute to technical discussions. Implement new features based on product requirements",
+    "benefits": "Competitive salary with performance-linked incentives. Work-from-home flexibility. Professional development and training programs. International travel opportunities for senior roles. Provident Fund and Gratuity as per company policy. Transportation and conveyance allowance",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Work-from-home flexibility, Professional development and training programs, International travel opportunities for senior roles, Provident Fund and Gratuity as per company policy, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Schneider Electric India. We are on the lookout for a dedicated Software Engineer to strengthen our Tiruchirappalli",
+    "keywords": "Software Engineer, Schneider Electric India, jobs in Tiruchirappalli, Tamil Nadu jobs, technology jobs India, JavaScript, Git, MongoDB, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:46:24.448Z",
+  "page": 14
+}

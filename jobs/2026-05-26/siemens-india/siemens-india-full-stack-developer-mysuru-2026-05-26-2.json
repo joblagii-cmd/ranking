@@ -1,0 +1,93 @@
+{
+  "slug": "siemens-india-full-stack-developer-mysuru-2026-05-26-2",
+  "title": "Siemens India is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "Siemens India",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "CI/CD",
+    "Git",
+    "TensorFlow",
+    "Kubernetes",
+    "Agile/Scrum",
+    "SQL",
+    "Python",
+    "MongoDB"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Siemens India is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "An exciting career opportunity awaits you at Siemens India. We are on the lookout for a dedicated Full Stack Developer to strengthen our Mysuru-based team.\n\nAbout Siemens India:\nSiemens India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write and execute unit tests and integration tests\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Participate in on-call rotation for production support\n• Participate in code reviews and contribute to technical discussions\n• Write clean, maintainable, and well-documented code\n• Implement new features based on product requirements\n• Collaborate with cross-functional teams including product, design, and QA\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 1-3 years of relevant experience\n• Proficiency in CI/CD\n• Proficiency in Git\n• Proficiency in TensorFlow\n• Proficiency in Kubernetes\n• Proficiency in Agile/Scrum\n• Proficiency in SQL\n• Proficiency in Python\n• Proficiency in MongoDB\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Professional development and training programs\n• International travel opportunities for senior roles\n• Annual paid leaves and casual leaves\n• Maternity and paternity leave\n• Company-sponsored certifications\n• Modern office with recreational facilities\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Mysuru, Karnataka, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Siemens India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Siemens India",
+      "value": "57-2-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Siemens India",
+      "sameAs": "https://www.google.com/search?q=Siemens%20India",
+      "logo": "https://logo.clearbit.com/siemensindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Siemens India Office",
+        "addressLocality": "Mysuru",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "CI/CD, Git, TensorFlow, Kubernetes, Agile/Scrum, SQL, Python, MongoDB",
+    "responsibilities": "Write and execute unit tests and integration tests. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Participate in on-call rotation for production support. Participate in code reviews and contribute to technical discussions. Write clean, maintainable, and well-documented code. Implement new features based on product requirements. Collaborate with cross-functional teams including product, design, and QA",
+    "benefits": "Professional development and training programs. International travel opportunities for senior roles. Annual paid leaves and casual leaves. Maternity and paternity leave. Company-sponsored certifications. Modern office with recreational facilities",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, International travel opportunities for senior roles, Annual paid leaves and casual leaves, Maternity and paternity leave, Company-sponsored certifications, Modern office with recreational facilities"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Siemens India. We are on the lookout for a dedicated Full Stack Developer to strengthen our Mysuru-based team.",
+    "keywords": "Full Stack Developer, Siemens India, jobs in Mysuru, Karnataka jobs, technology jobs India, CI/CD, Git, TensorFlow, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:46:24.447Z",
+  "page": 14
+}

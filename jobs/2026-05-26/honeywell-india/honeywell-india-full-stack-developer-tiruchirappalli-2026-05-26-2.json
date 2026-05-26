@@ -1,0 +1,93 @@
+{
+  "slug": "honeywell-india-full-stack-developer-tiruchirappalli-2026-05-26-2",
+  "title": "Honeywell India is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "Honeywell India",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Kubernetes",
+    "JavaScript",
+    "Python",
+    "TensorFlow",
+    "Git",
+    "Docker",
+    "REST APIs",
+    "Agile/Scrum"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Honeywell India is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "An exciting career opportunity awaits you at Honeywell India. We are on the lookout for a dedicated Full Stack Developer to strengthen our Tiruchirappalli-based team.\n\nAbout Honeywell India:\nHoneywell India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write clean, maintainable, and well-documented code\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Contribute to system architecture and technical design decisions\n• Participate in on-call rotation for production support\n• Integrate third-party APIs and services\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Mentor junior developers and conduct knowledge-sharing sessions\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 10-15 years of relevant experience\n• Proficiency in Kubernetes\n• Proficiency in JavaScript\n• Proficiency in Python\n• Proficiency in TensorFlow\n• Proficiency in Git\n• Proficiency in Docker\n• Proficiency in REST APIs\n• Proficiency in Agile/Scrum\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Competitive salary with performance-linked incentives\n• Flexible working hours\n• Referral bonus program\n• Work-from-home flexibility\n• Recognition and rewards programs\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Tiruchirappalli, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Honeywell India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Honeywell India",
+      "value": "59-2-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Honeywell India",
+      "sameAs": "https://www.google.com/search?q=Honeywell%20India",
+      "logo": "https://logo.clearbit.com/honeywellindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Honeywell India Office",
+        "addressLocality": "Tiruchirappalli",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "Kubernetes, JavaScript, Python, TensorFlow, Git, Docker, REST APIs, Agile/Scrum",
+    "responsibilities": "Write clean, maintainable, and well-documented code. Troubleshoot, debug, and resolve software defects and performance issues. Contribute to system architecture and technical design decisions. Participate in on-call rotation for production support. Integrate third-party APIs and services. Work with agile methodologies including daily stand-ups and sprint planning. Mentor junior developers and conduct knowledge-sharing sessions",
+    "benefits": "International travel opportunities for senior roles. Competitive salary with performance-linked incentives. Flexible working hours. Referral bonus program. Work-from-home flexibility. Recognition and rewards programs",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Competitive salary with performance-linked incentives, Flexible working hours, Referral bonus program, Work-from-home flexibility, Recognition and rewards programs"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Honeywell India. We are on the lookout for a dedicated Full Stack Developer to strengthen our Tiruchirappalli-based",
+    "keywords": "Full Stack Developer, Honeywell India, jobs in Tiruchirappalli, Tamil Nadu jobs, technology jobs India, Kubernetes, JavaScript, Python, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:46:24.448Z",
+  "page": 14
+}
