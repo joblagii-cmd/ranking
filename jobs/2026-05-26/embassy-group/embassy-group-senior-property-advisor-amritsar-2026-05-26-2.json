@@ -1,0 +1,93 @@
+{
+  "slug": "embassy-group-senior-property-advisor-amritsar-2026-05-26-2",
+  "title": "Embassy Group is Hiring: Senior Property Advisor (Entry-Level)",
+  "company": "Embassy Group",
+  "industry": "realestate",
+  "role": "Senior Property Advisor",
+  "location": {
+    "city": "Amritsar",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Sales Techniques",
+    "Market Research",
+    "Contract Management",
+    "Portfolio Management",
+    "Property Management",
+    "Financial Modeling",
+    "GIS Tools",
+    "Real Estate Law"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Embassy Group is Hiring: Senior Property Advisor (Entry-Level)",
+    "description": "Embassy Group has an exciting opening for a Senior Property Advisor at our Amritsar office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Embassy Group:\nEmbassy Group is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with legal teams for documentation and title verification\n• Coordinate with architects, contractors, and project teams\n• Source and close property deals with prospective buyers and investors\n• Maintain a pipeline of qualified leads using CRM software\n• Manage RERA documentation and compliance requirements\n• Manage relationships with existing customers post-purchase\n• Conduct market research and provide competitive analysis\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 12-20 years of relevant experience\n• Proficiency in Sales Techniques\n• Proficiency in Market Research\n• Proficiency in Contract Management\n• Proficiency in Portfolio Management\n• Proficiency in Property Management\n• Proficiency in Financial Modeling\n• Proficiency in GIS Tools\n• Proficiency in Real Estate Law\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Mobile and internet reimbursement\n• Life and accident insurance\n• Company-sponsored certifications\n• Meal coupons and food allowance\n• Competitive salary with performance-linked incentives\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Amritsar, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Embassy Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Embassy Group",
+      "value": "696-2-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Embassy Group",
+      "sameAs": "https://www.google.com/search?q=Embassy%20Group",
+      "logo": "https://logo.clearbit.com/embassygroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Embassy Group Office",
+        "addressLocality": "Amritsar",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "Sales Techniques, Market Research, Contract Management, Portfolio Management, Property Management, Financial Modeling, GIS Tools, Real Estate Law",
+    "responsibilities": "Coordinate with legal teams for documentation and title verification. Coordinate with architects, contractors, and project teams. Source and close property deals with prospective buyers and investors. Maintain a pipeline of qualified leads using CRM software. Manage RERA documentation and compliance requirements. Manage relationships with existing customers post-purchase. Conduct market research and provide competitive analysis",
+    "benefits": "Transportation and conveyance allowance. Mobile and internet reimbursement. Life and accident insurance. Company-sponsored certifications. Meal coupons and food allowance. Competitive salary with performance-linked incentives",
+    "industry": "realestate",
+    "occupationalCategory": "Senior Property Advisor",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Mobile and internet reimbursement, Life and accident insurance, Company-sponsored certifications, Meal coupons and food allowance, Competitive salary with performance-linked incentives"
+  },
+  "meta": {
+    "description": "Embassy Group has an exciting opening for a Senior Property Advisor at our Amritsar office. Join a company that values innovation, collaboration, and continuous",
+    "keywords": "Senior Property Advisor, Embassy Group, jobs in Amritsar, Punjab jobs, realestate jobs India, Sales Techniques, Market Research, Contract Management, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T04:07:19.607Z",
+  "page": 173
+}
