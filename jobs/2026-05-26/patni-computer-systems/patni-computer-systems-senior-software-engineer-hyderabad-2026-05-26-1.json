@@ -1,0 +1,94 @@
+{
+  "slug": "patni-computer-systems-senior-software-engineer-hyderabad-2026-05-26-1",
+  "title": "Senior Software Engineer - Patni Computer Systems - Experienced Professionals",
+  "company": "Patni Computer Systems",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "JavaScript",
+    "Microservices",
+    "Python",
+    "Git",
+    "Rust",
+    "Node.js",
+    "Kubernetes",
+    "Docker"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Patni Computer Systems - Experienced Professionals",
+    "description": "An exciting career opportunity awaits you at Patni Computer Systems. We are on the lookout for a dedicated Senior Software Engineer to strengthen our Hyderabad-based team.\n\nAbout Patni Computer Systems:\nPatni Computer Systems is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Design, develop and maintain scalable software applications\n• Participate in code reviews and contribute to technical discussions\n• Implement new features based on product requirements\n• Integrate third-party APIs and services\n• Write clean, maintainable, and well-documented code\n• Collaborate with cross-functional teams including product, design, and QA\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 1-3 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Microservices\n• Proficiency in Python\n• Proficiency in Git\n• Proficiency in Rust\n• Proficiency in Node.js\n• Proficiency in Kubernetes\n• Proficiency in Docker\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Work-from-home flexibility\n• Modern office with recreational facilities\n• Maternity and paternity leave\n• International travel opportunities for senior roles\n• Annual performance appraisal\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Hyderabad, Telangana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Patni Computer Systems!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Patni Computer Systems",
+      "value": "68-1-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Patni Computer Systems",
+      "sameAs": "https://www.google.com/search?q=Patni%20Computer%20Systems",
+      "logo": "https://logo.clearbit.com/patnicomputersystems.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Patni Computer Systems Office",
+        "addressLocality": "Hyderabad",
+        "addressRegion": "Telangana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "JavaScript, Microservices, Python, Git, Rust, Node.js, Kubernetes, Docker",
+    "responsibilities": "Troubleshoot, debug, and resolve software defects and performance issues. Design, develop and maintain scalable software applications. Participate in code reviews and contribute to technical discussions. Implement new features based on product requirements. Integrate third-party APIs and services. Write clean, maintainable, and well-documented code. Collaborate with cross-functional teams including product, design, and QA",
+    "benefits": "Competitive salary with performance-linked incentives. Work-from-home flexibility. Modern office with recreational facilities. Maternity and paternity leave. International travel opportunities for senior roles. Annual performance appraisal",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Work-from-home flexibility, Modern office with recreational facilities, Maternity and paternity leave, International travel opportunities for senior roles, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Patni Computer Systems. We are on the lookout for a dedicated Senior Software Engineer to strengthen our Hyderabad-",
+    "keywords": "Senior Software Engineer, Patni Computer Systems, jobs in Hyderabad, Telangana jobs, technology jobs India, JavaScript, Microservices, Python, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:46:39.871Z",
+  "page": 16
+}

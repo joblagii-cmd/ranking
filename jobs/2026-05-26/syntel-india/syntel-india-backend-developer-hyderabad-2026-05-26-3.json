@@ -1,0 +1,94 @@
+{
+  "slug": "syntel-india-backend-developer-hyderabad-2026-05-26-3",
+  "title": "Backend Developer Vacancy at Syntel India - 2026 Batch",
+  "company": "Syntel India",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Microservices",
+    "TypeScript",
+    "TensorFlow",
+    "REST APIs",
+    "MongoDB",
+    "SQL",
+    "CI/CD",
+    "Git"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Syntel India - 2026 Batch",
+    "description": "An exciting career opportunity awaits you at Syntel India. We are on the lookout for a dedicated Backend Developer to strengthen our Hyderabad-based team.\n\nAbout Syntel India:\nSyntel India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write and execute unit tests and integration tests\n• Integrate third-party APIs and services\n• Collaborate with cross-functional teams including product, design, and QA\n• Implement new features based on product requirements\n• Write clean, maintainable, and well-documented code\n• Design, develop and maintain scalable software applications\n• Mentor junior developers and conduct knowledge-sharing sessions\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 1-3 years of relevant experience\n• Proficiency in Microservices\n• Proficiency in TypeScript\n• Proficiency in TensorFlow\n• Proficiency in REST APIs\n• Proficiency in MongoDB\n• Proficiency in SQL\n• Proficiency in CI/CD\n• Proficiency in Git\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Meal coupons and food allowance\n• Professional development and training programs\n• Company-sponsored certifications\n• Learning & development budget\n• Comprehensive health insurance for self and family\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Hyderabad, Telangana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Syntel India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Syntel India",
+      "value": "66-3-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Syntel India",
+      "sameAs": "https://www.google.com/search?q=Syntel%20India",
+      "logo": "https://logo.clearbit.com/syntelindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Syntel India Office",
+        "addressLocality": "Hyderabad",
+        "addressRegion": "Telangana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "Microservices, TypeScript, TensorFlow, REST APIs, MongoDB, SQL, CI/CD, Git",
+    "responsibilities": "Write and execute unit tests and integration tests. Integrate third-party APIs and services. Collaborate with cross-functional teams including product, design, and QA. Implement new features based on product requirements. Write clean, maintainable, and well-documented code. Design, develop and maintain scalable software applications. Mentor junior developers and conduct knowledge-sharing sessions",
+    "benefits": "Transportation and conveyance allowance. Meal coupons and food allowance. Professional development and training programs. Company-sponsored certifications. Learning & development budget. Comprehensive health insurance for self and family",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Meal coupons and food allowance, Professional development and training programs, Company-sponsored certifications, Learning & development budget, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Syntel India. We are on the lookout for a dedicated Backend Developer to strengthen our Hyderabad-based team.",
+    "keywords": "Backend Developer, Syntel India, jobs in Hyderabad, Telangana jobs, technology jobs India, Microservices, TypeScript, TensorFlow, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:46:39.871Z",
+  "page": 16
+}
