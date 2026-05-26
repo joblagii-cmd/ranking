@@ -1,0 +1,93 @@
+{
+  "slug": "evok-floor-manager-ghaziabad-2026-05-26-2",
+  "title": "Evok is Hiring: Floor Manager (Entry-Level)",
+  "company": "Evok",
+  "industry": "retail",
+  "role": "Floor Manager",
+  "location": {
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "MS Excel",
+    "Planogram",
+    "Retail Analytics",
+    "Retail Operations",
+    "SAP Retail",
+    "Visual Merchandising",
+    "KPI Management",
+    "Team Leadership"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Evok is Hiring: Floor Manager (Entry-Level)",
+    "description": "We at Evok are looking for an experienced Floor Manager based out of Ghaziabad. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout Evok:\nEvok is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Assist in recruiting, onboarding, and performance management of staff\n• Build relationships with regular customers to drive loyalty\n• Coordinate with the supply chain team for timely stock delivery\n• Ensure compliance with company policies and retail regulations\n• Achieve sales targets and improve store performance metrics\n• Train and motivate the sales team to deliver excellent service\n• Maintain high standards of store hygiene and cleanliness\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 1-3 years of relevant experience\n• Proficiency in MS Excel\n• Proficiency in Planogram\n• Proficiency in Retail Analytics\n• Proficiency in Retail Operations\n• Proficiency in SAP Retail\n• Proficiency in Visual Merchandising\n• Proficiency in KPI Management\n• Proficiency in Team Leadership\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• International travel opportunities for senior roles\n• Annual performance appraisal\n• Work-from-home flexibility\n• Life and accident insurance\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Ghaziabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Evok!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Evok",
+      "value": "678-2-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Evok",
+      "sameAs": "https://www.google.com/search?q=Evok",
+      "logo": "https://logo.clearbit.com/evok.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Evok Office",
+        "addressLocality": "Ghaziabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "MS Excel, Planogram, Retail Analytics, Retail Operations, SAP Retail, Visual Merchandising, KPI Management, Team Leadership",
+    "responsibilities": "Assist in recruiting, onboarding, and performance management of staff. Build relationships with regular customers to drive loyalty. Coordinate with the supply chain team for timely stock delivery. Ensure compliance with company policies and retail regulations. Achieve sales targets and improve store performance metrics. Train and motivate the sales team to deliver excellent service. Maintain high standards of store hygiene and cleanliness",
+    "benefits": "Comprehensive health insurance for self and family. International travel opportunities for senior roles. Annual performance appraisal. Work-from-home flexibility. Life and accident insurance. Provident Fund and Gratuity as per company policy",
+    "industry": "retail",
+    "occupationalCategory": "Floor Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, International travel opportunities for senior roles, Annual performance appraisal, Work-from-home flexibility, Life and accident insurance, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "We at Evok are looking for an experienced Floor Manager based out of Ghaziabad. If you are a result-oriented professional with a passion for excellence, we want",
+    "keywords": "Floor Manager, Evok, jobs in Ghaziabad, Uttar Pradesh jobs, retail jobs India, MS Excel, Planogram, Retail Analytics, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T04:06:45.633Z",
+  "page": 169
+}
