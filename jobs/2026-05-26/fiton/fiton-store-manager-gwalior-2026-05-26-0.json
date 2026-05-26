@@ -1,0 +1,93 @@
+{
+  "slug": "fiton-store-manager-gwalior-2026-05-26-0",
+  "title": "Now Hiring Store Manager at FitOn",
+  "company": "FitOn",
+  "industry": "retail",
+  "role": "Store Manager",
+  "location": {
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Visual Merchandising",
+    "POS Systems",
+    "SAP Retail",
+    "Planogram",
+    "Inventory Management",
+    "MS Excel",
+    "Omnichannel Retail",
+    "Shrinkage Control"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Now Hiring Store Manager at FitOn",
+    "description": "If you're a passionate Store Manager with drive and ambition, FitOn in Gwalior is the place for you. We're growing fast and need talented people to grow with us.\n\nAbout FitOn:\nFitOn is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Train and motivate the sales team to deliver excellent service\n• Manage shrinkage and reduce stock discrepancies\n• Maintain high standards of store hygiene and cleanliness\n• Build relationships with regular customers to drive loyalty\n• Conduct regular stock audits and prevent pilferage\n• Manage store operations to ensure smooth daily functioning\n• Handle customer queries, complaints, and escalations effectively\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 6-10 years of relevant experience\n• Proficiency in Visual Merchandising\n• Proficiency in POS Systems\n• Proficiency in SAP Retail\n• Proficiency in Planogram\n• Proficiency in Inventory Management\n• Proficiency in MS Excel\n• Proficiency in Omnichannel Retail\n• Proficiency in Shrinkage Control\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Life and accident insurance\n• Company-sponsored certifications\n• Employee stock options (ESOPs) for eligible roles\n• Transportation and conveyance allowance\n• Competitive salary with performance-linked incentives\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Gwalior, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with FitOn!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "FitOn",
+      "value": "625-0-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "FitOn",
+      "sameAs": "https://www.google.com/search?q=FitOn",
+      "logo": "https://logo.clearbit.com/fiton.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "FitOn Office",
+        "addressLocality": "Gwalior",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Visual Merchandising, POS Systems, SAP Retail, Planogram, Inventory Management, MS Excel, Omnichannel Retail, Shrinkage Control",
+    "responsibilities": "Train and motivate the sales team to deliver excellent service. Manage shrinkage and reduce stock discrepancies. Maintain high standards of store hygiene and cleanliness. Build relationships with regular customers to drive loyalty. Conduct regular stock audits and prevent pilferage. Manage store operations to ensure smooth daily functioning. Handle customer queries, complaints, and escalations effectively",
+    "benefits": "Work-from-home flexibility. Life and accident insurance. Company-sponsored certifications. Employee stock options (ESOPs) for eligible roles. Transportation and conveyance allowance. Competitive salary with performance-linked incentives",
+    "industry": "retail",
+    "occupationalCategory": "Store Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Life and accident insurance, Company-sponsored certifications, Employee stock options (ESOPs) for eligible roles, Transportation and conveyance allowance, Competitive salary with performance-linked incentives"
+  },
+  "meta": {
+    "description": "If you're a passionate Store Manager with drive and ambition, FitOn in Gwalior is the place for you. We're growing fast and need talented people to grow with us",
+    "keywords": "Store Manager, FitOn, jobs in Gwalior, Madhya Pradesh jobs, retail jobs India, Visual Merchandising, POS Systems, SAP Retail, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T04:04:55.559Z",
+  "page": 156
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "croma-department-manager-vijayawada-2026-05-26-3",
+  "title": "Department Manager Vacancy at Croma - 2026 Batch",
+  "company": "Croma",
+  "industry": "retail",
+  "role": "Department Manager",
+  "location": {
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "CRM",
+    "POS Systems",
+    "Sales Techniques",
+    "SAP Retail",
+    "Shrinkage Control",
+    "Retail Operations",
+    "Visual Merchandising",
+    "Team Leadership"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Department Manager Vacancy at Croma - 2026 Batch",
+    "description": "If you're a passionate Department Manager with drive and ambition, Croma in Vijayawada is the place for you. We're growing fast and need talented people to grow with us.\n\nAbout Croma:\nCroma is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Manage store operations to ensure smooth daily functioning\n• Conduct regular stock audits and prevent pilferage\n• Maintain high standards of store hygiene and cleanliness\n• Coordinate with the supply chain team for timely stock delivery\n• Achieve sales targets and improve store performance metrics\n• Train and motivate the sales team to deliver excellent service\n• Handle customer queries, complaints, and escalations effectively\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 12-20 years of relevant experience\n• Proficiency in CRM\n• Proficiency in POS Systems\n• Proficiency in Sales Techniques\n• Proficiency in SAP Retail\n• Proficiency in Shrinkage Control\n• Proficiency in Retail Operations\n• Proficiency in Visual Merchandising\n• Proficiency in Team Leadership\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• Flexible working hours\n• Learning & development budget\n• Referral bonus program\n• Company-sponsored certifications\n• Meal coupons and food allowance\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Vijayawada, Andhra Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Croma!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Croma",
+      "value": "626-3-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Croma",
+      "sameAs": "https://www.google.com/search?q=Croma",
+      "logo": "https://logo.clearbit.com/croma.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Croma Office",
+        "addressLocality": "Vijayawada",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "CRM, POS Systems, Sales Techniques, SAP Retail, Shrinkage Control, Retail Operations, Visual Merchandising, Team Leadership",
+    "responsibilities": "Manage store operations to ensure smooth daily functioning. Conduct regular stock audits and prevent pilferage. Maintain high standards of store hygiene and cleanliness. Coordinate with the supply chain team for timely stock delivery. Achieve sales targets and improve store performance metrics. Train and motivate the sales team to deliver excellent service. Handle customer queries, complaints, and escalations effectively",
+    "benefits": "Comprehensive health insurance for self and family. Flexible working hours. Learning & development budget. Referral bonus program. Company-sponsored certifications. Meal coupons and food allowance",
+    "industry": "retail",
+    "occupationalCategory": "Department Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, Flexible working hours, Learning & development budget, Referral bonus program, Company-sponsored certifications, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "If you're a passionate Department Manager with drive and ambition, Croma in Vijayawada is the place for you. We're growing fast and need talented people to grow",
+    "keywords": "Department Manager, Croma, jobs in Vijayawada, Andhra Pradesh jobs, retail jobs India, CRM, POS Systems, Sales Techniques, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T04:04:55.559Z",
+  "page": 156
+}
