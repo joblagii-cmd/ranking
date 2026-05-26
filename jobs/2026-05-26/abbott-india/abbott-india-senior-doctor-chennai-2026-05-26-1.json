@@ -1,0 +1,94 @@
+{
+  "slug": "abbott-india-senior-doctor-chennai-2026-05-26-1",
+  "title": "Senior Doctor - Abbott India - Work From Home Available",
+  "company": "Abbott India",
+  "industry": "healthcare",
+  "role": "Senior Doctor",
+  "location": {
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Surgical Procedures",
+    "HIPAA Compliance",
+    "Medical Coding",
+    "Medical Terminology",
+    "ICU Management",
+    "Health Informatics",
+    "CPT Codes",
+    "EMR/EHR"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Doctor - Abbott India - Work From Home Available",
+    "description": "Abbott India has an exciting opening for a Senior Doctor at our Chennai office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Abbott India:\nAbbott India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Educate patients and families on health management and disease prevention\n• Maintain accurate clinical documentation in electronic health records\n• Administer medications and treatments as prescribed\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Monitor patient progress and adjust treatment plans accordingly\n• Attend continuing medical education programs and training\n• Maintain sterile environments and follow infection control protocols\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 12-20 years of relevant experience\n• Proficiency in Surgical Procedures\n• Proficiency in HIPAA Compliance\n• Proficiency in Medical Coding\n• Proficiency in Medical Terminology\n• Proficiency in ICU Management\n• Proficiency in Health Informatics\n• Proficiency in CPT Codes\n• Proficiency in EMR/EHR\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Maternity and paternity leave\n• Provident Fund and Gratuity as per company policy\n• Company-sponsored certifications\n• Comprehensive health insurance for self and family\n• Annual performance appraisal\n• Referral bonus program\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Chennai, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Abbott India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Abbott India",
+      "value": "235-1-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Abbott India",
+      "sameAs": "https://www.google.com/search?q=Abbott%20India",
+      "logo": "https://logo.clearbit.com/abbottindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Abbott India Office",
+        "addressLocality": "Chennai",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "Surgical Procedures, HIPAA Compliance, Medical Coding, Medical Terminology, ICU Management, Health Informatics, CPT Codes, EMR/EHR",
+    "responsibilities": "Educate patients and families on health management and disease prevention. Maintain accurate clinical documentation in electronic health records. Administer medications and treatments as prescribed. Coordinate with multidisciplinary teams for comprehensive patient management. Monitor patient progress and adjust treatment plans accordingly. Attend continuing medical education programs and training. Maintain sterile environments and follow infection control protocols",
+    "benefits": "Maternity and paternity leave. Provident Fund and Gratuity as per company policy. Company-sponsored certifications. Comprehensive health insurance for self and family. Annual performance appraisal. Referral bonus program",
+    "industry": "healthcare",
+    "occupationalCategory": "Senior Doctor",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Maternity and paternity leave, Provident Fund and Gratuity as per company policy, Company-sponsored certifications, Comprehensive health insurance for self and family, Annual performance appraisal, Referral bonus program"
+  },
+  "meta": {
+    "description": "Abbott India has an exciting opening for a Senior Doctor at our Chennai office. Join a company that values innovation, collaboration, and continuous learning.",
+    "keywords": "Senior Doctor, Abbott India, jobs in Chennai, Tamil Nadu jobs, healthcare jobs India, Surgical Procedures, HIPAA Compliance, Medical Coding, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:52:02.534Z",
+  "page": 58
+}
