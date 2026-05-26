@@ -1,0 +1,94 @@
+{
+  "slug": "mbd-group-senior-teacher-surat-2026-05-26-1",
+  "title": "Senior Teacher - MBD Group - Work From Home Available",
+  "company": "MBD Group",
+  "industry": "education",
+  "role": "Senior Teacher",
+  "location": {
+    "city": "Surat",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Student Assessment",
+    "Content Creation",
+    "Communication Skills",
+    "Child Psychology",
+    "Bloom's Taxonomy",
+    "Data Analysis",
+    "Classroom Management",
+    "Pedagogy"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Teacher - MBD Group - Work From Home Available",
+    "description": "MBD Group invites applications from qualified candidates for the position of Senior Teacher at our Surat location. This role offers excellent career advancement prospects.\n\nAbout MBD Group:\nMBD Group is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with faculty on curriculum development initiatives\n• Contribute to school newsletter, blogs, and other publications\n• Conduct parent-teacher meetings and update parents on student performance\n• Support students with special educational needs\n• Utilize technology and digital tools to enhance learning outcomes\n• Develop and deliver engaging lesson plans for students\n• Create curriculum-aligned learning materials and assessments\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 6-10 years of relevant experience\n• Proficiency in Student Assessment\n• Proficiency in Content Creation\n• Proficiency in Communication Skills\n• Proficiency in Child Psychology\n• Proficiency in Bloom's Taxonomy\n• Proficiency in Data Analysis\n• Proficiency in Classroom Management\n• Proficiency in Pedagogy\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Work-from-home flexibility\n• Recognition and rewards programs\n• Comprehensive health insurance for self and family\n• Company-sponsored certifications\n• Annual paid leaves and casual leaves\n• Flexible working hours\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Surat, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with MBD Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "MBD Group",
+      "value": "577-1-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "MBD Group",
+      "sameAs": "https://www.google.com/search?q=MBD%20Group",
+      "logo": "https://logo.clearbit.com/mbdgroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "MBD Group Office",
+        "addressLocality": "Surat",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "Student Assessment, Content Creation, Communication Skills, Child Psychology, Bloom's Taxonomy, Data Analysis, Classroom Management, Pedagogy",
+    "responsibilities": "Collaborate with faculty on curriculum development initiatives. Contribute to school newsletter, blogs, and other publications. Conduct parent-teacher meetings and update parents on student performance. Support students with special educational needs. Utilize technology and digital tools to enhance learning outcomes. Develop and deliver engaging lesson plans for students. Create curriculum-aligned learning materials and assessments",
+    "benefits": "Work-from-home flexibility. Recognition and rewards programs. Comprehensive health insurance for self and family. Company-sponsored certifications. Annual paid leaves and casual leaves. Flexible working hours",
+    "industry": "education",
+    "occupationalCategory": "Senior Teacher",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Recognition and rewards programs, Comprehensive health insurance for self and family, Company-sponsored certifications, Annual paid leaves and casual leaves, Flexible working hours"
+  },
+  "meta": {
+    "description": "MBD Group invites applications from qualified candidates for the position of Senior Teacher at our Surat location. This role offers excellent career advancement",
+    "keywords": "Senior Teacher, MBD Group, jobs in Surat, Gujarat jobs, education jobs India, Student Assessment, Content Creation, Communication Skills, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T04:03:20.755Z",
+  "page": 144
+}
