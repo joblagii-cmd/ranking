@@ -1,0 +1,93 @@
+{
+  "slug": "farmerp-full-stack-developer-aurangabad-2026-05-26-2",
+  "title": "FarmERP is Hiring: Full Stack Developer (Senior)",
+  "company": "FarmERP",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Aurangabad",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Python",
+    "AWS",
+    "Machine Learning",
+    "REST APIs",
+    "TensorFlow",
+    "SQL",
+    "Agile/Scrum",
+    "Git"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "FarmERP is Hiring: Full Stack Developer (Senior)",
+    "description": "FarmERP invites applications from qualified candidates for the position of Full Stack Developer at our Aurangabad location. This role offers excellent career advancement prospects.\n\nAbout FarmERP:\nFarmERP is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write clean, maintainable, and well-documented code\n• Contribute to system architecture and technical design decisions\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Optimize application performance and ensure high availability\n• Design, develop and maintain scalable software applications\n• Participate in code reviews and contribute to technical discussions\n• Participate in on-call rotation for production support\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 1-3 years of relevant experience\n• Proficiency in Python\n• Proficiency in AWS\n• Proficiency in Machine Learning\n• Proficiency in REST APIs\n• Proficiency in TensorFlow\n• Proficiency in SQL\n• Proficiency in Agile/Scrum\n• Proficiency in Git\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Maternity and paternity leave\n• Meal coupons and food allowance\n• Annual performance appraisal\n• Professional development and training programs\n• Annual paid leaves and casual leaves\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Aurangabad, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with FarmERP!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "FarmERP",
+      "value": "110-2-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "FarmERP",
+      "sameAs": "https://www.google.com/search?q=FarmERP",
+      "logo": "https://logo.clearbit.com/farmerp.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "FarmERP Office",
+        "addressLocality": "Aurangabad",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "Python, AWS, Machine Learning, REST APIs, TensorFlow, SQL, Agile/Scrum, Git",
+    "responsibilities": "Write clean, maintainable, and well-documented code. Contribute to system architecture and technical design decisions. Troubleshoot, debug, and resolve software defects and performance issues. Optimize application performance and ensure high availability. Design, develop and maintain scalable software applications. Participate in code reviews and contribute to technical discussions. Participate in on-call rotation for production support",
+    "benefits": "Work-from-home flexibility. Maternity and paternity leave. Meal coupons and food allowance. Annual performance appraisal. Professional development and training programs. Annual paid leaves and casual leaves",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Maternity and paternity leave, Meal coupons and food allowance, Annual performance appraisal, Professional development and training programs, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "FarmERP invites applications from qualified candidates for the position of Full Stack Developer at our Aurangabad location. This role offers excellent career ad",
+    "keywords": "Full Stack Developer, FarmERP, jobs in Aurangabad, Maharashtra jobs, technology jobs India, Python, AWS, Machine Learning, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:48:04.358Z",
+  "page": 27
+}
