@@ -1,0 +1,93 @@
+{
+  "slug": "grofers-senior-software-engineer-faridabad-2026-05-26-1",
+  "title": "Senior Software Engineer - Grofers - Top MNC",
+  "company": "Grofers",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Faridabad",
+    "state": "Haryana",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Kubernetes",
+    "REST APIs",
+    "TensorFlow",
+    "JavaScript",
+    "Git",
+    "Python",
+    "Go",
+    "Java"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Grofers - Top MNC",
+    "description": "Join the Grofers family as a Senior Software Engineer in Faridabad. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Grofers:\nGrofers is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Optimize application performance and ensure high availability\n• Design, develop and maintain scalable software applications\n• Write clean, maintainable, and well-documented code\n• Ensure code security and follow best practices for data protection\n• Integrate third-party APIs and services\n• Contribute to system architecture and technical design decisions\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 12-20 years of relevant experience\n• Proficiency in Kubernetes\n• Proficiency in REST APIs\n• Proficiency in TensorFlow\n• Proficiency in JavaScript\n• Proficiency in Git\n• Proficiency in Python\n• Proficiency in Go\n• Proficiency in Java\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Modern office with recreational facilities\n• Professional development and training programs\n• Referral bonus program\n• Work-from-home flexibility\n• Company-sponsored certifications\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Faridabad, Haryana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Grofers!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Grofers",
+      "value": "102-1-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Grofers",
+      "sameAs": "https://www.google.com/search?q=Grofers",
+      "logo": "https://logo.clearbit.com/grofers.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Grofers Office",
+        "addressLocality": "Faridabad",
+        "addressRegion": "Haryana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "Kubernetes, REST APIs, TensorFlow, JavaScript, Git, Python, Go, Java",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Optimize application performance and ensure high availability. Design, develop and maintain scalable software applications. Write clean, maintainable, and well-documented code. Ensure code security and follow best practices for data protection. Integrate third-party APIs and services. Contribute to system architecture and technical design decisions",
+    "benefits": "Modern office with recreational facilities. Professional development and training programs. Referral bonus program. Work-from-home flexibility. Company-sponsored certifications. Employee stock options (ESOPs) for eligible roles",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Modern office with recreational facilities, Professional development and training programs, Referral bonus program, Work-from-home flexibility, Company-sponsored certifications, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "Join the Grofers family as a Senior Software Engineer in Faridabad. We believe in empowering our employees with the tools, training, and environment they need t",
+    "keywords": "Senior Software Engineer, Grofers, jobs in Faridabad, Haryana jobs, technology jobs India, Kubernetes, REST APIs, TensorFlow, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:47:49.510Z",
+  "page": 25
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "bigbasket-senior-software-engineer-nashik-2026-05-26-1",
+  "title": "Senior Software Engineer - BigBasket - Top MNC",
+  "company": "BigBasket",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Git",
+    "JavaScript",
+    "Microservices",
+    "Python",
+    "Rust",
+    "CI/CD",
+    "Java",
+    "React"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - BigBasket - Top MNC",
+    "description": "Join the BigBasket family as a Senior Software Engineer in Nashik. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout BigBasket:\nBigBasket is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Optimize application performance and ensure high availability\n• Participate in on-call rotation for production support\n• Design, develop and maintain scalable software applications\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Integrate third-party APIs and services\n• Write clean, maintainable, and well-documented code\n• Participate in code reviews and contribute to technical discussions\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 0-1 years of relevant experience\n• Proficiency in Git\n• Proficiency in JavaScript\n• Proficiency in Microservices\n• Proficiency in Python\n• Proficiency in Rust\n• Proficiency in CI/CD\n• Proficiency in Java\n• Proficiency in React\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Provident Fund and Gratuity as per company policy\n• Annual paid leaves and casual leaves\n• Company-sponsored certifications\n• Annual performance appraisal\n• Work-from-home flexibility\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Nashik, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with BigBasket!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "BigBasket",
+      "value": "101-1-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "BigBasket",
+      "sameAs": "https://www.google.com/search?q=BigBasket",
+      "logo": "https://logo.clearbit.com/bigbasket.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "BigBasket Office",
+        "addressLocality": "Nashik",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "Git, JavaScript, Microservices, Python, Rust, CI/CD, Java, React",
+    "responsibilities": "Optimize application performance and ensure high availability. Participate in on-call rotation for production support. Design, develop and maintain scalable software applications. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Integrate third-party APIs and services. Write clean, maintainable, and well-documented code. Participate in code reviews and contribute to technical discussions",
+    "benefits": "Competitive salary with performance-linked incentives. Provident Fund and Gratuity as per company policy. Annual paid leaves and casual leaves. Company-sponsored certifications. Annual performance appraisal. Work-from-home flexibility",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Provident Fund and Gratuity as per company policy, Annual paid leaves and casual leaves, Company-sponsored certifications, Annual performance appraisal, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "Join the BigBasket family as a Senior Software Engineer in Nashik. We believe in empowering our employees with the tools, training, and environment they need to",
+    "keywords": "Senior Software Engineer, BigBasket, jobs in Nashik, Maharashtra jobs, technology jobs India, Git, JavaScript, Microservices, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:47:49.510Z",
+  "page": 25
+}
