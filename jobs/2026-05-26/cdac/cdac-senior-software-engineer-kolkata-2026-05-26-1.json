@@ -1,0 +1,93 @@
+{
+  "slug": "cdac-senior-software-engineer-kolkata-2026-05-26-1",
+  "title": "Senior Software Engineer - CDAC - Experienced Professionals",
+  "company": "CDAC",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "React",
+    "Java",
+    "SQL",
+    "Go",
+    "Machine Learning",
+    "Rust",
+    "AWS",
+    "CI/CD"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - CDAC - Experienced Professionals",
+    "description": "An exciting career opportunity awaits you at CDAC. We are on the lookout for a dedicated Senior Software Engineer to strengthen our Kolkata-based team.\n\nAbout CDAC:\nCDAC is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Design, develop and maintain scalable software applications\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Ensure code security and follow best practices for data protection\n• Implement new features based on product requirements\n• Write clean, maintainable, and well-documented code\n• Contribute to system architecture and technical design decisions\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 10-15 years of relevant experience\n• Proficiency in React\n• Proficiency in Java\n• Proficiency in SQL\n• Proficiency in Go\n• Proficiency in Machine Learning\n• Proficiency in Rust\n• Proficiency in AWS\n• Proficiency in CI/CD\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Life and accident insurance\n• Competitive salary with performance-linked incentives\n• Flexible working hours\n• Comprehensive health insurance for self and family\n• Modern office with recreational facilities\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Kolkata, West Bengal, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with CDAC!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "CDAC",
+      "value": "71-1-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "CDAC",
+      "sameAs": "https://www.google.com/search?q=CDAC",
+      "logo": "https://logo.clearbit.com/cdac.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "CDAC Office",
+        "addressLocality": "Kolkata",
+        "addressRegion": "West Bengal",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "React, Java, SQL, Go, Machine Learning, Rust, AWS, CI/CD",
+    "responsibilities": "Work with agile methodologies including daily stand-ups and sprint planning. Design, develop and maintain scalable software applications. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Ensure code security and follow best practices for data protection. Implement new features based on product requirements. Write clean, maintainable, and well-documented code. Contribute to system architecture and technical design decisions",
+    "benefits": "Life and accident insurance. Competitive salary with performance-linked incentives. Flexible working hours. Comprehensive health insurance for self and family. Modern office with recreational facilities. Provident Fund and Gratuity as per company policy",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Competitive salary with performance-linked incentives, Flexible working hours, Comprehensive health insurance for self and family, Modern office with recreational facilities, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at CDAC. We are on the lookout for a dedicated Senior Software Engineer to strengthen our Kolkata-based team.",
+    "keywords": "Senior Software Engineer, CDAC, jobs in Kolkata, West Bengal jobs, technology jobs India, React, Java, SQL, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:46:47.751Z",
+  "page": 17
+}
