@@ -1,0 +1,93 @@
+{
+  "slug": "l-t-realty-sales-manager-aurangabad-2026-05-26-3",
+  "title": "Sales Manager Vacancy at L&T Realty - 2026 Batch",
+  "company": "L&T Realty",
+  "industry": "realestate",
+  "role": "Sales Manager",
+  "location": {
+    "city": "Aurangabad",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "AutoCAD",
+    "Title Search",
+    "Property Valuation",
+    "Real Estate Law",
+    "Project Management",
+    "Investment Analysis",
+    "Sales Techniques",
+    "Financial Modeling"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Sales Manager Vacancy at L&T Realty - 2026 Batch",
+    "description": "L&T Realty has an exciting opening for a Sales Manager at our Aurangabad office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout L&T Realty:\nL&T Realty is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Maintain a pipeline of qualified leads using CRM software\n• Build relationships with channel partners and brokers\n• Achieve monthly and quarterly sales targets\n• Source and close property deals with prospective buyers and investors\n• Coordinate with architects, contractors, and project teams\n• Liaise with banks and NBFCs for home loan assistance to customers\n• Conduct site visits and property presentations for clients\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 3-6 years of relevant experience\n• Proficiency in AutoCAD\n• Proficiency in Title Search\n• Proficiency in Property Valuation\n• Proficiency in Real Estate Law\n• Proficiency in Project Management\n• Proficiency in Investment Analysis\n• Proficiency in Sales Techniques\n• Proficiency in Financial Modeling\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Annual performance appraisal\n• Employee stock options (ESOPs) for eligible roles\n• Modern office with recreational facilities\n• Company-sponsored certifications\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Aurangabad, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with L&T Realty!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "L&T Realty",
+      "value": "692-3-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "L&T Realty",
+      "sameAs": "https://www.google.com/search?q=L%26T%20Realty",
+      "logo": "https://logo.clearbit.com/ltrealty.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "L&T Realty Office",
+        "addressLocality": "Aurangabad",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "AutoCAD, Title Search, Property Valuation, Real Estate Law, Project Management, Investment Analysis, Sales Techniques, Financial Modeling",
+    "responsibilities": "Maintain a pipeline of qualified leads using CRM software. Build relationships with channel partners and brokers. Achieve monthly and quarterly sales targets. Source and close property deals with prospective buyers and investors. Coordinate with architects, contractors, and project teams. Liaise with banks and NBFCs for home loan assistance to customers. Conduct site visits and property presentations for clients",
+    "benefits": "Annual performance appraisal. Employee stock options (ESOPs) for eligible roles. Modern office with recreational facilities. Company-sponsored certifications. Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family",
+    "industry": "realestate",
+    "occupationalCategory": "Sales Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual performance appraisal, Employee stock options (ESOPs) for eligible roles, Modern office with recreational facilities, Company-sponsored certifications, Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "L&T Realty has an exciting opening for a Sales Manager at our Aurangabad office. Join a company that values innovation, collaboration, and continuous learning.",
+    "keywords": "Sales Manager, L&T Realty, jobs in Aurangabad, Maharashtra jobs, realestate jobs India, AutoCAD, Title Search, Property Valuation, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T04:07:11.038Z",
+  "page": 172
+}
