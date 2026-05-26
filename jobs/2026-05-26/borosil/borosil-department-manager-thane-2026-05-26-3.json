@@ -1,0 +1,94 @@
+{
+  "slug": "borosil-department-manager-thane-2026-05-26-3",
+  "title": "Department Manager Vacancy at Borosil - 2026 Batch",
+  "company": "Borosil",
+  "industry": "retail",
+  "role": "Department Manager",
+  "location": {
+    "city": "Thane",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Retail Operations",
+    "SAP Retail",
+    "Planogram",
+    "Shrinkage Control",
+    "Visual Merchandising",
+    "Supply Chain",
+    "Loyalty Programs",
+    "Loss Prevention"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Department Manager Vacancy at Borosil - 2026 Batch",
+    "description": "We at Borosil are looking for an experienced Department Manager based out of Thane. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout Borosil:\nBorosil is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Handle customer queries, complaints, and escalations effectively\n• Ensure visual merchandising standards are maintained at all times\n• Manage store operations to ensure smooth daily functioning\n• Conduct regular stock audits and prevent pilferage\n• Build relationships with regular customers to drive loyalty\n• Achieve sales targets and improve store performance metrics\n• Assist in recruiting, onboarding, and performance management of staff\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 1-3 years of relevant experience\n• Proficiency in Retail Operations\n• Proficiency in SAP Retail\n• Proficiency in Planogram\n• Proficiency in Shrinkage Control\n• Proficiency in Visual Merchandising\n• Proficiency in Supply Chain\n• Proficiency in Loyalty Programs\n• Proficiency in Loss Prevention\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Work-from-home flexibility\n• Competitive salary with performance-linked incentives\n• Learning & development budget\n• International travel opportunities for senior roles\n• Annual performance appraisal\n• Mobile and internet reimbursement\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Thane, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Borosil!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Borosil",
+      "value": "667-3-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Borosil",
+      "sameAs": "https://www.google.com/search?q=Borosil",
+      "logo": "https://logo.clearbit.com/borosil.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Borosil Office",
+        "addressLocality": "Thane",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "Retail Operations, SAP Retail, Planogram, Shrinkage Control, Visual Merchandising, Supply Chain, Loyalty Programs, Loss Prevention",
+    "responsibilities": "Handle customer queries, complaints, and escalations effectively. Ensure visual merchandising standards are maintained at all times. Manage store operations to ensure smooth daily functioning. Conduct regular stock audits and prevent pilferage. Build relationships with regular customers to drive loyalty. Achieve sales targets and improve store performance metrics. Assist in recruiting, onboarding, and performance management of staff",
+    "benefits": "Work-from-home flexibility. Competitive salary with performance-linked incentives. Learning & development budget. International travel opportunities for senior roles. Annual performance appraisal. Mobile and internet reimbursement",
+    "industry": "retail",
+    "occupationalCategory": "Department Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Competitive salary with performance-linked incentives, Learning & development budget, International travel opportunities for senior roles, Annual performance appraisal, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "We at Borosil are looking for an experienced Department Manager based out of Thane. If you are a result-oriented professional with a passion for excellence, we ",
+    "keywords": "Department Manager, Borosil, jobs in Thane, Maharashtra jobs, retail jobs India, Retail Operations, SAP Retail, Planogram, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T04:06:19.180Z",
+  "page": 166
+}
