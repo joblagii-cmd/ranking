@@ -1,0 +1,93 @@
+{
+  "slug": "woodland-department-manager-coimbatore-2026-05-26-3",
+  "title": "Department Manager Vacancy at Woodland - 2026 Batch",
+  "company": "Woodland",
+  "industry": "retail",
+  "role": "Department Manager",
+  "location": {
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "E-commerce Integration",
+    "Supply Chain",
+    "Inventory Management",
+    "KPI Management",
+    "Team Leadership",
+    "Loss Prevention",
+    "POS Systems",
+    "Sales Techniques"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Department Manager Vacancy at Woodland - 2026 Batch",
+    "description": "If you're a passionate Department Manager with drive and ambition, Woodland in Coimbatore is the place for you. We're growing fast and need talented people to grow with us.\n\nAbout Woodland:\nWoodland is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Build relationships with regular customers to drive loyalty\n• Train and motivate the sales team to deliver excellent service\n• Manage store operations to ensure smooth daily functioning\n• Achieve sales targets and improve store performance metrics\n• Conduct regular stock audits and prevent pilferage\n• Ensure visual merchandising standards are maintained at all times\n• Handle customer queries, complaints, and escalations effectively\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 12-20 years of relevant experience\n• Proficiency in E-commerce Integration\n• Proficiency in Supply Chain\n• Proficiency in Inventory Management\n• Proficiency in KPI Management\n• Proficiency in Team Leadership\n• Proficiency in Loss Prevention\n• Proficiency in POS Systems\n• Proficiency in Sales Techniques\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Professional development and training programs\n• Annual paid leaves and casual leaves\n• Provident Fund and Gratuity as per company policy\n• Transportation and conveyance allowance\n• Annual performance appraisal\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Coimbatore, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Woodland!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Woodland",
+      "value": "621-3-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Woodland",
+      "sameAs": "https://www.google.com/search?q=Woodland",
+      "logo": "https://logo.clearbit.com/woodland.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Woodland Office",
+        "addressLocality": "Coimbatore",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "E-commerce Integration, Supply Chain, Inventory Management, KPI Management, Team Leadership, Loss Prevention, POS Systems, Sales Techniques",
+    "responsibilities": "Build relationships with regular customers to drive loyalty. Train and motivate the sales team to deliver excellent service. Manage store operations to ensure smooth daily functioning. Achieve sales targets and improve store performance metrics. Conduct regular stock audits and prevent pilferage. Ensure visual merchandising standards are maintained at all times. Handle customer queries, complaints, and escalations effectively",
+    "benefits": "Work-from-home flexibility. Professional development and training programs. Annual paid leaves and casual leaves. Provident Fund and Gratuity as per company policy. Transportation and conveyance allowance. Annual performance appraisal",
+    "industry": "retail",
+    "occupationalCategory": "Department Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Professional development and training programs, Annual paid leaves and casual leaves, Provident Fund and Gratuity as per company policy, Transportation and conveyance allowance, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "If you're a passionate Department Manager with drive and ambition, Woodland in Coimbatore is the place for you. We're growing fast and need talented people to g",
+    "keywords": "Department Manager, Woodland, jobs in Coimbatore, Tamil Nadu jobs, retail jobs India, E-commerce Integration, Supply Chain, Inventory Management, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T04:04:47.645Z",
+  "page": 155
+}
