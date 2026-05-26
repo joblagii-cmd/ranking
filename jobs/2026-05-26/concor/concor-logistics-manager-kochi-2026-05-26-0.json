@@ -1,0 +1,94 @@
+{
+  "slug": "concor-logistics-manager-kochi-2026-05-26-0",
+  "title": "Immediate Requirement Logistics Manager at CONCOR",
+  "company": "CONCOR",
+  "industry": "logistics",
+  "role": "Logistics Manager",
+  "location": {
+    "city": "Kochi",
+    "state": "Kerala",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "TMS",
+    "Customs Clearance",
+    "ERP Systems",
+    "KPI Monitoring",
+    "WMS",
+    "Data Analytics",
+    "3PL Management",
+    "GPS Tracking Systems"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Immediate Requirement Logistics Manager at CONCOR",
+    "description": "Join the CONCOR family as a Logistics Manager in Kochi. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout CONCOR:\nCONCOR is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with customer service teams to resolve delivery issues\n• Implement cost-saving initiatives in transportation and warehousing\n• Ensure compliance with transportation regulations and safety standards\n• Manage a fleet of vehicles and coordinate with drivers\n• Prepare MIS reports on delivery performance and SLA adherence\n• Oversee end-to-end logistics operations for timely delivery\n• Coordinate with warehousing teams for inbound and outbound operations\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 6-10 years of relevant experience\n• Proficiency in TMS\n• Proficiency in Customs Clearance\n• Proficiency in ERP Systems\n• Proficiency in KPI Monitoring\n• Proficiency in WMS\n• Proficiency in Data Analytics\n• Proficiency in 3PL Management\n• Proficiency in GPS Tracking Systems\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Learning & development budget\n• Employee stock options (ESOPs) for eligible roles\n• Provident Fund and Gratuity as per company policy\n• Work-from-home flexibility\n• Company-sponsored certifications\n• Annual paid leaves and casual leaves\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Kochi, Kerala, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with CONCOR!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "CONCOR",
+      "value": "801-0-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "CONCOR",
+      "sameAs": "https://www.google.com/search?q=CONCOR",
+      "logo": "https://logo.clearbit.com/concor.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "CONCOR Office",
+        "addressLocality": "Kochi",
+        "addressRegion": "Kerala",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "TMS, Customs Clearance, ERP Systems, KPI Monitoring, WMS, Data Analytics, 3PL Management, GPS Tracking Systems",
+    "responsibilities": "Coordinate with customer service teams to resolve delivery issues. Implement cost-saving initiatives in transportation and warehousing. Ensure compliance with transportation regulations and safety standards. Manage a fleet of vehicles and coordinate with drivers. Prepare MIS reports on delivery performance and SLA adherence. Oversee end-to-end logistics operations for timely delivery. Coordinate with warehousing teams for inbound and outbound operations",
+    "benefits": "Learning & development budget. Employee stock options (ESOPs) for eligible roles. Provident Fund and Gratuity as per company policy. Work-from-home flexibility. Company-sponsored certifications. Annual paid leaves and casual leaves",
+    "industry": "logistics",
+    "occupationalCategory": "Logistics Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Learning & development budget, Employee stock options (ESOPs) for eligible roles, Provident Fund and Gratuity as per company policy, Work-from-home flexibility, Company-sponsored certifications, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "Join the CONCOR family as a Logistics Manager in Kochi. We believe in empowering our employees with the tools, training, and environment they need to succeed.",
+    "keywords": "Logistics Manager, CONCOR, jobs in Kochi, Kerala jobs, logistics jobs India, TMS, Customs Clearance, ERP Systems, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T04:11:07.538Z",
+  "page": 200
+}
