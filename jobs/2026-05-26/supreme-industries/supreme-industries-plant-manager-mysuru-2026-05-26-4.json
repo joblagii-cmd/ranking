@@ -1,0 +1,93 @@
+{
+  "slug": "supreme-industries-plant-manager-mysuru-2026-05-26-4",
+  "title": "Senior Plant Manager at Supreme Industries",
+  "company": "Supreme Industries",
+  "industry": "manufacturing",
+  "role": "Plant Manager",
+  "location": {
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "TPM",
+    "AutoCAD",
+    "Lean Manufacturing",
+    "Kaizen",
+    "Statistical Process Control",
+    "Root Cause Analysis",
+    "PLC/SCADA",
+    "ISO 9001"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Plant Manager at Supreme Industries",
+    "description": "Supreme Industries has an exciting opening for a Plant Manager at our Mysuru office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Supreme Industries:\nSupreme Industries is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with design and engineering teams on product improvements\n• Implement 5S, Kaizen, and Six Sigma practices on the shop floor\n• Train and supervise shop floor workers and supervisors\n• Manage supplier quality audits and vendor development\n• Implement lean manufacturing and continuous improvement initiatives\n• Oversee daily production operations to meet output targets\n• Ensure compliance with safety regulations and factory acts\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 12-20 years of relevant experience\n• Proficiency in TPM\n• Proficiency in AutoCAD\n• Proficiency in Lean Manufacturing\n• Proficiency in Kaizen\n• Proficiency in Statistical Process Control\n• Proficiency in Root Cause Analysis\n• Proficiency in PLC/SCADA\n• Proficiency in ISO 9001\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Professional development and training programs\n• Recognition and rewards programs\n• Work-from-home flexibility\n• Transportation and conveyance allowance\n• Company-sponsored certifications\n• Mobile and internet reimbursement\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Mysuru, Karnataka, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Supreme Industries!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Supreme Industries",
+      "value": "471-4-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Supreme Industries",
+      "sameAs": "https://www.google.com/search?q=Supreme%20Industries",
+      "logo": "https://logo.clearbit.com/supremeindustries.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Supreme Industries Office",
+        "addressLocality": "Mysuru",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "TPM, AutoCAD, Lean Manufacturing, Kaizen, Statistical Process Control, Root Cause Analysis, PLC/SCADA, ISO 9001",
+    "responsibilities": "Coordinate with design and engineering teams on product improvements. Implement 5S, Kaizen, and Six Sigma practices on the shop floor. Train and supervise shop floor workers and supervisors. Manage supplier quality audits and vendor development. Implement lean manufacturing and continuous improvement initiatives. Oversee daily production operations to meet output targets. Ensure compliance with safety regulations and factory acts",
+    "benefits": "Professional development and training programs. Recognition and rewards programs. Work-from-home flexibility. Transportation and conveyance allowance. Company-sponsored certifications. Mobile and internet reimbursement",
+    "industry": "manufacturing",
+    "occupationalCategory": "Plant Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Recognition and rewards programs, Work-from-home flexibility, Transportation and conveyance allowance, Company-sponsored certifications, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "Supreme Industries has an exciting opening for a Plant Manager at our Mysuru office. Join a company that values innovation, collaboration, and continuous learni",
+    "keywords": "Plant Manager, Supreme Industries, jobs in Mysuru, Karnataka jobs, manufacturing jobs India, TPM, AutoCAD, Lean Manufacturing, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:59:32.118Z",
+  "page": 117
+}

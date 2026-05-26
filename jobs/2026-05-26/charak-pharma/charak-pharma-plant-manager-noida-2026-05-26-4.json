@@ -1,0 +1,94 @@
+{
+  "slug": "charak-pharma-plant-manager-noida-2026-05-26-4",
+  "title": "Senior Plant Manager at Charak Pharma",
+  "company": "Charak Pharma",
+  "industry": "manufacturing",
+  "role": "Plant Manager",
+  "location": {
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "APQP",
+    "Project Management",
+    "PPAP",
+    "Six Sigma",
+    "Lean Manufacturing",
+    "SAP MM/PP",
+    "ISO 9001",
+    "PLC/SCADA"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Plant Manager at Charak Pharma",
+    "description": "Charak Pharma has an exciting opening for a Plant Manager at our Noida office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Charak Pharma:\nCharak Pharma is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Oversee daily production operations to meet output targets\n• Coordinate with design and engineering teams on product improvements\n• Ensure product quality meets internal and customer specifications\n• Ensure environmental compliance and waste management\n• Train and supervise shop floor workers and supervisors\n• Prepare production cost analysis and efficiency reports\n• Implement lean manufacturing and continuous improvement initiatives\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 0-1 years of relevant experience\n• Proficiency in APQP\n• Proficiency in Project Management\n• Proficiency in PPAP\n• Proficiency in Six Sigma\n• Proficiency in Lean Manufacturing\n• Proficiency in SAP MM/PP\n• Proficiency in ISO 9001\n• Proficiency in PLC/SCADA\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Maternity and paternity leave\n• Referral bonus program\n• Meal coupons and food allowance\n• Company-sponsored certifications\n• Mobile and internet reimbursement\n• Work-from-home flexibility\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Noida, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Charak Pharma!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Charak Pharma",
+      "value": "470-4-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Charak Pharma",
+      "sameAs": "https://www.google.com/search?q=Charak%20Pharma",
+      "logo": "https://logo.clearbit.com/charakpharma.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Charak Pharma Office",
+        "addressLocality": "Noida",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "APQP, Project Management, PPAP, Six Sigma, Lean Manufacturing, SAP MM/PP, ISO 9001, PLC/SCADA",
+    "responsibilities": "Oversee daily production operations to meet output targets. Coordinate with design and engineering teams on product improvements. Ensure product quality meets internal and customer specifications. Ensure environmental compliance and waste management. Train and supervise shop floor workers and supervisors. Prepare production cost analysis and efficiency reports. Implement lean manufacturing and continuous improvement initiatives",
+    "benefits": "Maternity and paternity leave. Referral bonus program. Meal coupons and food allowance. Company-sponsored certifications. Mobile and internet reimbursement. Work-from-home flexibility",
+    "industry": "manufacturing",
+    "occupationalCategory": "Plant Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Maternity and paternity leave, Referral bonus program, Meal coupons and food allowance, Company-sponsored certifications, Mobile and internet reimbursement, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "Charak Pharma has an exciting opening for a Plant Manager at our Noida office. Join a company that values innovation, collaboration, and continuous learning.",
+    "keywords": "Plant Manager, Charak Pharma, jobs in Noida, Uttar Pradesh jobs, manufacturing jobs India, APQP, Project Management, PPAP, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:59:32.118Z",
+  "page": 117
+}
