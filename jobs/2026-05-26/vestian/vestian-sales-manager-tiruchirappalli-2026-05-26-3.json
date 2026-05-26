@@ -1,0 +1,93 @@
+{
+  "slug": "vestian-sales-manager-tiruchirappalli-2026-05-26-3",
+  "title": "Sales Manager Vacancy at Vestian - 2026 Batch",
+  "company": "Vestian",
+  "industry": "realestate",
+  "role": "Sales Manager",
+  "location": {
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Property Valuation",
+    "Real Estate Law",
+    "Portfolio Management",
+    "Property Management",
+    "Contract Management",
+    "GIS Tools",
+    "Due Diligence",
+    "Market Research"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Sales Manager Vacancy at Vestian - 2026 Batch",
+    "description": "Are you a skilled Sales Manager looking for your next big career move? Vestian in Tiruchirappalli offers you the perfect platform to grow professionally and personally.\n\nAbout Vestian:\nVestian is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Source and close property deals with prospective buyers and investors\n• Conduct market research and provide competitive analysis\n• Prepare presentations and proposals for institutional clients\n• Coordinate with legal teams for documentation and title verification\n• Maintain a pipeline of qualified leads using CRM software\n• Manage relationships with existing customers post-purchase\n• Provide advisory services on property investment and market trends\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 6-10 years of relevant experience\n• Proficiency in Property Valuation\n• Proficiency in Real Estate Law\n• Proficiency in Portfolio Management\n• Proficiency in Property Management\n• Proficiency in Contract Management\n• Proficiency in GIS Tools\n• Proficiency in Due Diligence\n• Proficiency in Market Research\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Competitive salary with performance-linked incentives\n• Annual paid leaves and casual leaves\n• Flexible working hours\n• Annual performance appraisal\n• Recognition and rewards programs\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Tiruchirappalli, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Vestian!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Vestian",
+      "value": "723-3-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Vestian",
+      "sameAs": "https://www.google.com/search?q=Vestian",
+      "logo": "https://logo.clearbit.com/vestian.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Vestian Office",
+        "addressLocality": "Tiruchirappalli",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "Property Valuation, Real Estate Law, Portfolio Management, Property Management, Contract Management, GIS Tools, Due Diligence, Market Research",
+    "responsibilities": "Source and close property deals with prospective buyers and investors. Conduct market research and provide competitive analysis. Prepare presentations and proposals for institutional clients. Coordinate with legal teams for documentation and title verification. Maintain a pipeline of qualified leads using CRM software. Manage relationships with existing customers post-purchase. Provide advisory services on property investment and market trends",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Competitive salary with performance-linked incentives. Annual paid leaves and casual leaves. Flexible working hours. Annual performance appraisal. Recognition and rewards programs",
+    "industry": "realestate",
+    "occupationalCategory": "Sales Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Competitive salary with performance-linked incentives, Annual paid leaves and casual leaves, Flexible working hours, Annual performance appraisal, Recognition and rewards programs"
+  },
+  "meta": {
+    "description": "Are you a skilled Sales Manager looking for your next big career move? Vestian in Tiruchirappalli offers you the perfect platform to grow professionally and per",
+    "keywords": "Sales Manager, Vestian, jobs in Tiruchirappalli, Tamil Nadu jobs, realestate jobs India, Property Valuation, Real Estate Law, Portfolio Management, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T04:08:18.597Z",
+  "page": 180
+}
