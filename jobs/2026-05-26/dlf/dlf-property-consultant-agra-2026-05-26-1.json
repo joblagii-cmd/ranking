@@ -1,0 +1,93 @@
+{
+  "slug": "dlf-property-consultant-agra-2026-05-26-1",
+  "title": "Property Consultant - DLF - Immediate Joiners Preferred",
+  "company": "DLF",
+  "industry": "realestate",
+  "role": "Property Consultant",
+  "location": {
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Property Valuation",
+    "Market Research",
+    "Sales Techniques",
+    "GIS Tools",
+    "CRM Software",
+    "Real Estate Law",
+    "AutoCAD",
+    "Portfolio Management"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Property Consultant - DLF - Immediate Joiners Preferred",
+    "description": "We at DLF are looking for an experienced Property Consultant based out of Agra. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout DLF:\nDLF is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Negotiate pricing, terms, and conditions on behalf of clients\n• Liaise with banks and NBFCs for home loan assistance to customers\n• Conduct site visits and property presentations for clients\n• Build relationships with channel partners and brokers\n• Manage relationships with existing customers post-purchase\n• Coordinate with architects, contractors, and project teams\n• Provide advisory services on property investment and market trends\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 12-20 years of relevant experience\n• Proficiency in Property Valuation\n• Proficiency in Market Research\n• Proficiency in Sales Techniques\n• Proficiency in GIS Tools\n• Proficiency in CRM Software\n• Proficiency in Real Estate Law\n• Proficiency in AutoCAD\n• Proficiency in Portfolio Management\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Flexible working hours\n• International travel opportunities for senior roles\n• Recognition and rewards programs\n• Annual paid leaves and casual leaves\n• Learning & development budget\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Agra, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with DLF!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "DLF",
+      "value": "681-1-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "DLF",
+      "sameAs": "https://www.google.com/search?q=DLF",
+      "logo": "https://logo.clearbit.com/dlf.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "DLF Office",
+        "addressLocality": "Agra",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Property Valuation, Market Research, Sales Techniques, GIS Tools, CRM Software, Real Estate Law, AutoCAD, Portfolio Management",
+    "responsibilities": "Negotiate pricing, terms, and conditions on behalf of clients. Liaise with banks and NBFCs for home loan assistance to customers. Conduct site visits and property presentations for clients. Build relationships with channel partners and brokers. Manage relationships with existing customers post-purchase. Coordinate with architects, contractors, and project teams. Provide advisory services on property investment and market trends",
+    "benefits": "Competitive salary with performance-linked incentives. Flexible working hours. International travel opportunities for senior roles. Recognition and rewards programs. Annual paid leaves and casual leaves. Learning & development budget",
+    "industry": "realestate",
+    "occupationalCategory": "Property Consultant",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Flexible working hours, International travel opportunities for senior roles, Recognition and rewards programs, Annual paid leaves and casual leaves, Learning & development budget"
+  },
+  "meta": {
+    "description": "We at DLF are looking for an experienced Property Consultant based out of Agra. If you are a result-oriented professional with a passion for excellence, we want",
+    "keywords": "Property Consultant, DLF, jobs in Agra, Uttar Pradesh jobs, realestate jobs India, Property Valuation, Market Research, Sales Techniques, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T04:06:54.196Z",
+  "page": 170
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "dlf-senior-property-advisor-agra-2026-05-26-2",
+  "title": "DLF is Hiring: Senior Property Advisor (Entry-Level)",
+  "company": "DLF",
+  "industry": "realestate",
+  "role": "Senior Property Advisor",
+  "location": {
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "GIS Tools",
+    "Project Management",
+    "Due Diligence",
+    "Negotiation Skills",
+    "Lease Administration",
+    "Market Research",
+    "Financial Modeling",
+    "Sales Techniques"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "DLF is Hiring: Senior Property Advisor (Entry-Level)",
+    "description": "We at DLF are looking for an experienced Senior Property Advisor based out of Agra. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout DLF:\nDLF is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Conduct market research and provide competitive analysis\n• Coordinate with architects, contractors, and project teams\n• Achieve monthly and quarterly sales targets\n• Manage relationships with existing customers post-purchase\n• Source and close property deals with prospective buyers and investors\n• Liaise with banks and NBFCs for home loan assistance to customers\n• Maintain a pipeline of qualified leads using CRM software\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 10-15 years of relevant experience\n• Proficiency in GIS Tools\n• Proficiency in Project Management\n• Proficiency in Due Diligence\n• Proficiency in Negotiation Skills\n• Proficiency in Lease Administration\n• Proficiency in Market Research\n• Proficiency in Financial Modeling\n• Proficiency in Sales Techniques\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• International travel opportunities for senior roles\n• Annual paid leaves and casual leaves\n• Provident Fund and Gratuity as per company policy\n• Flexible working hours\n• Referral bonus program\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Agra, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with DLF!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "DLF",
+      "value": "681-2-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "DLF",
+      "sameAs": "https://www.google.com/search?q=DLF",
+      "logo": "https://logo.clearbit.com/dlf.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "DLF Office",
+        "addressLocality": "Agra",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "GIS Tools, Project Management, Due Diligence, Negotiation Skills, Lease Administration, Market Research, Financial Modeling, Sales Techniques",
+    "responsibilities": "Conduct market research and provide competitive analysis. Coordinate with architects, contractors, and project teams. Achieve monthly and quarterly sales targets. Manage relationships with existing customers post-purchase. Source and close property deals with prospective buyers and investors. Liaise with banks and NBFCs for home loan assistance to customers. Maintain a pipeline of qualified leads using CRM software",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. International travel opportunities for senior roles. Annual paid leaves and casual leaves. Provident Fund and Gratuity as per company policy. Flexible working hours. Referral bonus program",
+    "industry": "realestate",
+    "occupationalCategory": "Senior Property Advisor",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, International travel opportunities for senior roles, Annual paid leaves and casual leaves, Provident Fund and Gratuity as per company policy, Flexible working hours, Referral bonus program"
+  },
+  "meta": {
+    "description": "We at DLF are looking for an experienced Senior Property Advisor based out of Agra. If you are a result-oriented professional with a passion for excellence, we ",
+    "keywords": "Senior Property Advisor, DLF, jobs in Agra, Uttar Pradesh jobs, realestate jobs India, GIS Tools, Project Management, Due Diligence, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T04:06:54.196Z",
+  "page": 170
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "brigade-group-real-estate-agent-nashik-2026-05-26-0",
+  "title": "Looking for Real Estate Agent at Brigade Group",
+  "company": "Brigade Group",
+  "industry": "realestate",
+  "role": "Real Estate Agent",
+  "location": {
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Project Management",
+    "Contract Management",
+    "MS Office",
+    "Sales Techniques",
+    "AutoCAD",
+    "CRM Software",
+    "RERA Compliance",
+    "Client Relationship Management"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Looking for Real Estate Agent at Brigade Group",
+    "description": "We at Brigade Group are looking for an experienced Real Estate Agent based out of Nashik. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout Brigade Group:\nBrigade Group is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Build relationships with channel partners and brokers\n• Source and close property deals with prospective buyers and investors\n• Negotiate pricing, terms, and conditions on behalf of clients\n• Liaise with banks and NBFCs for home loan assistance to customers\n• Manage relationships with existing customers post-purchase\n• Maintain a pipeline of qualified leads using CRM software\n• Provide advisory services on property investment and market trends\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 6-10 years of relevant experience\n• Proficiency in Project Management\n• Proficiency in Contract Management\n• Proficiency in MS Office\n• Proficiency in Sales Techniques\n• Proficiency in AutoCAD\n• Proficiency in CRM Software\n• Proficiency in RERA Compliance\n• Proficiency in Client Relationship Management\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Life and accident insurance\n• Employee stock options (ESOPs) for eligible roles\n• Maternity and paternity leave\n• Referral bonus program\n• Provident Fund and Gratuity as per company policy\n• Flexible working hours\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Nashik, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Brigade Group!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Brigade Group",
+      "value": "684-0-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Brigade Group",
+      "sameAs": "https://www.google.com/search?q=Brigade%20Group",
+      "logo": "https://logo.clearbit.com/brigadegroup.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Brigade Group Office",
+        "addressLocality": "Nashik",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "Project Management, Contract Management, MS Office, Sales Techniques, AutoCAD, CRM Software, RERA Compliance, Client Relationship Management",
+    "responsibilities": "Build relationships with channel partners and brokers. Source and close property deals with prospective buyers and investors. Negotiate pricing, terms, and conditions on behalf of clients. Liaise with banks and NBFCs for home loan assistance to customers. Manage relationships with existing customers post-purchase. Maintain a pipeline of qualified leads using CRM software. Provide advisory services on property investment and market trends",
+    "benefits": "Life and accident insurance. Employee stock options (ESOPs) for eligible roles. Maternity and paternity leave. Referral bonus program. Provident Fund and Gratuity as per company policy. Flexible working hours",
+    "industry": "realestate",
+    "occupationalCategory": "Real Estate Agent",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Employee stock options (ESOPs) for eligible roles, Maternity and paternity leave, Referral bonus program, Provident Fund and Gratuity as per company policy, Flexible working hours"
+  },
+  "meta": {
+    "description": "We at Brigade Group are looking for an experienced Real Estate Agent based out of Nashik. If you are a result-oriented professional with a passion for excellenc",
+    "keywords": "Real Estate Agent, Brigade Group, jobs in Nashik, Maharashtra jobs, realestate jobs India, Project Management, Contract Management, MS Office, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T04:06:54.196Z",
+  "page": 170
+}

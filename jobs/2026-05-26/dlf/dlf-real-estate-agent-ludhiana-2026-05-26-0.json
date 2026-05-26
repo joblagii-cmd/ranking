@@ -1,0 +1,94 @@
+{
+  "slug": "dlf-real-estate-agent-ludhiana-2026-05-26-0",
+  "title": "Hiring Real Estate Agent at DLF",
+  "company": "DLF",
+  "industry": "realestate",
+  "role": "Real Estate Agent",
+  "location": {
+    "city": "Ludhiana",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Financial Modeling",
+    "MS Office",
+    "Contract Management",
+    "Due Diligence",
+    "Property Valuation",
+    "Negotiation Skills",
+    "Project Management",
+    "Portfolio Management"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Hiring Real Estate Agent at DLF",
+    "description": "We at DLF are looking for an experienced Real Estate Agent based out of Ludhiana. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout DLF:\nDLF is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Provide advisory services on property investment and market trends\n• Achieve monthly and quarterly sales targets\n• Conduct market research and provide competitive analysis\n• Source and close property deals with prospective buyers and investors\n• Manage relationships with existing customers post-purchase\n• Conduct site visits and property presentations for clients\n• Conduct land acquisition due diligence and feasibility studies\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 0-1 years of relevant experience\n• Proficiency in Financial Modeling\n• Proficiency in MS Office\n• Proficiency in Contract Management\n• Proficiency in Due Diligence\n• Proficiency in Property Valuation\n• Proficiency in Negotiation Skills\n• Proficiency in Project Management\n• Proficiency in Portfolio Management\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Life and accident insurance\n• Employee stock options (ESOPs) for eligible roles\n• Learning & development budget\n• Recognition and rewards programs\n• International travel opportunities for senior roles\n• Company-sponsored certifications\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Ludhiana, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with DLF!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "DLF",
+      "value": "681-0-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "DLF",
+      "sameAs": "https://www.google.com/search?q=DLF",
+      "logo": "https://logo.clearbit.com/dlf.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "DLF Office",
+        "addressLocality": "Ludhiana",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "Financial Modeling, MS Office, Contract Management, Due Diligence, Property Valuation, Negotiation Skills, Project Management, Portfolio Management",
+    "responsibilities": "Provide advisory services on property investment and market trends. Achieve monthly and quarterly sales targets. Conduct market research and provide competitive analysis. Source and close property deals with prospective buyers and investors. Manage relationships with existing customers post-purchase. Conduct site visits and property presentations for clients. Conduct land acquisition due diligence and feasibility studies",
+    "benefits": "Life and accident insurance. Employee stock options (ESOPs) for eligible roles. Learning & development budget. Recognition and rewards programs. International travel opportunities for senior roles. Company-sponsored certifications",
+    "industry": "realestate",
+    "occupationalCategory": "Real Estate Agent",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Employee stock options (ESOPs) for eligible roles, Learning & development budget, Recognition and rewards programs, International travel opportunities for senior roles, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "We at DLF are looking for an experienced Real Estate Agent based out of Ludhiana. If you are a result-oriented professional with a passion for excellence, we wa",
+    "keywords": "Real Estate Agent, DLF, jobs in Ludhiana, Punjab jobs, realestate jobs India, Financial Modeling, MS Office, Contract Management, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T04:06:54.195Z",
+  "page": 170
+}
