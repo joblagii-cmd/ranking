@@ -1,0 +1,94 @@
+{
+  "slug": "ecil-frontend-developer-gwalior-2026-05-26-4",
+  "title": "Mid-Level Frontend Developer at ECIL",
+  "company": "ECIL",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Kubernetes",
+    "AWS",
+    "SQL",
+    "Node.js",
+    "MongoDB",
+    "Agile/Scrum",
+    "TypeScript",
+    "React"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Frontend Developer at ECIL",
+    "description": "ECIL, one of India's leading organizations, is hiring a Frontend Developer for our Gwalior operations. We offer a competitive salary package along with world-class benefits.\n\nAbout ECIL:\nECIL is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Optimize application performance and ensure high availability\n• Integrate third-party APIs and services\n• Design, develop and maintain scalable software applications\n• Write and execute unit tests and integration tests\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Contribute to system architecture and technical design decisions\n• Write clean, maintainable, and well-documented code\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 12-20 years of relevant experience\n• Proficiency in Kubernetes\n• Proficiency in AWS\n• Proficiency in SQL\n• Proficiency in Node.js\n• Proficiency in MongoDB\n• Proficiency in Agile/Scrum\n• Proficiency in TypeScript\n• Proficiency in React\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Professional development and training programs\n• Work-from-home flexibility\n• Annual performance appraisal\n• Mobile and internet reimbursement\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Gwalior, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with ECIL!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "ECIL",
+      "value": "40-4-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "ECIL",
+      "sameAs": "https://www.google.com/search?q=ECIL",
+      "logo": "https://logo.clearbit.com/ecil.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "ECIL Office",
+        "addressLocality": "Gwalior",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "Kubernetes, AWS, SQL, Node.js, MongoDB, Agile/Scrum, TypeScript, React",
+    "responsibilities": "Optimize application performance and ensure high availability. Integrate third-party APIs and services. Design, develop and maintain scalable software applications. Write and execute unit tests and integration tests. Mentor junior developers and conduct knowledge-sharing sessions. Contribute to system architecture and technical design decisions. Write clean, maintainable, and well-documented code",
+    "benefits": "International travel opportunities for senior roles. Professional development and training programs. Work-from-home flexibility. Annual performance appraisal. Mobile and internet reimbursement. Employee stock options (ESOPs) for eligible roles",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Professional development and training programs, Work-from-home flexibility, Annual performance appraisal, Mobile and internet reimbursement, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "ECIL, one of India's leading organizations, is hiring a Frontend Developer for our Gwalior operations. We offer a competitive salary package along with world-cl",
+    "keywords": "Frontend Developer, ECIL, jobs in Gwalior, Madhya Pradesh jobs, technology jobs India, Kubernetes, AWS, SQL, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:45:45.239Z",
+  "page": 9
+}

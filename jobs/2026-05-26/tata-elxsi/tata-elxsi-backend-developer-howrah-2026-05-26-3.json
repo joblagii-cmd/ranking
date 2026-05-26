@@ -1,0 +1,93 @@
+{
+  "slug": "tata-elxsi-backend-developer-howrah-2026-05-26-3",
+  "title": "Backend Developer Vacancy at Tata Elxsi - 2026 Batch",
+  "company": "Tata Elxsi",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Howrah",
+    "state": "West Bengal",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "JavaScript",
+    "TensorFlow",
+    "Python",
+    "Git",
+    "Java",
+    "Go",
+    "MongoDB",
+    "React"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Tata Elxsi - 2026 Batch",
+    "description": "Tata Elxsi, one of India's leading organizations, is hiring a Backend Developer for our Howrah operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Tata Elxsi:\nTata Elxsi is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in on-call rotation for production support\n• Optimize application performance and ensure high availability\n• Participate in code reviews and contribute to technical discussions\n• Write clean, maintainable, and well-documented code\n• Contribute to system architecture and technical design decisions\n• Integrate third-party APIs and services\n• Mentor junior developers and conduct knowledge-sharing sessions\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 10-15 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in TensorFlow\n• Proficiency in Python\n• Proficiency in Git\n• Proficiency in Java\n• Proficiency in Go\n• Proficiency in MongoDB\n• Proficiency in React\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Company-sponsored certifications\n• Maternity and paternity leave\n• Competitive salary with performance-linked incentives\n• Recognition and rewards programs\n• Transportation and conveyance allowance\n• Professional development and training programs\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Howrah, West Bengal, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Tata Elxsi!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Tata Elxsi",
+      "value": "37-3-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Tata Elxsi",
+      "sameAs": "https://www.google.com/search?q=Tata%20Elxsi",
+      "logo": "https://logo.clearbit.com/tataelxsi.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Tata Elxsi Office",
+        "addressLocality": "Howrah",
+        "addressRegion": "West Bengal",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "JavaScript, TensorFlow, Python, Git, Java, Go, MongoDB, React",
+    "responsibilities": "Participate in on-call rotation for production support. Optimize application performance and ensure high availability. Participate in code reviews and contribute to technical discussions. Write clean, maintainable, and well-documented code. Contribute to system architecture and technical design decisions. Integrate third-party APIs and services. Mentor junior developers and conduct knowledge-sharing sessions",
+    "benefits": "Company-sponsored certifications. Maternity and paternity leave. Competitive salary with performance-linked incentives. Recognition and rewards programs. Transportation and conveyance allowance. Professional development and training programs",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Company-sponsored certifications, Maternity and paternity leave, Competitive salary with performance-linked incentives, Recognition and rewards programs, Transportation and conveyance allowance, Professional development and training programs"
+  },
+  "meta": {
+    "description": "Tata Elxsi, one of India's leading organizations, is hiring a Backend Developer for our Howrah operations. We offer a competitive salary package along with worl",
+    "keywords": "Backend Developer, Tata Elxsi, jobs in Howrah, West Bengal jobs, technology jobs India, JavaScript, TensorFlow, Python, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:45:45.239Z",
+  "page": 9
+}
