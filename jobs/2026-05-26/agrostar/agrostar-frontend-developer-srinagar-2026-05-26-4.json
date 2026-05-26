@@ -1,0 +1,94 @@
+{
+  "slug": "agrostar-frontend-developer-srinagar-2026-05-26-4",
+  "title": "Senior Frontend Developer at AgroStar",
+  "company": "AgroStar",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Srinagar",
+    "state": "Jammu & Kashmir",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "REST APIs",
+    "Java",
+    "TypeScript",
+    "JavaScript",
+    "Go",
+    "MongoDB",
+    "Rust",
+    "Node.js"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Frontend Developer at AgroStar",
+    "description": "AgroStar invites applications from qualified candidates for the position of Frontend Developer at our Srinagar location. This role offers excellent career advancement prospects.\n\nAbout AgroStar:\nAgroStar is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Write clean, maintainable, and well-documented code\n• Contribute to system architecture and technical design decisions\n• Participate in code reviews and contribute to technical discussions\n• Write and execute unit tests and integration tests\n• Participate in on-call rotation for production support\n• Collaborate with cross-functional teams including product, design, and QA\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 3-6 years of relevant experience\n• Proficiency in REST APIs\n• Proficiency in Java\n• Proficiency in TypeScript\n• Proficiency in JavaScript\n• Proficiency in Go\n• Proficiency in MongoDB\n• Proficiency in Rust\n• Proficiency in Node.js\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Flexible working hours\n• Provident Fund and Gratuity as per company policy\n• Annual performance appraisal\n• International travel opportunities for senior roles\n• Meal coupons and food allowance\n• Transportation and conveyance allowance\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Srinagar, Jammu & Kashmir, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with AgroStar!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "AgroStar",
+      "value": "107-4-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "AgroStar",
+      "sameAs": "https://www.google.com/search?q=AgroStar",
+      "logo": "https://logo.clearbit.com/agrostar.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "AgroStar Office",
+        "addressLocality": "Srinagar",
+        "addressRegion": "Jammu & Kashmir",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "REST APIs, Java, TypeScript, JavaScript, Go, MongoDB, Rust, Node.js",
+    "responsibilities": "Design, develop and maintain scalable software applications. Write clean, maintainable, and well-documented code. Contribute to system architecture and technical design decisions. Participate in code reviews and contribute to technical discussions. Write and execute unit tests and integration tests. Participate in on-call rotation for production support. Collaborate with cross-functional teams including product, design, and QA",
+    "benefits": "Flexible working hours. Provident Fund and Gratuity as per company policy. Annual performance appraisal. International travel opportunities for senior roles. Meal coupons and food allowance. Transportation and conveyance allowance",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, Provident Fund and Gratuity as per company policy, Annual performance appraisal, International travel opportunities for senior roles, Meal coupons and food allowance, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "AgroStar invites applications from qualified candidates for the position of Frontend Developer at our Srinagar location. This role offers excellent career advan",
+    "keywords": "Frontend Developer, AgroStar, jobs in Srinagar, Jammu & Kashmir jobs, technology jobs India, REST APIs, Java, TypeScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:47:56.934Z",
+  "page": 26
+}
