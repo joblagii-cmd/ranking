@@ -1,0 +1,94 @@
+{
+  "slug": "bse-credit-analyst-amritsar-2026-05-26-2",
+  "title": "BSE is Hiring: Credit Analyst (Lead)",
+  "company": "BSE",
+  "industry": "finance",
+  "role": "Credit Analyst",
+  "location": {
+    "city": "Amritsar",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Financial Modeling",
+    "MS Excel",
+    "QuickBooks",
+    "Bloomberg Terminal",
+    "Python for Finance",
+    "GST",
+    "IFRS",
+    "Income Tax"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "BSE is Hiring: Credit Analyst (Lead)",
+    "description": "We at BSE are looking for an experienced Credit Analyst based out of Amritsar. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout BSE:\nBSE is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Develop financial models and projections for business planning\n• Prepare MIS reports for senior management review\n• Monitor financial performance against targets and provide variance analysis\n• Maintain general ledger and ensure accurate bookkeeping\n• Ensure compliance with tax regulations and statutory requirements\n• Prepare annual reports and investor presentations\n• Manage accounts payable and accounts receivable functions\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 10-15 years of relevant experience\n• Proficiency in Financial Modeling\n• Proficiency in MS Excel\n• Proficiency in QuickBooks\n• Proficiency in Bloomberg Terminal\n• Proficiency in Python for Finance\n• Proficiency in GST\n• Proficiency in IFRS\n• Proficiency in Income Tax\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Work-from-home flexibility\n• Mobile and internet reimbursement\n• Flexible working hours\n• Employee stock options (ESOPs) for eligible roles\n• Annual performance appraisal\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Amritsar, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with BSE!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "BSE",
+      "value": "197-2-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "BSE",
+      "sameAs": "https://www.google.com/search?q=BSE",
+      "logo": "https://logo.clearbit.com/bse.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "BSE Office",
+        "addressLocality": "Amritsar",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Financial Modeling, MS Excel, QuickBooks, Bloomberg Terminal, Python for Finance, GST, IFRS, Income Tax",
+    "responsibilities": "Develop financial models and projections for business planning. Prepare MIS reports for senior management review. Monitor financial performance against targets and provide variance analysis. Maintain general ledger and ensure accurate bookkeeping. Ensure compliance with tax regulations and statutory requirements. Prepare annual reports and investor presentations. Manage accounts payable and accounts receivable functions",
+    "benefits": "Competitive salary with performance-linked incentives. Work-from-home flexibility. Mobile and internet reimbursement. Flexible working hours. Employee stock options (ESOPs) for eligible roles. Annual performance appraisal",
+    "industry": "finance",
+    "occupationalCategory": "Credit Analyst",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Work-from-home flexibility, Mobile and internet reimbursement, Flexible working hours, Employee stock options (ESOPs) for eligible roles, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "We at BSE are looking for an experienced Credit Analyst based out of Amritsar. If you are a result-oriented professional with a passion for excellence, we want ",
+    "keywords": "Credit Analyst, BSE, jobs in Amritsar, Punjab jobs, finance jobs India, Financial Modeling, MS Excel, QuickBooks, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T03:50:54.428Z",
+  "page": 49
+}
