@@ -1,0 +1,93 @@
+{
+  "slug": "red-express-fleet-manager-lucknow-2026-05-26-4",
+  "title": "Senior Fleet Manager at Red Express",
+  "company": "Red Express",
+  "industry": "logistics",
+  "role": "Fleet Manager",
+  "location": {
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Supply Chain Management",
+    "SAP SCM",
+    "3PL Management",
+    "Data Analytics",
+    "GPS Tracking Systems",
+    "Fleet Management",
+    "INCOTERMS",
+    "WMS"
+  ],
+  "datePosted": "2026-05-26",
+  "validThrough": "2026-06-25",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Fleet Manager at Red Express",
+    "description": "Grow your career with Red Express! We are hiring a Fleet Manager for our Lucknow team. Be part of a workplace that celebrates innovation, diversity, and performance.\n\nAbout Red Express:\nRed Express is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Implement warehouse management systems (WMS) and track KPIs\n• Manage reverse logistics and return merchandise authorization\n• Ensure compliance with transportation regulations and safety standards\n• Oversee end-to-end logistics operations for timely delivery\n• Manage a fleet of vehicles and coordinate with drivers\n• Optimize delivery routes to reduce cost and improve efficiency\n• Coordinate with customer service teams to resolve delivery issues\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 0-1 years of relevant experience\n• Proficiency in Supply Chain Management\n• Proficiency in SAP SCM\n• Proficiency in 3PL Management\n• Proficiency in Data Analytics\n• Proficiency in GPS Tracking Systems\n• Proficiency in Fleet Management\n• Proficiency in INCOTERMS\n• Proficiency in WMS\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Learning & development budget\n• Mobile and internet reimbursement\n• Employee stock options (ESOPs) for eligible roles\n• International travel opportunities for senior roles\n• Life and accident insurance\n• Work-from-home flexibility\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Lucknow, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Red Express!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Red Express",
+      "value": "826-4-20260526"
+    },
+    "datePosted": "2026-05-26",
+    "validThrough": "2026-06-25",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Red Express",
+      "sameAs": "https://www.google.com/search?q=Red%20Express",
+      "logo": "https://logo.clearbit.com/redexpress.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Red Express Office",
+        "addressLocality": "Lucknow",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "Supply Chain Management, SAP SCM, 3PL Management, Data Analytics, GPS Tracking Systems, Fleet Management, INCOTERMS, WMS",
+    "responsibilities": "Implement warehouse management systems (WMS) and track KPIs. Manage reverse logistics and return merchandise authorization. Ensure compliance with transportation regulations and safety standards. Oversee end-to-end logistics operations for timely delivery. Manage a fleet of vehicles and coordinate with drivers. Optimize delivery routes to reduce cost and improve efficiency. Coordinate with customer service teams to resolve delivery issues",
+    "benefits": "Learning & development budget. Mobile and internet reimbursement. Employee stock options (ESOPs) for eligible roles. International travel opportunities for senior roles. Life and accident insurance. Work-from-home flexibility",
+    "industry": "logistics",
+    "occupationalCategory": "Fleet Manager",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Learning & development budget, Mobile and internet reimbursement, Employee stock options (ESOPs) for eligible roles, International travel opportunities for senior roles, Life and accident insurance, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "Grow your career with Red Express! We are hiring a Fleet Manager for our Lucknow team. Be part of a workplace that celebrates innovation, diversity, and perform",
+    "keywords": "Fleet Manager, Red Express, jobs in Lucknow, Uttar Pradesh jobs, logistics jobs India, Supply Chain Management, SAP SCM, 3PL Management, hiring 2026"
+  },
+  "generatedAt": "2026-05-26T04:11:58.269Z",
+  "page": 206
+}
