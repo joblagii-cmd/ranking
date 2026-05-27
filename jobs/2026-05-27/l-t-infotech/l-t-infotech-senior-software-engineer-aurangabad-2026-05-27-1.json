@@ -1,0 +1,93 @@
+{
+  "slug": "l-t-infotech-senior-software-engineer-aurangabad-2026-05-27-1",
+  "title": "Senior Software Engineer - L&T Infotech - Freshers Welcome",
+  "company": "L&T Infotech",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Aurangabad",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Git",
+    "CI/CD",
+    "Agile/Scrum",
+    "REST APIs",
+    "Node.js",
+    "Rust",
+    "Python",
+    "Kubernetes"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - L&T Infotech - Freshers Welcome",
+    "description": "Are you a skilled Senior Software Engineer looking for your next big career move? L&T Infotech in Aurangabad offers you the perfect platform to grow professionally and personally.\n\nAbout L&T Infotech:\nL&T Infotech is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Implement new features based on product requirements\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Ensure code security and follow best practices for data protection\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Contribute to system architecture and technical design decisions\n• Design, develop and maintain scalable software applications\n• Mentor junior developers and conduct knowledge-sharing sessions\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 12-20 years of relevant experience\n• Proficiency in Git\n• Proficiency in CI/CD\n• Proficiency in Agile/Scrum\n• Proficiency in REST APIs\n• Proficiency in Node.js\n• Proficiency in Rust\n• Proficiency in Python\n• Proficiency in Kubernetes\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• Competitive salary with performance-linked incentives\n• Maternity and paternity leave\n• Work-from-home flexibility\n• Mobile and internet reimbursement\n• Learning & development budget\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Aurangabad, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with L&T Infotech!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "L&T Infotech",
+      "value": "28-1-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "L&T Infotech",
+      "sameAs": "https://www.google.com/search?q=L%26T%20Infotech",
+      "logo": "https://logo.clearbit.com/ltinfotech.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "L&T Infotech Office",
+        "addressLocality": "Aurangabad",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "Git, CI/CD, Agile/Scrum, REST APIs, Node.js, Rust, Python, Kubernetes",
+    "responsibilities": "Implement new features based on product requirements. Work with agile methodologies including daily stand-ups and sprint planning. Ensure code security and follow best practices for data protection. Troubleshoot, debug, and resolve software defects and performance issues. Contribute to system architecture and technical design decisions. Design, develop and maintain scalable software applications. Mentor junior developers and conduct knowledge-sharing sessions",
+    "benefits": "Comprehensive health insurance for self and family. Competitive salary with performance-linked incentives. Maternity and paternity leave. Work-from-home flexibility. Mobile and internet reimbursement. Learning & development budget",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, Competitive salary with performance-linked incentives, Maternity and paternity leave, Work-from-home flexibility, Mobile and internet reimbursement, Learning & development budget"
+  },
+  "meta": {
+    "description": "Are you a skilled Senior Software Engineer looking for your next big career move? L&T Infotech in Aurangabad offers you the perfect platform to grow professiona",
+    "keywords": "Senior Software Engineer, L&T Infotech, jobs in Aurangabad, Maharashtra jobs, technology jobs India, Git, CI/CD, Agile/Scrum, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:24:15.093Z",
+  "page": 6
+}
