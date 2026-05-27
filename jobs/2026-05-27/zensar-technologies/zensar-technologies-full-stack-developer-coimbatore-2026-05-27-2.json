@@ -1,0 +1,94 @@
+{
+  "slug": "zensar-technologies-full-stack-developer-coimbatore-2026-05-27-2",
+  "title": "Zensar Technologies is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "Zensar Technologies",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "React",
+    "Agile/Scrum",
+    "TensorFlow",
+    "Rust",
+    "Kubernetes",
+    "REST APIs",
+    "Java",
+    "MongoDB"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Zensar Technologies is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "Zensar Technologies, one of India's leading organizations, is hiring a Full Stack Developer for our Coimbatore operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Zensar Technologies:\nZensar Technologies is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure code security and follow best practices for data protection\n• Design, develop and maintain scalable software applications\n• Participate in on-call rotation for production support\n• Integrate third-party APIs and services\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Write clean, maintainable, and well-documented code\n• Optimize application performance and ensure high availability\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 6-10 years of relevant experience\n• Proficiency in React\n• Proficiency in Agile/Scrum\n• Proficiency in TensorFlow\n• Proficiency in Rust\n• Proficiency in Kubernetes\n• Proficiency in REST APIs\n• Proficiency in Java\n• Proficiency in MongoDB\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Maternity and paternity leave\n• Competitive salary with performance-linked incentives\n• Annual performance appraisal\n• Meal coupons and food allowance\n• Comprehensive health insurance for self and family\n• Transportation and conveyance allowance\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Coimbatore, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Zensar Technologies!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Zensar Technologies",
+      "value": "39-2-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Zensar Technologies",
+      "sameAs": "https://www.google.com/search?q=Zensar%20Technologies",
+      "logo": "https://logo.clearbit.com/zensartechnologies.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Zensar Technologies Office",
+        "addressLocality": "Coimbatore",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "React, Agile/Scrum, TensorFlow, Rust, Kubernetes, REST APIs, Java, MongoDB",
+    "responsibilities": "Ensure code security and follow best practices for data protection. Design, develop and maintain scalable software applications. Participate in on-call rotation for production support. Integrate third-party APIs and services. Mentor junior developers and conduct knowledge-sharing sessions. Write clean, maintainable, and well-documented code. Optimize application performance and ensure high availability",
+    "benefits": "Maternity and paternity leave. Competitive salary with performance-linked incentives. Annual performance appraisal. Meal coupons and food allowance. Comprehensive health insurance for self and family. Transportation and conveyance allowance",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Maternity and paternity leave, Competitive salary with performance-linked incentives, Annual performance appraisal, Meal coupons and food allowance, Comprehensive health insurance for self and family, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "Zensar Technologies, one of India's leading organizations, is hiring a Full Stack Developer for our Coimbatore operations. We offer a competitive salary package",
+    "keywords": "Full Stack Developer, Zensar Technologies, jobs in Coimbatore, Tamil Nadu jobs, technology jobs India, React, Agile/Scrum, TensorFlow, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:24:47.713Z",
+  "page": 9
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "tata-elxsi-frontend-developer-coimbatore-2026-05-27-4",
+  "title": "Mid-Level Frontend Developer at Tata Elxsi",
+  "company": "Tata Elxsi",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Agile/Scrum",
+    "Java",
+    "JavaScript",
+    "Docker",
+    "AWS",
+    "MongoDB",
+    "TypeScript",
+    "Go"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Frontend Developer at Tata Elxsi",
+    "description": "Tata Elxsi, one of India's leading organizations, is hiring a Frontend Developer for our Coimbatore operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Tata Elxsi:\nTata Elxsi is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Optimize application performance and ensure high availability\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Participate in code reviews and contribute to technical discussions\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Design, develop and maintain scalable software applications\n• Ensure code security and follow best practices for data protection\n• Mentor junior developers and conduct knowledge-sharing sessions\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 6-10 years of relevant experience\n• Proficiency in Agile/Scrum\n• Proficiency in Java\n• Proficiency in JavaScript\n• Proficiency in Docker\n• Proficiency in AWS\n• Proficiency in MongoDB\n• Proficiency in TypeScript\n• Proficiency in Go\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Referral bonus program\n• Annual performance appraisal\n• Recognition and rewards programs\n• Maternity and paternity leave\n• Modern office with recreational facilities\n• International travel opportunities for senior roles\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Coimbatore, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Tata Elxsi!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Tata Elxsi",
+      "value": "37-4-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Tata Elxsi",
+      "sameAs": "https://www.google.com/search?q=Tata%20Elxsi",
+      "logo": "https://logo.clearbit.com/tataelxsi.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Tata Elxsi Office",
+        "addressLocality": "Coimbatore",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Agile/Scrum, Java, JavaScript, Docker, AWS, MongoDB, TypeScript, Go",
+    "responsibilities": "Optimize application performance and ensure high availability. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Participate in code reviews and contribute to technical discussions. Work with agile methodologies including daily stand-ups and sprint planning. Design, develop and maintain scalable software applications. Ensure code security and follow best practices for data protection. Mentor junior developers and conduct knowledge-sharing sessions",
+    "benefits": "Referral bonus program. Annual performance appraisal. Recognition and rewards programs. Maternity and paternity leave. Modern office with recreational facilities. International travel opportunities for senior roles",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Referral bonus program, Annual performance appraisal, Recognition and rewards programs, Maternity and paternity leave, Modern office with recreational facilities, International travel opportunities for senior roles"
+  },
+  "meta": {
+    "description": "Tata Elxsi, one of India's leading organizations, is hiring a Frontend Developer for our Coimbatore operations. We offer a competitive salary package along with",
+    "keywords": "Frontend Developer, Tata Elxsi, jobs in Coimbatore, Tamil Nadu jobs, technology jobs India, Agile/Scrum, Java, JavaScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:24:47.711Z",
+  "page": 9
+}

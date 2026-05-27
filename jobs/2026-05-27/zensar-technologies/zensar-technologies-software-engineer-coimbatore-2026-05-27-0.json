@@ -1,0 +1,93 @@
+{
+  "slug": "zensar-technologies-software-engineer-coimbatore-2026-05-27-0",
+  "title": "Walk-in Drive Software Engineer at Zensar Technologies",
+  "company": "Zensar Technologies",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "JavaScript",
+    "Docker",
+    "Machine Learning",
+    "Kubernetes",
+    "Agile/Scrum",
+    "Python",
+    "Rust",
+    "TypeScript"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Walk-in Drive Software Engineer at Zensar Technologies",
+    "description": "Zensar Technologies, one of India's leading organizations, is hiring a Software Engineer for our Coimbatore operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Zensar Technologies:\nZensar Technologies is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write clean, maintainable, and well-documented code\n• Design, develop and maintain scalable software applications\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Integrate third-party APIs and services\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Optimize application performance and ensure high availability\n• Implement new features based on product requirements\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 0-1 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Docker\n• Proficiency in Machine Learning\n• Proficiency in Kubernetes\n• Proficiency in Agile/Scrum\n• Proficiency in Python\n• Proficiency in Rust\n• Proficiency in TypeScript\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Company-sponsored certifications\n• Provident Fund and Gratuity as per company policy\n• Learning & development budget\n• Work-from-home flexibility\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Coimbatore, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Zensar Technologies!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Zensar Technologies",
+      "value": "39-0-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Zensar Technologies",
+      "sameAs": "https://www.google.com/search?q=Zensar%20Technologies",
+      "logo": "https://logo.clearbit.com/zensartechnologies.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Zensar Technologies Office",
+        "addressLocality": "Coimbatore",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "JavaScript, Docker, Machine Learning, Kubernetes, Agile/Scrum, Python, Rust, TypeScript",
+    "responsibilities": "Write clean, maintainable, and well-documented code. Design, develop and maintain scalable software applications. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Integrate third-party APIs and services. Mentor junior developers and conduct knowledge-sharing sessions. Optimize application performance and ensure high availability. Implement new features based on product requirements",
+    "benefits": "Transportation and conveyance allowance. Company-sponsored certifications. Provident Fund and Gratuity as per company policy. Learning & development budget. Work-from-home flexibility. Employee stock options (ESOPs) for eligible roles",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Company-sponsored certifications, Provident Fund and Gratuity as per company policy, Learning & development budget, Work-from-home flexibility, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "Zensar Technologies, one of India's leading organizations, is hiring a Software Engineer for our Coimbatore operations. We offer a competitive salary package al",
+    "keywords": "Software Engineer, Zensar Technologies, jobs in Coimbatore, Tamil Nadu jobs, technology jobs India, JavaScript, Docker, Machine Learning, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:24:47.712Z",
+  "page": 9
+}
