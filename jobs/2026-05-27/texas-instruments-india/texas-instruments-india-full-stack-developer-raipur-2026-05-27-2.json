@@ -1,0 +1,94 @@
+{
+  "slug": "texas-instruments-india-full-stack-developer-raipur-2026-05-27-2",
+  "title": "Texas Instruments India is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "Texas Instruments India",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Raipur",
+    "state": "Chhattisgarh",
+    "region": "Central India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Kubernetes",
+    "React",
+    "Machine Learning",
+    "Docker",
+    "TensorFlow",
+    "Agile/Scrum",
+    "Microservices",
+    "Java"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Texas Instruments India is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "Texas Instruments India, one of India's leading organizations, is hiring a Full Stack Developer for our Raipur operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Texas Instruments India:\nTexas Instruments India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write and execute unit tests and integration tests\n• Optimize application performance and ensure high availability\n• Integrate third-party APIs and services\n• Design, develop and maintain scalable software applications\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Write clean, maintainable, and well-documented code\n• Mentor junior developers and conduct knowledge-sharing sessions\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 12-20 years of relevant experience\n• Proficiency in Kubernetes\n• Proficiency in React\n• Proficiency in Machine Learning\n• Proficiency in Docker\n• Proficiency in TensorFlow\n• Proficiency in Agile/Scrum\n• Proficiency in Microservices\n• Proficiency in Java\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Work-from-home flexibility\n• Learning & development budget\n• Meal coupons and food allowance\n• Comprehensive health insurance for self and family\n• Provident Fund and Gratuity as per company policy\n• Mobile and internet reimbursement\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Raipur, Chhattisgarh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Texas Instruments India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Texas Instruments India",
+      "value": "48-2-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Texas Instruments India",
+      "sameAs": "https://www.google.com/search?q=Texas%20Instruments%20India",
+      "logo": "https://logo.clearbit.com/texasinstrumentsindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Texas Instruments India Office",
+        "addressLocality": "Raipur",
+        "addressRegion": "Chhattisgarh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "Kubernetes, React, Machine Learning, Docker, TensorFlow, Agile/Scrum, Microservices, Java",
+    "responsibilities": "Write and execute unit tests and integration tests. Optimize application performance and ensure high availability. Integrate third-party APIs and services. Design, develop and maintain scalable software applications. Work with agile methodologies including daily stand-ups and sprint planning. Write clean, maintainable, and well-documented code. Mentor junior developers and conduct knowledge-sharing sessions",
+    "benefits": "Work-from-home flexibility. Learning & development budget. Meal coupons and food allowance. Comprehensive health insurance for self and family. Provident Fund and Gratuity as per company policy. Mobile and internet reimbursement",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Learning & development budget, Meal coupons and food allowance, Comprehensive health insurance for self and family, Provident Fund and Gratuity as per company policy, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "Texas Instruments India, one of India's leading organizations, is hiring a Full Stack Developer for our Raipur operations. We offer a competitive salary package",
+    "keywords": "Full Stack Developer, Texas Instruments India, jobs in Raipur, Chhattisgarh jobs, technology jobs India, Kubernetes, React, Machine Learning, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:25:10.259Z",
+  "page": 11
+}

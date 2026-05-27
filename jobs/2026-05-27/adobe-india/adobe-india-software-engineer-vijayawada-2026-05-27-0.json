@@ -1,0 +1,94 @@
+{
+  "slug": "adobe-india-software-engineer-vijayawada-2026-05-27-0",
+  "title": "Walk-in Drive Software Engineer at Adobe India",
+  "company": "Adobe India",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Python",
+    "AWS",
+    "Go",
+    "Agile/Scrum",
+    "CI/CD",
+    "Java",
+    "TypeScript",
+    "REST APIs"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Walk-in Drive Software Engineer at Adobe India",
+    "description": "Adobe India, one of India's leading organizations, is hiring a Software Engineer for our Vijayawada operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Adobe India:\nAdobe India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Optimize application performance and ensure high availability\n• Ensure code security and follow best practices for data protection\n• Contribute to system architecture and technical design decisions\n• Participate in on-call rotation for production support\n• Participate in code reviews and contribute to technical discussions\n• Write clean, maintainable, and well-documented code\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 12-20 years of relevant experience\n• Proficiency in Python\n• Proficiency in AWS\n• Proficiency in Go\n• Proficiency in Agile/Scrum\n• Proficiency in CI/CD\n• Proficiency in Java\n• Proficiency in TypeScript\n• Proficiency in REST APIs\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Professional development and training programs\n• Competitive salary with performance-linked incentives\n• Company-sponsored certifications\n• Annual performance appraisal\n• Comprehensive health insurance for self and family\n• International travel opportunities for senior roles\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Vijayawada, Andhra Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Adobe India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Adobe India",
+      "value": "45-0-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Adobe India",
+      "sameAs": "https://www.google.com/search?q=Adobe%20India",
+      "logo": "https://logo.clearbit.com/adobeindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Adobe India Office",
+        "addressLocality": "Vijayawada",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "Python, AWS, Go, Agile/Scrum, CI/CD, Java, TypeScript, REST APIs",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Optimize application performance and ensure high availability. Ensure code security and follow best practices for data protection. Contribute to system architecture and technical design decisions. Participate in on-call rotation for production support. Participate in code reviews and contribute to technical discussions. Write clean, maintainable, and well-documented code",
+    "benefits": "Professional development and training programs. Competitive salary with performance-linked incentives. Company-sponsored certifications. Annual performance appraisal. Comprehensive health insurance for self and family. International travel opportunities for senior roles",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Competitive salary with performance-linked incentives, Company-sponsored certifications, Annual performance appraisal, Comprehensive health insurance for self and family, International travel opportunities for senior roles"
+  },
+  "meta": {
+    "description": "Adobe India, one of India's leading organizations, is hiring a Software Engineer for our Vijayawada operations. We offer a competitive salary package along with",
+    "keywords": "Software Engineer, Adobe India, jobs in Vijayawada, Andhra Pradesh jobs, technology jobs India, Python, AWS, Go, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:25:10.256Z",
+  "page": 11
+}

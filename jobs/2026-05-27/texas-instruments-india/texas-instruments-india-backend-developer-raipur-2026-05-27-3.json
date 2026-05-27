@@ -1,0 +1,93 @@
+{
+  "slug": "texas-instruments-india-backend-developer-raipur-2026-05-27-3",
+  "title": "Backend Developer Vacancy at Texas Instruments India - 2026 Batch",
+  "company": "Texas Instruments India",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Raipur",
+    "state": "Chhattisgarh",
+    "region": "Central India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Machine Learning",
+    "Node.js",
+    "TypeScript",
+    "React",
+    "AWS",
+    "Agile/Scrum",
+    "Go",
+    "MongoDB"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Texas Instruments India - 2026 Batch",
+    "description": "Texas Instruments India, one of India's leading organizations, is hiring a Backend Developer for our Raipur operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Texas Instruments India:\nTexas Instruments India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write clean, maintainable, and well-documented code\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in code reviews and contribute to technical discussions\n• Participate in on-call rotation for production support\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Troubleshoot, debug, and resolve software defects and performance issues\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 10-15 years of relevant experience\n• Proficiency in Machine Learning\n• Proficiency in Node.js\n• Proficiency in TypeScript\n• Proficiency in React\n• Proficiency in AWS\n• Proficiency in Agile/Scrum\n• Proficiency in Go\n• Proficiency in MongoDB\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Mobile and internet reimbursement\n• Transportation and conveyance allowance\n• International travel opportunities for senior roles\n• Annual paid leaves and casual leaves\n• Professional development and training programs\n• Work-from-home flexibility\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Raipur, Chhattisgarh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Texas Instruments India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Texas Instruments India",
+      "value": "48-3-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Texas Instruments India",
+      "sameAs": "https://www.google.com/search?q=Texas%20Instruments%20India",
+      "logo": "https://logo.clearbit.com/texasinstrumentsindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Texas Instruments India Office",
+        "addressLocality": "Raipur",
+        "addressRegion": "Chhattisgarh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "Machine Learning, Node.js, TypeScript, React, AWS, Agile/Scrum, Go, MongoDB",
+    "responsibilities": "Write clean, maintainable, and well-documented code. Collaborate with cross-functional teams including product, design, and QA. Participate in code reviews and contribute to technical discussions. Participate in on-call rotation for production support. Work with agile methodologies including daily stand-ups and sprint planning. Mentor junior developers and conduct knowledge-sharing sessions. Troubleshoot, debug, and resolve software defects and performance issues",
+    "benefits": "Mobile and internet reimbursement. Transportation and conveyance allowance. International travel opportunities for senior roles. Annual paid leaves and casual leaves. Professional development and training programs. Work-from-home flexibility",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Mobile and internet reimbursement, Transportation and conveyance allowance, International travel opportunities for senior roles, Annual paid leaves and casual leaves, Professional development and training programs, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "Texas Instruments India, one of India's leading organizations, is hiring a Backend Developer for our Raipur operations. We offer a competitive salary package al",
+    "keywords": "Backend Developer, Texas Instruments India, jobs in Raipur, Chhattisgarh jobs, technology jobs India, Machine Learning, Node.js, TypeScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:25:10.259Z",
+  "page": 11
+}
