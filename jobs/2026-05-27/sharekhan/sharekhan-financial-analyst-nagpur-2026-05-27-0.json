@@ -1,0 +1,93 @@
+{
+  "slug": "sharekhan-financial-analyst-nagpur-2026-05-27-0",
+  "title": "Job Opening Financial Analyst at Sharekhan",
+  "company": "Sharekhan",
+  "industry": "finance",
+  "role": "Financial Analyst",
+  "location": {
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "IFRS",
+    "Bloomberg Terminal",
+    "Ind AS",
+    "SAP FICO",
+    "Python for Finance",
+    "QuickBooks",
+    "Tally",
+    "MS Excel"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Job Opening Financial Analyst at Sharekhan",
+    "description": "If you're a passionate Financial Analyst with drive and ambition, Sharekhan in Nagpur is the place for you. We're growing fast and need talented people to grow with us.\n\nAbout Sharekhan:\nSharekhan is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure compliance with tax regulations and statutory requirements\n• Implement and maintain internal controls and audit procedures\n• Develop financial models and projections for business planning\n• Maintain general ledger and ensure accurate bookkeeping\n• Prepare MIS reports for senior management review\n• Prepare and analyze financial statements, reports, and budgets\n• Liaise with banks, regulators, and financial institutions\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 12-20 years of relevant experience\n• Proficiency in IFRS\n• Proficiency in Bloomberg Terminal\n• Proficiency in Ind AS\n• Proficiency in SAP FICO\n• Proficiency in Python for Finance\n• Proficiency in QuickBooks\n• Proficiency in Tally\n• Proficiency in MS Excel\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Life and accident insurance\n• Referral bonus program\n• Competitive salary with performance-linked incentives\n• Modern office with recreational facilities\n• Transportation and conveyance allowance\n• Annual performance appraisal\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Nagpur, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Sharekhan!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Sharekhan",
+      "value": "167-0-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Sharekhan",
+      "sameAs": "https://www.google.com/search?q=Sharekhan",
+      "logo": "https://logo.clearbit.com/sharekhan.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Sharekhan Office",
+        "addressLocality": "Nagpur",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "IFRS, Bloomberg Terminal, Ind AS, SAP FICO, Python for Finance, QuickBooks, Tally, MS Excel",
+    "responsibilities": "Ensure compliance with tax regulations and statutory requirements. Implement and maintain internal controls and audit procedures. Develop financial models and projections for business planning. Maintain general ledger and ensure accurate bookkeeping. Prepare MIS reports for senior management review. Prepare and analyze financial statements, reports, and budgets. Liaise with banks, regulators, and financial institutions",
+    "benefits": "Life and accident insurance. Referral bonus program. Competitive salary with performance-linked incentives. Modern office with recreational facilities. Transportation and conveyance allowance. Annual performance appraisal",
+    "industry": "finance",
+    "occupationalCategory": "Financial Analyst",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Referral bonus program, Competitive salary with performance-linked incentives, Modern office with recreational facilities, Transportation and conveyance allowance, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "If you're a passionate Financial Analyst with drive and ambition, Sharekhan in Nagpur is the place for you. We're growing fast and need talented people to grow ",
+    "keywords": "Financial Analyst, Sharekhan, jobs in Nagpur, Maharashtra jobs, finance jobs India, IFRS, Bloomberg Terminal, Ind AS, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:30:51.017Z",
+  "page": 41
+}
