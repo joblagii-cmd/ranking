@@ -1,0 +1,93 @@
+{
+  "slug": "wockhardt-hospitals-surgeon-tiruchirappalli-2026-05-27-3",
+  "title": "Surgeon Vacancy at Wockhardt Hospitals - 2026 Batch",
+  "company": "Wockhardt Hospitals",
+  "industry": "healthcare",
+  "role": "Surgeon",
+  "location": {
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Infection Control",
+    "Medical Terminology",
+    "ICU Management",
+    "Wound Care",
+    "Patient Care",
+    "Diagnostic Skills",
+    "Clinical Documentation",
+    "Medical Coding"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Surgeon Vacancy at Wockhardt Hospitals - 2026 Batch",
+    "description": "Wockhardt Hospitals has an exciting opening for a Surgeon at our Tiruchirappalli office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Wockhardt Hospitals:\nWockhardt Hospitals is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Respond to medical emergencies and provide immediate care\n• Adhere to NABH/JCI accreditation standards\n• Provide high-quality patient care and maintain patient records\n• Conduct routine health assessments and screenings\n• Attend continuing medical education programs and training\n• Maintain accurate clinical documentation in electronic health records\n• Administer medications and treatments as prescribed\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 3-6 years of relevant experience\n• Proficiency in Infection Control\n• Proficiency in Medical Terminology\n• Proficiency in ICU Management\n• Proficiency in Wound Care\n• Proficiency in Patient Care\n• Proficiency in Diagnostic Skills\n• Proficiency in Clinical Documentation\n• Proficiency in Medical Coding\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Mobile and internet reimbursement\n• International travel opportunities for senior roles\n• Meal coupons and food allowance\n• Annual performance appraisal\n• Employee stock options (ESOPs) for eligible roles\n• Modern office with recreational facilities\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Tiruchirappalli, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Wockhardt Hospitals!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Wockhardt Hospitals",
+      "value": "225-3-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Wockhardt Hospitals",
+      "sameAs": "https://www.google.com/search?q=Wockhardt%20Hospitals",
+      "logo": "https://logo.clearbit.com/wockhardthospitals.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Wockhardt Hospitals Office",
+        "addressLocality": "Tiruchirappalli",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "Infection Control, Medical Terminology, ICU Management, Wound Care, Patient Care, Diagnostic Skills, Clinical Documentation, Medical Coding",
+    "responsibilities": "Respond to medical emergencies and provide immediate care. Adhere to NABH/JCI accreditation standards. Provide high-quality patient care and maintain patient records. Conduct routine health assessments and screenings. Attend continuing medical education programs and training. Maintain accurate clinical documentation in electronic health records. Administer medications and treatments as prescribed",
+    "benefits": "Mobile and internet reimbursement. International travel opportunities for senior roles. Meal coupons and food allowance. Annual performance appraisal. Employee stock options (ESOPs) for eligible roles. Modern office with recreational facilities",
+    "industry": "healthcare",
+    "occupationalCategory": "Surgeon",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Mobile and internet reimbursement, International travel opportunities for senior roles, Meal coupons and food allowance, Annual performance appraisal, Employee stock options (ESOPs) for eligible roles, Modern office with recreational facilities"
+  },
+  "meta": {
+    "description": "Wockhardt Hospitals has an exciting opening for a Surgeon at our Tiruchirappalli office. Join a company that values innovation, collaboration, and continuous le",
+    "keywords": "Surgeon, Wockhardt Hospitals, jobs in Tiruchirappalli, Tamil Nadu jobs, healthcare jobs India, Infection Control, Medical Terminology, ICU Management, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:33:40.937Z",
+  "page": 56
+}

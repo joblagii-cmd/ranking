@@ -1,0 +1,94 @@
+{
+  "slug": "dr-reddy-s-laboratories-radiologist-delhi-2026-05-27-4",
+  "title": "Principal Radiologist at Dr. Reddy's Laboratories",
+  "company": "Dr. Reddy's Laboratories",
+  "industry": "healthcare",
+  "role": "Radiologist",
+  "location": {
+    "city": "Delhi",
+    "state": "Delhi",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Medical Coding",
+    "Infection Control",
+    "Health Informatics",
+    "HIPAA Compliance",
+    "Medical Ethics",
+    "Patient Care",
+    "Pharmacovigilance",
+    "BLS/ACLS"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Principal Radiologist at Dr. Reddy's Laboratories",
+    "description": "Dr. Reddy's Laboratories has an exciting opening for a Radiologist at our Delhi office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Dr. Reddy's Laboratories:\nDr. Reddy's Laboratories is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Respond to medical emergencies and provide immediate care\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Collaborate with pharmaceutical representatives and medical suppliers\n• Conduct routine health assessments and screenings\n• Ensure patient privacy and maintain confidentiality\n• Attend continuing medical education programs and training\n• Adhere to NABH/JCI accreditation standards\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 10-15 years of relevant experience\n• Proficiency in Medical Coding\n• Proficiency in Infection Control\n• Proficiency in Health Informatics\n• Proficiency in HIPAA Compliance\n• Proficiency in Medical Ethics\n• Proficiency in Patient Care\n• Proficiency in Pharmacovigilance\n• Proficiency in BLS/ACLS\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Comprehensive health insurance for self and family\n• International travel opportunities for senior roles\n• Competitive salary with performance-linked incentives\n• Life and accident insurance\n• Work-from-home flexibility\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Delhi, Delhi, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Dr. Reddy's Laboratories!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Dr. Reddy's Laboratories",
+      "value": "228-4-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Dr. Reddy's Laboratories",
+      "sameAs": "https://www.google.com/search?q=Dr.%20Reddy's%20Laboratories",
+      "logo": "https://logo.clearbit.com/drreddyslaboratories.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Dr. Reddy's Laboratories Office",
+        "addressLocality": "Delhi",
+        "addressRegion": "Delhi",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "Medical Coding, Infection Control, Health Informatics, HIPAA Compliance, Medical Ethics, Patient Care, Pharmacovigilance, BLS/ACLS",
+    "responsibilities": "Respond to medical emergencies and provide immediate care. Coordinate with multidisciplinary teams for comprehensive patient management. Collaborate with pharmaceutical representatives and medical suppliers. Conduct routine health assessments and screenings. Ensure patient privacy and maintain confidentiality. Attend continuing medical education programs and training. Adhere to NABH/JCI accreditation standards",
+    "benefits": "Annual paid leaves and casual leaves. Comprehensive health insurance for self and family. International travel opportunities for senior roles. Competitive salary with performance-linked incentives. Life and accident insurance. Work-from-home flexibility",
+    "industry": "healthcare",
+    "occupationalCategory": "Radiologist",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Comprehensive health insurance for self and family, International travel opportunities for senior roles, Competitive salary with performance-linked incentives, Life and accident insurance, Work-from-home flexibility"
+  },
+  "meta": {
+    "description": "Dr. Reddy's Laboratories has an exciting opening for a Radiologist at our Delhi office. Join a company that values innovation, collaboration, and continuous lea",
+    "keywords": "Radiologist, Dr. Reddy's Laboratories, jobs in Delhi, Delhi jobs, healthcare jobs India, Medical Coding, Infection Control, Health Informatics, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:33:40.940Z",
+  "page": 56
+}

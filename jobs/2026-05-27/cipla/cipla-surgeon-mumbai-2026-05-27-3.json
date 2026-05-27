@@ -1,0 +1,94 @@
+{
+  "slug": "cipla-surgeon-mumbai-2026-05-27-3",
+  "title": "Surgeon Vacancy at Cipla - 2026 Batch",
+  "company": "Cipla",
+  "industry": "healthcare",
+  "role": "Surgeon",
+  "location": {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "EMR/EHR",
+    "Infection Control",
+    "Clinical Documentation",
+    "Diagnostic Skills",
+    "HIPAA Compliance",
+    "ICD-10",
+    "ICU Management",
+    "Patient Care"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Surgeon Vacancy at Cipla - 2026 Batch",
+    "description": "Cipla has an exciting opening for a Surgeon at our Mumbai office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Cipla:\nCipla is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Administer medications and treatments as prescribed\n• Provide high-quality patient care and maintain patient records\n• Respond to medical emergencies and provide immediate care\n• Monitor patient progress and adjust treatment plans accordingly\n• Diagnose and treat medical conditions following established protocols\n• Educate patients and families on health management and disease prevention\n• Adhere to NABH/JCI accreditation standards\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 0-1 years of relevant experience\n• Proficiency in EMR/EHR\n• Proficiency in Infection Control\n• Proficiency in Clinical Documentation\n• Proficiency in Diagnostic Skills\n• Proficiency in HIPAA Compliance\n• Proficiency in ICD-10\n• Proficiency in ICU Management\n• Proficiency in Patient Care\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Mobile and internet reimbursement\n• Life and accident insurance\n• Recognition and rewards programs\n• Work-from-home flexibility\n• Learning & development budget\n• Flexible working hours\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Mumbai, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Cipla!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Cipla",
+      "value": "227-3-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Cipla",
+      "sameAs": "https://www.google.com/search?q=Cipla",
+      "logo": "https://logo.clearbit.com/cipla.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Cipla Office",
+        "addressLocality": "Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "EMR/EHR, Infection Control, Clinical Documentation, Diagnostic Skills, HIPAA Compliance, ICD-10, ICU Management, Patient Care",
+    "responsibilities": "Administer medications and treatments as prescribed. Provide high-quality patient care and maintain patient records. Respond to medical emergencies and provide immediate care. Monitor patient progress and adjust treatment plans accordingly. Diagnose and treat medical conditions following established protocols. Educate patients and families on health management and disease prevention. Adhere to NABH/JCI accreditation standards",
+    "benefits": "Mobile and internet reimbursement. Life and accident insurance. Recognition and rewards programs. Work-from-home flexibility. Learning & development budget. Flexible working hours",
+    "industry": "healthcare",
+    "occupationalCategory": "Surgeon",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Mobile and internet reimbursement, Life and accident insurance, Recognition and rewards programs, Work-from-home flexibility, Learning & development budget, Flexible working hours"
+  },
+  "meta": {
+    "description": "Cipla has an exciting opening for a Surgeon at our Mumbai office. Join a company that values innovation, collaboration, and continuous learning.",
+    "keywords": "Surgeon, Cipla, jobs in Mumbai, Maharashtra jobs, healthcare jobs India, EMR/EHR, Infection Control, Clinical Documentation, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:33:40.938Z",
+  "page": 56
+}
