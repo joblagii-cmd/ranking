@@ -1,0 +1,93 @@
+{
+  "slug": "lybrate-backend-developer-ranchi-2026-05-27-3",
+  "title": "Backend Developer Vacancy at Lybrate - 2026 Batch",
+  "company": "Lybrate",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Git",
+    "JavaScript",
+    "React",
+    "MongoDB",
+    "TensorFlow",
+    "SQL",
+    "Agile/Scrum",
+    "Java"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Lybrate - 2026 Batch",
+    "description": "Lybrate invites applications from qualified candidates for the position of Backend Developer at our Ranchi location. This role offers excellent career advancement prospects.\n\nAbout Lybrate:\nLybrate is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Participate in on-call rotation for production support\n• Write clean, maintainable, and well-documented code\n• Ensure code security and follow best practices for data protection\n• Optimize application performance and ensure high availability\n• Write and execute unit tests and integration tests\n• Mentor junior developers and conduct knowledge-sharing sessions\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 6-10 years of relevant experience\n• Proficiency in Git\n• Proficiency in JavaScript\n• Proficiency in React\n• Proficiency in MongoDB\n• Proficiency in TensorFlow\n• Proficiency in SQL\n• Proficiency in Agile/Scrum\n• Proficiency in Java\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Company-sponsored certifications\n• International travel opportunities for senior roles\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Modern office with recreational facilities\n• Recognition and rewards programs\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Ranchi, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Lybrate!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Lybrate",
+      "value": "118-3-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Lybrate",
+      "sameAs": "https://www.google.com/search?q=Lybrate",
+      "logo": "https://logo.clearbit.com/lybrate.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Lybrate Office",
+        "addressLocality": "Ranchi",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "Git, JavaScript, React, MongoDB, TensorFlow, SQL, Agile/Scrum, Java",
+    "responsibilities": "Design, develop and maintain scalable software applications. Participate in on-call rotation for production support. Write clean, maintainable, and well-documented code. Ensure code security and follow best practices for data protection. Optimize application performance and ensure high availability. Write and execute unit tests and integration tests. Mentor junior developers and conduct knowledge-sharing sessions",
+    "benefits": "Company-sponsored certifications. International travel opportunities for senior roles. Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Modern office with recreational facilities. Recognition and rewards programs",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Company-sponsored certifications, International travel opportunities for senior roles, Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Modern office with recreational facilities, Recognition and rewards programs"
+  },
+  "meta": {
+    "description": "Lybrate invites applications from qualified candidates for the position of Backend Developer at our Ranchi location. This role offers excellent career advanceme",
+    "keywords": "Backend Developer, Lybrate, jobs in Ranchi, Jharkhand jobs, technology jobs India, Git, JavaScript, React, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:28:34.428Z",
+  "page": 29
+}

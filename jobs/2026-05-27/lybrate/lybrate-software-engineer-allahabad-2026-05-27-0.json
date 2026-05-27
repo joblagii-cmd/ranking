@@ -1,0 +1,93 @@
+{
+  "slug": "lybrate-software-engineer-allahabad-2026-05-27-0",
+  "title": "Opening for Software Engineer at Lybrate",
+  "company": "Lybrate",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Allahabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "JavaScript",
+    "REST APIs",
+    "React",
+    "Git",
+    "Machine Learning",
+    "AWS",
+    "Java",
+    "Go"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Opening for Software Engineer at Lybrate",
+    "description": "Lybrate invites applications from qualified candidates for the position of Software Engineer at our Allahabad location. This role offers excellent career advancement prospects.\n\nAbout Lybrate:\nLybrate is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write and execute unit tests and integration tests\n• Optimize application performance and ensure high availability\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in code reviews and contribute to technical discussions\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Ensure code security and follow best practices for data protection\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 0-1 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in REST APIs\n• Proficiency in React\n• Proficiency in Git\n• Proficiency in Machine Learning\n• Proficiency in AWS\n• Proficiency in Java\n• Proficiency in Go\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Provident Fund and Gratuity as per company policy\n• Work-from-home flexibility\n• Comprehensive health insurance for self and family\n• Modern office with recreational facilities\n• Life and accident insurance\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Allahabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Lybrate!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Lybrate",
+      "value": "118-0-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Lybrate",
+      "sameAs": "https://www.google.com/search?q=Lybrate",
+      "logo": "https://logo.clearbit.com/lybrate.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Lybrate Office",
+        "addressLocality": "Allahabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "JavaScript, REST APIs, React, Git, Machine Learning, AWS, Java, Go",
+    "responsibilities": "Write and execute unit tests and integration tests. Optimize application performance and ensure high availability. Collaborate with cross-functional teams including product, design, and QA. Participate in code reviews and contribute to technical discussions. Troubleshoot, debug, and resolve software defects and performance issues. Work with agile methodologies including daily stand-ups and sprint planning. Ensure code security and follow best practices for data protection",
+    "benefits": "International travel opportunities for senior roles. Provident Fund and Gratuity as per company policy. Work-from-home flexibility. Comprehensive health insurance for self and family. Modern office with recreational facilities. Life and accident insurance",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Provident Fund and Gratuity as per company policy, Work-from-home flexibility, Comprehensive health insurance for self and family, Modern office with recreational facilities, Life and accident insurance"
+  },
+  "meta": {
+    "description": "Lybrate invites applications from qualified candidates for the position of Software Engineer at our Allahabad location. This role offers excellent career advanc",
+    "keywords": "Software Engineer, Lybrate, jobs in Allahabad, Uttar Pradesh jobs, technology jobs India, JavaScript, REST APIs, React, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:28:34.428Z",
+  "page": 29
+}

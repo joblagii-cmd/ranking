@@ -1,0 +1,93 @@
+{
+  "slug": "icliniq-senior-software-engineer-ranchi-2026-05-27-1",
+  "title": "Senior Software Engineer - iCliniq - Top MNC",
+  "company": "iCliniq",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "JavaScript",
+    "Git",
+    "Microservices",
+    "Python",
+    "React",
+    "SQL",
+    "AWS",
+    "Docker"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - iCliniq - Top MNC",
+    "description": "iCliniq invites applications from qualified candidates for the position of Senior Software Engineer at our Ranchi location. This role offers excellent career advancement prospects.\n\nAbout iCliniq:\niCliniq is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Contribute to system architecture and technical design decisions\n• Design, develop and maintain scalable software applications\n• Implement new features based on product requirements\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Ensure code security and follow best practices for data protection\n• Write clean, maintainable, and well-documented code\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 10-15 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in Git\n• Proficiency in Microservices\n• Proficiency in Python\n• Proficiency in React\n• Proficiency in SQL\n• Proficiency in AWS\n• Proficiency in Docker\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• International travel opportunities for senior roles\n• Employee stock options (ESOPs) for eligible roles\n• Comprehensive health insurance for self and family\n• Mobile and internet reimbursement\n• Company-sponsored certifications\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Ranchi, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with iCliniq!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "iCliniq",
+      "value": "119-1-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "iCliniq",
+      "sameAs": "https://www.google.com/search?q=iCliniq",
+      "logo": "https://logo.clearbit.com/icliniq.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "iCliniq Office",
+        "addressLocality": "Ranchi",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "JavaScript, Git, Microservices, Python, React, SQL, AWS, Docker",
+    "responsibilities": "Contribute to system architecture and technical design decisions. Design, develop and maintain scalable software applications. Implement new features based on product requirements. Mentor junior developers and conduct knowledge-sharing sessions. Ensure code security and follow best practices for data protection. Write clean, maintainable, and well-documented code. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP",
+    "benefits": "Transportation and conveyance allowance. International travel opportunities for senior roles. Employee stock options (ESOPs) for eligible roles. Comprehensive health insurance for self and family. Mobile and internet reimbursement. Company-sponsored certifications",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, International travel opportunities for senior roles, Employee stock options (ESOPs) for eligible roles, Comprehensive health insurance for self and family, Mobile and internet reimbursement, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "iCliniq invites applications from qualified candidates for the position of Senior Software Engineer at our Ranchi location. This role offers excellent career ad",
+    "keywords": "Senior Software Engineer, iCliniq, jobs in Ranchi, Jharkhand jobs, technology jobs India, JavaScript, Git, Microservices, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:28:34.428Z",
+  "page": 29
+}
