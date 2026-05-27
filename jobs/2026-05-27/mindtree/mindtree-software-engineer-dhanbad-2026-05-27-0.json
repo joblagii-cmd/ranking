@@ -1,0 +1,93 @@
+{
+  "slug": "mindtree-software-engineer-dhanbad-2026-05-27-0",
+  "title": "Walk-in Drive Software Engineer at Mindtree",
+  "company": "Mindtree",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Dhanbad",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "CI/CD",
+    "Kubernetes",
+    "MongoDB",
+    "Node.js",
+    "React",
+    "TensorFlow",
+    "AWS",
+    "TypeScript"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Walk-in Drive Software Engineer at Mindtree",
+    "description": "Are you a skilled Software Engineer looking for your next big career move? Mindtree in Dhanbad offers you the perfect platform to grow professionally and personally.\n\nAbout Mindtree:\nMindtree is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write clean, maintainable, and well-documented code\n• Design, develop and maintain scalable software applications\n• Contribute to system architecture and technical design decisions\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Implement new features based on product requirements\n• Write and execute unit tests and integration tests\n• Optimize application performance and ensure high availability\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 12-20 years of relevant experience\n• Proficiency in CI/CD\n• Proficiency in Kubernetes\n• Proficiency in MongoDB\n• Proficiency in Node.js\n• Proficiency in React\n• Proficiency in TensorFlow\n• Proficiency in AWS\n• Proficiency in TypeScript\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Maternity and paternity leave\n• Comprehensive health insurance for self and family\n• Referral bonus program\n• Competitive salary with performance-linked incentives\n• Mobile and internet reimbursement\n• Professional development and training programs\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Dhanbad, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Mindtree!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Mindtree",
+      "value": "29-0-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Mindtree",
+      "sameAs": "https://www.google.com/search?q=Mindtree",
+      "logo": "https://logo.clearbit.com/mindtree.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Mindtree Office",
+        "addressLocality": "Dhanbad",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "CI/CD, Kubernetes, MongoDB, Node.js, React, TensorFlow, AWS, TypeScript",
+    "responsibilities": "Write clean, maintainable, and well-documented code. Design, develop and maintain scalable software applications. Contribute to system architecture and technical design decisions. Work with agile methodologies including daily stand-ups and sprint planning. Implement new features based on product requirements. Write and execute unit tests and integration tests. Optimize application performance and ensure high availability",
+    "benefits": "Maternity and paternity leave. Comprehensive health insurance for self and family. Referral bonus program. Competitive salary with performance-linked incentives. Mobile and internet reimbursement. Professional development and training programs",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Maternity and paternity leave, Comprehensive health insurance for self and family, Referral bonus program, Competitive salary with performance-linked incentives, Mobile and internet reimbursement, Professional development and training programs"
+  },
+  "meta": {
+    "description": "Are you a skilled Software Engineer looking for your next big career move? Mindtree in Dhanbad offers you the perfect platform to grow professionally and person",
+    "keywords": "Software Engineer, Mindtree, jobs in Dhanbad, Jharkhand jobs, technology jobs India, CI/CD, Kubernetes, MongoDB, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:24:25.333Z",
+  "page": 7
+}

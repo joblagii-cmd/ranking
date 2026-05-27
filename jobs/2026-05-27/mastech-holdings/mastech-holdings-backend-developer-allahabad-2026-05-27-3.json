@@ -1,0 +1,94 @@
+{
+  "slug": "mastech-holdings-backend-developer-allahabad-2026-05-27-3",
+  "title": "Backend Developer Vacancy at Mastech Holdings - 2026 Batch",
+  "company": "Mastech Holdings",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Allahabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Kubernetes",
+    "CI/CD",
+    "Microservices",
+    "Go",
+    "JavaScript",
+    "TensorFlow",
+    "Git",
+    "Agile/Scrum"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Mastech Holdings - 2026 Batch",
+    "description": "Mastech Holdings, one of India's leading organizations, is hiring a Backend Developer for our Allahabad operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Mastech Holdings:\nMastech Holdings is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure code security and follow best practices for data protection\n• Participate in code reviews and contribute to technical discussions\n• Write clean, maintainable, and well-documented code\n• Collaborate with cross-functional teams including product, design, and QA\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Write and execute unit tests and integration tests\n• Troubleshoot, debug, and resolve software defects and performance issues\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 10-15 years of relevant experience\n• Proficiency in Kubernetes\n• Proficiency in CI/CD\n• Proficiency in Microservices\n• Proficiency in Go\n• Proficiency in JavaScript\n• Proficiency in TensorFlow\n• Proficiency in Git\n• Proficiency in Agile/Scrum\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Modern office with recreational facilities\n• Referral bonus program\n• International travel opportunities for senior roles\n• Company-sponsored certifications\n• Mobile and internet reimbursement\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Allahabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Mastech Holdings!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Mastech Holdings",
+      "value": "32-3-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Mastech Holdings",
+      "sameAs": "https://www.google.com/search?q=Mastech%20Holdings",
+      "logo": "https://logo.clearbit.com/mastechholdings.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Mastech Holdings Office",
+        "addressLocality": "Allahabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "Kubernetes, CI/CD, Microservices, Go, JavaScript, TensorFlow, Git, Agile/Scrum",
+    "responsibilities": "Ensure code security and follow best practices for data protection. Participate in code reviews and contribute to technical discussions. Write clean, maintainable, and well-documented code. Collaborate with cross-functional teams including product, design, and QA. Mentor junior developers and conduct knowledge-sharing sessions. Write and execute unit tests and integration tests. Troubleshoot, debug, and resolve software defects and performance issues",
+    "benefits": "Annual paid leaves and casual leaves. Modern office with recreational facilities. Referral bonus program. International travel opportunities for senior roles. Company-sponsored certifications. Mobile and internet reimbursement",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Modern office with recreational facilities, Referral bonus program, International travel opportunities for senior roles, Company-sponsored certifications, Mobile and internet reimbursement"
+  },
+  "meta": {
+    "description": "Mastech Holdings, one of India's leading organizations, is hiring a Backend Developer for our Allahabad operations. We offer a competitive salary package along ",
+    "keywords": "Backend Developer, Mastech Holdings, jobs in Allahabad, Uttar Pradesh jobs, technology jobs India, Kubernetes, CI/CD, Microservices, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:24:25.335Z",
+  "page": 7
+}
