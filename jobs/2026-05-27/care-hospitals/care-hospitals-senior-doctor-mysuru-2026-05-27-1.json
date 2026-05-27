@@ -1,0 +1,94 @@
+{
+  "slug": "care-hospitals-senior-doctor-mysuru-2026-05-27-1",
+  "title": "Senior Doctor - Care Hospitals - Work From Home Available",
+  "company": "Care Hospitals",
+  "industry": "healthcare",
+  "role": "Senior Doctor",
+  "location": {
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Health Informatics",
+    "EMR/EHR",
+    "Wound Care",
+    "Infection Control",
+    "ICU Management",
+    "NABH Standards",
+    "Medical Coding",
+    "Clinical Documentation"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Doctor - Care Hospitals - Work From Home Available",
+    "description": "Care Hospitals has an exciting opening for a Senior Doctor at our Mysuru office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Care Hospitals:\nCare Hospitals is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Diagnose and treat medical conditions following established protocols\n• Collaborate with pharmaceutical representatives and medical suppliers\n• Administer medications and treatments as prescribed\n• Maintain accurate clinical documentation in electronic health records\n• Provide high-quality patient care and maintain patient records\n• Respond to medical emergencies and provide immediate care\n• Monitor patient progress and adjust treatment plans accordingly\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 0-1 years of relevant experience\n• Proficiency in Health Informatics\n• Proficiency in EMR/EHR\n• Proficiency in Wound Care\n• Proficiency in Infection Control\n• Proficiency in ICU Management\n• Proficiency in NABH Standards\n• Proficiency in Medical Coding\n• Proficiency in Clinical Documentation\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Mobile and internet reimbursement\n• Meal coupons and food allowance\n• Comprehensive health insurance for self and family\n• Work-from-home flexibility\n• Company-sponsored certifications\n• Flexible working hours\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Mysuru, Karnataka, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Care Hospitals!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Care Hospitals",
+      "value": "224-1-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Care Hospitals",
+      "sameAs": "https://www.google.com/search?q=Care%20Hospitals",
+      "logo": "https://logo.clearbit.com/carehospitals.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Care Hospitals Office",
+        "addressLocality": "Mysuru",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "Health Informatics, EMR/EHR, Wound Care, Infection Control, ICU Management, NABH Standards, Medical Coding, Clinical Documentation",
+    "responsibilities": "Diagnose and treat medical conditions following established protocols. Collaborate with pharmaceutical representatives and medical suppliers. Administer medications and treatments as prescribed. Maintain accurate clinical documentation in electronic health records. Provide high-quality patient care and maintain patient records. Respond to medical emergencies and provide immediate care. Monitor patient progress and adjust treatment plans accordingly",
+    "benefits": "Mobile and internet reimbursement. Meal coupons and food allowance. Comprehensive health insurance for self and family. Work-from-home flexibility. Company-sponsored certifications. Flexible working hours",
+    "industry": "healthcare",
+    "occupationalCategory": "Senior Doctor",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Mobile and internet reimbursement, Meal coupons and food allowance, Comprehensive health insurance for self and family, Work-from-home flexibility, Company-sponsored certifications, Flexible working hours"
+  },
+  "meta": {
+    "description": "Care Hospitals has an exciting opening for a Senior Doctor at our Mysuru office. Join a company that values innovation, collaboration, and continuous learning.",
+    "keywords": "Senior Doctor, Care Hospitals, jobs in Mysuru, Karnataka jobs, healthcare jobs India, Health Informatics, EMR/EHR, Wound Care, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:33:30.004Z",
+  "page": 55
+}

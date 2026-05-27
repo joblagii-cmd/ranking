@@ -1,0 +1,93 @@
+{
+  "slug": "columbia-asia-senior-doctor-noida-2026-05-27-1",
+  "title": "Senior Doctor - Columbia Asia - Work From Home Available",
+  "company": "Columbia Asia",
+  "industry": "healthcare",
+  "role": "Senior Doctor",
+  "location": {
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Medical Coding",
+    "EMR/EHR",
+    "NABH Standards",
+    "BLS/ACLS",
+    "Infection Control",
+    "Medical Ethics",
+    "Pharmacovigilance",
+    "Medical Terminology"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Doctor - Columbia Asia - Work From Home Available",
+    "description": "Columbia Asia has an exciting opening for a Senior Doctor at our Noida office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Columbia Asia:\nColumbia Asia is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Respond to medical emergencies and provide immediate care\n• Diagnose and treat medical conditions following established protocols\n• Monitor patient progress and adjust treatment plans accordingly\n• Attend continuing medical education programs and training\n• Provide high-quality patient care and maintain patient records\n• Administer medications and treatments as prescribed\n• Coordinate with multidisciplinary teams for comprehensive patient management\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 3-6 years of relevant experience\n• Proficiency in Medical Coding\n• Proficiency in EMR/EHR\n• Proficiency in NABH Standards\n• Proficiency in BLS/ACLS\n• Proficiency in Infection Control\n• Proficiency in Medical Ethics\n• Proficiency in Pharmacovigilance\n• Proficiency in Medical Terminology\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Flexible working hours\n• Transportation and conveyance allowance\n• Professional development and training programs\n• International travel opportunities for senior roles\n• Company-sponsored certifications\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Noida, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Columbia Asia!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Columbia Asia",
+      "value": "222-1-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Columbia Asia",
+      "sameAs": "https://www.google.com/search?q=Columbia%20Asia",
+      "logo": "https://logo.clearbit.com/columbiaasia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Columbia Asia Office",
+        "addressLocality": "Noida",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "Medical Coding, EMR/EHR, NABH Standards, BLS/ACLS, Infection Control, Medical Ethics, Pharmacovigilance, Medical Terminology",
+    "responsibilities": "Respond to medical emergencies and provide immediate care. Diagnose and treat medical conditions following established protocols. Monitor patient progress and adjust treatment plans accordingly. Attend continuing medical education programs and training. Provide high-quality patient care and maintain patient records. Administer medications and treatments as prescribed. Coordinate with multidisciplinary teams for comprehensive patient management",
+    "benefits": "Flexible working hours. Transportation and conveyance allowance. Professional development and training programs. International travel opportunities for senior roles. Company-sponsored certifications. Employee stock options (ESOPs) for eligible roles",
+    "industry": "healthcare",
+    "occupationalCategory": "Senior Doctor",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, Transportation and conveyance allowance, Professional development and training programs, International travel opportunities for senior roles, Company-sponsored certifications, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "Columbia Asia has an exciting opening for a Senior Doctor at our Noida office. Join a company that values innovation, collaboration, and continuous learning.",
+    "keywords": "Senior Doctor, Columbia Asia, jobs in Noida, Uttar Pradesh jobs, healthcare jobs India, Medical Coding, EMR/EHR, NABH Standards, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:33:30.003Z",
+  "page": 55
+}
