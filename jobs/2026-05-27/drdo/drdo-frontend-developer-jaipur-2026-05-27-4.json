@@ -1,0 +1,94 @@
+{
+  "slug": "drdo-frontend-developer-jaipur-2026-05-27-4",
+  "title": "Mid-Level Frontend Developer at DRDO",
+  "company": "DRDO",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Agile/Scrum",
+    "REST APIs",
+    "Docker",
+    "Git",
+    "Rust",
+    "AWS",
+    "Go",
+    "TypeScript"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Frontend Developer at DRDO",
+    "description": "An exciting career opportunity awaits you at DRDO. We are on the lookout for a dedicated Frontend Developer to strengthen our Jaipur-based team.\n\nAbout DRDO:\nDRDO is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Participate in code reviews and contribute to technical discussions\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Optimize application performance and ensure high availability\n• Contribute to system architecture and technical design decisions\n• Write and execute unit tests and integration tests\n• Collaborate with cross-functional teams including product, design, and QA\n\nRequired Skills & Qualifications:\n• Post Graduate Diploma in relevant field\n• 12-20 years of relevant experience\n• Proficiency in Agile/Scrum\n• Proficiency in REST APIs\n• Proficiency in Docker\n• Proficiency in Git\n• Proficiency in Rust\n• Proficiency in AWS\n• Proficiency in Go\n• Proficiency in TypeScript\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Annual performance appraisal\n• Provident Fund and Gratuity as per company policy\n• Annual paid leaves and casual leaves\n• Meal coupons and food allowance\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Jaipur, Rajasthan, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with DRDO!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "DRDO",
+      "value": "73-4-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "DRDO",
+      "sameAs": "https://www.google.com/search?q=DRDO",
+      "logo": "https://logo.clearbit.com/drdo.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "DRDO Office",
+        "addressLocality": "Jaipur",
+        "addressRegion": "Rajasthan",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Post Graduate Diploma in relevant field"
+    },
+    "skills": "Agile/Scrum, REST APIs, Docker, Git, Rust, AWS, Go, TypeScript",
+    "responsibilities": "Mentor junior developers and conduct knowledge-sharing sessions. Participate in code reviews and contribute to technical discussions. Troubleshoot, debug, and resolve software defects and performance issues. Optimize application performance and ensure high availability. Contribute to system architecture and technical design decisions. Write and execute unit tests and integration tests. Collaborate with cross-functional teams including product, design, and QA",
+    "benefits": "Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Annual performance appraisal. Provident Fund and Gratuity as per company policy. Annual paid leaves and casual leaves. Meal coupons and food allowance",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Annual performance appraisal, Provident Fund and Gratuity as per company policy, Annual paid leaves and casual leaves, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at DRDO. We are on the lookout for a dedicated Frontend Developer to strengthen our Jaipur-based team.",
+    "keywords": "Frontend Developer, DRDO, jobs in Jaipur, Rajasthan jobs, technology jobs India, Agile/Scrum, REST APIs, Docker, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:26:30.899Z",
+  "page": 18
+}
