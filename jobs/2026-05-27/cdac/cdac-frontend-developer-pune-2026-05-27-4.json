@@ -1,0 +1,93 @@
+{
+  "slug": "cdac-frontend-developer-pune-2026-05-27-4",
+  "title": "Mid-Level Frontend Developer at CDAC",
+  "company": "CDAC",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Pune",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Python",
+    "Agile/Scrum",
+    "AWS",
+    "TypeScript",
+    "JavaScript",
+    "Machine Learning",
+    "Kubernetes",
+    "TensorFlow"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Frontend Developer at CDAC",
+    "description": "An exciting career opportunity awaits you at CDAC. We are on the lookout for a dedicated Frontend Developer to strengthen our Pune-based team.\n\nAbout CDAC:\nCDAC is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Optimize application performance and ensure high availability\n• Participate in code reviews and contribute to technical discussions\n• Design, develop and maintain scalable software applications\n• Implement new features based on product requirements\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in on-call rotation for production support\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 1-3 years of relevant experience\n• Proficiency in Python\n• Proficiency in Agile/Scrum\n• Proficiency in AWS\n• Proficiency in TypeScript\n• Proficiency in JavaScript\n• Proficiency in Machine Learning\n• Proficiency in Kubernetes\n• Proficiency in TensorFlow\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Work-from-home flexibility\n• International travel opportunities for senior roles\n• Recognition and rewards programs\n• Modern office with recreational facilities\n• Referral bonus program\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Pune, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with CDAC!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "CDAC",
+      "value": "71-4-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "CDAC",
+      "sameAs": "https://www.google.com/search?q=CDAC",
+      "logo": "https://logo.clearbit.com/cdac.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "CDAC Office",
+        "addressLocality": "Pune",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "Python, Agile/Scrum, AWS, TypeScript, JavaScript, Machine Learning, Kubernetes, TensorFlow",
+    "responsibilities": "Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Optimize application performance and ensure high availability. Participate in code reviews and contribute to technical discussions. Design, develop and maintain scalable software applications. Implement new features based on product requirements. Collaborate with cross-functional teams including product, design, and QA. Participate in on-call rotation for production support",
+    "benefits": "Transportation and conveyance allowance. Work-from-home flexibility. International travel opportunities for senior roles. Recognition and rewards programs. Modern office with recreational facilities. Referral bonus program",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Work-from-home flexibility, International travel opportunities for senior roles, Recognition and rewards programs, Modern office with recreational facilities, Referral bonus program"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at CDAC. We are on the lookout for a dedicated Frontend Developer to strengthen our Pune-based team.",
+    "keywords": "Frontend Developer, CDAC, jobs in Pune, Maharashtra jobs, technology jobs India, Python, Agile/Scrum, AWS, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:26:18.604Z",
+  "page": 17
+}
