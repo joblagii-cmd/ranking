@@ -1,0 +1,94 @@
+{
+  "slug": "honeywell-india-frontend-developer-bhubaneswar-2026-05-27-4",
+  "title": "Mid-Level Frontend Developer at Honeywell India",
+  "company": "Honeywell India",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Docker",
+    "Node.js",
+    "Agile/Scrum",
+    "AWS",
+    "JavaScript",
+    "MongoDB",
+    "Microservices",
+    "TensorFlow"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Frontend Developer at Honeywell India",
+    "description": "An exciting career opportunity awaits you at Honeywell India. We are on the lookout for a dedicated Frontend Developer to strengthen our Bhubaneswar-based team.\n\nAbout Honeywell India:\nHoneywell India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Write clean, maintainable, and well-documented code\n• Ensure code security and follow best practices for data protection\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Integrate third-party APIs and services\n• Contribute to system architecture and technical design decisions\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 6-10 years of relevant experience\n• Proficiency in Docker\n• Proficiency in Node.js\n• Proficiency in Agile/Scrum\n• Proficiency in AWS\n• Proficiency in JavaScript\n• Proficiency in MongoDB\n• Proficiency in Microservices\n• Proficiency in TensorFlow\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• Maternity and paternity leave\n• Life and accident insurance\n• Learning & development budget\n• Annual paid leaves and casual leaves\n• Company-sponsored certifications\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Bhubaneswar, Odisha, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Honeywell India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Honeywell India",
+      "value": "59-4-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Honeywell India",
+      "sameAs": "https://www.google.com/search?q=Honeywell%20India",
+      "logo": "https://logo.clearbit.com/honeywellindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Honeywell India Office",
+        "addressLocality": "Bhubaneswar",
+        "addressRegion": "Odisha",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Docker, Node.js, Agile/Scrum, AWS, JavaScript, MongoDB, Microservices, TensorFlow",
+    "responsibilities": "Design, develop and maintain scalable software applications. Write clean, maintainable, and well-documented code. Ensure code security and follow best practices for data protection. Mentor junior developers and conduct knowledge-sharing sessions. Integrate third-party APIs and services. Contribute to system architecture and technical design decisions. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP",
+    "benefits": "Comprehensive health insurance for self and family. Maternity and paternity leave. Life and accident insurance. Learning & development budget. Annual paid leaves and casual leaves. Company-sponsored certifications",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, Maternity and paternity leave, Life and accident insurance, Learning & development budget, Annual paid leaves and casual leaves, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Honeywell India. We are on the lookout for a dedicated Frontend Developer to strengthen our Bhubaneswar-based team.",
+    "keywords": "Frontend Developer, Honeywell India, jobs in Bhubaneswar, Odisha jobs, technology jobs India, Docker, Node.js, Agile/Scrum, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:25:44.345Z",
+  "page": 14
+}

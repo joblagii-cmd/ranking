@@ -1,0 +1,93 @@
+{
+  "slug": "siemens-india-frontend-developer-tiruchirappalli-2026-05-27-4",
+  "title": "Mid-Level Frontend Developer at Siemens India",
+  "company": "Siemens India",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Python",
+    "Kubernetes",
+    "SQL",
+    "React",
+    "Agile/Scrum",
+    "AWS",
+    "REST APIs",
+    "Go"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Frontend Developer at Siemens India",
+    "description": "An exciting career opportunity awaits you at Siemens India. We are on the lookout for a dedicated Frontend Developer to strengthen our Tiruchirappalli-based team.\n\nAbout Siemens India:\nSiemens India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Write clean, maintainable, and well-documented code\n• Integrate third-party APIs and services\n• Write and execute unit tests and integration tests\n• Contribute to system architecture and technical design decisions\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Mentor junior developers and conduct knowledge-sharing sessions\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 12-20 years of relevant experience\n• Proficiency in Python\n• Proficiency in Kubernetes\n• Proficiency in SQL\n• Proficiency in React\n• Proficiency in Agile/Scrum\n• Proficiency in AWS\n• Proficiency in REST APIs\n• Proficiency in Go\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Referral bonus program\n• Flexible working hours\n• Annual performance appraisal\n• Employee stock options (ESOPs) for eligible roles\n• Competitive salary with performance-linked incentives\n• Life and accident insurance\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Tiruchirappalli, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Siemens India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Siemens India",
+      "value": "57-4-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Siemens India",
+      "sameAs": "https://www.google.com/search?q=Siemens%20India",
+      "logo": "https://logo.clearbit.com/siemensindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Siemens India Office",
+        "addressLocality": "Tiruchirappalli",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "Python, Kubernetes, SQL, React, Agile/Scrum, AWS, REST APIs, Go",
+    "responsibilities": "Design, develop and maintain scalable software applications. Write clean, maintainable, and well-documented code. Integrate third-party APIs and services. Write and execute unit tests and integration tests. Contribute to system architecture and technical design decisions. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Mentor junior developers and conduct knowledge-sharing sessions",
+    "benefits": "Referral bonus program. Flexible working hours. Annual performance appraisal. Employee stock options (ESOPs) for eligible roles. Competitive salary with performance-linked incentives. Life and accident insurance",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Referral bonus program, Flexible working hours, Annual performance appraisal, Employee stock options (ESOPs) for eligible roles, Competitive salary with performance-linked incentives, Life and accident insurance"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Siemens India. We are on the lookout for a dedicated Frontend Developer to strengthen our Tiruchirappalli-based tea",
+    "keywords": "Frontend Developer, Siemens India, jobs in Tiruchirappalli, Tamil Nadu jobs, technology jobs India, Python, Kubernetes, SQL, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:25:44.344Z",
+  "page": 14
+}

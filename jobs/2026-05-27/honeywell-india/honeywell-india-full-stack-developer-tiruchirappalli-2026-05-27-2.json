@@ -1,0 +1,93 @@
+{
+  "slug": "honeywell-india-full-stack-developer-tiruchirappalli-2026-05-27-2",
+  "title": "Honeywell India is Hiring: Full Stack Developer (Mid-Level)",
+  "company": "Honeywell India",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Node.js",
+    "Agile/Scrum",
+    "Go",
+    "React",
+    "TypeScript",
+    "Rust",
+    "JavaScript",
+    "SQL"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Honeywell India is Hiring: Full Stack Developer (Mid-Level)",
+    "description": "An exciting career opportunity awaits you at Honeywell India. We are on the lookout for a dedicated Full Stack Developer to strengthen our Tiruchirappalli-based team.\n\nAbout Honeywell India:\nHoneywell India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure code security and follow best practices for data protection\n• Optimize application performance and ensure high availability\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Write and execute unit tests and integration tests\n• Collaborate with cross-functional teams including product, design, and QA\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Participate in on-call rotation for production support\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 12-20 years of relevant experience\n• Proficiency in Node.js\n• Proficiency in Agile/Scrum\n• Proficiency in Go\n• Proficiency in React\n• Proficiency in TypeScript\n• Proficiency in Rust\n• Proficiency in JavaScript\n• Proficiency in SQL\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Flexible working hours\n• Maternity and paternity leave\n• Modern office with recreational facilities\n• Recognition and rewards programs\n• Annual paid leaves and casual leaves\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Tiruchirappalli, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Honeywell India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Honeywell India",
+      "value": "59-2-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Honeywell India",
+      "sameAs": "https://www.google.com/search?q=Honeywell%20India",
+      "logo": "https://logo.clearbit.com/honeywellindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Honeywell India Office",
+        "addressLocality": "Tiruchirappalli",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "Node.js, Agile/Scrum, Go, React, TypeScript, Rust, JavaScript, SQL",
+    "responsibilities": "Ensure code security and follow best practices for data protection. Optimize application performance and ensure high availability. Troubleshoot, debug, and resolve software defects and performance issues. Write and execute unit tests and integration tests. Collaborate with cross-functional teams including product, design, and QA. Mentor junior developers and conduct knowledge-sharing sessions. Participate in on-call rotation for production support",
+    "benefits": "Flexible working hours. Maternity and paternity leave. Modern office with recreational facilities. Recognition and rewards programs. Annual paid leaves and casual leaves. Provident Fund and Gratuity as per company policy",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, Maternity and paternity leave, Modern office with recreational facilities, Recognition and rewards programs, Annual paid leaves and casual leaves, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Honeywell India. We are on the lookout for a dedicated Full Stack Developer to strengthen our Tiruchirappalli-based",
+    "keywords": "Full Stack Developer, Honeywell India, jobs in Tiruchirappalli, Tamil Nadu jobs, technology jobs India, Node.js, Agile/Scrum, Go, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:25:44.345Z",
+  "page": 14
+}
