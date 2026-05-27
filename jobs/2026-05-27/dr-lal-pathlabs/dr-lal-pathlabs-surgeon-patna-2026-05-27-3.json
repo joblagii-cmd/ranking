@@ -1,0 +1,94 @@
+{
+  "slug": "dr-lal-pathlabs-surgeon-patna-2026-05-27-3",
+  "title": "Surgeon Vacancy at Dr Lal PathLabs - 2026 Batch",
+  "company": "Dr Lal PathLabs",
+  "industry": "healthcare",
+  "role": "Surgeon",
+  "location": {
+    "city": "Patna",
+    "state": "Bihar",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Medical Coding",
+    "Medical Terminology",
+    "Surgical Procedures",
+    "Health Informatics",
+    "Patient Care",
+    "ICU Management",
+    "CPT Codes",
+    "Clinical Research"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Surgeon Vacancy at Dr Lal PathLabs - 2026 Batch",
+    "description": "Are you a skilled Surgeon looking for your next big career move? Dr Lal PathLabs in Patna offers you the perfect platform to grow professionally and personally.\n\nAbout Dr Lal PathLabs:\nDr Lal PathLabs is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Adhere to NABH/JCI accreditation standards\n• Maintain accurate clinical documentation in electronic health records\n• Administer medications and treatments as prescribed\n• Educate patients and families on health management and disease prevention\n• Maintain sterile environments and follow infection control protocols\n• Provide high-quality patient care and maintain patient records\n• Monitor patient progress and adjust treatment plans accordingly\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 1-3 years of relevant experience\n• Proficiency in Medical Coding\n• Proficiency in Medical Terminology\n• Proficiency in Surgical Procedures\n• Proficiency in Health Informatics\n• Proficiency in Patient Care\n• Proficiency in ICU Management\n• Proficiency in CPT Codes\n• Proficiency in Clinical Research\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Modern office with recreational facilities\n• Recognition and rewards programs\n• Comprehensive health insurance for self and family\n• Company-sponsored certifications\n• Competitive salary with performance-linked incentives\n• Maternity and paternity leave\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Patna, Bihar, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Dr Lal PathLabs!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Dr Lal PathLabs",
+      "value": "258-3-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Dr Lal PathLabs",
+      "sameAs": "https://www.google.com/search?q=Dr%20Lal%20PathLabs",
+      "logo": "https://logo.clearbit.com/drlalpathlabs.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Dr Lal PathLabs Office",
+        "addressLocality": "Patna",
+        "addressRegion": "Bihar",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "Medical Coding, Medical Terminology, Surgical Procedures, Health Informatics, Patient Care, ICU Management, CPT Codes, Clinical Research",
+    "responsibilities": "Adhere to NABH/JCI accreditation standards. Maintain accurate clinical documentation in electronic health records. Administer medications and treatments as prescribed. Educate patients and families on health management and disease prevention. Maintain sterile environments and follow infection control protocols. Provide high-quality patient care and maintain patient records. Monitor patient progress and adjust treatment plans accordingly",
+    "benefits": "Modern office with recreational facilities. Recognition and rewards programs. Comprehensive health insurance for self and family. Company-sponsored certifications. Competitive salary with performance-linked incentives. Maternity and paternity leave",
+    "industry": "healthcare",
+    "occupationalCategory": "Surgeon",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Modern office with recreational facilities, Recognition and rewards programs, Comprehensive health insurance for self and family, Company-sponsored certifications, Competitive salary with performance-linked incentives, Maternity and paternity leave"
+  },
+  "meta": {
+    "description": "Are you a skilled Surgeon looking for your next big career move? Dr Lal PathLabs in Patna offers you the perfect platform to grow professionally and personally.",
+    "keywords": "Surgeon, Dr Lal PathLabs, jobs in Patna, Bihar jobs, healthcare jobs India, Medical Coding, Medical Terminology, Surgical Procedures, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:35:04.561Z",
+  "page": 64
+}

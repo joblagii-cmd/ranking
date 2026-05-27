@@ -1,0 +1,94 @@
+{
+  "slug": "metropolis-healthcare-senior-doctor-patna-2026-05-27-1",
+  "title": "Senior Doctor - Metropolis Healthcare - 2025 Hiring Drive",
+  "company": "Metropolis Healthcare",
+  "industry": "healthcare",
+  "role": "Senior Doctor",
+  "location": {
+    "city": "Patna",
+    "state": "Bihar",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "CPT Codes",
+    "Telemedicine",
+    "Medical Coding",
+    "NABH Standards",
+    "Patient Care",
+    "ICD-10",
+    "HIPAA Compliance",
+    "Pharmacovigilance"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Doctor - Metropolis Healthcare - 2025 Hiring Drive",
+    "description": "Are you a skilled Senior Doctor looking for your next big career move? Metropolis Healthcare in Patna offers you the perfect platform to grow professionally and personally.\n\nAbout Metropolis Healthcare:\nMetropolis Healthcare is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Maintain accurate clinical documentation in electronic health records\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Educate patients and families on health management and disease prevention\n• Adhere to NABH/JCI accreditation standards\n• Diagnose and treat medical conditions following established protocols\n• Collaborate with pharmaceutical representatives and medical suppliers\n• Ensure patient privacy and maintain confidentiality\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 3-6 years of relevant experience\n• Proficiency in CPT Codes\n• Proficiency in Telemedicine\n• Proficiency in Medical Coding\n• Proficiency in NABH Standards\n• Proficiency in Patient Care\n• Proficiency in ICD-10\n• Proficiency in HIPAA Compliance\n• Proficiency in Pharmacovigilance\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Professional development and training programs\n• Mobile and internet reimbursement\n• Transportation and conveyance allowance\n• Modern office with recreational facilities\n• International travel opportunities for senior roles\n• Life and accident insurance\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Patna, Bihar, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Metropolis Healthcare!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Metropolis Healthcare",
+      "value": "259-1-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Metropolis Healthcare",
+      "sameAs": "https://www.google.com/search?q=Metropolis%20Healthcare",
+      "logo": "https://logo.clearbit.com/metropolishealthcare.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Metropolis Healthcare Office",
+        "addressLocality": "Patna",
+        "addressRegion": "Bihar",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "CPT Codes, Telemedicine, Medical Coding, NABH Standards, Patient Care, ICD-10, HIPAA Compliance, Pharmacovigilance",
+    "responsibilities": "Maintain accurate clinical documentation in electronic health records. Coordinate with multidisciplinary teams for comprehensive patient management. Educate patients and families on health management and disease prevention. Adhere to NABH/JCI accreditation standards. Diagnose and treat medical conditions following established protocols. Collaborate with pharmaceutical representatives and medical suppliers. Ensure patient privacy and maintain confidentiality",
+    "benefits": "Professional development and training programs. Mobile and internet reimbursement. Transportation and conveyance allowance. Modern office with recreational facilities. International travel opportunities for senior roles. Life and accident insurance",
+    "industry": "healthcare",
+    "occupationalCategory": "Senior Doctor",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Mobile and internet reimbursement, Transportation and conveyance allowance, Modern office with recreational facilities, International travel opportunities for senior roles, Life and accident insurance"
+  },
+  "meta": {
+    "description": "Are you a skilled Senior Doctor looking for your next big career move? Metropolis Healthcare in Patna offers you the perfect platform to grow professionally and",
+    "keywords": "Senior Doctor, Metropolis Healthcare, jobs in Patna, Bihar jobs, healthcare jobs India, CPT Codes, Telemedicine, Medical Coding, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:35:04.561Z",
+  "page": 64
+}

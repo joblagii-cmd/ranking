@@ -1,0 +1,94 @@
+{
+  "slug": "metropolis-healthcare-radiologist-vadodara-2026-05-27-4",
+  "title": "Principal Radiologist at Metropolis Healthcare",
+  "company": "Metropolis Healthcare",
+  "industry": "healthcare",
+  "role": "Radiologist",
+  "location": {
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Internship",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Diagnostic Skills",
+    "Medical Coding",
+    "NABH Standards",
+    "Medical Terminology",
+    "Clinical Research",
+    "EMR/EHR",
+    "Infection Control",
+    "Health Informatics"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Principal Radiologist at Metropolis Healthcare",
+    "description": "Are you a skilled Radiologist looking for your next big career move? Metropolis Healthcare in Vadodara offers you the perfect platform to grow professionally and personally.\n\nAbout Metropolis Healthcare:\nMetropolis Healthcare is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Respond to medical emergencies and provide immediate care\n• Maintain sterile environments and follow infection control protocols\n• Ensure patient privacy and maintain confidentiality\n• Maintain accurate clinical documentation in electronic health records\n• Diagnose and treat medical conditions following established protocols\n• Provide high-quality patient care and maintain patient records\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 12-20 years of relevant experience\n• Proficiency in Diagnostic Skills\n• Proficiency in Medical Coding\n• Proficiency in NABH Standards\n• Proficiency in Medical Terminology\n• Proficiency in Clinical Research\n• Proficiency in EMR/EHR\n• Proficiency in Infection Control\n• Proficiency in Health Informatics\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Work-from-home flexibility\n• Recognition and rewards programs\n• Maternity and paternity leave\n• Company-sponsored certifications\n• Transportation and conveyance allowance\n• Annual paid leaves and casual leaves\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Vadodara, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Metropolis Healthcare!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Metropolis Healthcare",
+      "value": "259-4-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Metropolis Healthcare",
+      "sameAs": "https://www.google.com/search?q=Metropolis%20Healthcare",
+      "logo": "https://logo.clearbit.com/metropolishealthcare.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Metropolis Healthcare Office",
+        "addressLocality": "Vadodara",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Diagnostic Skills, Medical Coding, NABH Standards, Medical Terminology, Clinical Research, EMR/EHR, Infection Control, Health Informatics",
+    "responsibilities": "Coordinate with multidisciplinary teams for comprehensive patient management. Respond to medical emergencies and provide immediate care. Maintain sterile environments and follow infection control protocols. Ensure patient privacy and maintain confidentiality. Maintain accurate clinical documentation in electronic health records. Diagnose and treat medical conditions following established protocols. Provide high-quality patient care and maintain patient records",
+    "benefits": "Work-from-home flexibility. Recognition and rewards programs. Maternity and paternity leave. Company-sponsored certifications. Transportation and conveyance allowance. Annual paid leaves and casual leaves",
+    "industry": "healthcare",
+    "occupationalCategory": "Radiologist",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Recognition and rewards programs, Maternity and paternity leave, Company-sponsored certifications, Transportation and conveyance allowance, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "Are you a skilled Radiologist looking for your next big career move? Metropolis Healthcare in Vadodara offers you the perfect platform to grow professionally an",
+    "keywords": "Radiologist, Metropolis Healthcare, jobs in Vadodara, Gujarat jobs, healthcare jobs India, Diagnostic Skills, Medical Coding, NABH Standards, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:35:04.561Z",
+  "page": 64
+}

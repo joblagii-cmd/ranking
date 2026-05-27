@@ -1,0 +1,93 @@
+{
+  "slug": "vijaya-diagnostics-medical-officer-patna-2026-05-27-0",
+  "title": "Now Hiring Medical Officer at Vijaya Diagnostics",
+  "company": "Vijaya Diagnostics",
+  "industry": "healthcare",
+  "role": "Medical Officer",
+  "location": {
+    "city": "Patna",
+    "state": "Bihar",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Telemedicine",
+    "CPT Codes",
+    "Infection Control",
+    "Surgical Procedures",
+    "Pharmacovigilance",
+    "Medical Ethics",
+    "Wound Care",
+    "Clinical Documentation"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Now Hiring Medical Officer at Vijaya Diagnostics",
+    "description": "Are you a skilled Medical Officer looking for your next big career move? Vijaya Diagnostics in Patna offers you the perfect platform to grow professionally and personally.\n\nAbout Vijaya Diagnostics:\nVijaya Diagnostics is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Provide high-quality patient care and maintain patient records\n• Diagnose and treat medical conditions following established protocols\n• Monitor patient progress and adjust treatment plans accordingly\n• Conduct routine health assessments and screenings\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Adhere to NABH/JCI accreditation standards\n• Collaborate with pharmaceutical representatives and medical suppliers\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 3-6 years of relevant experience\n• Proficiency in Telemedicine\n• Proficiency in CPT Codes\n• Proficiency in Infection Control\n• Proficiency in Surgical Procedures\n• Proficiency in Pharmacovigilance\n• Proficiency in Medical Ethics\n• Proficiency in Wound Care\n• Proficiency in Clinical Documentation\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Provident Fund and Gratuity as per company policy\n• Mobile and internet reimbursement\n• Employee stock options (ESOPs) for eligible roles\n• Life and accident insurance\n• Flexible working hours\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Patna, Bihar, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Vijaya Diagnostics!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Vijaya Diagnostics",
+      "value": "260-0-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Vijaya Diagnostics",
+      "sameAs": "https://www.google.com/search?q=Vijaya%20Diagnostics",
+      "logo": "https://logo.clearbit.com/vijayadiagnostics.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Vijaya Diagnostics Office",
+        "addressLocality": "Patna",
+        "addressRegion": "Bihar",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "Telemedicine, CPT Codes, Infection Control, Surgical Procedures, Pharmacovigilance, Medical Ethics, Wound Care, Clinical Documentation",
+    "responsibilities": "Provide high-quality patient care and maintain patient records. Diagnose and treat medical conditions following established protocols. Monitor patient progress and adjust treatment plans accordingly. Conduct routine health assessments and screenings. Coordinate with multidisciplinary teams for comprehensive patient management. Adhere to NABH/JCI accreditation standards. Collaborate with pharmaceutical representatives and medical suppliers",
+    "benefits": "Annual paid leaves and casual leaves. Provident Fund and Gratuity as per company policy. Mobile and internet reimbursement. Employee stock options (ESOPs) for eligible roles. Life and accident insurance. Flexible working hours",
+    "industry": "healthcare",
+    "occupationalCategory": "Medical Officer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Provident Fund and Gratuity as per company policy, Mobile and internet reimbursement, Employee stock options (ESOPs) for eligible roles, Life and accident insurance, Flexible working hours"
+  },
+  "meta": {
+    "description": "Are you a skilled Medical Officer looking for your next big career move? Vijaya Diagnostics in Patna offers you the perfect platform to grow professionally and ",
+    "keywords": "Medical Officer, Vijaya Diagnostics, jobs in Patna, Bihar jobs, healthcare jobs India, Telemedicine, CPT Codes, Infection Control, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:35:04.561Z",
+  "page": 64
+}
