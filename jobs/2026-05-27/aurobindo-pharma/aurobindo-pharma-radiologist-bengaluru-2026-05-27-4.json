@@ -1,0 +1,93 @@
+{
+  "slug": "aurobindo-pharma-radiologist-bengaluru-2026-05-27-4",
+  "title": "Principal Radiologist at Aurobindo Pharma",
+  "company": "Aurobindo Pharma",
+  "industry": "healthcare",
+  "role": "Radiologist",
+  "location": {
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Surgical Procedures",
+    "HIPAA Compliance",
+    "Medical Coding",
+    "Medical Terminology",
+    "ICU Management",
+    "Health Informatics",
+    "CPT Codes",
+    "EMR/EHR"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Principal Radiologist at Aurobindo Pharma",
+    "description": "Aurobindo Pharma has an exciting opening for a Radiologist at our Bengaluru office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Aurobindo Pharma:\nAurobindo Pharma is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Educate patients and families on health management and disease prevention\n• Maintain accurate clinical documentation in electronic health records\n• Administer medications and treatments as prescribed\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Monitor patient progress and adjust treatment plans accordingly\n• Attend continuing medical education programs and training\n• Maintain sterile environments and follow infection control protocols\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 3-6 years of relevant experience\n• Proficiency in Surgical Procedures\n• Proficiency in HIPAA Compliance\n• Proficiency in Medical Coding\n• Proficiency in Medical Terminology\n• Proficiency in ICU Management\n• Proficiency in Health Informatics\n• Proficiency in CPT Codes\n• Proficiency in EMR/EHR\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Maternity and paternity leave\n• Provident Fund and Gratuity as per company policy\n• Company-sponsored certifications\n• Comprehensive health insurance for self and family\n• Annual performance appraisal\n• Referral bonus program\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Bengaluru, Karnataka, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Aurobindo Pharma!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Aurobindo Pharma",
+      "value": "230-4-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Aurobindo Pharma",
+      "sameAs": "https://www.google.com/search?q=Aurobindo%20Pharma",
+      "logo": "https://logo.clearbit.com/aurobindopharma.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Aurobindo Pharma Office",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "Surgical Procedures, HIPAA Compliance, Medical Coding, Medical Terminology, ICU Management, Health Informatics, CPT Codes, EMR/EHR",
+    "responsibilities": "Educate patients and families on health management and disease prevention. Maintain accurate clinical documentation in electronic health records. Administer medications and treatments as prescribed. Coordinate with multidisciplinary teams for comprehensive patient management. Monitor patient progress and adjust treatment plans accordingly. Attend continuing medical education programs and training. Maintain sterile environments and follow infection control protocols",
+    "benefits": "Maternity and paternity leave. Provident Fund and Gratuity as per company policy. Company-sponsored certifications. Comprehensive health insurance for self and family. Annual performance appraisal. Referral bonus program",
+    "industry": "healthcare",
+    "occupationalCategory": "Radiologist",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Maternity and paternity leave, Provident Fund and Gratuity as per company policy, Company-sponsored certifications, Comprehensive health insurance for self and family, Annual performance appraisal, Referral bonus program"
+  },
+  "meta": {
+    "description": "Aurobindo Pharma has an exciting opening for a Radiologist at our Bengaluru office. Join a company that values innovation, collaboration, and continuous learnin",
+    "keywords": "Radiologist, Aurobindo Pharma, jobs in Bengaluru, Karnataka jobs, healthcare jobs India, Surgical Procedures, HIPAA Compliance, Medical Coding, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:33:51.651Z",
+  "page": 57
+}
