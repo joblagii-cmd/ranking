@@ -1,0 +1,93 @@
+{
+  "slug": "roche-india-medical-officer-ahmedabad-2026-05-27-0",
+  "title": "Now Hiring Medical Officer at Roche India",
+  "company": "Roche India",
+  "industry": "healthcare",
+  "role": "Medical Officer",
+  "location": {
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "ICU Management",
+    "EMR/EHR",
+    "Pharmacovigilance",
+    "Diagnostic Skills",
+    "Medical Coding",
+    "Health Informatics",
+    "CPT Codes",
+    "HIPAA Compliance"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Now Hiring Medical Officer at Roche India",
+    "description": "Roche India has an exciting opening for a Medical Officer at our Ahmedabad office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Roche India:\nRoche India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Educate patients and families on health management and disease prevention\n• Adhere to NABH/JCI accreditation standards\n• Attend continuing medical education programs and training\n• Maintain sterile environments and follow infection control protocols\n• Monitor patient progress and adjust treatment plans accordingly\n• Ensure patient privacy and maintain confidentiality\n• Administer medications and treatments as prescribed\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 10-15 years of relevant experience\n• Proficiency in ICU Management\n• Proficiency in EMR/EHR\n• Proficiency in Pharmacovigilance\n• Proficiency in Diagnostic Skills\n• Proficiency in Medical Coding\n• Proficiency in Health Informatics\n• Proficiency in CPT Codes\n• Proficiency in HIPAA Compliance\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Referral bonus program\n• Maternity and paternity leave\n• Comprehensive health insurance for self and family\n• Life and accident insurance\n• Learning & development budget\n• Annual paid leaves and casual leaves\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Ahmedabad, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Roche India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Roche India",
+      "value": "242-0-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Roche India",
+      "sameAs": "https://www.google.com/search?q=Roche%20India",
+      "logo": "https://logo.clearbit.com/rocheindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Roche India Office",
+        "addressLocality": "Ahmedabad",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "ICU Management, EMR/EHR, Pharmacovigilance, Diagnostic Skills, Medical Coding, Health Informatics, CPT Codes, HIPAA Compliance",
+    "responsibilities": "Educate patients and families on health management and disease prevention. Adhere to NABH/JCI accreditation standards. Attend continuing medical education programs and training. Maintain sterile environments and follow infection control protocols. Monitor patient progress and adjust treatment plans accordingly. Ensure patient privacy and maintain confidentiality. Administer medications and treatments as prescribed",
+    "benefits": "Referral bonus program. Maternity and paternity leave. Comprehensive health insurance for self and family. Life and accident insurance. Learning & development budget. Annual paid leaves and casual leaves",
+    "industry": "healthcare",
+    "occupationalCategory": "Medical Officer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Referral bonus program, Maternity and paternity leave, Comprehensive health insurance for self and family, Life and accident insurance, Learning & development budget, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "Roche India has an exciting opening for a Medical Officer at our Ahmedabad office. Join a company that values innovation, collaboration, and continuous learning",
+    "keywords": "Medical Officer, Roche India, jobs in Ahmedabad, Gujarat jobs, healthcare jobs India, ICU Management, EMR/EHR, Pharmacovigilance, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:34:22.824Z",
+  "page": 60
+}

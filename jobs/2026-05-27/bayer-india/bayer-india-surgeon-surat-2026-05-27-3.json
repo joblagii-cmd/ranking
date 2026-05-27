@@ -1,0 +1,93 @@
+{
+  "slug": "bayer-india-surgeon-surat-2026-05-27-3",
+  "title": "Surgeon Vacancy at Bayer India - 2026 Batch",
+  "company": "Bayer India",
+  "industry": "healthcare",
+  "role": "Surgeon",
+  "location": {
+    "city": "Surat",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "EMR/EHR",
+    "Clinical Research",
+    "Wound Care",
+    "Health Informatics",
+    "Telemedicine",
+    "ICU Management",
+    "HIPAA Compliance",
+    "Diagnostic Skills"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Surgeon Vacancy at Bayer India - 2026 Batch",
+    "description": "Are you a skilled Surgeon looking for your next big career move? Bayer India in Surat offers you the perfect platform to grow professionally and personally.\n\nAbout Bayer India:\nBayer India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Respond to medical emergencies and provide immediate care\n• Provide high-quality patient care and maintain patient records\n• Administer medications and treatments as prescribed\n• Attend continuing medical education programs and training\n• Maintain sterile environments and follow infection control protocols\n• Monitor patient progress and adjust treatment plans accordingly\n• Diagnose and treat medical conditions following established protocols\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 0-1 years of relevant experience\n• Proficiency in EMR/EHR\n• Proficiency in Clinical Research\n• Proficiency in Wound Care\n• Proficiency in Health Informatics\n• Proficiency in Telemedicine\n• Proficiency in ICU Management\n• Proficiency in HIPAA Compliance\n• Proficiency in Diagnostic Skills\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Maternity and paternity leave\n• Employee stock options (ESOPs) for eligible roles\n• International travel opportunities for senior roles\n• Flexible working hours\n• Competitive salary with performance-linked incentives\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Surat, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Bayer India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Bayer India",
+      "value": "243-3-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Bayer India",
+      "sameAs": "https://www.google.com/search?q=Bayer%20India",
+      "logo": "https://logo.clearbit.com/bayerindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Bayer India Office",
+        "addressLocality": "Surat",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "EMR/EHR, Clinical Research, Wound Care, Health Informatics, Telemedicine, ICU Management, HIPAA Compliance, Diagnostic Skills",
+    "responsibilities": "Respond to medical emergencies and provide immediate care. Provide high-quality patient care and maintain patient records. Administer medications and treatments as prescribed. Attend continuing medical education programs and training. Maintain sterile environments and follow infection control protocols. Monitor patient progress and adjust treatment plans accordingly. Diagnose and treat medical conditions following established protocols",
+    "benefits": "Work-from-home flexibility. Maternity and paternity leave. Employee stock options (ESOPs) for eligible roles. International travel opportunities for senior roles. Flexible working hours. Competitive salary with performance-linked incentives",
+    "industry": "healthcare",
+    "occupationalCategory": "Surgeon",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Maternity and paternity leave, Employee stock options (ESOPs) for eligible roles, International travel opportunities for senior roles, Flexible working hours, Competitive salary with performance-linked incentives"
+  },
+  "meta": {
+    "description": "Are you a skilled Surgeon looking for your next big career move? Bayer India in Surat offers you the perfect platform to grow professionally and personally.",
+    "keywords": "Surgeon, Bayer India, jobs in Surat, Gujarat jobs, healthcare jobs India, EMR/EHR, Clinical Research, Wound Care, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:34:22.825Z",
+  "page": 60
+}
