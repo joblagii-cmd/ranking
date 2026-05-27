@@ -1,0 +1,93 @@
+{
+  "slug": "rbi-credit-analyst-ranchi-2026-05-27-2",
+  "title": "RBI is Hiring: Credit Analyst (Lead)",
+  "company": "RBI",
+  "industry": "finance",
+  "role": "Credit Analyst",
+  "location": {
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "MS Excel",
+    "Power BI",
+    "Tally",
+    "Income Tax",
+    "Risk Management",
+    "VBA",
+    "Due Diligence",
+    "Python for Finance"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "RBI is Hiring: Credit Analyst (Lead)",
+    "description": "We at RBI are looking for an experienced Credit Analyst based out of Ranchi. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout RBI:\nRBI is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Liaise with banks, regulators, and financial institutions\n• Process payroll and manage employee reimbursements\n• Coordinate with external auditors during annual audits\n• Ensure compliance with tax regulations and statutory requirements\n• Manage accounts payable and accounts receivable functions\n• Implement and maintain internal controls and audit procedures\n• Develop financial models and projections for business planning\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 12-20 years of relevant experience\n• Proficiency in MS Excel\n• Proficiency in Power BI\n• Proficiency in Tally\n• Proficiency in Income Tax\n• Proficiency in Risk Management\n• Proficiency in VBA\n• Proficiency in Due Diligence\n• Proficiency in Python for Finance\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• Flexible working hours\n• Transportation and conveyance allowance\n• Maternity and paternity leave\n• Meal coupons and food allowance\n• Company-sponsored certifications\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Ranchi, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with RBI!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "RBI",
+      "value": "202-2-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "RBI",
+      "sameAs": "https://www.google.com/search?q=RBI",
+      "logo": "https://logo.clearbit.com/rbi.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "RBI Office",
+        "addressLocality": "Ranchi",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "MS Excel, Power BI, Tally, Income Tax, Risk Management, VBA, Due Diligence, Python for Finance",
+    "responsibilities": "Liaise with banks, regulators, and financial institutions. Process payroll and manage employee reimbursements. Coordinate with external auditors during annual audits. Ensure compliance with tax regulations and statutory requirements. Manage accounts payable and accounts receivable functions. Implement and maintain internal controls and audit procedures. Develop financial models and projections for business planning",
+    "benefits": "Comprehensive health insurance for self and family. Flexible working hours. Transportation and conveyance allowance. Maternity and paternity leave. Meal coupons and food allowance. Company-sponsored certifications",
+    "industry": "finance",
+    "occupationalCategory": "Credit Analyst",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, Flexible working hours, Transportation and conveyance allowance, Maternity and paternity leave, Meal coupons and food allowance, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "We at RBI are looking for an experienced Credit Analyst based out of Ranchi. If you are a result-oriented professional with a passion for excellence, we want to",
+    "keywords": "Credit Analyst, RBI, jobs in Ranchi, Jharkhand jobs, finance jobs India, MS Excel, Power BI, Tally, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:32:33.084Z",
+  "page": 50
+}
