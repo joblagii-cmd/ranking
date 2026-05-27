@@ -1,0 +1,93 @@
+{
+  "slug": "bankbazaar-senior-software-engineer-patna-2026-05-27-1",
+  "title": "Senior Software Engineer - BankBazaar - Top MNC",
+  "company": "BankBazaar",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Patna",
+    "state": "Bihar",
+    "region": "Eastern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "TensorFlow",
+    "Java",
+    "Python",
+    "Microservices",
+    "React",
+    "Git",
+    "JavaScript",
+    "Rust"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - BankBazaar - Top MNC",
+    "description": "Join the BankBazaar family as a Senior Software Engineer in Patna. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout BankBazaar:\nBankBazaar is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Implement new features based on product requirements\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Participate in on-call rotation for production support\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Integrate third-party APIs and services\n• Contribute to system architecture and technical design decisions\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 12-20 years of relevant experience\n• Proficiency in TensorFlow\n• Proficiency in Java\n• Proficiency in Python\n• Proficiency in Microservices\n• Proficiency in React\n• Proficiency in Git\n• Proficiency in JavaScript\n• Proficiency in Rust\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Provident Fund and Gratuity as per company policy\n• Work-from-home flexibility\n• Flexible working hours\n• Employee stock options (ESOPs) for eligible roles\n• Professional development and training programs\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Patna, Bihar, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with BankBazaar!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "BankBazaar",
+      "value": "92-1-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "BankBazaar",
+      "sameAs": "https://www.google.com/search?q=BankBazaar",
+      "logo": "https://logo.clearbit.com/bankbazaar.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "BankBazaar Office",
+        "addressLocality": "Patna",
+        "addressRegion": "Bihar",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "TensorFlow, Java, Python, Microservices, React, Git, JavaScript, Rust",
+    "responsibilities": "Design, develop and maintain scalable software applications. Implement new features based on product requirements. Mentor junior developers and conduct knowledge-sharing sessions. Participate in on-call rotation for production support. Work with agile methodologies including daily stand-ups and sprint planning. Integrate third-party APIs and services. Contribute to system architecture and technical design decisions",
+    "benefits": "Annual paid leaves and casual leaves. Provident Fund and Gratuity as per company policy. Work-from-home flexibility. Flexible working hours. Employee stock options (ESOPs) for eligible roles. Professional development and training programs",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Provident Fund and Gratuity as per company policy, Work-from-home flexibility, Flexible working hours, Employee stock options (ESOPs) for eligible roles, Professional development and training programs"
+  },
+  "meta": {
+    "description": "Join the BankBazaar family as a Senior Software Engineer in Patna. We believe in empowering our employees with the tools, training, and environment they need to",
+    "keywords": "Senior Software Engineer, BankBazaar, jobs in Patna, Bihar jobs, technology jobs India, TensorFlow, Java, Python, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:27:17.209Z",
+  "page": 22
+}

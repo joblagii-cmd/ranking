@@ -1,0 +1,93 @@
+{
+  "slug": "policybazaar-backend-developer-patna-2026-05-27-3",
+  "title": "Backend Developer Vacancy at PolicyBazaar - 2026 Batch",
+  "company": "PolicyBazaar",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Patna",
+    "state": "Bihar",
+    "region": "Eastern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "Agile/Scrum",
+    "REST APIs",
+    "JavaScript",
+    "Node.js",
+    "MongoDB",
+    "Python",
+    "Docker",
+    "TypeScript"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at PolicyBazaar - 2026 Batch",
+    "description": "Join the PolicyBazaar family as a Backend Developer in Patna. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout PolicyBazaar:\nPolicyBazaar is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Contribute to system architecture and technical design decisions\n• Participate in on-call rotation for production support\n• Ensure code security and follow best practices for data protection\n• Write and execute unit tests and integration tests\n• Write clean, maintainable, and well-documented code\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Collaborate with cross-functional teams including product, design, and QA\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 10-15 years of relevant experience\n• Proficiency in Agile/Scrum\n• Proficiency in REST APIs\n• Proficiency in JavaScript\n• Proficiency in Node.js\n• Proficiency in MongoDB\n• Proficiency in Python\n• Proficiency in Docker\n• Proficiency in TypeScript\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Mobile and internet reimbursement\n• Provident Fund and Gratuity as per company policy\n• Work-from-home flexibility\n• Employee stock options (ESOPs) for eligible roles\n• Professional development and training programs\n• Comprehensive health insurance for self and family\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Patna, Bihar, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with PolicyBazaar!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "PolicyBazaar",
+      "value": "91-3-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "PolicyBazaar",
+      "sameAs": "https://www.google.com/search?q=PolicyBazaar",
+      "logo": "https://logo.clearbit.com/policybazaar.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "PolicyBazaar Office",
+        "addressLocality": "Patna",
+        "addressRegion": "Bihar",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "Agile/Scrum, REST APIs, JavaScript, Node.js, MongoDB, Python, Docker, TypeScript",
+    "responsibilities": "Contribute to system architecture and technical design decisions. Participate in on-call rotation for production support. Ensure code security and follow best practices for data protection. Write and execute unit tests and integration tests. Write clean, maintainable, and well-documented code. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Collaborate with cross-functional teams including product, design, and QA",
+    "benefits": "Mobile and internet reimbursement. Provident Fund and Gratuity as per company policy. Work-from-home flexibility. Employee stock options (ESOPs) for eligible roles. Professional development and training programs. Comprehensive health insurance for self and family",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Mobile and internet reimbursement, Provident Fund and Gratuity as per company policy, Work-from-home flexibility, Employee stock options (ESOPs) for eligible roles, Professional development and training programs, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "Join the PolicyBazaar family as a Backend Developer in Patna. We believe in empowering our employees with the tools, training, and environment they need to succ",
+    "keywords": "Backend Developer, PolicyBazaar, jobs in Patna, Bihar jobs, technology jobs India, Agile/Scrum, REST APIs, JavaScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:27:17.209Z",
+  "page": 22
+}

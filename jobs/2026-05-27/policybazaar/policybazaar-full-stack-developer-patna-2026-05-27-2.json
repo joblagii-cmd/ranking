@@ -1,0 +1,93 @@
+{
+  "slug": "policybazaar-full-stack-developer-patna-2026-05-27-2",
+  "title": "PolicyBazaar is Hiring: Full Stack Developer (Senior)",
+  "company": "PolicyBazaar",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Patna",
+    "state": "Bihar",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Agile/Scrum",
+    "Microservices",
+    "Machine Learning",
+    "TypeScript",
+    "MongoDB",
+    "React",
+    "Java",
+    "Node.js"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "PolicyBazaar is Hiring: Full Stack Developer (Senior)",
+    "description": "Join the PolicyBazaar family as a Full Stack Developer in Patna. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout PolicyBazaar:\nPolicyBazaar is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Implement new features based on product requirements\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Collaborate with cross-functional teams including product, design, and QA\n• Ensure code security and follow best practices for data protection\n• Participate in code reviews and contribute to technical discussions\n• Integrate third-party APIs and services\n• Work with agile methodologies including daily stand-ups and sprint planning\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 12-20 years of relevant experience\n• Proficiency in Agile/Scrum\n• Proficiency in Microservices\n• Proficiency in Machine Learning\n• Proficiency in TypeScript\n• Proficiency in MongoDB\n• Proficiency in React\n• Proficiency in Java\n• Proficiency in Node.js\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Referral bonus program\n• Employee stock options (ESOPs) for eligible roles\n• Meal coupons and food allowance\n• International travel opportunities for senior roles\n• Professional development and training programs\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Patna, Bihar, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with PolicyBazaar!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "PolicyBazaar",
+      "value": "91-2-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "PolicyBazaar",
+      "sameAs": "https://www.google.com/search?q=PolicyBazaar",
+      "logo": "https://logo.clearbit.com/policybazaar.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "PolicyBazaar Office",
+        "addressLocality": "Patna",
+        "addressRegion": "Bihar",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "Agile/Scrum, Microservices, Machine Learning, TypeScript, MongoDB, React, Java, Node.js",
+    "responsibilities": "Implement new features based on product requirements. Troubleshoot, debug, and resolve software defects and performance issues. Collaborate with cross-functional teams including product, design, and QA. Ensure code security and follow best practices for data protection. Participate in code reviews and contribute to technical discussions. Integrate third-party APIs and services. Work with agile methodologies including daily stand-ups and sprint planning",
+    "benefits": "Work-from-home flexibility. Referral bonus program. Employee stock options (ESOPs) for eligible roles. Meal coupons and food allowance. International travel opportunities for senior roles. Professional development and training programs",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Referral bonus program, Employee stock options (ESOPs) for eligible roles, Meal coupons and food allowance, International travel opportunities for senior roles, Professional development and training programs"
+  },
+  "meta": {
+    "description": "Join the PolicyBazaar family as a Full Stack Developer in Patna. We believe in empowering our employees with the tools, training, and environment they need to s",
+    "keywords": "Full Stack Developer, PolicyBazaar, jobs in Patna, Bihar jobs, technology jobs India, Agile/Scrum, Microservices, Machine Learning, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:27:17.208Z",
+  "page": 22
+}

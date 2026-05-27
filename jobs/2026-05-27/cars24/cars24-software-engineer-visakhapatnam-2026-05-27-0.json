@@ -1,0 +1,94 @@
+{
+  "slug": "cars24-software-engineer-visakhapatnam-2026-05-27-0",
+  "title": "Immediate Requirement Software Engineer at Cars24",
+  "company": "Cars24",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "region": "Southern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Kubernetes",
+    "Docker",
+    "Java",
+    "TensorFlow",
+    "Go",
+    "JavaScript",
+    "Node.js",
+    "Agile/Scrum"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Immediate Requirement Software Engineer at Cars24",
+    "description": "Join the Cars24 family as a Software Engineer in Visakhapatnam. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Cars24:\nCars24 is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Ensure code security and follow best practices for data protection\n• Collaborate with cross-functional teams including product, design, and QA\n• Contribute to system architecture and technical design decisions\n• Participate in code reviews and contribute to technical discussions\n• Write and execute unit tests and integration tests\n• Optimize application performance and ensure high availability\n• Work with agile methodologies including daily stand-ups and sprint planning\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 3-6 years of relevant experience\n• Proficiency in Kubernetes\n• Proficiency in Docker\n• Proficiency in Java\n• Proficiency in TensorFlow\n• Proficiency in Go\n• Proficiency in JavaScript\n• Proficiency in Node.js\n• Proficiency in Agile/Scrum\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Maternity and paternity leave\n• Learning & development budget\n• Modern office with recreational facilities\n• Meal coupons and food allowance\n• Referral bonus program\n• Company-sponsored certifications\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Visakhapatnam, Andhra Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Cars24!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Cars24",
+      "value": "90-0-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Cars24",
+      "sameAs": "https://www.google.com/search?q=Cars24",
+      "logo": "https://logo.clearbit.com/cars24.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Cars24 Office",
+        "addressLocality": "Visakhapatnam",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "Kubernetes, Docker, Java, TensorFlow, Go, JavaScript, Node.js, Agile/Scrum",
+    "responsibilities": "Ensure code security and follow best practices for data protection. Collaborate with cross-functional teams including product, design, and QA. Contribute to system architecture and technical design decisions. Participate in code reviews and contribute to technical discussions. Write and execute unit tests and integration tests. Optimize application performance and ensure high availability. Work with agile methodologies including daily stand-ups and sprint planning",
+    "benefits": "Maternity and paternity leave. Learning & development budget. Modern office with recreational facilities. Meal coupons and food allowance. Referral bonus program. Company-sponsored certifications",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Maternity and paternity leave, Learning & development budget, Modern office with recreational facilities, Meal coupons and food allowance, Referral bonus program, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "Join the Cars24 family as a Software Engineer in Visakhapatnam. We believe in empowering our employees with the tools, training, and environment they need to su",
+    "keywords": "Software Engineer, Cars24, jobs in Visakhapatnam, Andhra Pradesh jobs, technology jobs India, Kubernetes, Docker, Java, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:27:17.208Z",
+  "page": 22
+}
