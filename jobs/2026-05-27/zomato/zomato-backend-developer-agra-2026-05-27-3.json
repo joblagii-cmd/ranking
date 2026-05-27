@@ -1,0 +1,93 @@
+{
+  "slug": "zomato-backend-developer-agra-2026-05-27-3",
+  "title": "Backend Developer Vacancy at Zomato - 2026 Batch",
+  "company": "Zomato",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Java",
+    "Python",
+    "AWS",
+    "Git",
+    "SQL",
+    "Kubernetes",
+    "Node.js",
+    "Rust"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Zomato - 2026 Batch",
+    "description": "Are you a skilled Backend Developer looking for your next big career move? Zomato in Agra offers you the perfect platform to grow professionally and personally.\n\nAbout Zomato:\nZomato is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in code reviews and contribute to technical discussions\n• Optimize application performance and ensure high availability\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Write clean, maintainable, and well-documented code\n• Contribute to system architecture and technical design decisions\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Mentor junior developers and conduct knowledge-sharing sessions\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 12-20 years of relevant experience\n• Proficiency in Java\n• Proficiency in Python\n• Proficiency in AWS\n• Proficiency in Git\n• Proficiency in SQL\n• Proficiency in Kubernetes\n• Proficiency in Node.js\n• Proficiency in Rust\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Provident Fund and Gratuity as per company policy\n• Mobile and internet reimbursement\n• Life and accident insurance\n• Referral bonus program\n• Comprehensive health insurance for self and family\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Agra, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Zomato!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Zomato",
+      "value": "15-3-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Zomato",
+      "sameAs": "https://www.google.com/search?q=Zomato",
+      "logo": "https://logo.clearbit.com/zomato.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Zomato Office",
+        "addressLocality": "Agra",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "Java, Python, AWS, Git, SQL, Kubernetes, Node.js, Rust",
+    "responsibilities": "Participate in code reviews and contribute to technical discussions. Optimize application performance and ensure high availability. Troubleshoot, debug, and resolve software defects and performance issues. Write clean, maintainable, and well-documented code. Contribute to system architecture and technical design decisions. Work with agile methodologies including daily stand-ups and sprint planning. Mentor junior developers and conduct knowledge-sharing sessions",
+    "benefits": "Annual paid leaves and casual leaves. Provident Fund and Gratuity as per company policy. Mobile and internet reimbursement. Life and accident insurance. Referral bonus program. Comprehensive health insurance for self and family",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Provident Fund and Gratuity as per company policy, Mobile and internet reimbursement, Life and accident insurance, Referral bonus program, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "Are you a skilled Backend Developer looking for your next big career move? Zomato in Agra offers you the perfect platform to grow professionally and personally.",
+    "keywords": "Backend Developer, Zomato, jobs in Agra, Uttar Pradesh jobs, technology jobs India, Java, Python, AWS, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:23:43.302Z",
+  "page": 3
+}
