@@ -1,0 +1,94 @@
+{
+  "slug": "nucleus-software-frontend-developer-kanpur-2026-05-27-4",
+  "title": "Mid-Level Frontend Developer at Nucleus Software",
+  "company": "Nucleus Software",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "TensorFlow",
+    "React",
+    "Kubernetes",
+    "Microservices",
+    "Node.js",
+    "JavaScript",
+    "Go",
+    "Machine Learning"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Frontend Developer at Nucleus Software",
+    "description": "Join the Nucleus Software family as a Frontend Developer in Kanpur. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Nucleus Software:\nNucleus Software is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Collaborate with cross-functional teams including product, design, and QA\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Contribute to system architecture and technical design decisions\n• Integrate third-party APIs and services\n• Participate in code reviews and contribute to technical discussions\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 12-20 years of relevant experience\n• Proficiency in TensorFlow\n• Proficiency in React\n• Proficiency in Kubernetes\n• Proficiency in Microservices\n• Proficiency in Node.js\n• Proficiency in JavaScript\n• Proficiency in Go\n• Proficiency in Machine Learning\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Maternity and paternity leave\n• Competitive salary with performance-linked incentives\n• Provident Fund and Gratuity as per company policy\n• Employee stock options (ESOPs) for eligible roles\n• Recognition and rewards programs\n• Company-sponsored certifications\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Kanpur, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Nucleus Software!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Nucleus Software",
+      "value": "78-4-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Nucleus Software",
+      "sameAs": "https://www.google.com/search?q=Nucleus%20Software",
+      "logo": "https://logo.clearbit.com/nucleussoftware.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Nucleus Software Office",
+        "addressLocality": "Kanpur",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "TensorFlow, React, Kubernetes, Microservices, Node.js, JavaScript, Go, Machine Learning",
+    "responsibilities": "Design, develop and maintain scalable software applications. Troubleshoot, debug, and resolve software defects and performance issues. Collaborate with cross-functional teams including product, design, and QA. Work with agile methodologies including daily stand-ups and sprint planning. Contribute to system architecture and technical design decisions. Integrate third-party APIs and services. Participate in code reviews and contribute to technical discussions",
+    "benefits": "Maternity and paternity leave. Competitive salary with performance-linked incentives. Provident Fund and Gratuity as per company policy. Employee stock options (ESOPs) for eligible roles. Recognition and rewards programs. Company-sponsored certifications",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Maternity and paternity leave, Competitive salary with performance-linked incentives, Provident Fund and Gratuity as per company policy, Employee stock options (ESOPs) for eligible roles, Recognition and rewards programs, Company-sponsored certifications"
+  },
+  "meta": {
+    "description": "Join the Nucleus Software family as a Frontend Developer in Kanpur. We believe in empowering our employees with the tools, training, and environment they need t",
+    "keywords": "Frontend Developer, Nucleus Software, jobs in Kanpur, Uttar Pradesh jobs, technology jobs India, TensorFlow, React, Kubernetes, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:26:42.535Z",
+  "page": 19
+}
