@@ -1,0 +1,93 @@
+{
+  "slug": "hdfc-life-insurance-financial-analyst-mumbai-2026-05-27-0",
+  "title": "Vacancy for Financial Analyst at HDFC Life Insurance",
+  "company": "HDFC Life Insurance",
+  "industry": "finance",
+  "role": "Financial Analyst",
+  "location": {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Tally",
+    "MS Excel",
+    "SQL",
+    "Ind AS",
+    "QuickBooks",
+    "Risk Management",
+    "SAP FICO",
+    "Financial Reporting"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Vacancy for Financial Analyst at HDFC Life Insurance",
+    "description": "Grow your career with HDFC Life Insurance! We are hiring a Financial Analyst for our Mumbai team. Be part of a workplace that celebrates innovation, diversity, and performance.\n\nAbout HDFC Life Insurance:\nHDFC Life Insurance is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Manage accounts payable and accounts receivable functions\n• Maintain general ledger and ensure accurate bookkeeping\n• Process payroll and manage employee reimbursements\n• Prepare annual reports and investor presentations\n• Monitor financial performance against targets and provide variance analysis\n• Monitor market trends and provide investment recommendations\n• Ensure compliance with tax regulations and statutory requirements\n\nRequired Skills & Qualifications:\n• Bachelor's degree in a relevant field\n• 12-20 years of relevant experience\n• Proficiency in Tally\n• Proficiency in MS Excel\n• Proficiency in SQL\n• Proficiency in Ind AS\n• Proficiency in QuickBooks\n• Proficiency in Risk Management\n• Proficiency in SAP FICO\n• Proficiency in Financial Reporting\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Learning & development budget\n• Life and accident insurance\n• Work-from-home flexibility\n• Referral bonus program\n• Annual paid leaves and casual leaves\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Mumbai, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with HDFC Life Insurance!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "HDFC Life Insurance",
+      "value": "146-0-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "HDFC Life Insurance",
+      "sameAs": "https://www.google.com/search?q=HDFC%20Life%20Insurance",
+      "logo": "https://logo.clearbit.com/hdfclifeinsurance.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "HDFC Life Insurance Office",
+        "addressLocality": "Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bachelor's degree in a relevant field"
+    },
+    "skills": "Tally, MS Excel, SQL, Ind AS, QuickBooks, Risk Management, SAP FICO, Financial Reporting",
+    "responsibilities": "Manage accounts payable and accounts receivable functions. Maintain general ledger and ensure accurate bookkeeping. Process payroll and manage employee reimbursements. Prepare annual reports and investor presentations. Monitor financial performance against targets and provide variance analysis. Monitor market trends and provide investment recommendations. Ensure compliance with tax regulations and statutory requirements",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Learning & development budget. Life and accident insurance. Work-from-home flexibility. Referral bonus program. Annual paid leaves and casual leaves",
+    "industry": "finance",
+    "occupationalCategory": "Financial Analyst",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Learning & development budget, Life and accident insurance, Work-from-home flexibility, Referral bonus program, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "Grow your career with HDFC Life Insurance! We are hiring a Financial Analyst for our Mumbai team. Be part of a workplace that celebrates innovation, diversity, ",
+    "keywords": "Financial Analyst, HDFC Life Insurance, jobs in Mumbai, Maharashtra jobs, finance jobs India, Tally, MS Excel, SQL, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:29:52.167Z",
+  "page": 36
+}
