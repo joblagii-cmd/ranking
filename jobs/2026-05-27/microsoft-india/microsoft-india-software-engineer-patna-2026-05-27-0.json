@@ -1,0 +1,94 @@
+{
+  "slug": "microsoft-india-software-engineer-patna-2026-05-27-0",
+  "title": "Urgent Opening Software Engineer at Microsoft India",
+  "company": "Microsoft India",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Patna",
+    "state": "Bihar",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "REST APIs",
+    "Node.js",
+    "Go",
+    "SQL",
+    "TypeScript",
+    "Microservices",
+    "React",
+    "Java"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Urgent Opening Software Engineer at Microsoft India",
+    "description": "Microsoft India has an exciting opening for a Software Engineer at our Patna office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Microsoft India:\nMicrosoft India is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in on-call rotation for production support\n• Write clean, maintainable, and well-documented code\n• Design, develop and maintain scalable software applications\n• Contribute to system architecture and technical design decisions\n• Ensure code security and follow best practices for data protection\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 3-6 years of relevant experience\n• Proficiency in REST APIs\n• Proficiency in Node.js\n• Proficiency in Go\n• Proficiency in SQL\n• Proficiency in TypeScript\n• Proficiency in Microservices\n• Proficiency in React\n• Proficiency in Java\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Meal coupons and food allowance\n• Competitive salary with performance-linked incentives\n• Transportation and conveyance allowance\n• Work-from-home flexibility\n• Flexible working hours\n• Life and accident insurance\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Patna, Bihar, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Microsoft India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Microsoft India",
+      "value": "10-0-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Microsoft India",
+      "sameAs": "https://www.google.com/search?q=Microsoft%20India",
+      "logo": "https://logo.clearbit.com/microsoftindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Microsoft India Office",
+        "addressLocality": "Patna",
+        "addressRegion": "Bihar",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "REST APIs, Node.js, Go, SQL, TypeScript, Microservices, React, Java",
+    "responsibilities": "Troubleshoot, debug, and resolve software defects and performance issues. Collaborate with cross-functional teams including product, design, and QA. Participate in on-call rotation for production support. Write clean, maintainable, and well-documented code. Design, develop and maintain scalable software applications. Contribute to system architecture and technical design decisions. Ensure code security and follow best practices for data protection",
+    "benefits": "Meal coupons and food allowance. Competitive salary with performance-linked incentives. Transportation and conveyance allowance. Work-from-home flexibility. Flexible working hours. Life and accident insurance",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Meal coupons and food allowance, Competitive salary with performance-linked incentives, Transportation and conveyance allowance, Work-from-home flexibility, Flexible working hours, Life and accident insurance"
+  },
+  "meta": {
+    "description": "Microsoft India has an exciting opening for a Software Engineer at our Patna office. Join a company that values innovation, collaboration, and continuous learni",
+    "keywords": "Software Engineer, Microsoft India, jobs in Patna, Bihar jobs, technology jobs India, REST APIs, Node.js, Go, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:23:32.695Z",
+  "page": 2
+}
