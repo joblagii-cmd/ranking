@@ -1,0 +1,93 @@
+{
+  "slug": "suven-pharmaceuticals-surgeon-thane-2026-05-27-3",
+  "title": "Surgeon Vacancy at Suven Pharmaceuticals - 2026 Batch",
+  "company": "Suven Pharmaceuticals",
+  "industry": "healthcare",
+  "role": "Surgeon",
+  "location": {
+    "city": "Thane",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Internship",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Clinical Documentation",
+    "Patient Care",
+    "Diagnostic Skills",
+    "NABH Standards",
+    "Medical Terminology",
+    "Medical Ethics",
+    "Surgical Procedures",
+    "Health Informatics"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Surgeon Vacancy at Suven Pharmaceuticals - 2026 Batch",
+    "description": "Are you a skilled Surgeon looking for your next big career move? Suven Pharmaceuticals in Thane offers you the perfect platform to grow professionally and personally.\n\nAbout Suven Pharmaceuticals:\nSuven Pharmaceuticals is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Attend continuing medical education programs and training\n• Adhere to NABH/JCI accreditation standards\n• Maintain sterile environments and follow infection control protocols\n• Ensure patient privacy and maintain confidentiality\n• Provide high-quality patient care and maintain patient records\n• Collaborate with pharmaceutical representatives and medical suppliers\n• Diagnose and treat medical conditions following established protocols\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 6-10 years of relevant experience\n• Proficiency in Clinical Documentation\n• Proficiency in Patient Care\n• Proficiency in Diagnostic Skills\n• Proficiency in NABH Standards\n• Proficiency in Medical Terminology\n• Proficiency in Medical Ethics\n• Proficiency in Surgical Procedures\n• Proficiency in Health Informatics\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Professional development and training programs\n• Work-from-home flexibility\n• Flexible working hours\n• Competitive salary with performance-linked incentives\n• Learning & development budget\n• Comprehensive health insurance for self and family\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Thane, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Suven Pharmaceuticals!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Suven Pharmaceuticals",
+      "value": "251-3-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Suven Pharmaceuticals",
+      "sameAs": "https://www.google.com/search?q=Suven%20Pharmaceuticals",
+      "logo": "https://logo.clearbit.com/suvenpharmaceuticals.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Suven Pharmaceuticals Office",
+        "addressLocality": "Thane",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "Clinical Documentation, Patient Care, Diagnostic Skills, NABH Standards, Medical Terminology, Medical Ethics, Surgical Procedures, Health Informatics",
+    "responsibilities": "Attend continuing medical education programs and training. Adhere to NABH/JCI accreditation standards. Maintain sterile environments and follow infection control protocols. Ensure patient privacy and maintain confidentiality. Provide high-quality patient care and maintain patient records. Collaborate with pharmaceutical representatives and medical suppliers. Diagnose and treat medical conditions following established protocols",
+    "benefits": "Professional development and training programs. Work-from-home flexibility. Flexible working hours. Competitive salary with performance-linked incentives. Learning & development budget. Comprehensive health insurance for self and family",
+    "industry": "healthcare",
+    "occupationalCategory": "Surgeon",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Professional development and training programs, Work-from-home flexibility, Flexible working hours, Competitive salary with performance-linked incentives, Learning & development budget, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "Are you a skilled Surgeon looking for your next big career move? Suven Pharmaceuticals in Thane offers you the perfect platform to grow professionally and perso",
+    "keywords": "Surgeon, Suven Pharmaceuticals, jobs in Thane, Maharashtra jobs, healthcare jobs India, Clinical Documentation, Patient Care, Diagnostic Skills, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:34:43.058Z",
+  "page": 62
+}
