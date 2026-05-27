@@ -1,0 +1,93 @@
+{
+  "slug": "tata-memorial-centre-surgeon-srinagar-2026-05-27-3",
+  "title": "Surgeon Vacancy at Tata Memorial Centre - 2026 Batch",
+  "company": "Tata Memorial Centre",
+  "industry": "healthcare",
+  "role": "Surgeon",
+  "location": {
+    "city": "Srinagar",
+    "state": "Jammu & Kashmir",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Pharmacovigilance",
+    "BLS/ACLS",
+    "Diagnostic Skills",
+    "Patient Care",
+    "Surgical Procedures",
+    "Medical Coding",
+    "Clinical Documentation",
+    "CPT Codes"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Surgeon Vacancy at Tata Memorial Centre - 2026 Batch",
+    "description": "Tata Memorial Centre, one of India's leading organizations, is hiring a Surgeon for our Srinagar operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Tata Memorial Centre:\nTata Memorial Centre is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Provide high-quality patient care and maintain patient records\n• Attend continuing medical education programs and training\n• Participate in quality improvement initiatives and clinical audits\n• Educate patients and families on health management and disease prevention\n• Conduct routine health assessments and screenings\n• Collaborate with pharmaceutical representatives and medical suppliers\n• Ensure patient privacy and maintain confidentiality\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 1-3 years of relevant experience\n• Proficiency in Pharmacovigilance\n• Proficiency in BLS/ACLS\n• Proficiency in Diagnostic Skills\n• Proficiency in Patient Care\n• Proficiency in Surgical Procedures\n• Proficiency in Medical Coding\n• Proficiency in Clinical Documentation\n• Proficiency in CPT Codes\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Annual paid leaves and casual leaves\n• Transportation and conveyance allowance\n• Comprehensive health insurance for self and family\n• Mobile and internet reimbursement\n• International travel opportunities for senior roles\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Srinagar, Jammu & Kashmir, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Tata Memorial Centre!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Tata Memorial Centre",
+      "value": "274-3-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Tata Memorial Centre",
+      "sameAs": "https://www.google.com/search?q=Tata%20Memorial%20Centre",
+      "logo": "https://logo.clearbit.com/tatamemorialcentre.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Tata Memorial Centre Office",
+        "addressLocality": "Srinagar",
+        "addressRegion": "Jammu & Kashmir",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "Pharmacovigilance, BLS/ACLS, Diagnostic Skills, Patient Care, Surgical Procedures, Medical Coding, Clinical Documentation, CPT Codes",
+    "responsibilities": "Provide high-quality patient care and maintain patient records. Attend continuing medical education programs and training. Participate in quality improvement initiatives and clinical audits. Educate patients and families on health management and disease prevention. Conduct routine health assessments and screenings. Collaborate with pharmaceutical representatives and medical suppliers. Ensure patient privacy and maintain confidentiality",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Annual paid leaves and casual leaves. Transportation and conveyance allowance. Comprehensive health insurance for self and family. Mobile and internet reimbursement. International travel opportunities for senior roles",
+    "industry": "healthcare",
+    "occupationalCategory": "Surgeon",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Annual paid leaves and casual leaves, Transportation and conveyance allowance, Comprehensive health insurance for self and family, Mobile and internet reimbursement, International travel opportunities for senior roles"
+  },
+  "meta": {
+    "description": "Tata Memorial Centre, one of India's leading organizations, is hiring a Surgeon for our Srinagar operations. We offer a competitive salary package along with wo",
+    "keywords": "Surgeon, Tata Memorial Centre, jobs in Srinagar, Jammu & Kashmir jobs, healthcare jobs India, Pharmacovigilance, BLS/ACLS, Diagnostic Skills, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:35:47.375Z",
+  "page": 68
+}
