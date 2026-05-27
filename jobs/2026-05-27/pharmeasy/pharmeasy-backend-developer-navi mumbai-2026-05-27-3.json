@@ -1,0 +1,93 @@
+{
+  "slug": "pharmeasy-backend-developer-navi mumbai-2026-05-27-3",
+  "title": "Backend Developer Vacancy at PharmEasy - 2026 Batch",
+  "company": "PharmEasy",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "REST APIs",
+    "Go",
+    "Java",
+    "TypeScript",
+    "Machine Learning",
+    "JavaScript",
+    "Rust",
+    "CI/CD"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at PharmEasy - 2026 Batch",
+    "description": "PharmEasy invites applications from qualified candidates for the position of Backend Developer at our Navi Mumbai location. This role offers excellent career advancement prospects.\n\nAbout PharmEasy:\nPharmEasy is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Write clean, maintainable, and well-documented code\n• Implement new features based on product requirements\n• Participate in on-call rotation for production support\n• Participate in code reviews and contribute to technical discussions\n• Design, develop and maintain scalable software applications\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Integrate third-party APIs and services\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 3-6 years of relevant experience\n• Proficiency in REST APIs\n• Proficiency in Go\n• Proficiency in Java\n• Proficiency in TypeScript\n• Proficiency in Machine Learning\n• Proficiency in JavaScript\n• Proficiency in Rust\n• Proficiency in CI/CD\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• Work-from-home flexibility\n• Maternity and paternity leave\n• Modern office with recreational facilities\n• Annual performance appraisal\n• Learning & development budget\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Navi Mumbai, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with PharmEasy!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "PharmEasy",
+      "value": "114-3-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "PharmEasy",
+      "sameAs": "https://www.google.com/search?q=PharmEasy",
+      "logo": "https://logo.clearbit.com/pharmeasy.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "PharmEasy Office",
+        "addressLocality": "Navi Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "REST APIs, Go, Java, TypeScript, Machine Learning, JavaScript, Rust, CI/CD",
+    "responsibilities": "Write clean, maintainable, and well-documented code. Implement new features based on product requirements. Participate in on-call rotation for production support. Participate in code reviews and contribute to technical discussions. Design, develop and maintain scalable software applications. Work with agile methodologies including daily stand-ups and sprint planning. Integrate third-party APIs and services",
+    "benefits": "Comprehensive health insurance for self and family. Work-from-home flexibility. Maternity and paternity leave. Modern office with recreational facilities. Annual performance appraisal. Learning & development budget",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, Work-from-home flexibility, Maternity and paternity leave, Modern office with recreational facilities, Annual performance appraisal, Learning & development budget"
+  },
+  "meta": {
+    "description": "PharmEasy invites applications from qualified candidates for the position of Backend Developer at our Navi Mumbai location. This role offers excellent career ad",
+    "keywords": "Backend Developer, PharmEasy, jobs in Navi Mumbai, Maharashtra jobs, technology jobs India, REST APIs, Go, Java, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:28:23.205Z",
+  "page": 28
+}

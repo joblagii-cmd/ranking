@@ -1,0 +1,94 @@
+{
+  "slug": "1mg-senior-software-engineer-dhanbad-2026-05-27-1",
+  "title": "Senior Software Engineer - 1mg - Top MNC",
+  "company": "1mg",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Dhanbad",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "SQL",
+    "Docker",
+    "CI/CD",
+    "REST APIs",
+    "Java",
+    "Rust",
+    "React",
+    "Machine Learning"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - 1mg - Top MNC",
+    "description": "1mg invites applications from qualified candidates for the position of Senior Software Engineer at our Dhanbad location. This role offers excellent career advancement prospects.\n\nAbout 1mg:\n1mg is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in on-call rotation for production support\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Design, develop and maintain scalable software applications\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Collaborate with cross-functional teams including product, design, and QA\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Contribute to system architecture and technical design decisions\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 12-20 years of relevant experience\n• Proficiency in SQL\n• Proficiency in Docker\n• Proficiency in CI/CD\n• Proficiency in REST APIs\n• Proficiency in Java\n• Proficiency in Rust\n• Proficiency in React\n• Proficiency in Machine Learning\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Work-from-home flexibility\n• Transportation and conveyance allowance\n• Flexible working hours\n• Employee stock options (ESOPs) for eligible roles\n• International travel opportunities for senior roles\n• Professional development and training programs\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Dhanbad, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with 1mg!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "1mg",
+      "value": "113-1-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "1mg",
+      "sameAs": "https://www.google.com/search?q=1mg",
+      "logo": "https://logo.clearbit.com/1mg.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1mg Office",
+        "addressLocality": "Dhanbad",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "SQL, Docker, CI/CD, REST APIs, Java, Rust, React, Machine Learning",
+    "responsibilities": "Participate in on-call rotation for production support. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Design, develop and maintain scalable software applications. Mentor junior developers and conduct knowledge-sharing sessions. Collaborate with cross-functional teams including product, design, and QA. Troubleshoot, debug, and resolve software defects and performance issues. Contribute to system architecture and technical design decisions",
+    "benefits": "Work-from-home flexibility. Transportation and conveyance allowance. Flexible working hours. Employee stock options (ESOPs) for eligible roles. International travel opportunities for senior roles. Professional development and training programs",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Transportation and conveyance allowance, Flexible working hours, Employee stock options (ESOPs) for eligible roles, International travel opportunities for senior roles, Professional development and training programs"
+  },
+  "meta": {
+    "description": "1mg invites applications from qualified candidates for the position of Senior Software Engineer at our Dhanbad location. This role offers excellent career advan",
+    "keywords": "Senior Software Engineer, 1mg, jobs in Dhanbad, Jharkhand jobs, technology jobs India, SQL, Docker, CI/CD, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:28:23.204Z",
+  "page": 28
+}
