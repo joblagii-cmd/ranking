@@ -1,0 +1,93 @@
+{
+  "slug": "novartis-india-radiologist-ahmedabad-2026-05-27-4",
+  "title": "Principal Radiologist at Novartis India",
+  "company": "Novartis India",
+  "industry": "healthcare",
+  "role": "Radiologist",
+  "location": {
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "ICU Management",
+    "Medical Terminology",
+    "NABH Standards",
+    "Clinical Research",
+    "Wound Care",
+    "Surgical Procedures",
+    "Medical Ethics",
+    "Infection Control"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Principal Radiologist at Novartis India",
+    "description": "Novartis India has an exciting opening for a Radiologist at our Ahmedabad office. Join a company that values innovation, collaboration, and continuous learning.\n\nAbout Novartis India:\nNovartis India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Administer medications and treatments as prescribed\n• Conduct routine health assessments and screenings\n• Ensure patient privacy and maintain confidentiality\n• Adhere to NABH/JCI accreditation standards\n• Monitor patient progress and adjust treatment plans accordingly\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Educate patients and families on health management and disease prevention\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 10-15 years of relevant experience\n• Proficiency in ICU Management\n• Proficiency in Medical Terminology\n• Proficiency in NABH Standards\n• Proficiency in Clinical Research\n• Proficiency in Wound Care\n• Proficiency in Surgical Procedures\n• Proficiency in Medical Ethics\n• Proficiency in Infection Control\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Flexible working hours\n• Referral bonus program\n• Competitive salary with performance-linked incentives\n• Modern office with recreational facilities\n• Employee stock options (ESOPs) for eligible roles\n• Comprehensive health insurance for self and family\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Ahmedabad, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Novartis India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Novartis India",
+      "value": "238-4-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Novartis India",
+      "sameAs": "https://www.google.com/search?q=Novartis%20India",
+      "logo": "https://logo.clearbit.com/novartisindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Novartis India Office",
+        "addressLocality": "Ahmedabad",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "ICU Management, Medical Terminology, NABH Standards, Clinical Research, Wound Care, Surgical Procedures, Medical Ethics, Infection Control",
+    "responsibilities": "Administer medications and treatments as prescribed. Conduct routine health assessments and screenings. Ensure patient privacy and maintain confidentiality. Adhere to NABH/JCI accreditation standards. Monitor patient progress and adjust treatment plans accordingly. Coordinate with multidisciplinary teams for comprehensive patient management. Educate patients and families on health management and disease prevention",
+    "benefits": "Flexible working hours. Referral bonus program. Competitive salary with performance-linked incentives. Modern office with recreational facilities. Employee stock options (ESOPs) for eligible roles. Comprehensive health insurance for self and family",
+    "industry": "healthcare",
+    "occupationalCategory": "Radiologist",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, Referral bonus program, Competitive salary with performance-linked incentives, Modern office with recreational facilities, Employee stock options (ESOPs) for eligible roles, Comprehensive health insurance for self and family"
+  },
+  "meta": {
+    "description": "Novartis India has an exciting opening for a Radiologist at our Ahmedabad office. Join a company that values innovation, collaboration, and continuous learning.",
+    "keywords": "Radiologist, Novartis India, jobs in Ahmedabad, Gujarat jobs, healthcare jobs India, ICU Management, Medical Terminology, NABH Standards, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:34:11.912Z",
+  "page": 59
+}
