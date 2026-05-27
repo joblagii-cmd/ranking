@@ -1,0 +1,93 @@
+{
+  "slug": "symbiosis-hospital-consultant-physician-jabalpur-2026-05-27-2",
+  "title": "Symbiosis Hospital is Hiring: Consultant Physician (Entry-Level)",
+  "company": "Symbiosis Hospital",
+  "industry": "healthcare",
+  "role": "Consultant Physician",
+  "location": {
+    "city": "Jabalpur",
+    "state": "Madhya Pradesh",
+    "region": "Central India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "EMR/EHR",
+    "ICU Management",
+    "Telemedicine",
+    "Surgical Procedures",
+    "Clinical Documentation",
+    "ICD-10",
+    "Health Informatics",
+    "Pharmacovigilance"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Symbiosis Hospital is Hiring: Consultant Physician (Entry-Level)",
+    "description": "Symbiosis Hospital, one of India's leading organizations, is hiring a Consultant Physician for our Jabalpur operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Symbiosis Hospital:\nSymbiosis Hospital is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Provide high-quality patient care and maintain patient records\n• Diagnose and treat medical conditions following established protocols\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Administer medications and treatments as prescribed\n• Participate in quality improvement initiatives and clinical audits\n• Collaborate with pharmaceutical representatives and medical suppliers\n• Monitor patient progress and adjust treatment plans accordingly\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 6-10 years of relevant experience\n• Proficiency in EMR/EHR\n• Proficiency in ICU Management\n• Proficiency in Telemedicine\n• Proficiency in Surgical Procedures\n• Proficiency in Clinical Documentation\n• Proficiency in ICD-10\n• Proficiency in Health Informatics\n• Proficiency in Pharmacovigilance\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Provident Fund and Gratuity as per company policy\n• Comprehensive health insurance for self and family\n• Mobile and internet reimbursement\n• Annual performance appraisal\n• Maternity and paternity leave\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Jabalpur, Madhya Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Symbiosis Hospital!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Symbiosis Hospital",
+      "value": "289-2-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Symbiosis Hospital",
+      "sameAs": "https://www.google.com/search?q=Symbiosis%20Hospital",
+      "logo": "https://logo.clearbit.com/symbiosishospital.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Symbiosis Hospital Office",
+        "addressLocality": "Jabalpur",
+        "addressRegion": "Madhya Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "EMR/EHR, ICU Management, Telemedicine, Surgical Procedures, Clinical Documentation, ICD-10, Health Informatics, Pharmacovigilance",
+    "responsibilities": "Provide high-quality patient care and maintain patient records. Diagnose and treat medical conditions following established protocols. Coordinate with multidisciplinary teams for comprehensive patient management. Administer medications and treatments as prescribed. Participate in quality improvement initiatives and clinical audits. Collaborate with pharmaceutical representatives and medical suppliers. Monitor patient progress and adjust treatment plans accordingly",
+    "benefits": "Work-from-home flexibility. Provident Fund and Gratuity as per company policy. Comprehensive health insurance for self and family. Mobile and internet reimbursement. Annual performance appraisal. Maternity and paternity leave",
+    "industry": "healthcare",
+    "occupationalCategory": "Consultant Physician",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Provident Fund and Gratuity as per company policy, Comprehensive health insurance for self and family, Mobile and internet reimbursement, Annual performance appraisal, Maternity and paternity leave"
+  },
+  "meta": {
+    "description": "Symbiosis Hospital, one of India's leading organizations, is hiring a Consultant Physician for our Jabalpur operations. We offer a competitive salary package al",
+    "keywords": "Consultant Physician, Symbiosis Hospital, jobs in Jabalpur, Madhya Pradesh jobs, healthcare jobs India, EMR/EHR, ICU Management, Telemedicine, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:36:28.977Z",
+  "page": 72
+}
