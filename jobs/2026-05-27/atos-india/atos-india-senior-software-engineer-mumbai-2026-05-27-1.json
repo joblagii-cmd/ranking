@@ -1,0 +1,93 @@
+{
+  "slug": "atos-india-senior-software-engineer-mumbai-2026-05-27-1",
+  "title": "Senior Software Engineer - Atos India - Experienced Professionals",
+  "company": "Atos India",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "AWS",
+    "Docker",
+    "CI/CD",
+    "SQL",
+    "Agile/Scrum",
+    "Microservices",
+    "Machine Learning",
+    "Node.js"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - Atos India - Experienced Professionals",
+    "description": "An exciting career opportunity awaits you at Atos India. We are on the lookout for a dedicated Senior Software Engineer to strengthen our Mumbai-based team.\n\nAbout Atos India:\nAtos India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Write clean, maintainable, and well-documented code\n• Optimize application performance and ensure high availability\n• Contribute to system architecture and technical design decisions\n• Participate in code reviews and contribute to technical discussions\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in on-call rotation for production support\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 6-10 years of relevant experience\n• Proficiency in AWS\n• Proficiency in Docker\n• Proficiency in CI/CD\n• Proficiency in SQL\n• Proficiency in Agile/Scrum\n• Proficiency in Microservices\n• Proficiency in Machine Learning\n• Proficiency in Node.js\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Transportation and conveyance allowance\n• Annual performance appraisal\n• Recognition and rewards programs\n• Work-from-home flexibility\n• Life and accident insurance\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Mumbai, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Atos India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Atos India",
+      "value": "62-1-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Atos India",
+      "sameAs": "https://www.google.com/search?q=Atos%20India",
+      "logo": "https://logo.clearbit.com/atosindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Atos India Office",
+        "addressLocality": "Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "AWS, Docker, CI/CD, SQL, Agile/Scrum, Microservices, Machine Learning, Node.js",
+    "responsibilities": "Design, develop and maintain scalable software applications. Write clean, maintainable, and well-documented code. Optimize application performance and ensure high availability. Contribute to system architecture and technical design decisions. Participate in code reviews and contribute to technical discussions. Collaborate with cross-functional teams including product, design, and QA. Participate in on-call rotation for production support",
+    "benefits": "Competitive salary with performance-linked incentives. Transportation and conveyance allowance. Annual performance appraisal. Recognition and rewards programs. Work-from-home flexibility. Life and accident insurance",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Transportation and conveyance allowance, Annual performance appraisal, Recognition and rewards programs, Work-from-home flexibility, Life and accident insurance"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Atos India. We are on the lookout for a dedicated Senior Software Engineer to strengthen our Mumbai-based team.",
+    "keywords": "Senior Software Engineer, Atos India, jobs in Mumbai, Maharashtra jobs, technology jobs India, AWS, Docker, CI/CD, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:25:55.942Z",
+  "page": 15
+}
