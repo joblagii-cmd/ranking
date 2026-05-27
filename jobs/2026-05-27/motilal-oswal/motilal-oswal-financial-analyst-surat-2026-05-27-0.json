@@ -1,0 +1,94 @@
+{
+  "slug": "motilal-oswal-financial-analyst-surat-2026-05-27-0",
+  "title": "Vacancy for Financial Analyst at Motilal Oswal",
+  "company": "Motilal Oswal",
+  "industry": "finance",
+  "role": "Financial Analyst",
+  "location": {
+    "city": "Surat",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Risk Management",
+    "QuickBooks",
+    "SQL",
+    "Budgeting",
+    "GST",
+    "Financial Modeling",
+    "Forecasting",
+    "Ind AS"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Vacancy for Financial Analyst at Motilal Oswal",
+    "description": "If you're a passionate Financial Analyst with drive and ambition, Motilal Oswal in Surat is the place for you. We're growing fast and need talented people to grow with us.\n\nAbout Motilal Oswal:\nMotilal Oswal is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Manage credit risk assessment and loan appraisal processes\n• Ensure compliance with tax regulations and statutory requirements\n• Process payroll and manage employee reimbursements\n• Prepare and analyze financial statements, reports, and budgets\n• Implement and maintain internal controls and audit procedures\n• Coordinate with external auditors during annual audits\n• Prepare annual reports and investor presentations\n\nRequired Skills & Qualifications:\n• B.Ed / M.Ed from a recognized institution\n• 0-1 years of relevant experience\n• Proficiency in Risk Management\n• Proficiency in QuickBooks\n• Proficiency in SQL\n• Proficiency in Budgeting\n• Proficiency in GST\n• Proficiency in Financial Modeling\n• Proficiency in Forecasting\n• Proficiency in Ind AS\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Company-sponsored certifications\n• Employee stock options (ESOPs) for eligible roles\n• Annual paid leaves and casual leaves\n• Professional development and training programs\n• Life and accident insurance\n• Competitive salary with performance-linked incentives\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Surat, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Motilal Oswal!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Motilal Oswal",
+      "value": "161-0-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Motilal Oswal",
+      "sameAs": "https://www.google.com/search?q=Motilal%20Oswal",
+      "logo": "https://logo.clearbit.com/motilaloswal.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Motilal Oswal Office",
+        "addressLocality": "Surat",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Ed / M.Ed from a recognized institution"
+    },
+    "skills": "Risk Management, QuickBooks, SQL, Budgeting, GST, Financial Modeling, Forecasting, Ind AS",
+    "responsibilities": "Manage credit risk assessment and loan appraisal processes. Ensure compliance with tax regulations and statutory requirements. Process payroll and manage employee reimbursements. Prepare and analyze financial statements, reports, and budgets. Implement and maintain internal controls and audit procedures. Coordinate with external auditors during annual audits. Prepare annual reports and investor presentations",
+    "benefits": "Company-sponsored certifications. Employee stock options (ESOPs) for eligible roles. Annual paid leaves and casual leaves. Professional development and training programs. Life and accident insurance. Competitive salary with performance-linked incentives",
+    "industry": "finance",
+    "occupationalCategory": "Financial Analyst",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Company-sponsored certifications, Employee stock options (ESOPs) for eligible roles, Annual paid leaves and casual leaves, Professional development and training programs, Life and accident insurance, Competitive salary with performance-linked incentives"
+  },
+  "meta": {
+    "description": "If you're a passionate Financial Analyst with drive and ambition, Motilal Oswal in Surat is the place for you. We're growing fast and need talented people to gr",
+    "keywords": "Financial Analyst, Motilal Oswal, jobs in Surat, Gujarat jobs, finance jobs India, Risk Management, QuickBooks, SQL, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:30:39.276Z",
+  "page": 40
+}
