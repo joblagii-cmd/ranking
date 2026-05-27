@@ -1,0 +1,93 @@
+{
+  "slug": "ruby-hall-clinic-medical-officer-ranchi-2026-05-27-0",
+  "title": "Hiring Medical Officer at Ruby Hall Clinic",
+  "company": "Ruby Hall Clinic",
+  "industry": "healthcare",
+  "role": "Medical Officer",
+  "location": {
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "region": "Eastern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "ICU Management",
+    "Wound Care",
+    "ICD-10",
+    "Surgical Procedures",
+    "Pharmacovigilance",
+    "NABH Standards",
+    "Infection Control",
+    "Medical Ethics"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Hiring Medical Officer at Ruby Hall Clinic",
+    "description": "Ruby Hall Clinic, one of India's leading organizations, is hiring a Medical Officer for our Ranchi operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Ruby Hall Clinic:\nRuby Hall Clinic is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Respond to medical emergencies and provide immediate care\n• Provide high-quality patient care and maintain patient records\n• Administer medications and treatments as prescribed\n• Maintain accurate clinical documentation in electronic health records\n• Participate in quality improvement initiatives and clinical audits\n• Collaborate with pharmaceutical representatives and medical suppliers\n• Adhere to NABH/JCI accreditation standards\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 6-10 years of relevant experience\n• Proficiency in ICU Management\n• Proficiency in Wound Care\n• Proficiency in ICD-10\n• Proficiency in Surgical Procedures\n• Proficiency in Pharmacovigilance\n• Proficiency in NABH Standards\n• Proficiency in Infection Control\n• Proficiency in Medical Ethics\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Learning & development budget\n• Work-from-home flexibility\n• Modern office with recreational facilities\n• Company-sponsored certifications\n• Meal coupons and food allowance\n• Recognition and rewards programs\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Ranchi, Jharkhand, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Ruby Hall Clinic!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Ruby Hall Clinic",
+      "value": "286-0-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Ruby Hall Clinic",
+      "sameAs": "https://www.google.com/search?q=Ruby%20Hall%20Clinic",
+      "logo": "https://logo.clearbit.com/rubyhallclinic.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Ruby Hall Clinic Office",
+        "addressLocality": "Ranchi",
+        "addressRegion": "Jharkhand",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "ICU Management, Wound Care, ICD-10, Surgical Procedures, Pharmacovigilance, NABH Standards, Infection Control, Medical Ethics",
+    "responsibilities": "Respond to medical emergencies and provide immediate care. Provide high-quality patient care and maintain patient records. Administer medications and treatments as prescribed. Maintain accurate clinical documentation in electronic health records. Participate in quality improvement initiatives and clinical audits. Collaborate with pharmaceutical representatives and medical suppliers. Adhere to NABH/JCI accreditation standards",
+    "benefits": "Learning & development budget. Work-from-home flexibility. Modern office with recreational facilities. Company-sponsored certifications. Meal coupons and food allowance. Recognition and rewards programs",
+    "industry": "healthcare",
+    "occupationalCategory": "Medical Officer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Learning & development budget, Work-from-home flexibility, Modern office with recreational facilities, Company-sponsored certifications, Meal coupons and food allowance, Recognition and rewards programs"
+  },
+  "meta": {
+    "description": "Ruby Hall Clinic, one of India's leading organizations, is hiring a Medical Officer for our Ranchi operations. We offer a competitive salary package along with ",
+    "keywords": "Medical Officer, Ruby Hall Clinic, jobs in Ranchi, Jharkhand jobs, healthcare jobs India, ICU Management, Wound Care, ICD-10, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:36:18.867Z",
+  "page": 71
+}
