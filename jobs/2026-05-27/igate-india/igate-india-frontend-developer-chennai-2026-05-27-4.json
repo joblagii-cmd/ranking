@@ -1,0 +1,93 @@
+{
+  "slug": "igate-india-frontend-developer-chennai-2026-05-27-4",
+  "title": "Mid-Level Frontend Developer at iGate India",
+  "company": "iGate India",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "0-1 years",
+  "salary": "2.5 LPA - 6 LPA",
+  "skills": [
+    "Git",
+    "CI/CD",
+    "Microservices",
+    "TensorFlow",
+    "MongoDB",
+    "SQL",
+    "REST APIs",
+    "Kubernetes"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Frontend Developer at iGate India",
+    "description": "An exciting career opportunity awaits you at iGate India. We are on the lookout for a dedicated Frontend Developer to strengthen our Chennai-based team.\n\nAbout iGate India:\niGate India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Collaborate with cross-functional teams including product, design, and QA\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Write clean, maintainable, and well-documented code\n• Optimize application performance and ensure high availability\n• Ensure code security and follow best practices for data protection\n• Write and execute unit tests and integration tests\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 0-1 years of relevant experience\n• Proficiency in Git\n• Proficiency in CI/CD\n• Proficiency in Microservices\n• Proficiency in TensorFlow\n• Proficiency in MongoDB\n• Proficiency in SQL\n• Proficiency in REST APIs\n• Proficiency in Kubernetes\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Referral bonus program\n• Modern office with recreational facilities\n• Life and accident insurance\n• Comprehensive health insurance for self and family\n• Annual performance appraisal\n• Salary Range: 2.5 LPA - 6 LPA per annum\n\nLocation: Chennai, Tamil Nadu, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with iGate India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "iGate India",
+      "value": "67-4-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "iGate India",
+      "sameAs": "https://www.google.com/search?q=iGate%20India",
+      "logo": "https://logo.clearbit.com/igateindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "iGate India Office",
+        "addressLocality": "Chennai",
+        "addressRegion": "Tamil Nadu",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 250000,
+        "maxValue": 600000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 0
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "Git, CI/CD, Microservices, TensorFlow, MongoDB, SQL, REST APIs, Kubernetes",
+    "responsibilities": "Design, develop and maintain scalable software applications. Collaborate with cross-functional teams including product, design, and QA. Troubleshoot, debug, and resolve software defects and performance issues. Write clean, maintainable, and well-documented code. Optimize application performance and ensure high availability. Ensure code security and follow best practices for data protection. Write and execute unit tests and integration tests",
+    "benefits": "Competitive salary with performance-linked incentives. Referral bonus program. Modern office with recreational facilities. Life and accident insurance. Comprehensive health insurance for self and family. Annual performance appraisal",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Referral bonus program, Modern office with recreational facilities, Life and accident insurance, Comprehensive health insurance for self and family, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at iGate India. We are on the lookout for a dedicated Frontend Developer to strengthen our Chennai-based team.",
+    "keywords": "Frontend Developer, iGate India, jobs in Chennai, Tamil Nadu jobs, technology jobs India, Git, CI/CD, Microservices, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:26:06.950Z",
+  "page": 16
+}

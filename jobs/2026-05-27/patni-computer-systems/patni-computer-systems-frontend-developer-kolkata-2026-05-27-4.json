@@ -1,0 +1,94 @@
+{
+  "slug": "patni-computer-systems-frontend-developer-kolkata-2026-05-27-4",
+  "title": "Mid-Level Frontend Developer at Patni Computer Systems",
+  "company": "Patni Computer Systems",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "region": "Eastern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "TensorFlow",
+    "Machine Learning",
+    "TypeScript",
+    "Rust",
+    "Java",
+    "Docker",
+    "CI/CD",
+    "Python"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Frontend Developer at Patni Computer Systems",
+    "description": "An exciting career opportunity awaits you at Patni Computer Systems. We are on the lookout for a dedicated Frontend Developer to strengthen our Kolkata-based team.\n\nAbout Patni Computer Systems:\nPatni Computer Systems is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Implement new features based on product requirements\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Collaborate with cross-functional teams including product, design, and QA\n• Integrate third-party APIs and services\n• Participate in on-call rotation for production support\n• Ensure code security and follow best practices for data protection\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 10-15 years of relevant experience\n• Proficiency in TensorFlow\n• Proficiency in Machine Learning\n• Proficiency in TypeScript\n• Proficiency in Rust\n• Proficiency in Java\n• Proficiency in Docker\n• Proficiency in CI/CD\n• Proficiency in Python\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Life and accident insurance\n• Maternity and paternity leave\n• Annual paid leaves and casual leaves\n• Work-from-home flexibility\n• Competitive salary with performance-linked incentives\n• International travel opportunities for senior roles\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Kolkata, West Bengal, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Patni Computer Systems!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Patni Computer Systems",
+      "value": "68-4-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Patni Computer Systems",
+      "sameAs": "https://www.google.com/search?q=Patni%20Computer%20Systems",
+      "logo": "https://logo.clearbit.com/patnicomputersystems.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Patni Computer Systems Office",
+        "addressLocality": "Kolkata",
+        "addressRegion": "West Bengal",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "TensorFlow, Machine Learning, TypeScript, Rust, Java, Docker, CI/CD, Python",
+    "responsibilities": "Design, develop and maintain scalable software applications. Implement new features based on product requirements. Work with agile methodologies including daily stand-ups and sprint planning. Collaborate with cross-functional teams including product, design, and QA. Integrate third-party APIs and services. Participate in on-call rotation for production support. Ensure code security and follow best practices for data protection",
+    "benefits": "Life and accident insurance. Maternity and paternity leave. Annual paid leaves and casual leaves. Work-from-home flexibility. Competitive salary with performance-linked incentives. International travel opportunities for senior roles",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Life and accident insurance, Maternity and paternity leave, Annual paid leaves and casual leaves, Work-from-home flexibility, Competitive salary with performance-linked incentives, International travel opportunities for senior roles"
+  },
+  "meta": {
+    "description": "An exciting career opportunity awaits you at Patni Computer Systems. We are on the lookout for a dedicated Frontend Developer to strengthen our Kolkata-based te",
+    "keywords": "Frontend Developer, Patni Computer Systems, jobs in Kolkata, West Bengal jobs, technology jobs India, TensorFlow, Machine Learning, TypeScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:26:06.951Z",
+  "page": 16
+}
