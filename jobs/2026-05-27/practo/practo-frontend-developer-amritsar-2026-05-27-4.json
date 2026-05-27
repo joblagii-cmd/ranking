@@ -1,0 +1,94 @@
+{
+  "slug": "practo-frontend-developer-amritsar-2026-05-27-4",
+  "title": "Senior Frontend Developer at Practo",
+  "company": "Practo",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Amritsar",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Part-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Docker",
+    "Machine Learning",
+    "CI/CD",
+    "JavaScript",
+    "React",
+    "AWS",
+    "TypeScript",
+    "MongoDB"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Frontend Developer at Practo",
+    "description": "Practo invites applications from qualified candidates for the position of Frontend Developer at our Amritsar location. This role offers excellent career advancement prospects.\n\nAbout Practo:\nPracto is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Implement new features based on product requirements\n• Participate in code reviews and contribute to technical discussions\n• Ensure code security and follow best practices for data protection\n• Contribute to system architecture and technical design decisions\n• Integrate third-party APIs and services\n• Design, develop and maintain scalable software applications\n• Mentor junior developers and conduct knowledge-sharing sessions\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 6-10 years of relevant experience\n• Proficiency in Docker\n• Proficiency in Machine Learning\n• Proficiency in CI/CD\n• Proficiency in JavaScript\n• Proficiency in React\n• Proficiency in AWS\n• Proficiency in TypeScript\n• Proficiency in MongoDB\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• International travel opportunities for senior roles\n• Company-sponsored certifications\n• Maternity and paternity leave\n• Work-from-home flexibility\n• Mobile and internet reimbursement\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Amritsar, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Practo!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Practo",
+      "value": "112-4-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Practo",
+      "sameAs": "https://www.google.com/search?q=Practo",
+      "logo": "https://logo.clearbit.com/practo.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Practo Office",
+        "addressLocality": "Amritsar",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "Docker, Machine Learning, CI/CD, JavaScript, React, AWS, TypeScript, MongoDB",
+    "responsibilities": "Implement new features based on product requirements. Participate in code reviews and contribute to technical discussions. Ensure code security and follow best practices for data protection. Contribute to system architecture and technical design decisions. Integrate third-party APIs and services. Design, develop and maintain scalable software applications. Mentor junior developers and conduct knowledge-sharing sessions",
+    "benefits": "International travel opportunities for senior roles. Company-sponsored certifications. Maternity and paternity leave. Work-from-home flexibility. Mobile and internet reimbursement. Employee stock options (ESOPs) for eligible roles",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "International travel opportunities for senior roles, Company-sponsored certifications, Maternity and paternity leave, Work-from-home flexibility, Mobile and internet reimbursement, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "Practo invites applications from qualified candidates for the position of Frontend Developer at our Amritsar location. This role offers excellent career advance",
+    "keywords": "Frontend Developer, Practo, jobs in Amritsar, Punjab jobs, technology jobs India, Docker, Machine Learning, CI/CD, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:28:12.502Z",
+  "page": 27
+}
