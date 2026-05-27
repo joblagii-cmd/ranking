@@ -1,0 +1,93 @@
+{
+  "slug": "kpit-technologies-frontend-developer-howrah-2026-05-27-4",
+  "title": "Mid-Level Frontend Developer at KPIT Technologies",
+  "company": "KPIT Technologies",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Howrah",
+    "state": "West Bengal",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Docker",
+    "Git",
+    "Java",
+    "Python",
+    "Node.js",
+    "Rust",
+    "Agile/Scrum",
+    "SQL"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Frontend Developer at KPIT Technologies",
+    "description": "KPIT Technologies, one of India's leading organizations, is hiring a Frontend Developer for our Howrah operations. We offer a competitive salary package along with world-class benefits.\n\nAbout KPIT Technologies:\nKPIT Technologies is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Design, develop and maintain scalable software applications\n• Implement new features based on product requirements\n• Write and execute unit tests and integration tests\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Write clean, maintainable, and well-documented code\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 12-20 years of relevant experience\n• Proficiency in Docker\n• Proficiency in Git\n• Proficiency in Java\n• Proficiency in Python\n• Proficiency in Node.js\n• Proficiency in Rust\n• Proficiency in Agile/Scrum\n• Proficiency in SQL\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Competitive salary with performance-linked incentives\n• Recognition and rewards programs\n• Referral bonus program\n• Comprehensive health insurance for self and family\n• Meal coupons and food allowance\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Howrah, West Bengal, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with KPIT Technologies!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "KPIT Technologies",
+      "value": "36-4-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "KPIT Technologies",
+      "sameAs": "https://www.google.com/search?q=KPIT%20Technologies",
+      "logo": "https://logo.clearbit.com/kpittechnologies.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "KPIT Technologies Office",
+        "addressLocality": "Howrah",
+        "addressRegion": "West Bengal",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "Docker, Git, Java, Python, Node.js, Rust, Agile/Scrum, SQL",
+    "responsibilities": "Troubleshoot, debug, and resolve software defects and performance issues. Design, develop and maintain scalable software applications. Implement new features based on product requirements. Write and execute unit tests and integration tests. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Mentor junior developers and conduct knowledge-sharing sessions. Write clean, maintainable, and well-documented code",
+    "benefits": "Work-from-home flexibility. Competitive salary with performance-linked incentives. Recognition and rewards programs. Referral bonus program. Comprehensive health insurance for self and family. Meal coupons and food allowance",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Competitive salary with performance-linked incentives, Recognition and rewards programs, Referral bonus program, Comprehensive health insurance for self and family, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "KPIT Technologies, one of India's leading organizations, is hiring a Frontend Developer for our Howrah operations. We offer a competitive salary package along w",
+    "keywords": "Frontend Developer, KPIT Technologies, jobs in Howrah, West Bengal jobs, technology jobs India, Docker, Git, Java, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:24:36.371Z",
+  "page": 8
+}
