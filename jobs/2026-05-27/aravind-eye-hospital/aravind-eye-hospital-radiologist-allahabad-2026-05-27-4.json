@@ -1,0 +1,93 @@
+{
+  "slug": "aravind-eye-hospital-radiologist-allahabad-2026-05-27-4",
+  "title": "Entry-Level Radiologist at Aravind Eye Hospital",
+  "company": "Aravind Eye Hospital",
+  "industry": "healthcare",
+  "role": "Radiologist",
+  "location": {
+    "city": "Allahabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Wound Care",
+    "Infection Control",
+    "CPT Codes",
+    "NABH Standards",
+    "Medical Terminology",
+    "Patient Care",
+    "HIPAA Compliance",
+    "Clinical Documentation"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Entry-Level Radiologist at Aravind Eye Hospital",
+    "description": "Aravind Eye Hospital, one of India's leading organizations, is hiring a Radiologist for our Allahabad operations. We offer a competitive salary package along with world-class benefits.\n\nAbout Aravind Eye Hospital:\nAravind Eye Hospital is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Maintain accurate clinical documentation in electronic health records\n• Attend continuing medical education programs and training\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Adhere to NABH/JCI accreditation standards\n• Administer medications and treatments as prescribed\n• Monitor patient progress and adjust treatment plans accordingly\n• Ensure patient privacy and maintain confidentiality\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 6-10 years of relevant experience\n• Proficiency in Wound Care\n• Proficiency in Infection Control\n• Proficiency in CPT Codes\n• Proficiency in NABH Standards\n• Proficiency in Medical Terminology\n• Proficiency in Patient Care\n• Proficiency in HIPAA Compliance\n• Proficiency in Clinical Documentation\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Transportation and conveyance allowance\n• Mobile and internet reimbursement\n• Company-sponsored certifications\n• Maternity and paternity leave\n• Learning & development budget\n• Annual paid leaves and casual leaves\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Allahabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Aravind Eye Hospital!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Aravind Eye Hospital",
+      "value": "282-4-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Aravind Eye Hospital",
+      "sameAs": "https://www.google.com/search?q=Aravind%20Eye%20Hospital",
+      "logo": "https://logo.clearbit.com/aravindeyehospital.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Aravind Eye Hospital Office",
+        "addressLocality": "Allahabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "Wound Care, Infection Control, CPT Codes, NABH Standards, Medical Terminology, Patient Care, HIPAA Compliance, Clinical Documentation",
+    "responsibilities": "Maintain accurate clinical documentation in electronic health records. Attend continuing medical education programs and training. Coordinate with multidisciplinary teams for comprehensive patient management. Adhere to NABH/JCI accreditation standards. Administer medications and treatments as prescribed. Monitor patient progress and adjust treatment plans accordingly. Ensure patient privacy and maintain confidentiality",
+    "benefits": "Transportation and conveyance allowance. Mobile and internet reimbursement. Company-sponsored certifications. Maternity and paternity leave. Learning & development budget. Annual paid leaves and casual leaves",
+    "industry": "healthcare",
+    "occupationalCategory": "Radiologist",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Transportation and conveyance allowance, Mobile and internet reimbursement, Company-sponsored certifications, Maternity and paternity leave, Learning & development budget, Annual paid leaves and casual leaves"
+  },
+  "meta": {
+    "description": "Aravind Eye Hospital, one of India's leading organizations, is hiring a Radiologist for our Allahabad operations. We offer a competitive salary package along wi",
+    "keywords": "Radiologist, Aravind Eye Hospital, jobs in Allahabad, Uttar Pradesh jobs, healthcare jobs India, Wound Care, Infection Control, CPT Codes, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:36:08.351Z",
+  "page": 70
+}
