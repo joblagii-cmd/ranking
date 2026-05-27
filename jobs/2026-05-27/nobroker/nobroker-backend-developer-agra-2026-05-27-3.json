@@ -1,0 +1,93 @@
+{
+  "slug": "nobroker-backend-developer-agra-2026-05-27-3",
+  "title": "Backend Developer Vacancy at NoBroker - 2026 Batch",
+  "company": "NoBroker",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Part-time",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Git",
+    "Agile/Scrum",
+    "TypeScript",
+    "Kubernetes",
+    "Rust",
+    "MongoDB",
+    "JavaScript",
+    "Python"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at NoBroker - 2026 Batch",
+    "description": "Join the NoBroker family as a Backend Developer in Agra. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout NoBroker:\nNoBroker is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Contribute to system architecture and technical design decisions\n• Participate in code reviews and contribute to technical discussions\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Implement new features based on product requirements\n• Optimize application performance and ensure high availability\n• Collaborate with cross-functional teams including product, design, and QA\n• Work with agile methodologies including daily stand-ups and sprint planning\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 6-10 years of relevant experience\n• Proficiency in Git\n• Proficiency in Agile/Scrum\n• Proficiency in TypeScript\n• Proficiency in Kubernetes\n• Proficiency in Rust\n• Proficiency in MongoDB\n• Proficiency in JavaScript\n• Proficiency in Python\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• Competitive salary with performance-linked incentives\n• Maternity and paternity leave\n• Mobile and internet reimbursement\n• Life and accident insurance\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Agra, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with NoBroker!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "NoBroker",
+      "value": "97-3-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "NoBroker",
+      "sameAs": "https://www.google.com/search?q=NoBroker",
+      "logo": "https://logo.clearbit.com/nobroker.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "NoBroker Office",
+        "addressLocality": "Agra",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "Git, Agile/Scrum, TypeScript, Kubernetes, Rust, MongoDB, JavaScript, Python",
+    "responsibilities": "Contribute to system architecture and technical design decisions. Participate in code reviews and contribute to technical discussions. Troubleshoot, debug, and resolve software defects and performance issues. Implement new features based on product requirements. Optimize application performance and ensure high availability. Collaborate with cross-functional teams including product, design, and QA. Work with agile methodologies including daily stand-ups and sprint planning",
+    "benefits": "Comprehensive health insurance for self and family. Competitive salary with performance-linked incentives. Maternity and paternity leave. Mobile and internet reimbursement. Life and accident insurance. Provident Fund and Gratuity as per company policy",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, Competitive salary with performance-linked incentives, Maternity and paternity leave, Mobile and internet reimbursement, Life and accident insurance, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "Join the NoBroker family as a Backend Developer in Agra. We believe in empowering our employees with the tools, training, and environment they need to succeed.",
+    "keywords": "Backend Developer, NoBroker, jobs in Agra, Uttar Pradesh jobs, technology jobs India, Git, Agile/Scrum, TypeScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:27:39.158Z",
+  "page": 24
+}

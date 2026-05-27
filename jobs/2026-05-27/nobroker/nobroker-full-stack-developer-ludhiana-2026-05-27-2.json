@@ -1,0 +1,94 @@
+{
+  "slug": "nobroker-full-stack-developer-ludhiana-2026-05-27-2",
+  "title": "NoBroker is Hiring: Full Stack Developer (Senior)",
+  "company": "NoBroker",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Ludhiana",
+    "state": "Punjab",
+    "region": "Northern India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "TensorFlow",
+    "JavaScript",
+    "Python",
+    "CI/CD",
+    "Java",
+    "React",
+    "TypeScript",
+    "Node.js"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "NoBroker is Hiring: Full Stack Developer (Senior)",
+    "description": "Join the NoBroker family as a Full Stack Developer in Ludhiana. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout NoBroker:\nNoBroker is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in code reviews and contribute to technical discussions\n• Collaborate with cross-functional teams including product, design, and QA\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Participate in on-call rotation for production support\n• Ensure code security and follow best practices for data protection\n• Implement new features based on product requirements\n• Optimize application performance and ensure high availability\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 10-15 years of relevant experience\n• Proficiency in TensorFlow\n• Proficiency in JavaScript\n• Proficiency in Python\n• Proficiency in CI/CD\n• Proficiency in Java\n• Proficiency in React\n• Proficiency in TypeScript\n• Proficiency in Node.js\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Company-sponsored certifications\n• Recognition and rewards programs\n• Life and accident insurance\n• Learning & development budget\n• Competitive salary with performance-linked incentives\n• Referral bonus program\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Ludhiana, Punjab, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with NoBroker!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "NoBroker",
+      "value": "97-2-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "NoBroker",
+      "sameAs": "https://www.google.com/search?q=NoBroker",
+      "logo": "https://logo.clearbit.com/nobroker.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "NoBroker Office",
+        "addressLocality": "Ludhiana",
+        "addressRegion": "Punjab",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "TensorFlow, JavaScript, Python, CI/CD, Java, React, TypeScript, Node.js",
+    "responsibilities": "Participate in code reviews and contribute to technical discussions. Collaborate with cross-functional teams including product, design, and QA. Work with agile methodologies including daily stand-ups and sprint planning. Participate in on-call rotation for production support. Ensure code security and follow best practices for data protection. Implement new features based on product requirements. Optimize application performance and ensure high availability",
+    "benefits": "Company-sponsored certifications. Recognition and rewards programs. Life and accident insurance. Learning & development budget. Competitive salary with performance-linked incentives. Referral bonus program",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Company-sponsored certifications, Recognition and rewards programs, Life and accident insurance, Learning & development budget, Competitive salary with performance-linked incentives, Referral bonus program"
+  },
+  "meta": {
+    "description": "Join the NoBroker family as a Full Stack Developer in Ludhiana. We believe in empowering our employees with the tools, training, and environment they need to su",
+    "keywords": "Full Stack Developer, NoBroker, jobs in Ludhiana, Punjab jobs, technology jobs India, TensorFlow, JavaScript, Python, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:27:39.158Z",
+  "page": 24
+}

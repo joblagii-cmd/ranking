@@ -1,0 +1,93 @@
+{
+  "slug": "nobroker-frontend-developer-agra-2026-05-27-4",
+  "title": "Senior Frontend Developer at NoBroker",
+  "company": "NoBroker",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Full-time",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "Kubernetes",
+    "REST APIs",
+    "TensorFlow",
+    "JavaScript",
+    "Git",
+    "Python",
+    "Go",
+    "Java"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Frontend Developer at NoBroker",
+    "description": "Join the NoBroker family as a Frontend Developer in Agra. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout NoBroker:\nNoBroker is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Optimize application performance and ensure high availability\n• Design, develop and maintain scalable software applications\n• Write clean, maintainable, and well-documented code\n• Ensure code security and follow best practices for data protection\n• Integrate third-party APIs and services\n• Contribute to system architecture and technical design decisions\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 3-6 years of relevant experience\n• Proficiency in Kubernetes\n• Proficiency in REST APIs\n• Proficiency in TensorFlow\n• Proficiency in JavaScript\n• Proficiency in Git\n• Proficiency in Python\n• Proficiency in Go\n• Proficiency in Java\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Modern office with recreational facilities\n• Professional development and training programs\n• Referral bonus program\n• Work-from-home flexibility\n• Company-sponsored certifications\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Agra, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with NoBroker!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "NoBroker",
+      "value": "97-4-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "NoBroker",
+      "sameAs": "https://www.google.com/search?q=NoBroker",
+      "logo": "https://logo.clearbit.com/nobroker.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "NoBroker Office",
+        "addressLocality": "Agra",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "Kubernetes, REST APIs, TensorFlow, JavaScript, Git, Python, Go, Java",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Optimize application performance and ensure high availability. Design, develop and maintain scalable software applications. Write clean, maintainable, and well-documented code. Ensure code security and follow best practices for data protection. Integrate third-party APIs and services. Contribute to system architecture and technical design decisions",
+    "benefits": "Modern office with recreational facilities. Professional development and training programs. Referral bonus program. Work-from-home flexibility. Company-sponsored certifications. Employee stock options (ESOPs) for eligible roles",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Modern office with recreational facilities, Professional development and training programs, Referral bonus program, Work-from-home flexibility, Company-sponsored certifications, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "Join the NoBroker family as a Frontend Developer in Agra. We believe in empowering our employees with the tools, training, and environment they need to succeed.",
+    "keywords": "Frontend Developer, NoBroker, jobs in Agra, Uttar Pradesh jobs, technology jobs India, Kubernetes, REST APIs, TensorFlow, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:27:39.158Z",
+  "page": 24
+}
