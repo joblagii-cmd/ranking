@@ -1,0 +1,93 @@
+{
+  "slug": "hp-india-software-engineer-kochi-2026-05-27-0",
+  "title": "Walk-in Drive Software Engineer at HP India",
+  "company": "HP India",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Kochi",
+    "state": "Kerala",
+    "region": "Southern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Contract",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "REST APIs",
+    "React",
+    "Docker",
+    "Java",
+    "MongoDB",
+    "Python",
+    "CI/CD",
+    "Git"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Walk-in Drive Software Engineer at HP India",
+    "description": "HP India, one of India's leading organizations, is hiring a Software Engineer for our Kochi operations. We offer a competitive salary package along with world-class benefits.\n\nAbout HP India:\nHP India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Participate in on-call rotation for production support\n• Contribute to system architecture and technical design decisions\n• Implement new features based on product requirements\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Write clean, maintainable, and well-documented code\n• Integrate third-party APIs and services\n\nRequired Skills & Qualifications:\n• B.Tech / B.E. in Computer Science or related discipline\n• 6-10 years of relevant experience\n• Proficiency in REST APIs\n• Proficiency in React\n• Proficiency in Docker\n• Proficiency in Java\n• Proficiency in MongoDB\n• Proficiency in Python\n• Proficiency in CI/CD\n• Proficiency in Git\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Flexible working hours\n• Mobile and internet reimbursement\n• Annual performance appraisal\n• Professional development and training programs\n• Work-from-home flexibility\n• Provident Fund and Gratuity as per company policy\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Kochi, Kerala, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with HP India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "HP India",
+      "value": "52-0-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "HP India",
+      "sameAs": "https://www.google.com/search?q=HP%20India",
+      "logo": "https://logo.clearbit.com/hpindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "HP India Office",
+        "addressLocality": "Kochi",
+        "addressRegion": "Kerala",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Tech / B.E. in Computer Science or related discipline"
+    },
+    "skills": "REST APIs, React, Docker, Java, MongoDB, Python, CI/CD, Git",
+    "responsibilities": "Troubleshoot, debug, and resolve software defects and performance issues. Participate in on-call rotation for production support. Contribute to system architecture and technical design decisions. Implement new features based on product requirements. Work with agile methodologies including daily stand-ups and sprint planning. Write clean, maintainable, and well-documented code. Integrate third-party APIs and services",
+    "benefits": "Flexible working hours. Mobile and internet reimbursement. Annual performance appraisal. Professional development and training programs. Work-from-home flexibility. Provident Fund and Gratuity as per company policy",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Flexible working hours, Mobile and internet reimbursement, Annual performance appraisal, Professional development and training programs, Work-from-home flexibility, Provident Fund and Gratuity as per company policy"
+  },
+  "meta": {
+    "description": "HP India, one of India's leading organizations, is hiring a Software Engineer for our Kochi operations. We offer a competitive salary package along with world-c",
+    "keywords": "Software Engineer, HP India, jobs in Kochi, Kerala jobs, technology jobs India, REST APIs, React, Docker, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:25:22.277Z",
+  "page": 12
+}
