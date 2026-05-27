@@ -1,0 +1,93 @@
+{
+  "slug": "makemytrip-senior-software-engineer-meerut-2026-05-27-1",
+  "title": "Senior Software Engineer - MakeMyTrip - Freshers Welcome",
+  "company": "MakeMyTrip",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "TypeScript",
+    "Docker",
+    "Microservices",
+    "Go",
+    "Git",
+    "Java",
+    "Python",
+    "JavaScript"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - MakeMyTrip - Freshers Welcome",
+    "description": "Are you a skilled Senior Software Engineer looking for your next big career move? MakeMyTrip in Meerut offers you the perfect platform to grow professionally and personally.\n\nAbout MakeMyTrip:\nMakeMyTrip is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Participate in on-call rotation for production support\n• Write clean, maintainable, and well-documented code\n• Implement new features based on product requirements\n• Participate in code reviews and contribute to technical discussions\n• Collaborate with cross-functional teams including product, design, and QA\n• Mentor junior developers and conduct knowledge-sharing sessions\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 1-3 years of relevant experience\n• Proficiency in TypeScript\n• Proficiency in Docker\n• Proficiency in Microservices\n• Proficiency in Go\n• Proficiency in Git\n• Proficiency in Java\n• Proficiency in Python\n• Proficiency in JavaScript\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Maternity and paternity leave\n• Flexible working hours\n• Modern office with recreational facilities\n• Professional development and training programs\n• Recognition and rewards programs\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Meerut, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with MakeMyTrip!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "MakeMyTrip",
+      "value": "21-1-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "MakeMyTrip",
+      "sameAs": "https://www.google.com/search?q=MakeMyTrip",
+      "logo": "https://logo.clearbit.com/makemytrip.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "MakeMyTrip Office",
+        "addressLocality": "Meerut",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "TypeScript, Docker, Microservices, Go, Git, Java, Python, JavaScript",
+    "responsibilities": "Design, develop and maintain scalable software applications. Participate in on-call rotation for production support. Write clean, maintainable, and well-documented code. Implement new features based on product requirements. Participate in code reviews and contribute to technical discussions. Collaborate with cross-functional teams including product, design, and QA. Mentor junior developers and conduct knowledge-sharing sessions",
+    "benefits": "Competitive salary with performance-linked incentives. Maternity and paternity leave. Flexible working hours. Modern office with recreational facilities. Professional development and training programs. Recognition and rewards programs",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Maternity and paternity leave, Flexible working hours, Modern office with recreational facilities, Professional development and training programs, Recognition and rewards programs"
+  },
+  "meta": {
+    "description": "Are you a skilled Senior Software Engineer looking for your next big career move? MakeMyTrip in Meerut offers you the perfect platform to grow professionally an",
+    "keywords": "Senior Software Engineer, MakeMyTrip, jobs in Meerut, Uttar Pradesh jobs, technology jobs India, TypeScript, Docker, Microservices, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:24:04.635Z",
+  "page": 5
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "makemytrip-backend-developer-rajkot-2026-05-27-3",
+  "title": "Backend Developer Vacancy at MakeMyTrip - 2026 Batch",
+  "company": "MakeMyTrip",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "region": "Western India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "SQL",
+    "JavaScript",
+    "CI/CD",
+    "Python",
+    "Go",
+    "Git",
+    "Docker",
+    "Microservices"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at MakeMyTrip - 2026 Batch",
+    "description": "Are you a skilled Backend Developer looking for your next big career move? MakeMyTrip in Rajkot offers you the perfect platform to grow professionally and personally.\n\nAbout MakeMyTrip:\nMakeMyTrip is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in code reviews and contribute to technical discussions\n• Write clean, maintainable, and well-documented code\n• Design, develop and maintain scalable software applications\n• Write and execute unit tests and integration tests\n• Contribute to system architecture and technical design decisions\n• Integrate third-party APIs and services\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 12-20 years of relevant experience\n• Proficiency in SQL\n• Proficiency in JavaScript\n• Proficiency in CI/CD\n• Proficiency in Python\n• Proficiency in Go\n• Proficiency in Git\n• Proficiency in Docker\n• Proficiency in Microservices\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Provident Fund and Gratuity as per company policy\n• Recognition and rewards programs\n• Comprehensive health insurance for self and family\n• Work-from-home flexibility\n• Modern office with recreational facilities\n• Annual performance appraisal\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Rajkot, Gujarat, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with MakeMyTrip!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "MakeMyTrip",
+      "value": "21-3-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "MakeMyTrip",
+      "sameAs": "https://www.google.com/search?q=MakeMyTrip",
+      "logo": "https://logo.clearbit.com/makemytrip.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "MakeMyTrip Office",
+        "addressLocality": "Rajkot",
+        "addressRegion": "Gujarat",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "SQL, JavaScript, CI/CD, Python, Go, Git, Docker, Microservices",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Participate in code reviews and contribute to technical discussions. Write clean, maintainable, and well-documented code. Design, develop and maintain scalable software applications. Write and execute unit tests and integration tests. Contribute to system architecture and technical design decisions. Integrate third-party APIs and services",
+    "benefits": "Provident Fund and Gratuity as per company policy. Recognition and rewards programs. Comprehensive health insurance for self and family. Work-from-home flexibility. Modern office with recreational facilities. Annual performance appraisal",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Provident Fund and Gratuity as per company policy, Recognition and rewards programs, Comprehensive health insurance for self and family, Work-from-home flexibility, Modern office with recreational facilities, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "Are you a skilled Backend Developer looking for your next big career move? MakeMyTrip in Rajkot offers you the perfect platform to grow professionally and perso",
+    "keywords": "Backend Developer, MakeMyTrip, jobs in Rajkot, Gujarat jobs, technology jobs India, SQL, JavaScript, CI/CD, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:24:04.636Z",
+  "page": 5
+}

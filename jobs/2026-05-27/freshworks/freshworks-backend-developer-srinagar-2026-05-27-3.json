@@ -1,0 +1,93 @@
+{
+  "slug": "freshworks-backend-developer-srinagar-2026-05-27-3",
+  "title": "Backend Developer Vacancy at Freshworks - 2026 Batch",
+  "company": "Freshworks",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Srinagar",
+    "state": "Jammu & Kashmir",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Contract",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Machine Learning",
+    "REST APIs",
+    "Java",
+    "React",
+    "AWS",
+    "Rust",
+    "SQL",
+    "Python"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at Freshworks - 2026 Batch",
+    "description": "Are you a skilled Backend Developer looking for your next big career move? Freshworks in Srinagar offers you the perfect platform to grow professionally and personally.\n\nAbout Freshworks:\nFreshworks is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in on-call rotation for production support\n• Write clean, maintainable, and well-documented code\n• Ensure code security and follow best practices for data protection\n• Design, develop and maintain scalable software applications\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Deploy and manage applications on cloud platforms like AWS, Azure, or GCP\n• Participate in code reviews and contribute to technical discussions\n\nRequired Skills & Qualifications:\n• MBA from a recognized university\n• 1-3 years of relevant experience\n• Proficiency in Machine Learning\n• Proficiency in REST APIs\n• Proficiency in Java\n• Proficiency in React\n• Proficiency in AWS\n• Proficiency in Rust\n• Proficiency in SQL\n• Proficiency in Python\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• Flexible working hours\n• Recognition and rewards programs\n• Mobile and internet reimbursement\n• Company-sponsored certifications\n• Annual performance appraisal\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Srinagar, Jammu & Kashmir, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Freshworks!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Freshworks",
+      "value": "24-3-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Freshworks",
+      "sameAs": "https://www.google.com/search?q=Freshworks",
+      "logo": "https://logo.clearbit.com/freshworks.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Freshworks Office",
+        "addressLocality": "Srinagar",
+        "addressRegion": "Jammu & Kashmir",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBA from a recognized university"
+    },
+    "skills": "Machine Learning, REST APIs, Java, React, AWS, Rust, SQL, Python",
+    "responsibilities": "Participate in on-call rotation for production support. Write clean, maintainable, and well-documented code. Ensure code security and follow best practices for data protection. Design, develop and maintain scalable software applications. Mentor junior developers and conduct knowledge-sharing sessions. Deploy and manage applications on cloud platforms like AWS, Azure, or GCP. Participate in code reviews and contribute to technical discussions",
+    "benefits": "Comprehensive health insurance for self and family. Flexible working hours. Recognition and rewards programs. Mobile and internet reimbursement. Company-sponsored certifications. Annual performance appraisal",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, Flexible working hours, Recognition and rewards programs, Mobile and internet reimbursement, Company-sponsored certifications, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "Are you a skilled Backend Developer looking for your next big career move? Freshworks in Srinagar offers you the perfect platform to grow professionally and per",
+    "keywords": "Backend Developer, Freshworks, jobs in Srinagar, Jammu & Kashmir jobs, technology jobs India, Machine Learning, REST APIs, Java, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:24:04.637Z",
+  "page": 5
+}

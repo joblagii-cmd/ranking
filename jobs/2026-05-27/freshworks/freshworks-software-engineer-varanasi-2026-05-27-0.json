@@ -1,0 +1,93 @@
+{
+  "slug": "freshworks-software-engineer-varanasi-2026-05-27-0",
+  "title": "Walk-in Drive Software Engineer at Freshworks",
+  "company": "Freshworks",
+  "industry": "technology",
+  "role": "Software Engineer",
+  "location": {
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Java",
+    "Go",
+    "Agile/Scrum",
+    "TypeScript",
+    "TensorFlow",
+    "Docker",
+    "Rust",
+    "SQL"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Walk-in Drive Software Engineer at Freshworks",
+    "description": "Are you a skilled Software Engineer looking for your next big career move? Freshworks in Varanasi offers you the perfect platform to grow professionally and personally.\n\nAbout Freshworks:\nFreshworks is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in code reviews and contribute to technical discussions\n• Write clean, maintainable, and well-documented code\n• Collaborate with cross-functional teams including product, design, and QA\n• Ensure code security and follow best practices for data protection\n• Optimize application performance and ensure high availability\n• Integrate third-party APIs and services\n• Participate in on-call rotation for production support\n\nRequired Skills & Qualifications:\n• BPharm / MPharm / PharmD\n• 12-20 years of relevant experience\n• Proficiency in Java\n• Proficiency in Go\n• Proficiency in Agile/Scrum\n• Proficiency in TypeScript\n• Proficiency in TensorFlow\n• Proficiency in Docker\n• Proficiency in Rust\n• Proficiency in SQL\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Competitive salary with performance-linked incentives\n• Referral bonus program\n• Annual paid leaves and casual leaves\n• Employee stock options (ESOPs) for eligible roles\n• Annual performance appraisal\n• Life and accident insurance\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Varanasi, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Freshworks!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Freshworks",
+      "value": "24-0-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Freshworks",
+      "sameAs": "https://www.google.com/search?q=Freshworks",
+      "logo": "https://logo.clearbit.com/freshworks.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Freshworks Office",
+        "addressLocality": "Varanasi",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "BPharm / MPharm / PharmD"
+    },
+    "skills": "Java, Go, Agile/Scrum, TypeScript, TensorFlow, Docker, Rust, SQL",
+    "responsibilities": "Participate in code reviews and contribute to technical discussions. Write clean, maintainable, and well-documented code. Collaborate with cross-functional teams including product, design, and QA. Ensure code security and follow best practices for data protection. Optimize application performance and ensure high availability. Integrate third-party APIs and services. Participate in on-call rotation for production support",
+    "benefits": "Competitive salary with performance-linked incentives. Referral bonus program. Annual paid leaves and casual leaves. Employee stock options (ESOPs) for eligible roles. Annual performance appraisal. Life and accident insurance",
+    "industry": "technology",
+    "occupationalCategory": "Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Competitive salary with performance-linked incentives, Referral bonus program, Annual paid leaves and casual leaves, Employee stock options (ESOPs) for eligible roles, Annual performance appraisal, Life and accident insurance"
+  },
+  "meta": {
+    "description": "Are you a skilled Software Engineer looking for your next big career move? Freshworks in Varanasi offers you the perfect platform to grow professionally and per",
+    "keywords": "Software Engineer, Freshworks, jobs in Varanasi, Uttar Pradesh jobs, technology jobs India, Java, Go, Agile/Scrum, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:24:04.637Z",
+  "page": 5
+}
