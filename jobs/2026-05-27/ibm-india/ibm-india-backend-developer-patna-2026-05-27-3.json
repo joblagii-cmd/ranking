@@ -1,0 +1,93 @@
+{
+  "slug": "ibm-india-backend-developer-patna-2026-05-27-3",
+  "title": "Backend Developer Vacancy at IBM India - 2026 Batch",
+  "company": "IBM India",
+  "industry": "technology",
+  "role": "Backend Developer",
+  "location": {
+    "city": "Patna",
+    "state": "Bihar",
+    "region": "Eastern India"
+  },
+  "workMode": "On-site",
+  "jobType": "Full-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "Rust",
+    "Node.js",
+    "JavaScript",
+    "Agile/Scrum",
+    "CI/CD",
+    "SQL",
+    "Machine Learning",
+    "MongoDB"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Backend Developer Vacancy at IBM India - 2026 Batch",
+    "description": "Are you a skilled Backend Developer looking for your next big career move? IBM India in Patna offers you the perfect platform to grow professionally and personally.\n\nAbout IBM India:\nIBM India is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Contribute to system architecture and technical design decisions\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Collaborate with cross-functional teams including product, design, and QA\n• Participate in on-call rotation for production support\n• Participate in code reviews and contribute to technical discussions\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Implement new features based on product requirements\n\nRequired Skills & Qualifications:\n• CA / CMA / CFA certification\n• 1-3 years of relevant experience\n• Proficiency in Rust\n• Proficiency in Node.js\n• Proficiency in JavaScript\n• Proficiency in Agile/Scrum\n• Proficiency in CI/CD\n• Proficiency in SQL\n• Proficiency in Machine Learning\n• Proficiency in MongoDB\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Employee stock options (ESOPs) for eligible roles\n• Flexible working hours\n• International travel opportunities for senior roles\n• Mobile and internet reimbursement\n• Provident Fund and Gratuity as per company policy\n• Transportation and conveyance allowance\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Patna, Bihar, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with IBM India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "IBM India",
+      "value": "8-3-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "IBM India",
+      "sameAs": "https://www.google.com/search?q=IBM%20India",
+      "logo": "https://logo.clearbit.com/ibmindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "IBM India Office",
+        "addressLocality": "Patna",
+        "addressRegion": "Bihar",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CA / CMA / CFA certification"
+    },
+    "skills": "Rust, Node.js, JavaScript, Agile/Scrum, CI/CD, SQL, Machine Learning, MongoDB",
+    "responsibilities": "Contribute to system architecture and technical design decisions. Mentor junior developers and conduct knowledge-sharing sessions. Collaborate with cross-functional teams including product, design, and QA. Participate in on-call rotation for production support. Participate in code reviews and contribute to technical discussions. Troubleshoot, debug, and resolve software defects and performance issues. Implement new features based on product requirements",
+    "benefits": "Employee stock options (ESOPs) for eligible roles. Flexible working hours. International travel opportunities for senior roles. Mobile and internet reimbursement. Provident Fund and Gratuity as per company policy. Transportation and conveyance allowance",
+    "industry": "technology",
+    "occupationalCategory": "Backend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Employee stock options (ESOPs) for eligible roles, Flexible working hours, International travel opportunities for senior roles, Mobile and internet reimbursement, Provident Fund and Gratuity as per company policy, Transportation and conveyance allowance"
+  },
+  "meta": {
+    "description": "Are you a skilled Backend Developer looking for your next big career move? IBM India in Patna offers you the perfect platform to grow professionally and persona",
+    "keywords": "Backend Developer, IBM India, jobs in Patna, Bihar jobs, technology jobs India, Rust, Node.js, JavaScript, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:23:22.098Z",
+  "page": 1
+}
