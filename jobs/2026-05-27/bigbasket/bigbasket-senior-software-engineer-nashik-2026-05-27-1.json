@@ -1,0 +1,93 @@
+{
+  "slug": "bigbasket-senior-software-engineer-nashik-2026-05-27-1",
+  "title": "Senior Software Engineer - BigBasket - Top MNC",
+  "company": "BigBasket",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "1-3 years",
+  "salary": "4 LPA - 9 LPA",
+  "skills": [
+    "JavaScript",
+    "TypeScript",
+    "Python",
+    "TensorFlow",
+    "Machine Learning",
+    "SQL",
+    "Node.js",
+    "Microservices"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - BigBasket - Top MNC",
+    "description": "Join the BigBasket family as a Senior Software Engineer in Nashik. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout BigBasket:\nBigBasket is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Design, develop and maintain scalable software applications\n• Collaborate with cross-functional teams including product, design, and QA\n• Optimize application performance and ensure high availability\n• Participate in on-call rotation for production support\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Contribute to system architecture and technical design decisions\n• Ensure code security and follow best practices for data protection\n\nRequired Skills & Qualifications:\n• Diploma or Degree in Hospitality Management\n• 1-3 years of relevant experience\n• Proficiency in JavaScript\n• Proficiency in TypeScript\n• Proficiency in Python\n• Proficiency in TensorFlow\n• Proficiency in Machine Learning\n• Proficiency in SQL\n• Proficiency in Node.js\n• Proficiency in Microservices\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• Annual performance appraisal\n• Competitive salary with performance-linked incentives\n• Company-sponsored certifications\n• Mobile and internet reimbursement\n• Professional development and training programs\n• Salary Range: 4 LPA - 9 LPA per annum\n\nLocation: Nashik, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with BigBasket!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "BigBasket",
+      "value": "101-1-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "BigBasket",
+      "sameAs": "https://www.google.com/search?q=BigBasket",
+      "logo": "https://logo.clearbit.com/bigbasket.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "BigBasket Office",
+        "addressLocality": "Nashik",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 400000,
+        "maxValue": 900000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 12
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Diploma or Degree in Hospitality Management"
+    },
+    "skills": "JavaScript, TypeScript, Python, TensorFlow, Machine Learning, SQL, Node.js, Microservices",
+    "responsibilities": "Design, develop and maintain scalable software applications. Collaborate with cross-functional teams including product, design, and QA. Optimize application performance and ensure high availability. Participate in on-call rotation for production support. Troubleshoot, debug, and resolve software defects and performance issues. Contribute to system architecture and technical design decisions. Ensure code security and follow best practices for data protection",
+    "benefits": "Comprehensive health insurance for self and family. Annual performance appraisal. Competitive salary with performance-linked incentives. Company-sponsored certifications. Mobile and internet reimbursement. Professional development and training programs",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, Annual performance appraisal, Competitive salary with performance-linked incentives, Company-sponsored certifications, Mobile and internet reimbursement, Professional development and training programs"
+  },
+  "meta": {
+    "description": "Join the BigBasket family as a Senior Software Engineer in Nashik. We believe in empowering our employees with the tools, training, and environment they need to",
+    "keywords": "Senior Software Engineer, BigBasket, jobs in Nashik, Maharashtra jobs, technology jobs India, JavaScript, TypeScript, Python, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:27:49.759Z",
+  "page": 25
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "grofers-full-stack-developer-faridabad-2026-05-27-2",
+  "title": "Grofers is Hiring: Full Stack Developer (Senior)",
+  "company": "Grofers",
+  "industry": "technology",
+  "role": "Full Stack Developer",
+  "location": {
+    "city": "Faridabad",
+    "state": "Haryana",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Part-time",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "MongoDB",
+    "Machine Learning",
+    "CI/CD",
+    "Python",
+    "Kubernetes",
+    "Java",
+    "Agile/Scrum",
+    "Go"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Grofers is Hiring: Full Stack Developer (Senior)",
+    "description": "Grofers invites applications from qualified candidates for the position of Full Stack Developer at our Faridabad location. This role offers excellent career advancement prospects.\n\nAbout Grofers:\nGrofers is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Contribute to system architecture and technical design decisions\n• Participate in code reviews and contribute to technical discussions\n• Write clean, maintainable, and well-documented code\n• Write and execute unit tests and integration tests\n• Integrate third-party APIs and services\n• Implement new features based on product requirements\n• Design, develop and maintain scalable software applications\n\nRequired Skills & Qualifications:\n• B.Sc / M.Sc in Life Sciences\n• 10-15 years of relevant experience\n• Proficiency in MongoDB\n• Proficiency in Machine Learning\n• Proficiency in CI/CD\n• Proficiency in Python\n• Proficiency in Kubernetes\n• Proficiency in Java\n• Proficiency in Agile/Scrum\n• Proficiency in Go\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Modern office with recreational facilities\n• Meal coupons and food allowance\n• Work-from-home flexibility\n• Annual paid leaves and casual leaves\n• Comprehensive health insurance for self and family\n• Flexible working hours\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Faridabad, Haryana, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Grofers!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Grofers",
+      "value": "102-2-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Grofers",
+      "sameAs": "https://www.google.com/search?q=Grofers",
+      "logo": "https://logo.clearbit.com/grofers.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Grofers Office",
+        "addressLocality": "Faridabad",
+        "addressRegion": "Haryana",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Sc / M.Sc in Life Sciences"
+    },
+    "skills": "MongoDB, Machine Learning, CI/CD, Python, Kubernetes, Java, Agile/Scrum, Go",
+    "responsibilities": "Contribute to system architecture and technical design decisions. Participate in code reviews and contribute to technical discussions. Write clean, maintainable, and well-documented code. Write and execute unit tests and integration tests. Integrate third-party APIs and services. Implement new features based on product requirements. Design, develop and maintain scalable software applications",
+    "benefits": "Modern office with recreational facilities. Meal coupons and food allowance. Work-from-home flexibility. Annual paid leaves and casual leaves. Comprehensive health insurance for self and family. Flexible working hours",
+    "industry": "technology",
+    "occupationalCategory": "Full Stack Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Modern office with recreational facilities, Meal coupons and food allowance, Work-from-home flexibility, Annual paid leaves and casual leaves, Comprehensive health insurance for self and family, Flexible working hours"
+  },
+  "meta": {
+    "description": "Grofers invites applications from qualified candidates for the position of Full Stack Developer at our Faridabad location. This role offers excellent career adv",
+    "keywords": "Full Stack Developer, Grofers, jobs in Faridabad, Haryana jobs, technology jobs India, MongoDB, Machine Learning, CI/CD, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:27:49.760Z",
+  "page": 25
+}
