@@ -1,0 +1,93 @@
+{
+  "slug": "cdsl-credit-analyst-allahabad-2026-05-27-2",
+  "title": "CDSL is Hiring: Credit Analyst (Lead)",
+  "company": "CDSL",
+  "industry": "finance",
+  "role": "Credit Analyst",
+  "location": {
+    "city": "Allahabad",
+    "state": "Uttar Pradesh",
+    "region": "Northern India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Temporary",
+  "experience": "3-6 years",
+  "salary": "7 LPA - 15 LPA",
+  "skills": [
+    "QuickBooks",
+    "MS Excel",
+    "Python for Finance",
+    "IFRS",
+    "GST",
+    "VBA",
+    "Ind AS",
+    "Risk Management"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "CDSL is Hiring: Credit Analyst (Lead)",
+    "description": "We at CDSL are looking for an experienced Credit Analyst based out of Allahabad. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout CDSL:\nCDSL is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Develop financial models and projections for business planning\n• Manage accounts payable and accounts receivable functions\n• Monitor market trends and provide investment recommendations\n• Ensure compliance with tax regulations and statutory requirements\n• Prepare annual reports and investor presentations\n• Monitor financial performance against targets and provide variance analysis\n• Prepare MIS reports for senior management review\n\nRequired Skills & Qualifications:\n• B.Arch / M.Arch from recognized institution\n• 3-6 years of relevant experience\n• Proficiency in QuickBooks\n• Proficiency in MS Excel\n• Proficiency in Python for Finance\n• Proficiency in IFRS\n• Proficiency in GST\n• Proficiency in VBA\n• Proficiency in Ind AS\n• Proficiency in Risk Management\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Work-from-home flexibility\n• Annual performance appraisal\n• Employee stock options (ESOPs) for eligible roles\n• Competitive salary with performance-linked incentives\n• Comprehensive health insurance for self and family\n• Maternity and paternity leave\n• Salary Range: 7 LPA - 15 LPA per annum\n\nLocation: Allahabad, Uttar Pradesh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with CDSL!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "CDSL",
+      "value": "200-2-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "CDSL",
+      "sameAs": "https://www.google.com/search?q=CDSL",
+      "logo": "https://logo.clearbit.com/cdsl.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "CDSL Office",
+        "addressLocality": "Allahabad",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 700000,
+        "maxValue": 1500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 36
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Arch / M.Arch from recognized institution"
+    },
+    "skills": "QuickBooks, MS Excel, Python for Finance, IFRS, GST, VBA, Ind AS, Risk Management",
+    "responsibilities": "Develop financial models and projections for business planning. Manage accounts payable and accounts receivable functions. Monitor market trends and provide investment recommendations. Ensure compliance with tax regulations and statutory requirements. Prepare annual reports and investor presentations. Monitor financial performance against targets and provide variance analysis. Prepare MIS reports for senior management review",
+    "benefits": "Work-from-home flexibility. Annual performance appraisal. Employee stock options (ESOPs) for eligible roles. Competitive salary with performance-linked incentives. Comprehensive health insurance for self and family. Maternity and paternity leave",
+    "industry": "finance",
+    "occupationalCategory": "Credit Analyst",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Work-from-home flexibility, Annual performance appraisal, Employee stock options (ESOPs) for eligible roles, Competitive salary with performance-linked incentives, Comprehensive health insurance for self and family, Maternity and paternity leave"
+  },
+  "meta": {
+    "description": "We at CDSL are looking for an experienced Credit Analyst based out of Allahabad. If you are a result-oriented professional with a passion for excellence, we wan",
+    "keywords": "Credit Analyst, CDSL, jobs in Allahabad, Uttar Pradesh jobs, finance jobs India, QuickBooks, MS Excel, Python for Finance, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:32:21.841Z",
+  "page": 49
+}

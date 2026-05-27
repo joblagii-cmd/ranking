@@ -1,0 +1,94 @@
+{
+  "slug": "nsdl-credit-analyst-navi mumbai-2026-05-27-2",
+  "title": "NSDL is Hiring: Credit Analyst (Lead)",
+  "company": "NSDL",
+  "industry": "finance",
+  "role": "Credit Analyst",
+  "location": {
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "SAP FICO",
+    "Due Diligence",
+    "Forecasting",
+    "VBA",
+    "QuickBooks",
+    "Financial Modeling",
+    "Income Tax",
+    "Tally"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "NSDL is Hiring: Credit Analyst (Lead)",
+    "description": "We at NSDL are looking for an experienced Credit Analyst based out of Navi Mumbai. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout NSDL:\nNSDL is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Monitor financial performance against targets and provide variance analysis\n• Manage credit risk assessment and loan appraisal processes\n• Implement and maintain internal controls and audit procedures\n• Ensure compliance with tax regulations and statutory requirements\n• Prepare MIS reports for senior management review\n• Manage accounts payable and accounts receivable functions\n• Monitor market trends and provide investment recommendations\n\nRequired Skills & Qualifications:\n• Chartered Accountant (ICAI)\n• 6-10 years of relevant experience\n• Proficiency in SAP FICO\n• Proficiency in Due Diligence\n• Proficiency in Forecasting\n• Proficiency in VBA\n• Proficiency in QuickBooks\n• Proficiency in Financial Modeling\n• Proficiency in Income Tax\n• Proficiency in Tally\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Annual paid leaves and casual leaves\n• Comprehensive health insurance for self and family\n• Referral bonus program\n• International travel opportunities for senior roles\n• Mobile and internet reimbursement\n• Employee stock options (ESOPs) for eligible roles\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Navi Mumbai, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with NSDL!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "NSDL",
+      "value": "199-2-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "NSDL",
+      "sameAs": "https://www.google.com/search?q=NSDL",
+      "logo": "https://logo.clearbit.com/nsdl.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "NSDL Office",
+        "addressLocality": "Navi Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Chartered Accountant (ICAI)"
+    },
+    "skills": "SAP FICO, Due Diligence, Forecasting, VBA, QuickBooks, Financial Modeling, Income Tax, Tally",
+    "responsibilities": "Monitor financial performance against targets and provide variance analysis. Manage credit risk assessment and loan appraisal processes. Implement and maintain internal controls and audit procedures. Ensure compliance with tax regulations and statutory requirements. Prepare MIS reports for senior management review. Manage accounts payable and accounts receivable functions. Monitor market trends and provide investment recommendations",
+    "benefits": "Annual paid leaves and casual leaves. Comprehensive health insurance for self and family. Referral bonus program. International travel opportunities for senior roles. Mobile and internet reimbursement. Employee stock options (ESOPs) for eligible roles",
+    "industry": "finance",
+    "occupationalCategory": "Credit Analyst",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual paid leaves and casual leaves, Comprehensive health insurance for self and family, Referral bonus program, International travel opportunities for senior roles, Mobile and internet reimbursement, Employee stock options (ESOPs) for eligible roles"
+  },
+  "meta": {
+    "description": "We at NSDL are looking for an experienced Credit Analyst based out of Navi Mumbai. If you are a result-oriented professional with a passion for excellence, we w",
+    "keywords": "Credit Analyst, NSDL, jobs in Navi Mumbai, Maharashtra jobs, finance jobs India, SAP FICO, Due Diligence, Forecasting, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:32:21.841Z",
+  "page": 49
+}

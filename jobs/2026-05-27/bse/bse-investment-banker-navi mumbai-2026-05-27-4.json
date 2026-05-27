@@ -1,0 +1,94 @@
+{
+  "slug": "bse-investment-banker-navi mumbai-2026-05-27-4",
+  "title": "Lead Investment Banker at BSE",
+  "company": "BSE",
+  "industry": "finance",
+  "role": "Investment Banker",
+  "location": {
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Temporary",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "Forecasting",
+    "Income Tax",
+    "Ind AS",
+    "Credit Analysis",
+    "Tally",
+    "Financial Modeling",
+    "Python for Finance",
+    "Financial Reporting"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Lead Investment Banker at BSE",
+    "description": "We at BSE are looking for an experienced Investment Banker based out of Navi Mumbai. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout BSE:\nBSE is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Develop financial models and projections for business planning\n• Manage accounts payable and accounts receivable functions\n• Monitor market trends and provide investment recommendations\n• Ensure compliance with tax regulations and statutory requirements\n• Manage credit risk assessment and loan appraisal processes\n• Monitor financial performance against targets and provide variance analysis\n• Implement and maintain internal controls and audit procedures\n\nRequired Skills & Qualifications:\n• B.Com / M.Com / MBA Finance\n• 6-10 years of relevant experience\n• Proficiency in Forecasting\n• Proficiency in Income Tax\n• Proficiency in Ind AS\n• Proficiency in Credit Analysis\n• Proficiency in Tally\n• Proficiency in Financial Modeling\n• Proficiency in Python for Finance\n• Proficiency in Financial Reporting\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Referral bonus program\n• Competitive salary with performance-linked incentives\n• Modern office with recreational facilities\n• Comprehensive health insurance for self and family\n• Employee stock options (ESOPs) for eligible roles\n• Annual performance appraisal\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Navi Mumbai, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with BSE!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "BSE",
+      "value": "197-4-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "BSE",
+      "sameAs": "https://www.google.com/search?q=BSE",
+      "logo": "https://logo.clearbit.com/bse.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "BSE Office",
+        "addressLocality": "Navi Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "B.Com / M.Com / MBA Finance"
+    },
+    "skills": "Forecasting, Income Tax, Ind AS, Credit Analysis, Tally, Financial Modeling, Python for Finance, Financial Reporting",
+    "responsibilities": "Develop financial models and projections for business planning. Manage accounts payable and accounts receivable functions. Monitor market trends and provide investment recommendations. Ensure compliance with tax regulations and statutory requirements. Manage credit risk assessment and loan appraisal processes. Monitor financial performance against targets and provide variance analysis. Implement and maintain internal controls and audit procedures",
+    "benefits": "Referral bonus program. Competitive salary with performance-linked incentives. Modern office with recreational facilities. Comprehensive health insurance for self and family. Employee stock options (ESOPs) for eligible roles. Annual performance appraisal",
+    "industry": "finance",
+    "occupationalCategory": "Investment Banker",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Referral bonus program, Competitive salary with performance-linked incentives, Modern office with recreational facilities, Comprehensive health insurance for self and family, Employee stock options (ESOPs) for eligible roles, Annual performance appraisal"
+  },
+  "meta": {
+    "description": "We at BSE are looking for an experienced Investment Banker based out of Navi Mumbai. If you are a result-oriented professional with a passion for excellence, we",
+    "keywords": "Investment Banker, BSE, jobs in Navi Mumbai, Maharashtra jobs, finance jobs India, Forecasting, Income Tax, Ind AS, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:32:21.841Z",
+  "page": 49
+}
