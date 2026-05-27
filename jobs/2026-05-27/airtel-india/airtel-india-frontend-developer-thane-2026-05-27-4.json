@@ -1,0 +1,93 @@
+{
+  "slug": "airtel-india-frontend-developer-thane-2026-05-27-4",
+  "title": "Mid-Level Frontend Developer at Airtel India",
+  "company": "Airtel India",
+  "industry": "technology",
+  "role": "Frontend Developer",
+  "location": {
+    "city": "Thane",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Hybrid",
+  "jobType": "Internship",
+  "experience": "12-20 years",
+  "salary": "35 LPA - 70 LPA",
+  "skills": [
+    "Agile/Scrum",
+    "MongoDB",
+    "Docker",
+    "Git",
+    "TypeScript",
+    "Python",
+    "Microservices",
+    "CI/CD"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Mid-Level Frontend Developer at Airtel India",
+    "description": "Join the Airtel India family as a Frontend Developer in Thane. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout Airtel India:\nAirtel India is a leading organization in the Hybrid sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Collaborate with cross-functional teams including product, design, and QA\n• Mentor junior developers and conduct knowledge-sharing sessions\n• Design, develop and maintain scalable software applications\n• Work with agile methodologies including daily stand-ups and sprint planning\n• Ensure code security and follow best practices for data protection\n• Optimize application performance and ensure high availability\n• Write and execute unit tests and integration tests\n\nRequired Skills & Qualifications:\n• MBBS / MD / MS from recognized medical college\n• 12-20 years of relevant experience\n• Proficiency in Agile/Scrum\n• Proficiency in MongoDB\n• Proficiency in Docker\n• Proficiency in Git\n• Proficiency in TypeScript\n• Proficiency in Python\n• Proficiency in Microservices\n• Proficiency in CI/CD\n\nWork Mode: Hybrid - Flexible work-from-home and office\n\nWhat We Offer:\n• Learning & development budget\n• Annual paid leaves and casual leaves\n• Maternity and paternity leave\n• Company-sponsored certifications\n• Meal coupons and food allowance\n• Competitive salary with performance-linked incentives\n• Salary Range: 35 LPA - 70 LPA per annum\n\nLocation: Thane, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Airtel India!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Airtel India",
+      "value": "83-4-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "INTERNSHIP",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Airtel India",
+      "sameAs": "https://www.google.com/search?q=Airtel%20India",
+      "logo": "https://logo.clearbit.com/airtelindia.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Airtel India Office",
+        "addressLocality": "Thane",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 3500000,
+        "maxValue": 7000000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 144
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MBBS / MD / MS from recognized medical college"
+    },
+    "skills": "Agile/Scrum, MongoDB, Docker, Git, TypeScript, Python, Microservices, CI/CD",
+    "responsibilities": "Collaborate with cross-functional teams including product, design, and QA. Mentor junior developers and conduct knowledge-sharing sessions. Design, develop and maintain scalable software applications. Work with agile methodologies including daily stand-ups and sprint planning. Ensure code security and follow best practices for data protection. Optimize application performance and ensure high availability. Write and execute unit tests and integration tests",
+    "benefits": "Learning & development budget. Annual paid leaves and casual leaves. Maternity and paternity leave. Company-sponsored certifications. Meal coupons and food allowance. Competitive salary with performance-linked incentives",
+    "industry": "technology",
+    "occupationalCategory": "Frontend Developer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Learning & development budget, Annual paid leaves and casual leaves, Maternity and paternity leave, Company-sponsored certifications, Meal coupons and food allowance, Competitive salary with performance-linked incentives"
+  },
+  "meta": {
+    "description": "Join the Airtel India family as a Frontend Developer in Thane. We believe in empowering our employees with the tools, training, and environment they need to suc",
+    "keywords": "Frontend Developer, Airtel India, jobs in Thane, Maharashtra jobs, technology jobs India, Agile/Scrum, MongoDB, Docker, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:26:53.721Z",
+  "page": 20
+}

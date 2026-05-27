@@ -1,0 +1,94 @@
+{
+  "slug": "bsnl-senior-software-engineer-nagpur-2026-05-27-1",
+  "title": "Senior Software Engineer - BSNL - Experienced Professionals",
+  "company": "BSNL",
+  "industry": "technology",
+  "role": "Senior Software Engineer",
+  "location": {
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "region": "Western India"
+  },
+  "workMode": "Remote",
+  "jobType": "Contract",
+  "experience": "10-15 years",
+  "salary": "20 LPA - 40 LPA",
+  "skills": [
+    "MongoDB",
+    "Microservices",
+    "Java",
+    "Rust",
+    "React",
+    "TypeScript",
+    "AWS",
+    "Git"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Senior Software Engineer - BSNL - Experienced Professionals",
+    "description": "Join the BSNL family as a Senior Software Engineer in Nagpur. We believe in empowering our employees with the tools, training, and environment they need to succeed.\n\nAbout BSNL:\nBSNL is a leading organization in the Remote sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Participate in on-call rotation for production support\n• Troubleshoot, debug, and resolve software defects and performance issues\n• Design, develop and maintain scalable software applications\n• Optimize application performance and ensure high availability\n• Implement new features based on product requirements\n• Collaborate with cross-functional teams including product, design, and QA\n• Ensure code security and follow best practices for data protection\n\nRequired Skills & Qualifications:\n• Master's degree preferred\n• 10-15 years of relevant experience\n• Proficiency in MongoDB\n• Proficiency in Microservices\n• Proficiency in Java\n• Proficiency in Rust\n• Proficiency in React\n• Proficiency in TypeScript\n• Proficiency in AWS\n• Proficiency in Git\n\nWork Mode: Remote - Work from anywhere in India\n\nWhat We Offer:\n• Comprehensive health insurance for self and family\n• Company-sponsored certifications\n• Recognition and rewards programs\n• Annual paid leaves and casual leaves\n• Work-from-home flexibility\n• International travel opportunities for senior roles\n• Salary Range: 20 LPA - 40 LPA per annum\n\nLocation: Nagpur, Maharashtra, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with BSNL!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "BSNL",
+      "value": "82-1-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "CONTRACT",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "BSNL",
+      "sameAs": "https://www.google.com/search?q=BSNL",
+      "logo": "https://logo.clearbit.com/bsnl.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "BSNL Office",
+        "addressLocality": "Nagpur",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 2000000,
+        "maxValue": 4000000,
+        "unitText": "YEAR"
+      }
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 120
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Master's degree preferred"
+    },
+    "skills": "MongoDB, Microservices, Java, Rust, React, TypeScript, AWS, Git",
+    "responsibilities": "Participate in on-call rotation for production support. Troubleshoot, debug, and resolve software defects and performance issues. Design, develop and maintain scalable software applications. Optimize application performance and ensure high availability. Implement new features based on product requirements. Collaborate with cross-functional teams including product, design, and QA. Ensure code security and follow best practices for data protection",
+    "benefits": "Comprehensive health insurance for self and family. Company-sponsored certifications. Recognition and rewards programs. Annual paid leaves and casual leaves. Work-from-home flexibility. International travel opportunities for senior roles",
+    "industry": "technology",
+    "occupationalCategory": "Senior Software Engineer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Comprehensive health insurance for self and family, Company-sponsored certifications, Recognition and rewards programs, Annual paid leaves and casual leaves, Work-from-home flexibility, International travel opportunities for senior roles"
+  },
+  "meta": {
+    "description": "Join the BSNL family as a Senior Software Engineer in Nagpur. We believe in empowering our employees with the tools, training, and environment they need to succ",
+    "keywords": "Senior Software Engineer, BSNL, jobs in Nagpur, Maharashtra jobs, technology jobs India, MongoDB, Microservices, Java, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:26:53.720Z",
+  "page": 20
+}
