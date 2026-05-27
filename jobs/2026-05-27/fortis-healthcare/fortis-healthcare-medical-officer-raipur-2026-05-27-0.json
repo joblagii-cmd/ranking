@@ -1,0 +1,93 @@
+{
+  "slug": "fortis-healthcare-medical-officer-raipur-2026-05-27-0",
+  "title": "Career Opportunity Medical Officer at Fortis Healthcare",
+  "company": "Fortis Healthcare",
+  "industry": "healthcare",
+  "role": "Medical Officer",
+  "location": {
+    "city": "Raipur",
+    "state": "Chhattisgarh",
+    "region": "Central India"
+  },
+  "workMode": "On-site",
+  "jobType": "Temporary",
+  "experience": "6-10 years",
+  "salary": "12 LPA - 25 LPA",
+  "skills": [
+    "EMR/EHR",
+    "Medical Coding",
+    "ICD-10",
+    "Clinical Research",
+    "Wound Care",
+    "NABH Standards",
+    "Infection Control",
+    "Diagnostic Skills"
+  ],
+  "datePosted": "2026-05-27",
+  "validThrough": "2026-06-26",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "JobPosting",
+    "title": "Career Opportunity Medical Officer at Fortis Healthcare",
+    "description": "We at Fortis Healthcare are looking for an experienced Medical Officer based out of Raipur. If you are a result-oriented professional with a passion for excellence, we want to hear from you.\n\nAbout Fortis Healthcare:\nFortis Healthcare is a leading organization in the On-site sector, committed to excellence, innovation, and employee growth. We offer a dynamic work environment where talent is recognized and rewarded.\n\nKey Responsibilities:\n• Provide high-quality patient care and maintain patient records\n• Adhere to NABH/JCI accreditation standards\n• Diagnose and treat medical conditions following established protocols\n• Collaborate with pharmaceutical representatives and medical suppliers\n• Ensure patient privacy and maintain confidentiality\n• Coordinate with multidisciplinary teams for comprehensive patient management\n• Monitor patient progress and adjust treatment plans accordingly\n\nRequired Skills & Qualifications:\n• Any graduate with relevant experience\n• 6-10 years of relevant experience\n• Proficiency in EMR/EHR\n• Proficiency in Medical Coding\n• Proficiency in ICD-10\n• Proficiency in Clinical Research\n• Proficiency in Wound Care\n• Proficiency in NABH Standards\n• Proficiency in Infection Control\n• Proficiency in Diagnostic Skills\n\nWork Mode: On-site - Work from our office\n\nWhat We Offer:\n• Annual performance appraisal\n• Professional development and training programs\n• Competitive salary with performance-linked incentives\n• Referral bonus program\n• Modern office with recreational facilities\n• Meal coupons and food allowance\n• Salary Range: 12 LPA - 25 LPA per annum\n\nLocation: Raipur, Chhattisgarh, India\n\nIf you are excited about this opportunity, apply now and take the next step in your career journey with Fortis Healthcare!",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Fortis Healthcare",
+      "value": "217-0-20260527"
+    },
+    "datePosted": "2026-05-27",
+    "validThrough": "2026-06-26",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Fortis Healthcare",
+      "sameAs": "https://www.google.com/search?q=Fortis%20Healthcare",
+      "logo": "https://logo.clearbit.com/fortishealthcare.com"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Fortis Healthcare Office",
+        "addressLocality": "Raipur",
+        "addressRegion": "Chhattisgarh",
+        "addressCountry": "IN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 1200000,
+        "maxValue": 2500000,
+        "unitText": "YEAR"
+      }
+    },
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 72
+    },
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Any graduate with relevant experience"
+    },
+    "skills": "EMR/EHR, Medical Coding, ICD-10, Clinical Research, Wound Care, NABH Standards, Infection Control, Diagnostic Skills",
+    "responsibilities": "Provide high-quality patient care and maintain patient records. Adhere to NABH/JCI accreditation standards. Diagnose and treat medical conditions following established protocols. Collaborate with pharmaceutical representatives and medical suppliers. Ensure patient privacy and maintain confidentiality. Coordinate with multidisciplinary teams for comprehensive patient management. Monitor patient progress and adjust treatment plans accordingly",
+    "benefits": "Annual performance appraisal. Professional development and training programs. Competitive salary with performance-linked incentives. Referral bonus program. Modern office with recreational facilities. Meal coupons and food allowance",
+    "industry": "healthcare",
+    "occupationalCategory": "Medical Officer",
+    "workHours": "40 hours per week",
+    "jobBenefits": "Annual performance appraisal, Professional development and training programs, Competitive salary with performance-linked incentives, Referral bonus program, Modern office with recreational facilities, Meal coupons and food allowance"
+  },
+  "meta": {
+    "description": "We at Fortis Healthcare are looking for an experienced Medical Officer based out of Raipur. If you are a result-oriented professional with a passion for excelle",
+    "keywords": "Medical Officer, Fortis Healthcare, jobs in Raipur, Chhattisgarh jobs, healthcare jobs India, EMR/EHR, Medical Coding, ICD-10, hiring 2026"
+  },
+  "generatedAt": "2026-05-27T09:33:18.986Z",
+  "page": 54
+}
