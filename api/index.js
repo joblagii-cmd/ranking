@@ -104,6 +104,7 @@ function renderHTML(jobs, total, todayStr, actualDate, page, search, industry, i
 <html lang="en">
 <head>
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="google-site-verification" content="9jFgTVeWd6lIyuth91m1WDwx62v47MbqrZ03lndiwzc" />
 <title>JobLagii - Find Jobs in India | 25,000+ Daily Job Postings</title>
 <meta name="google-site-verification" content="6TO8Wo25PZGTYgT5AiRwIYIZBR-SNls-PvS03rjww8w" />
 <meta name="google-site-verification" content="mhwuIuZvhxIUI-g2YK2o1tfhIy8tt1J2VaZ3Yr9PwOo" />
