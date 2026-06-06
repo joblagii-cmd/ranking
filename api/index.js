@@ -3,6 +3,46 @@
 const GITHUB_RAW = "https://raw.githubusercontent.com";
 const GITHUB_API = "https://api.github.com";
 
+// Domain-specific ad configurations
+const adConfigs = {
+  "ranking-mu-eosin.vercel.app": {
+    key: "b32e029816324c0f01ed6943e0f0c3ab",
+    format: "iframe",
+    height: 90,
+    width: 728
+  },
+  "jobsnearme.dpsbahadurgarh.com": {
+    key: "fd571fb60f76ce8e2828ad28e90abc5e",
+    format: "iframe",
+    height: 90,
+    width: 728
+  },
+  "jobsnearme.carrilloadventures.com": {
+    key: "7bc5d7ec66f9b5dc387551d438bb4d2e",
+    format: "iframe",
+    height: 90,
+    width: 728
+  }
+};
+
+function getAdScriptForDomain(hostname) {
+  const config = adConfigs[hostname];
+  if (!config) return null;
+  
+  return `
+    <script>
+      atOptions = {
+        'key' : '${config.key}',
+        'format' : '${config.format}',
+        'height' : ${config.height},
+        'width' : ${config.width},
+        'params' : {}
+      };
+    </script>
+    <script src="https://www.highperformanceformat.com/${config.key}/invoke.js"></script>
+  `;
+}
+
 async function getJobsForDate(owner, repo, token, date, page = 1, limit = 20, search = "", industry = "") {
   try {
     // Get company folders for this date
@@ -67,7 +107,7 @@ function getYesterday(dateStr) {
   return d.toISOString().split("T")[0];
 }
 
-function renderHTML(jobs, total, todayStr, actualDate, page, search, industry, isFallback) {
+function renderHTML(jobs, total, todayStr, actualDate, page, search, industry, isFallback, adScript) {
   const limit = 20;
   const totalPages = Math.ceil(total / limit);
   const industries = ["technology","finance","healthcare","ecommerce","manufacturing","education","retail","realestate","logistics","hospitality"];
@@ -99,6 +139,19 @@ function renderHTML(jobs, total, todayStr, actualDate, page, search, industry, i
   </div>` : "";
 
   const fallbackBanner = isFallback ? `<div class="fallback-banner">⏳ Today's jobs are being generated — showing latest posts from ${actualDate}. Fresh jobs will appear shortly!</div>` : "";
+
+  // Create ad HTML if ad script exists
+  const adHtml = adScript ? `
+    <div class="ad-container ad-top">
+      ${adScript}
+    </div>
+  ` : '';
+
+  const footerAdHtml = adScript ? `
+    <div class="ad-container ad-footer">
+      ${adScript}
+    </div>
+  ` : '';
 
   return `<!DOCTYPE html>
 <html lang="en">
@@ -148,7 +201,10 @@ function renderHTML(jobs, total, todayStr, actualDate, page, search, industry, i
 .no-jobs{text-align:center;padding:4rem 2rem;color:#64748B}
 .no-jobs h3{font-size:1.25rem;margin-bottom:0.5rem;color:#1E293B}
 .footer{background:#1E293B;color:#94A3B8;text-align:center;padding:2rem;margin-top:4rem;font-size:0.9rem}
-@media(max-width:600px){.hero h1{font-size:1.75rem}.jobs-grid{grid-template-columns:1fr}.stats-bar{gap:1rem}}
+.ad-container{display:flex;justify-content:center;align-items:center;margin:1rem auto;padding:0.5rem;background:#f9f9f9;border-radius:8px}
+.ad-top{margin:1rem auto 0 auto;max-width:728px}
+.ad-footer{margin:2rem auto 1rem auto;max-width:728px}
+@media(max-width:600px){.hero h1{font-size:1.75rem}.jobs-grid{grid-template-columns:1fr}.stats-bar{gap:1rem}.ad-container{transform:scale(0.9)}}
 </style>
 </head>
 <body>
@@ -160,6 +216,7 @@ function renderHTML(jobs, total, todayStr, actualDate, page, search, industry, i
     <a href="/jobs">💼 Jobs</a>
   </nav>
 </header>
+${adHtml}
 <div class="hero">
   <h1>Find Jobs in <span>India</span></h1>
   <p>25,000+ fresh job postings daily from 5,000 top companies</p>
@@ -181,6 +238,7 @@ ${fallbackBanner}
   <h2 class="section-title">${search||industry?`Search Results ${jobs.length>0?`(${total.toLocaleString()} found)`:""}`:"Latest Job Openings"}</h2>
   ${jobs.length>0?`<div class="jobs-grid">${jobCards}</div>${pagination}`:`<div class="no-jobs"><h3>No jobs found</h3><p>Try a different search term or industry filter</p></div>`}
 </div>
+${footerAdHtml}
 <footer class="footer">
   <p>JobLagii — 25,000 fresh job postings daily across India</p>
   <p style="margin-top:0.5rem">Technology • Finance • Healthcare • E-commerce • Manufacturing • Education • Retail • Real Estate • Logistics • Hospitality</p>
@@ -191,6 +249,13 @@ ${fallbackBanner}
 export default async function handler(req, res) {
   const { GITHUB_TOKEN, GITHUB_OWNER, GITHUB_REPO } = process.env;
   if (!GITHUB_TOKEN || !GITHUB_OWNER || !GITHUB_REPO) return res.status(500).send("Missing environment variables");
+
+  // Get the domain/hostname from request
+  const hostname = req.headers.host || req.headers['x-forwarded-host'] || '';
+  const domain = hostname.split(':')[0]; // Remove port if present
+  
+  // Get ad script for this specific domain (only if it matches one of the three)
+  const adScript = getAdScriptForDomain(domain);
 
   const now = new Date();
   const ist = new Date(now.getTime() + 5.5 * 60 * 60 * 1000);
@@ -214,5 +279,5 @@ export default async function handler(req, res) {
 
   res.setHeader("Content-Type", "text/html");
   res.setHeader("Cache-Control", "s-maxage=120");
-  return res.status(200).send(renderHTML(jobs, total, todayStr, actualDate, page, search, industry, isFallback));
+  return res.status(200).send(renderHTML(jobs, total, todayStr, actualDate, page, search, industry, isFallback, adScript));
 }
