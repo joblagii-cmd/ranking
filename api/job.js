@@ -2,12 +2,59 @@
 
 const GITHUB_RAW = "https://raw.githubusercontent.com";
 
+// Domain-specific ad configurations (same as index.js)
+const adConfigs = {
+  "ranking-mu-eosin.vercel.app": {
+    key: "b32e029816324c0f01ed6943e0f0c3ab",
+    format: "iframe",
+    height: 90,
+    width: 728
+  },
+  "jobsnearme.dpsbahadurgarh.com": {
+    key: "fd571fb60f76ce8e2828ad28e90abc5e",
+    format: "iframe",
+    height: 90,
+    width: 728
+  },
+  "jobsnearme.carrilloadventures.com": {
+    key: "7bc5d7ec66f9b5dc387551d438bb4d2e",
+    format: "iframe",
+    height: 90,
+    width: 728
+  }
+};
+
+function getAdScriptForDomain(hostname) {
+  const config = adConfigs[hostname];
+  if (!config) return null;
+  
+  return `
+    <script>
+      atOptions = {
+        'key' : '${config.key}',
+        'format' : '${config.format}',
+        'height' : ${config.height},
+        'width' : ${config.width},
+        'params' : {}
+      };
+    </script>
+    <script src="https://www.highperformanceformat.com/${config.key}/invoke.js"></script>
+  `;
+}
+
 export default async function handler(req, res) {
   const { GITHUB_TOKEN, GITHUB_OWNER, GITHUB_REPO } = process.env;
 
   if (!GITHUB_TOKEN || !GITHUB_OWNER || !GITHUB_REPO) {
     return res.status(500).send("Missing environment variables");
   }
+
+  // Get the domain/hostname from request
+  const hostname = req.headers.host || req.headers['x-forwarded-host'] || '';
+  const domain = hostname.split(':')[0]; // Remove port if present
+  
+  // Get ad script for this specific domain
+  const adScript = getAdScriptForDomain(domain);
 
   const { path } = req.query;
   if (!path) return res.status(400).send("Missing path parameter");
@@ -17,10 +64,10 @@ export default async function handler(req, res) {
       headers: { Authorization: `token ${GITHUB_TOKEN}` }
     });
 
-    if (!jobRes.ok) return res.status(404).send(render404());
+    if (!jobRes.ok) return res.status(404).send(render404(adScript, domain));
 
     const job = await jobRes.json();
-    const html = renderJobPage(job);
+    const html = renderJobPage(job, adScript, domain);
 
     res.setHeader("Content-Type", "text/html");
     res.setHeader("Cache-Control", "s-maxage=3600");
@@ -30,14 +77,36 @@ export default async function handler(req, res) {
   }
 }
 
-function render404() {
-  return `<!DOCTYPE html><html><head><title>Job Not Found</title></head>
-  <body style="font-family:sans-serif;text-align:center;padding:4rem">
-  <h1>Job Not Found</h1><p><a href="/api/index">← Back to Jobs</a></p>
+function render404(adScript, domain) {
+  const adHtml = adScript ? `
+    <div class="ad-container ad-top">
+      ${adScript}
+    </div>
+  ` : '';
+  
+  const footerAdHtml = adScript ? `
+    <div class="ad-container ad-footer">
+      ${adScript}
+    </div>
+  ` : '';
+
+  return `<!DOCTYPE html><html><head><title>Job Not Found</title>
+  <style>
+    body{font-family:sans-serif;text-align:center;padding:4rem}
+    .ad-container{display:flex;justify-content:center;align-items:center;margin:1rem auto;padding:0.5rem}
+    .ad-top{margin:1rem auto 0 auto;max-width:728px}
+    .ad-footer{margin:2rem auto 1rem auto;max-width:728px}
+  </style>
+  </head>
+  <body>
+  ${adHtml}
+  <h1>Job Not Found</h1>
+  <p><a href="/api/index">← Back to Jobs</a></p>
+  ${footerAdHtml}
   </body></html>`;
 }
 
-function renderJobPage(job) {
+function renderJobPage(job, adScript, domain) {
   const jsonLd = JSON.stringify(job.jsonLd || {}, null, 2);
   const cityState = job.location ? `${job.location.city}, ${job.location.state}` : "India";
   const skills = (job.skills || []).map(s => `<span class="skill-tag">${s}</span>`).join("");
@@ -55,6 +124,19 @@ function renderJobPage(job) {
 
   const benefits = description.match(/What We Offer:([\s\S]*?)(?:Salary Range|Location|$)/)?.[1]
     ?.split("\n").filter(l => l.trim().startsWith("•")).map(l => `<li>${l.replace("•", "").trim()}</li>`).join("") || "";
+
+  // Create ad HTML if ad script exists
+  const adHtml = adScript ? `
+    <div class="ad-container ad-top">
+      ${adScript}
+    </div>
+  ` : '';
+
+  const footerAdHtml = adScript ? `
+    <div class="ad-container ad-footer">
+      ${adScript}
+    </div>
+  ` : '';
 
   return `<!DOCTYPE html>
 <html lang="en">
@@ -115,11 +197,15 @@ body { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; backg
 .schema-card h4 { font-size:0.85rem; font-weight:700; color:#64748B; margin-bottom:0.75rem; text-transform:uppercase; letter-spacing:0.05em; }
 .schema-badge { display:inline-flex; align-items:center; gap:0.4rem; background:#D1FAE5; color:#065F46; padding:5px 12px; border-radius:8px; font-size:0.8rem; font-weight:600; }
 .footer { background:#1E293B; color:#94A3B8; text-align:center; padding:2rem; margin-top:3rem; font-size:0.85rem; }
+.ad-container { display:flex; justify-content:center; align-items:center; margin:1rem auto; padding:0.5rem; background:#f9f9f9; border-radius:8px; }
+.ad-top { margin:0 auto; max-width:728px; padding-top:0.5rem; }
+.ad-footer { margin:1rem auto; max-width:728px; padding-bottom:0.5rem; }
 @media(max-width:768px) {
   .main { grid-template-columns:1fr; }
   .sidebar { order:-1; }
   .apply-card { position:static; }
   .meta-grid { grid-template-columns:1fr; }
+  .ad-container { transform:scale(0.9); }
 }
 </style>
 </head>
@@ -129,6 +215,8 @@ body { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; backg
   <a href="/api/index" class="logo">JobLagii 🇮🇳</a>
   <a href="/api/index" class="back-btn">← Back to Jobs</a>
 </header>
+
+${adHtml}
 
 <div class="main">
   <div class="job-content">
@@ -213,6 +301,8 @@ body { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; backg
     </div>
   </div>
 </div>
+
+${footerAdHtml}
 
 <footer class="footer">
   <p>JobLagii — 25,000 fresh job postings daily across India</p>
